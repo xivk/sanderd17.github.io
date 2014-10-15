@@ -12,17 +12,16 @@ var streets; // var filled by the inline script in the pcode.html page
  */
 function addCrabInfo(sanName, pcode, crabInfo) {
 	var req = new XMLHttpRequest();
+	req.overrideMimeType("application/json");
 	req.onreadystatechange = function()
 	{
 		if (req.readyState != 4)
 			return;
-		if (req.status != 200)
-			return;
 		var data = JSON.parse(req.responseText);
 
 		if (!crabInfo[data.pcode])
-		crabInfo[data.pcode] = {};
-		crabInfo[data.pcode][data.name] = data.addresses;
+			crabInfo[pcode] = {};
+		crabInfo[pcode][sanName] = data.addresses;
 	};
 	req.open("GET", pcode + "/" + sanName + ".json", true);
 	req.send(null);
@@ -57,12 +56,12 @@ function createDocument(pcode, id)
 function getOsmInfo(pcode, osmInfo) {
 	var query = [
 		'[out:json];',
-/*		'area["boundary"="administrative"]["addr:postcode"="' + pcode + '"]->.area;',
+		'area["boundary"="administrative"]["addr:postcode"="' + pcode + '"]->.area;',
 		'(',
 			'node["addr:housenumber"](area.area);',
 			'way["addr:housenumber"](area.area);',
 			'relation["addr:housenumber"](area.area);',
-		');',*/
+		');',
 		'out center;'
 	].join("");
 	var req = new XMLHttpRequest();
@@ -94,7 +93,7 @@ function getOsmInfo(pcode, osmInfo) {
 			addr.street = data[i].tags["addr:street"];
 			osmInfo.push(addr);
 		}
-		compareData();
+		compareData(pcode);
 	}
 	req.open("GET", overpassapi + encodeURIComponent(query), true);
 	req.send(null);
@@ -103,32 +102,32 @@ function getOsmInfo(pcode, osmInfo) {
 /**
  * This function assumes all crab data and the osm data is loaded
  */
-function compareData() {
+function compareData(pcode) {
 	missingAddr = {};
 	wrongAddr = {};
 	for (var i = 0; i < streets.length; i++)
 	{
 		var street = streets[i];
-		if (!missingAddr[street.pcode])
+		if (!missingAddr[pcode])
 		{
-			missingAddr[street.pcode] = {};
-			wrongAddr[street.pcode] = {};
+			missingAddr[pcode] = {};
+			wrongAddr[pcode] = {};
 		}
 
 		// get the list with all housenumbers in this street from the two sources
-		var crabStreet = crabInfo[street.pcode][street.sanName];
+		var crabStreet = crabInfo[pcode][street.sanName];
 		var re = new RegExp("^" + street.name.replace(".",".*") + "$");
 		var osmStreet = osmInfo.filter(function(addr) {
 			return re.test(addr.street);
 		});
-
+		
 		// Matches in one direction
-		missingAddr[street.pcode][street.sanName] = compareHnr(crabStreet, osmStreet);
-		wrongAddr[street.pcode][street.sanName] = compareHnr(osmStreet, crabStreet);
+		missingAddr[pcode][street.sanName] = compareHnr(crabStreet, osmStreet);
+		wrongAddr[pcode][street.sanName] = compareHnr(osmStreet, crabStreet);
 
-		document.getElementById(street.pcode + '-' + street.sanName + '-total').innerHTML = crabStreet.length;
-		document.getElementById(street.pcode + '-' + street.sanName + '-missing').innerHTML = missingAddr[street.pcode][street.sanName].length;
-		document.getElementById(street.pcode + '-' + street.sanName + '-wrong').innerHTML = wrongAddr[street.pcode][street.sanName].length;
+		document.getElementById(pcode + '-' + street.sanName + '-total').innerHTML = crabStreet.length;
+		document.getElementById(pcode + '-' + street.sanName + '-missing').innerHTML = missingAddr[pcode][street.sanName].length;
+		document.getElementById(pcode + '-' + street.sanName + '-wrong').innerHTML = wrongAddr[pcode][street.sanName].length;
 	}
 }
 
