@@ -25,7 +25,7 @@ function addCrabInfo(sanName, pcode, crabInfo) {
 		crabInfo[data.pcode] = {};
 		crabInfo[data.pcode][data.name] = data.addresses;
 	};
-	req.open("GET", dataSite + pcode + "/" + sanName + ".json", true);
+	req.open("GET", pcode + "/" + sanName + ".json", true);
 	req.send(null);
 }
 
