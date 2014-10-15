@@ -1,9 +1,9 @@
 var dataSite = "https://raw.githubusercontent.com/sanderd17/flanders_addr_export/master/";
 
 /**
- * Add the street info for that certain streetname and pcode to the return object
+ * Add the street info for that certain streetname and pcode to the context object
  */
-function addCrabInfo(sanName, pcode, ret) {
+function addCrabInfo(sanName, pcode, data) {
 	var req = new XMLHttpRequest();
 	req.onreadystatechange = function()
 	{
@@ -11,14 +11,16 @@ function addCrabInfo(sanName, pcode, ret) {
 			return;
 		if (req.status != 200)
 			return;
-		var data = JSON.parse(req.responseText);
-		if (!ret[data.pcode])
-			ret[data.pcode] = {};
-		ret[data.pcode][data.name] = data.addresses;
+		var dnlData = JSON.parse(req.responseText);
+
+		if (!data[dnlData.pcode])
+			data[dnlData.pcode] = {};
+		data[dnlData.pcode][data.name] = data.addresses;
 	};
 	req.open("GET", dataSite + pcode + "/" + sanName + "/" + ".json", true)
 	req.send(null)
 }
+
 
 /**
  * Get the data from overpass, ret should be an empty array
