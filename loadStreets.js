@@ -1,12 +1,11 @@
 
-var dataSite = "https://raw.githubusercontent.com/sanderd17/flanders_addr_export/master/";
 var overpassapi = "http://overpass-api.de/api/interpreter?data=";
 
-var crabInfo;
-var osmInfo;
+var crabInfo = {};
+var osmInfo = [];
 var missingAddr;
 var wrongAddr;
-var streets;
+var streets; // var filled by the inline script in the pcode.html page
 
 /**
  * Add the street info for that certain streetname and pcode to the context object
@@ -45,14 +44,10 @@ function createDocument(pcode, id)
 		html += '<td id="' + pcode + '-' + street.sanName + '-wrong"></td>\n';
 		html += '</tr>\n';
 		// Also import the actual CRAB data
-		if (!crabInfo)
-			crabInfo = {};
 		addCrabInfo(street.sanName, pcode, crabInfo);
 	}
 	document.getElementById(id).innerHTML = html;
 	// Load osm data
-	if (!osmInfo)
-		osmInfo = [];
 	getOsmInfo(pcode, osmInfo);
 }
 
@@ -61,8 +56,8 @@ function createDocument(pcode, id)
  */
 function getOsmInfo(pcode, osmInfo) {
 	var query = [
-/*		'[out:json];',
-		'area["boundary"="administrative"]["addr:postcode"="' + pcode + '"]->.area;',
+		'[out:json];',
+/*		'area["boundary"="administrative"]["addr:postcode"="' + pcode + '"]->.area;',
 		'(',
 			'node["addr:housenumber"](area.area);',
 			'way["addr:housenumber"](area.area);',
