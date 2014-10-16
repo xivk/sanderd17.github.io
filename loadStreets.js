@@ -125,11 +125,20 @@ function compareData(pcode) {
 		missingAddr[pcode][street.sanName] = compareHnr(crabStreet, osmStreet);
 		wrongAddr[pcode][street.sanName] = compareHnr(osmStreet, crabStreet);
 
-		document.getElementById(pcode + '-' + street.sanName + '-total').innerHTML = crabStreet.length;
-		document.getElementById(pcode + '-' + street.sanName + '-missing').innerHTML = missingAddr[pcode][street.sanName].length;
-		document.getElementById(pcode + '-' + street.sanName + '-wrong').innerHTML = wrongAddr[pcode][street.sanName].length;
+		var selection = "[" + pcode + "]['" + street.sanName + "']";
+		var htmlStart = '<a href="#" onclick="createAndOpenOsmFile(';
+
+		// Create links like
+		// <a href="#" onclick="createAndOpenOsmFile(obj[pcode][name])" download="file.osm">n</a>
+		document.getElementById(pcode + '-' + street.sanName + '-total').innerHTML = 
+			htmlStart + "crabInfo" + selection + ')" download="' + street.sanName + '_full.osm">' + crabStreet.length + '</a>';
+		document.getElementById(pcode + '-' + street.sanName + '-missing').innerHTML = 
+			htmlStart + "missingAddr" + selection + ')" download="' + street.sanName + '_missing.osm">' + missingAddr[pcode][street.sanName].length + '</a>';
+		document.getElementById(pcode + '-' + street.sanName + '-wrong').innerHTML = 
+			htmlStart + "wrongAddr" + selection + ')" download="' + street.sanName + '_missing.osm">' + wrongAddr[pcode][street.sanName].length + '</a>';
 	}
 }
+
 
 function compareHnr(source, comp) {
 	var diffList = []
@@ -143,4 +152,26 @@ function compareHnr(source, comp) {
 			diffList.push(source[i]);
 	}
 	return diffList;
+}
+
+function createAndOpenOsmFile(data, message)
+{
+	var timeStr = (new Date()).toISOString();
+	var str = "<?xml version='1.0' encoding='utf-8'?>";
+	str+= "<osm version='0.6' generator='flanders-addr-import'>\n";
+	for (var i = 0; i < data.length; i++)
+	{
+		var addr = data[i];
+		if (!addr.lat)
+			continue;
+		str += "  <node id='" + (-i-1) + "' lat='" + addr.lat + "' lon='" + 3.2346396 + "' version='0' timestamp='" + timeStr + "' uid='1' user=''>\n";
+		str += "    <tag k='addr:housenumber' v='" + addr.housenumber + "'/>\n";
+		str += "    <tag k='addr:street' v='" + addr.street + "'/>\n";
+		if (message)
+			str += "    <tag k='fixme' v='" + message + "'/>\n";
+		str += "  </node>\n";
+	}
+	str += "</osm>\n";
+	var dataURI = 'data:application/xml;charset=utf-8,' + encodeURIComponent(str);
+	window.open('http://localhost:8111/import?new_layer=true&url=' + dataURI);
 }
