@@ -6,6 +6,7 @@ var osmInfo = [];
 var missingAddr;
 var wrongAddr;
 var streets; // var filled by the inline script in the pcode.html page
+var finished = {};
 
 /**
  * Add the street info for that certain streetname and pcode to the context object
@@ -22,6 +23,8 @@ function addCrabInfo(sanName, pcode, crabInfo) {
 		if (!crabInfo[data.pcode])
 			crabInfo[pcode] = {};
 		crabInfo[pcode][sanName] = data.addresses;
+		finished[sanName] = true;
+		finishLoading(pcode);
 	};
 	req.open("GET", pcode + "/" + sanName + ".json", true);
 	req.send(null);
@@ -43,11 +46,24 @@ function createDocument(pcode, id)
 		html += '<td id="' + pcode + '-' + street.sanName + '-wrong"></td>\n';
 		html += '</tr>\n';
 		// Also import the actual CRAB data
+		finished[street.sanName] = false;
 		addCrabInfo(street.sanName, pcode, crabInfo);
 	}
 	document.getElementById(id).innerHTML = html;
 	// Load osm data
+	finished["#osm"] = false;
 	getOsmInfo(pcode, osmInfo);
+}
+
+/**
+ * Check if everything is loaded, then finish everything
+ */
+function finishLoading(pcode)
+{
+	for (var k in finished)
+		if (!finished[k])
+			return;
+	compareData(pcode);
 }
 
 /**
@@ -93,7 +109,8 @@ function getOsmInfo(pcode, osmInfo) {
 			addr.street = data[i].tags["addr:street"];
 			osmInfo.push(addr);
 		}
-		compareData(pcode);
+		finished["#osm"] = true;
+		finishLoading(pcode);
 	}
 	req.open("GET", overpassapi + encodeURIComponent(query), true);
 	req.send(null);
