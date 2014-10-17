@@ -142,17 +142,18 @@ function compareData(pcode) {
 		missingAddr[pcode][street.sanName] = compareHnr(crabStreet, osmStreet);
 		wrongAddr[pcode][street.sanName] = compareHnr(osmStreet, crabStreet);
 
-		var selection = "[" + pcode + "]['" + street.sanName + "']";
-		var htmlStart = '<a href="#" onclick="createAndOpenOsmFile(';
 
 		// Create links like
-		// <a href="#" onclick="createAndOpenOsmFile(obj[pcode][name])" download="file.osm">n</a>
+		// <a href="URI" download="file.osm">n</a>
+		var dataURI =  getOsmURI(crabInfo[pcode][street.sanName]);
 		document.getElementById(pcode + '-' + street.sanName + '-total').innerHTML = 
-			htmlStart + "crabInfo" + selection + ')" download="' + street.sanName + '_full.osm">' + crabStreet.length + '</a>';
+			'<a href="' + dataURI + '" download="' + street.sanName + '_full.osm">' + crabStreet.length + '</a>';
+		dataURI =  getOsmURI(missingAddr[pcode][street.sanName]);
 		document.getElementById(pcode + '-' + street.sanName + '-missing').innerHTML = 
-			htmlStart + "missingAddr" + selection + ')" download="' + street.sanName + '_missing.osm">' + missingAddr[pcode][street.sanName].length + '</a>';
+			'<a href="' + dataURI + '" download="' + street.sanName + '_missing.osm">' + missingAddr[pcode][street.sanName].length + '</a>';
+		dataURI =  getOsmURI(wrongAddr[pcode][street.sanName]);
 		document.getElementById(pcode + '-' + street.sanName + '-wrong').innerHTML = 
-			htmlStart + "wrongAddr" + selection + ')" download="' + street.sanName + '_missing.osm">' + wrongAddr[pcode][street.sanName].length + '</a>';
+			'<a href="' + dataURI + '" download="' + street.sanName + '_wrong.osm">' + wrongAddr[pcode][street.sanName].length + '</a>';
 	}
 }
 
@@ -171,11 +172,12 @@ function compareHnr(source, comp) {
 	return diffList;
 }
 
-function createAndOpenOsmFile(data, message)
+function getOsmURI(data, message)
 {
 	var timeStr = (new Date()).toISOString();
-	var str = "<?xml version='1.0' encoding='utf-8'?>";
-	str+= "<osm version='0.6' generator='flanders-addr-import'>\n";
+	var str = 'data:text/xml;charset=utf-8,';
+	str += "<?xml version='1.0' encoding='utf-8'?>";
+	str += "<osm version='0.6' generator='flanders-addr-import'>\n";
 	for (var i = 0; i < data.length; i++)
 	{
 		var addr = data[i];
@@ -189,6 +191,5 @@ function createAndOpenOsmFile(data, message)
 		str += "  </node>\n";
 	}
 	str += "</osm>\n";
-	var dataURI = 'data:application/xml;charset=utf-8,' + encodeURIComponent(str);
-	window.open('http://localhost:8111/import?new_layer=true&url=' + dataURI);
+	return str;
 }
