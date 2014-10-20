@@ -1,0 +1,22 @@
+<html>
+<head>
+	<title>Addr import</title>
+</head>
+<body>
+
+<button type="button" onclick="updateData()">Update</button><br/>
+
+<table id="streetsTable" border="1">
+	<tr>
+		<th title="Name of the street">Name</th>
+		<th title="Total number of housenumbers">Total</th>
+		<th title="Number of regular housenumbers not present in OSM">Missing</th>
+		<th title="Number of housenumbers that don't have a position in CRAB, and are not present in OSM">Missing w/o pos</th>
+		<th title="Number of housenumbers that are in OSM but have no match in CRAB">Wrong</th>
+	</tr>
+</table>
+
+<script type="text/javascript" src="loadStreets.js"></script>
+
+</body>
+</html>
