@@ -62,7 +62,7 @@ function readPcode()
 		document.getElementById(tableId).innerHTML = html;
 		updateData();
 	}
-	req.open("GET", getPcode() + ".json", true);
+	req.open("GET", "data/" + getPcode() + ".json", true);
 	req.send(null);
 }
 
@@ -88,7 +88,7 @@ function getCrabInfo(num) {
 		finished[num] = true;
 		finishLoading();
 	};
-	req.open("GET", getPcode() + "/" + sanName + ".json", true);
+	req.open("GET", "data/" + getPcode() + "/" + sanName + ".json", true);
 	req.send(null);
 }
 
@@ -314,6 +314,8 @@ var vars = query.split("&");
 for (var i = 0; i < vars.length; i++)
 {
 	var kv = vars[i].split("=");
+	if (kv.length != 2)
+		continue;
 	if (kv[1] == "true")
 		document.getElementById(kv[0]).checked = true;
 	else if (kv[1] == "false")
