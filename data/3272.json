@@ -1,0 +1,634 @@
+{
+  "streets": [
+    {
+      "latmax": 50.99657908808914, 
+      "name": "Amerstraat", 
+      "lonmin": 4.9199398869479225, 
+      "sanName": "amerstraat", 
+      "numOfAddr": 22, 
+      "lonmax": 4.925195913597413, 
+      "latmin": 50.99306194808806
+    }, 
+    {
+      "latmax": 50.98549594836284, 
+      "name": "Beerheide", 
+      "lonmin": 4.912631345217712, 
+      "sanName": "beerheide", 
+      "numOfAddr": 4, 
+      "lonmax": 4.913597024021038, 
+      "latmin": 50.98416570680948
+    }, 
+    {
+      "latmax": 51.01521202940795, 
+      "name": "Bergstraat", 
+      "lonmin": 4.9538504525070985, 
+      "sanName": "bergstraat", 
+      "numOfAddr": 43, 
+      "lonmax": 4.96578868210537, 
+      "latmin": 51.0096044845072
+    }, 
+    {
+      "latmax": 51.01519205512582, 
+      "name": "Biezebeemden", 
+      "lonmin": 4.940942441189324, 
+      "sanName": "biezebeemden", 
+      "numOfAddr": 25, 
+      "lonmax": 4.942922410168888, 
+      "latmin": 51.01222249057708
+    }, 
+    {
+      "latmax": 50.98953939393122, 
+      "name": "Binnenstraat", 
+      "lonmin": 4.937035415747588, 
+      "sanName": "binnenstraat", 
+      "numOfAddr": 16, 
+      "lonmax": 4.937848349153656, 
+      "latmin": 50.98572100479136
+    }, 
+    {
+      "latmax": 50.99495077671656, 
+      "name": "Brielstraat", 
+      "lonmin": 4.915321962050868, 
+      "sanName": "brielstraat", 
+      "numOfAddr": 36, 
+      "lonmax": 4.92013382009555, 
+      "latmin": 50.987574851251644
+    }, 
+    {
+      "latmax": 51.00830919636753, 
+      "name": "Dijk", 
+      "lonmin": 4.953228603565511, 
+      "sanName": "dijk", 
+      "numOfAddr": 6, 
+      "lonmax": 4.95525709063584, 
+      "latmin": 51.00650434893392
+    }, 
+    {
+      "latmax": 50.98766820733844, 
+      "name": "Dikkenbos", 
+      "lonmin": 4.9139521037060225, 
+      "sanName": "dikkenbos", 
+      "numOfAddr": 27, 
+      "lonmax": 4.922828728539982, 
+      "latmin": 50.98428637142562
+    }, 
+    {
+      "latmax": 51.00923560098255, 
+      "name": "Dorp", 
+      "lonmin": 4.951602424105085, 
+      "sanName": "dorp", 
+      "numOfAddr": 39, 
+      "lonmax": 4.9556498673706475, 
+      "latmin": 51.00807066959811
+    }, 
+    {
+      "latmax": 50.995683059841944, 
+      "name": "Eikeveldstraat", 
+      "lonmin": 4.928942475729346, 
+      "sanName": "eikeveldstraat", 
+      "numOfAddr": 47, 
+      "lonmax": 4.937096077003398, 
+      "latmin": 50.992843382564445
+    }, 
+    {
+      "latmax": 50.995990378327996, 
+      "name": "Engelenberg", 
+      "lonmin": 4.9377463807877255, 
+      "sanName": "engelenberg", 
+      "numOfAddr": 29, 
+      "lonmax": 4.94346373803997, 
+      "latmin": 50.9899855817634
+    }, 
+    {
+      "latmax": 50.99578386021823, 
+      "name": "Hammekensstraat", 
+      "lonmin": 4.924257478980564, 
+      "sanName": "hammekensstraat", 
+      "numOfAddr": 39, 
+      "lonmax": 4.929201333028904, 
+      "latmin": 50.99354053085889
+    }, 
+    {
+      "latmax": 51.01270124513635, 
+      "name": "Hanenberg", 
+      "lonmin": 4.926106596279699, 
+      "sanName": "hanenberg", 
+      "numOfAddr": 57, 
+      "lonmax": 4.943299930324309, 
+      "latmin": 51.01107312112957
+    }, 
+    {
+      "latmax": 50.97978519388694, 
+      "name": "Haverweide", 
+      "lonmin": 4.931588912852531, 
+      "sanName": "haverweide", 
+      "numOfAddr": 9, 
+      "lonmax": 4.933559145407906, 
+      "latmin": 50.97910151605168
+    }, 
+    {
+      "latmax": 51.02527280115886, 
+      "name": "Hoeve", 
+      "lonmin": 4.94593520118062, 
+      "sanName": "hoeve", 
+      "numOfAddr": 53, 
+      "lonmax": 4.954914584881835, 
+      "latmin": 51.02274210320436
+    }, 
+    {
+      "latmax": 51.01640744469003, 
+      "name": "Hoevebeemden", 
+      "lonmin": 4.942641857953316, 
+      "sanName": "hoevebeemden", 
+      "numOfAddr": 45, 
+      "lonmax": 4.949580959058993, 
+      "latmin": 51.012794095600384
+    }, 
+    {
+      "latmax": 51.022622764759824, 
+      "name": "Hollestraat", 
+      "lonmin": 4.945738370749458, 
+      "sanName": "hollestraat", 
+      "numOfAddr": 22, 
+      "lonmax": 4.949978370152734, 
+      "latmin": 51.0185994025392
+    }, 
+    {
+      "latmax": 51.01443042409113, 
+      "name": "Hulst", 
+      "lonmin": 4.947043695254529, 
+      "sanName": "hulst", 
+      "numOfAddr": 55, 
+      "lonmax": 4.951995488583476, 
+      "latmin": 51.00980263265403
+    }, 
+    {
+      "latmax": 51.01312452517248, 
+      "name": "Ir. Theyskenslaan", 
+      "lonmin": 4.952199520349557, 
+      "sanName": "irtheyskenslaan", 
+      "numOfAddr": 11, 
+      "lonmax": 4.953258219634065, 
+      "latmin": 51.01247933152579
+    }, 
+    {
+      "latmax": 51.016885289362584, 
+      "name": "Jan Van Rijswijckstraat", 
+      "lonmin": 4.9469111272939825, 
+      "sanName": "janvanrijswijckstraat", 
+      "numOfAddr": 16, 
+      "lonmax": 4.948711410478515, 
+      "latmin": 51.015600849866196
+    }, 
+    {
+      "latmax": 51.022810287631366, 
+      "name": "Kapelstraat", 
+      "lonmin": 4.950182643161854, 
+      "sanName": "kapelstraat", 
+      "numOfAddr": 27, 
+      "lonmax": 4.953725027966737, 
+      "latmin": 51.02173820653712
+    }, 
+    {
+      "latmax": 51.01724278874107, 
+      "name": "Kasteelstraat", 
+      "lonmin": 4.950565381674565, 
+      "sanName": "kasteelstraat", 
+      "numOfAddr": 14, 
+      "lonmax": 4.952881282282503, 
+      "latmin": 51.016236800749006
+    }, 
+    {
+      "latmax": 51.01839333709558, 
+      "name": "Kattestraat", 
+      "lonmin": 4.948852787629809, 
+      "sanName": "kattestraat", 
+      "numOfAddr": 27, 
+      "lonmax": 4.954644706216809, 
+      "latmin": 51.01674262970731
+    }, 
+    {
+      "latmax": 50.99646933665132, 
+      "name": "Kerkendijk", 
+      "lonmin": 4.936558573402331, 
+      "sanName": "kerkendijk", 
+      "numOfAddr": 2, 
+      "lonmax": 4.937601136463483, 
+      "latmin": 50.99639032793263
+    }, 
+    {
+      "latmax": 50.9985086606721, 
+      "name": "Klottebergstraat", 
+      "lonmin": 4.952731614960881, 
+      "sanName": "klottebergstraat", 
+      "numOfAddr": 5, 
+      "lonmax": 4.9532656444730945, 
+      "latmin": 50.99725648762127
+    }, 
+    {
+      "latmax": 50.99264496910576, 
+      "name": "Krekelbroekstraat", 
+      "lonmin": 4.913021392804491, 
+      "sanName": "krekelbroekstraat", 
+      "numOfAddr": 5, 
+      "lonmax": 4.914751215279124, 
+      "latmin": 50.991408689770694
+    }, 
+    {
+      "latmax": 50.988629930208525, 
+      "name": "Krijkelberg", 
+      "lonmin": 4.909961732842195, 
+      "sanName": "krijkelberg", 
+      "numOfAddr": 8, 
+      "lonmax": 4.913827880379223, 
+      "latmin": 50.987366037894276
+    }, 
+    {
+      "latmax": 51.015654698642656, 
+      "name": "Kruisdreef", 
+      "lonmin": 4.947947386368896, 
+      "sanName": "kruisdreef", 
+      "numOfAddr": 14, 
+      "lonmax": 4.949890336851319, 
+      "latmin": 51.01431055210946
+    }, 
+    {
+      "latmax": 51.02297926559682, 
+      "name": "Langen Eiken", 
+      "lonmin": 4.949601904234595, 
+      "sanName": "langeneiken", 
+      "numOfAddr": 40, 
+      "lonmax": 4.958467345556538, 
+      "latmin": 51.01912069562808
+    }, 
+    {
+      "latmax": 51.03000163211853, 
+      "name": "Leemstraat", 
+      "lonmin": 4.943855426373861, 
+      "sanName": "leemstraat", 
+      "numOfAddr": 26, 
+      "lonmax": 4.947599000229222, 
+      "latmin": 51.02393797769967
+    }, 
+    {
+      "latmax": 50.98573901944441, 
+      "name": "Lobbensestraat", 
+      "lonmin": 4.9365601732340565, 
+      "sanName": "lobbensestraat", 
+      "numOfAddr": 8, 
+      "lonmax": 4.937665563644446, 
+      "latmin": 50.985015023620626
+    }, 
+    {
+      "latmax": 51.015272943487986, 
+      "name": "Lochtstraat", 
+      "lonmin": 4.956437974393514, 
+      "sanName": "lochtstraat", 
+      "numOfAddr": 20, 
+      "lonmax": 4.9609162135306235, 
+      "latmin": 51.01437398369439
+    }, 
+    {
+      "latmax": 50.98997078438777, 
+      "name": "Maasstraat", 
+      "lonmin": 4.910025191057673, 
+      "sanName": "maasstraat", 
+      "numOfAddr": 145, 
+      "lonmax": 4.936724126810857, 
+      "latmin": 50.98579030150031
+    }, 
+    {
+      "latmax": 50.97777155425951, 
+      "name": "Mannenberg", 
+      "lonmin": 4.927858535445679, 
+      "sanName": "mannenberg", 
+      "numOfAddr": 36, 
+      "lonmax": 4.935520638068053, 
+      "latmin": 50.97629959203395
+    }, 
+    {
+      "latmax": 51.02288010791484, 
+      "name": "Mechelsebaan", 
+      "lonmin": 4.93085255129974, 
+      "sanName": "mechelsebaan", 
+      "numOfAddr": 39, 
+      "lonmax": 4.945454956030842, 
+      "latmin": 51.018627344423976
+    }, 
+    {
+      "latmax": 51.014021372216845, 
+      "name": "Mettebeemden", 
+      "lonmin": 4.947202617115554, 
+      "sanName": "mettebeemden", 
+      "numOfAddr": 7, 
+      "lonmax": 4.948593933604851, 
+      "latmin": 51.01264534302878
+    }, 
+    {
+      "latmax": 51.02358184735642, 
+      "name": "Molenbergstraat", 
+      "lonmin": 4.948925918348304, 
+      "sanName": "molenbergstraat", 
+      "numOfAddr": 22, 
+      "lonmax": 4.950926012822776, 
+      "latmin": 51.02052013560002
+    }, 
+    {
+      "latmax": 50.990393057002706, 
+      "name": "Molijkendreef", 
+      "lonmin": 4.922466895027384, 
+      "sanName": "molijkendreef", 
+      "numOfAddr": 3, 
+      "lonmax": 4.923918259597075, 
+      "latmin": 50.98956443283103
+    }, 
+    {
+      "latmax": 50.99318936121951, 
+      "name": "Molijkestraat", 
+      "lonmin": 4.927746533658409, 
+      "sanName": "molijkestraat", 
+      "numOfAddr": 19, 
+      "lonmax": 4.930438521376493, 
+      "latmin": 50.98969736150636
+    }, 
+    {
+      "latmax": 51.01512101797632, 
+      "name": "Monseigneur Bremsstraat", 
+      "lonmin": 4.953537238993045, 
+      "sanName": "monseigneurbremsstraat", 
+      "numOfAddr": 40, 
+      "lonmax": 4.956208134602921, 
+      "latmin": 51.01214902399873
+    }, 
+    {
+      "latmax": 51.031296519877976, 
+      "name": "Mosvenne", 
+      "lonmin": 4.9349742293233945, 
+      "sanName": "mosvenne", 
+      "numOfAddr": 37, 
+      "lonmax": 4.94225745835861, 
+      "latmin": 51.02653411638409
+    }, 
+    {
+      "latmax": 51.02582893224097, 
+      "name": "Nieuwe Mechelsebaan", 
+      "lonmin": 4.945270113907363, 
+      "sanName": "nieuwemechelsebaan", 
+      "numOfAddr": 59, 
+      "lonmax": 4.953401322610156, 
+      "latmin": 51.02296993489539
+    }, 
+    {
+      "latmax": 51.024366682716725, 
+      "name": "Nieuwland", 
+      "lonmin": 4.952542968961669, 
+      "sanName": "nieuwland", 
+      "numOfAddr": 34, 
+      "lonmax": 4.955183551189155, 
+      "latmin": 51.021645974277995
+    }, 
+    {
+      "latmax": 51.03605296635258, 
+      "name": "Nieuwstraat", 
+      "lonmin": 4.936301610926325, 
+      "sanName": "nieuwstraat", 
+      "numOfAddr": 69, 
+      "lonmax": 4.962190313744933, 
+      "latmin": 51.02057020245733
+    }, 
+    {
+      "latmax": 50.993671574208584, 
+      "name": "Oudestraat", 
+      "lonmin": 4.917538928664549, 
+      "sanName": "oudestraat", 
+      "numOfAddr": 55, 
+      "lonmax": 4.928540957442458, 
+      "latmin": 50.988705149697864
+    }, 
+    {
+      "latmax": 50.99557572692552, 
+      "name": "Pannestraat", 
+      "lonmin": 4.936621547948986, 
+      "sanName": "pannestraat", 
+      "numOfAddr": 51, 
+      "lonmax": 4.939174056076723, 
+      "latmin": 50.98963054656758
+    }, 
+    {
+      "latmax": 51.01148491146541, 
+      "name": "Pastoriestraat", 
+      "lonmin": 4.952267392425383, 
+      "sanName": "pastoriestraat", 
+      "numOfAddr": 17, 
+      "lonmax": 4.953782231332289, 
+      "latmin": 51.00923519640376
+    }, 
+    {
+      "latmax": 50.9991779419826, 
+      "name": "Pelgrimsstraat", 
+      "lonmin": 4.951167097383312, 
+      "sanName": "pelgrimsstraat", 
+      "numOfAddr": 21, 
+      "lonmax": 4.952944618129251, 
+      "latmin": 50.99680300609006
+    }, 
+    {
+      "latmax": 51.016645463319605, 
+      "name": "Plaats-Vondel", 
+      "lonmin": 4.954616871478699, 
+      "sanName": "plaatsvondel", 
+      "numOfAddr": 18, 
+      "lonmax": 4.956548660846124, 
+      "latmin": 51.01506187507367
+    }, 
+    {
+      "latmax": 50.9863512293521, 
+      "name": "Puttestraat", 
+      "lonmin": 4.932250057710042, 
+      "sanName": "puttestraat", 
+      "numOfAddr": 8, 
+      "lonmax": 4.937627516624291, 
+      "latmin": 50.985491009404726
+    }, 
+    {
+      "latmax": 51.01922731899055, 
+      "name": "Rode", 
+      "lonmin": 4.931831203416844, 
+      "sanName": "rode", 
+      "numOfAddr": 102, 
+      "lonmax": 4.948045881349543, 
+      "latmin": 51.01357235469552
+    }, 
+    {
+      "latmax": 51.018564872971425, 
+      "name": "Schaapsweg", 
+      "lonmin": 4.959623906934012, 
+      "sanName": "schaapsweg", 
+      "numOfAddr": 8, 
+      "lonmax": 4.961538319609751, 
+      "latmin": 51.015085248136195
+    }, 
+    {
+      "latmax": 50.97624272669616, 
+      "name": "Schransstraat", 
+      "lonmin": 4.93014323988456, 
+      "sanName": "schransstraat", 
+      "numOfAddr": 4, 
+      "lonmax": 4.930448336385044, 
+      "latmin": 50.974512731991595
+    }, 
+    {
+      "latmax": 50.98816599551144, 
+      "name": "Schuttersveldstraat", 
+      "lonmin": 4.928840341484724, 
+      "sanName": "schuttersveldstraat", 
+      "numOfAddr": 4, 
+      "lonmax": 4.930072452272695, 
+      "latmin": 50.984368254402064
+    }, 
+    {
+      "latmax": 51.008801813078925, 
+      "name": "Schuurweg", 
+      "lonmin": 4.9479493151917655, 
+      "sanName": "schuurweg", 
+      "numOfAddr": 29, 
+      "lonmax": 4.951236692700717, 
+      "latmin": 51.006560496381425
+    }, 
+    {
+      "latmax": 51.024017948750135, 
+      "name": "Sportstraat", 
+      "lonmin": 4.953913514101125, 
+      "sanName": "sportstraat", 
+      "numOfAddr": 14, 
+      "lonmax": 4.955899281478955, 
+      "latmin": 51.023320252782824
+    }, 
+    {
+      "latmax": 51.010127226276225, 
+      "name": "Stationsstraat", 
+      "lonmin": 4.944841568136278, 
+      "sanName": "stationsstraat", 
+      "numOfAddr": 35, 
+      "lonmax": 4.951443948227772, 
+      "latmin": 51.00808154843098
+    }, 
+    {
+      "latmax": 51.01162832068921, 
+      "name": "Stationswijk", 
+      "lonmin": 4.943998207760275, 
+      "sanName": "stationswijk", 
+      "numOfAddr": 41, 
+      "lonmax": 4.948654750953605, 
+      "latmin": 51.009997959086704
+    }, 
+    {
+      "latmax": 51.02419776690524, 
+      "name": "Stokheide", 
+      "lonmin": 4.933884953372763, 
+      "sanName": "stokheide", 
+      "numOfAddr": 4, 
+      "lonmax": 4.9354228329464025, 
+      "latmin": 51.02252060508637
+    }, 
+    {
+      "latmax": 51.018056504598576, 
+      "name": "Teekbroek", 
+      "lonmin": 4.948041758463668, 
+      "sanName": "teekbroek", 
+      "numOfAddr": 45, 
+      "lonmax": 4.953971163760456, 
+      "latmin": 51.01327756428962
+    }, 
+    {
+      "latmax": 51.000684067200865, 
+      "name": "Testeltsebaan", 
+      "lonmin": 4.9380412153671545, 
+      "sanName": "testeltsebaan", 
+      "numOfAddr": 76, 
+      "lonmax": 4.952295951763329, 
+      "latmin": 50.99541649781809
+    }, 
+    {
+      "latmax": 50.98928620041012, 
+      "name": "Tieltsebaan", 
+      "lonmin": 4.9335536645989695, 
+      "sanName": "tieltsebaan", 
+      "numOfAddr": 80, 
+      "lonmax": 4.9373392184845715, 
+      "latmin": 50.975105959392934
+    }, 
+    {
+      "latmax": 51.00892757946595, 
+      "name": "Tuinwijk", 
+      "lonmin": 4.946681461496441, 
+      "sanName": "tuinwijk", 
+      "numOfAddr": 27, 
+      "lonmax": 4.949449349960242, 
+      "latmin": 51.007520520496676
+    }, 
+    {
+      "latmax": 51.02350341904344, 
+      "name": "Van Der Stokkenstraat", 
+      "lonmin": 4.938266598290348, 
+      "sanName": "vanderstokkenstraat", 
+      "numOfAddr": 6, 
+      "lonmax": 4.941046714848957, 
+      "latmin": 51.022524740463105
+    }, 
+    {
+      "latmax": 51.023543525740486, 
+      "name": "Vijverstraat", 
+      "lonmin": 4.949998531338079, 
+      "sanName": "vijverstraat", 
+      "numOfAddr": 27, 
+      "lonmax": 4.95319480041848, 
+      "latmin": 51.022513586295766
+    }, 
+    {
+      "latmax": 50.98864819064456, 
+      "name": "Voetweg", 
+      "lonmin": 4.919292863232176, 
+      "sanName": "voetweg", 
+      "numOfAddr": 4, 
+      "lonmax": 4.919876126280698, 
+      "latmin": 50.98809332455975
+    }, 
+    {
+      "latmax": 51.02055962712706, 
+      "name": "Voort", 
+      "lonmin": 4.954943852926103, 
+      "sanName": "voort", 
+      "numOfAddr": 71, 
+      "lonmax": 4.964198231098518, 
+      "latmin": 51.0171784709878
+    }, 
+    {
+      "latmax": 51.01354181489487, 
+      "name": "Waterstraat", 
+      "lonmin": 4.949102993831751, 
+      "sanName": "waterstraat", 
+      "numOfAddr": 11, 
+      "lonmax": 4.950387650699109, 
+      "latmin": 51.01200388441024
+    }, 
+    {
+      "latmax": 51.00991838457762, 
+      "name": "Wijngaardstraat", 
+      "lonmin": 4.95536228575736, 
+      "sanName": "wijngaardstraat", 
+      "numOfAddr": 10, 
+      "lonmax": 4.962419704548949, 
+      "latmin": 51.00879670388968
+    }, 
+    {
+      "latmax": 51.009324432398806, 
+      "name": "Zavelbeemden", 
+      "lonmin": 4.933488850382133, 
+      "sanName": "zavelbeemden", 
+      "numOfAddr": 1, 
+      "lonmax": 4.933488850382133, 
+      "latmin": 51.009324432398806
+    }
+  ]
+}

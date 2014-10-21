@@ -31,6 +31,7 @@ function readPcode()
 {
 	if (!getPcode())
 		return;
+	console.log(getPcode());
 	document.title = getPcode() + " Addr Import";
 	var req = new XMLHttpRequest();
 	req.overrideMimeType("application/json");
