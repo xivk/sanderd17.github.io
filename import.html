@@ -1,22 +1,37 @@
+<!-- 
+	vim: tabstop=2:softtabstop=2:shiftwidth=2:noexpandtab
+-->
 <html>
-<head>
-	<title>Addr import</title>
-</head>
-<body>
+	<head>
+		<title>Addr Import</title>
+	</head>
+	<body>
 
-<button type="button" onclick="updateData()">Update</button><br/>
+	<p>
+		Select postal code:
+		<input
+			type="number" min="1000" max="9999"
+			id="pcodeInput"
+			title="Enter here the postal code you want to query"><br/>
+		Load OSM data:
+		<input 
+			type="checkbox"
+			id="osmLoadInput"
+			title="Check this to also compare the CRAB data to the latest OSM data"><br/>
+		Max distance:
+		<input
+			type="number" step="any" min="0"
+			id="distanceInput"
+			title="Allowed difference between CRAB and OSM data (meters). Use 0 to not compare the distance (default).">
+		</input>
+		<br/>
+		<button type="button" onclick="readPcode()">Update</button>
+	</p>
 
-<table id="streetsTable" border="1">
-	<tr>
-		<th title="Name of the street">Name</th>
-		<th title="Total number of housenumbers">Total</th>
-		<th title="Number of regular housenumbers not present in OSM">Missing</th>
-		<th title="Number of housenumbers that don't have a position in CRAB, and are not present in OSM">Missing w/o pos</th>
-		<th title="Number of housenumbers that are in OSM but have no match in CRAB">Wrong</th>
-	</tr>
-</table>
+	<table id="streetsTable">
+	</table>
 
-<script type="text/javascript" src="loadStreets.js"></script>
+	<script type="text/javascript" src="loadStreets.js"></script>
 
-</body>
+	</body>
 </html>

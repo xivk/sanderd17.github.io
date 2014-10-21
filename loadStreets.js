@@ -8,14 +8,30 @@ var missingAddr;
 var missingNoPosAddr;
 var wrongAddr;
 var streets = {};
-var finished = {};
-// Get the pcode from the URL query
-var pcode = window.location.search.substring(1,5);
+var finished = [];
 
 var tableId = "streetsTable"
 
-function addStreetList()
+function getPcode()
 {
+	return document.getElementById("pcodeInput").value;
+}
+
+function getMaxDist()
+{
+	return +document.getElementById("distanceInput").value;
+}
+
+function loadOsmData()
+{
+	return document.getElementById("osmLoadInput").checked;
+}
+
+function readPcode()
+{
+	if (!getPcode())
+		return;
+	document.title = getPcode() + " Addr Import";
 	var req = new XMLHttpRequest();
 	req.overrideMimeType("application/json");
 	req.onreadystatechange = function()
@@ -24,29 +40,39 @@ function addStreetList()
 			return;
 		var data = JSON.parse(req.responseText);
 		streets = data.streets;
-		var html = "";
+		var html = 
+			'<tr>\n' +
+			'<th title="Name of the street">Name</th>\n' +
+			'<th title="Total number of housenumbers">Total</th>\n' +
+			'<th title="Number of regular housenumbers not present in OSM">Missing</th>\n' +
+			'<th title="Housenumbers that don\'t have a position in CRAB, and are not present in OSM">Missing w/o pos</th>\n' +
+			'<th title="Housenumbers in OSM but without match in CRAB">Wrong</th>\n' +
+			'</tr>\n';
 		for (var i = 0; i < streets.length; i++)
 		{
 			var street = streets[i];
-			var idPart = pcode + '-' + street.sanName;
-			html += '<tr id="' + idPart + '">\n';
-			html += '<td id="' + idPart + '-name">\n' + street.name + '\n</td>\n';
-			html += '<td id="' + idPart + '-total"></td>\n';
-			html += '<td id="' + idPart + '-missing"></td>\n';
-			html += '<td id="' + idPart + '-missing-nopos"></td>\n';
-			html += '<td id="' + idPart + '-wrong"></td>\n';
+			html += '<tr id="' + street.sanName + '">\n';
+			html += '<td id="' + street.sanName + '-name">\n' + street.name + '\n</td>\n';
+			html += '<td id="' + street.sanName + '-total"></td>\n';
+			html += '<td id="' + street.sanName + '-missing"></td>\n';
+			html += '<td id="' + street.sanName + '-missing-nopos"></td>\n';
+			html += '<td id="' + street.sanName + '-wrong"></td>\n';
 			html += '</tr>\n';
 		}
-		document.getElementById(tableId).innerHTML += html;
+		document.getElementById(tableId).innerHTML = html;
+		updateData();
 	}
-	req.open("GET", pcode + ".json", true);
+	req.open("GET", getPcode() + ".json", true);
 	req.send(null);
 }
 
 /**
- * Add the street info for that certain streetname and pcode to the context object
+ * Add the street info for that certain streetname to the context object
  */
-function getCrabInfo(sanName) {
+function getCrabInfo(num) {
+	finished[num] = false;
+	var sanName = streets[num].sanName;
+
 	var req = new XMLHttpRequest();
 	req.overrideMimeType("application/json");
 	req.onreadystatechange = function()
@@ -56,10 +82,13 @@ function getCrabInfo(sanName) {
 		var data = JSON.parse(req.responseText);
 
 		crabInfo[sanName] = data.addresses;
-		finished[sanName] = true;
+		document.getElementById(sanName + '-total').innerHTML = 
+			getCellHtml("crabInfo", num, "-full");
+
+		finished[num] = true;
 		finishLoading();
 	};
-	req.open("GET", pcode + "/" + sanName + ".json", true);
+	req.open("GET", getPcode() + "/" + sanName + ".json", true);
 	req.send(null);
 }
 
@@ -69,19 +98,20 @@ function updateData()
 	crabInfo = {};
 	for (var i = 0; i < streets.length; i++)
 	{
-		var street = streets[i];
-		var idPart = pcode + '-' + street.sanName;
-		document.getElementById(idPart + "-total").innerHTML += "Loading...";
-		document.getElementById(idPart + "-missing").innerHTML += "Loading...";
-		document.getElementById(idPart + "-missing-nopos").innerHTML += "Loading...";
-		document.getElementById(idPart + "-wrong").innerHTML += "Loading...";
+		var sanName = streets[i].sanName;
+		document.getElementById(sanName + "-total").innerHTML = "Loading...";
+		if (loadOsmData())
+		{
+			document.getElementById(sanName + "-missing").innerHTML = "Loading...";
+			document.getElementById(sanName + "-missing-nopos").innerHTML = "Loading...";
+			document.getElementById(sanName + "-wrong").innerHTML = "Loading...";
+		}
 		// Also import the actual CRAB data
-		finished[street.sanName] = false;
-		getCrabInfo(street.sanName);
+		getCrabInfo(i);
 	}
 	// Load osm data
-	finished["#osm"] = false;
-	getOsmInfo();
+	if (loadOsmData())
+		getOsmInfo();
 }
 
 /**
@@ -89,19 +119,20 @@ function updateData()
  */
 function finishLoading()
 {
-	for (var k in finished)
-		if (!finished[k])
-			return;
-	compareData();
+	if (!loadOsmData())
+		return; // don't compare if you don't load anything
+	if (finished.every(function(d) { return d; }))
+		compareData();
 }
 
 /**
  * Get the data from osm, ret should be an empty array
  */
 function getOsmInfo() {
+	finished[streets.length] = false;
 	var query = 
 		'[out:json];'+
-		'area["boundary"="administrative"]["addr:postcode"="' + pcode + '"]->.area;'+
+		'area["boundary"="administrative"]["addr:postcode"="' + getPcode() + '"]->.area;'+
 		'('+
 			'node["addr:housenumber"](area.area);'+
 			'way["addr:housenumber"](area.area);'+
@@ -131,13 +162,29 @@ function getOsmInfo() {
 			addr.street = d.tags["addr:street"];
 			osmInfo.push(addr);
 		}
-		finished["#osm"] = true;
+		finished[streets.length] = true;
 		finishLoading();
 	}
 	req.open("GET", overpassapi + encodeURIComponent(query), true);
 	req.send(null);
 }
 
+/**
+ * Makes the html code for a table cell (including links tooltip, ...)
+ */
+function getCellHtml(obj, streetIdx, layerSuffix, msg)
+{
+	var sanName = streets[streetIdx].sanName;
+	if (msg)
+		msg = '"' + msg + '"';
+	return "<a href='#' title='Load this data in JOSM' onclick='openInJosm(%obj[\"%street\"], streets[%i], \"%layerName\", %msg)' >%num</a>"
+		.replace("%obj", obj)
+		.replace("%street", sanName)
+		.replace("%i", streetIdx)
+		.replace("%layerName", sanName + layerSuffix)
+		.replace("%msg", msg)
+		.replace("%num", window[obj][sanName].length);
+}
 /**
  * This function assumes all crab data and the osm data is loaded
  */
@@ -169,43 +216,39 @@ function compareData() {
 
 
 		// Create links
-		var getHtml = function(num, obj, street, layerSuffix, msg)
-		{
-			if (msg)
-				msg = '"' + msg + '"';
-			return "<a href='#' title='Load this data in JOSM' onclick='openInJosm(%obj[\"%street\"], streets[%i], \"%layerName\", %msg)' >%num</a>"
-				.replace("%obj", obj)
-				.replace("%street", street)
-				.replace("%i", i)
-				.replace("%layerName", street + layerSuffix)
-				.replace("%msg", msg)
-				.replace("%num", num);
-		}
-		var idPart = pcode + '-' + street.sanName;
+		document.getElementById(street.sanName + '-missing').innerHTML = 
+			getCellHtml("missingAddr", i, "-missing");
 
-		document.getElementById(idPart + '-total').innerHTML = 
-			getHtml(crabStreet.length, "crabInfo", street.sanName, "-full");
+		document.getElementById(street.sanName + '-missing-nopos').innerHTML = 
+			getCellHtml("missingNoPosAddr", i, "-missing-noPos");
 
-		document.getElementById(idPart + '-missing').innerHTML = 
-			getHtml(missingAddr[street.sanName].length, "missingAddr", street.sanName, "-missing");
-
-		document.getElementById(idPart + '-missing-nopos').innerHTML = 
-			getHtml(missingNoPosAddr[street.sanName].length, "missingNoPosAddr", street.sanName, "-missing-noPos", "Position not found in CRAB");
-
-		document.getElementById(idPart + '-wrong').innerHTML = 
-			getHtml(wrongAddr[street.sanName].length, "wrongAddr", street.sanName, "-wrong", "Housenumber not found in Crab");
+		document.getElementById(street.sanName + '-wrong').innerHTML = 
+			getCellHtml("wrongAddr", i, "-wrong", "Housenumber not found in CRAB, or not close enough ");
 	}
 }
 
-
 function compareHnr(source, comp) {
-	var diffList = []
+	var diffList = [];
+	var maxDist = getMaxDist();
 	for (var i = 0; i < source.length; i++)
 	{
-		var housenumber = source[i].housenumber;
-		var match = comp.find( function (addr) {
-			return addr.housenumber == housenumber;
-		});
+		// also match double housenumbers "42-44" with single ones "44"
+		var housenumberList = source[i].housenumber.split("-");
+		var match = true;
+		for (var j = 0; j < housenumberList.length; j++)
+		{
+			var re = new RegExp("-?" + housenumberList[j] + "-?");
+			// find a housenumber in the comparison list that matches (probably partially)
+			match = match && comp.find( function (addr) {
+				var test = re.test(addr.housenumber);
+				if (!test)
+					return false;
+				if (!maxDist)
+					return true;
+				// Also test the distance if the housenumbers match and a distance is given
+				return getAddrDistance(source[i], addr) < maxDist;
+			});
+		}
 		if (!match)
 			diffList.push(source[i]);
 	}
@@ -222,10 +265,12 @@ function openInJosm(data, streetData, layerName, message)
 		// take the precise position when available, else, center on the street
 		var lat = addr.lat;
 		var lon = addr.lon;
+		var msg = message;
 		if (!lat || !lon)
 		{
-			lat = (streetData.latmax + streetData.latmin) / 2
-			lon = (streetData.lonmax + streetData.lonmin) / 2
+			lat = (streetData.latmax + streetData.latmin) / 2;
+			lon = (streetData.lonmax + streetData.lonmin) / 2;
+			msg += "Position not found in CRAB. Please map with care."
 		}
 
 		str += "<node id='" + (-i-1) + "' lat='" + lat + "' lon='" + lon + "' version='0' timestamp='" + timeStr + "' uid='1' user=''>";
@@ -243,6 +288,38 @@ function openInJosm(data, streetData, layerName, message)
 	window.open(url + encodeURIComponent(str));
 }
 
-// EXECUTE
-document.title = pcode + " Addr Import";
-addStreetList();
+/**
+ * Calculate the distance between two address objects
+ * @returns -1 if one of the addresses is either missing lat or lon
+ * @returns the approx spherical distance otherwise
+ */
+function getAddrDistance(addr1, addr2)
+{
+	if (!addr1.lat || !addr2.lat || !addr1.lon || !addr2.lon)
+		return -1;
+	var R = 6.371e6; // Radius of the earth in m
+	var dLat = (addr2.lat-addr1.lat) * Math.PI/180;
+	var dLon = (addr2.lon-addr1.lon) * Math.PI/180; 
+	var a = 
+		0.5 - Math.cos(dLat)/2 +
+		(0.5 - Math.cos(dLon)/2) *
+		Math.cos(addr1.lat * Math.PI/180) *
+		Math.cos(addr2.lat * Math.PI/180);
+	return R * 2 * Math.asin(Math.sqrt(a)); // Distance in m
+}
+
+// Read the URL stuff to set stuff
+var query = window.location.search.substring(1);
+var vars = query.split("&");
+for (var i = 0; i < vars.length; i++)
+{
+	var kv = vars[i].split("=");
+	if (kv[1] == "true")
+		document.getElementById(kv[0]).checked = true;
+	else if (kv[1] == "false")
+		document.getElementById(kv[0]).checked = false;
+	else
+		document.getElementById(kv[0]).value = kv[1];
+}
+
+readPcode();
