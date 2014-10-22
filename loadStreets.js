@@ -1,5 +1,30 @@
 // vim: tabstop=4:softtabstop=4:shiftwidth=4:noexpandtab
 
+// POLYFILL: browser compatibility
+if (!Array.prototype.find) {
+  Array.prototype.find = function(predicate) {
+    if (this == null) {
+      throw new TypeError('Array.prototype.find called on null or undefined');
+    }
+    if (typeof predicate !== 'function') {
+      throw new TypeError('predicate must be a function');
+    }
+    var list = Object(this);
+    var length = list.length >>> 0;
+    var thisArg = arguments[1];
+    var value;
+
+    for (var i = 0; i < length; i++) {
+      value = list[i];
+      if (predicate.call(thisArg, value, i, list)) {
+        return value;
+      }
+    }
+    return undefined;
+  };
+}
+
+// GLOBAL VARIABLES
 var overpassapi = "http://overpass-api.de/api/interpreter?data=";
 
 var crabInfo = {};
@@ -12,6 +37,7 @@ var finished = [];
 
 var tableId = "streetsTable"
 
+// READ URL PARAMETERS
 function getPcode()
 {
 	return document.getElementById("pcodeInput").value;
@@ -36,6 +62,7 @@ function getStreetsFilter()
 	return new RegExp("^" + str + "$", "i");
 }
 
+// DATA PARSING FUNCTIONS
 function readPcode()
 {
 	if (!getPcode())
