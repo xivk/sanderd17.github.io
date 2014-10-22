@@ -1,20 +1,18 @@
 {
-  "pcode": 8980, 
   "addresses": [
     {
-      "lat": 50.87188487078715, 
       "housenumber": "1", 
+      "lat": 50.87188487078715, 
+      "lon": 3.038740011244015, 
       "pcode": 8980, 
-      "street": "Keibergstraat", 
-      "lon": 3.038740011244015
+      "street": "Keibergstraat"
     }, 
     {
-      "lat": 50.87053940677884, 
       "housenumber": "2", 
+      "lat": 50.87053940677884, 
+      "lon": 3.034329157081766, 
       "pcode": 8980, 
-      "street": "Keibergstraat", 
-      "lon": 3.034329157081766
+      "street": "Keibergstraat"
     }
-  ], 
-  "name": "Keibergstraat"
+  ]
 }

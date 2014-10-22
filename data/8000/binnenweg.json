@@ -1,18 +1,16 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 8000, 
-      "street": "Binnenweg", 
-      "housenumber": "2"
+      "street": "Binnenweg"
     }, 
     {
-      "lat": 51.226062193226866, 
       "housenumber": "4", 
+      "lat": 51.226062193226866, 
+      "lon": 3.2258032416221756, 
       "pcode": 8000, 
-      "street": "Binnenweg", 
-      "lon": 3.2258032416221756
+      "street": "Binnenweg"
     }
-  ], 
-  "name": "Binnenweg"
+  ]
 }

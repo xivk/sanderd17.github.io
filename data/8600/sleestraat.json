@@ -1,20 +1,18 @@
 {
-  "pcode": 8600, 
   "addresses": [
     {
-      "lat": 51.01560651727522, 
       "housenumber": "1", 
+      "lat": 51.01560651727522, 
+      "lon": 2.816333326669246, 
       "pcode": 8600, 
-      "street": "Sleestraat", 
-      "lon": 2.816333326669246
+      "street": "Sleestraat"
     }, 
     {
-      "lat": 51.019949134866785, 
       "housenumber": "2", 
+      "lat": 51.019949134866785, 
+      "lon": 2.8222204100577195, 
       "pcode": 8600, 
-      "street": "Sleestraat", 
-      "lon": 2.8222204100577195
+      "street": "Sleestraat"
     }
-  ], 
-  "name": "Sleestraat"
+  ]
 }

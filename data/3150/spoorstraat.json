@@ -1,20 +1,18 @@
 {
-  "pcode": 3150, 
   "addresses": [
     {
-      "lat": 50.9372534874216, 
       "housenumber": "1", 
+      "lat": 50.9372534874216, 
+      "lon": 4.673508169896576, 
       "pcode": 3150, 
-      "street": "Spoorstraat", 
-      "lon": 4.673508169896576
+      "street": "Spoorstraat"
     }, 
     {
-      "lat": 50.93718255839312, 
       "housenumber": "7", 
+      "lat": 50.93718255839312, 
+      "lon": 4.672574142954022, 
       "pcode": 3150, 
-      "street": "Spoorstraat", 
-      "lon": 4.672574142954022
+      "street": "Spoorstraat"
     }
-  ], 
-  "name": "Spoorstraat"
+  ]
 }

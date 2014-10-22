@@ -1,20 +1,18 @@
 {
-  "pcode": 2288, 
   "addresses": [
     {
-      "lat": 51.168659241919606, 
       "housenumber": "1", 
+      "lat": 51.168659241919606, 
+      "lon": 4.74932192547989, 
       "pcode": 2288, 
-      "street": "Het Park", 
-      "lon": 4.74932192547989
+      "street": "Het Park"
     }, 
     {
-      "lat": 51.167526465025446, 
       "housenumber": "2", 
+      "lat": 51.167526465025446, 
+      "lon": 4.750995871850206, 
       "pcode": 2288, 
-      "street": "Het Park", 
-      "lon": 4.750995871850206
+      "street": "Het Park"
     }
-  ], 
-  "name": "Het Park"
+  ]
 }

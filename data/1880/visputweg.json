@@ -1,20 +1,18 @@
 {
-  "pcode": 1880, 
   "addresses": [
     {
-      "lat": 51.01756202696738, 
       "housenumber": "1", 
+      "lat": 51.01756202696738, 
+      "lon": 4.368464059488605, 
       "pcode": 1880, 
-      "street": "Visputweg", 
-      "lon": 4.368464059488605
+      "street": "Visputweg"
     }, 
     {
-      "lat": 51.01760724235505, 
       "housenumber": "3", 
+      "lat": 51.01760724235505, 
+      "lon": 4.368278937451883, 
       "pcode": 1880, 
-      "street": "Visputweg", 
-      "lon": 4.368278937451883
+      "street": "Visputweg"
     }
-  ], 
-  "name": "Visputweg"
+  ]
 }

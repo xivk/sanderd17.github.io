@@ -1,23 +1,21 @@
 {
-  "pcode": 3290, 
   "addresses": [
     {
-      "lat": 51.01665483525978, 
       "housenumber": "50", 
+      "lat": 51.01665483525978, 
+      "lon": 5.127455219925036, 
       "pcode": 3290, 
-      "street": "Violetstraat", 
-      "lon": 5.127455219925036
+      "street": "Violetstraat"
     }, 
     {
+      "housenumber": "91", 
       "pcode": 3290, 
-      "street": "Violetstraat", 
-      "housenumber": "91"
+      "street": "Violetstraat"
     }, 
     {
+      "housenumber": "93", 
       "pcode": 3290, 
-      "street": "Violetstraat", 
-      "housenumber": "93"
+      "street": "Violetstraat"
     }
-  ], 
-  "name": "Violetstraat"
+  ]
 }

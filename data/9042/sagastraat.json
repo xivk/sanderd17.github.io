@@ -1,27 +1,25 @@
 {
-  "pcode": 9042, 
   "addresses": [
     {
-      "lat": 51.1103187050485, 
       "housenumber": "1", 
+      "lat": 51.1103187050485, 
+      "lon": 3.7879091438250247, 
       "pcode": 9042, 
-      "street": "Sagastraat", 
-      "lon": 3.7879091438250247
+      "street": "Sagastraat"
     }, 
     {
-      "lat": 51.11020948708212, 
       "housenumber": "1B", 
+      "lat": 51.11020948708212, 
+      "lon": 3.7887135964891843, 
       "pcode": 9042, 
-      "street": "Sagastraat", 
-      "lon": 3.7887135964891843
+      "street": "Sagastraat"
     }, 
     {
-      "lat": 51.11098482652341, 
       "housenumber": "3", 
+      "lat": 51.11098482652341, 
+      "lon": 3.788482930637594, 
       "pcode": 9042, 
-      "street": "Sagastraat", 
-      "lon": 3.788482930637594
+      "street": "Sagastraat"
     }
-  ], 
-  "name": "Sagastraat"
+  ]
 }

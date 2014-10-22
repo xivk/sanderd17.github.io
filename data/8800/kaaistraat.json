@@ -1,200 +1,198 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.945852563010604, 
       "housenumber": "1", 
+      "lat": 50.945852563010604, 
+      "lon": 3.1324987540881564, 
       "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1324987540881564
+      "street": "Kaaistraat"
     }, 
     {
-      "lat": 50.94572860463071, 
       "housenumber": "10", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1330909099438067
-    }, 
-    {
-      "lat": 50.945518978422875, 
-      "housenumber": "19", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1341724516288454
-    }, 
-    {
-      "lat": 50.94583463512729, 
-      "housenumber": "2", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1324867027998584
-    }, 
-    {
-      "lat": 50.94498579425618, 
-      "housenumber": "22", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1352730185937565
-    }, 
-    {
-      "lat": 50.94470980896008, 
-      "housenumber": "26", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1347353686005133
-    }, 
-    {
-      "lat": 50.9458429153411, 
-      "housenumber": "3", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1326243861433114
-    }, 
-    {
-      "lat": 50.943848381026044, 
-      "housenumber": "31", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1358192024974287
-    }, 
-    {
-      "lat": 50.94345624892423, 
-      "housenumber": "39", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1371778515920425
-    }, 
-    {
-      "lat": 50.94337758750008, 
-      "housenumber": "46", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.137255622342455
-    }, 
-    {
-      "lat": 50.943171782819604, 
-      "housenumber": "49", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1383880774692328
-    }, 
-    {
-      "lat": 50.94593621690227, 
-      "housenumber": "5", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.133024533326409
-    }, 
-    {
-      "lat": 50.943154843078254, 
-      "housenumber": "56", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.139295572494144
-    }, 
-    {
-      "lat": 50.94319164309896, 
-      "housenumber": "57", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.139633721081292
-    }, 
-    {
-      "lat": 50.94286689571896, 
-      "housenumber": "58", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1395552781588463
-    }, 
-    {
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "housenumber": "6"
-    }, 
-    {
-      "lat": 50.94323051450136, 
-      "housenumber": "60", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1398690717178606
-    }, 
-    {
-      "lat": 50.94287527417787, 
-      "housenumber": "61", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1399784129590294
-    }, 
-    {
-      "lat": 50.94296612081639, 
-      "housenumber": "62", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1403266720183343
-    }, 
-    {
-      "lat": 50.9429352269774, 
-      "housenumber": "63", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.140441750836853
-    }, 
-    {
-      "lat": 50.94344064173425, 
-      "housenumber": "64", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1404130118126434
-    }, 
-    {
-      "lat": 50.94316240705863, 
-      "housenumber": "65", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.140612974583985
-    }, 
-    {
-      "lat": 50.9457655871482, 
-      "housenumber": "7", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1329484771414475
-    }, 
-    {
-      "lat": 50.9429935715915, 
-      "housenumber": "70", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.141181771412554
-    }, 
-    {
-      "lat": 50.94331414618604, 
-      "housenumber": "71", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1423768616038936
-    }, 
-    {
-      "lat": 50.94355716165278, 
-      "housenumber": "75", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1431272942953297
-    }, 
-    {
-      "lat": 50.94414737727036, 
-      "housenumber": "76", 
-      "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1441964075790447
-    }, 
-    {
       "lat": 50.94572860463071, 
-      "housenumber": "9", 
+      "lon": 3.1330909099438067, 
       "pcode": 8800, 
-      "street": "Kaaistraat", 
-      "lon": 3.1330909099438067
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "19", 
+      "lat": 50.945518978422875, 
+      "lon": 3.1341724516288454, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "2", 
+      "lat": 50.94583463512729, 
+      "lon": 3.1324867027998584, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "22", 
+      "lat": 50.94498579425618, 
+      "lon": 3.1352730185937565, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "26", 
+      "lat": 50.94470980896008, 
+      "lon": 3.1347353686005133, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "3", 
+      "lat": 50.9458429153411, 
+      "lon": 3.1326243861433114, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "31", 
+      "lat": 50.943848381026044, 
+      "lon": 3.1358192024974287, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "39", 
+      "lat": 50.94345624892423, 
+      "lon": 3.1371778515920425, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "46", 
+      "lat": 50.94337758750008, 
+      "lon": 3.137255622342455, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "49", 
+      "lat": 50.943171782819604, 
+      "lon": 3.1383880774692328, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "5", 
+      "lat": 50.94593621690227, 
+      "lon": 3.133024533326409, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "56", 
+      "lat": 50.943154843078254, 
+      "lon": 3.139295572494144, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "57", 
+      "lat": 50.94319164309896, 
+      "lon": 3.139633721081292, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "58", 
+      "lat": 50.94286689571896, 
+      "lon": 3.1395552781588463, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "6", 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "60", 
+      "lat": 50.94323051450136, 
+      "lon": 3.1398690717178606, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "61", 
+      "lat": 50.94287527417787, 
+      "lon": 3.1399784129590294, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "62", 
+      "lat": 50.94296612081639, 
+      "lon": 3.1403266720183343, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "63", 
+      "lat": 50.9429352269774, 
+      "lon": 3.140441750836853, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "64", 
+      "lat": 50.94344064173425, 
+      "lon": 3.1404130118126434, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "65", 
+      "lat": 50.94316240705863, 
+      "lon": 3.140612974583985, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "7", 
+      "lat": 50.9457655871482, 
+      "lon": 3.1329484771414475, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "70", 
+      "lat": 50.9429935715915, 
+      "lon": 3.141181771412554, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "71", 
+      "lat": 50.94331414618604, 
+      "lon": 3.1423768616038936, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "75", 
+      "lat": 50.94355716165278, 
+      "lon": 3.1431272942953297, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "76", 
+      "lat": 50.94414737727036, 
+      "lon": 3.1441964075790447, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "housenumber": "9", 
+      "lat": 50.94572860463071, 
+      "lon": 3.1330909099438067, 
+      "pcode": 8800, 
+      "street": "Kaaistraat"
     }
-  ], 
-  "name": "Kaaistraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 3640, 
   "addresses": [
     {
-      "lat": 51.14986576612608, 
       "housenumber": "1", 
+      "lat": 51.14986576612608, 
+      "lon": 5.787408605144046, 
       "pcode": 3640, 
-      "street": "Hoeveweg", 
-      "lon": 5.787408605144046
+      "street": "Hoeveweg"
     }, 
     {
-      "lat": 51.1497337707681, 
       "housenumber": "2", 
+      "lat": 51.1497337707681, 
+      "lon": 5.786991351237719, 
       "pcode": 3640, 
-      "street": "Hoeveweg", 
-      "lon": 5.786991351237719
+      "street": "Hoeveweg"
     }, 
     {
-      "lat": 51.14948717996514, 
       "housenumber": "3", 
+      "lat": 51.14948717996514, 
+      "lon": 5.786489142742253, 
       "pcode": 3640, 
-      "street": "Hoeveweg", 
-      "lon": 5.786489142742253
+      "street": "Hoeveweg"
     }
-  ], 
-  "name": "Hoeveweg"
+  ]
 }

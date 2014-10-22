@@ -1,35 +1,33 @@
 {
-  "pcode": 2470, 
   "addresses": [
     {
-      "lat": 51.265734593709745, 
       "housenumber": "11", 
+      "lat": 51.265734593709745, 
+      "lon": 5.054162974345656, 
       "pcode": 2470, 
-      "street": "Elsdonkstraat", 
-      "lon": 5.054162974345656
+      "street": "Elsdonkstraat"
     }, 
     {
+      "housenumber": "11A", 
       "pcode": 2470, 
-      "street": "Elsdonkstraat", 
-      "housenumber": "11A"
+      "street": "Elsdonkstraat"
     }, 
     {
-      "lat": 51.27018783740175, 
       "housenumber": "21", 
+      "lat": 51.27018783740175, 
+      "lon": 5.061562607648151, 
       "pcode": 2470, 
-      "street": "Elsdonkstraat", 
-      "lon": 5.061562607648151
+      "street": "Elsdonkstraat"
     }, 
     {
+      "housenumber": "44", 
       "pcode": 2470, 
-      "street": "Elsdonkstraat", 
-      "housenumber": "44"
+      "street": "Elsdonkstraat"
     }, 
     {
+      "housenumber": "50", 
       "pcode": 2470, 
-      "street": "Elsdonkstraat", 
-      "housenumber": "50"
+      "street": "Elsdonkstraat"
     }
-  ], 
-  "name": "Elsdonkstraat"
+  ]
 }

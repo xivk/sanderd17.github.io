@@ -1,25 +1,23 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 3600, 
-      "street": "Bilzerweg", 
-      "housenumber": "11"
+      "street": "Bilzerweg"
     }, 
     {
-      "lat": 50.919911753316214, 
       "housenumber": "15", 
+      "lat": 50.919911753316214, 
+      "lon": 5.529522895134734, 
       "pcode": 3600, 
-      "street": "Bilzerweg", 
-      "lon": 5.529522895134734
+      "street": "Bilzerweg"
     }, 
     {
-      "lat": 50.92178941301219, 
       "housenumber": "8", 
+      "lat": 50.92178941301219, 
+      "lon": 5.52537733261502, 
       "pcode": 3600, 
-      "street": "Bilzerweg", 
-      "lon": 5.52537733261502
+      "street": "Bilzerweg"
     }
-  ], 
-  "name": "Bilzerweg"
+  ]
 }

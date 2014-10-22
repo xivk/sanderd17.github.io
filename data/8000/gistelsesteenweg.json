@@ -1,18 +1,16 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
+      "housenumber": "134A", 
       "pcode": 8000, 
-      "street": "Gistelse Steenweg", 
-      "housenumber": "134A"
+      "street": "Gistelse Steenweg"
     }, 
     {
-      "lat": 51.19821985941288, 
       "housenumber": "363A", 
+      "lat": 51.19821985941288, 
+      "lon": 3.187602546190676, 
       "pcode": 8000, 
-      "street": "Gistelse Steenweg", 
-      "lon": 3.187602546190676
+      "street": "Gistelse Steenweg"
     }
-  ], 
-  "name": "Gistelse Steenweg"
+  ]
 }

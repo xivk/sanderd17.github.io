@@ -1,20 +1,18 @@
 {
-  "pcode": 9890, 
   "addresses": [
     {
-      "lat": 50.94815050929739, 
       "housenumber": "1", 
+      "lat": 50.94815050929739, 
+      "lon": 3.680182850785854, 
       "pcode": 9890, 
-      "street": "Wulvekeetlos", 
-      "lon": 3.680182850785854
+      "street": "Wulvekeetlos"
     }, 
     {
-      "lat": 50.94829505238804, 
       "housenumber": "2", 
+      "lat": 50.94829505238804, 
+      "lon": 3.6787387338506923, 
       "pcode": 9890, 
-      "street": "Wulvekeetlos", 
-      "lon": 3.6787387338506923
+      "street": "Wulvekeetlos"
     }
-  ], 
-  "name": "Wulvekeetlos"
+  ]
 }

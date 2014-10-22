@@ -1,18 +1,16 @@
 {
-  "pcode": 3020, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 3020, 
-      "street": "Zandweg", 
-      "housenumber": "11"
+      "street": "Zandweg"
     }, 
     {
-      "lat": 50.90685156594363, 
       "housenumber": "12", 
+      "lat": 50.90685156594363, 
+      "lon": 4.6659405102784595, 
       "pcode": 3020, 
-      "street": "Zandweg", 
-      "lon": 4.6659405102784595
+      "street": "Zandweg"
     }
-  ], 
-  "name": "Zandweg"
+  ]
 }

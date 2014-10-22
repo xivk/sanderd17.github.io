@@ -1,44 +1,42 @@
 {
-  "pcode": 3201, 
   "addresses": [
     {
+      "housenumber": "17", 
       "pcode": 3201, 
-      "street": "Klerkstraat", 
-      "housenumber": "17"
+      "street": "Klerkstraat"
     }, 
     {
-      "lat": 51.023262263201154, 
       "housenumber": "19", 
+      "lat": 51.023262263201154, 
+      "lon": 4.91255076146693, 
       "pcode": 3201, 
-      "street": "Klerkstraat", 
-      "lon": 4.91255076146693
+      "street": "Klerkstraat"
     }, 
     {
+      "housenumber": "21", 
       "pcode": 3201, 
-      "street": "Klerkstraat", 
-      "housenumber": "21"
+      "street": "Klerkstraat"
     }, 
     {
-      "lat": 51.02079071121127, 
       "housenumber": "3", 
+      "lat": 51.02079071121127, 
+      "lon": 4.912928791729108, 
       "pcode": 3201, 
-      "street": "Klerkstraat", 
-      "lon": 4.912928791729108
+      "street": "Klerkstraat"
     }, 
     {
-      "lat": 51.02099020949558, 
       "housenumber": "5", 
+      "lat": 51.02099020949558, 
+      "lon": 4.913078484349554, 
       "pcode": 3201, 
-      "street": "Klerkstraat", 
-      "lon": 4.913078484349554
+      "street": "Klerkstraat"
     }, 
     {
-      "lat": 51.02200759542847, 
       "housenumber": "9", 
+      "lat": 51.02200759542847, 
+      "lon": 4.913568081259941, 
       "pcode": 3201, 
-      "street": "Klerkstraat", 
-      "lon": 4.913568081259941
+      "street": "Klerkstraat"
     }
-  ], 
-  "name": "Klerkstraat"
+  ]
 }

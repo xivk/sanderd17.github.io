@@ -1,20 +1,18 @@
 {
-  "pcode": 3891, 
   "addresses": [
     {
-      "lat": 50.758308099656, 
       "housenumber": "1", 
+      "lat": 50.758308099656, 
+      "lon": 5.2142107678877645, 
       "pcode": 3891, 
-      "street": "Logebeekstraat", 
-      "lon": 5.2142107678877645
+      "street": "Logebeekstraat"
     }, 
     {
-      "lat": 50.75836882650466, 
       "housenumber": "2", 
+      "lat": 50.75836882650466, 
+      "lon": 5.213943693999053, 
       "pcode": 3891, 
-      "street": "Logebeekstraat", 
-      "lon": 5.213943693999053
+      "street": "Logebeekstraat"
     }
-  ], 
-  "name": "Logebeekstraat"
+  ]
 }

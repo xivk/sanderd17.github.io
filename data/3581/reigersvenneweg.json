@@ -1,20 +1,18 @@
 {
-  "pcode": 3581, 
   "addresses": [
     {
-      "lat": 51.090822635946274, 
       "housenumber": "11", 
+      "lat": 51.090822635946274, 
+      "lon": 5.26958875637428, 
       "pcode": 3581, 
-      "street": "Reigersvenneweg", 
-      "lon": 5.26958875637428
+      "street": "Reigersvenneweg"
     }, 
     {
-      "lat": 51.090730635506155, 
       "housenumber": "17", 
+      "lat": 51.090730635506155, 
+      "lon": 5.2702283352030515, 
       "pcode": 3581, 
-      "street": "Reigersvenneweg", 
-      "lon": 5.2702283352030515
+      "street": "Reigersvenneweg"
     }
-  ], 
-  "name": "Reigersvenneweg"
+  ]
 }

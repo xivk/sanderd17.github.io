@@ -1,46 +1,44 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 50.982561448818316, 
       "housenumber": "1", 
+      "lat": 50.982561448818316, 
+      "lon": 3.472688085143489, 
       "pcode": 9800, 
-      "street": "Verlorenhoek", 
-      "lon": 3.472688085143489
+      "street": "Verlorenhoek"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 9800, 
-      "street": "Verlorenhoek", 
-      "housenumber": "10"
+      "street": "Verlorenhoek"
     }, 
     {
-      "lat": 50.98365798388894, 
       "housenumber": "2", 
+      "lat": 50.98365798388894, 
+      "lon": 3.4724701713884083, 
       "pcode": 9800, 
-      "street": "Verlorenhoek", 
-      "lon": 3.4724701713884083
+      "street": "Verlorenhoek"
     }, 
     {
-      "lat": 50.98271597635962, 
       "housenumber": "3", 
+      "lat": 50.98271597635962, 
+      "lon": 3.4738688927803167, 
       "pcode": 9800, 
-      "street": "Verlorenhoek", 
-      "lon": 3.4738688927803167
+      "street": "Verlorenhoek"
     }, 
     {
-      "lat": 50.98384997720559, 
       "housenumber": "4", 
+      "lat": 50.98384997720559, 
+      "lon": 3.4733996331914723, 
       "pcode": 9800, 
-      "street": "Verlorenhoek", 
-      "lon": 3.4733996331914723
+      "street": "Verlorenhoek"
     }, 
     {
-      "lat": 50.984113011766446, 
       "housenumber": "6", 
+      "lat": 50.984113011766446, 
+      "lon": 3.4733041752853318, 
       "pcode": 9800, 
-      "street": "Verlorenhoek", 
-      "lon": 3.4733041752853318
+      "street": "Verlorenhoek"
     }
-  ], 
-  "name": "Verlorenhoek"
+  ]
 }

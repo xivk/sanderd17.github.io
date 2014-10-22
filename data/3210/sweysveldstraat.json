@@ -1,54 +1,52 @@
 {
-  "pcode": 3210, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3210, 
-      "street": "Sweysveldstraat", 
-      "housenumber": "10"
+      "street": "Sweysveldstraat"
     }, 
     {
-      "lat": 50.8942591644261, 
       "housenumber": "11", 
+      "lat": 50.8942591644261, 
+      "lon": 4.7792886608320435, 
       "pcode": 3210, 
-      "street": "Sweysveldstraat", 
-      "lon": 4.7792886608320435
+      "street": "Sweysveldstraat"
     }, 
     {
+      "housenumber": "13", 
       "pcode": 3210, 
-      "street": "Sweysveldstraat", 
-      "housenumber": "13"
+      "street": "Sweysveldstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3210, 
-      "street": "Sweysveldstraat", 
-      "housenumber": "3"
+      "street": "Sweysveldstraat"
     }, 
     {
-      "lat": 50.893983826187224, 
       "housenumber": "4", 
+      "lat": 50.893983826187224, 
+      "lon": 4.779003109825829, 
       "pcode": 3210, 
-      "street": "Sweysveldstraat", 
-      "lon": 4.779003109825829
+      "street": "Sweysveldstraat"
     }, 
     {
-      "lat": 50.894155483555316, 
       "housenumber": "5", 
+      "lat": 50.894155483555316, 
+      "lon": 4.778938233068389, 
       "pcode": 3210, 
-      "street": "Sweysveldstraat", 
-      "lon": 4.778938233068389
+      "street": "Sweysveldstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3210, 
-      "street": "Sweysveldstraat", 
-      "housenumber": "6"
+      "street": "Sweysveldstraat"
     }, 
     {
-      "lat": 50.894519940617464, 
       "housenumber": "7", 
+      "lat": 50.894519940617464, 
+      "lon": 4.778726506076196, 
       "pcode": 3210, 
-      "street": "Sweysveldstraat", 
-      "lon": 4.778726506076196
+      "street": "Sweysveldstraat"
     }
-  ], 
-  "name": "Sweysveldstraat"
+  ]
 }

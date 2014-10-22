@@ -1,64 +1,62 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9000, 
-      "street": "Conduitsteeg", 
-      "housenumber": "1"
+      "street": "Conduitsteeg"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 9000, 
-      "street": "Conduitsteeg", 
-      "housenumber": "1A"
+      "street": "Conduitsteeg"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 9000, 
-      "street": "Conduitsteeg", 
-      "housenumber": "1B"
+      "street": "Conduitsteeg"
     }, 
     {
-      "lat": 51.050857210764434, 
       "housenumber": "1C", 
+      "lat": 51.050857210764434, 
+      "lon": 3.721536256777648, 
       "pcode": 9000, 
-      "street": "Conduitsteeg", 
-      "lon": 3.721536256777648
+      "street": "Conduitsteeg"
     }, 
     {
+      "housenumber": "1D", 
       "pcode": 9000, 
-      "street": "Conduitsteeg", 
-      "housenumber": "1D"
+      "street": "Conduitsteeg"
     }, 
     {
+      "housenumber": "1E", 
       "pcode": 9000, 
-      "street": "Conduitsteeg", 
-      "housenumber": "1E"
+      "street": "Conduitsteeg"
     }, 
     {
-      "lat": 51.050965105350045, 
       "housenumber": "2", 
+      "lat": 51.050965105350045, 
+      "lon": 3.7222779511248487, 
       "pcode": 9000, 
-      "street": "Conduitsteeg", 
-      "lon": 3.7222779511248487
+      "street": "Conduitsteeg"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9000, 
-      "street": "Conduitsteeg", 
-      "housenumber": "3"
+      "street": "Conduitsteeg"
     }, 
     {
-      "lat": 51.05091221723113, 
       "housenumber": "4", 
+      "lat": 51.05091221723113, 
+      "lon": 3.721977185809363, 
       "pcode": 9000, 
-      "street": "Conduitsteeg", 
-      "lon": 3.721977185809363
+      "street": "Conduitsteeg"
     }, 
     {
-      "lat": 51.050850416992624, 
       "housenumber": "5", 
+      "lat": 51.050850416992624, 
+      "lon": 3.721543196301551, 
       "pcode": 9000, 
-      "street": "Conduitsteeg", 
-      "lon": 3.721543196301551
+      "street": "Conduitsteeg"
     }
-  ], 
-  "name": "Conduitsteeg"
+  ]
 }

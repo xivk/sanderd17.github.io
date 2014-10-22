@@ -1,20 +1,18 @@
 {
-  "pcode": 3570, 
   "addresses": [
     {
-      "lat": 50.88061733445305, 
       "housenumber": "12", 
+      "lat": 50.88061733445305, 
+      "lon": 5.260433208125918, 
       "pcode": 3570, 
-      "street": "Putsteeg", 
-      "lon": 5.260433208125918
+      "street": "Putsteeg"
     }, 
     {
-      "lat": 50.88078541968065, 
       "housenumber": "12A", 
+      "lat": 50.88078541968065, 
+      "lon": 5.2602951474429664, 
       "pcode": 3570, 
-      "street": "Putsteeg", 
-      "lon": 5.2602951474429664
+      "street": "Putsteeg"
     }
-  ], 
-  "name": "Putsteeg"
+  ]
 }

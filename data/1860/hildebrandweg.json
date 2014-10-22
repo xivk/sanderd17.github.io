@@ -1,20 +1,18 @@
 {
-  "pcode": 1860, 
   "addresses": [
     {
-      "lat": 50.940422044319995, 
       "housenumber": "15", 
+      "lat": 50.940422044319995, 
+      "lon": 4.298842975148335, 
       "pcode": 1860, 
-      "street": "Hildebrandweg", 
-      "lon": 4.298842975148335
+      "street": "Hildebrandweg"
     }, 
     {
-      "lat": 50.94044015746494, 
       "housenumber": "17", 
+      "lat": 50.94044015746494, 
+      "lon": 4.298614024513459, 
       "pcode": 1860, 
-      "street": "Hildebrandweg", 
-      "lon": 4.298614024513459
+      "street": "Hildebrandweg"
     }
-  ], 
-  "name": "Hildebrandweg"
+  ]
 }

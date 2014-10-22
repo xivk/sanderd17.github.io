@@ -1,20 +1,18 @@
 {
-  "pcode": 3201, 
   "addresses": [
     {
-      "lat": 50.998654066968605, 
       "housenumber": "1", 
+      "lat": 50.998654066968605, 
+      "lon": 4.883360308314494, 
       "pcode": 3201, 
-      "street": "Buikpoelstraat", 
-      "lon": 4.883360308314494
+      "street": "Buikpoelstraat"
     }, 
     {
-      "lat": 50.99859445026642, 
       "housenumber": "1A", 
+      "lat": 50.99859445026642, 
+      "lon": 4.882645372851372, 
       "pcode": 3201, 
-      "street": "Buikpoelstraat", 
-      "lon": 4.882645372851372
+      "street": "Buikpoelstraat"
     }
-  ], 
-  "name": "Buikpoelstraat"
+  ]
 }

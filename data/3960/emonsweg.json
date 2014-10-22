@@ -1,20 +1,18 @@
 {
-  "pcode": 3960, 
   "addresses": [
     {
-      "lat": 51.16001169352333, 
       "housenumber": "2", 
+      "lat": 51.16001169352333, 
+      "lon": 5.611830139324227, 
       "pcode": 3960, 
-      "street": "Emonsweg", 
-      "lon": 5.611830139324227
+      "street": "Emonsweg"
     }, 
     {
-      "lat": 51.16078181290591, 
       "housenumber": "4", 
+      "lat": 51.16078181290591, 
+      "lon": 5.612934501256046, 
       "pcode": 3960, 
-      "street": "Emonsweg", 
-      "lon": 5.612934501256046
+      "street": "Emonsweg"
     }
-  ], 
-  "name": "Emonsweg"
+  ]
 }

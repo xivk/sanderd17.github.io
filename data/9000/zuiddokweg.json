@@ -1,27 +1,25 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.076989468770726, 
       "housenumber": "43", 
+      "lat": 51.076989468770726, 
+      "lon": 3.7418616408264773, 
       "pcode": 9000, 
-      "street": "Zuiddokweg", 
-      "lon": 3.7418616408264773
+      "street": "Zuiddokweg"
     }, 
     {
-      "lat": 51.07745646566316, 
       "housenumber": "44", 
+      "lat": 51.07745646566316, 
+      "lon": 3.742371102535562, 
       "pcode": 9000, 
-      "street": "Zuiddokweg", 
-      "lon": 3.742371102535562
+      "street": "Zuiddokweg"
     }, 
     {
-      "lat": 51.077962138240245, 
       "housenumber": "50", 
+      "lat": 51.077962138240245, 
+      "lon": 3.7430377414250056, 
       "pcode": 9000, 
-      "street": "Zuiddokweg", 
-      "lon": 3.7430377414250056
+      "street": "Zuiddokweg"
     }
-  ], 
-  "name": "Zuiddokweg"
+  ]
 }

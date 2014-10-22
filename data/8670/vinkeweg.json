@@ -1,20 +1,18 @@
 {
-  "pcode": 8670, 
   "addresses": [
     {
-      "lat": 51.14074847376408, 
       "housenumber": "1", 
+      "lat": 51.14074847376408, 
+      "lon": 2.704472968037019, 
       "pcode": 8670, 
-      "street": "Vinkeweg", 
-      "lon": 2.704472968037019
+      "street": "Vinkeweg"
     }, 
     {
-      "lat": 51.140530538470365, 
       "housenumber": "2", 
+      "lat": 51.140530538470365, 
+      "lon": 2.7048177421895554, 
       "pcode": 8670, 
-      "street": "Vinkeweg", 
-      "lon": 2.7048177421895554
+      "street": "Vinkeweg"
     }
-  ], 
-  "name": "Vinkeweg"
+  ]
 }

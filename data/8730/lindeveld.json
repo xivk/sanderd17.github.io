@@ -1,32 +1,30 @@
 {
-  "pcode": 8730, 
   "addresses": [
     {
-      "lat": 51.106461341303415, 
       "housenumber": "1", 
+      "lat": 51.106461341303415, 
+      "lon": 3.336608035641102, 
       "pcode": 8730, 
-      "street": "Lindeveld", 
-      "lon": 3.336608035641102
+      "street": "Lindeveld"
     }, 
     {
-      "lat": 51.106029202444965, 
       "housenumber": "2", 
+      "lat": 51.106029202444965, 
+      "lon": 3.3322991680115526, 
       "pcode": 8730, 
-      "street": "Lindeveld", 
-      "lon": 3.3322991680115526
+      "street": "Lindeveld"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8730, 
-      "street": "Lindeveld", 
-      "housenumber": "3"
+      "street": "Lindeveld"
     }, 
     {
-      "lat": 51.10285978626473, 
       "housenumber": "4", 
+      "lat": 51.10285978626473, 
+      "lon": 3.329424304576261, 
       "pcode": 8730, 
-      "street": "Lindeveld", 
-      "lon": 3.329424304576261
+      "street": "Lindeveld"
     }
-  ], 
-  "name": "Lindeveld"
+  ]
 }

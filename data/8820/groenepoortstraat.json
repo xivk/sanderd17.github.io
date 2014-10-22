@@ -1,18 +1,16 @@
 {
-  "pcode": 8820, 
   "addresses": [
     {
-      "lat": 51.06998844442154, 
       "housenumber": "2", 
+      "lat": 51.06998844442154, 
+      "lon": 3.1111863314257047, 
       "pcode": 8820, 
-      "street": "Groenepoortstraat", 
-      "lon": 3.1111863314257047
+      "street": "Groenepoortstraat"
     }, 
     {
+      "housenumber": "38", 
       "pcode": 8820, 
-      "street": "Groenepoortstraat", 
-      "housenumber": "38"
+      "street": "Groenepoortstraat"
     }
-  ], 
-  "name": "Groenepoortstraat"
+  ]
 }

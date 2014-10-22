@@ -1,28 +1,26 @@
 {
-  "pcode": 2430, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2430, 
-      "street": "Kleine Langvoort", 
-      "housenumber": "1"
+      "street": "Kleine Langvoort"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2430, 
-      "street": "Kleine Langvoort", 
-      "housenumber": "3"
+      "street": "Kleine Langvoort"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2430, 
-      "street": "Kleine Langvoort", 
-      "housenumber": "5"
+      "street": "Kleine Langvoort"
     }, 
     {
-      "lat": 51.10073830526528, 
       "housenumber": "7", 
+      "lat": 51.10073830526528, 
+      "lon": 5.079744506356666, 
       "pcode": 2430, 
-      "street": "Kleine Langvoort", 
-      "lon": 5.079744506356666
+      "street": "Kleine Langvoort"
     }
-  ], 
-  "name": "Kleine Langvoort"
+  ]
 }

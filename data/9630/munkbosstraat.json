@@ -1,32 +1,30 @@
 {
-  "pcode": 9630, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9630, 
-      "street": "Munkbosstraat", 
-      "housenumber": "1"
+      "street": "Munkbosstraat"
     }, 
     {
-      "lat": 50.90499997921088, 
       "housenumber": "5", 
+      "lat": 50.90499997921088, 
+      "lon": 3.7426694296801597, 
       "pcode": 9630, 
-      "street": "Munkbosstraat", 
-      "lon": 3.7426694296801597
+      "street": "Munkbosstraat"
     }, 
     {
-      "lat": 50.905159119606154, 
       "housenumber": "7", 
+      "lat": 50.905159119606154, 
+      "lon": 3.742825692946232, 
       "pcode": 9630, 
-      "street": "Munkbosstraat", 
-      "lon": 3.742825692946232
+      "street": "Munkbosstraat"
     }, 
     {
-      "lat": 50.90530660764643, 
       "housenumber": "9", 
+      "lat": 50.90530660764643, 
+      "lon": 3.743022205945199, 
       "pcode": 9630, 
-      "street": "Munkbosstraat", 
-      "lon": 3.743022205945199
+      "street": "Munkbosstraat"
     }
-  ], 
-  "name": "Munkbosstraat"
+  ]
 }

@@ -1,30 +1,28 @@
 {
-  "pcode": 2470, 
   "addresses": [
     {
-      "lat": 51.26308945222011, 
       "housenumber": "3", 
+      "lat": 51.26308945222011, 
+      "lon": 5.069703623835019, 
       "pcode": 2470, 
-      "street": "Lindendreef", 
-      "lon": 5.069703623835019
+      "street": "Lindendreef"
     }, 
     {
-      "lat": 51.26252957778648, 
       "housenumber": "5", 
+      "lat": 51.26252957778648, 
+      "lon": 5.069168111506659, 
       "pcode": 2470, 
-      "street": "Lindendreef", 
-      "lon": 5.069168111506659
+      "street": "Lindendreef"
     }, 
     {
+      "housenumber": "5B", 
       "pcode": 2470, 
-      "street": "Lindendreef", 
-      "housenumber": "5B"
+      "street": "Lindendreef"
     }, 
     {
+      "housenumber": "5D", 
       "pcode": 2470, 
-      "street": "Lindendreef", 
-      "housenumber": "5D"
+      "street": "Lindendreef"
     }
-  ], 
-  "name": "Lindendreef"
+  ]
 }

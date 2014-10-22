@@ -1,37 +1,35 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.20691928202812, 
       "housenumber": "1", 
+      "lat": 51.20691928202812, 
+      "lon": 3.2205389340799364, 
       "pcode": 8000, 
-      "street": "Giststraat", 
-      "lon": 3.2205389340799364
+      "street": "Giststraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 8000, 
-      "street": "Giststraat", 
-      "housenumber": "1A"
+      "street": "Giststraat"
     }, 
     {
-      "lat": 51.20701629967833, 
       "housenumber": "3", 
+      "lat": 51.20701629967833, 
+      "lon": 3.220439234042717, 
       "pcode": 8000, 
-      "street": "Giststraat", 
-      "lon": 3.220439234042717
+      "street": "Giststraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8000, 
-      "street": "Giststraat", 
-      "housenumber": "5"
+      "street": "Giststraat"
     }, 
     {
-      "lat": 51.2071078508474, 
       "housenumber": "7", 
+      "lat": 51.2071078508474, 
+      "lon": 3.22029501854529, 
       "pcode": 8000, 
-      "street": "Giststraat", 
-      "lon": 3.22029501854529
+      "street": "Giststraat"
     }
-  ], 
-  "name": "Giststraat"
+  ]
 }

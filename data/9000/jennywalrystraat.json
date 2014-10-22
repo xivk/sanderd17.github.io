@@ -1,55 +1,53 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9000, 
-      "street": "Jenny Walrystraat", 
-      "housenumber": "1"
+      "street": "Jenny Walrystraat"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 9000, 
-      "street": "Jenny Walrystraat", 
-      "housenumber": "10"
+      "street": "Jenny Walrystraat"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 9000, 
-      "street": "Jenny Walrystraat", 
-      "housenumber": "12"
+      "street": "Jenny Walrystraat"
     }, 
     {
+      "housenumber": "14", 
       "pcode": 9000, 
-      "street": "Jenny Walrystraat", 
-      "housenumber": "14"
+      "street": "Jenny Walrystraat"
     }, 
     {
+      "housenumber": "16", 
       "pcode": 9000, 
-      "street": "Jenny Walrystraat", 
-      "housenumber": "16"
+      "street": "Jenny Walrystraat"
     }, 
     {
-      "lat": 51.05492671921091, 
       "housenumber": "2", 
-      "pcode": 9000, 
-      "street": "Jenny Walrystraat", 
-      "lon": 3.6884381732185503
-    }, 
-    {
-      "pcode": 9000, 
-      "street": "Jenny Walrystraat", 
-      "housenumber": "4"
-    }, 
-    {
-      "pcode": 9000, 
-      "street": "Jenny Walrystraat", 
-      "housenumber": "6"
-    }, 
-    {
       "lat": 51.05492671921091, 
-      "housenumber": "8", 
+      "lon": 3.6884381732185503, 
       "pcode": 9000, 
-      "street": "Jenny Walrystraat", 
-      "lon": 3.6884381732185503
+      "street": "Jenny Walrystraat"
+    }, 
+    {
+      "housenumber": "4", 
+      "pcode": 9000, 
+      "street": "Jenny Walrystraat"
+    }, 
+    {
+      "housenumber": "6", 
+      "pcode": 9000, 
+      "street": "Jenny Walrystraat"
+    }, 
+    {
+      "housenumber": "8", 
+      "lat": 51.05492671921091, 
+      "lon": 3.6884381732185503, 
+      "pcode": 9000, 
+      "street": "Jenny Walrystraat"
     }
-  ], 
-  "name": "Jenny Walrystraat"
+  ]
 }

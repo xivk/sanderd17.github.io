@@ -1,27 +1,25 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.74810780070953, 
       "housenumber": "2", 
+      "lat": 50.74810780070953, 
+      "lon": 5.4432718041568044, 
       "pcode": 3700, 
-      "street": "Kapittelstraat", 
-      "lon": 5.4432718041568044
+      "street": "Kapittelstraat"
     }, 
     {
-      "lat": 50.74803938102262, 
       "housenumber": "4", 
+      "lat": 50.74803938102262, 
+      "lon": 5.443379501450614, 
       "pcode": 3700, 
-      "street": "Kapittelstraat", 
-      "lon": 5.443379501450614
+      "street": "Kapittelstraat"
     }, 
     {
-      "lat": 50.74779792764185, 
       "housenumber": "8", 
+      "lat": 50.74779792764185, 
+      "lon": 5.44366902994546, 
       "pcode": 3700, 
-      "street": "Kapittelstraat", 
-      "lon": 5.44366902994546
+      "street": "Kapittelstraat"
     }
-  ], 
-  "name": "Kapittelstraat"
+  ]
 }

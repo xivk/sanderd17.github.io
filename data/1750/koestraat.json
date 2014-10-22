@@ -1,37 +1,35 @@
 {
-  "pcode": 1750, 
   "addresses": [
     {
-      "lat": 50.813637383899035, 
       "housenumber": "1", 
+      "lat": 50.813637383899035, 
+      "lon": 4.166341799375596, 
       "pcode": 1750, 
-      "street": "Koestraat", 
-      "lon": 4.166341799375596
+      "street": "Koestraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 1750, 
-      "street": "Koestraat", 
-      "housenumber": "2"
+      "street": "Koestraat"
     }, 
     {
-      "lat": 50.81376113189673, 
       "housenumber": "3", 
+      "lat": 50.81376113189673, 
+      "lon": 4.166110264555449, 
       "pcode": 1750, 
-      "street": "Koestraat", 
-      "lon": 4.166110264555449
+      "street": "Koestraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 1750, 
-      "street": "Koestraat", 
-      "housenumber": "4"
+      "street": "Koestraat"
     }, 
     {
-      "lat": 50.813879631643964, 
       "housenumber": "5", 
+      "lat": 50.813879631643964, 
+      "lon": 4.165911244983981, 
       "pcode": 1750, 
-      "street": "Koestraat", 
-      "lon": 4.165911244983981
+      "street": "Koestraat"
     }
-  ], 
-  "name": "Koestraat"
+  ]
 }

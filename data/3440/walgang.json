@@ -1,25 +1,23 @@
 {
-  "pcode": 3440, 
   "addresses": [
     {
-      "lat": 50.830063531635716, 
       "housenumber": "1", 
+      "lat": 50.830063531635716, 
+      "lon": 5.104629120805194, 
       "pcode": 3440, 
-      "street": "Walgang", 
-      "lon": 5.104629120805194
+      "street": "Walgang"
     }, 
     {
-      "lat": 50.830142433382015, 
       "housenumber": "2", 
+      "lat": 50.830142433382015, 
+      "lon": 5.104862871344276, 
       "pcode": 3440, 
-      "street": "Walgang", 
-      "lon": 5.104862871344276
+      "street": "Walgang"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3440, 
-      "street": "Walgang", 
-      "housenumber": "3"
+      "street": "Walgang"
     }
-  ], 
-  "name": "Walgang"
+  ]
 }

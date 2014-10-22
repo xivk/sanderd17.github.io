@@ -1,20 +1,18 @@
 {
-  "pcode": 8432, 
   "addresses": [
     {
-      "lat": 51.175060333592185, 
       "housenumber": "1", 
+      "lat": 51.175060333592185, 
+      "lon": 2.8599124585474613, 
       "pcode": 8432, 
-      "street": "Kaaifortsweg", 
-      "lon": 2.8599124585474613
+      "street": "Kaaifortsweg"
     }, 
     {
-      "lat": 51.17395697289976, 
       "housenumber": "2", 
+      "lat": 51.17395697289976, 
+      "lon": 2.8585426724006715, 
       "pcode": 8432, 
-      "street": "Kaaifortsweg", 
-      "lon": 2.8585426724006715
+      "street": "Kaaifortsweg"
     }
-  ], 
-  "name": "Kaaifortsweg"
+  ]
 }

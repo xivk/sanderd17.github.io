@@ -1,20 +1,18 @@
 {
-  "pcode": 8953, 
   "addresses": [
     {
-      "lat": 50.78158194666438, 
       "housenumber": "1", 
+      "lat": 50.78158194666438, 
+      "lon": 2.9324920105319148, 
       "pcode": 8953, 
-      "street": "Wambekestraat", 
-      "lon": 2.9324920105319148
+      "street": "Wambekestraat"
     }, 
     {
-      "lat": 50.781314375627026, 
       "housenumber": "2", 
+      "lat": 50.781314375627026, 
+      "lon": 2.926162537432122, 
       "pcode": 8953, 
-      "street": "Wambekestraat", 
-      "lon": 2.926162537432122
+      "street": "Wambekestraat"
     }
-  ], 
-  "name": "Wambekestraat"
+  ]
 }

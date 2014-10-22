@@ -1,39 +1,37 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.21264950310245, 
       "housenumber": "10", 
+      "lat": 51.21264950310245, 
+      "lon": 3.2049805219359038, 
       "pcode": 8000, 
-      "street": "Bevrijdingslaan", 
-      "lon": 3.2049805219359038
+      "street": "Bevrijdingslaan"
     }, 
     {
-      "lat": 51.212278224165566, 
       "housenumber": "2", 
+      "lat": 51.212278224165566, 
+      "lon": 3.2060579156537448, 
       "pcode": 8000, 
-      "street": "Bevrijdingslaan", 
-      "lon": 3.2060579156537448
+      "street": "Bevrijdingslaan"
     }, 
     {
-      "lat": 51.212450905376116, 
       "housenumber": "4", 
+      "lat": 51.212450905376116, 
+      "lon": 3.2051338952315738, 
       "pcode": 8000, 
-      "street": "Bevrijdingslaan", 
-      "lon": 3.2051338952315738
+      "street": "Bevrijdingslaan"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 8000, 
-      "street": "Bevrijdingslaan", 
-      "housenumber": "6"
+      "street": "Bevrijdingslaan"
     }, 
     {
-      "lat": 51.2122776921607, 
       "housenumber": "8", 
+      "lat": 51.2122776921607, 
+      "lon": 3.204769956953489, 
       "pcode": 8000, 
-      "street": "Bevrijdingslaan", 
-      "lon": 3.204769956953489
+      "street": "Bevrijdingslaan"
     }
-  ], 
-  "name": "Bevrijdingslaan"
+  ]
 }

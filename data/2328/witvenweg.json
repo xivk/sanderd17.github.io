@@ -1,20 +1,18 @@
 {
-  "pcode": 2328, 
   "addresses": [
     {
-      "lat": 51.46638275880795, 
       "housenumber": "1", 
+      "lat": 51.46638275880795, 
+      "lon": 4.786545978063356, 
       "pcode": 2328, 
-      "street": "Witvenweg", 
-      "lon": 4.786545978063356
+      "street": "Witvenweg"
     }, 
     {
-      "lat": 51.46634477070249, 
       "housenumber": "3", 
+      "lat": 51.46634477070249, 
+      "lon": 4.7878885843848575, 
       "pcode": 2328, 
-      "street": "Witvenweg", 
-      "lon": 4.7878885843848575
+      "street": "Witvenweg"
     }
-  ], 
-  "name": "Witvenweg"
+  ]
 }

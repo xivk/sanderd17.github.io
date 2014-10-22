@@ -1,20 +1,18 @@
 {
-  "pcode": 9772, 
   "addresses": [
     {
-      "lat": 50.89347113756221, 
       "housenumber": "1", 
+      "lat": 50.89347113756221, 
+      "lon": 3.572454659788839, 
       "pcode": 9772, 
-      "street": "Ledekerkweg", 
-      "lon": 3.572454659788839
+      "street": "Ledekerkweg"
     }, 
     {
-      "lat": 50.89365529311743, 
       "housenumber": "2", 
+      "lat": 50.89365529311743, 
+      "lon": 3.5747325160317156, 
       "pcode": 9772, 
-      "street": "Ledekerkweg", 
-      "lon": 3.5747325160317156
+      "street": "Ledekerkweg"
     }
-  ], 
-  "name": "Ledekerkweg"
+  ]
 }

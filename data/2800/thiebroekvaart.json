@@ -1,20 +1,18 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
-      "lat": 51.04197515587176, 
       "housenumber": "40", 
+      "lat": 51.04197515587176, 
+      "lon": 4.439845236942666, 
       "pcode": 2800, 
-      "street": "Thiebroekvaart", 
-      "lon": 4.439845236942666
+      "street": "Thiebroekvaart"
     }, 
     {
-      "lat": 51.04229369698673, 
       "housenumber": "42", 
+      "lat": 51.04229369698673, 
+      "lon": 4.439891495770262, 
       "pcode": 2800, 
-      "street": "Thiebroekvaart", 
-      "lon": 4.439891495770262
+      "street": "Thiebroekvaart"
     }
-  ], 
-  "name": "Thiebroekvaart"
+  ]
 }

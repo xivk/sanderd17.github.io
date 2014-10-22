@@ -1,20 +1,18 @@
 {
-  "pcode": 3840, 
   "addresses": [
     {
-      "lat": 50.822866897835986, 
       "housenumber": "3", 
+      "lat": 50.822866897835986, 
+      "lon": 5.392374820124731, 
       "pcode": 3840, 
-      "street": "Leeuwerveld", 
-      "lon": 5.392374820124731
+      "street": "Leeuwerveld"
     }, 
     {
-      "lat": 50.828155029429624, 
       "housenumber": "41", 
+      "lat": 50.828155029429624, 
+      "lon": 5.38938000966467, 
       "pcode": 3840, 
-      "street": "Leeuwerveld", 
-      "lon": 5.38938000966467
+      "street": "Leeuwerveld"
     }
-  ], 
-  "name": "Leeuwerveld"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 3290, 
   "addresses": [
     {
-      "lat": 50.99076308800736, 
       "housenumber": "1", 
+      "lat": 50.99076308800736, 
+      "lon": 5.050640779396507, 
       "pcode": 3290, 
-      "street": "Weerstandsplein", 
-      "lon": 5.050640779396507
+      "street": "Weerstandsplein"
     }, 
     {
-      "lat": 50.98985885119069, 
       "housenumber": "2", 
+      "lat": 50.98985885119069, 
+      "lon": 5.050854646838812, 
       "pcode": 3290, 
-      "street": "Weerstandsplein", 
-      "lon": 5.050854646838812
+      "street": "Weerstandsplein"
     }, 
     {
-      "lat": 50.99024309666762, 
       "housenumber": "3", 
+      "lat": 50.99024309666762, 
+      "lon": 5.052596804487882, 
       "pcode": 3290, 
-      "street": "Weerstandsplein", 
-      "lon": 5.052596804487882
+      "street": "Weerstandsplein"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3290, 
-      "street": "Weerstandsplein", 
-      "housenumber": "6"
+      "street": "Weerstandsplein"
     }
-  ], 
-  "name": "Weerstandsplein"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3990, 
   "addresses": [
     {
-      "lat": 51.13167741981664, 
       "housenumber": "1", 
+      "lat": 51.13167741981664, 
+      "lon": 5.456888525959415, 
       "pcode": 3990, 
-      "street": "De Bogaerd", 
-      "lon": 5.456888525959415
+      "street": "De Bogaerd"
     }, 
     {
-      "lat": 51.13166935400204, 
       "housenumber": "3", 
+      "lat": 51.13166935400204, 
+      "lon": 5.4563888478189275, 
       "pcode": 3990, 
-      "street": "De Bogaerd", 
-      "lon": 5.4563888478189275
+      "street": "De Bogaerd"
     }
-  ], 
-  "name": "De Bogaerd"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9988, 
   "addresses": [
     {
-      "lat": 51.260507431681646, 
       "housenumber": "1", 
+      "lat": 51.260507431681646, 
+      "lon": 3.640053701499397, 
       "pcode": 9988, 
-      "street": "Christoffelpolder", 
-      "lon": 3.640053701499397
+      "street": "Christoffelpolder"
     }, 
     {
-      "lat": 51.25934160681765, 
       "housenumber": "3", 
+      "lat": 51.25934160681765, 
+      "lon": 3.638799360281687, 
       "pcode": 9988, 
-      "street": "Christoffelpolder", 
-      "lon": 3.638799360281687
+      "street": "Christoffelpolder"
     }
-  ], 
-  "name": "Christoffelpolder"
+  ]
 }

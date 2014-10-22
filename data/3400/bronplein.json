@@ -1,58 +1,56 @@
 {
-  "pcode": 3400, 
   "addresses": [
     {
-      "lat": 50.75677111905656, 
       "housenumber": "1", 
+      "lat": 50.75677111905656, 
+      "lon": 5.078944076733274, 
       "pcode": 3400, 
-      "street": "Bronplein", 
-      "lon": 5.078944076733274
+      "street": "Bronplein"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 3400, 
-      "street": "Bronplein", 
-      "housenumber": "12"
+      "street": "Bronplein"
     }, 
     {
-      "lat": 50.75670440494897, 
       "housenumber": "2", 
+      "lat": 50.75670440494897, 
+      "lon": 5.078797231131911, 
       "pcode": 3400, 
-      "street": "Bronplein", 
-      "lon": 5.078797231131911
+      "street": "Bronplein"
     }, 
     {
-      "lat": 50.75663309321967, 
       "housenumber": "3", 
+      "lat": 50.75663309321967, 
+      "lon": 5.078563578866555, 
       "pcode": 3400, 
-      "street": "Bronplein", 
-      "lon": 5.078563578866555
+      "street": "Bronplein"
     }, 
     {
-      "lat": 50.756135624720244, 
       "housenumber": "4", 
+      "lat": 50.756135624720244, 
+      "lon": 5.078170860932462, 
       "pcode": 3400, 
-      "street": "Bronplein", 
-      "lon": 5.078170860932462
+      "street": "Bronplein"
     }, 
     {
-      "lat": 50.75604775063412, 
       "housenumber": "5", 
+      "lat": 50.75604775063412, 
+      "lon": 5.078962496005033, 
       "pcode": 3400, 
-      "street": "Bronplein", 
-      "lon": 5.078962496005033
+      "street": "Bronplein"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3400, 
-      "street": "Bronplein", 
-      "housenumber": "6"
+      "street": "Bronplein"
     }, 
     {
-      "lat": 50.75625980909818, 
       "housenumber": "7", 
+      "lat": 50.75625980909818, 
+      "lon": 5.079305983758024, 
       "pcode": 3400, 
-      "street": "Bronplein", 
-      "lon": 5.079305983758024
+      "street": "Bronplein"
     }
-  ], 
-  "name": "Bronplein"
+  ]
 }

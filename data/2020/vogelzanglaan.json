@@ -1,25 +1,23 @@
 {
-  "pcode": 2020, 
   "addresses": [
     {
+      "housenumber": "15", 
       "pcode": 2020, 
-      "street": "Vogelzanglaan", 
-      "housenumber": "15"
+      "street": "Vogelzanglaan"
     }, 
     {
-      "lat": 51.187777515630216, 
       "housenumber": "6", 
+      "lat": 51.187777515630216, 
+      "lon": 4.397965574644851, 
       "pcode": 2020, 
-      "street": "Vogelzanglaan", 
-      "lon": 4.397965574644851
+      "street": "Vogelzanglaan"
     }, 
     {
-      "lat": 51.185533914606545, 
       "housenumber": "9", 
+      "lat": 51.185533914606545, 
+      "lon": 4.4105206722755, 
       "pcode": 2020, 
-      "street": "Vogelzanglaan", 
-      "lon": 4.4105206722755
+      "street": "Vogelzanglaan"
     }
-  ], 
-  "name": "Vogelzanglaan"
+  ]
 }

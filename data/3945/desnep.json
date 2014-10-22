@@ -1,25 +1,23 @@
 {
-  "pcode": 3945, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3945, 
-      "street": "De Snep", 
-      "housenumber": "1"
+      "street": "De Snep"
     }, 
     {
-      "lat": 51.078242079610604, 
       "housenumber": "15", 
+      "lat": 51.078242079610604, 
+      "lon": 5.160625777600236, 
       "pcode": 3945, 
-      "street": "De Snep", 
-      "lon": 5.160625777600236
+      "street": "De Snep"
     }, 
     {
-      "lat": 51.0811081832727, 
       "housenumber": "3324", 
+      "lat": 51.0811081832727, 
+      "lon": 5.157916988873095, 
       "pcode": 3945, 
-      "street": "De Snep", 
-      "lon": 5.157916988873095
+      "street": "De Snep"
     }
-  ], 
-  "name": "De Snep"
+  ]
 }

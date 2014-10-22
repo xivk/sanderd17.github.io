@@ -1,20 +1,18 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.25719335837007, 
       "housenumber": "1", 
+      "lat": 51.25719335837007, 
+      "lon": 3.3075292598908095, 
       "pcode": 8340, 
-      "street": "Hulsterlo", 
-      "lon": 3.3075292598908095
+      "street": "Hulsterlo"
     }, 
     {
-      "lat": 51.246101069332745, 
       "housenumber": "2", 
+      "lat": 51.246101069332745, 
+      "lon": 3.3088656292138725, 
       "pcode": 8340, 
-      "street": "Hulsterlo", 
-      "lon": 3.3088656292138725
+      "street": "Hulsterlo"
     }
-  ], 
-  "name": "Hulsterlo"
+  ]
 }

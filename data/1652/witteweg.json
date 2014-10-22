@@ -1,32 +1,30 @@
 {
-  "pcode": 1652, 
   "addresses": [
     {
+      "housenumber": "18", 
       "pcode": 1652, 
-      "street": "Witteweg", 
-      "housenumber": "18"
+      "street": "Witteweg"
     }, 
     {
-      "lat": 50.7427705542617, 
       "housenumber": "20", 
+      "lat": 50.7427705542617, 
+      "lon": 4.3357524552588185, 
       "pcode": 1652, 
-      "street": "Witteweg", 
-      "lon": 4.3357524552588185
+      "street": "Witteweg"
     }, 
     {
-      "lat": 50.7433623208813, 
       "housenumber": "4", 
+      "lat": 50.7433623208813, 
+      "lon": 4.332847570213886, 
       "pcode": 1652, 
-      "street": "Witteweg", 
-      "lon": 4.332847570213886
+      "street": "Witteweg"
     }, 
     {
-      "lat": 50.74347254264447, 
       "housenumber": "6", 
+      "lat": 50.74347254264447, 
+      "lon": 4.333172223525779, 
       "pcode": 1652, 
-      "street": "Witteweg", 
-      "lon": 4.333172223525779
+      "street": "Witteweg"
     }
-  ], 
-  "name": "Witteweg"
+  ]
 }

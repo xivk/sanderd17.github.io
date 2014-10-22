@@ -1,27 +1,25 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.35347693343854, 
       "housenumber": "1", 
+      "lat": 51.35347693343854, 
+      "lon": 3.3120733882141864, 
       "pcode": 8300, 
-      "street": "Wulpenpad", 
-      "lon": 3.3120733882141864
+      "street": "Wulpenpad"
     }, 
     {
-      "lat": 51.353489025778856, 
       "housenumber": "2", 
+      "lat": 51.353489025778856, 
+      "lon": 3.313078432661672, 
       "pcode": 8300, 
-      "street": "Wulpenpad", 
-      "lon": 3.313078432661672
+      "street": "Wulpenpad"
     }, 
     {
-      "lat": 51.3535851467574, 
       "housenumber": "4", 
+      "lat": 51.3535851467574, 
+      "lon": 3.312687933029856, 
       "pcode": 8300, 
-      "street": "Wulpenpad", 
-      "lon": 3.312687933029856
+      "street": "Wulpenpad"
     }
-  ], 
-  "name": "Wulpenpad"
+  ]
 }

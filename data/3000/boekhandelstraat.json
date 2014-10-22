@@ -1,41 +1,39 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.87875649127202, 
       "housenumber": "1", 
+      "lat": 50.87875649127202, 
+      "lon": 4.701828879095806, 
       "pcode": 3000, 
-      "street": "Boekhandelstraat", 
-      "lon": 4.701828879095806
+      "street": "Boekhandelstraat"
     }, 
     {
-      "lat": 50.8787587915378, 
       "housenumber": "2", 
+      "lat": 50.8787587915378, 
+      "lon": 4.701240777970772, 
       "pcode": 3000, 
-      "street": "Boekhandelstraat", 
-      "lon": 4.701240777970772
+      "street": "Boekhandelstraat"
     }, 
     {
-      "lat": 50.878680507931236, 
       "housenumber": "3", 
+      "lat": 50.878680507931236, 
+      "lon": 4.701773349836273, 
       "pcode": 3000, 
-      "street": "Boekhandelstraat", 
-      "lon": 4.701773349836273
+      "street": "Boekhandelstraat"
     }, 
     {
-      "lat": 50.87863100312384, 
       "housenumber": "5", 
+      "lat": 50.87863100312384, 
+      "lon": 4.701732075864878, 
       "pcode": 3000, 
-      "street": "Boekhandelstraat", 
-      "lon": 4.701732075864878
+      "street": "Boekhandelstraat"
     }, 
     {
-      "lat": 50.87865244904475, 
       "housenumber": "7", 
+      "lat": 50.87865244904475, 
+      "lon": 4.702093424440435, 
       "pcode": 3000, 
-      "street": "Boekhandelstraat", 
-      "lon": 4.702093424440435
+      "street": "Boekhandelstraat"
     }
-  ], 
-  "name": "Boekhandelstraat"
+  ]
 }

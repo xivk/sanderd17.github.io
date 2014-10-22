@@ -1,51 +1,49 @@
 {
-  "pcode": 3221, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 3221, 
-      "street": "Rijksweg Aarschot-Winge", 
-      "housenumber": "11"
+      "street": "Rijksweg Aarschot-Winge"
     }, 
     {
-      "lat": 50.96226021729946, 
       "housenumber": "12", 
+      "lat": 50.96226021729946, 
+      "lon": 4.837830712205072, 
       "pcode": 3221, 
-      "street": "Rijksweg Aarschot-Winge", 
-      "lon": 4.837830712205072
+      "street": "Rijksweg Aarschot-Winge"
     }, 
     {
-      "lat": 50.96270437640022, 
       "housenumber": "3", 
+      "lat": 50.96270437640022, 
+      "lon": 4.837607263732363, 
       "pcode": 3221, 
-      "street": "Rijksweg Aarschot-Winge", 
-      "lon": 4.837607263732363
+      "street": "Rijksweg Aarschot-Winge"
     }, 
     {
-      "lat": 50.959420939424106, 
       "housenumber": "5", 
+      "lat": 50.959420939424106, 
+      "lon": 4.83766804456004, 
       "pcode": 3221, 
-      "street": "Rijksweg Aarschot-Winge", 
-      "lon": 4.83766804456004
+      "street": "Rijksweg Aarschot-Winge"
     }, 
     {
-      "lat": 50.961193840164896, 
       "housenumber": "7", 
+      "lat": 50.961193840164896, 
+      "lon": 4.837191869897904, 
       "pcode": 3221, 
-      "street": "Rijksweg Aarschot-Winge", 
-      "lon": 4.837191869897904
+      "street": "Rijksweg Aarschot-Winge"
     }, 
     {
-      "lat": 50.96194171159686, 
       "housenumber": "8B", 
+      "lat": 50.96194171159686, 
+      "lon": 4.837788661071874, 
       "pcode": 3221, 
-      "street": "Rijksweg Aarschot-Winge", 
-      "lon": 4.837788661071874
+      "street": "Rijksweg Aarschot-Winge"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 3221, 
-      "street": "Rijksweg Aarschot-Winge", 
-      "housenumber": "9"
+      "street": "Rijksweg Aarschot-Winge"
     }
-  ], 
-  "name": "Rijksweg Aarschot-Winge"
+  ]
 }

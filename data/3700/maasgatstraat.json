@@ -1,27 +1,25 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.74298170167534, 
       "housenumber": "28", 
+      "lat": 50.74298170167534, 
+      "lon": 5.44196598340829, 
       "pcode": 3700, 
-      "street": "Maasgatstraat", 
-      "lon": 5.44196598340829
+      "street": "Maasgatstraat"
     }, 
     {
-      "lat": 50.744556170301706, 
       "housenumber": "6", 
+      "lat": 50.744556170301706, 
+      "lon": 5.442923636117621, 
       "pcode": 3700, 
-      "street": "Maasgatstraat", 
-      "lon": 5.442923636117621
+      "street": "Maasgatstraat"
     }, 
     {
-      "lat": 50.744292403007066, 
       "housenumber": "8", 
+      "lat": 50.744292403007066, 
+      "lon": 5.443156381542935, 
       "pcode": 3700, 
-      "street": "Maasgatstraat", 
-      "lon": 5.443156381542935
+      "street": "Maasgatstraat"
     }
-  ], 
-  "name": "Maasgatstraat"
+  ]
 }

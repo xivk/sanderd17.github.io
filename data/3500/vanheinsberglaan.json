@@ -1,18 +1,16 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3500, 
-      "street": "van Heinsberglaan", 
-      "housenumber": "1"
+      "street": "van Heinsberglaan"
     }, 
     {
-      "lat": 50.915529604016626, 
       "housenumber": "13", 
+      "lat": 50.915529604016626, 
+      "lon": 5.345021456437693, 
       "pcode": 3500, 
-      "street": "van Heinsberglaan", 
-      "lon": 5.345021456437693
+      "street": "van Heinsberglaan"
     }
-  ], 
-  "name": "van Heinsberglaan"
+  ]
 }

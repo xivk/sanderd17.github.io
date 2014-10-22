@@ -1,20 +1,18 @@
 {
-  "pcode": 1700, 
   "addresses": [
     {
-      "lat": 50.866651011512914, 
       "housenumber": "3", 
+      "lat": 50.866651011512914, 
+      "lon": 4.236730819221862, 
       "pcode": 1700, 
-      "street": "Lusthofstraat", 
-      "lon": 4.236730819221862
+      "street": "Lusthofstraat"
     }, 
     {
-      "lat": 50.8675944451049, 
       "housenumber": "6", 
+      "lat": 50.8675944451049, 
+      "lon": 4.2368006311784345, 
       "pcode": 1700, 
-      "street": "Lusthofstraat", 
-      "lon": 4.2368006311784345
+      "street": "Lusthofstraat"
     }
-  ], 
-  "name": "Lusthofstraat"
+  ]
 }

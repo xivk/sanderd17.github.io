@@ -1,20 +1,18 @@
 {
-  "pcode": 3560, 
   "addresses": [
     {
-      "lat": 50.992780741159, 
       "housenumber": "1", 
+      "lat": 50.992780741159, 
+      "lon": 5.196833169678608, 
       "pcode": 3560, 
-      "street": "Mezenstraat", 
-      "lon": 5.196833169678608
+      "street": "Mezenstraat"
     }, 
     {
-      "lat": 50.992519136236304, 
       "housenumber": "2", 
+      "lat": 50.992519136236304, 
+      "lon": 5.197038077949333, 
       "pcode": 3560, 
-      "street": "Mezenstraat", 
-      "lon": 5.197038077949333
+      "street": "Mezenstraat"
     }
-  ], 
-  "name": "Mezenstraat"
+  ]
 }

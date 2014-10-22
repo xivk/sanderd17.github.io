@@ -1,27 +1,25 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.351195075547814, 
       "housenumber": "1", 
+      "lat": 51.351195075547814, 
+      "lon": 3.3268770927973286, 
       "pcode": 8300, 
-      "street": "Bijenhof", 
-      "lon": 3.3268770927973286
+      "street": "Bijenhof"
     }, 
     {
-      "lat": 51.35120968409992, 
       "housenumber": "3", 
+      "lat": 51.35120968409992, 
+      "lon": 3.327312434001972, 
       "pcode": 8300, 
-      "street": "Bijenhof", 
-      "lon": 3.327312434001972
+      "street": "Bijenhof"
     }, 
     {
-      "lat": 51.3512766454269, 
       "housenumber": "3A", 
+      "lat": 51.3512766454269, 
+      "lon": 3.32821342288124, 
       "pcode": 8300, 
-      "street": "Bijenhof", 
-      "lon": 3.32821342288124
+      "street": "Bijenhof"
     }
-  ], 
-  "name": "Bijenhof"
+  ]
 }

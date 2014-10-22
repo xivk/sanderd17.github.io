@@ -1,32 +1,30 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.25124552286758, 
       "housenumber": "1", 
+      "lat": 51.25124552286758, 
+      "lon": 3.280188290736764, 
       "pcode": 8340, 
-      "street": "Sint-Janstraat", 
-      "lon": 3.280188290736764
+      "street": "Sint-Janstraat"
     }, 
     {
-      "lat": 51.25077577104279, 
       "housenumber": "2", 
+      "lat": 51.25077577104279, 
+      "lon": 3.280220457856054, 
       "pcode": 8340, 
-      "street": "Sint-Janstraat", 
-      "lon": 3.280220457856054
+      "street": "Sint-Janstraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 8340, 
-      "street": "Sint-Janstraat", 
-      "housenumber": "2A"
+      "street": "Sint-Janstraat"
     }, 
     {
-      "lat": 51.25106640992387, 
       "housenumber": "3", 
+      "lat": 51.25106640992387, 
+      "lon": 3.280300476230153, 
       "pcode": 8340, 
-      "street": "Sint-Janstraat", 
-      "lon": 3.280300476230153
+      "street": "Sint-Janstraat"
     }
-  ], 
-  "name": "Sint-Janstraat"
+  ]
 }

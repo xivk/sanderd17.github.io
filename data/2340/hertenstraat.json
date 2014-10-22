@@ -1,32 +1,30 @@
 {
-  "pcode": 2340, 
   "addresses": [
     {
-      "lat": 51.31645746279002, 
       "housenumber": "2", 
+      "lat": 51.31645746279002, 
+      "lon": 4.788907453997404, 
       "pcode": 2340, 
-      "street": "Hertenstraat", 
-      "lon": 4.788907453997404
+      "street": "Hertenstraat"
     }, 
     {
+      "housenumber": "24", 
       "pcode": 2340, 
-      "street": "Hertenstraat", 
-      "housenumber": "24"
+      "street": "Hertenstraat"
     }, 
     {
-      "lat": 51.31723640459117, 
       "housenumber": "4", 
+      "lat": 51.31723640459117, 
+      "lon": 4.787988075765999, 
       "pcode": 2340, 
-      "street": "Hertenstraat", 
-      "lon": 4.787988075765999
+      "street": "Hertenstraat"
     }, 
     {
-      "lat": 51.316882147293555, 
       "housenumber": "6", 
+      "lat": 51.316882147293555, 
+      "lon": 4.788073518550343, 
       "pcode": 2340, 
-      "street": "Hertenstraat", 
-      "lon": 4.788073518550343
+      "street": "Hertenstraat"
     }
-  ], 
-  "name": "Hertenstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.771465084140544, 
       "housenumber": "15", 
+      "lat": 50.771465084140544, 
+      "lon": 4.979091006202106, 
       "pcode": 3300, 
-      "street": "Hooibosstraat", 
-      "lon": 4.979091006202106
+      "street": "Hooibosstraat"
     }, 
     {
-      "lat": 50.77149357638713, 
       "housenumber": "8", 
+      "lat": 50.77149357638713, 
+      "lon": 4.980159339506933, 
       "pcode": 3300, 
-      "street": "Hooibosstraat", 
-      "lon": 4.980159339506933
+      "street": "Hooibosstraat"
     }
-  ], 
-  "name": "Hooibosstraat"
+  ]
 }

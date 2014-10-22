@@ -1,27 +1,25 @@
 {
-  "pcode": 9900, 
   "addresses": [
     {
-      "lat": 51.19123699548586, 
       "housenumber": "2", 
+      "lat": 51.19123699548586, 
+      "lon": 3.555821704788408, 
       "pcode": 9900, 
-      "street": "Gauberg", 
-      "lon": 3.555821704788408
+      "street": "Gauberg"
     }, 
     {
-      "lat": 51.19148949615053, 
       "housenumber": "3", 
+      "lat": 51.19148949615053, 
+      "lon": 3.555834618199334, 
       "pcode": 9900, 
-      "street": "Gauberg", 
-      "lon": 3.555834618199334
+      "street": "Gauberg"
     }, 
     {
-      "lat": 51.19166741113502, 
       "housenumber": "A", 
+      "lat": 51.19166741113502, 
+      "lon": 3.5558639936528884, 
       "pcode": 9900, 
-      "street": "Gauberg", 
-      "lon": 3.5558639936528884
+      "street": "Gauberg"
     }
-  ], 
-  "name": "Gauberg"
+  ]
 }

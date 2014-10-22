@@ -1,20 +1,18 @@
 {
-  "pcode": 8900, 
   "addresses": [
     {
-      "lat": 50.850388775487716, 
       "housenumber": "1", 
+      "lat": 50.850388775487716, 
+      "lon": 2.882856469005949, 
       "pcode": 8900, 
-      "street": "Pensenstraatje", 
-      "lon": 2.882856469005949
+      "street": "Pensenstraatje"
     }, 
     {
-      "lat": 50.850510091948216, 
       "housenumber": "2", 
+      "lat": 50.850510091948216, 
+      "lon": 2.8830145531844584, 
       "pcode": 8900, 
-      "street": "Pensenstraatje", 
-      "lon": 2.8830145531844584
+      "street": "Pensenstraatje"
     }
-  ], 
-  "name": "Pensenstraatje"
+  ]
 }

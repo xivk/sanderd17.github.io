@@ -1,51 +1,49 @@
 {
-  "pcode": 8870, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8870, 
-      "street": "Baertshof", 
-      "housenumber": "1"
+      "street": "Baertshof"
     }, 
     {
-      "lat": 50.920318542633986, 
       "housenumber": "2", 
+      "lat": 50.920318542633986, 
+      "lon": 3.2166714687218563, 
       "pcode": 8870, 
-      "street": "Baertshof", 
-      "lon": 3.2166714687218563
+      "street": "Baertshof"
     }, 
     {
-      "lat": 50.920477083176046, 
       "housenumber": "3", 
+      "lat": 50.920477083176046, 
+      "lon": 3.2166021515384386, 
       "pcode": 8870, 
-      "street": "Baertshof", 
-      "lon": 3.2166021515384386
+      "street": "Baertshof"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8870, 
-      "street": "Baertshof", 
-      "housenumber": "4"
+      "street": "Baertshof"
     }, 
     {
-      "lat": 50.92054738409276, 
       "housenumber": "5", 
+      "lat": 50.92054738409276, 
+      "lon": 3.216730143944587, 
       "pcode": 8870, 
-      "street": "Baertshof", 
-      "lon": 3.216730143944587
+      "street": "Baertshof"
     }, 
     {
-      "lat": 50.920359919924465, 
       "housenumber": "6", 
+      "lat": 50.920359919924465, 
+      "lon": 3.2174626930614014, 
       "pcode": 8870, 
-      "street": "Baertshof", 
-      "lon": 3.2174626930614014
+      "street": "Baertshof"
     }, 
     {
-      "lat": 50.9206089892782, 
       "housenumber": "7", 
+      "lat": 50.9206089892782, 
+      "lon": 3.216869871000384, 
       "pcode": 8870, 
-      "street": "Baertshof", 
-      "lon": 3.216869871000384
+      "street": "Baertshof"
     }
-  ], 
-  "name": "Baertshof"
+  ]
 }

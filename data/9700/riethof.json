@@ -1,39 +1,37 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.85391332799695, 
       "housenumber": "10", 
+      "lat": 50.85391332799695, 
+      "lon": 3.608555049810757, 
       "pcode": 9700, 
-      "street": "Riethof", 
-      "lon": 3.608555049810757
+      "street": "Riethof"
     }, 
     {
-      "lat": 50.854236804653546, 
       "housenumber": "2", 
+      "lat": 50.854236804653546, 
+      "lon": 3.6078361539678028, 
       "pcode": 9700, 
-      "street": "Riethof", 
-      "lon": 3.6078361539678028
+      "street": "Riethof"
     }, 
     {
-      "lat": 50.8541555560133, 
       "housenumber": "4", 
+      "lat": 50.8541555560133, 
+      "lon": 3.608019684123628, 
       "pcode": 9700, 
-      "street": "Riethof", 
-      "lon": 3.608019684123628
+      "street": "Riethof"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9700, 
-      "street": "Riethof", 
-      "housenumber": "6"
+      "street": "Riethof"
     }, 
     {
-      "lat": 50.85373368740517, 
       "housenumber": "8", 
+      "lat": 50.85373368740517, 
+      "lon": 3.608773968310151, 
       "pcode": 9700, 
-      "street": "Riethof", 
-      "lon": 3.608773968310151
+      "street": "Riethof"
     }
-  ], 
-  "name": "Riethof"
+  ]
 }

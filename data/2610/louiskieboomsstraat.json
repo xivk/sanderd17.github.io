@@ -1,32 +1,30 @@
 {
-  "pcode": 2610, 
   "addresses": [
     {
-      "lat": 51.17613508451046, 
       "housenumber": "1", 
+      "lat": 51.17613508451046, 
+      "lon": 4.394390948259211, 
       "pcode": 2610, 
-      "street": "Louis Kieboomsstraat", 
-      "lon": 4.394390948259211
+      "street": "Louis Kieboomsstraat"
     }, 
     {
-      "lat": 51.17600187146562, 
       "housenumber": "2", 
+      "lat": 51.17600187146562, 
+      "lon": 4.394403742666011, 
       "pcode": 2610, 
-      "street": "Louis Kieboomsstraat", 
-      "lon": 4.394403742666011
+      "street": "Louis Kieboomsstraat"
     }, 
     {
-      "lat": 51.17614083806891, 
       "housenumber": "3", 
+      "lat": 51.17614083806891, 
+      "lon": 4.394386947629927, 
       "pcode": 2610, 
-      "street": "Louis Kieboomsstraat", 
-      "lon": 4.394386947629927
+      "street": "Louis Kieboomsstraat"
     }, 
     {
+      "housenumber": "42", 
       "pcode": 2610, 
-      "street": "Louis Kieboomsstraat", 
-      "housenumber": "42"
+      "street": "Louis Kieboomsstraat"
     }
-  ], 
-  "name": "Louis Kieboomsstraat"
+  ]
 }

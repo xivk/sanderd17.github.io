@@ -1,27 +1,25 @@
 {
-  "pcode": 3111, 
   "addresses": [
     {
-      "lat": 50.950704847951485, 
       "housenumber": "1", 
+      "lat": 50.950704847951485, 
+      "lon": 4.757156223127487, 
       "pcode": 3111, 
-      "street": "Kerzestraat", 
-      "lon": 4.757156223127487
+      "street": "Kerzestraat"
     }, 
     {
-      "lat": 50.95026470139598, 
       "housenumber": "4", 
+      "lat": 50.95026470139598, 
+      "lon": 4.758140906578307, 
       "pcode": 3111, 
-      "street": "Kerzestraat", 
-      "lon": 4.758140906578307
+      "street": "Kerzestraat"
     }, 
     {
-      "lat": 50.95001873511523, 
       "housenumber": "5", 
+      "lat": 50.95001873511523, 
+      "lon": 4.758606343016235, 
       "pcode": 3111, 
-      "street": "Kerzestraat", 
-      "lon": 4.758606343016235
+      "street": "Kerzestraat"
     }
-  ], 
-  "name": "Kerzestraat"
+  ]
 }

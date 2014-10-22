@@ -1,38 +1,36 @@
 {
-  "pcode": 2910, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 2910, 
-      "street": "Witzenbergstraat", 
-      "housenumber": "10"
+      "street": "Witzenbergstraat"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 2910, 
-      "street": "Witzenbergstraat", 
-      "housenumber": "12"
+      "street": "Witzenbergstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2910, 
-      "street": "Witzenbergstraat", 
-      "housenumber": "2"
+      "street": "Witzenbergstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2910, 
-      "street": "Witzenbergstraat", 
-      "housenumber": "4"
+      "street": "Witzenbergstraat"
     }, 
     {
-      "lat": 51.46749663784078, 
       "housenumber": "6", 
+      "lat": 51.46749663784078, 
+      "lon": 4.453201046071083, 
       "pcode": 2910, 
-      "street": "Witzenbergstraat", 
-      "lon": 4.453201046071083
+      "street": "Witzenbergstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2910, 
-      "street": "Witzenbergstraat", 
-      "housenumber": "8"
+      "street": "Witzenbergstraat"
     }
-  ], 
-  "name": "Witzenbergstraat"
+  ]
 }

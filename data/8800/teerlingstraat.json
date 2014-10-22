@@ -1,32 +1,30 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.94928682296679, 
       "housenumber": "1", 
+      "lat": 50.94928682296679, 
+      "lon": 3.1261249715036334, 
       "pcode": 8800, 
-      "street": "Teerlingstraat", 
-      "lon": 3.1261249715036334
+      "street": "Teerlingstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8800, 
-      "street": "Teerlingstraat", 
-      "housenumber": "3"
+      "street": "Teerlingstraat"
     }, 
     {
-      "lat": 50.949922120533536, 
       "housenumber": "9", 
+      "lat": 50.949922120533536, 
+      "lon": 3.12580442501842, 
       "pcode": 8800, 
-      "street": "Teerlingstraat", 
-      "lon": 3.12580442501842
+      "street": "Teerlingstraat"
     }, 
     {
-      "lat": 50.949565247493034, 
       "housenumber": "9B", 
+      "lat": 50.949565247493034, 
+      "lon": 3.125945243418304, 
       "pcode": 8800, 
-      "street": "Teerlingstraat", 
-      "lon": 3.125945243418304
+      "street": "Teerlingstraat"
     }
-  ], 
-  "name": "Teerlingstraat"
+  ]
 }

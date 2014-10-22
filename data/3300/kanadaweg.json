@@ -1,25 +1,23 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.820816717445474, 
       "housenumber": "15", 
+      "lat": 50.820816717445474, 
+      "lon": 5.001209779669939, 
       "pcode": 3300, 
-      "street": "Kanadaweg", 
-      "lon": 5.001209779669939
+      "street": "Kanadaweg"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3300, 
-      "street": "Kanadaweg", 
-      "housenumber": "6"
+      "street": "Kanadaweg"
     }, 
     {
-      "lat": 50.8211384039393, 
       "housenumber": "7", 
+      "lat": 50.8211384039393, 
+      "lon": 5.001803509438021, 
       "pcode": 3300, 
-      "street": "Kanadaweg", 
-      "lon": 5.001803509438021
+      "street": "Kanadaweg"
     }
-  ], 
-  "name": "Kanadaweg"
+  ]
 }

@@ -1,25 +1,23 @@
 {
-  "pcode": 2450, 
   "addresses": [
     {
-      "lat": 51.13089763594616, 
       "housenumber": "14", 
+      "lat": 51.13089763594616, 
+      "lon": 5.109040298028818, 
       "pcode": 2450, 
-      "street": "Berkenweg", 
-      "lon": 5.109040298028818
+      "street": "Berkenweg"
     }, 
     {
+      "housenumber": "15", 
       "pcode": 2450, 
-      "street": "Berkenweg", 
-      "housenumber": "15"
+      "street": "Berkenweg"
     }, 
     {
-      "lat": 51.1328450215975, 
       "housenumber": "17", 
+      "lat": 51.1328450215975, 
+      "lon": 5.109801966786989, 
       "pcode": 2450, 
-      "street": "Berkenweg", 
-      "lon": 5.109801966786989
+      "street": "Berkenweg"
     }
-  ], 
-  "name": "Berkenweg"
+  ]
 }

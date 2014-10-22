@@ -1,27 +1,25 @@
 {
-  "pcode": 2900, 
   "addresses": [
     {
-      "lat": 51.2399574642977, 
       "housenumber": "1", 
+      "lat": 51.2399574642977, 
+      "lon": 4.515790624331601, 
       "pcode": 2900, 
-      "street": "Patappeltorenweg", 
-      "lon": 4.515790624331601
+      "street": "Patappeltorenweg"
     }, 
     {
-      "lat": 51.24268912704238, 
       "housenumber": "43", 
+      "lat": 51.24268912704238, 
+      "lon": 4.519120664060285, 
       "pcode": 2900, 
-      "street": "Patappeltorenweg", 
-      "lon": 4.519120664060285
+      "street": "Patappeltorenweg"
     }, 
     {
-      "lat": 51.24356697623875, 
       "housenumber": "52", 
+      "lat": 51.24356697623875, 
+      "lon": 4.523043254154371, 
       "pcode": 2900, 
-      "street": "Patappeltorenweg", 
-      "lon": 4.523043254154371
+      "street": "Patappeltorenweg"
     }
-  ], 
-  "name": "Patappeltorenweg"
+  ]
 }

@@ -1,39 +1,37 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.07534882216169, 
       "housenumber": "10", 
+      "lat": 51.07534882216169, 
+      "lon": 3.7299398071615357, 
       "pcode": 9000, 
-      "street": "Chocoladesteeg", 
-      "lon": 3.7299398071615357
+      "street": "Chocoladesteeg"
     }, 
     {
-      "lat": 51.07530865933911, 
       "housenumber": "12", 
+      "lat": 51.07530865933911, 
+      "lon": 3.7299599039565243, 
       "pcode": 9000, 
-      "street": "Chocoladesteeg", 
-      "lon": 3.7299599039565243
+      "street": "Chocoladesteeg"
     }, 
     {
-      "lat": 51.07527381720024, 
       "housenumber": "16", 
+      "lat": 51.07527381720024, 
+      "lon": 3.7296013650384876, 
       "pcode": 9000, 
-      "street": "Chocoladesteeg", 
-      "lon": 3.7296013650384876
+      "street": "Chocoladesteeg"
     }, 
     {
+      "housenumber": "18", 
       "pcode": 9000, 
-      "street": "Chocoladesteeg", 
-      "housenumber": "18"
+      "street": "Chocoladesteeg"
     }, 
     {
-      "lat": 51.075269366441695, 
       "housenumber": "20", 
+      "lat": 51.075269366441695, 
+      "lon": 3.7295928642422944, 
       "pcode": 9000, 
-      "street": "Chocoladesteeg", 
-      "lon": 3.7295928642422944
+      "street": "Chocoladesteeg"
     }
-  ], 
-  "name": "Chocoladesteeg"
+  ]
 }

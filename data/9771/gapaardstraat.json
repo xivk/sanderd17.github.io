@@ -1,20 +1,18 @@
 {
-  "pcode": 9771, 
   "addresses": [
     {
-      "lat": 50.876592441707146, 
       "housenumber": "2", 
+      "lat": 50.876592441707146, 
+      "lon": 3.5226289448751493, 
       "pcode": 9771, 
-      "street": "Gapaardstraat", 
-      "lon": 3.5226289448751493
+      "street": "Gapaardstraat"
     }, 
     {
-      "lat": 50.875034897832144, 
       "housenumber": "4", 
+      "lat": 50.875034897832144, 
+      "lon": 3.5209926958981255, 
       "pcode": 9771, 
-      "street": "Gapaardstraat", 
-      "lon": 3.5209926958981255
+      "street": "Gapaardstraat"
     }
-  ], 
-  "name": "Gapaardstraat"
+  ]
 }

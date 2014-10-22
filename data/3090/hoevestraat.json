@@ -1,27 +1,25 @@
 {
-  "pcode": 3090, 
   "addresses": [
     {
-      "lat": 50.78185418401309, 
       "housenumber": "11", 
+      "lat": 50.78185418401309, 
+      "lon": 4.50566208310831, 
       "pcode": 3090, 
-      "street": "Hoevestraat", 
-      "lon": 4.50566208310831
+      "street": "Hoevestraat"
     }, 
     {
-      "lat": 50.782155738799375, 
       "housenumber": "13", 
+      "lat": 50.782155738799375, 
+      "lon": 4.5050905224210505, 
       "pcode": 3090, 
-      "street": "Hoevestraat", 
-      "lon": 4.5050905224210505
+      "street": "Hoevestraat"
     }, 
     {
-      "lat": 50.78204946786157, 
       "housenumber": "17", 
+      "lat": 50.78204946786157, 
+      "lon": 4.504870850682284, 
       "pcode": 3090, 
-      "street": "Hoevestraat", 
-      "lon": 4.504870850682284
+      "street": "Hoevestraat"
     }
-  ], 
-  "name": "Hoevestraat"
+  ]
 }

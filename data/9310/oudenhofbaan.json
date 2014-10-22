@@ -1,20 +1,18 @@
 {
-  "pcode": 9310, 
   "addresses": [
     {
-      "lat": 50.96293576137742, 
       "housenumber": "1", 
+      "lat": 50.96293576137742, 
+      "lon": 4.073853252177027, 
       "pcode": 9310, 
-      "street": "Oudenhofbaan", 
-      "lon": 4.073853252177027
+      "street": "Oudenhofbaan"
     }, 
     {
-      "lat": 50.96587864647616, 
       "housenumber": "2", 
+      "lat": 50.96587864647616, 
+      "lon": 4.07932016533725, 
       "pcode": 9310, 
-      "street": "Oudenhofbaan", 
-      "lon": 4.07932016533725
+      "street": "Oudenhofbaan"
     }
-  ], 
-  "name": "Oudenhofbaan"
+  ]
 }

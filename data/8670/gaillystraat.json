@@ -1,39 +1,37 @@
 {
-  "pcode": 8670, 
   "addresses": [
     {
-      "lat": 51.12401680409987, 
       "housenumber": "1", 
+      "lat": 51.12401680409987, 
+      "lon": 2.6436891380744716, 
       "pcode": 8670, 
-      "street": "Gaillystraat", 
-      "lon": 2.6436891380744716
+      "street": "Gaillystraat"
     }, 
     {
-      "lat": 51.12436005927321, 
       "housenumber": "2", 
+      "lat": 51.12436005927321, 
+      "lon": 2.643914927863883, 
       "pcode": 8670, 
-      "street": "Gaillystraat", 
-      "lon": 2.643914927863883
+      "street": "Gaillystraat"
     }, 
     {
-      "lat": 51.124363146038775, 
       "housenumber": "2A", 
+      "lat": 51.124363146038775, 
+      "lon": 2.6439108134282567, 
       "pcode": 8670, 
-      "street": "Gaillystraat", 
-      "lon": 2.6439108134282567
+      "street": "Gaillystraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8670, 
-      "street": "Gaillystraat", 
-      "housenumber": "3"
+      "street": "Gaillystraat"
     }, 
     {
-      "lat": 51.124555397372994, 
       "housenumber": "4", 
+      "lat": 51.124555397372994, 
+      "lon": 2.643733838457502, 
       "pcode": 8670, 
-      "street": "Gaillystraat", 
-      "lon": 2.643733838457502
+      "street": "Gaillystraat"
     }
-  ], 
-  "name": "Gaillystraat"
+  ]
 }

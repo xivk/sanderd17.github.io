@@ -1,37 +1,35 @@
 {
-  "pcode": 8432, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8432, 
-      "street": "Nekkersvlietweg", 
-      "housenumber": "1"
+      "street": "Nekkersvlietweg"
     }, 
     {
-      "lat": 51.16343687632896, 
       "housenumber": "2", 
+      "lat": 51.16343687632896, 
+      "lon": 2.918909836136066, 
       "pcode": 8432, 
-      "street": "Nekkersvlietweg", 
-      "lon": 2.918909836136066
+      "street": "Nekkersvlietweg"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 8432, 
-      "street": "Nekkersvlietweg", 
-      "housenumber": "2A"
+      "street": "Nekkersvlietweg"
     }, 
     {
-      "lat": 51.16358726712092, 
       "housenumber": "3", 
+      "lat": 51.16358726712092, 
+      "lon": 2.916142137068933, 
       "pcode": 8432, 
-      "street": "Nekkersvlietweg", 
-      "lon": 2.916142137068933
+      "street": "Nekkersvlietweg"
     }, 
     {
-      "lat": 51.16808224972852, 
       "housenumber": "4", 
+      "lat": 51.16808224972852, 
+      "lon": 2.9183825194081607, 
       "pcode": 8432, 
-      "street": "Nekkersvlietweg", 
-      "lon": 2.9183825194081607
+      "street": "Nekkersvlietweg"
     }
-  ], 
-  "name": "Nekkersvlietweg"
+  ]
 }

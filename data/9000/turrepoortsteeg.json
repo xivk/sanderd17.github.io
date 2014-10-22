@@ -1,46 +1,44 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05398805541245, 
       "housenumber": "1", 
+      "lat": 51.05398805541245, 
+      "lon": 3.716261131622883, 
       "pcode": 9000, 
-      "street": "Turrepoortsteeg", 
-      "lon": 3.716261131622883
+      "street": "Turrepoortsteeg"
     }, 
     {
-      "lat": 51.05344990041957, 
       "housenumber": "11", 
+      "lat": 51.05344990041957, 
+      "lon": 3.716462170802531, 
       "pcode": 9000, 
-      "street": "Turrepoortsteeg", 
-      "lon": 3.716462170802531
+      "street": "Turrepoortsteeg"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9000, 
-      "street": "Turrepoortsteeg", 
-      "housenumber": "2"
+      "street": "Turrepoortsteeg"
     }, 
     {
-      "lat": 51.05391523139058, 
       "housenumber": "3", 
+      "lat": 51.05391523139058, 
+      "lon": 3.7162916698423953, 
       "pcode": 9000, 
-      "street": "Turrepoortsteeg", 
-      "lon": 3.7162916698423953
+      "street": "Turrepoortsteeg"
     }, 
     {
-      "lat": 51.05386463108491, 
       "housenumber": "5", 
+      "lat": 51.05386463108491, 
+      "lon": 3.716277113452064, 
       "pcode": 9000, 
-      "street": "Turrepoortsteeg", 
-      "lon": 3.716277113452064
+      "street": "Turrepoortsteeg"
     }, 
     {
-      "lat": 51.05373355267814, 
       "housenumber": "7", 
+      "lat": 51.05373355267814, 
+      "lon": 3.716420710342611, 
       "pcode": 9000, 
-      "street": "Turrepoortsteeg", 
-      "lon": 3.716420710342611
+      "street": "Turrepoortsteeg"
     }
-  ], 
-  "name": "Turrepoortsteeg"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2400, 
   "addresses": [
     {
-      "lat": 51.21967058575546, 
       "housenumber": "1", 
+      "lat": 51.21967058575546, 
+      "lon": 5.160303349770687, 
       "pcode": 2400, 
-      "street": "Wolfsbos", 
-      "lon": 5.160303349770687
+      "street": "Wolfsbos"
     }, 
     {
-      "lat": 51.22055393878572, 
       "housenumber": "5", 
+      "lat": 51.22055393878572, 
+      "lon": 5.160998559706809, 
       "pcode": 2400, 
-      "street": "Wolfsbos", 
-      "lon": 5.160998559706809
+      "street": "Wolfsbos"
     }
-  ], 
-  "name": "Wolfsbos"
+  ]
 }

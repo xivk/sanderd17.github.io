@@ -1,20 +1,18 @@
 {
-  "pcode": 3920, 
   "addresses": [
     {
-      "lat": 51.22849746325077, 
       "housenumber": "1", 
+      "lat": 51.22849746325077, 
+      "lon": 5.357296493522103, 
       "pcode": 3920, 
-      "street": "Hakmeitenstraat", 
-      "lon": 5.357296493522103
+      "street": "Hakmeitenstraat"
     }, 
     {
-      "lat": 51.228517737614865, 
       "housenumber": "5", 
+      "lat": 51.228517737614865, 
+      "lon": 5.357806318636232, 
       "pcode": 3920, 
-      "street": "Hakmeitenstraat", 
-      "lon": 5.357806318636232
+      "street": "Hakmeitenstraat"
     }
-  ], 
-  "name": "Hakmeitenstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8301, 
   "addresses": [
     {
-      "lat": 51.33997230280122, 
       "housenumber": "1", 
+      "lat": 51.33997230280122, 
+      "lon": 3.2310200012808674, 
       "pcode": 8301, 
-      "street": "Graaf van Vlaanderenstraat", 
-      "lon": 3.2310200012808674
+      "street": "Graaf van Vlaanderenstraat"
     }, 
     {
-      "lat": 51.339908778962226, 
       "housenumber": "2", 
+      "lat": 51.339908778962226, 
+      "lon": 3.2307043843292718, 
       "pcode": 8301, 
-      "street": "Graaf van Vlaanderenstraat", 
-      "lon": 3.2307043843292718
+      "street": "Graaf van Vlaanderenstraat"
     }
-  ], 
-  "name": "Graaf van Vlaanderenstraat"
+  ]
 }

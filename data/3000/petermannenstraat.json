@@ -1,34 +1,32 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.88376722123543, 
       "housenumber": "15", 
+      "lat": 50.88376722123543, 
+      "lon": 4.692280376211832, 
       "pcode": 3000, 
-      "street": "Petermannenstraat", 
-      "lon": 4.692280376211832
+      "street": "Petermannenstraat"
     }, 
     {
-      "lat": 50.88365578717475, 
       "housenumber": "17", 
+      "lat": 50.88365578717475, 
+      "lon": 4.692462640095277, 
       "pcode": 3000, 
-      "street": "Petermannenstraat", 
-      "lon": 4.692462640095277
+      "street": "Petermannenstraat"
     }, 
     {
-      "lat": 50.88405409798549, 
       "housenumber": "2A", 
+      "lat": 50.88405409798549, 
+      "lon": 4.692565292696009, 
       "pcode": 3000, 
-      "street": "Petermannenstraat", 
-      "lon": 4.692565292696009
+      "street": "Petermannenstraat"
     }, 
     {
-      "lat": 50.88425371343562, 
       "housenumber": "2B", 
+      "lat": 50.88425371343562, 
+      "lon": 4.692515228607582, 
       "pcode": 3000, 
-      "street": "Petermannenstraat", 
-      "lon": 4.692515228607582
+      "street": "Petermannenstraat"
     }
-  ], 
-  "name": "Petermannenstraat"
+  ]
 }

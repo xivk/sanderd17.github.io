@@ -1,20 +1,18 @@
 {
-  "pcode": 8490, 
   "addresses": [
     {
-      "lat": 51.157528201676975, 
       "housenumber": "1", 
+      "lat": 51.157528201676975, 
+      "lon": 3.0637603658850794, 
       "pcode": 8490, 
-      "street": "Veldhoek", 
-      "lon": 3.0637603658850794
+      "street": "Veldhoek"
     }, 
     {
-      "lat": 51.153510194166145, 
       "housenumber": "3", 
+      "lat": 51.153510194166145, 
+      "lon": 3.063042933488456, 
       "pcode": 8490, 
-      "street": "Veldhoek", 
-      "lon": 3.063042933488456
+      "street": "Veldhoek"
     }
-  ], 
-  "name": "Veldhoek"
+  ]
 }

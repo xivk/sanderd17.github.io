@@ -1,20 +1,18 @@
 {
-  "pcode": 3670, 
   "addresses": [
     {
-      "lat": 51.10105953339972, 
       "housenumber": "1", 
+      "lat": 51.10105953339972, 
+      "lon": 5.658826877553202, 
       "pcode": 3670, 
-      "street": "Itterstraat", 
-      "lon": 5.658826877553202
+      "street": "Itterstraat"
     }, 
     {
-      "lat": 51.10075727386281, 
       "housenumber": "3", 
+      "lat": 51.10075727386281, 
+      "lon": 5.658885355490571, 
       "pcode": 3670, 
-      "street": "Itterstraat", 
-      "lon": 5.658885355490571
+      "street": "Itterstraat"
     }
-  ], 
-  "name": "Itterstraat"
+  ]
 }

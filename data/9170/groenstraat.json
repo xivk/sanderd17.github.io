@@ -1,39 +1,37 @@
 {
-  "pcode": 9170, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9170, 
-      "street": "Groenstraat", 
-      "housenumber": "1"
+      "street": "Groenstraat"
     }, 
     {
-      "lat": 51.18547140420957, 
       "housenumber": "1A", 
+      "lat": 51.18547140420957, 
+      "lon": 4.087184006443528, 
       "pcode": 9170, 
-      "street": "Groenstraat", 
-      "lon": 4.087184006443528
+      "street": "Groenstraat"
     }, 
     {
-      "lat": 51.1855130174341, 
       "housenumber": "2", 
+      "lat": 51.1855130174341, 
+      "lon": 4.088736867453109, 
       "pcode": 9170, 
-      "street": "Groenstraat", 
-      "lon": 4.088736867453109
+      "street": "Groenstraat"
     }, 
     {
-      "lat": 51.18476403040216, 
       "housenumber": "3", 
+      "lat": 51.18476403040216, 
+      "lon": 4.0876116121670485, 
       "pcode": 9170, 
-      "street": "Groenstraat", 
-      "lon": 4.0876116121670485
+      "street": "Groenstraat"
     }, 
     {
-      "lat": 51.18539287168074, 
       "housenumber": "4", 
+      "lat": 51.18539287168074, 
+      "lon": 4.0881045583909446, 
       "pcode": 9170, 
-      "street": "Groenstraat", 
-      "lon": 4.0881045583909446
+      "street": "Groenstraat"
     }
-  ], 
-  "name": "Groenstraat"
+  ]
 }

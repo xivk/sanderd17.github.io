@@ -1,27 +1,25 @@
 {
-  "pcode": 8700, 
   "addresses": [
     {
-      "lat": 51.031228834604995, 
       "housenumber": "1", 
+      "lat": 51.031228834604995, 
+      "lon": 3.3344028080944677, 
       "pcode": 8700, 
-      "street": "Maalderijstraat", 
-      "lon": 3.3344028080944677
+      "street": "Maalderijstraat"
     }, 
     {
-      "lat": 51.030929171979615, 
       "housenumber": "2", 
+      "lat": 51.030929171979615, 
+      "lon": 3.3350652270159866, 
       "pcode": 8700, 
-      "street": "Maalderijstraat", 
-      "lon": 3.3350652270159866
+      "street": "Maalderijstraat"
     }, 
     {
-      "lat": 51.03087831994465, 
       "housenumber": "4", 
+      "lat": 51.03087831994465, 
+      "lon": 3.334740871518291, 
       "pcode": 8700, 
-      "street": "Maalderijstraat", 
-      "lon": 3.334740871518291
+      "street": "Maalderijstraat"
     }
-  ], 
-  "name": "Maalderijstraat"
+  ]
 }

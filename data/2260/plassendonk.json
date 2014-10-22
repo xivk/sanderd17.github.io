@@ -1,20 +1,18 @@
 {
-  "pcode": 2260, 
   "addresses": [
     {
-      "lat": 51.13051587965819, 
       "housenumber": "4", 
+      "lat": 51.13051587965819, 
+      "lon": 4.9272319787048575, 
       "pcode": 2260, 
-      "street": "Plassendonk", 
-      "lon": 4.9272319787048575
+      "street": "Plassendonk"
     }, 
     {
-      "lat": 51.13020743433356, 
       "housenumber": "6", 
+      "lat": 51.13020743433356, 
+      "lon": 4.926726851974595, 
       "pcode": 2260, 
-      "street": "Plassendonk", 
-      "lon": 4.926726851974595
+      "street": "Plassendonk"
     }
-  ], 
-  "name": "Plassendonk"
+  ]
 }

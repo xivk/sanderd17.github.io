@@ -1,37 +1,35 @@
 {
-  "pcode": 9290, 
   "addresses": [
     {
-      "lat": 51.01857470879399, 
       "housenumber": "1", 
+      "lat": 51.01857470879399, 
+      "lon": 4.004474330752241, 
       "pcode": 9290, 
-      "street": "Vennewegel", 
-      "lon": 4.004474330752241
+      "street": "Vennewegel"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9290, 
-      "street": "Vennewegel", 
-      "housenumber": "2"
+      "street": "Vennewegel"
     }, 
     {
-      "lat": 51.018766968314594, 
       "housenumber": "3", 
+      "lat": 51.018766968314594, 
+      "lon": 4.004788655237727, 
       "pcode": 9290, 
-      "street": "Vennewegel", 
-      "lon": 4.004788655237727
+      "street": "Vennewegel"
     }, 
     {
-      "lat": 51.01939663956972, 
       "housenumber": "4", 
+      "lat": 51.01939663956972, 
+      "lon": 4.005482397382272, 
       "pcode": 9290, 
-      "street": "Vennewegel", 
-      "lon": 4.005482397382272
+      "street": "Vennewegel"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 9290, 
-      "street": "Vennewegel", 
-      "housenumber": "7"
+      "street": "Vennewegel"
     }
-  ], 
-  "name": "Vennewegel"
+  ]
 }

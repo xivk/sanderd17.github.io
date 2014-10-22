@@ -1,20 +1,18 @@
 {
-  "pcode": 9900, 
   "addresses": [
     {
-      "lat": 51.196424448201, 
       "housenumber": "1", 
+      "lat": 51.196424448201, 
+      "lon": 3.5512542692739304, 
       "pcode": 9900, 
-      "street": "Sint - Jansgoed", 
-      "lon": 3.5512542692739304
+      "street": "Sint - Jansgoed"
     }, 
     {
-      "lat": 51.19681470747424, 
       "housenumber": "12", 
+      "lat": 51.19681470747424, 
+      "lon": 3.555655489768684, 
       "pcode": 9900, 
-      "street": "Sint - Jansgoed", 
-      "lon": 3.555655489768684
+      "street": "Sint - Jansgoed"
     }
-  ], 
-  "name": "Sint - Jansgoed"
+  ]
 }

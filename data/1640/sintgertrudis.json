@@ -1,20 +1,18 @@
 {
-  "pcode": 1640, 
   "addresses": [
     {
-      "lat": 50.722582982646806, 
       "housenumber": "1", 
+      "lat": 50.722582982646806, 
+      "lon": 4.368549070614441, 
       "pcode": 1640, 
-      "street": "Sint-Gertrudis", 
-      "lon": 4.368549070614441
+      "street": "Sint-Gertrudis"
     }, 
     {
-      "lat": 50.72293001118734, 
       "housenumber": "1A", 
+      "lat": 50.72293001118734, 
+      "lon": 4.3720723084123385, 
       "pcode": 1640, 
-      "street": "Sint-Gertrudis", 
-      "lon": 4.3720723084123385
+      "street": "Sint-Gertrudis"
     }
-  ], 
-  "name": "Sint-Gertrudis"
+  ]
 }

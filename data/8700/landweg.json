@@ -1,34 +1,32 @@
 {
-  "pcode": 8700, 
   "addresses": [
     {
-      "lat": 51.03446538463487, 
       "housenumber": "1", 
+      "lat": 51.03446538463487, 
+      "lon": 3.3006181366740455, 
       "pcode": 8700, 
-      "street": "Landweg", 
-      "lon": 3.3006181366740455
+      "street": "Landweg"
     }, 
     {
-      "lat": 51.03447128321917, 
       "housenumber": "2", 
+      "lat": 51.03447128321917, 
+      "lon": 3.2988406298571546, 
       "pcode": 8700, 
-      "street": "Landweg", 
-      "lon": 3.2988406298571546
+      "street": "Landweg"
     }, 
     {
-      "lat": 51.035407309577245, 
       "housenumber": "7", 
+      "lat": 51.035407309577245, 
+      "lon": 3.294571491861682, 
       "pcode": 8700, 
-      "street": "Landweg", 
-      "lon": 3.294571491861682
+      "street": "Landweg"
     }, 
     {
-      "lat": 51.0361598701821, 
       "housenumber": "8", 
+      "lat": 51.0361598701821, 
+      "lon": 3.2934690360497973, 
       "pcode": 8700, 
-      "street": "Landweg", 
-      "lon": 3.2934690360497973
+      "street": "Landweg"
     }
-  ], 
-  "name": "Landweg"
+  ]
 }

@@ -1,56 +1,54 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8000, 
-      "street": "Prinsenhof", 
-      "housenumber": "1"
+      "street": "Prinsenhof"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 8000, 
-      "street": "Prinsenhof", 
-      "housenumber": "1A"
+      "street": "Prinsenhof"
     }, 
     {
-      "lat": 51.20821607569463, 
       "housenumber": "4", 
+      "lat": 51.20821607569463, 
+      "lon": 3.220674466112115, 
       "pcode": 8000, 
-      "street": "Prinsenhof", 
-      "lon": 3.220674466112115
+      "street": "Prinsenhof"
     }, 
     {
-      "lat": 51.208084330028036, 
       "housenumber": "5", 
+      "lat": 51.208084330028036, 
+      "lon": 3.220354563660928, 
       "pcode": 8000, 
-      "street": "Prinsenhof", 
-      "lon": 3.220354563660928
+      "street": "Prinsenhof"
     }, 
     {
-      "lat": 51.20829129373054, 
       "housenumber": "6", 
+      "lat": 51.20829129373054, 
+      "lon": 3.220533082146442, 
       "pcode": 8000, 
-      "street": "Prinsenhof", 
-      "lon": 3.220533082146442
+      "street": "Prinsenhof"
     }, 
     {
-      "lat": 51.20821433125565, 
       "housenumber": "7", 
+      "lat": 51.20821433125565, 
+      "lon": 3.2203466417832125, 
       "pcode": 8000, 
-      "street": "Prinsenhof", 
-      "lon": 3.2203466417832125
+      "street": "Prinsenhof"
     }, 
     {
-      "lat": 51.20869320101048, 
       "housenumber": "8", 
+      "lat": 51.20869320101048, 
+      "lon": 3.2200132833306716, 
       "pcode": 8000, 
-      "street": "Prinsenhof", 
-      "lon": 3.2200132833306716
+      "street": "Prinsenhof"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 8000, 
-      "street": "Prinsenhof", 
-      "housenumber": "9"
+      "street": "Prinsenhof"
     }
-  ], 
-  "name": "Prinsenhof"
+  ]
 }

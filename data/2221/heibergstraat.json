@@ -1,18 +1,16 @@
 {
-  "pcode": 2221, 
   "addresses": [
     {
+      "housenumber": "26A", 
       "pcode": 2221, 
-      "street": "Heibergstraat", 
-      "housenumber": "26A"
+      "street": "Heibergstraat"
     }, 
     {
-      "lat": 51.10355325777006, 
       "housenumber": "26B", 
+      "lat": 51.10355325777006, 
+      "lon": 4.717331405932011, 
       "pcode": 2221, 
-      "street": "Heibergstraat", 
-      "lon": 4.717331405932011
+      "street": "Heibergstraat"
     }
-  ], 
-  "name": "Heibergstraat"
+  ]
 }

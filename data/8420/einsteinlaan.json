@@ -1,23 +1,21 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
-      "lat": 51.268889337743964, 
       "housenumber": "1", 
+      "lat": 51.268889337743964, 
+      "lon": 3.0313300443255655, 
       "pcode": 8420, 
-      "street": "Einsteinlaan", 
-      "lon": 3.0313300443255655
+      "street": "Einsteinlaan"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 8420, 
-      "street": "Einsteinlaan", 
-      "housenumber": "1A"
+      "street": "Einsteinlaan"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8420, 
-      "street": "Einsteinlaan", 
-      "housenumber": "2"
+      "street": "Einsteinlaan"
     }
-  ], 
-  "name": "Einsteinlaan"
+  ]
 }

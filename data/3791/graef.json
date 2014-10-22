@@ -1,27 +1,25 @@
 {
-  "pcode": 3791, 
   "addresses": [
     {
-      "lat": 50.73348402166983, 
       "housenumber": "1", 
+      "lat": 50.73348402166983, 
+      "lon": 5.877905264628901, 
       "pcode": 3791, 
-      "street": "Graef", 
-      "lon": 5.877905264628901
+      "street": "Graef"
     }, 
     {
-      "lat": 50.73380995529402, 
       "housenumber": "2", 
+      "lat": 50.73380995529402, 
+      "lon": 5.877460341883467, 
       "pcode": 3791, 
-      "street": "Graef", 
-      "lon": 5.877460341883467
+      "street": "Graef"
     }, 
     {
-      "lat": 50.73304815235129, 
       "housenumber": "3", 
+      "lat": 50.73304815235129, 
+      "lon": 5.877476741249735, 
       "pcode": 3791, 
-      "street": "Graef", 
-      "lon": 5.877476741249735
+      "street": "Graef"
     }
-  ], 
-  "name": "Graef"
+  ]
 }

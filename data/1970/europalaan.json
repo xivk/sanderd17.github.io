@@ -1,42 +1,40 @@
 {
-  "pcode": 1970, 
   "addresses": [
     {
-      "lat": 50.84430238258287, 
       "housenumber": "1", 
+      "lat": 50.84430238258287, 
+      "lon": 4.48710267110033, 
       "pcode": 1970, 
-      "street": "Europalaan", 
-      "lon": 4.48710267110033
+      "street": "Europalaan"
     }, 
     {
+      "housenumber": "127", 
       "pcode": 1970, 
-      "street": "Europalaan", 
-      "housenumber": "127"
+      "street": "Europalaan"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 1970, 
-      "street": "Europalaan", 
-      "housenumber": "2"
+      "street": "Europalaan"
     }, 
     {
-      "lat": 50.844408181072055, 
       "housenumber": "3", 
+      "lat": 50.844408181072055, 
+      "lon": 4.487287805565728, 
       "pcode": 1970, 
-      "street": "Europalaan", 
-      "lon": 4.487287805565728
+      "street": "Europalaan"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 1970, 
-      "street": "Europalaan", 
-      "housenumber": "4"
+      "street": "Europalaan"
     }, 
     {
-      "lat": 50.84454430512903, 
       "housenumber": "5", 
+      "lat": 50.84454430512903, 
+      "lon": 4.487618838564324, 
       "pcode": 1970, 
-      "street": "Europalaan", 
-      "lon": 4.487618838564324
+      "street": "Europalaan"
     }
-  ], 
-  "name": "Europalaan"
+  ]
 }

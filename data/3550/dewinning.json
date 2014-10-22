@@ -1,20 +1,18 @@
 {
-  "pcode": 3550, 
   "addresses": [
     {
-      "lat": 51.024202198993095, 
       "housenumber": "12", 
+      "lat": 51.024202198993095, 
+      "lon": 5.343353821345105, 
       "pcode": 3550, 
-      "street": "De Winning", 
-      "lon": 5.343353821345105
+      "street": "De Winning"
     }, 
     {
-      "lat": 51.025599265997066, 
       "housenumber": "32", 
+      "lat": 51.025599265997066, 
+      "lon": 5.342044394211578, 
       "pcode": 3550, 
-      "street": "De Winning", 
-      "lon": 5.342044394211578
+      "street": "De Winning"
     }
-  ], 
-  "name": "De Winning"
+  ]
 }

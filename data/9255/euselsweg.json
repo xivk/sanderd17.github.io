@@ -1,20 +1,18 @@
 {
-  "pcode": 9255, 
   "addresses": [
     {
-      "lat": 51.00531469906754, 
       "housenumber": "1", 
+      "lat": 51.00531469906754, 
+      "lon": 4.201134398169977, 
       "pcode": 9255, 
-      "street": "Euselsweg", 
-      "lon": 4.201134398169977
+      "street": "Euselsweg"
     }, 
     {
-      "lat": 51.005223422436195, 
       "housenumber": "2", 
+      "lat": 51.005223422436195, 
+      "lon": 4.200602012442333, 
       "pcode": 9255, 
-      "street": "Euselsweg", 
-      "lon": 4.200602012442333
+      "street": "Euselsweg"
     }
-  ], 
-  "name": "Euselsweg"
+  ]
 }

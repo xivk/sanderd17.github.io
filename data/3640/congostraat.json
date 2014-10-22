@@ -1,27 +1,25 @@
 {
-  "pcode": 3640, 
   "addresses": [
     {
-      "lat": 51.13766157708401, 
       "housenumber": "1", 
+      "lat": 51.13766157708401, 
+      "lon": 5.794362282550869, 
       "pcode": 3640, 
-      "street": "Congostraat", 
-      "lon": 5.794362282550869
+      "street": "Congostraat"
     }, 
     {
-      "lat": 51.138041623229455, 
       "housenumber": "2", 
+      "lat": 51.138041623229455, 
+      "lon": 5.793742675738264, 
       "pcode": 3640, 
-      "street": "Congostraat", 
-      "lon": 5.793742675738264
+      "street": "Congostraat"
     }, 
     {
-      "lat": 51.137870595876386, 
       "housenumber": "3", 
+      "lat": 51.137870595876386, 
+      "lon": 5.793492230834336, 
       "pcode": 3640, 
-      "street": "Congostraat", 
-      "lon": 5.793492230834336
+      "street": "Congostraat"
     }
-  ], 
-  "name": "Congostraat"
+  ]
 }

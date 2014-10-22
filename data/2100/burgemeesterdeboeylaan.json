@@ -1,20 +1,18 @@
 {
-  "pcode": 2100, 
   "addresses": [
     {
-      "lat": 51.210220898386815, 
       "housenumber": "1", 
+      "lat": 51.210220898386815, 
+      "lon": 4.4730891958720225, 
       "pcode": 2100, 
-      "street": "Burgemeester De Boeylaan", 
-      "lon": 4.4730891958720225
+      "street": "Burgemeester De Boeylaan"
     }, 
     {
-      "lat": 51.21073772460821, 
       "housenumber": "2", 
+      "lat": 51.21073772460821, 
+      "lon": 4.473905038050324, 
       "pcode": 2100, 
-      "street": "Burgemeester De Boeylaan", 
-      "lon": 4.473905038050324
+      "street": "Burgemeester De Boeylaan"
     }
-  ], 
-  "name": "Burgemeester De Boeylaan"
+  ]
 }

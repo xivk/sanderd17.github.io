@@ -1,27 +1,25 @@
 {
-  "pcode": 8380, 
   "addresses": [
     {
-      "lat": 51.27377873584565, 
       "housenumber": "1", 
+      "lat": 51.27377873584565, 
+      "lon": 3.2275660634000682, 
       "pcode": 8380, 
-      "street": "Truwelstraat", 
-      "lon": 3.2275660634000682
+      "street": "Truwelstraat"
     }, 
     {
-      "lat": 51.27363065887719, 
       "housenumber": "3", 
+      "lat": 51.27363065887719, 
+      "lon": 3.2276195622168156, 
       "pcode": 8380, 
-      "street": "Truwelstraat", 
-      "lon": 3.2276195622168156
+      "street": "Truwelstraat"
     }, 
     {
-      "lat": 51.273687709150394, 
       "housenumber": "4", 
+      "lat": 51.273687709150394, 
+      "lon": 3.2273270985837916, 
       "pcode": 8380, 
-      "street": "Truwelstraat", 
-      "lon": 3.2273270985837916
+      "street": "Truwelstraat"
     }
-  ], 
-  "name": "Truwelstraat"
+  ]
 }

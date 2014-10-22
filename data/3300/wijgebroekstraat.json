@@ -1,18 +1,16 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
+      "housenumber": "160", 
       "pcode": 3300, 
-      "street": "Wijgebroekstraat", 
-      "housenumber": "160"
+      "street": "Wijgebroekstraat"
     }, 
     {
-      "lat": 50.80329942971015, 
       "housenumber": "3", 
+      "lat": 50.80329942971015, 
+      "lon": 4.885503409256547, 
       "pcode": 3300, 
-      "street": "Wijgebroekstraat", 
-      "lon": 4.885503409256547
+      "street": "Wijgebroekstraat"
     }
-  ], 
-  "name": "Wijgebroekstraat"
+  ]
 }

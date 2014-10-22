@@ -1,20 +1,18 @@
 {
-  "pcode": 3640, 
   "addresses": [
     {
-      "lat": 51.1771663800944, 
       "housenumber": "4", 
+      "lat": 51.1771663800944, 
+      "lon": 5.7414015885710175, 
       "pcode": 3640, 
-      "street": "Leerestraat", 
-      "lon": 5.7414015885710175
+      "street": "Leerestraat"
     }, 
     {
-      "lat": 51.177276787368214, 
       "housenumber": "5", 
+      "lat": 51.177276787368214, 
+      "lon": 5.741895551195421, 
       "pcode": 3640, 
-      "street": "Leerestraat", 
-      "lon": 5.741895551195421
+      "street": "Leerestraat"
     }
-  ], 
-  "name": "Leerestraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.75119273411448, 
       "housenumber": "2", 
+      "lat": 50.75119273411448, 
+      "lon": 3.609135063444857, 
       "pcode": 9600, 
-      "street": "Gebroeders Dopchiestraat", 
-      "lon": 3.609135063444857
+      "street": "Gebroeders Dopchiestraat"
     }, 
     {
-      "lat": 50.75125062648806, 
       "housenumber": "4", 
+      "lat": 50.75125062648806, 
+      "lon": 3.609023452797984, 
       "pcode": 9600, 
-      "street": "Gebroeders Dopchiestraat", 
-      "lon": 3.609023452797984
+      "street": "Gebroeders Dopchiestraat"
     }
-  ], 
-  "name": "Gebroeders Dopchiestraat"
+  ]
 }

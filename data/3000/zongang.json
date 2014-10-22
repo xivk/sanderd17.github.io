@@ -1,18 +1,16 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.88038966850048, 
       "housenumber": "1", 
+      "lat": 50.88038966850048, 
+      "lon": 4.6930009394011, 
       "pcode": 3000, 
-      "street": "Zongang", 
-      "lon": 4.6930009394011
+      "street": "Zongang"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3000, 
-      "street": "Zongang", 
-      "housenumber": "2"
+      "street": "Zongang"
     }
-  ], 
-  "name": "Zongang"
+  ]
 }

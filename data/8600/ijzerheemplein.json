@@ -1,20 +1,18 @@
 {
-  "pcode": 8600, 
   "addresses": [
     {
-      "lat": 51.030083772798875, 
       "housenumber": "1", 
+      "lat": 51.030083772798875, 
+      "lon": 2.860592143541023, 
       "pcode": 8600, 
-      "street": "Ijzerheemplein", 
-      "lon": 2.860592143541023
+      "street": "Ijzerheemplein"
     }, 
     {
-      "lat": 51.03120985894974, 
       "housenumber": "4", 
+      "lat": 51.03120985894974, 
+      "lon": 2.8614756809704556, 
       "pcode": 8600, 
-      "street": "Ijzerheemplein", 
-      "lon": 2.8614756809704556
+      "street": "Ijzerheemplein"
     }
-  ], 
-  "name": "Ijzerheemplein"
+  ]
 }

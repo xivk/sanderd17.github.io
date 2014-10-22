@@ -1,39 +1,37 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.93148338891432, 
       "housenumber": "1", 
+      "lat": 50.93148338891432, 
+      "lon": 5.327823410172171, 
       "pcode": 3500, 
-      "street": "Monseigneur Broekxplein", 
-      "lon": 5.327823410172171
+      "street": "Monseigneur Broekxplein"
     }, 
     {
-      "lat": 50.93145624057076, 
       "housenumber": "2", 
+      "lat": 50.93145624057076, 
+      "lon": 5.327746175786181, 
       "pcode": 3500, 
-      "street": "Monseigneur Broekxplein", 
-      "lon": 5.327746175786181
+      "street": "Monseigneur Broekxplein"
     }, 
     {
-      "lat": 50.931486730784634, 
       "housenumber": "3", 
+      "lat": 50.931486730784634, 
+      "lon": 5.327667417347159, 
       "pcode": 3500, 
-      "street": "Monseigneur Broekxplein", 
-      "lon": 5.327667417347159
+      "street": "Monseigneur Broekxplein"
     }, 
     {
+      "housenumber": "53", 
       "pcode": 3500, 
-      "street": "Monseigneur Broekxplein", 
-      "housenumber": "53"
+      "street": "Monseigneur Broekxplein"
     }, 
     {
-      "lat": 50.931780317461154, 
       "housenumber": "6", 
+      "lat": 50.931780317461154, 
+      "lon": 5.327527744863274, 
       "pcode": 3500, 
-      "street": "Monseigneur Broekxplein", 
-      "lon": 5.327527744863274
+      "street": "Monseigneur Broekxplein"
     }
-  ], 
-  "name": "Monseigneur Broekxplein"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8690, 
   "addresses": [
     {
-      "lat": 50.96164083894922, 
       "housenumber": "12", 
+      "lat": 50.96164083894922, 
+      "lon": 2.692123784904055, 
       "pcode": 8690, 
-      "street": "Elzendammestraat", 
-      "lon": 2.692123784904055
+      "street": "Elzendammestraat"
     }, 
     {
-      "lat": 50.96589598672675, 
       "housenumber": "5", 
+      "lat": 50.96589598672675, 
+      "lon": 2.6862815872415458, 
       "pcode": 8690, 
-      "street": "Elzendammestraat", 
-      "lon": 2.6862815872415458
+      "street": "Elzendammestraat"
     }
-  ], 
-  "name": "Elzendammestraat"
+  ]
 }

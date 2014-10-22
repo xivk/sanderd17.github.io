@@ -1,27 +1,25 @@
 {
-  "pcode": 8301, 
   "addresses": [
     {
-      "lat": 51.314643703559405, 
       "housenumber": "2", 
+      "lat": 51.314643703559405, 
+      "lon": 3.249550316159988, 
       "pcode": 8301, 
-      "street": "Vrijestraat", 
-      "lon": 3.249550316159988
+      "street": "Vrijestraat"
     }, 
     {
-      "lat": 51.311822444817516, 
       "housenumber": "39", 
+      "lat": 51.311822444817516, 
+      "lon": 3.2472825377513055, 
       "pcode": 8301, 
-      "street": "Vrijestraat", 
-      "lon": 3.2472825377513055
+      "street": "Vrijestraat"
     }, 
     {
-      "lat": 51.31479051710843, 
       "housenumber": "4", 
+      "lat": 51.31479051710843, 
+      "lon": 3.2496288333890115, 
       "pcode": 8301, 
-      "street": "Vrijestraat", 
-      "lon": 3.2496288333890115
+      "street": "Vrijestraat"
     }
-  ], 
-  "name": "Vrijestraat"
+  ]
 }

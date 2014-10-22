@@ -1,18 +1,16 @@
 {
-  "pcode": 1670, 
   "addresses": [
     {
-      "lat": 50.73648840218998, 
       "housenumber": "15", 
+      "lat": 50.73648840218998, 
+      "lon": 4.170264765871661, 
       "pcode": 1670, 
-      "street": "Nederbeertstraat", 
-      "lon": 4.170264765871661
+      "street": "Nederbeertstraat"
     }, 
     {
+      "housenumber": "6A", 
       "pcode": 1670, 
-      "street": "Nederbeertstraat", 
-      "housenumber": "6A"
+      "street": "Nederbeertstraat"
     }
-  ], 
-  "name": "Nederbeertstraat"
+  ]
 }

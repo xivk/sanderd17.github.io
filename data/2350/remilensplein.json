@@ -1,23 +1,21 @@
 {
-  "pcode": 2350, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2350, 
-      "street": "Remi Lensplein", 
-      "housenumber": "1"
+      "street": "Remi Lensplein"
     }, 
     {
-      "lat": 51.3132554444392, 
       "housenumber": "2", 
+      "lat": 51.3132554444392, 
+      "lon": 4.886863005122992, 
       "pcode": 2350, 
-      "street": "Remi Lensplein", 
-      "lon": 4.886863005122992
+      "street": "Remi Lensplein"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2350, 
-      "street": "Remi Lensplein", 
-      "housenumber": "3"
+      "street": "Remi Lensplein"
     }
-  ], 
-  "name": "Remi Lensplein"
+  ]
 }

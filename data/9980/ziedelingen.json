@@ -1,20 +1,18 @@
 {
-  "pcode": 9980, 
   "addresses": [
     {
-      "lat": 51.219018778607335, 
       "housenumber": "1", 
+      "lat": 51.219018778607335, 
+      "lon": 3.5448127085288763, 
       "pcode": 9980, 
-      "street": "Ziedelingen", 
-      "lon": 3.5448127085288763
+      "street": "Ziedelingen"
     }, 
     {
-      "lat": 51.2187465098295, 
       "housenumber": "3", 
+      "lat": 51.2187465098295, 
+      "lon": 3.5564890194074272, 
       "pcode": 9980, 
-      "street": "Ziedelingen", 
-      "lon": 3.5564890194074272
+      "street": "Ziedelingen"
     }
-  ], 
-  "name": "Ziedelingen"
+  ]
 }

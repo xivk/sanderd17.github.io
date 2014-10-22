@@ -1,20 +1,18 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.91504517494118, 
       "housenumber": "1", 
+      "lat": 50.91504517494118, 
+      "lon": 5.346322571637582, 
       "pcode": 3500, 
-      "street": "Eurostraat", 
-      "lon": 5.346322571637582
+      "street": "Eurostraat"
     }, 
     {
-      "lat": 50.91388834438676, 
       "housenumber": "4", 
+      "lat": 50.91388834438676, 
+      "lon": 5.3466657868543965, 
       "pcode": 3500, 
-      "street": "Eurostraat", 
-      "lon": 5.3466657868543965
+      "street": "Eurostraat"
     }
-  ], 
-  "name": "Eurostraat"
+  ]
 }

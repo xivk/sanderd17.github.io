@@ -1,34 +1,32 @@
 {
-  "pcode": 2500, 
   "addresses": [
     {
-      "lat": 51.129368098887, 
       "housenumber": "1", 
+      "lat": 51.129368098887, 
+      "lon": 4.5741807166431325, 
       "pcode": 2500, 
-      "street": "Deensestraat", 
-      "lon": 4.5741807166431325
+      "street": "Deensestraat"
     }, 
     {
-      "lat": 51.1291301531093, 
       "housenumber": "3", 
+      "lat": 51.1291301531093, 
+      "lon": 4.574085813002041, 
       "pcode": 2500, 
-      "street": "Deensestraat", 
-      "lon": 4.574085813002041
+      "street": "Deensestraat"
     }, 
     {
-      "lat": 51.12899862654505, 
       "housenumber": "5", 
+      "lat": 51.12899862654505, 
+      "lon": 4.573788958386632, 
       "pcode": 2500, 
-      "street": "Deensestraat", 
-      "lon": 4.573788958386632
+      "street": "Deensestraat"
     }, 
     {
-      "lat": 51.129366449179415, 
       "housenumber": "6", 
+      "lat": 51.129366449179415, 
+      "lon": 4.573528871481872, 
       "pcode": 2500, 
-      "street": "Deensestraat", 
-      "lon": 4.573528871481872
+      "street": "Deensestraat"
     }
-  ], 
-  "name": "Deensestraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8630, 
   "addresses": [
     {
-      "lat": 51.072574823170534, 
       "housenumber": "1", 
+      "lat": 51.072574823170534, 
+      "lon": 2.661293330099765, 
       "pcode": 8630, 
-      "street": "Heldenplein", 
-      "lon": 2.661293330099765
+      "street": "Heldenplein"
     }, 
     {
-      "lat": 51.07262594592291, 
       "housenumber": "2", 
+      "lat": 51.07262594592291, 
+      "lon": 2.6612038363845083, 
       "pcode": 8630, 
-      "street": "Heldenplein", 
-      "lon": 2.6612038363845083
+      "street": "Heldenplein"
     }
-  ], 
-  "name": "Heldenplein"
+  ]
 }

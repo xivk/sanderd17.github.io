@@ -1,20 +1,18 @@
 {
-  "pcode": 8380, 
   "addresses": [
     {
-      "lat": 51.27019578052395, 
       "housenumber": "1", 
+      "lat": 51.27019578052395, 
+      "lon": 3.2136652911965546, 
       "pcode": 8380, 
-      "street": "Dudzeelse Brug", 
-      "lon": 3.2136652911965546
+      "street": "Dudzeelse Brug"
     }, 
     {
-      "lat": 51.27028559211625, 
       "housenumber": "2", 
+      "lat": 51.27028559211625, 
+      "lon": 3.2136477318101018, 
       "pcode": 8380, 
-      "street": "Dudzeelse Brug", 
-      "lon": 3.2136477318101018
+      "street": "Dudzeelse Brug"
     }
-  ], 
-  "name": "Dudzeelse Brug"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3460, 
   "addresses": [
     {
-      "lat": 50.916772513411075, 
       "housenumber": "1", 
+      "lat": 50.916772513411075, 
+      "lon": 4.9615177659306635, 
       "pcode": 3460, 
-      "street": "Dorshaagstraat", 
-      "lon": 4.9615177659306635
+      "street": "Dorshaagstraat"
     }, 
     {
-      "lat": 50.9133353853534, 
       "housenumber": "2", 
+      "lat": 50.9133353853534, 
+      "lon": 4.955714381439584, 
       "pcode": 3460, 
-      "street": "Dorshaagstraat", 
-      "lon": 4.955714381439584
+      "street": "Dorshaagstraat"
     }
-  ], 
-  "name": "Dorshaagstraat"
+  ]
 }

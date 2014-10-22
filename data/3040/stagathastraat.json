@@ -1,20 +1,18 @@
 {
-  "pcode": 3040, 
   "addresses": [
     {
-      "lat": 50.78714970828328, 
       "housenumber": "1", 
+      "lat": 50.78714970828328, 
+      "lon": 4.633530473427051, 
       "pcode": 3040, 
-      "street": "St.-Agathastraat", 
-      "lon": 4.633530473427051
+      "street": "St.-Agathastraat"
     }, 
     {
-      "lat": 50.78724673850521, 
       "housenumber": "3", 
+      "lat": 50.78724673850521, 
+      "lon": 4.633516697376263, 
       "pcode": 3040, 
-      "street": "St.-Agathastraat", 
-      "lon": 4.633516697376263
+      "street": "St.-Agathastraat"
     }
-  ], 
-  "name": "St.-Agathastraat"
+  ]
 }

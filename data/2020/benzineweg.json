@@ -1,25 +1,23 @@
 {
-  "pcode": 2020, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2020, 
-      "street": "Benzineweg", 
-      "housenumber": "1"
+      "street": "Benzineweg"
     }, 
     {
-      "lat": 51.19541700780922, 
       "housenumber": "11", 
+      "lat": 51.19541700780922, 
+      "lon": 4.346862062865232, 
       "pcode": 2020, 
-      "street": "Benzineweg", 
-      "lon": 4.346862062865232
+      "street": "Benzineweg"
     }, 
     {
-      "lat": 51.197539626817004, 
       "housenumber": "2", 
+      "lat": 51.197539626817004, 
+      "lon": 4.350662661862356, 
       "pcode": 2020, 
-      "street": "Benzineweg", 
-      "lon": 4.350662661862356
+      "street": "Benzineweg"
     }
-  ], 
-  "name": "Benzineweg"
+  ]
 }

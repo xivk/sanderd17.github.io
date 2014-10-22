@@ -1,27 +1,25 @@
 {
-  "pcode": 8301, 
   "addresses": [
     {
-      "lat": 51.34178040929211, 
       "housenumber": "1", 
+      "lat": 51.34178040929211, 
+      "lon": 3.2579127256809124, 
       "pcode": 8301, 
-      "street": "Hazenpad", 
-      "lon": 3.2579127256809124
+      "street": "Hazenpad"
     }, 
     {
-      "lat": 51.342123728401106, 
       "housenumber": "2", 
+      "lat": 51.342123728401106, 
+      "lon": 3.257868074882517, 
       "pcode": 8301, 
-      "street": "Hazenpad", 
-      "lon": 3.257868074882517
+      "street": "Hazenpad"
     }, 
     {
-      "lat": 51.34207777132731, 
       "housenumber": "4", 
+      "lat": 51.34207777132731, 
+      "lon": 3.257702399734724, 
       "pcode": 8301, 
-      "street": "Hazenpad", 
-      "lon": 3.257702399734724
+      "street": "Hazenpad"
     }
-  ], 
-  "name": "Hazenpad"
+  ]
 }

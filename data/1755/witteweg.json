@@ -1,20 +1,18 @@
 {
-  "pcode": 1755, 
   "addresses": [
     {
-      "lat": 50.772023913410926, 
       "housenumber": "7", 
+      "lat": 50.772023913410926, 
+      "lon": 4.048530255605965, 
       "pcode": 1755, 
-      "street": "Witteweg", 
-      "lon": 4.048530255605965
+      "street": "Witteweg"
     }, 
     {
-      "lat": 50.77235082147916, 
       "housenumber": "8", 
+      "lat": 50.77235082147916, 
+      "lon": 4.047558043609909, 
       "pcode": 1755, 
-      "street": "Witteweg", 
-      "lon": 4.047558043609909
+      "street": "Witteweg"
     }
-  ], 
-  "name": "Witteweg"
+  ]
 }

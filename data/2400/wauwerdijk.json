@@ -1,20 +1,18 @@
 {
-  "pcode": 2400, 
   "addresses": [
     {
-      "lat": 51.210384804166765, 
       "housenumber": "4", 
+      "lat": 51.210384804166765, 
+      "lon": 5.115977833929956, 
       "pcode": 2400, 
-      "street": "Wauwerdijk", 
-      "lon": 5.115977833929956
+      "street": "Wauwerdijk"
     }, 
     {
-      "lat": 51.21046353911682, 
       "housenumber": "6", 
+      "lat": 51.21046353911682, 
+      "lon": 5.116163705944158, 
       "pcode": 2400, 
-      "street": "Wauwerdijk", 
-      "lon": 5.116163705944158
+      "street": "Wauwerdijk"
     }
-  ], 
-  "name": "Wauwerdijk"
+  ]
 }

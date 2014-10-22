@@ -1,20 +1,18 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.88024845411933, 
       "housenumber": "1", 
+      "lat": 50.88024845411933, 
+      "lon": 4.690683369757515, 
       "pcode": 3000, 
-      "street": "Kruisstraat", 
-      "lon": 4.690683369757515
+      "street": "Kruisstraat"
     }, 
     {
-      "lat": 50.88065902921493, 
       "housenumber": "2", 
+      "lat": 50.88065902921493, 
+      "lon": 4.690478301238184, 
       "pcode": 3000, 
-      "street": "Kruisstraat", 
-      "lon": 4.690478301238184
+      "street": "Kruisstraat"
     }
-  ], 
-  "name": "Kruisstraat"
+  ]
 }

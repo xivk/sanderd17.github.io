@@ -1,20 +1,18 @@
 {
-  "pcode": 9810, 
   "addresses": [
     {
-      "lat": 50.9791847269977, 
       "housenumber": "1", 
+      "lat": 50.9791847269977, 
+      "lon": 3.661246042532196, 
       "pcode": 9810, 
-      "street": "Savaanstraat", 
-      "lon": 3.661246042532196
+      "street": "Savaanstraat"
     }, 
     {
-      "lat": 50.97843059088687, 
       "housenumber": "5", 
+      "lat": 50.97843059088687, 
+      "lon": 3.664784917738697, 
       "pcode": 9810, 
-      "street": "Savaanstraat", 
-      "lon": 3.664784917738697
+      "street": "Savaanstraat"
     }
-  ], 
-  "name": "Savaanstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2340, 
   "addresses": [
     {
-      "lat": 51.30300933113482, 
       "housenumber": "1", 
+      "lat": 51.30300933113482, 
+      "lon": 4.776707751145987, 
       "pcode": 2340, 
-      "street": "Heigoed", 
-      "lon": 4.776707751145987
+      "street": "Heigoed"
     }, 
     {
-      "lat": 51.303425619055986, 
       "housenumber": "2", 
+      "lat": 51.303425619055986, 
+      "lon": 4.776590959584688, 
       "pcode": 2340, 
-      "street": "Heigoed", 
-      "lon": 4.776590959584688
+      "street": "Heigoed"
     }
-  ], 
-  "name": "Heigoed"
+  ]
 }

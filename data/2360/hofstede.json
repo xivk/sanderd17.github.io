@@ -1,27 +1,25 @@
 {
-  "pcode": 2360, 
   "addresses": [
     {
-      "lat": 51.33994451802994, 
       "housenumber": "1", 
+      "lat": 51.33994451802994, 
+      "lon": 4.976175405956398, 
       "pcode": 2360, 
-      "street": "Hofstede", 
-      "lon": 4.976175405956398
+      "street": "Hofstede"
     }, 
     {
-      "lat": 51.34020219118295, 
       "housenumber": "5", 
+      "lat": 51.34020219118295, 
+      "lon": 4.976266887283488, 
       "pcode": 2360, 
-      "street": "Hofstede", 
-      "lon": 4.976266887283488
+      "street": "Hofstede"
     }, 
     {
-      "lat": 51.34032447719481, 
       "housenumber": "7", 
+      "lat": 51.34032447719481, 
+      "lon": 4.976363056463289, 
       "pcode": 2360, 
-      "street": "Hofstede", 
-      "lon": 4.976363056463289
+      "street": "Hofstede"
     }
-  ], 
-  "name": "Hofstede"
+  ]
 }

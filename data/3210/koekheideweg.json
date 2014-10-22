@@ -1,27 +1,25 @@
 {
-  "pcode": 3210, 
   "addresses": [
     {
-      "lat": 50.90103897676235, 
       "housenumber": "10", 
+      "lat": 50.90103897676235, 
+      "lon": 4.785553319438201, 
       "pcode": 3210, 
-      "street": "Koekheideweg", 
-      "lon": 4.785553319438201
+      "street": "Koekheideweg"
     }, 
     {
-      "lat": 50.90181782555233, 
       "housenumber": "2", 
+      "lat": 50.90181782555233, 
+      "lon": 4.782330602661865, 
       "pcode": 3210, 
-      "street": "Koekheideweg", 
-      "lon": 4.782330602661865
+      "street": "Koekheideweg"
     }, 
     {
-      "lat": 50.90092347609374, 
       "housenumber": "4", 
+      "lat": 50.90092347609374, 
+      "lon": 4.782504107316347, 
       "pcode": 3210, 
-      "street": "Koekheideweg", 
-      "lon": 4.782504107316347
+      "street": "Koekheideweg"
     }
-  ], 
-  "name": "Koekheideweg"
+  ]
 }

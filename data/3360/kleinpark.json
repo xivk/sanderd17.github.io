@@ -1,33 +1,31 @@
 {
-  "pcode": 3360, 
   "addresses": [
     {
-      "lat": 50.85441616694917, 
       "housenumber": "1", 
+      "lat": 50.85441616694917, 
+      "lon": 4.785072711253388, 
       "pcode": 3360, 
-      "street": "Klein Park", 
-      "lon": 4.785072711253388
+      "street": "Klein Park"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3360, 
-      "street": "Klein Park", 
-      "housenumber": "2"
+      "street": "Klein Park"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3360, 
-      "street": "Klein Park", 
-      "housenumber": "4"
+      "street": "Klein Park"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3360, 
-      "street": "Klein Park", 
-      "housenumber": "6"
+      "street": "Klein Park"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 3360, 
-      "street": "Klein Park", 
-      "housenumber": "9"
+      "street": "Klein Park"
     }
-  ], 
-  "name": "Klein Park"
+  ]
 }

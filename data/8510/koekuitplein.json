@@ -1,18 +1,16 @@
 {
-  "pcode": 8510, 
   "addresses": [
     {
-      "lat": 50.807390536431406, 
       "housenumber": "8", 
+      "lat": 50.807390536431406, 
+      "lon": 3.222591905544051, 
       "pcode": 8510, 
-      "street": "Koekuitplein", 
-      "lon": 3.222591905544051
+      "street": "Koekuitplein"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 8510, 
-      "street": "Koekuitplein", 
-      "housenumber": "9"
+      "street": "Koekuitplein"
     }
-  ], 
-  "name": "Koekuitplein"
+  ]
 }

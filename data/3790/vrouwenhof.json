@@ -1,20 +1,18 @@
 {
-  "pcode": 3790, 
   "addresses": [
     {
-      "lat": 50.72804227465773, 
       "housenumber": "1", 
+      "lat": 50.72804227465773, 
+      "lon": 5.844952722042976, 
       "pcode": 3790, 
-      "street": "Vrouwenhof", 
-      "lon": 5.844952722042976
+      "street": "Vrouwenhof"
     }, 
     {
-      "lat": 50.72793770168001, 
       "housenumber": "49", 
+      "lat": 50.72793770168001, 
+      "lon": 5.844959927655092, 
       "pcode": 3790, 
-      "street": "Vrouwenhof", 
-      "lon": 5.844959927655092
+      "street": "Vrouwenhof"
     }
-  ], 
-  "name": "Vrouwenhof"
+  ]
 }

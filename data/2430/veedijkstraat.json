@@ -1,20 +1,18 @@
 {
-  "pcode": 2430, 
   "addresses": [
     {
-      "lat": 51.10227186207975, 
       "housenumber": "1", 
+      "lat": 51.10227186207975, 
+      "lon": 5.026303369507478, 
       "pcode": 2430, 
-      "street": "Veedijkstraat", 
-      "lon": 5.026303369507478
+      "street": "Veedijkstraat"
     }, 
     {
-      "lat": 51.102373870957564, 
       "housenumber": "2", 
+      "lat": 51.102373870957564, 
+      "lon": 5.026612487070186, 
       "pcode": 2430, 
-      "street": "Veedijkstraat", 
-      "lon": 5.026612487070186
+      "street": "Veedijkstraat"
     }
-  ], 
-  "name": "Veedijkstraat"
+  ]
 }

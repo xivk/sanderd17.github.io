@@ -1,20 +1,18 @@
 {
-  "pcode": 9681, 
   "addresses": [
     {
-      "lat": 50.77364318205547, 
       "housenumber": "1", 
+      "lat": 50.77364318205547, 
+      "lon": 3.587025290950012, 
       "pcode": 9681, 
-      "street": "Groenendale", 
-      "lon": 3.587025290950012
+      "street": "Groenendale"
     }, 
     {
-      "lat": 50.77342959576723, 
       "housenumber": "3", 
+      "lat": 50.77342959576723, 
+      "lon": 3.5868531685049856, 
       "pcode": 9681, 
-      "street": "Groenendale", 
-      "lon": 3.5868531685049856
+      "street": "Groenendale"
     }
-  ], 
-  "name": "Groenendale"
+  ]
 }

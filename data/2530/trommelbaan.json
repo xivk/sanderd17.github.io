@@ -1,20 +1,18 @@
 {
-  "pcode": 2530, 
   "addresses": [
     {
-      "lat": 51.13159314697519, 
       "housenumber": "14", 
+      "lat": 51.13159314697519, 
+      "lon": 4.531027354741185, 
       "pcode": 2530, 
-      "street": "Trommelbaan", 
-      "lon": 4.531027354741185
+      "street": "Trommelbaan"
     }, 
     {
-      "lat": 51.13007882219992, 
       "housenumber": "3", 
+      "lat": 51.13007882219992, 
+      "lon": 4.527936121240256, 
       "pcode": 2530, 
-      "street": "Trommelbaan", 
-      "lon": 4.527936121240256
+      "street": "Trommelbaan"
     }
-  ], 
-  "name": "Trommelbaan"
+  ]
 }

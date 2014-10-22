@@ -1,18 +1,16 @@
 {
-  "pcode": 8670, 
   "addresses": [
     {
-      "lat": 51.13489595532375, 
       "housenumber": "1", 
+      "lat": 51.13489595532375, 
+      "lon": 2.681572855624018, 
       "pcode": 8670, 
-      "street": "Zonneplein", 
-      "lon": 2.681572855624018
+      "street": "Zonneplein"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8670, 
-      "street": "Zonneplein", 
-      "housenumber": "3"
+      "street": "Zonneplein"
     }
-  ], 
-  "name": "Zonneplein"
+  ]
 }

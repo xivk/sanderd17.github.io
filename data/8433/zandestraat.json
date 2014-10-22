@@ -1,18 +1,16 @@
 {
-  "pcode": 8433, 
   "addresses": [
     {
-      "lat": 51.1216748801377, 
       "housenumber": "1", 
+      "lat": 51.1216748801377, 
+      "lon": 2.886575087377204, 
       "pcode": 8433, 
-      "street": "Zandestraat", 
-      "lon": 2.886575087377204
+      "street": "Zandestraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8433, 
-      "street": "Zandestraat", 
-      "housenumber": "2"
+      "street": "Zandestraat"
     }
-  ], 
-  "name": "Zandestraat"
+  ]
 }

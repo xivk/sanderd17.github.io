@@ -1,28 +1,26 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2000, 
-      "street": "Willem Ogierplaats", 
-      "housenumber": "1"
+      "street": "Willem Ogierplaats"
     }, 
     {
-      "lat": 51.22190648454307, 
       "housenumber": "2", 
+      "lat": 51.22190648454307, 
+      "lon": 4.398199449089812, 
       "pcode": 2000, 
-      "street": "Willem Ogierplaats", 
-      "lon": 4.398199449089812
+      "street": "Willem Ogierplaats"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2000, 
-      "street": "Willem Ogierplaats", 
-      "housenumber": "3"
+      "street": "Willem Ogierplaats"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2000, 
-      "street": "Willem Ogierplaats", 
-      "housenumber": "5"
+      "street": "Willem Ogierplaats"
     }
-  ], 
-  "name": "Willem Ogierplaats"
+  ]
 }

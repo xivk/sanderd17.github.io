@@ -1,39 +1,37 @@
 {
-  "pcode": 3630, 
   "addresses": [
     {
-      "lat": 50.96343727253458, 
       "housenumber": "1", 
+      "lat": 50.96343727253458, 
+      "lon": 5.694651003124844, 
       "pcode": 3630, 
-      "street": "Rozenstraat", 
-      "lon": 5.694651003124844
+      "street": "Rozenstraat"
     }, 
     {
-      "lat": 50.963977001567265, 
       "housenumber": "2", 
+      "lat": 50.963977001567265, 
+      "lon": 5.694529598378895, 
       "pcode": 3630, 
-      "street": "Rozenstraat", 
-      "lon": 5.694529598378895
+      "street": "Rozenstraat"
     }, 
     {
-      "lat": 50.96358319437989, 
       "housenumber": "3", 
+      "lat": 50.96358319437989, 
+      "lon": 5.694555045832833, 
       "pcode": 3630, 
-      "street": "Rozenstraat", 
-      "lon": 5.694555045832833
+      "street": "Rozenstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3630, 
-      "street": "Rozenstraat", 
-      "housenumber": "4"
+      "street": "Rozenstraat"
     }, 
     {
-      "lat": 50.96363265289675, 
       "housenumber": "5", 
+      "lat": 50.96363265289675, 
+      "lon": 5.694163645942676, 
       "pcode": 3630, 
-      "street": "Rozenstraat", 
-      "lon": 5.694163645942676
+      "street": "Rozenstraat"
     }
-  ], 
-  "name": "Rozenstraat"
+  ]
 }

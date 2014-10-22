@@ -1,20 +1,18 @@
 {
-  "pcode": 3690, 
   "addresses": [
     {
-      "lat": 50.939348397907324, 
       "housenumber": "2", 
+      "lat": 50.939348397907324, 
+      "lon": 5.595017983120151, 
       "pcode": 3690, 
-      "street": "Struweelstraat", 
-      "lon": 5.595017983120151
+      "street": "Struweelstraat"
     }, 
     {
-      "lat": 50.939921890205255, 
       "housenumber": "6", 
+      "lat": 50.939921890205255, 
+      "lon": 5.59661957179102, 
       "pcode": 3690, 
-      "street": "Struweelstraat", 
-      "lon": 5.59661957179102
+      "street": "Struweelstraat"
     }
-  ], 
-  "name": "Struweelstraat"
+  ]
 }

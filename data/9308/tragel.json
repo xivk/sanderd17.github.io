@@ -1,25 +1,23 @@
 {
-  "pcode": 9308, 
   "addresses": [
     {
+      "housenumber": "59", 
       "pcode": 9308, 
-      "street": "Tragel", 
-      "housenumber": "59"
+      "street": "Tragel"
     }, 
     {
-      "lat": 50.95537834765723, 
       "housenumber": "67", 
+      "lat": 50.95537834765723, 
+      "lon": 4.036646306577248, 
       "pcode": 9308, 
-      "street": "Tragel", 
-      "lon": 4.036646306577248
+      "street": "Tragel"
     }, 
     {
-      "lat": 50.948122387509095, 
       "housenumber": "8", 
+      "lat": 50.948122387509095, 
+      "lon": 4.035166407432073, 
       "pcode": 9308, 
-      "street": "Tragel", 
-      "lon": 4.035166407432073
+      "street": "Tragel"
     }
-  ], 
-  "name": "Tragel"
+  ]
 }

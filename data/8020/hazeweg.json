@@ -1,20 +1,18 @@
 {
-  "pcode": 8020, 
   "addresses": [
     {
-      "lat": 51.0982489941637, 
       "housenumber": "1", 
+      "lat": 51.0982489941637, 
+      "lon": 3.3000296849790898, 
       "pcode": 8020, 
-      "street": "Hazeweg", 
-      "lon": 3.3000296849790898
+      "street": "Hazeweg"
     }, 
     {
-      "lat": 51.09836869059883, 
       "housenumber": "4", 
+      "lat": 51.09836869059883, 
+      "lon": 3.2990423915269087, 
       "pcode": 8020, 
-      "street": "Hazeweg", 
-      "lon": 3.2990423915269087
+      "street": "Hazeweg"
     }
-  ], 
-  "name": "Hazeweg"
+  ]
 }

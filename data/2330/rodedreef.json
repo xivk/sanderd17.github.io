@@ -1,20 +1,18 @@
 {
-  "pcode": 2330, 
   "addresses": [
     {
-      "lat": 51.35462278275302, 
       "housenumber": "1", 
+      "lat": 51.35462278275302, 
+      "lon": 4.830716199353725, 
       "pcode": 2330, 
-      "street": "Rode Dreef", 
-      "lon": 4.830716199353725
+      "street": "Rode Dreef"
     }, 
     {
-      "lat": 51.354706793429436, 
       "housenumber": "2", 
+      "lat": 51.354706793429436, 
+      "lon": 4.831275865871749, 
       "pcode": 2330, 
-      "street": "Rode Dreef", 
-      "lon": 4.831275865871749
+      "street": "Rode Dreef"
     }
-  ], 
-  "name": "Rode Dreef"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3945, 
   "addresses": [
     {
-      "lat": 51.107265997505266, 
       "housenumber": "11", 
+      "lat": 51.107265997505266, 
+      "lon": 5.1716403314139505, 
       "pcode": 3945, 
-      "street": "Iepstraat", 
-      "lon": 5.1716403314139505
+      "street": "Iepstraat"
     }, 
     {
-      "lat": 51.107621660961925, 
       "housenumber": "14", 
+      "lat": 51.107621660961925, 
+      "lon": 5.171950026599148, 
       "pcode": 3945, 
-      "street": "Iepstraat", 
-      "lon": 5.171950026599148
+      "street": "Iepstraat"
     }
-  ], 
-  "name": "Iepstraat"
+  ]
 }

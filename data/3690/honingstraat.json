@@ -1,20 +1,18 @@
 {
-  "pcode": 3690, 
   "addresses": [
     {
-      "lat": 50.915128910117815, 
       "housenumber": "1", 
+      "lat": 50.915128910117815, 
+      "lon": 5.580821506674432, 
       "pcode": 3690, 
-      "street": "Honingstraat", 
-      "lon": 5.580821506674432
+      "street": "Honingstraat"
     }, 
     {
-      "lat": 50.914742349580315, 
       "housenumber": "2", 
+      "lat": 50.914742349580315, 
+      "lon": 5.581314543861661, 
       "pcode": 3690, 
-      "street": "Honingstraat", 
-      "lon": 5.581314543861661
+      "street": "Honingstraat"
     }
-  ], 
-  "name": "Honingstraat"
+  ]
 }

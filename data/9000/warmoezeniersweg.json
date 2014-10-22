@@ -1,20 +1,18 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.02791323132484, 
       "housenumber": "10", 
+      "lat": 51.02791323132484, 
+      "lon": 3.7438765994974146, 
       "pcode": 9000, 
-      "street": "Warmoezeniersweg", 
-      "lon": 3.7438765994974146
+      "street": "Warmoezeniersweg"
     }, 
     {
-      "lat": 51.024665906939525, 
       "housenumber": "20", 
+      "lat": 51.024665906939525, 
+      "lon": 3.7445521839875866, 
       "pcode": 9000, 
-      "street": "Warmoezeniersweg", 
-      "lon": 3.7445521839875866
+      "street": "Warmoezeniersweg"
     }
-  ], 
-  "name": "Warmoezeniersweg"
+  ]
 }

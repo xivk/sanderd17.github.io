@@ -1,130 +1,130 @@
 {
   "streets": [
     {
-      "latmax": 51.2471931491485, 
+      "b": 51.246364743724506, 
+      "l": 3.5484194611053015, 
       "name": "Comercaatsweg", 
-      "lonmin": 3.5484194611053015, 
+      "numOfAddr": 4, 
+      "r": 3.5504414487948193, 
       "sanName": "comercaatsweg", 
-      "numOfAddr": 4, 
-      "lonmax": 3.5504414487948193, 
-      "latmin": 51.246364743724506
+      "t": 51.2471931491485
     }, 
     {
-      "latmax": 51.24644639949744, 
+      "b": 51.24610413643782, 
+      "l": 3.5409698630455093, 
       "name": "Comer-Graafjansdijk", 
-      "lonmin": 3.5409698630455093, 
-      "sanName": "comergraafjansdijk", 
       "numOfAddr": 5, 
-      "lonmax": 3.5494858109203973, 
-      "latmin": 51.24610413643782
+      "r": 3.5494858109203973, 
+      "sanName": "comergraafjansdijk", 
+      "t": 51.24644639949744
     }, 
     {
-      "latmax": 51.24610436395442, 
+      "b": 51.24598420823629, 
+      "l": 3.539503437347221, 
       "name": "Groeneweg", 
-      "lonmin": 3.539503437347221, 
+      "numOfAddr": 4, 
+      "r": 3.540592268390404, 
       "sanName": "groeneweg", 
-      "numOfAddr": 4, 
-      "lonmax": 3.540592268390404, 
-      "latmin": 51.24598420823629
+      "t": 51.24610436395442
     }, 
     {
-      "latmax": 51.276870641429916, 
+      "b": 51.27226421901584, 
+      "l": 3.5360357449701447, 
       "name": "Groenstraat", 
-      "lonmin": 3.5360357449701447, 
-      "sanName": "groenstraat", 
       "numOfAddr": 14, 
-      "lonmax": 3.5535627091892676, 
-      "latmin": 51.27226421901584
+      "r": 3.5535627091892676, 
+      "sanName": "groenstraat", 
+      "t": 51.276870641429916
     }, 
     {
-      "latmax": 51.280320670331506, 
+      "b": 51.26390906332184, 
+      "l": 3.5210920404391035, 
       "name": "Hontseindestraat", 
-      "lonmin": 3.5210920404391035, 
-      "sanName": "hontseindestraat", 
       "numOfAddr": 94, 
-      "lonmax": 3.546717195351094, 
-      "latmin": 51.26390906332184
+      "r": 3.546717195351094, 
+      "sanName": "hontseindestraat", 
+      "t": 51.280320670331506
     }, 
     {
-      "latmax": 51.251502547614166, 
+      "b": 51.24656511050708, 
+      "l": 3.5278691066559817, 
       "name": "Kantijne", 
-      "lonmin": 3.5278691066559817, 
-      "sanName": "kantijne", 
       "numOfAddr": 10, 
-      "lonmax": 3.533196536432495, 
-      "latmin": 51.24656511050708
+      "r": 3.533196536432495, 
+      "sanName": "kantijne", 
+      "t": 51.251502547614166
     }, 
     {
-      "latmax": 51.28231393869662, 
+      "b": 51.28178646446243, 
+      "l": 3.5461285855507825, 
       "name": "Kerkplein", 
-      "lonmin": 3.5461285855507825, 
+      "numOfAddr": 4, 
+      "r": 3.546716203644066, 
       "sanName": "kerkplein", 
-      "numOfAddr": 4, 
-      "lonmax": 3.546716203644066, 
-      "latmin": 51.28178646446243
+      "t": 51.28231393869662
     }, 
     {
-      "latmax": 51.283559960228104, 
+      "b": 51.27706387197963, 
+      "l": 3.521565699578789, 
       "name": "Kruispolderstraat", 
-      "lonmin": 3.521565699578789, 
-      "sanName": "kruispolderstraat", 
       "numOfAddr": 7, 
-      "lonmax": 3.5341245952531635, 
-      "latmin": 51.27706387197963
+      "r": 3.5341245952531635, 
+      "sanName": "kruispolderstraat", 
+      "t": 51.283559960228104
     }, 
     {
-      "latmax": 51.25065766488065, 
+      "b": 51.24660421286814, 
+      "l": 3.542911773437909, 
       "name": "Langeweg", 
-      "lonmin": 3.542911773437909, 
-      "sanName": "langeweg", 
       "numOfAddr": 6, 
-      "lonmax": 3.5530275169883074, 
-      "latmin": 51.24660421286814
+      "r": 3.5530275169883074, 
+      "sanName": "langeweg", 
+      "t": 51.25065766488065
     }, 
     {
-      "latmax": 51.284225938105436, 
+      "b": 51.278883111813506, 
+      "l": 3.5516470998032883, 
       "name": "Molenkreekstraat", 
-      "lonmin": 3.5516470998032883, 
-      "sanName": "molenkreekstraat", 
       "numOfAddr": 13, 
-      "lonmax": 3.566365391948901, 
-      "latmin": 51.278883111813506
+      "r": 3.566365391948901, 
+      "sanName": "molenkreekstraat", 
+      "t": 51.284225938105436
     }, 
     {
-      "latmax": 51.28814640773736, 
+      "b": 51.28406404815605, 
+      "l": 3.5625067616011727, 
       "name": "Sint-Livinuspolder", 
-      "lonmin": 3.5625067616011727, 
-      "sanName": "sintlivinuspolder", 
       "numOfAddr": 2, 
-      "lonmax": 3.5662851881760744, 
-      "latmin": 51.28406404815605
+      "r": 3.5662851881760744, 
+      "sanName": "sintlivinuspolder", 
+      "t": 51.28814640773736
     }, 
     {
-      "latmax": 51.286190939702955, 
+      "b": 51.285166954462085, 
+      "l": 3.516230764386299, 
       "name": "Sint Margrietepolder", 
-      "lonmin": 3.516230764386299, 
-      "sanName": "sintmargrietepolder", 
       "numOfAddr": 4, 
-      "lonmax": 3.5244085171409796, 
-      "latmin": 51.285166954462085
+      "r": 3.5244085171409796, 
+      "sanName": "sintmargrietepolder", 
+      "t": 51.286190939702955
     }, 
     {
-      "latmax": 51.28494858246953, 
+      "b": 51.27525995614628, 
+      "l": 3.540520403601241, 
       "name": "Sint-Margrietestraat", 
-      "lonmin": 3.540520403601241, 
-      "sanName": "sintmargrietestraat", 
       "numOfAddr": 113, 
-      "lonmax": 3.5552501118071675, 
-      "latmin": 51.27525995614628
+      "r": 3.5552501118071675, 
+      "sanName": "sintmargrietestraat", 
+      "t": 51.28494858246953
     }, 
     {
-      "latmax": 51.25800887269983, 
+      "b": 51.24534110067492, 
+      "l": 3.534817718854236, 
       "name": "Vlamingstraat", 
-      "lonmin": 3.534817718854236, 
-      "sanName": "vlamingstraat", 
       "numOfAddr": 46, 
-      "lonmax": 3.546822384699416, 
-      "latmin": 51.24534110067492
+      "r": 3.546822384699416, 
+      "sanName": "vlamingstraat", 
+      "t": 51.25800887269983
     }
   ]
 }

@@ -1,34 +1,32 @@
 {
-  "pcode": 2222, 
   "addresses": [
     {
-      "lat": 51.09986118983758, 
       "housenumber": "1", 
+      "lat": 51.09986118983758, 
+      "lon": 4.807626472817018, 
       "pcode": 2222, 
-      "street": "Moesweg", 
-      "lon": 4.807626472817018
+      "street": "Moesweg"
     }, 
     {
-      "lat": 51.09993304025278, 
       "housenumber": "3", 
+      "lat": 51.09993304025278, 
+      "lon": 4.809207556306695, 
       "pcode": 2222, 
-      "street": "Moesweg", 
-      "lon": 4.809207556306695
+      "street": "Moesweg"
     }, 
     {
-      "lat": 51.09940506951039, 
       "housenumber": "4", 
+      "lat": 51.09940506951039, 
+      "lon": 4.81161713095303, 
       "pcode": 2222, 
-      "street": "Moesweg", 
-      "lon": 4.81161713095303
+      "street": "Moesweg"
     }, 
     {
-      "lat": 51.099853458469966, 
       "housenumber": "5", 
+      "lat": 51.099853458469966, 
+      "lon": 4.811970159387801, 
       "pcode": 2222, 
-      "street": "Moesweg", 
-      "lon": 4.811970159387801
+      "street": "Moesweg"
     }
-  ], 
-  "name": "Moesweg"
+  ]
 }

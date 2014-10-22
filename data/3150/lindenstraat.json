@@ -1,20 +1,18 @@
 {
-  "pcode": 3150, 
   "addresses": [
     {
-      "lat": 50.94828578849768, 
       "housenumber": "1", 
+      "lat": 50.94828578849768, 
+      "lon": 4.683160928602284, 
       "pcode": 3150, 
-      "street": "Lindenstraat", 
-      "lon": 4.683160928602284
+      "street": "Lindenstraat"
     }, 
     {
-      "lat": 50.948420400020204, 
       "housenumber": "2", 
+      "lat": 50.948420400020204, 
+      "lon": 4.6835141740285415, 
       "pcode": 3150, 
-      "street": "Lindenstraat", 
-      "lon": 4.6835141740285415
+      "street": "Lindenstraat"
     }
-  ], 
-  "name": "Lindenstraat"
+  ]
 }

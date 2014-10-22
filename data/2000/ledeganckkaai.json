@@ -1,56 +1,54 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "19", 
       "pcode": 2000, 
-      "street": "Ledeganckkaai", 
-      "housenumber": "19"
+      "street": "Ledeganckkaai"
     }, 
     {
-      "lat": 51.20524221524553, 
       "housenumber": "19A", 
+      "lat": 51.20524221524553, 
+      "lon": 4.380252291261254, 
       "pcode": 2000, 
-      "street": "Ledeganckkaai", 
-      "lon": 4.380252291261254
+      "street": "Ledeganckkaai"
     }, 
     {
-      "lat": 51.205399671683054, 
       "housenumber": "23", 
+      "lat": 51.205399671683054, 
+      "lon": 4.379565666379279, 
       "pcode": 2000, 
-      "street": "Ledeganckkaai", 
-      "lon": 4.379565666379279
+      "street": "Ledeganckkaai"
     }, 
     {
-      "lat": 51.20520681156754, 
       "housenumber": "25", 
+      "lat": 51.20520681156754, 
+      "lon": 4.379233948598932, 
       "pcode": 2000, 
-      "street": "Ledeganckkaai", 
-      "lon": 4.379233948598932
+      "street": "Ledeganckkaai"
     }, 
     {
-      "lat": 51.20513060609845, 
       "housenumber": "27", 
+      "lat": 51.20513060609845, 
+      "lon": 4.3844819803451305, 
       "pcode": 2000, 
-      "street": "Ledeganckkaai", 
-      "lon": 4.3844819803451305
+      "street": "Ledeganckkaai"
     }, 
     {
-      "lat": 51.20705717897675, 
       "housenumber": "7", 
+      "lat": 51.20705717897675, 
+      "lon": 4.383203001962194, 
       "pcode": 2000, 
-      "street": "Ledeganckkaai", 
-      "lon": 4.383203001962194
+      "street": "Ledeganckkaai"
     }, 
     {
+      "housenumber": "7A", 
       "pcode": 2000, 
-      "street": "Ledeganckkaai", 
-      "housenumber": "7A"
+      "street": "Ledeganckkaai"
     }, 
     {
+      "housenumber": "7bis", 
       "pcode": 2000, 
-      "street": "Ledeganckkaai", 
-      "housenumber": "7bis"
+      "street": "Ledeganckkaai"
     }
-  ], 
-  "name": "Ledeganckkaai"
+  ]
 }

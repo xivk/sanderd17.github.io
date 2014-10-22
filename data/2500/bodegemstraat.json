@@ -1,20 +1,18 @@
 {
-  "pcode": 2500, 
   "addresses": [
     {
-      "lat": 51.127450974204024, 
       "housenumber": "1", 
+      "lat": 51.127450974204024, 
+      "lon": 4.567596009534776, 
       "pcode": 2500, 
-      "street": "Bodegemstraat", 
-      "lon": 4.567596009534776
+      "street": "Bodegemstraat"
     }, 
     {
-      "lat": 51.1272872085744, 
       "housenumber": "2", 
+      "lat": 51.1272872085744, 
+      "lon": 4.567750012953596, 
       "pcode": 2500, 
-      "street": "Bodegemstraat", 
-      "lon": 4.567750012953596
+      "street": "Bodegemstraat"
     }
-  ], 
-  "name": "Bodegemstraat"
+  ]
 }

@@ -1,63 +1,61 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05145157844386, 
       "housenumber": "1", 
+      "lat": 51.05145157844386, 
+      "lon": 3.7272773397631465, 
       "pcode": 9000, 
-      "street": "Jodenstraat", 
-      "lon": 3.7272773397631465
+      "street": "Jodenstraat"
     }, 
     {
-      "lat": 51.05093999851642, 
       "housenumber": "10", 
+      "lat": 51.05093999851642, 
+      "lon": 3.727260812291836, 
       "pcode": 9000, 
-      "street": "Jodenstraat", 
-      "lon": 3.727260812291836
+      "street": "Jodenstraat"
     }, 
     {
-      "lat": 51.05096076311451, 
       "housenumber": "2", 
+      "lat": 51.05096076311451, 
+      "lon": 3.7271615508240723, 
       "pcode": 9000, 
-      "street": "Jodenstraat", 
-      "lon": 3.7271615508240723
+      "street": "Jodenstraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 9000, 
-      "street": "Jodenstraat", 
-      "housenumber": "2A"
+      "street": "Jodenstraat"
     }, 
     {
+      "housenumber": "2B", 
       "pcode": 9000, 
-      "street": "Jodenstraat", 
-      "housenumber": "2B"
+      "street": "Jodenstraat"
     }, 
     {
-      "lat": 51.05094416357267, 
       "housenumber": "2C", 
+      "lat": 51.05094416357267, 
+      "lon": 3.7268698384313312, 
       "pcode": 9000, 
-      "street": "Jodenstraat", 
-      "lon": 3.7268698384313312
+      "street": "Jodenstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9000, 
-      "street": "Jodenstraat", 
-      "housenumber": "4"
+      "street": "Jodenstraat"
     }, 
     {
-      "lat": 51.050950383414744, 
       "housenumber": "6", 
+      "lat": 51.050950383414744, 
+      "lon": 3.7272529687077265, 
       "pcode": 9000, 
-      "street": "Jodenstraat", 
-      "lon": 3.7272529687077265
+      "street": "Jodenstraat"
     }, 
     {
-      "lat": 51.05095332017755, 
       "housenumber": "8", 
+      "lat": 51.05095332017755, 
+      "lon": 3.727247508998721, 
       "pcode": 9000, 
-      "street": "Jodenstraat", 
-      "lon": 3.727247508998721
+      "street": "Jodenstraat"
     }
-  ], 
-  "name": "Jodenstraat"
+  ]
 }

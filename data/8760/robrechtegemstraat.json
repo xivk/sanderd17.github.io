@@ -1,27 +1,25 @@
 {
-  "pcode": 8760, 
   "addresses": [
     {
-      "lat": 50.96441111701877, 
       "housenumber": "1", 
+      "lat": 50.96441111701877, 
+      "lon": 3.28566047284481, 
       "pcode": 8760, 
-      "street": "Robrechtegemstraat", 
-      "lon": 3.28566047284481
+      "street": "Robrechtegemstraat"
     }, 
     {
-      "lat": 50.96322830210984, 
       "housenumber": "2", 
+      "lat": 50.96322830210984, 
+      "lon": 3.2861510224858796, 
       "pcode": 8760, 
-      "street": "Robrechtegemstraat", 
-      "lon": 3.2861510224858796
+      "street": "Robrechtegemstraat"
     }, 
     {
-      "lat": 50.96489420936233, 
       "housenumber": "3", 
+      "lat": 50.96489420936233, 
+      "lon": 3.288168920261857, 
       "pcode": 8760, 
-      "street": "Robrechtegemstraat", 
-      "lon": 3.288168920261857
+      "street": "Robrechtegemstraat"
     }
-  ], 
-  "name": "Robrechtegemstraat"
+  ]
 }

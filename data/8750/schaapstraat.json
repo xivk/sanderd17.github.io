@@ -1,20 +1,18 @@
 {
-  "pcode": 8750, 
   "addresses": [
     {
-      "lat": 51.06234394427287, 
       "housenumber": "1", 
+      "lat": 51.06234394427287, 
+      "lon": 3.206412282816652, 
       "pcode": 8750, 
-      "street": "Schaapstraat", 
-      "lon": 3.206412282816652
+      "street": "Schaapstraat"
     }, 
     {
-      "lat": 51.06040441460928, 
       "housenumber": "2", 
+      "lat": 51.06040441460928, 
+      "lon": 3.206829354682643, 
       "pcode": 8750, 
-      "street": "Schaapstraat", 
-      "lon": 3.206829354682643
+      "street": "Schaapstraat"
     }
-  ], 
-  "name": "Schaapstraat"
+  ]
 }

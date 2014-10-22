@@ -1,27 +1,25 @@
 {
-  "pcode": 2222, 
   "addresses": [
     {
-      "lat": 51.10383526444367, 
       "housenumber": "1", 
+      "lat": 51.10383526444367, 
+      "lon": 4.730402941604222, 
       "pcode": 2222, 
-      "street": "Ter Borchtstraat", 
-      "lon": 4.730402941604222
+      "street": "Ter Borchtstraat"
     }, 
     {
-      "lat": 51.104524087492585, 
       "housenumber": "3", 
+      "lat": 51.104524087492585, 
+      "lon": 4.731044500335139, 
       "pcode": 2222, 
-      "street": "Ter Borchtstraat", 
-      "lon": 4.731044500335139
+      "street": "Ter Borchtstraat"
     }, 
     {
-      "lat": 51.104376560173, 
       "housenumber": "5", 
+      "lat": 51.104376560173, 
+      "lon": 4.73218814651542, 
       "pcode": 2222, 
-      "street": "Ter Borchtstraat", 
-      "lon": 4.73218814651542
+      "street": "Ter Borchtstraat"
     }
-  ], 
-  "name": "Ter Borchtstraat"
+  ]
 }

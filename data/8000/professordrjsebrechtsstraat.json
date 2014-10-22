@@ -1,35 +1,33 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.1997047879568, 
       "housenumber": "1", 
+      "lat": 51.1997047879568, 
+      "lon": 3.223287363328331, 
       "pcode": 8000, 
-      "street": "Professor Dr. J. Sebrechtsstraat", 
-      "lon": 3.223287363328331
+      "street": "Professor Dr. J. Sebrechtsstraat"
     }, 
     {
+      "housenumber": "15", 
       "pcode": 8000, 
-      "street": "Professor Dr. J. Sebrechtsstraat", 
-      "housenumber": "15"
+      "street": "Professor Dr. J. Sebrechtsstraat"
     }, 
     {
+      "housenumber": "17", 
       "pcode": 8000, 
-      "street": "Professor Dr. J. Sebrechtsstraat", 
-      "housenumber": "17"
+      "street": "Professor Dr. J. Sebrechtsstraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 8000, 
-      "street": "Professor Dr. J. Sebrechtsstraat", 
-      "housenumber": "1A"
+      "street": "Professor Dr. J. Sebrechtsstraat"
     }, 
     {
-      "lat": 51.20007409495625, 
       "housenumber": "2", 
+      "lat": 51.20007409495625, 
+      "lon": 3.223270573207286, 
       "pcode": 8000, 
-      "street": "Professor Dr. J. Sebrechtsstraat", 
-      "lon": 3.223270573207286
+      "street": "Professor Dr. J. Sebrechtsstraat"
     }
-  ], 
-  "name": "Professor Dr. J. Sebrechtsstraat"
+  ]
 }

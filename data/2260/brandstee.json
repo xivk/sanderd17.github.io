@@ -1,37 +1,35 @@
 {
-  "pcode": 2260, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2260, 
-      "street": "Brandstee", 
-      "housenumber": "1"
+      "street": "Brandstee"
     }, 
     {
-      "lat": 51.11564130027834, 
       "housenumber": "12", 
+      "lat": 51.11564130027834, 
+      "lon": 4.940201942101086, 
       "pcode": 2260, 
-      "street": "Brandstee", 
-      "lon": 4.940201942101086
+      "street": "Brandstee"
     }, 
     {
-      "lat": 51.11717982848653, 
       "housenumber": "16", 
+      "lat": 51.11717982848653, 
+      "lon": 4.942557160189134, 
       "pcode": 2260, 
-      "street": "Brandstee", 
-      "lon": 4.942557160189134
+      "street": "Brandstee"
     }, 
     {
-      "lat": 51.10937774131432, 
       "housenumber": "2", 
+      "lat": 51.10937774131432, 
+      "lon": 4.938013325838159, 
       "pcode": 2260, 
-      "street": "Brandstee", 
-      "lon": 4.938013325838159
+      "street": "Brandstee"
     }, 
     {
+      "housenumber": "27", 
       "pcode": 2260, 
-      "street": "Brandstee", 
-      "housenumber": "27"
+      "street": "Brandstee"
     }
-  ], 
-  "name": "Brandstee"
+  ]
 }

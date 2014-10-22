@@ -1,25 +1,23 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
-      "lat": 51.3008785341832, 
       "housenumber": "1", 
+      "lat": 51.3008785341832, 
+      "lon": 3.077792907436443, 
       "pcode": 8420, 
-      "street": "Rochehelling", 
-      "lon": 3.077792907436443
+      "street": "Rochehelling"
     }, 
     {
-      "lat": 51.30091610778732, 
       "housenumber": "3", 
+      "lat": 51.30091610778732, 
+      "lon": 3.0777349357924764, 
       "pcode": 8420, 
-      "street": "Rochehelling", 
-      "lon": 3.0777349357924764
+      "street": "Rochehelling"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8420, 
-      "street": "Rochehelling", 
-      "housenumber": "5"
+      "street": "Rochehelling"
     }
-  ], 
-  "name": "Rochehelling"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8020, 
   "addresses": [
     {
-      "lat": 51.10303627252738, 
       "housenumber": "2", 
+      "lat": 51.10303627252738, 
+      "lon": 3.279518756971847, 
       "pcode": 8020, 
-      "street": "Elzendreef", 
-      "lon": 3.279518756971847
+      "street": "Elzendreef"
     }, 
     {
-      "lat": 51.10272472923999, 
       "housenumber": "6", 
+      "lat": 51.10272472923999, 
+      "lon": 3.2815215930875072, 
       "pcode": 8020, 
-      "street": "Elzendreef", 
-      "lon": 3.2815215930875072
+      "street": "Elzendreef"
     }
-  ], 
-  "name": "Elzendreef"
+  ]
 }

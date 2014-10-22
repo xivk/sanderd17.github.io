@@ -1,20 +1,18 @@
 {
-  "pcode": 3630, 
   "addresses": [
     {
-      "lat": 50.99936748307043, 
       "housenumber": "11", 
+      "lat": 50.99936748307043, 
+      "lon": 5.749573762727054, 
       "pcode": 3630, 
-      "street": "Creuderstraat", 
-      "lon": 5.749573762727054
+      "street": "Creuderstraat"
     }, 
     {
-      "lat": 50.99936508594575, 
       "housenumber": "9", 
+      "lat": 50.99936508594575, 
+      "lon": 5.749372081931819, 
       "pcode": 3630, 
-      "street": "Creuderstraat", 
-      "lon": 5.749372081931819
+      "street": "Creuderstraat"
     }
-  ], 
-  "name": "Creuderstraat"
+  ]
 }

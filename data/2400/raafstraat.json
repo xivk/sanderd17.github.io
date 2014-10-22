@@ -1,20 +1,18 @@
 {
-  "pcode": 2400, 
   "addresses": [
     {
-      "lat": 51.1809075035167, 
       "housenumber": "15", 
+      "lat": 51.1809075035167, 
+      "lon": 5.047253390601675, 
       "pcode": 2400, 
-      "street": "Raafstraat", 
-      "lon": 5.047253390601675
+      "street": "Raafstraat"
     }, 
     {
-      "lat": 51.18101930814098, 
       "housenumber": "18", 
+      "lat": 51.18101930814098, 
+      "lon": 5.046286367394711, 
       "pcode": 2400, 
-      "street": "Raafstraat", 
-      "lon": 5.046286367394711
+      "street": "Raafstraat"
     }
-  ], 
-  "name": "Raafstraat"
+  ]
 }

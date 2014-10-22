@@ -1,32 +1,30 @@
 {
-  "pcode": 2270, 
   "addresses": [
     {
-      "lat": 51.12135292823334, 
       "housenumber": "1", 
+      "lat": 51.12135292823334, 
+      "lon": 4.757979218589318, 
       "pcode": 2270, 
-      "street": "Heirweg", 
-      "lon": 4.757979218589318
+      "street": "Heirweg"
     }, 
     {
+      "housenumber": "1a", 
       "pcode": 2270, 
-      "street": "Heirweg", 
-      "housenumber": "1a"
+      "street": "Heirweg"
     }, 
     {
-      "lat": 51.12219790130077, 
       "housenumber": "2", 
+      "lat": 51.12219790130077, 
+      "lon": 4.758543458696507, 
       "pcode": 2270, 
-      "street": "Heirweg", 
-      "lon": 4.758543458696507
+      "street": "Heirweg"
     }, 
     {
-      "lat": 51.12210976063913, 
       "housenumber": "4", 
+      "lat": 51.12210976063913, 
+      "lon": 4.759128476857767, 
       "pcode": 2270, 
-      "street": "Heirweg", 
-      "lon": 4.759128476857767
+      "street": "Heirweg"
     }
-  ], 
-  "name": "Heirweg"
+  ]
 }

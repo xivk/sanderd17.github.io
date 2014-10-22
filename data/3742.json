@@ -1,166 +1,166 @@
 {
   "streets": [
     {
-      "latmax": 50.85032607509382, 
+      "b": 50.85032607509382, 
+      "l": 5.529542222227921, 
       "name": "Biesenveldweg", 
-      "lonmin": 5.529542222227921, 
-      "sanName": "biesenveldweg", 
       "numOfAddr": 1, 
-      "lonmax": 5.529542222227921, 
-      "latmin": 50.85032607509382
+      "r": 5.529542222227921, 
+      "sanName": "biesenveldweg", 
+      "t": 50.85032607509382
     }, 
     {
-      "latmax": 50.85627086625418, 
+      "b": 50.85460336824914, 
+      "l": 5.523951819074568, 
       "name": "Bornestraat", 
-      "lonmin": 5.523951819074568, 
+      "numOfAddr": 8, 
+      "r": 5.532078681541814, 
       "sanName": "bornestraat", 
-      "numOfAddr": 8, 
-      "lonmax": 5.532078681541814, 
-      "latmin": 50.85460336824914
+      "t": 50.85627086625418
     }, 
     {
-      "latmax": 50.85342770993737, 
+      "b": 50.85303963838704, 
+      "l": 5.535757033960265, 
       "name": "Buitenbankstraat", 
-      "lonmin": 5.535757033960265, 
-      "sanName": "buitenbankstraat", 
       "numOfAddr": 2, 
-      "lonmax": 5.535869111824345, 
-      "latmin": 50.85303963838704
+      "r": 5.535869111824345, 
+      "sanName": "buitenbankstraat", 
+      "t": 50.85342770993737
     }, 
     {
-      "latmax": 50.85184479517923, 
+      "b": 50.85128306546551, 
+      "l": 5.529251577414767, 
       "name": "Eindstraat", 
-      "lonmin": 5.529251577414767, 
-      "sanName": "eindstraat", 
       "numOfAddr": 3, 
-      "lonmax": 5.530029551124439, 
-      "latmin": 50.85128306546551
+      "r": 5.530029551124439, 
+      "sanName": "eindstraat", 
+      "t": 50.85184479517923
     }, 
     {
-      "latmax": 50.85320713299658, 
+      "b": 50.85228980428388, 
+      "l": 5.530767030200333, 
       "name": "Linnerhof", 
-      "lonmin": 5.530767030200333, 
-      "sanName": "linnerhof", 
       "numOfAddr": 13, 
-      "lonmax": 5.533068298787915, 
-      "latmin": 50.85228980428388
+      "r": 5.533068298787915, 
+      "sanName": "linnerhof", 
+      "t": 50.85320713299658
     }, 
     {
-      "latmax": 50.85496882904549, 
+      "b": 50.84918662718419, 
+      "l": 5.529799332199634, 
       "name": "Linnerveldstraat", 
-      "lonmin": 5.529799332199634, 
-      "sanName": "linnerveldstraat", 
       "numOfAddr": 49, 
-      "lonmax": 5.533245437432812, 
-      "latmin": 50.84918662718419
+      "r": 5.533245437432812, 
+      "sanName": "linnerveldstraat", 
+      "t": 50.85496882904549
     }, 
     {
-      "latmax": 50.86412157542938, 
+      "b": 50.86356592162173, 
+      "l": 5.52957075502737, 
       "name": "Maastrichterstraat", 
-      "lonmin": 5.52957075502737, 
-      "sanName": "maastrichterstraat", 
       "numOfAddr": 10, 
-      "lonmax": 5.532476614095911, 
-      "latmin": 50.86356592162173
+      "r": 5.532476614095911, 
+      "sanName": "maastrichterstraat", 
+      "t": 50.86412157542938
     }, 
     {
-      "latmax": 50.85617478314903, 
+      "b": 50.84990588730101, 
+      "l": 5.532405225622062, 
       "name": "Martenslindestraat", 
-      "lonmin": 5.532405225622062, 
-      "sanName": "martenslindestraat", 
       "numOfAddr": 70, 
-      "lonmax": 5.536237620220282, 
-      "latmin": 50.84990588730101
+      "r": 5.536237620220282, 
+      "sanName": "martenslindestraat", 
+      "t": 50.85617478314903
     }, 
     {
-      "latmax": 50.85142522110745, 
+      "b": 50.85080729468251, 
+      "l": 5.533527279159036, 
       "name": "Pachtershof", 
-      "lonmin": 5.533527279159036, 
-      "sanName": "pachtershof", 
       "numOfAddr": 9, 
-      "lonmax": 5.534829620702145, 
-      "latmin": 50.85080729468251
+      "r": 5.534829620702145, 
+      "sanName": "pachtershof", 
+      "t": 50.85142522110745
     }, 
     {
-      "latmax": 50.85201818349214, 
+      "b": 50.85021915427747, 
+      "l": 5.533045756499174, 
       "name": "Pastoor Coenenstraat", 
-      "lonmin": 5.533045756499174, 
-      "sanName": "pastoorcoenenstraat", 
       "numOfAddr": 24, 
-      "lonmax": 5.534179528669256, 
-      "latmin": 50.85021915427747
+      "r": 5.534179528669256, 
+      "sanName": "pastoorcoenenstraat", 
+      "t": 50.85201818349214
     }, 
     {
-      "latmax": 50.85052623808346, 
+      "b": 50.84939706763027, 
+      "l": 5.533530825910951, 
       "name": "Poothofstraat", 
-      "lonmin": 5.533530825910951, 
-      "sanName": "poothofstraat", 
       "numOfAddr": 15, 
-      "lonmax": 5.5357047165163715, 
-      "latmin": 50.84939706763027
+      "r": 5.5357047165163715, 
+      "sanName": "poothofstraat", 
+      "t": 50.85052623808346
     }, 
     {
-      "latmax": 50.85454565626958, 
+      "b": 50.849982178967764, 
+      "l": 5.522193251756756, 
       "name": "Reekstraat", 
-      "lonmin": 5.522193251756756, 
-      "sanName": "reekstraat", 
       "numOfAddr": 20, 
-      "lonmax": 5.523736150727862, 
-      "latmin": 50.849982178967764
+      "r": 5.523736150727862, 
+      "sanName": "reekstraat", 
+      "t": 50.85454565626958
     }, 
     {
-      "latmax": 50.85958494794404, 
+      "b": 50.84860838420501, 
+      "l": 5.529807806916641, 
       "name": "Riemsterweg", 
-      "lonmin": 5.529807806916641, 
-      "sanName": "riemsterweg", 
       "numOfAddr": 90, 
-      "lonmax": 5.5404372856641775, 
-      "latmin": 50.84860838420501
+      "r": 5.5404372856641775, 
+      "sanName": "riemsterweg", 
+      "t": 50.85958494794404
     }, 
     {
-      "latmax": 50.852678892264514, 
+      "b": 50.851575483750274, 
+      "l": 5.531634038371746, 
       "name": "St.Gerlachusstraat", 
-      "lonmin": 5.531634038371746, 
-      "sanName": "stgerlachusstraat", 
       "numOfAddr": 17, 
-      "lonmax": 5.534625120119646, 
-      "latmin": 50.851575483750274
+      "r": 5.534625120119646, 
+      "sanName": "stgerlachusstraat", 
+      "t": 50.852678892264514
     }, 
     {
-      "latmax": 50.85626833658531, 
+      "b": 50.85380741698402, 
+      "l": 5.536763176315806, 
       "name": "Stintelaarstraat", 
-      "lonmin": 5.536763176315806, 
+      "numOfAddr": 8, 
+      "r": 5.538530776362217, 
       "sanName": "stintelaarstraat", 
-      "numOfAddr": 8, 
-      "lonmax": 5.538530776362217, 
-      "latmin": 50.85380741698402
+      "t": 50.85626833658531
     }, 
     {
-      "latmax": 50.85479077336014, 
+      "b": 50.85450445401766, 
+      "l": 5.534021993630461, 
       "name": "St.Maartensstraat", 
-      "lonmin": 5.534021993630461, 
-      "sanName": "stmaartensstraat", 
       "numOfAddr": 5, 
-      "lonmax": 5.534616128718406, 
-      "latmin": 50.85450445401766
+      "r": 5.534616128718406, 
+      "sanName": "stmaartensstraat", 
+      "t": 50.85479077336014
     }, 
     {
-      "latmax": 50.85379833787334, 
+      "b": 50.85150615028977, 
+      "l": 5.537344910123091, 
       "name": "Vliegenbergstraat", 
-      "lonmin": 5.537344910123091, 
-      "sanName": "vliegenbergstraat", 
       "numOfAddr": 25, 
-      "lonmax": 5.539624367263451, 
-      "latmin": 50.85150615028977
+      "r": 5.539624367263451, 
+      "sanName": "vliegenbergstraat", 
+      "t": 50.85379833787334
     }, 
     {
-      "latmax": 50.85755090528842, 
+      "b": 50.856721992528556, 
+      "l": 5.533432328780694, 
       "name": "Wilderparkstraat", 
-      "lonmin": 5.533432328780694, 
-      "sanName": "wilderparkstraat", 
       "numOfAddr": 8, 
-      "lonmax": 5.53474864147416, 
-      "latmin": 50.856721992528556
+      "r": 5.53474864147416, 
+      "sanName": "wilderparkstraat", 
+      "t": 50.85755090528842
     }
   ]
 }

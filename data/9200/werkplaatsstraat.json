@@ -1,58 +1,56 @@
 {
-  "pcode": 9200, 
   "addresses": [
     {
-      "lat": 51.02286685008081, 
       "housenumber": "10", 
+      "lat": 51.02286685008081, 
+      "lon": 4.110193926000761, 
       "pcode": 9200, 
-      "street": "Werkplaatsstraat", 
-      "lon": 4.110193926000761
+      "street": "Werkplaatsstraat"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 9200, 
-      "street": "Werkplaatsstraat", 
-      "housenumber": "11"
+      "street": "Werkplaatsstraat"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 9200, 
-      "street": "Werkplaatsstraat", 
-      "housenumber": "12"
+      "street": "Werkplaatsstraat"
     }, 
     {
-      "lat": 51.02274497055072, 
       "housenumber": "16", 
+      "lat": 51.02274497055072, 
+      "lon": 4.110774828565492, 
       "pcode": 9200, 
-      "street": "Werkplaatsstraat", 
-      "lon": 4.110774828565492
+      "street": "Werkplaatsstraat"
     }, 
     {
-      "lat": 51.02245463442302, 
       "housenumber": "50", 
+      "lat": 51.02245463442302, 
+      "lon": 4.112016979545099, 
       "pcode": 9200, 
-      "street": "Werkplaatsstraat", 
-      "lon": 4.112016979545099
+      "street": "Werkplaatsstraat"
     }, 
     {
-      "lat": 51.02253295087993, 
       "housenumber": "52", 
+      "lat": 51.02253295087993, 
+      "lon": 4.112357761772974, 
       "pcode": 9200, 
-      "street": "Werkplaatsstraat", 
-      "lon": 4.112357761772974
+      "street": "Werkplaatsstraat"
     }, 
     {
-      "lat": 51.02255849231158, 
       "housenumber": "54", 
+      "lat": 51.02255849231158, 
+      "lon": 4.112653366675963, 
       "pcode": 9200, 
-      "street": "Werkplaatsstraat", 
-      "lon": 4.112653366675963
+      "street": "Werkplaatsstraat"
     }, 
     {
-      "lat": 51.02280539782588, 
       "housenumber": "8", 
+      "lat": 51.02280539782588, 
+      "lon": 4.10992189304983, 
       "pcode": 9200, 
-      "street": "Werkplaatsstraat", 
-      "lon": 4.10992189304983
+      "street": "Werkplaatsstraat"
     }
-  ], 
-  "name": "Werkplaatsstraat"
+  ]
 }

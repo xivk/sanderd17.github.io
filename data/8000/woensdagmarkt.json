@@ -1,58 +1,56 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.212577934823706, 
       "housenumber": "10", 
+      "lat": 51.212577934823706, 
+      "lon": 3.2263818544514624, 
       "pcode": 8000, 
-      "street": "Woensdagmarkt", 
-      "lon": 3.2263818544514624
+      "street": "Woensdagmarkt"
     }, 
     {
-      "lat": 51.21226034928925, 
       "housenumber": "2", 
+      "lat": 51.21226034928925, 
+      "lon": 3.22595510748143, 
       "pcode": 8000, 
-      "street": "Woensdagmarkt", 
-      "lon": 3.22595510748143
+      "street": "Woensdagmarkt"
     }, 
     {
-      "lat": 51.21234945829147, 
       "housenumber": "3", 
+      "lat": 51.21234945829147, 
+      "lon": 3.225836565683637, 
       "pcode": 8000, 
-      "street": "Woensdagmarkt", 
-      "lon": 3.225836565683637
+      "street": "Woensdagmarkt"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8000, 
-      "street": "Woensdagmarkt", 
-      "housenumber": "4"
+      "street": "Woensdagmarkt"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 8000, 
-      "street": "Woensdagmarkt", 
-      "housenumber": "6"
+      "street": "Woensdagmarkt"
     }, 
     {
-      "lat": 51.21276899239424, 
       "housenumber": "7", 
+      "lat": 51.21276899239424, 
+      "lon": 3.2263199270127254, 
       "pcode": 8000, 
-      "street": "Woensdagmarkt", 
-      "lon": 3.2263199270127254
+      "street": "Woensdagmarkt"
     }, 
     {
-      "lat": 51.21267332963814, 
       "housenumber": "8", 
+      "lat": 51.21267332963814, 
+      "lon": 3.226318404817351, 
       "pcode": 8000, 
-      "street": "Woensdagmarkt", 
-      "lon": 3.226318404817351
+      "street": "Woensdagmarkt"
     }, 
     {
-      "lat": 51.212561224504476, 
       "housenumber": "9", 
+      "lat": 51.212561224504476, 
+      "lon": 3.226522525212145, 
       "pcode": 8000, 
-      "street": "Woensdagmarkt", 
-      "lon": 3.226522525212145
+      "street": "Woensdagmarkt"
     }
-  ], 
-  "name": "Woensdagmarkt"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 2590, 
   "addresses": [
     {
+      "housenumber": "4", 
       "pcode": 2590, 
-      "street": "Dreef", 
-      "housenumber": "4"
+      "street": "Dreef"
     }, 
     {
-      "lat": 51.12609050410019, 
       "housenumber": "5", 
+      "lat": 51.12609050410019, 
+      "lon": 4.660158274038431, 
       "pcode": 2590, 
-      "street": "Dreef", 
-      "lon": 4.660158274038431
+      "street": "Dreef"
     }
-  ], 
-  "name": "Dreef"
+  ]
 }

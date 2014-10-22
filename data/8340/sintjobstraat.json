@@ -1,27 +1,25 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.26906211917286, 
       "housenumber": "1", 
+      "lat": 51.26906211917286, 
+      "lon": 3.34592699731367, 
       "pcode": 8340, 
-      "street": "Sint-Jobstraat", 
-      "lon": 3.34592699731367
+      "street": "Sint-Jobstraat"
     }, 
     {
-      "lat": 51.26883119016459, 
       "housenumber": "3", 
+      "lat": 51.26883119016459, 
+      "lon": 3.345947827415562, 
       "pcode": 8340, 
-      "street": "Sint-Jobstraat", 
-      "lon": 3.345947827415562
+      "street": "Sint-Jobstraat"
     }, 
     {
-      "lat": 51.26745655962214, 
       "housenumber": "4", 
+      "lat": 51.26745655962214, 
+      "lon": 3.340702359141393, 
       "pcode": 8340, 
-      "street": "Sint-Jobstraat", 
-      "lon": 3.340702359141393
+      "street": "Sint-Jobstraat"
     }
-  ], 
-  "name": "Sint-Jobstraat"
+  ]
 }

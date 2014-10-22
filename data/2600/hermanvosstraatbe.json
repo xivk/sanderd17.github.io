@@ -1,32 +1,30 @@
 {
-  "pcode": 2600, 
   "addresses": [
     {
-      "lat": 51.184175330931446, 
       "housenumber": "1", 
+      "lat": 51.184175330931446, 
+      "lon": 4.436965586486559, 
       "pcode": 2600, 
-      "street": "Herman Vosstraat_BE", 
-      "lon": 4.436965586486559
+      "street": "Herman Vosstraat_BE"
     }, 
     {
-      "lat": 51.184228488311646, 
       "housenumber": "3", 
+      "lat": 51.184228488311646, 
+      "lon": 4.43721294721441, 
       "pcode": 2600, 
-      "street": "Herman Vosstraat_BE", 
-      "lon": 4.43721294721441
+      "street": "Herman Vosstraat_BE"
     }, 
     {
-      "lat": 51.18416120278003, 
       "housenumber": "5", 
+      "lat": 51.18416120278003, 
+      "lon": 4.43714720124442, 
       "pcode": 2600, 
-      "street": "Herman Vosstraat_BE", 
-      "lon": 4.43714720124442
+      "street": "Herman Vosstraat_BE"
     }, 
     {
+      "housenumber": "5A", 
       "pcode": 2600, 
-      "street": "Herman Vosstraat_BE", 
-      "housenumber": "5A"
+      "street": "Herman Vosstraat_BE"
     }
-  ], 
-  "name": "Herman Vosstraat_BE"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 9250, 
   "addresses": [
     {
-      "lat": 51.10694333583625, 
       "housenumber": "10", 
+      "lat": 51.10694333583625, 
+      "lon": 4.086526445921123, 
       "pcode": 9250, 
-      "street": "Marollenstraatje", 
-      "lon": 4.086526445921123
+      "street": "Marollenstraatje"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 9250, 
-      "street": "Marollenstraatje", 
-      "housenumber": "8"
+      "street": "Marollenstraatje"
     }
-  ], 
-  "name": "Marollenstraatje"
+  ]
 }

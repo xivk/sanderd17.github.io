@@ -1,20 +1,18 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05829305143034, 
       "housenumber": "2", 
+      "lat": 51.05829305143034, 
+      "lon": 3.7256944822524747, 
       "pcode": 9000, 
-      "street": "Raffinaderijstraatje", 
-      "lon": 3.7256944822524747
+      "street": "Raffinaderijstraatje"
     }, 
     {
-      "lat": 51.058385305136824, 
       "housenumber": "4", 
+      "lat": 51.058385305136824, 
+      "lon": 3.725566978479831, 
       "pcode": 9000, 
-      "street": "Raffinaderijstraatje", 
-      "lon": 3.725566978479831
+      "street": "Raffinaderijstraatje"
     }
-  ], 
-  "name": "Raffinaderijstraatje"
+  ]
 }

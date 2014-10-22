@@ -1,47 +1,45 @@
 {
-  "pcode": 2200, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2200, 
-      "street": "De Roest", 
-      "housenumber": "1"
+      "street": "De Roest"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2200, 
-      "street": "De Roest", 
-      "housenumber": "2"
+      "street": "De Roest"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2200, 
-      "street": "De Roest", 
-      "housenumber": "3"
+      "street": "De Roest"
     }, 
     {
-      "lat": 51.1849980709207, 
       "housenumber": "4", 
+      "lat": 51.1849980709207, 
+      "lon": 4.827058334550616, 
       "pcode": 2200, 
-      "street": "De Roest", 
-      "lon": 4.827058334550616
+      "street": "De Roest"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2200, 
-      "street": "De Roest", 
-      "housenumber": "5"
+      "street": "De Roest"
     }, 
     {
-      "lat": 51.18575425024418, 
       "housenumber": "6", 
+      "lat": 51.18575425024418, 
+      "lon": 4.8247952077787986, 
       "pcode": 2200, 
-      "street": "De Roest", 
-      "lon": 4.8247952077787986
+      "street": "De Roest"
     }, 
     {
-      "lat": 51.18571448953052, 
       "housenumber": "8", 
+      "lat": 51.18571448953052, 
+      "lon": 4.823895461267514, 
       "pcode": 2200, 
-      "street": "De Roest", 
-      "lon": 4.823895461267514
+      "street": "De Roest"
     }
-  ], 
-  "name": "De Roest"
+  ]
 }

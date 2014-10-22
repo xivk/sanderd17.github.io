@@ -1,20 +1,18 @@
 {
-  "pcode": 9230, 
   "addresses": [
     {
-      "lat": 50.968499889993396, 
       "housenumber": "2", 
+      "lat": 50.968499889993396, 
+      "lon": 3.858105145476156, 
       "pcode": 9230, 
-      "street": "Hofkouter", 
-      "lon": 3.858105145476156
+      "street": "Hofkouter"
     }, 
     {
-      "lat": 50.96859581820958, 
       "housenumber": "4", 
+      "lat": 50.96859581820958, 
+      "lon": 3.8575690910813076, 
       "pcode": 9230, 
-      "street": "Hofkouter", 
-      "lon": 3.8575690910813076
+      "street": "Hofkouter"
     }
-  ], 
-  "name": "Hofkouter"
+  ]
 }

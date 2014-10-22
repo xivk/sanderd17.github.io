@@ -1,27 +1,25 @@
 {
-  "pcode": 9080, 
   "addresses": [
     {
-      "lat": 51.081418751043124, 
       "housenumber": "1", 
+      "lat": 51.081418751043124, 
+      "lon": 3.873453612166918, 
       "pcode": 9080, 
-      "street": "Ledeakkerstraat", 
-      "lon": 3.873453612166918
+      "street": "Ledeakkerstraat"
     }, 
     {
-      "lat": 51.08213394622648, 
       "housenumber": "3", 
+      "lat": 51.08213394622648, 
+      "lon": 3.8726678438968447, 
       "pcode": 9080, 
-      "street": "Ledeakkerstraat", 
-      "lon": 3.8726678438968447
+      "street": "Ledeakkerstraat"
     }, 
     {
-      "lat": 51.08521913768745, 
       "housenumber": "5", 
+      "lat": 51.08521913768745, 
+      "lon": 3.872618321066894, 
       "pcode": 9080, 
-      "street": "Ledeakkerstraat", 
-      "lon": 3.872618321066894
+      "street": "Ledeakkerstraat"
     }
-  ], 
-  "name": "Ledeakkerstraat"
+  ]
 }

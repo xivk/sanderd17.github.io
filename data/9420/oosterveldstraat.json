@@ -1,27 +1,25 @@
 {
-  "pcode": 9420, 
   "addresses": [
     {
-      "lat": 50.908382748730276, 
       "housenumber": "1", 
+      "lat": 50.908382748730276, 
+      "lon": 3.973096728471684, 
       "pcode": 9420, 
-      "street": "Oosterveldstraat", 
-      "lon": 3.973096728471684
+      "street": "Oosterveldstraat"
     }, 
     {
-      "lat": 50.90782336198285, 
       "housenumber": "15", 
+      "lat": 50.90782336198285, 
+      "lon": 3.973238923008249, 
       "pcode": 9420, 
-      "street": "Oosterveldstraat", 
-      "lon": 3.973238923008249
+      "street": "Oosterveldstraat"
     }, 
     {
-      "lat": 50.90776989273445, 
       "housenumber": "17", 
+      "lat": 50.90776989273445, 
+      "lon": 3.973297808705365, 
       "pcode": 9420, 
-      "street": "Oosterveldstraat", 
-      "lon": 3.973297808705365
+      "street": "Oosterveldstraat"
     }
-  ], 
-  "name": "Oosterveldstraat"
+  ]
 }

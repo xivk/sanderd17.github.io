@@ -1,18 +1,16 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.21544001016796, 
       "housenumber": "17", 
+      "lat": 51.21544001016796, 
+      "lon": 4.415349589815795, 
       "pcode": 2000, 
-      "street": "Maria-Theresialei_EK", 
-      "lon": 4.415349589815795
+      "street": "Maria-Theresialei_EK"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2000, 
-      "street": "Maria-Theresialei_EK", 
-      "housenumber": "5"
+      "street": "Maria-Theresialei_EK"
     }
-  ], 
-  "name": "Maria-Theresialei_EK"
+  ]
 }

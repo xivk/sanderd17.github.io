@@ -1,46 +1,44 @@
 {
-  "pcode": 8530, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 8530, 
-      "street": "Klaroenstraat", 
-      "housenumber": "10"
+      "street": "Klaroenstraat"
     }, 
     {
-      "lat": 50.85331376021153, 
       "housenumber": "12", 
+      "lat": 50.85331376021153, 
+      "lon": 3.3318598947028746, 
       "pcode": 8530, 
-      "street": "Klaroenstraat", 
-      "lon": 3.3318598947028746
+      "street": "Klaroenstraat"
     }, 
     {
-      "lat": 50.85355873880409, 
       "housenumber": "2", 
+      "lat": 50.85355873880409, 
+      "lon": 3.331299306335623, 
       "pcode": 8530, 
-      "street": "Klaroenstraat", 
-      "lon": 3.331299306335623
+      "street": "Klaroenstraat"
     }, 
     {
-      "lat": 50.853503074877864, 
       "housenumber": "4", 
+      "lat": 50.853503074877864, 
+      "lon": 3.3314198375790767, 
       "pcode": 8530, 
-      "street": "Klaroenstraat", 
-      "lon": 3.3314198375790767
+      "street": "Klaroenstraat"
     }, 
     {
-      "lat": 50.853455438632224, 
       "housenumber": "6", 
+      "lat": 50.853455438632224, 
+      "lon": 3.331523006147081, 
       "pcode": 8530, 
-      "street": "Klaroenstraat", 
-      "lon": 3.331523006147081
+      "street": "Klaroenstraat"
     }, 
     {
-      "lat": 50.85340771366381, 
       "housenumber": "8", 
+      "lat": 50.85340771366381, 
+      "lon": 3.3316263184879804, 
       "pcode": 8530, 
-      "street": "Klaroenstraat", 
-      "lon": 3.3316263184879804
+      "street": "Klaroenstraat"
     }
-  ], 
-  "name": "Klaroenstraat"
+  ]
 }

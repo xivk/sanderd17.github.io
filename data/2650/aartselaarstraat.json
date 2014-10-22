@@ -1,20 +1,18 @@
 {
-  "pcode": 2650, 
   "addresses": [
     {
-      "lat": 51.14721591566141, 
       "housenumber": "1", 
+      "lat": 51.14721591566141, 
+      "lon": 4.415630772077112, 
       "pcode": 2650, 
-      "street": "Aartselaarstraat", 
-      "lon": 4.415630772077112
+      "street": "Aartselaarstraat"
     }, 
     {
-      "lat": 51.14946262850723, 
       "housenumber": "2", 
+      "lat": 51.14946262850723, 
+      "lon": 4.417375466654131, 
       "pcode": 2650, 
-      "street": "Aartselaarstraat", 
-      "lon": 4.417375466654131
+      "street": "Aartselaarstraat"
     }
-  ], 
-  "name": "Aartselaarstraat"
+  ]
 }

@@ -1,56 +1,54 @@
 {
-  "pcode": 9185, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9185, 
-      "street": "Parklaan", 
-      "housenumber": "1"
+      "street": "Parklaan"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 9185, 
-      "street": "Parklaan", 
-      "housenumber": "1A"
+      "street": "Parklaan"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 9185, 
-      "street": "Parklaan", 
-      "housenumber": "1B"
+      "street": "Parklaan"
     }, 
     {
-      "lat": 51.172994976451825, 
       "housenumber": "2", 
+      "lat": 51.172994976451825, 
+      "lon": 3.861716726182532, 
       "pcode": 9185, 
-      "street": "Parklaan", 
-      "lon": 3.861716726182532
+      "street": "Parklaan"
     }, 
     {
-      "lat": 51.173475418693954, 
       "housenumber": "3", 
+      "lat": 51.173475418693954, 
+      "lon": 3.861107378565747, 
       "pcode": 9185, 
-      "street": "Parklaan", 
-      "lon": 3.861107378565747
+      "street": "Parklaan"
     }, 
     {
-      "lat": 51.17304005986257, 
       "housenumber": "4", 
+      "lat": 51.17304005986257, 
+      "lon": 3.8613929381509373, 
       "pcode": 9185, 
-      "street": "Parklaan", 
-      "lon": 3.8613929381509373
+      "street": "Parklaan"
     }, 
     {
-      "lat": 51.1731152853258, 
       "housenumber": "6", 
+      "lat": 51.1731152853258, 
+      "lon": 3.86116004945394, 
       "pcode": 9185, 
-      "street": "Parklaan", 
-      "lon": 3.86116004945394
+      "street": "Parklaan"
     }, 
     {
-      "lat": 51.17314714526847, 
       "housenumber": "8", 
+      "lat": 51.17314714526847, 
+      "lon": 3.8608761548701676, 
       "pcode": 9185, 
-      "street": "Parklaan", 
-      "lon": 3.8608761548701676
+      "street": "Parklaan"
     }
-  ], 
-  "name": "Parklaan"
+  ]
 }

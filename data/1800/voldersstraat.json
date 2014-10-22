@@ -1,25 +1,23 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
-      "lat": 50.92867294068312, 
       "housenumber": "1", 
+      "lat": 50.92867294068312, 
+      "lon": 4.437157223360433, 
       "pcode": 1800, 
-      "street": "Voldersstraat", 
-      "lon": 4.437157223360433
+      "street": "Voldersstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 1800, 
-      "street": "Voldersstraat", 
-      "housenumber": "3"
+      "street": "Voldersstraat"
     }, 
     {
-      "lat": 50.928900863501525, 
       "housenumber": "5", 
+      "lat": 50.928900863501525, 
+      "lon": 4.437387706757255, 
       "pcode": 1800, 
-      "street": "Voldersstraat", 
-      "lon": 4.437387706757255
+      "street": "Voldersstraat"
     }
-  ], 
-  "name": "Voldersstraat"
+  ]
 }

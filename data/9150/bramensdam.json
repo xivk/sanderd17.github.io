@@ -1,18 +1,16 @@
 {
-  "pcode": 9150, 
   "addresses": [
     {
-      "lat": 51.151599506649944, 
       "housenumber": "1", 
+      "lat": 51.151599506649944, 
+      "lon": 4.244745698272846, 
       "pcode": 9150, 
-      "street": "Bramensdam", 
-      "lon": 4.244745698272846
+      "street": "Bramensdam"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9150, 
-      "street": "Bramensdam", 
-      "housenumber": "2"
+      "street": "Bramensdam"
     }
-  ], 
-  "name": "Bramensdam"
+  ]
 }

@@ -1,25 +1,23 @@
 {
-  "pcode": 9112, 
   "addresses": [
     {
-      "lat": 51.17202795962445, 
       "housenumber": "2", 
+      "lat": 51.17202795962445, 
+      "lon": 4.008592377746794, 
       "pcode": 9112, 
-      "street": "Liniedreef", 
-      "lon": 4.008592377746794
+      "street": "Liniedreef"
     }, 
     {
-      "lat": 51.173547538871155, 
       "housenumber": "4", 
+      "lat": 51.173547538871155, 
+      "lon": 4.0147146275493375, 
       "pcode": 9112, 
-      "street": "Liniedreef", 
-      "lon": 4.0147146275493375
+      "street": "Liniedreef"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9112, 
-      "street": "Liniedreef", 
-      "housenumber": "6"
+      "street": "Liniedreef"
     }
-  ], 
-  "name": "Liniedreef"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.021503065909975, 
       "housenumber": "1", 
+      "lat": 51.021503065909975, 
+      "lon": 3.7245345430544394, 
       "pcode": 9000, 
-      "street": "Silexstraat", 
-      "lon": 3.7245345430544394
+      "street": "Silexstraat"
     }, 
     {
-      "lat": 51.02140365811298, 
       "housenumber": "3", 
+      "lat": 51.02140365811298, 
+      "lon": 3.724570115914002, 
       "pcode": 9000, 
-      "street": "Silexstraat", 
-      "lon": 3.724570115914002
+      "street": "Silexstraat"
     }, 
     {
-      "lat": 51.0213271878394, 
       "housenumber": "5", 
+      "lat": 51.0213271878394, 
+      "lon": 3.7246083665464065, 
       "pcode": 9000, 
-      "street": "Silexstraat", 
-      "lon": 3.7246083665464065
+      "street": "Silexstraat"
     }
-  ], 
-  "name": "Silexstraat"
+  ]
 }

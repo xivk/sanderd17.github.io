@@ -1,20 +1,18 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.25278406362231, 
       "housenumber": "5", 
+      "lat": 51.25278406362231, 
+      "lon": 3.2016477085348827, 
       "pcode": 8000, 
-      "street": "Krinkelstraat", 
-      "lon": 3.2016477085348827
+      "street": "Krinkelstraat"
     }, 
     {
-      "lat": 51.25425549776338, 
       "housenumber": "6", 
+      "lat": 51.25425549776338, 
+      "lon": 3.201033131320564, 
       "pcode": 8000, 
-      "street": "Krinkelstraat", 
-      "lon": 3.201033131320564
+      "street": "Krinkelstraat"
     }
-  ], 
-  "name": "Krinkelstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8900, 
   "addresses": [
     {
-      "lat": 50.852365788652726, 
       "housenumber": "3", 
+      "lat": 50.852365788652726, 
+      "lon": 2.8839081430872815, 
       "pcode": 8900, 
-      "street": "Kloosterpoort", 
-      "lon": 2.8839081430872815
+      "street": "Kloosterpoort"
     }, 
     {
-      "lat": 50.852422284166174, 
       "housenumber": "5", 
+      "lat": 50.852422284166174, 
+      "lon": 2.8840881688957065, 
       "pcode": 8900, 
-      "street": "Kloosterpoort", 
-      "lon": 2.8840881688957065
+      "street": "Kloosterpoort"
     }
-  ], 
-  "name": "Kloosterpoort"
+  ]
 }

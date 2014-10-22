@@ -1,18 +1,16 @@
 {
-  "pcode": 3210, 
   "addresses": [
     {
-      "lat": 50.883995372237855, 
       "housenumber": "1", 
+      "lat": 50.883995372237855, 
+      "lon": 4.827218693957755, 
       "pcode": 3210, 
-      "street": "Waasbergweg", 
-      "lon": 4.827218693957755
+      "street": "Waasbergweg"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 3210, 
-      "street": "Waasbergweg", 
-      "housenumber": "12"
+      "street": "Waasbergweg"
     }
-  ], 
-  "name": "Waasbergweg"
+  ]
 }

@@ -1,34 +1,32 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.22386663610399, 
       "housenumber": "1", 
+      "lat": 51.22386663610399, 
+      "lon": 4.4032075342633625, 
       "pcode": 2000, 
-      "street": "Koepoortbrug", 
-      "lon": 4.4032075342633625
+      "street": "Koepoortbrug"
     }, 
     {
-      "lat": 51.22384522008821, 
       "housenumber": "2", 
+      "lat": 51.22384522008821, 
+      "lon": 4.403287104990212, 
       "pcode": 2000, 
-      "street": "Koepoortbrug", 
-      "lon": 4.403287104990212
+      "street": "Koepoortbrug"
     }, 
     {
-      "lat": 51.22367503409356, 
       "housenumber": "3", 
+      "lat": 51.22367503409356, 
+      "lon": 4.403407787688781, 
       "pcode": 2000, 
-      "street": "Koepoortbrug", 
-      "lon": 4.403407787688781
+      "street": "Koepoortbrug"
     }, 
     {
-      "lat": 51.22361172816503, 
       "housenumber": "4", 
+      "lat": 51.22361172816503, 
+      "lon": 4.403500495151154, 
       "pcode": 2000, 
-      "street": "Koepoortbrug", 
-      "lon": 4.403500495151154
+      "street": "Koepoortbrug"
     }
-  ], 
-  "name": "Koepoortbrug"
+  ]
 }

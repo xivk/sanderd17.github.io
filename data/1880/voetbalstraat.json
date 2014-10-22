@@ -1,27 +1,25 @@
 {
-  "pcode": 1880, 
   "addresses": [
     {
-      "lat": 51.00552955509906, 
       "housenumber": "1", 
+      "lat": 51.00552955509906, 
+      "lon": 4.378136566784268, 
       "pcode": 1880, 
-      "street": "Voetbalstraat", 
-      "lon": 4.378136566784268
+      "street": "Voetbalstraat"
     }, 
     {
-      "lat": 51.00520170875569, 
       "housenumber": "2", 
+      "lat": 51.00520170875569, 
+      "lon": 4.378304900252793, 
       "pcode": 1880, 
-      "street": "Voetbalstraat", 
-      "lon": 4.378304900252793
+      "street": "Voetbalstraat"
     }, 
     {
-      "lat": 51.005536270789726, 
       "housenumber": "3", 
+      "lat": 51.005536270789726, 
+      "lon": 4.378437189994688, 
       "pcode": 1880, 
-      "street": "Voetbalstraat", 
-      "lon": 4.378437189994688
+      "street": "Voetbalstraat"
     }
-  ], 
-  "name": "Voetbalstraat"
+  ]
 }

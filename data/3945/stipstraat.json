@@ -1,20 +1,18 @@
 {
-  "pcode": 3945, 
   "addresses": [
     {
-      "lat": 51.101062873238185, 
       "housenumber": "1", 
+      "lat": 51.101062873238185, 
+      "lon": 5.150324479419738, 
       "pcode": 3945, 
-      "street": "Stipstraat", 
-      "lon": 5.150324479419738
+      "street": "Stipstraat"
     }, 
     {
-      "lat": 51.100832039961844, 
       "housenumber": "2", 
+      "lat": 51.100832039961844, 
+      "lon": 5.148966414097869, 
       "pcode": 3945, 
-      "street": "Stipstraat", 
-      "lon": 5.148966414097869
+      "street": "Stipstraat"
     }
-  ], 
-  "name": "Stipstraat"
+  ]
 }

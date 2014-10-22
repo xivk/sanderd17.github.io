@@ -1,20 +1,18 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.944007422776004, 
       "housenumber": "1", 
+      "lat": 50.944007422776004, 
+      "lon": 5.494679104888196, 
       "pcode": 3600, 
-      "street": "Kolenhavenstraat", 
-      "lon": 5.494679104888196
+      "street": "Kolenhavenstraat"
     }, 
     {
-      "lat": 50.94368560276223, 
       "housenumber": "6", 
+      "lat": 50.94368560276223, 
+      "lon": 5.493333866945003, 
       "pcode": 3600, 
-      "street": "Kolenhavenstraat", 
-      "lon": 5.493333866945003
+      "street": "Kolenhavenstraat"
     }
-  ], 
-  "name": "Kolenhavenstraat"
+  ]
 }

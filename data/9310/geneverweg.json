@@ -1,27 +1,25 @@
 {
-  "pcode": 9310, 
   "addresses": [
     {
-      "lat": 50.93908498677076, 
       "housenumber": "4", 
+      "lat": 50.93908498677076, 
+      "lon": 4.097464091831171, 
       "pcode": 9310, 
-      "street": "Geneverweg", 
-      "lon": 4.097464091831171
+      "street": "Geneverweg"
     }, 
     {
-      "lat": 50.93815886326189, 
       "housenumber": "6", 
+      "lat": 50.93815886326189, 
+      "lon": 4.097406549700075, 
       "pcode": 9310, 
-      "street": "Geneverweg", 
-      "lon": 4.097406549700075
+      "street": "Geneverweg"
     }, 
     {
-      "lat": 50.93798427838074, 
       "housenumber": "8", 
+      "lat": 50.93798427838074, 
+      "lon": 4.097206244019544, 
       "pcode": 9310, 
-      "street": "Geneverweg", 
-      "lon": 4.097206244019544
+      "street": "Geneverweg"
     }
-  ], 
-  "name": "Geneverweg"
+  ]
 }

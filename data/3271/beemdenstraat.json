@@ -1,20 +1,18 @@
 {
-  "pcode": 3271, 
   "addresses": [
     {
-      "lat": 51.00626402607639, 
       "housenumber": "1", 
+      "lat": 51.00626402607639, 
+      "lon": 4.985691469978393, 
       "pcode": 3271, 
-      "street": "Beemdenstraat", 
-      "lon": 4.985691469978393
+      "street": "Beemdenstraat"
     }, 
     {
-      "lat": 51.006390564418, 
       "housenumber": "4", 
+      "lat": 51.006390564418, 
+      "lon": 4.9853892236079576, 
       "pcode": 3271, 
-      "street": "Beemdenstraat", 
-      "lon": 4.9853892236079576
+      "street": "Beemdenstraat"
     }
-  ], 
-  "name": "Beemdenstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9880, 
   "addresses": [
     {
-      "lat": 51.0940175545477, 
       "housenumber": "142B", 
+      "lat": 51.0940175545477, 
+      "lon": 3.479983938895294, 
       "pcode": 9880, 
-      "street": "Bellemdorpweg", 
-      "lon": 3.479983938895294
+      "street": "Bellemdorpweg"
     }, 
     {
-      "lat": 51.09388039874989, 
       "housenumber": "95", 
+      "lat": 51.09388039874989, 
+      "lon": 3.480154137466756, 
       "pcode": 9880, 
-      "street": "Bellemdorpweg", 
-      "lon": 3.480154137466756
+      "street": "Bellemdorpweg"
     }
-  ], 
-  "name": "Bellemdorpweg"
+  ]
 }

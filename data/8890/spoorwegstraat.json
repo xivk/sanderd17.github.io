@@ -1,20 +1,18 @@
 {
-  "pcode": 8890, 
   "addresses": [
     {
-      "lat": 50.91761483724718, 
       "housenumber": "1", 
+      "lat": 50.91761483724718, 
+      "lon": 3.0786109346654973, 
       "pcode": 8890, 
-      "street": "Spoorwegstraat", 
-      "lon": 3.0786109346654973
+      "street": "Spoorwegstraat"
     }, 
     {
-      "lat": 50.91831472990958, 
       "housenumber": "3", 
+      "lat": 50.91831472990958, 
+      "lon": 3.07901754574619, 
       "pcode": 8890, 
-      "street": "Spoorwegstraat", 
-      "lon": 3.07901754574619
+      "street": "Spoorwegstraat"
     }
-  ], 
-  "name": "Spoorwegstraat"
+  ]
 }

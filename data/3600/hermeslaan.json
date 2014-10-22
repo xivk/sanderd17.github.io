@@ -1,42 +1,40 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
+      "housenumber": "20", 
       "pcode": 3600, 
-      "street": "Hermeslaan", 
-      "housenumber": "20"
+      "street": "Hermeslaan"
     }, 
     {
+      "housenumber": "27", 
       "pcode": 3600, 
-      "street": "Hermeslaan", 
-      "housenumber": "27"
+      "street": "Hermeslaan"
     }, 
     {
-      "lat": 50.988838358954744, 
       "housenumber": "28", 
+      "lat": 50.988838358954744, 
+      "lon": 5.469753066458913, 
       "pcode": 3600, 
-      "street": "Hermeslaan", 
-      "lon": 5.469753066458913
+      "street": "Hermeslaan"
     }, 
     {
+      "housenumber": "28B", 
       "pcode": 3600, 
-      "street": "Hermeslaan", 
-      "housenumber": "28B"
+      "street": "Hermeslaan"
     }, 
     {
-      "lat": 50.99205191201008, 
       "housenumber": "40", 
+      "lat": 50.99205191201008, 
+      "lon": 5.471571633754897, 
       "pcode": 3600, 
-      "street": "Hermeslaan", 
-      "lon": 5.471571633754897
+      "street": "Hermeslaan"
     }, 
     {
-      "lat": 50.98672448724075, 
       "housenumber": "81", 
+      "lat": 50.98672448724075, 
+      "lon": 5.469947644719231, 
       "pcode": 3600, 
-      "street": "Hermeslaan", 
-      "lon": 5.469947644719231
+      "street": "Hermeslaan"
     }
-  ], 
-  "name": "Hermeslaan"
+  ]
 }

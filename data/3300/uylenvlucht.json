@@ -1,18 +1,16 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.79682089696074, 
       "housenumber": "5", 
+      "lat": 50.79682089696074, 
+      "lon": 4.923456974575442, 
       "pcode": 3300, 
-      "street": "Uylenvlucht", 
-      "lon": 4.923456974575442
+      "street": "Uylenvlucht"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3300, 
-      "street": "Uylenvlucht", 
-      "housenumber": "7"
+      "street": "Uylenvlucht"
     }
-  ], 
-  "name": "Uylenvlucht"
+  ]
 }

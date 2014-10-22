@@ -1,20 +1,18 @@
 {
-  "pcode": 2460, 
   "addresses": [
     {
-      "lat": 51.2508766565236, 
       "housenumber": "2", 
+      "lat": 51.2508766565236, 
+      "lon": 4.900367143031088, 
       "pcode": 2460, 
-      "street": "Heipad", 
-      "lon": 4.900367143031088
+      "street": "Heipad"
     }, 
     {
-      "lat": 51.250938236205855, 
       "housenumber": "4", 
+      "lat": 51.250938236205855, 
+      "lon": 4.900724772522184, 
       "pcode": 2460, 
-      "street": "Heipad", 
-      "lon": 4.900724772522184
+      "street": "Heipad"
     }
-  ], 
-  "name": "Heipad"
+  ]
 }

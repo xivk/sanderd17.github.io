@@ -1,32 +1,30 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.20784161209645, 
       "housenumber": "1", 
+      "lat": 51.20784161209645, 
+      "lon": 2.972529516893857, 
       "pcode": 8400, 
-      "street": "Ijslandstraat", 
-      "lon": 2.972529516893857
+      "street": "Ijslandstraat"
     }, 
     {
-      "lat": 51.20987228351375, 
       "housenumber": "10", 
+      "lat": 51.20987228351375, 
+      "lon": 2.9719134264915175, 
       "pcode": 8400, 
-      "street": "Ijslandstraat", 
-      "lon": 2.9719134264915175
+      "street": "Ijslandstraat"
     }, 
     {
-      "lat": 51.208775001566714, 
       "housenumber": "7", 
+      "lat": 51.208775001566714, 
+      "lon": 2.9729293739961147, 
       "pcode": 8400, 
-      "street": "Ijslandstraat", 
-      "lon": 2.9729293739961147
+      "street": "Ijslandstraat"
     }, 
     {
+      "housenumber": "ZN", 
       "pcode": 8400, 
-      "street": "Ijslandstraat", 
-      "housenumber": "ZN"
+      "street": "Ijslandstraat"
     }
-  ], 
-  "name": "Ijslandstraat"
+  ]
 }

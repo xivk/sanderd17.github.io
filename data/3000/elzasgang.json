@@ -1,32 +1,30 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.869548565423386, 
       "housenumber": "1", 
+      "lat": 50.869548565423386, 
+      "lon": 4.69882601507718, 
       "pcode": 3000, 
-      "street": "Elzasgang", 
-      "lon": 4.69882601507718
+      "street": "Elzasgang"
     }, 
     {
-      "lat": 50.869534949239835, 
       "housenumber": "5", 
+      "lat": 50.869534949239835, 
+      "lon": 4.698585689399854, 
       "pcode": 3000, 
-      "street": "Elzasgang", 
-      "lon": 4.698585689399854
+      "street": "Elzasgang"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3000, 
-      "street": "Elzasgang", 
-      "housenumber": "7"
+      "street": "Elzasgang"
     }, 
     {
-      "lat": 50.86951919883713, 
       "housenumber": "9", 
+      "lat": 50.86951919883713, 
+      "lon": 4.698273038433544, 
       "pcode": 3000, 
-      "street": "Elzasgang", 
-      "lon": 4.698273038433544
+      "street": "Elzasgang"
     }
-  ], 
-  "name": "Elzasgang"
+  ]
 }

@@ -1,46 +1,44 @@
 {
-  "pcode": 9200, 
   "addresses": [
     {
-      "lat": 51.02707395725939, 
       "housenumber": "31", 
+      "lat": 51.02707395725939, 
+      "lon": 4.093089044726397, 
       "pcode": 9200, 
-      "street": "Nieuw Kwartier", 
-      "lon": 4.093089044726397
+      "street": "Nieuw Kwartier"
     }, 
     {
+      "housenumber": "32", 
       "pcode": 9200, 
-      "street": "Nieuw Kwartier", 
-      "housenumber": "32"
+      "street": "Nieuw Kwartier"
     }, 
     {
-      "lat": 51.02588114705338, 
       "housenumber": "41", 
+      "lat": 51.02588114705338, 
+      "lon": 4.093645959373972, 
       "pcode": 9200, 
-      "street": "Nieuw Kwartier", 
-      "lon": 4.093645959373972
+      "street": "Nieuw Kwartier"
     }, 
     {
-      "lat": 51.02573295577133, 
       "housenumber": "43", 
+      "lat": 51.02573295577133, 
+      "lon": 4.0937011344861, 
       "pcode": 9200, 
-      "street": "Nieuw Kwartier", 
-      "lon": 4.0937011344861
+      "street": "Nieuw Kwartier"
     }, 
     {
-      "lat": 51.0257528840947, 
       "housenumber": "44", 
+      "lat": 51.0257528840947, 
+      "lon": 4.093843697518536, 
       "pcode": 9200, 
-      "street": "Nieuw Kwartier", 
-      "lon": 4.093843697518536
+      "street": "Nieuw Kwartier"
     }, 
     {
-      "lat": 51.025531059969104, 
       "housenumber": "47", 
+      "lat": 51.025531059969104, 
+      "lon": 4.094125365977491, 
       "pcode": 9200, 
-      "street": "Nieuw Kwartier", 
-      "lon": 4.094125365977491
+      "street": "Nieuw Kwartier"
     }
-  ], 
-  "name": "Nieuw Kwartier"
+  ]
 }

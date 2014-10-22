@@ -1,20 +1,18 @@
 {
-  "pcode": 2960, 
   "addresses": [
     {
-      "lat": 51.29484609460486, 
       "housenumber": "5", 
+      "lat": 51.29484609460486, 
+      "lon": 4.59193747042597, 
       "pcode": 2960, 
-      "street": "De Vraagstraat", 
-      "lon": 4.59193747042597
+      "street": "De Vraagstraat"
     }, 
     {
-      "lat": 51.29711867000521, 
       "housenumber": "8", 
+      "lat": 51.29711867000521, 
+      "lon": 4.607064532156429, 
       "pcode": 2960, 
-      "street": "De Vraagstraat", 
-      "lon": 4.607064532156429
+      "street": "De Vraagstraat"
     }
-  ], 
-  "name": "De Vraagstraat"
+  ]
 }

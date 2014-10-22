@@ -1,20 +1,18 @@
 {
-  "pcode": 9230, 
   "addresses": [
     {
-      "lat": 50.99967395085742, 
       "housenumber": "5", 
+      "lat": 50.99967395085742, 
+      "lon": 3.8607795859386806, 
       "pcode": 9230, 
-      "street": "De Snoeken", 
-      "lon": 3.8607795859386806
+      "street": "De Snoeken"
     }, 
     {
-      "lat": 50.99944705804248, 
       "housenumber": "9", 
+      "lat": 50.99944705804248, 
+      "lon": 3.860695569581602, 
       "pcode": 9230, 
-      "street": "De Snoeken", 
-      "lon": 3.860695569581602
+      "street": "De Snoeken"
     }
-  ], 
-  "name": "De Snoeken"
+  ]
 }

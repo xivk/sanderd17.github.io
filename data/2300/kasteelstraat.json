@@ -1,27 +1,25 @@
 {
-  "pcode": 2300, 
   "addresses": [
     {
-      "lat": 51.324472886368696, 
       "housenumber": "2", 
+      "lat": 51.324472886368696, 
+      "lon": 4.946888316920161, 
       "pcode": 2300, 
-      "street": "Kasteelstraat", 
-      "lon": 4.946888316920161
+      "street": "Kasteelstraat"
     }, 
     {
-      "lat": 51.324500914063094, 
       "housenumber": "4", 
+      "lat": 51.324500914063094, 
+      "lon": 4.946762711381144, 
       "pcode": 2300, 
-      "street": "Kasteelstraat", 
-      "lon": 4.946762711381144
+      "street": "Kasteelstraat"
     }, 
     {
-      "lat": 51.324520836556346, 
       "housenumber": "6", 
+      "lat": 51.324520836556346, 
+      "lon": 4.946640304376409, 
       "pcode": 2300, 
-      "street": "Kasteelstraat", 
-      "lon": 4.946640304376409
+      "street": "Kasteelstraat"
     }
-  ], 
-  "name": "Kasteelstraat"
+  ]
 }

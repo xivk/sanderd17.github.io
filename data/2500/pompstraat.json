@@ -1,32 +1,30 @@
 {
-  "pcode": 2500, 
   "addresses": [
     {
-      "lat": 51.127931602449706, 
       "housenumber": "2", 
+      "lat": 51.127931602449706, 
+      "lon": 4.5680204651542065, 
       "pcode": 2500, 
-      "street": "Pompstraat", 
-      "lon": 4.5680204651542065
+      "street": "Pompstraat"
     }, 
     {
-      "lat": 51.127841826852766, 
       "housenumber": "4", 
+      "lat": 51.127841826852766, 
+      "lon": 4.568166643223545, 
       "pcode": 2500, 
-      "street": "Pompstraat", 
-      "lon": 4.568166643223545
+      "street": "Pompstraat"
     }, 
     {
-      "lat": 51.127852153866044, 
       "housenumber": "6", 
+      "lat": 51.127852153866044, 
+      "lon": 4.568278537642274, 
       "pcode": 2500, 
-      "street": "Pompstraat", 
-      "lon": 4.568278537642274
+      "street": "Pompstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2500, 
-      "street": "Pompstraat", 
-      "housenumber": "8"
+      "street": "Pompstraat"
     }
-  ], 
-  "name": "Pompstraat"
+  ]
 }

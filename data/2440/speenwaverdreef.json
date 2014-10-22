@@ -1,20 +1,18 @@
 {
-  "pcode": 2440, 
   "addresses": [
     {
-      "lat": 51.19149284729881, 
       "housenumber": "1", 
+      "lat": 51.19149284729881, 
+      "lon": 4.9888795121668394, 
       "pcode": 2440, 
-      "street": "Speenwaverdreef", 
-      "lon": 4.9888795121668394
+      "street": "Speenwaverdreef"
     }, 
     {
-      "lat": 51.19221190162042, 
       "housenumber": "2", 
+      "lat": 51.19221190162042, 
+      "lon": 4.994153170539432, 
       "pcode": 2440, 
-      "street": "Speenwaverdreef", 
-      "lon": 4.994153170539432
+      "street": "Speenwaverdreef"
     }
-  ], 
-  "name": "Speenwaverdreef"
+  ]
 }

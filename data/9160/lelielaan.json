@@ -1,25 +1,23 @@
 {
-  "pcode": 9160, 
   "addresses": [
     {
-      "lat": 51.11077910771439, 
       "housenumber": "1", 
+      "lat": 51.11077910771439, 
+      "lon": 3.9894135234614025, 
       "pcode": 9160, 
-      "street": "Lelielaan", 
-      "lon": 3.9894135234614025
+      "street": "Lelielaan"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9160, 
-      "street": "Lelielaan", 
-      "housenumber": "3"
+      "street": "Lelielaan"
     }, 
     {
-      "lat": 51.11082533137301, 
       "housenumber": "5", 
+      "lat": 51.11082533137301, 
+      "lon": 3.989392014955303, 
       "pcode": 9160, 
-      "street": "Lelielaan", 
-      "lon": 3.989392014955303
+      "street": "Lelielaan"
     }
-  ], 
-  "name": "Lelielaan"
+  ]
 }

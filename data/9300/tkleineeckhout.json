@@ -1,18 +1,16 @@
 {
-  "pcode": 9300, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9300, 
-      "street": "'t Klein Eeckhout", 
-      "housenumber": "1"
+      "street": "'t Klein Eeckhout"
     }, 
     {
-      "lat": 50.94162980633551, 
       "housenumber": "2", 
+      "lat": 50.94162980633551, 
+      "lon": 4.067371053408116, 
       "pcode": 9300, 
-      "street": "'t Klein Eeckhout", 
-      "lon": 4.067371053408116
+      "street": "'t Klein Eeckhout"
     }
-  ], 
-  "name": "'t Klein Eeckhout"
+  ]
 }

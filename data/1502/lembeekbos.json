@@ -1,37 +1,35 @@
 {
-  "pcode": 1502, 
   "addresses": [
     {
-      "lat": 50.695509637871574, 
       "housenumber": "402", 
+      "lat": 50.695509637871574, 
+      "lon": 4.24215220356778, 
       "pcode": 1502, 
-      "street": "Lembeekbos", 
-      "lon": 4.24215220356778
+      "street": "Lembeekbos"
     }, 
     {
+      "housenumber": "404", 
       "pcode": 1502, 
-      "street": "Lembeekbos", 
-      "housenumber": "404"
+      "street": "Lembeekbos"
     }, 
     {
-      "lat": 50.696693295798326, 
       "housenumber": "406", 
+      "lat": 50.696693295798326, 
+      "lon": 4.249421323688571, 
       "pcode": 1502, 
-      "street": "Lembeekbos", 
-      "lon": 4.249421323688571
+      "street": "Lembeekbos"
     }, 
     {
+      "housenumber": "408", 
       "pcode": 1502, 
-      "street": "Lembeekbos", 
-      "housenumber": "408"
+      "street": "Lembeekbos"
     }, 
     {
-      "lat": 50.69495902240594, 
       "housenumber": "410", 
+      "lat": 50.69495902240594, 
+      "lon": 4.248765842623837, 
       "pcode": 1502, 
-      "street": "Lembeekbos", 
-      "lon": 4.248765842623837
+      "street": "Lembeekbos"
     }
-  ], 
-  "name": "Lembeekbos"
+  ]
 }

@@ -1,39 +1,37 @@
 {
-  "pcode": 1630, 
   "addresses": [
     {
-      "lat": 50.77108461304716, 
       "housenumber": "1", 
+      "lat": 50.77108461304716, 
+      "lon": 4.331534502745826, 
       "pcode": 1630, 
-      "street": "Koekoekpad", 
-      "lon": 4.331534502745826
+      "street": "Koekoekpad"
     }, 
     {
-      "lat": 50.77138869586101, 
       "housenumber": "2", 
+      "lat": 50.77138869586101, 
+      "lon": 4.331990187080084, 
       "pcode": 1630, 
-      "street": "Koekoekpad", 
-      "lon": 4.331990187080084
+      "street": "Koekoekpad"
     }, 
     {
-      "lat": 50.76982970780271, 
       "housenumber": "21", 
+      "lat": 50.76982970780271, 
+      "lon": 4.3300173518228045, 
       "pcode": 1630, 
-      "street": "Koekoekpad", 
-      "lon": 4.3300173518228045
+      "street": "Koekoekpad"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 1630, 
-      "street": "Koekoekpad", 
-      "housenumber": "3"
+      "street": "Koekoekpad"
     }, 
     {
-      "lat": 50.77105488470047, 
       "housenumber": "5", 
+      "lat": 50.77105488470047, 
+      "lon": 4.331912897242349, 
       "pcode": 1630, 
-      "street": "Koekoekpad", 
-      "lon": 4.331912897242349
+      "street": "Koekoekpad"
     }
-  ], 
-  "name": "Koekoekpad"
+  ]
 }

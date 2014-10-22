@@ -1,20 +1,18 @@
 {
-  "pcode": 3200, 
   "addresses": [
     {
-      "lat": 50.98542003147301, 
       "housenumber": "1", 
+      "lat": 50.98542003147301, 
+      "lon": 4.836002086817486, 
       "pcode": 3200, 
-      "street": "Ten Drossaarde", 
-      "lon": 4.836002086817486
+      "street": "Ten Drossaarde"
     }, 
     {
-      "lat": 50.98523916026827, 
       "housenumber": "4", 
+      "lat": 50.98523916026827, 
+      "lon": 4.834283030267019, 
       "pcode": 3200, 
-      "street": "Ten Drossaarde", 
-      "lon": 4.834283030267019
+      "street": "Ten Drossaarde"
     }
-  ], 
-  "name": "Ten Drossaarde"
+  ]
 }

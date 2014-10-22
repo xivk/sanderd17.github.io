@@ -1,25 +1,23 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.78859160080304, 
       "housenumber": "1", 
+      "lat": 50.78859160080304, 
+      "lon": 4.927488731531622, 
       "pcode": 3300, 
-      "street": "Mutsenberg", 
-      "lon": 4.927488731531622
+      "street": "Mutsenberg"
     }, 
     {
-      "lat": 50.788527393668744, 
       "housenumber": "6", 
+      "lat": 50.788527393668744, 
+      "lon": 4.9286961489441135, 
       "pcode": 3300, 
-      "street": "Mutsenberg", 
-      "lon": 4.9286961489441135
+      "street": "Mutsenberg"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3300, 
-      "street": "Mutsenberg", 
-      "housenumber": "8"
+      "street": "Mutsenberg"
     }
-  ], 
-  "name": "Mutsenberg"
+  ]
 }

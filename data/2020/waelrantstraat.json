@@ -1,20 +1,18 @@
 {
-  "pcode": 2020, 
   "addresses": [
     {
-      "lat": 51.191755511485596, 
       "housenumber": "1", 
+      "lat": 51.191755511485596, 
+      "lon": 4.391368388058256, 
       "pcode": 2020, 
-      "street": "Waelrantstraat", 
-      "lon": 4.391368388058256
+      "street": "Waelrantstraat"
     }, 
     {
-      "lat": 51.19172741835921, 
       "housenumber": "3", 
+      "lat": 51.19172741835921, 
+      "lon": 4.391615695909175, 
       "pcode": 2020, 
-      "street": "Waelrantstraat", 
-      "lon": 4.391615695909175
+      "street": "Waelrantstraat"
     }
-  ], 
-  "name": "Waelrantstraat"
+  ]
 }

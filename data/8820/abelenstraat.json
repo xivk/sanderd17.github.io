@@ -1,27 +1,25 @@
 {
-  "pcode": 8820, 
   "addresses": [
     {
-      "lat": 51.01580431194577, 
       "housenumber": "1", 
+      "lat": 51.01580431194577, 
+      "lon": 3.0949141989365576, 
       "pcode": 8820, 
-      "street": "Abelenstraat", 
-      "lon": 3.0949141989365576
+      "street": "Abelenstraat"
     }, 
     {
-      "lat": 51.0162726630288, 
       "housenumber": "3", 
+      "lat": 51.0162726630288, 
+      "lon": 3.0934810282653347, 
       "pcode": 8820, 
-      "street": "Abelenstraat", 
-      "lon": 3.0934810282653347
+      "street": "Abelenstraat"
     }, 
     {
-      "lat": 51.0145084087648, 
       "housenumber": "5", 
+      "lat": 51.0145084087648, 
+      "lon": 3.084663243200968, 
       "pcode": 8820, 
-      "street": "Abelenstraat", 
-      "lon": 3.084663243200968
+      "street": "Abelenstraat"
     }
-  ], 
-  "name": "Abelenstraat"
+  ]
 }

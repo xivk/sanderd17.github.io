@@ -1,20 +1,18 @@
 {
-  "pcode": 8750, 
   "addresses": [
     {
-      "lat": 51.06006056605929, 
       "housenumber": "1", 
+      "lat": 51.06006056605929, 
+      "lon": 3.3431481047220766, 
       "pcode": 8750, 
-      "street": "Scheidingsstraat", 
-      "lon": 3.3431481047220766
+      "street": "Scheidingsstraat"
     }, 
     {
-      "lat": 51.062710272232955, 
       "housenumber": "3", 
+      "lat": 51.062710272232955, 
+      "lon": 3.340523132884762, 
       "pcode": 8750, 
-      "street": "Scheidingsstraat", 
-      "lon": 3.340523132884762
+      "street": "Scheidingsstraat"
     }
-  ], 
-  "name": "Scheidingsstraat"
+  ]
 }

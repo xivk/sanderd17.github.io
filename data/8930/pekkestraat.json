@@ -1,20 +1,18 @@
 {
-  "pcode": 8930, 
   "addresses": [
     {
-      "lat": 50.818467944626285, 
       "housenumber": "20", 
+      "lat": 50.818467944626285, 
+      "lon": 3.1095980733015605, 
       "pcode": 8930, 
-      "street": "Pekkestraat", 
-      "lon": 3.1095980733015605
+      "street": "Pekkestraat"
     }, 
     {
-      "lat": 50.81931058564587, 
       "housenumber": "22", 
+      "lat": 50.81931058564587, 
+      "lon": 3.10741604420274, 
       "pcode": 8930, 
-      "street": "Pekkestraat", 
-      "lon": 3.10741604420274
+      "street": "Pekkestraat"
     }
-  ], 
-  "name": "Pekkestraat"
+  ]
 }

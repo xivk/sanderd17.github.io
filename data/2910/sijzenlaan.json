@@ -1,35 +1,33 @@
 {
-  "pcode": 2910, 
   "addresses": [
     {
-      "lat": 51.45406416979149, 
       "housenumber": "17", 
+      "lat": 51.45406416979149, 
+      "lon": 4.5130510448380825, 
       "pcode": 2910, 
-      "street": "Sijzenlaan", 
-      "lon": 4.5130510448380825
+      "street": "Sijzenlaan"
     }, 
     {
-      "lat": 51.45574815835402, 
       "housenumber": "27", 
+      "lat": 51.45574815835402, 
+      "lon": 4.5083330301499505, 
       "pcode": 2910, 
-      "street": "Sijzenlaan", 
-      "lon": 4.5083330301499505
+      "street": "Sijzenlaan"
     }, 
     {
+      "housenumber": "33", 
       "pcode": 2910, 
-      "street": "Sijzenlaan", 
-      "housenumber": "33"
+      "street": "Sijzenlaan"
     }, 
     {
+      "housenumber": "34", 
       "pcode": 2910, 
-      "street": "Sijzenlaan", 
-      "housenumber": "34"
+      "street": "Sijzenlaan"
     }, 
     {
+      "housenumber": "36", 
       "pcode": 2910, 
-      "street": "Sijzenlaan", 
-      "housenumber": "36"
+      "street": "Sijzenlaan"
     }
-  ], 
-  "name": "Sijzenlaan"
+  ]
 }

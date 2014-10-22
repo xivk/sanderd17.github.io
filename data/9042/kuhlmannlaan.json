@@ -1,20 +1,18 @@
 {
-  "pcode": 9042, 
   "addresses": [
     {
-      "lat": 51.180405468521926, 
       "housenumber": "1", 
+      "lat": 51.180405468521926, 
+      "lon": 3.7936816928965524, 
       "pcode": 9042, 
-      "street": "Kuhlmannlaan", 
-      "lon": 3.7936816928965524
+      "street": "Kuhlmannlaan"
     }, 
     {
-      "lat": 51.17910097066206, 
       "housenumber": "36", 
+      "lat": 51.17910097066206, 
+      "lon": 3.791532306814834, 
       "pcode": 9042, 
-      "street": "Kuhlmannlaan", 
-      "lon": 3.791532306814834
+      "street": "Kuhlmannlaan"
     }
-  ], 
-  "name": "Kuhlmannlaan"
+  ]
 }

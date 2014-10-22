@@ -1,34 +1,32 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.052933106217715, 
       "housenumber": "1", 
+      "lat": 51.052933106217715, 
+      "lon": 3.7216837189610277, 
       "pcode": 9000, 
-      "street": "Nodenaysteeg", 
-      "lon": 3.7216837189610277
+      "street": "Nodenaysteeg"
     }, 
     {
-      "lat": 51.05299053803991, 
       "housenumber": "2", 
+      "lat": 51.05299053803991, 
+      "lon": 3.7213871221719184, 
       "pcode": 9000, 
-      "street": "Nodenaysteeg", 
-      "lon": 3.7213871221719184
+      "street": "Nodenaysteeg"
     }, 
     {
-      "lat": 51.053021846436486, 
       "housenumber": "3", 
+      "lat": 51.053021846436486, 
+      "lon": 3.721293555573672, 
       "pcode": 9000, 
-      "street": "Nodenaysteeg", 
-      "lon": 3.721293555573672
+      "street": "Nodenaysteeg"
     }, 
     {
-      "lat": 51.05303555903186, 
       "housenumber": "4", 
+      "lat": 51.05303555903186, 
+      "lon": 3.721204225561252, 
       "pcode": 9000, 
-      "street": "Nodenaysteeg", 
-      "lon": 3.721204225561252
+      "street": "Nodenaysteeg"
     }
-  ], 
-  "name": "Nodenaysteeg"
+  ]
 }

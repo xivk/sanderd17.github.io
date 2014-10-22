@@ -1,20 +1,18 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
-      "lat": 50.9295406475328, 
       "housenumber": "12", 
+      "lat": 50.9295406475328, 
+      "lon": 4.420534863253891, 
       "pcode": 1800, 
-      "street": "Neerhofstraat", 
-      "lon": 4.420534863253891
+      "street": "Neerhofstraat"
     }, 
     {
-      "lat": 50.929566928977835, 
       "housenumber": "13", 
+      "lat": 50.929566928977835, 
+      "lon": 4.420259650236494, 
       "pcode": 1800, 
-      "street": "Neerhofstraat", 
-      "lon": 4.420259650236494
+      "street": "Neerhofstraat"
     }
-  ], 
-  "name": "Neerhofstraat"
+  ]
 }

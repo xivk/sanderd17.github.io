@@ -1,44 +1,42 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.82671229111518, 
       "housenumber": "10", 
+      "lat": 50.82671229111518, 
+      "lon": 3.2719238418406706, 
       "pcode": 8500, 
-      "street": "Romeinselaan", 
-      "lon": 3.2719238418406706
+      "street": "Romeinselaan"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 8500, 
-      "street": "Romeinselaan", 
-      "housenumber": "11"
+      "street": "Romeinselaan"
     }, 
     {
-      "lat": 50.8269095798401, 
       "housenumber": "13", 
+      "lat": 50.8269095798401, 
+      "lon": 3.272803017972328, 
       "pcode": 8500, 
-      "street": "Romeinselaan", 
-      "lon": 3.272803017972328
+      "street": "Romeinselaan"
     }, 
     {
-      "lat": 50.82688967403158, 
       "housenumber": "15", 
+      "lat": 50.82688967403158, 
+      "lon": 3.272847201890285, 
       "pcode": 8500, 
-      "street": "Romeinselaan", 
-      "lon": 3.272847201890285
+      "street": "Romeinselaan"
     }, 
     {
+      "housenumber": "17", 
       "pcode": 8500, 
-      "street": "Romeinselaan", 
-      "housenumber": "17"
+      "street": "Romeinselaan"
     }, 
     {
-      "lat": 50.82793099494473, 
       "housenumber": "6", 
+      "lat": 50.82793099494473, 
+      "lon": 3.2723989377838016, 
       "pcode": 8500, 
-      "street": "Romeinselaan", 
-      "lon": 3.2723989377838016
+      "street": "Romeinselaan"
     }
-  ], 
-  "name": "Romeinselaan"
+  ]
 }

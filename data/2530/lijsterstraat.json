@@ -1,20 +1,18 @@
 {
-  "pcode": 2530, 
   "addresses": [
     {
-      "lat": 51.17062042719455, 
       "housenumber": "1", 
+      "lat": 51.17062042719455, 
+      "lon": 4.504415254484752, 
       "pcode": 2530, 
-      "street": "Lijsterstraat", 
-      "lon": 4.504415254484752
+      "street": "Lijsterstraat"
     }, 
     {
-      "lat": 51.17055230243561, 
       "housenumber": "2", 
+      "lat": 51.17055230243561, 
+      "lon": 4.503939794437783, 
       "pcode": 2530, 
-      "street": "Lijsterstraat", 
-      "lon": 4.503939794437783
+      "street": "Lijsterstraat"
     }
-  ], 
-  "name": "Lijsterstraat"
+  ]
 }

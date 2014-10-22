@@ -1,38 +1,36 @@
 {
-  "pcode": 2200, 
   "addresses": [
     {
-      "lat": 51.19885620148717, 
       "housenumber": "1", 
+      "lat": 51.19885620148717, 
+      "lon": 4.85080248670783, 
       "pcode": 2200, 
-      "street": "Bosbergen", 
-      "lon": 4.85080248670783
+      "street": "Bosbergen"
     }, 
     {
+      "housenumber": "102", 
       "pcode": 2200, 
-      "street": "Bosbergen", 
-      "housenumber": "102"
+      "street": "Bosbergen"
     }, 
     {
+      "housenumber": "104", 
       "pcode": 2200, 
-      "street": "Bosbergen", 
-      "housenumber": "104"
+      "street": "Bosbergen"
     }, 
     {
+      "housenumber": "111", 
       "pcode": 2200, 
-      "street": "Bosbergen", 
-      "housenumber": "111"
+      "street": "Bosbergen"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2200, 
-      "street": "Bosbergen", 
-      "housenumber": "3"
+      "street": "Bosbergen"
     }, 
     {
+      "housenumber": "38", 
       "pcode": 2200, 
-      "street": "Bosbergen", 
-      "housenumber": "38"
+      "street": "Bosbergen"
     }
-  ], 
-  "name": "Bosbergen"
+  ]
 }

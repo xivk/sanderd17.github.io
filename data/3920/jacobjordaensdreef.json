@@ -1,20 +1,18 @@
 {
-  "pcode": 3920, 
   "addresses": [
     {
-      "lat": 51.2446995234179, 
       "housenumber": "1", 
+      "lat": 51.2446995234179, 
+      "lon": 5.316986397926255, 
       "pcode": 3920, 
-      "street": "Jacob Jordaensdreef", 
-      "lon": 5.316986397926255
+      "street": "Jacob Jordaensdreef"
     }, 
     {
-      "lat": 51.24426284545816, 
       "housenumber": "2", 
+      "lat": 51.24426284545816, 
+      "lon": 5.31668262387423, 
       "pcode": 3920, 
-      "street": "Jacob Jordaensdreef", 
-      "lon": 5.31668262387423
+      "street": "Jacob Jordaensdreef"
     }
-  ], 
-  "name": "Jacob Jordaensdreef"
+  ]
 }

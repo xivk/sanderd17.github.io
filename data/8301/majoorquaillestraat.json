@@ -1,46 +1,44 @@
 {
-  "pcode": 8301, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8301, 
-      "street": "Majoor Quaillestraat", 
-      "housenumber": "1"
+      "street": "Majoor Quaillestraat"
     }, 
     {
-      "lat": 51.34515954445157, 
       "housenumber": "10", 
+      "lat": 51.34515954445157, 
+      "lon": 3.263273892235139, 
       "pcode": 8301, 
-      "street": "Majoor Quaillestraat", 
-      "lon": 3.263273892235139
+      "street": "Majoor Quaillestraat"
     }, 
     {
-      "lat": 51.34587186338142, 
       "housenumber": "2", 
+      "lat": 51.34587186338142, 
+      "lon": 3.2631620918933124, 
       "pcode": 8301, 
-      "street": "Majoor Quaillestraat", 
-      "lon": 3.2631620918933124
+      "street": "Majoor Quaillestraat"
     }, 
     {
-      "lat": 51.345825098914226, 
       "housenumber": "4", 
+      "lat": 51.345825098914226, 
+      "lon": 3.2630729207360614, 
       "pcode": 8301, 
-      "street": "Majoor Quaillestraat", 
-      "lon": 3.2630729207360614
+      "street": "Majoor Quaillestraat"
     }, 
     {
-      "lat": 51.34565251112708, 
       "housenumber": "6", 
+      "lat": 51.34565251112708, 
+      "lon": 3.2631693136913476, 
       "pcode": 8301, 
-      "street": "Majoor Quaillestraat", 
-      "lon": 3.2631693136913476
+      "street": "Majoor Quaillestraat"
     }, 
     {
-      "lat": 51.34518741432673, 
       "housenumber": "8", 
+      "lat": 51.34518741432673, 
+      "lon": 3.263332221397457, 
       "pcode": 8301, 
-      "street": "Majoor Quaillestraat", 
-      "lon": 3.263332221397457
+      "street": "Majoor Quaillestraat"
     }
-  ], 
-  "name": "Majoor Quaillestraat"
+  ]
 }

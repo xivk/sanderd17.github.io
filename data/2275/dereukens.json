@@ -1,32 +1,30 @@
 {
-  "pcode": 2275, 
   "addresses": [
     {
-      "lat": 51.28020418785406, 
       "housenumber": "1", 
+      "lat": 51.28020418785406, 
+      "lon": 4.88245462736487, 
       "pcode": 2275, 
-      "street": "De Reukens", 
-      "lon": 4.88245462736487
+      "street": "De Reukens"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 2275, 
-      "street": "De Reukens", 
-      "housenumber": "1A"
+      "street": "De Reukens"
     }, 
     {
-      "lat": 51.280425732619435, 
       "housenumber": "2", 
+      "lat": 51.280425732619435, 
+      "lon": 4.881858717043932, 
       "pcode": 2275, 
-      "street": "De Reukens", 
-      "lon": 4.881858717043932
+      "street": "De Reukens"
     }, 
     {
-      "lat": 51.28050455895474, 
       "housenumber": "3", 
+      "lat": 51.28050455895474, 
+      "lon": 4.881672698258793, 
       "pcode": 2275, 
-      "street": "De Reukens", 
-      "lon": 4.881672698258793
+      "street": "De Reukens"
     }
-  ], 
-  "name": "De Reukens"
+  ]
 }

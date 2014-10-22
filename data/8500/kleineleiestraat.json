@@ -1,35 +1,33 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.830850262087424, 
       "housenumber": "1", 
+      "lat": 50.830850262087424, 
+      "lon": 3.270135345285643, 
       "pcode": 8500, 
-      "street": "Kleine Leiestraat", 
-      "lon": 3.270135345285643
+      "street": "Kleine Leiestraat"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 8500, 
-      "street": "Kleine Leiestraat", 
-      "housenumber": "11"
+      "street": "Kleine Leiestraat"
     }, 
     {
-      "lat": 50.831400421967295, 
       "housenumber": "2", 
+      "lat": 50.831400421967295, 
+      "lon": 3.2699464652699337, 
       "pcode": 8500, 
-      "street": "Kleine Leiestraat", 
-      "lon": 3.2699464652699337
+      "street": "Kleine Leiestraat"
     }, 
     {
+      "housenumber": "44", 
       "pcode": 8500, 
-      "street": "Kleine Leiestraat", 
-      "housenumber": "44"
+      "street": "Kleine Leiestraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 8500, 
-      "street": "Kleine Leiestraat", 
-      "housenumber": "6"
+      "street": "Kleine Leiestraat"
     }
-  ], 
-  "name": "Kleine Leiestraat"
+  ]
 }

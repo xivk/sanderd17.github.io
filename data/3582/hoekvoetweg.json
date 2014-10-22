@@ -1,20 +1,18 @@
 {
-  "pcode": 3582, 
   "addresses": [
     {
-      "lat": 51.07178184079088, 
       "housenumber": "3", 
+      "lat": 51.07178184079088, 
+      "lon": 5.250240448206448, 
       "pcode": 3582, 
-      "street": "Hoekvoetweg", 
-      "lon": 5.250240448206448
+      "street": "Hoekvoetweg"
     }, 
     {
-      "lat": 51.07159661901418, 
       "housenumber": "4", 
+      "lat": 51.07159661901418, 
+      "lon": 5.249921190968523, 
       "pcode": 3582, 
-      "street": "Hoekvoetweg", 
-      "lon": 5.249921190968523
+      "street": "Hoekvoetweg"
     }
-  ], 
-  "name": "Hoekvoetweg"
+  ]
 }

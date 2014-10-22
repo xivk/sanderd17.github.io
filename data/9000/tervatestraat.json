@@ -1,34 +1,32 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.052000693266486, 
       "housenumber": "2", 
+      "lat": 51.052000693266486, 
+      "lon": 3.6931124631970307, 
       "pcode": 9000, 
-      "street": "Tervatestraat", 
-      "lon": 3.6931124631970307
+      "street": "Tervatestraat"
     }, 
     {
-      "lat": 51.05194147981705, 
       "housenumber": "4", 
+      "lat": 51.05194147981705, 
+      "lon": 3.693132713779431, 
       "pcode": 9000, 
-      "street": "Tervatestraat", 
-      "lon": 3.693132713779431
+      "street": "Tervatestraat"
     }, 
     {
-      "lat": 51.05181657372709, 
       "housenumber": "6", 
+      "lat": 51.05181657372709, 
+      "lon": 3.6932190897481068, 
       "pcode": 9000, 
-      "street": "Tervatestraat", 
-      "lon": 3.6932190897481068
+      "street": "Tervatestraat"
     }, 
     {
-      "lat": 51.0517589700293, 
       "housenumber": "8", 
+      "lat": 51.0517589700293, 
+      "lon": 3.693237890689789, 
       "pcode": 9000, 
-      "street": "Tervatestraat", 
-      "lon": 3.693237890689789
+      "street": "Tervatestraat"
     }
-  ], 
-  "name": "Tervatestraat"
+  ]
 }

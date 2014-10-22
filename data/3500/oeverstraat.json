@@ -1,23 +1,21 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3500, 
-      "street": "Oeverstraat", 
-      "housenumber": "1"
+      "street": "Oeverstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3500, 
-      "street": "Oeverstraat", 
-      "housenumber": "3"
+      "street": "Oeverstraat"
     }, 
     {
-      "lat": 50.93921083396439, 
       "housenumber": "7", 
+      "lat": 50.93921083396439, 
+      "lon": 5.33992422674948, 
       "pcode": 3500, 
-      "street": "Oeverstraat", 
-      "lon": 5.33992422674948
+      "street": "Oeverstraat"
     }
-  ], 
-  "name": "Oeverstraat"
+  ]
 }

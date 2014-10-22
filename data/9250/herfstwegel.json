@@ -1,20 +1,18 @@
 {
-  "pcode": 9250, 
   "addresses": [
     {
-      "lat": 51.121788680605015, 
       "housenumber": "3", 
+      "lat": 51.121788680605015, 
+      "lon": 4.10332353204749, 
       "pcode": 9250, 
-      "street": "Herfstwegel", 
-      "lon": 4.10332353204749
+      "street": "Herfstwegel"
     }, 
     {
-      "lat": 51.121442749403194, 
       "housenumber": "5", 
+      "lat": 51.121442749403194, 
+      "lon": 4.102984130395093, 
       "pcode": 9250, 
-      "street": "Herfstwegel", 
-      "lon": 4.102984130395093
+      "street": "Herfstwegel"
     }
-  ], 
-  "name": "Herfstwegel"
+  ]
 }

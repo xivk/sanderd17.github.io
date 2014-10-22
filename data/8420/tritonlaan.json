@@ -1,18 +1,16 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
-      "lat": 51.30625770758825, 
       "housenumber": "2", 
+      "lat": 51.30625770758825, 
+      "lon": 3.1057310285496253, 
       "pcode": 8420, 
-      "street": "Tritonlaan", 
-      "lon": 3.1057310285496253
+      "street": "Tritonlaan"
     }, 
     {
+      "housenumber": "2C", 
       "pcode": 8420, 
-      "street": "Tritonlaan", 
-      "housenumber": "2C"
+      "street": "Tritonlaan"
     }
-  ], 
-  "name": "Tritonlaan"
+  ]
 }

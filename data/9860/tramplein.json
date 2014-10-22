@@ -1,20 +1,18 @@
 {
-  "pcode": 9860, 
   "addresses": [
     {
-      "lat": 50.9564796118456, 
       "housenumber": "1", 
+      "lat": 50.9564796118456, 
+      "lon": 3.779365878149865, 
       "pcode": 9860, 
-      "street": "Tramplein", 
-      "lon": 3.779365878149865
+      "street": "Tramplein"
     }, 
     {
-      "lat": 50.95648255238307, 
       "housenumber": "3", 
+      "lat": 50.95648255238307, 
+      "lon": 3.779235039760558, 
       "pcode": 9860, 
-      "street": "Tramplein", 
-      "lon": 3.779235039760558
+      "street": "Tramplein"
     }
-  ], 
-  "name": "Tramplein"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.22552138844144, 
       "housenumber": "2", 
+      "lat": 51.22552138844144, 
+      "lon": 4.4128073611047025, 
       "pcode": 2000, 
-      "street": "Ulrikstraat", 
-      "lon": 4.4128073611047025
+      "street": "Ulrikstraat"
     }, 
     {
-      "lat": 51.225238090044776, 
       "housenumber": "3", 
+      "lat": 51.225238090044776, 
+      "lon": 4.412529099393378, 
       "pcode": 2000, 
-      "street": "Ulrikstraat", 
-      "lon": 4.412529099393378
+      "street": "Ulrikstraat"
     }
-  ], 
-  "name": "Ulrikstraat"
+  ]
 }

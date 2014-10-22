@@ -1,39 +1,37 @@
 {
-  "pcode": 3221, 
   "addresses": [
     {
+      "housenumber": "15", 
       "pcode": 3221, 
-      "street": "Grensstraat", 
-      "housenumber": "15"
+      "street": "Grensstraat"
     }, 
     {
-      "lat": 50.955116430310525, 
       "housenumber": "16", 
+      "lat": 50.955116430310525, 
+      "lon": 4.806918341927932, 
       "pcode": 3221, 
-      "street": "Grensstraat", 
-      "lon": 4.806918341927932
+      "street": "Grensstraat"
     }, 
     {
-      "lat": 50.95563836486695, 
       "housenumber": "17", 
+      "lat": 50.95563836486695, 
+      "lon": 4.805516479371129, 
       "pcode": 3221, 
-      "street": "Grensstraat", 
-      "lon": 4.805516479371129
+      "street": "Grensstraat"
     }, 
     {
-      "lat": 50.95529659781681, 
       "housenumber": "19", 
+      "lat": 50.95529659781681, 
+      "lon": 4.8060934065185, 
       "pcode": 3221, 
-      "street": "Grensstraat", 
-      "lon": 4.8060934065185
+      "street": "Grensstraat"
     }, 
     {
-      "lat": 50.95397964657972, 
       "housenumber": "21", 
+      "lat": 50.95397964657972, 
+      "lon": 4.805153318261997, 
       "pcode": 3221, 
-      "street": "Grensstraat", 
-      "lon": 4.805153318261997
+      "street": "Grensstraat"
     }
-  ], 
-  "name": "Grensstraat"
+  ]
 }

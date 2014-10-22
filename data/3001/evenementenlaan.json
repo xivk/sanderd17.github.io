@@ -1,27 +1,25 @@
 {
-  "pcode": 3001, 
   "addresses": [
     {
-      "lat": 50.8532282176408, 
       "housenumber": "3", 
+      "lat": 50.8532282176408, 
+      "lon": 4.733905655011901, 
       "pcode": 3001, 
-      "street": "Evenementenlaan", 
-      "lon": 4.733905655011901
+      "street": "Evenementenlaan"
     }, 
     {
-      "lat": 50.85585264265468, 
       "housenumber": "7", 
+      "lat": 50.85585264265468, 
+      "lon": 4.731592082630473, 
       "pcode": 3001, 
-      "street": "Evenementenlaan", 
-      "lon": 4.731592082630473
+      "street": "Evenementenlaan"
     }, 
     {
-      "lat": 49.293335165093566, 
       "housenumber": "8", 
+      "lat": 49.293335165093566, 
+      "lon": 2.306689562140502, 
       "pcode": 3001, 
-      "street": "Evenementenlaan", 
-      "lon": 2.306689562140502
+      "street": "Evenementenlaan"
     }
-  ], 
-  "name": "Evenementenlaan"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8691, 
   "addresses": [
     {
-      "lat": 50.95839663101659, 
       "housenumber": "1", 
+      "lat": 50.95839663101659, 
+      "lon": 2.6842603045121773, 
       "pcode": 8691, 
-      "street": "Jokweg", 
-      "lon": 2.6842603045121773
+      "street": "Jokweg"
     }, 
     {
-      "lat": 50.95658320534135, 
       "housenumber": "2", 
+      "lat": 50.95658320534135, 
+      "lon": 2.687941577842744, 
       "pcode": 8691, 
-      "street": "Jokweg", 
-      "lon": 2.687941577842744
+      "street": "Jokweg"
     }
-  ], 
-  "name": "Jokweg"
+  ]
 }

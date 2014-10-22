@@ -1,30 +1,28 @@
 {
-  "pcode": 8700, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 8700, 
-      "street": "Patersdreef", 
-      "housenumber": "2"
+      "street": "Patersdreef"
     }, 
     {
-      "lat": 50.99921757285128, 
       "housenumber": "3", 
+      "lat": 50.99921757285128, 
+      "lon": 3.3254432307008, 
       "pcode": 8700, 
-      "street": "Patersdreef", 
-      "lon": 3.3254432307008
+      "street": "Patersdreef"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8700, 
-      "street": "Patersdreef", 
-      "housenumber": "5"
+      "street": "Patersdreef"
     }, 
     {
-      "lat": 50.99899019342535, 
       "housenumber": "7", 
+      "lat": 50.99899019342535, 
+      "lon": 3.324365811819399, 
       "pcode": 8700, 
-      "street": "Patersdreef", 
-      "lon": 3.324365811819399
+      "street": "Patersdreef"
     }
-  ], 
-  "name": "Patersdreef"
+  ]
 }

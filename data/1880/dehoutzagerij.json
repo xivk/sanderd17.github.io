@@ -1,30 +1,28 @@
 {
-  "pcode": 1880, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 1880, 
-      "street": "De Houtzagerij", 
-      "housenumber": "1"
+      "street": "De Houtzagerij"
     }, 
     {
-      "lat": 51.01286120524995, 
       "housenumber": "5", 
+      "lat": 51.01286120524995, 
+      "lon": 4.363530913684347, 
       "pcode": 1880, 
-      "street": "De Houtzagerij", 
-      "lon": 4.363530913684347
+      "street": "De Houtzagerij"
     }, 
     {
-      "lat": 51.0127633006996, 
       "housenumber": "6", 
+      "lat": 51.0127633006996, 
+      "lon": 4.36318821846379, 
       "pcode": 1880, 
-      "street": "De Houtzagerij", 
-      "lon": 4.36318821846379
+      "street": "De Houtzagerij"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 1880, 
-      "street": "De Houtzagerij", 
-      "housenumber": "7"
+      "street": "De Houtzagerij"
     }
-  ], 
-  "name": "De Houtzagerij"
+  ]
 }

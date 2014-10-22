@@ -1,20 +1,18 @@
 {
-  "pcode": 2330, 
   "addresses": [
     {
-      "lat": 51.370983158064206, 
       "housenumber": "2", 
+      "lat": 51.370983158064206, 
+      "lon": 4.840138256984189, 
       "pcode": 2330, 
-      "street": "Esseheide", 
-      "lon": 4.840138256984189
+      "street": "Esseheide"
     }, 
     {
-      "lat": 51.37085930784539, 
       "housenumber": "4", 
+      "lat": 51.37085930784539, 
+      "lon": 4.840001586477635, 
       "pcode": 2330, 
-      "street": "Esseheide", 
-      "lon": 4.840001586477635
+      "street": "Esseheide"
     }
-  ], 
-  "name": "Esseheide"
+  ]
 }

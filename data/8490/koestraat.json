@@ -1,27 +1,25 @@
 {
-  "pcode": 8490, 
   "addresses": [
     {
-      "lat": 51.19096368476821, 
       "housenumber": "1", 
+      "lat": 51.19096368476821, 
+      "lon": 3.079278698957821, 
       "pcode": 8490, 
-      "street": "Koestraat", 
-      "lon": 3.079278698957821
+      "street": "Koestraat"
     }, 
     {
-      "lat": 51.18667893296099, 
       "housenumber": "1A", 
+      "lat": 51.18667893296099, 
+      "lon": 3.0785035644527796, 
       "pcode": 8490, 
-      "street": "Koestraat", 
-      "lon": 3.0785035644527796
+      "street": "Koestraat"
     }, 
     {
-      "lat": 51.18515225246935, 
       "housenumber": "1B", 
+      "lat": 51.18515225246935, 
+      "lon": 3.0812882107558694, 
       "pcode": 8490, 
-      "street": "Koestraat", 
-      "lon": 3.0812882107558694
+      "street": "Koestraat"
     }
-  ], 
-  "name": "Koestraat"
+  ]
 }

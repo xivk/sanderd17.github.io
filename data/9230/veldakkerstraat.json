@@ -1,27 +1,25 @@
 {
-  "pcode": 9230, 
   "addresses": [
     {
-      "lat": 51.0042504192635, 
       "housenumber": "10", 
+      "lat": 51.0042504192635, 
+      "lon": 3.8309427670461758, 
       "pcode": 9230, 
-      "street": "Veldakkerstraat", 
-      "lon": 3.8309427670461758
+      "street": "Veldakkerstraat"
     }, 
     {
-      "lat": 51.003811638825745, 
       "housenumber": "20", 
+      "lat": 51.003811638825745, 
+      "lon": 3.826409738428513, 
       "pcode": 9230, 
-      "street": "Veldakkerstraat", 
-      "lon": 3.826409738428513
+      "street": "Veldakkerstraat"
     }, 
     {
-      "lat": 51.00371373898271, 
       "housenumber": "26", 
+      "lat": 51.00371373898271, 
+      "lon": 3.8243810569330394, 
       "pcode": 9230, 
-      "street": "Veldakkerstraat", 
-      "lon": 3.8243810569330394
+      "street": "Veldakkerstraat"
     }
-  ], 
-  "name": "Veldakkerstraat"
+  ]
 }

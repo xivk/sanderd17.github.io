@@ -1,25 +1,23 @@
 {
-  "pcode": 8600, 
   "addresses": [
     {
-      "lat": 51.03408876678432, 
       "housenumber": "1", 
+      "lat": 51.03408876678432, 
+      "lon": 2.865439739138685, 
       "pcode": 8600, 
-      "street": "Vrijheidsplein", 
-      "lon": 2.865439739138685
+      "street": "Vrijheidsplein"
     }, 
     {
-      "lat": 51.034086194373494, 
       "housenumber": "2", 
+      "lat": 51.034086194373494, 
+      "lon": 2.8655692942182833, 
       "pcode": 8600, 
-      "street": "Vrijheidsplein", 
-      "lon": 2.8655692942182833
+      "street": "Vrijheidsplein"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8600, 
-      "street": "Vrijheidsplein", 
-      "housenumber": "3"
+      "street": "Vrijheidsplein"
     }
-  ], 
-  "name": "Vrijheidsplein"
+  ]
 }

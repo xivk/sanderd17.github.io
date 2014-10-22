@@ -1,27 +1,25 @@
 {
-  "pcode": 3550, 
   "addresses": [
     {
-      "lat": 50.999445457959624, 
       "housenumber": "1", 
+      "lat": 50.999445457959624, 
+      "lon": 5.2702442238626865, 
       "pcode": 3550, 
-      "street": "Molenveld", 
-      "lon": 5.2702442238626865
+      "street": "Molenveld"
     }, 
     {
-      "lat": 50.99815844328159, 
       "housenumber": "101", 
+      "lat": 50.99815844328159, 
+      "lon": 5.2600739587259575, 
       "pcode": 3550, 
-      "street": "Molenveld", 
-      "lon": 5.2600739587259575
+      "street": "Molenveld"
     }, 
     {
-      "lat": 50.99949474570375, 
       "housenumber": "55", 
+      "lat": 50.99949474570375, 
+      "lon": 5.264548351667301, 
       "pcode": 3550, 
-      "street": "Molenveld", 
-      "lon": 5.264548351667301
+      "street": "Molenveld"
     }
-  ], 
-  "name": "Molenveld"
+  ]
 }

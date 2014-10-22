@@ -1,30 +1,28 @@
 {
-  "pcode": 3940, 
   "addresses": [
     {
+      "housenumber": "2D", 
       "pcode": 3940, 
-      "street": "Heerstraat", 
-      "housenumber": "2D"
+      "street": "Heerstraat"
     }, 
     {
+      "housenumber": "2E", 
       "pcode": 3940, 
-      "street": "Heerstraat", 
-      "housenumber": "2E"
+      "street": "Heerstraat"
     }, 
     {
-      "lat": 51.155235352368386, 
       "housenumber": "4", 
+      "lat": 51.155235352368386, 
+      "lon": 5.391797806883316, 
       "pcode": 3940, 
-      "street": "Heerstraat", 
-      "lon": 5.391797806883316
+      "street": "Heerstraat"
     }, 
     {
-      "lat": 51.15484144929239, 
       "housenumber": "7A", 
+      "lat": 51.15484144929239, 
+      "lon": 5.392179550254242, 
       "pcode": 3940, 
-      "street": "Heerstraat", 
-      "lon": 5.392179550254242
+      "street": "Heerstraat"
     }
-  ], 
-  "name": "Heerstraat"
+  ]
 }

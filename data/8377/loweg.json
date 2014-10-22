@@ -1,27 +1,25 @@
 {
-  "pcode": 8377, 
   "addresses": [
     {
-      "lat": 51.24405931948733, 
       "housenumber": "1", 
+      "lat": 51.24405931948733, 
+      "lon": 3.1391169839808093, 
       "pcode": 8377, 
-      "street": "Loweg", 
-      "lon": 3.1391169839808093
+      "street": "Loweg"
     }, 
     {
-      "lat": 51.238676123901165, 
       "housenumber": "2", 
+      "lat": 51.238676123901165, 
+      "lon": 3.1396981487111524, 
       "pcode": 8377, 
-      "street": "Loweg", 
-      "lon": 3.1396981487111524
+      "street": "Loweg"
     }, 
     {
-      "lat": 51.23778182106119, 
       "housenumber": "4", 
+      "lat": 51.23778182106119, 
+      "lon": 3.127260353913579, 
       "pcode": 8377, 
-      "street": "Loweg", 
-      "lon": 3.127260353913579
+      "street": "Loweg"
     }
-  ], 
-  "name": "Loweg"
+  ]
 }

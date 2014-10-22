@@ -1,20 +1,18 @@
 {
-  "pcode": 1820, 
   "addresses": [
     {
-      "lat": 50.91844787370263, 
       "housenumber": "1", 
+      "lat": 50.91844787370263, 
+      "lon": 4.523696646003192, 
       "pcode": 1820, 
-      "street": "Wijkhuizenstraat", 
-      "lon": 4.523696646003192
+      "street": "Wijkhuizenstraat"
     }, 
     {
-      "lat": 50.91878417696767, 
       "housenumber": "2", 
+      "lat": 50.91878417696767, 
+      "lon": 4.523958861911377, 
       "pcode": 1820, 
-      "street": "Wijkhuizenstraat", 
-      "lon": 4.523958861911377
+      "street": "Wijkhuizenstraat"
     }
-  ], 
-  "name": "Wijkhuizenstraat"
+  ]
 }

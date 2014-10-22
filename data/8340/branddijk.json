@@ -1,27 +1,25 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.24307786952392, 
       "housenumber": "1", 
+      "lat": 51.24307786952392, 
+      "lon": 3.290567924141587, 
       "pcode": 8340, 
-      "street": "Branddijk", 
-      "lon": 3.290567924141587
+      "street": "Branddijk"
     }, 
     {
-      "lat": 51.24549277856097, 
       "housenumber": "2", 
+      "lat": 51.24549277856097, 
+      "lon": 3.30065601860103, 
       "pcode": 8340, 
-      "street": "Branddijk", 
-      "lon": 3.30065601860103
+      "street": "Branddijk"
     }, 
     {
-      "lat": 51.242637920665, 
       "housenumber": "8", 
+      "lat": 51.242637920665, 
+      "lon": 3.30380223361257, 
       "pcode": 8340, 
-      "street": "Branddijk", 
-      "lon": 3.30380223361257
+      "street": "Branddijk"
     }
-  ], 
-  "name": "Branddijk"
+  ]
 }

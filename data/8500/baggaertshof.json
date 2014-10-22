@@ -1,20 +1,18 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.827118834722306, 
       "housenumber": "35", 
+      "lat": 50.827118834722306, 
+      "lon": 3.271788314005904, 
       "pcode": 8500, 
-      "street": "Baggaertshof", 
-      "lon": 3.271788314005904
+      "street": "Baggaertshof"
     }, 
     {
-      "lat": 50.82727929960317, 
       "housenumber": "37", 
+      "lat": 50.82727929960317, 
+      "lon": 3.271825028917081, 
       "pcode": 8500, 
-      "street": "Baggaertshof", 
-      "lon": 3.271825028917081
+      "street": "Baggaertshof"
     }
-  ], 
-  "name": "Baggaertshof"
+  ]
 }

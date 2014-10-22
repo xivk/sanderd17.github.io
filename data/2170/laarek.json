@@ -1,42 +1,40 @@
 {
-  "pcode": 2170, 
   "addresses": [
     {
+      "housenumber": "129", 
       "pcode": 2170, 
-      "street": "Laar_EK", 
-      "housenumber": "129"
+      "street": "Laar_EK"
     }, 
     {
+      "housenumber": "155", 
       "pcode": 2170, 
-      "street": "Laar_EK", 
-      "housenumber": "155"
+      "street": "Laar_EK"
     }, 
     {
+      "housenumber": "374", 
       "pcode": 2170, 
-      "street": "Laar_EK", 
-      "housenumber": "374"
+      "street": "Laar_EK"
     }, 
     {
-      "lat": 51.26885905202096, 
       "housenumber": "93", 
+      "lat": 51.26885905202096, 
+      "lon": 4.448931969958948, 
       "pcode": 2170, 
-      "street": "Laar_EK", 
-      "lon": 4.448931969958948
+      "street": "Laar_EK"
     }, 
     {
-      "lat": 51.26929710271188, 
       "housenumber": "95", 
+      "lat": 51.26929710271188, 
+      "lon": 4.4492458008351425, 
       "pcode": 2170, 
-      "street": "Laar_EK", 
-      "lon": 4.4492458008351425
+      "street": "Laar_EK"
     }, 
     {
-      "lat": 51.268849901432596, 
       "housenumber": "99", 
+      "lat": 51.268849901432596, 
+      "lon": 4.450341258379817, 
       "pcode": 2170, 
-      "street": "Laar_EK", 
-      "lon": 4.450341258379817
+      "street": "Laar_EK"
     }
-  ], 
-  "name": "Laar_EK"
+  ]
 }

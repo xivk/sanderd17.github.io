@@ -1,34 +1,32 @@
 {
-  "pcode": 8760, 
   "addresses": [
     {
-      "lat": 50.9340709302549, 
       "housenumber": "1", 
+      "lat": 50.9340709302549, 
+      "lon": 3.315778839701513, 
       "pcode": 8760, 
-      "street": "Lakenstraat", 
-      "lon": 3.315778839701513
+      "street": "Lakenstraat"
     }, 
     {
-      "lat": 50.93400560173789, 
       "housenumber": "1A", 
+      "lat": 50.93400560173789, 
+      "lon": 3.3143376680654133, 
       "pcode": 8760, 
-      "street": "Lakenstraat", 
-      "lon": 3.3143376680654133
+      "street": "Lakenstraat"
     }, 
     {
-      "lat": 50.93570888519347, 
       "housenumber": "2", 
+      "lat": 50.93570888519347, 
+      "lon": 3.3111548030301163, 
       "pcode": 8760, 
-      "street": "Lakenstraat", 
-      "lon": 3.3111548030301163
+      "street": "Lakenstraat"
     }, 
     {
-      "lat": 50.93343808265063, 
       "housenumber": "3", 
+      "lat": 50.93343808265063, 
+      "lon": 3.3170312104371713, 
       "pcode": 8760, 
-      "street": "Lakenstraat", 
-      "lon": 3.3170312104371713
+      "street": "Lakenstraat"
     }
-  ], 
-  "name": "Lakenstraat"
+  ]
 }

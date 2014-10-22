@@ -1,46 +1,44 @@
 {
-  "pcode": 3020, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3020, 
-      "street": "Zijpstraat", 
-      "housenumber": "1"
+      "street": "Zijpstraat"
     }, 
     {
-      "lat": 50.928102519016875, 
       "housenumber": "125", 
+      "lat": 50.928102519016875, 
+      "lon": 4.677040186715899, 
       "pcode": 3020, 
-      "street": "Zijpstraat", 
-      "lon": 4.677040186715899
+      "street": "Zijpstraat"
     }, 
     {
-      "lat": 50.9293078564791, 
       "housenumber": "130", 
+      "lat": 50.9293078564791, 
+      "lon": 4.677741281075112, 
       "pcode": 3020, 
-      "street": "Zijpstraat", 
-      "lon": 4.677741281075112
+      "street": "Zijpstraat"
     }, 
     {
-      "lat": 50.92888559016155, 
       "housenumber": "155", 
+      "lat": 50.92888559016155, 
+      "lon": 4.679455228441928, 
       "pcode": 3020, 
-      "street": "Zijpstraat", 
-      "lon": 4.679455228441928
+      "street": "Zijpstraat"
     }, 
     {
-      "lat": 50.924302554205596, 
       "housenumber": "3", 
+      "lat": 50.924302554205596, 
+      "lon": 4.676619486000915, 
       "pcode": 3020, 
-      "street": "Zijpstraat", 
-      "lon": 4.676619486000915
+      "street": "Zijpstraat"
     }, 
     {
-      "lat": 50.927221807050444, 
       "housenumber": "95", 
+      "lat": 50.927221807050444, 
+      "lon": 4.676946200132359, 
       "pcode": 3020, 
-      "street": "Zijpstraat", 
-      "lon": 4.676946200132359
+      "street": "Zijpstraat"
     }
-  ], 
-  "name": "Zijpstraat"
+  ]
 }

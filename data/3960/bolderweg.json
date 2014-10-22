@@ -1,20 +1,18 @@
 {
-  "pcode": 3960, 
   "addresses": [
     {
-      "lat": 51.11774235303453, 
       "housenumber": "3", 
+      "lat": 51.11774235303453, 
+      "lon": 5.64891821576153, 
       "pcode": 3960, 
-      "street": "Bolderweg", 
-      "lon": 5.64891821576153
+      "street": "Bolderweg"
     }, 
     {
-      "lat": 51.11748654042491, 
       "housenumber": "7", 
+      "lat": 51.11748654042491, 
+      "lon": 5.64931971849258, 
       "pcode": 3960, 
-      "street": "Bolderweg", 
-      "lon": 5.64931971849258
+      "street": "Bolderweg"
     }
-  ], 
-  "name": "Bolderweg"
+  ]
 }

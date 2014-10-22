@@ -1,39 +1,37 @@
 {
-  "pcode": 9572, 
   "addresses": [
     {
-      "lat": 50.80645850336193, 
       "housenumber": "1", 
+      "lat": 50.80645850336193, 
+      "lon": 3.818680773201562, 
       "pcode": 9572, 
-      "street": "Wagenweg", 
-      "lon": 3.818680773201562
+      "street": "Wagenweg"
     }, 
     {
-      "lat": 50.807104808482265, 
       "housenumber": "2", 
+      "lat": 50.807104808482265, 
+      "lon": 3.8185709323116277, 
       "pcode": 9572, 
-      "street": "Wagenweg", 
-      "lon": 3.8185709323116277
+      "street": "Wagenweg"
     }, 
     {
-      "lat": 50.80243723985368, 
       "housenumber": "3", 
+      "lat": 50.80243723985368, 
+      "lon": 3.815963086125043, 
       "pcode": 9572, 
-      "street": "Wagenweg", 
-      "lon": 3.815963086125043
+      "street": "Wagenweg"
     }, 
     {
+      "housenumber": "30", 
       "pcode": 9572, 
-      "street": "Wagenweg", 
-      "housenumber": "30"
+      "street": "Wagenweg"
     }, 
     {
-      "lat": 50.802113711976894, 
       "housenumber": "4", 
+      "lat": 50.802113711976894, 
+      "lon": 3.8159095697658523, 
       "pcode": 9572, 
-      "street": "Wagenweg", 
-      "lon": 3.8159095697658523
+      "street": "Wagenweg"
     }
-  ], 
-  "name": "Wagenweg"
+  ]
 }

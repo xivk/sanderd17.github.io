@@ -1,18 +1,16 @@
 {
-  "pcode": 2660, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2660, 
-      "street": "Harold Rosherstraat", 
-      "housenumber": "1"
+      "street": "Harold Rosherstraat"
     }, 
     {
-      "lat": 51.18076521999408, 
       "housenumber": "2", 
+      "lat": 51.18076521999408, 
+      "lon": 4.344528506804406, 
       "pcode": 2660, 
-      "street": "Harold Rosherstraat", 
-      "lon": 4.344528506804406
+      "street": "Harold Rosherstraat"
     }
-  ], 
-  "name": "Harold Rosherstraat"
+  ]
 }

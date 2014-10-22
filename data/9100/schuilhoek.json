@@ -1,18 +1,16 @@
 {
-  "pcode": 9100, 
   "addresses": [
     {
+      "housenumber": "4", 
       "pcode": 9100, 
-      "street": "Schuilhoek", 
-      "housenumber": "4"
+      "street": "Schuilhoek"
     }, 
     {
-      "lat": 51.20143907664429, 
       "housenumber": "6", 
+      "lat": 51.20143907664429, 
+      "lon": 4.160409357122837, 
       "pcode": 9100, 
-      "street": "Schuilhoek", 
-      "lon": 4.160409357122837
+      "street": "Schuilhoek"
     }
-  ], 
-  "name": "Schuilhoek"
+  ]
 }

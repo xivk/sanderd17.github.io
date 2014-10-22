@@ -1,20 +1,18 @@
 {
-  "pcode": 2220, 
   "addresses": [
     {
-      "lat": 51.05423528694867, 
       "housenumber": "1", 
+      "lat": 51.05423528694867, 
+      "lon": 4.681592884185842, 
       "pcode": 2220, 
-      "street": "Warandestraat", 
-      "lon": 4.681592884185842
+      "street": "Warandestraat"
     }, 
     {
-      "lat": 51.05495393711874, 
       "housenumber": "3", 
+      "lat": 51.05495393711874, 
+      "lon": 4.677452831152703, 
       "pcode": 2220, 
-      "street": "Warandestraat", 
-      "lon": 4.677452831152703
+      "street": "Warandestraat"
     }
-  ], 
-  "name": "Warandestraat"
+  ]
 }

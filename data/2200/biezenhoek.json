@@ -1,45 +1,43 @@
 {
-  "pcode": 2200, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2200, 
-      "street": "Biezenhoek", 
-      "housenumber": "1"
+      "street": "Biezenhoek"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2200, 
-      "street": "Biezenhoek", 
-      "housenumber": "2"
+      "street": "Biezenhoek"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2200, 
-      "street": "Biezenhoek", 
-      "housenumber": "3"
+      "street": "Biezenhoek"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2200, 
-      "street": "Biezenhoek", 
-      "housenumber": "4"
+      "street": "Biezenhoek"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2200, 
-      "street": "Biezenhoek", 
-      "housenumber": "5"
+      "street": "Biezenhoek"
     }, 
     {
-      "lat": 51.188236804897045, 
       "housenumber": "6", 
+      "lat": 51.188236804897045, 
+      "lon": 4.84620473551622, 
       "pcode": 2200, 
-      "street": "Biezenhoek", 
-      "lon": 4.84620473551622
+      "street": "Biezenhoek"
     }, 
     {
-      "lat": 51.188299880111984, 
       "housenumber": "7", 
+      "lat": 51.188299880111984, 
+      "lon": 4.846188789718335, 
       "pcode": 2200, 
-      "street": "Biezenhoek", 
-      "lon": 4.846188789718335
+      "street": "Biezenhoek"
     }
-  ], 
-  "name": "Biezenhoek"
+  ]
 }

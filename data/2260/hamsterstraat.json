@@ -1,18 +1,16 @@
 {
-  "pcode": 2260, 
   "addresses": [
     {
-      "lat": 51.135520207733244, 
       "housenumber": "3", 
+      "lat": 51.135520207733244, 
+      "lon": 4.883539148240957, 
       "pcode": 2260, 
-      "street": "Hamsterstraat", 
-      "lon": 4.883539148240957
+      "street": "Hamsterstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2260, 
-      "street": "Hamsterstraat", 
-      "housenumber": "8"
+      "street": "Hamsterstraat"
     }
-  ], 
-  "name": "Hamsterstraat"
+  ]
 }

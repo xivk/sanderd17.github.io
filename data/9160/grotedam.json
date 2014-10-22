@@ -1,25 +1,23 @@
 {
-  "pcode": 9160, 
   "addresses": [
     {
-      "lat": 51.10437765449194, 
       "housenumber": "7", 
+      "lat": 51.10437765449194, 
+      "lon": 3.9864514770167028, 
       "pcode": 9160, 
-      "street": "Grote Dam", 
-      "lon": 3.9864514770167028
+      "street": "Grote Dam"
     }, 
     {
-      "lat": 51.10443341724505, 
       "housenumber": "9", 
+      "lat": 51.10443341724505, 
+      "lon": 3.986433460099416, 
       "pcode": 9160, 
-      "street": "Grote Dam", 
-      "lon": 3.986433460099416
+      "street": "Grote Dam"
     }, 
     {
+      "housenumber": "9W", 
       "pcode": 9160, 
-      "street": "Grote Dam", 
-      "housenumber": "9W"
+      "street": "Grote Dam"
     }
-  ], 
-  "name": "Grote Dam"
+  ]
 }

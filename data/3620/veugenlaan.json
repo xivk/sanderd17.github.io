@@ -1,44 +1,42 @@
 {
-  "pcode": 3620, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3620, 
-      "street": "Veugenlaan", 
-      "housenumber": "1"
+      "street": "Veugenlaan"
     }, 
     {
-      "lat": 50.888259216947255, 
       "housenumber": "14", 
+      "lat": 50.888259216947255, 
+      "lon": 5.675477167513689, 
       "pcode": 3620, 
-      "street": "Veugenlaan", 
-      "lon": 5.675477167513689
+      "street": "Veugenlaan"
     }, 
     {
-      "lat": 50.888182808481865, 
       "housenumber": "18", 
+      "lat": 50.888182808481865, 
+      "lon": 5.6757181010227145, 
       "pcode": 3620, 
-      "street": "Veugenlaan", 
-      "lon": 5.6757181010227145
+      "street": "Veugenlaan"
     }, 
     {
-      "lat": 50.88832034794886, 
       "housenumber": "2", 
+      "lat": 50.88832034794886, 
+      "lon": 5.67437144751624, 
       "pcode": 3620, 
-      "street": "Veugenlaan", 
-      "lon": 5.67437144751624
+      "street": "Veugenlaan"
     }, 
     {
+      "housenumber": "23", 
       "pcode": 3620, 
-      "street": "Veugenlaan", 
-      "housenumber": "23"
+      "street": "Veugenlaan"
     }, 
     {
-      "lat": 50.888229179473704, 
       "housenumber": "6", 
+      "lat": 50.888229179473704, 
+      "lon": 5.674832006526974, 
       "pcode": 3620, 
-      "street": "Veugenlaan", 
-      "lon": 5.674832006526974
+      "street": "Veugenlaan"
     }
-  ], 
-  "name": "Veugenlaan"
+  ]
 }

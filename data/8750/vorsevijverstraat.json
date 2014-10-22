@@ -1,20 +1,18 @@
 {
-  "pcode": 8750, 
   "addresses": [
     {
-      "lat": 51.095581914191634, 
       "housenumber": "1", 
+      "lat": 51.095581914191634, 
+      "lon": 3.2910749195447466, 
       "pcode": 8750, 
-      "street": "Vorsevijverstraat", 
-      "lon": 3.2910749195447466
+      "street": "Vorsevijverstraat"
     }, 
     {
-      "lat": 51.092758410063944, 
       "housenumber": "2", 
+      "lat": 51.092758410063944, 
+      "lon": 3.2779670281763114, 
       "pcode": 8750, 
-      "street": "Vorsevijverstraat", 
-      "lon": 3.2779670281763114
+      "street": "Vorsevijverstraat"
     }
-  ], 
-  "name": "Vorsevijverstraat"
+  ]
 }

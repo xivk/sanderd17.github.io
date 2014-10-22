@@ -1,58 +1,56 @@
 {
-  "pcode": 9200, 
   "addresses": [
     {
-      "lat": 51.03168876036511, 
       "housenumber": "1", 
+      "lat": 51.03168876036511, 
+      "lon": 4.0987648676816075, 
       "pcode": 9200, 
-      "street": "Justitieplein", 
-      "lon": 4.0987648676816075
+      "street": "Justitieplein"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 9200, 
-      "street": "Justitieplein", 
-      "housenumber": "11"
+      "street": "Justitieplein"
     }, 
     {
-      "lat": 51.031482809312294, 
       "housenumber": "2", 
+      "lat": 51.031482809312294, 
+      "lon": 4.099507621599001, 
       "pcode": 9200, 
-      "street": "Justitieplein", 
-      "lon": 4.099507621599001
+      "street": "Justitieplein"
     }, 
     {
-      "lat": 51.03169817397957, 
       "housenumber": "3", 
+      "lat": 51.03169817397957, 
+      "lon": 4.098753979333012, 
       "pcode": 9200, 
-      "street": "Justitieplein", 
-      "lon": 4.098753979333012
+      "street": "Justitieplein"
     }, 
     {
-      "lat": 51.0317590703622, 
       "housenumber": "5", 
+      "lat": 51.0317590703622, 
+      "lon": 4.098850281694665, 
       "pcode": 9200, 
-      "street": "Justitieplein", 
-      "lon": 4.098850281694665
+      "street": "Justitieplein"
     }, 
     {
-      "lat": 51.031818093938966, 
       "housenumber": "7", 
+      "lat": 51.031818093938966, 
+      "lon": 4.098913807263328, 
       "pcode": 9200, 
-      "street": "Justitieplein", 
-      "lon": 4.098913807263328
+      "street": "Justitieplein"
     }, 
     {
-      "lat": 51.031745047749915, 
       "housenumber": "9", 
+      "lat": 51.031745047749915, 
+      "lon": 4.0990077435538, 
       "pcode": 9200, 
-      "street": "Justitieplein", 
-      "lon": 4.0990077435538
+      "street": "Justitieplein"
     }, 
     {
+      "housenumber": "9B", 
       "pcode": 9200, 
-      "street": "Justitieplein", 
-      "housenumber": "9B"
+      "street": "Justitieplein"
     }
-  ], 
-  "name": "Justitieplein"
+  ]
 }

@@ -1,34 +1,32 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05779867013542, 
       "housenumber": "1", 
+      "lat": 51.05779867013542, 
+      "lon": 3.725930490304857, 
       "pcode": 9000, 
-      "street": "Garensteeg", 
-      "lon": 3.725930490304857
+      "street": "Garensteeg"
     }, 
     {
-      "lat": 51.057907806501575, 
       "housenumber": "2", 
+      "lat": 51.057907806501575, 
+      "lon": 3.7262286783711533, 
       "pcode": 9000, 
-      "street": "Garensteeg", 
-      "lon": 3.7262286783711533
+      "street": "Garensteeg"
     }, 
     {
-      "lat": 51.05788812358472, 
       "housenumber": "3", 
+      "lat": 51.05788812358472, 
+      "lon": 3.7260643423627253, 
       "pcode": 9000, 
-      "street": "Garensteeg", 
-      "lon": 3.7260643423627253
+      "street": "Garensteeg"
     }, 
     {
-      "lat": 51.05795768271396, 
       "housenumber": "4", 
+      "lat": 51.05795768271396, 
+      "lon": 3.7263085856834643, 
       "pcode": 9000, 
-      "street": "Garensteeg", 
-      "lon": 3.7263085856834643
+      "street": "Garensteeg"
     }
-  ], 
-  "name": "Garensteeg"
+  ]
 }

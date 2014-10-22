@@ -1,54 +1,52 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.84123756749462, 
       "housenumber": "10", 
+      "lat": 50.84123756749462, 
+      "lon": 3.603605519064534, 
       "pcode": 9700, 
-      "street": "De Ham", 
-      "lon": 3.603605519064534
+      "street": "De Ham"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 9700, 
-      "street": "De Ham", 
-      "housenumber": "12"
+      "street": "De Ham"
     }, 
     {
-      "lat": 50.840732608655074, 
       "housenumber": "14", 
+      "lat": 50.840732608655074, 
+      "lon": 3.6038414705565662, 
       "pcode": 9700, 
-      "street": "De Ham", 
-      "lon": 3.6038414705565662
+      "street": "De Ham"
     }, 
     {
+      "housenumber": "16", 
       "pcode": 9700, 
-      "street": "De Ham", 
-      "housenumber": "16"
+      "street": "De Ham"
     }, 
     {
-      "lat": 50.84103943517794, 
       "housenumber": "2", 
+      "lat": 50.84103943517794, 
+      "lon": 3.6035790662435816, 
       "pcode": 9700, 
-      "street": "De Ham", 
-      "lon": 3.6035790662435816
+      "street": "De Ham"
     }, 
     {
-      "lat": 50.840922238052656, 
       "housenumber": "4", 
+      "lat": 50.840922238052656, 
+      "lon": 3.603501319316281, 
       "pcode": 9700, 
-      "street": "De Ham", 
-      "lon": 3.603501319316281
+      "street": "De Ham"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9700, 
-      "street": "De Ham", 
-      "housenumber": "6"
+      "street": "De Ham"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 9700, 
-      "street": "De Ham", 
-      "housenumber": "8"
+      "street": "De Ham"
     }
-  ], 
-  "name": "De Ham"
+  ]
 }

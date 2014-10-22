@@ -1,20 +1,18 @@
 {
-  "pcode": 8750, 
   "addresses": [
     {
-      "lat": 51.056352717738655, 
       "housenumber": "2", 
+      "lat": 51.056352717738655, 
+      "lon": 3.3380339699666224, 
       "pcode": 8750, 
-      "street": "Kleiweg", 
-      "lon": 3.3380339699666224
+      "street": "Kleiweg"
     }, 
     {
-      "lat": 51.05382377192609, 
       "housenumber": "4", 
+      "lat": 51.05382377192609, 
+      "lon": 3.341243876542294, 
       "pcode": 8750, 
-      "street": "Kleiweg", 
-      "lon": 3.341243876542294
+      "street": "Kleiweg"
     }
-  ], 
-  "name": "Kleiweg"
+  ]
 }

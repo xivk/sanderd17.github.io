@@ -1,35 +1,33 @@
 {
-  "pcode": 2070, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2070, 
-      "street": "Half Maan", 
-      "housenumber": "1"
+      "street": "Half Maan"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2070, 
-      "street": "Half Maan", 
-      "housenumber": "2"
+      "street": "Half Maan"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2070, 
-      "street": "Half Maan", 
-      "housenumber": "3"
+      "street": "Half Maan"
     }, 
     {
-      "lat": 51.23075190306274, 
       "housenumber": "4", 
+      "lat": 51.23075190306274, 
+      "lon": 4.298878348826036, 
       "pcode": 2070, 
-      "street": "Half Maan", 
-      "lon": 4.298878348826036
+      "street": "Half Maan"
     }, 
     {
-      "lat": 51.231427035928434, 
       "housenumber": "5", 
+      "lat": 51.231427035928434, 
+      "lon": 4.2990623163457204, 
       "pcode": 2070, 
-      "street": "Half Maan", 
-      "lon": 4.2990623163457204
+      "street": "Half Maan"
     }
-  ], 
-  "name": "Half Maan"
+  ]
 }

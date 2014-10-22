@@ -1,25 +1,23 @@
 {
-  "pcode": 3803, 
   "addresses": [
     {
-      "lat": 50.83601682325404, 
       "housenumber": "1", 
+      "lat": 50.83601682325404, 
+      "lon": 5.1530092882169765, 
       "pcode": 3803, 
-      "street": "Park", 
-      "lon": 5.1530092882169765
+      "street": "Park"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 3803, 
-      "street": "Park", 
-      "housenumber": "1A"
+      "street": "Park"
     }, 
     {
-      "lat": 50.837126012246195, 
       "housenumber": "2", 
+      "lat": 50.837126012246195, 
+      "lon": 5.149469696041808, 
       "pcode": 3803, 
-      "street": "Park", 
-      "lon": 5.149469696041808
+      "street": "Park"
     }
-  ], 
-  "name": "Park"
+  ]
 }

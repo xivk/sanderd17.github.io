@@ -1,39 +1,37 @@
 {
-  "pcode": 8850, 
   "addresses": [
     {
-      "lat": 50.958679312899996, 
       "housenumber": "1", 
+      "lat": 50.958679312899996, 
+      "lon": 3.198287841440705, 
       "pcode": 8850, 
-      "street": "Sterrestraat", 
-      "lon": 3.198287841440705
+      "street": "Sterrestraat"
     }, 
     {
-      "lat": 50.959194440131796, 
       "housenumber": "2", 
+      "lat": 50.959194440131796, 
+      "lon": 3.195794939365505, 
       "pcode": 8850, 
-      "street": "Sterrestraat", 
-      "lon": 3.195794939365505
+      "street": "Sterrestraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8850, 
-      "street": "Sterrestraat", 
-      "housenumber": "3"
+      "street": "Sterrestraat"
     }, 
     {
-      "lat": 50.95878479051775, 
       "housenumber": "4", 
+      "lat": 50.95878479051775, 
+      "lon": 3.196457288132545, 
       "pcode": 8850, 
-      "street": "Sterrestraat", 
-      "lon": 3.196457288132545
+      "street": "Sterrestraat"
     }, 
     {
-      "lat": 50.9584660228932, 
       "housenumber": "6", 
+      "lat": 50.9584660228932, 
+      "lon": 3.1961626177201303, 
       "pcode": 8850, 
-      "street": "Sterrestraat", 
-      "lon": 3.1961626177201303
+      "street": "Sterrestraat"
     }
-  ], 
-  "name": "Sterrestraat"
+  ]
 }

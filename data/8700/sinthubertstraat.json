@@ -1,32 +1,30 @@
 {
-  "pcode": 8700, 
   "addresses": [
     {
-      "lat": 51.001621523608556, 
       "housenumber": "1", 
+      "lat": 51.001621523608556, 
+      "lon": 3.401188349614813, 
       "pcode": 8700, 
-      "street": "Sint-Hubertstraat", 
-      "lon": 3.401188349614813
+      "street": "Sint-Hubertstraat"
     }, 
     {
-      "lat": 51.001289457557, 
       "housenumber": "3", 
+      "lat": 51.001289457557, 
+      "lon": 3.403140114377723, 
       "pcode": 8700, 
-      "street": "Sint-Hubertstraat", 
-      "lon": 3.403140114377723
+      "street": "Sint-Hubertstraat"
     }, 
     {
-      "lat": 51.00054203701109, 
       "housenumber": "4", 
+      "lat": 51.00054203701109, 
+      "lon": 3.40547751046241, 
       "pcode": 8700, 
-      "street": "Sint-Hubertstraat", 
-      "lon": 3.40547751046241
+      "street": "Sint-Hubertstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8700, 
-      "street": "Sint-Hubertstraat", 
-      "housenumber": "5"
+      "street": "Sint-Hubertstraat"
     }
-  ], 
-  "name": "Sint-Hubertstraat"
+  ]
 }

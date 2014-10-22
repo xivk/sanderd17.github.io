@@ -1,20 +1,18 @@
 {
-  "pcode": 8570, 
   "addresses": [
     {
-      "lat": 50.838169966502086, 
       "housenumber": "1", 
+      "lat": 50.838169966502086, 
+      "lon": 3.4148039416354363, 
       "pcode": 8570, 
-      "street": "Klaverstraat", 
-      "lon": 3.4148039416354363
+      "street": "Klaverstraat"
     }, 
     {
-      "lat": 50.838326894616664, 
       "housenumber": "3", 
+      "lat": 50.838326894616664, 
+      "lon": 3.4146992442162127, 
       "pcode": 8570, 
-      "street": "Klaverstraat", 
-      "lon": 3.4146992442162127
+      "street": "Klaverstraat"
     }
-  ], 
-  "name": "Klaverstraat"
+  ]
 }

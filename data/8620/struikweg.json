@@ -1,20 +1,18 @@
 {
-  "pcode": 8620, 
   "addresses": [
     {
-      "lat": 51.14363952871728, 
       "housenumber": "1", 
+      "lat": 51.14363952871728, 
+      "lon": 2.72201244852354, 
       "pcode": 8620, 
-      "street": "Struikweg", 
-      "lon": 2.72201244852354
+      "street": "Struikweg"
     }, 
     {
-      "lat": 51.143354736797335, 
       "housenumber": "3", 
+      "lat": 51.143354736797335, 
+      "lon": 2.722253748003376, 
       "pcode": 8620, 
-      "street": "Struikweg", 
-      "lon": 2.722253748003376
+      "street": "Struikweg"
     }
-  ], 
-  "name": "Struikweg"
+  ]
 }

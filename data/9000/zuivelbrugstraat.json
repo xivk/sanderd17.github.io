@@ -1,32 +1,30 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05759138115495, 
       "housenumber": "1", 
+      "lat": 51.05759138115495, 
+      "lon": 3.723889180805405, 
       "pcode": 9000, 
-      "street": "Zuivelbrugstraat", 
-      "lon": 3.723889180805405
+      "street": "Zuivelbrugstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9000, 
-      "street": "Zuivelbrugstraat", 
-      "housenumber": "4"
+      "street": "Zuivelbrugstraat"
     }, 
     {
-      "lat": 51.05774494467362, 
       "housenumber": "6", 
+      "lat": 51.05774494467362, 
+      "lon": 3.7241078721178638, 
       "pcode": 9000, 
-      "street": "Zuivelbrugstraat", 
-      "lon": 3.7241078721178638
+      "street": "Zuivelbrugstraat"
     }, 
     {
-      "lat": 51.057793829238506, 
       "housenumber": "8", 
+      "lat": 51.057793829238506, 
+      "lon": 3.723940311454192, 
       "pcode": 9000, 
-      "street": "Zuivelbrugstraat", 
-      "lon": 3.723940311454192
+      "street": "Zuivelbrugstraat"
     }
-  ], 
-  "name": "Zuivelbrugstraat"
+  ]
 }

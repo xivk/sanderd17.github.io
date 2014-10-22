@@ -1,20 +1,18 @@
 {
-  "pcode": 2900, 
   "addresses": [
     {
-      "lat": 51.27045819125116, 
       "housenumber": "97", 
+      "lat": 51.27045819125116, 
+      "lon": 4.482348141629728, 
       "pcode": 2900, 
-      "street": "Bremdonckdreef", 
-      "lon": 4.482348141629728
+      "street": "Bremdonckdreef"
     }, 
     {
-      "lat": 51.27078057161341, 
       "housenumber": "99", 
+      "lat": 51.27078057161341, 
+      "lon": 4.4822830210028135, 
       "pcode": 2900, 
-      "street": "Bremdonckdreef", 
-      "lon": 4.4822830210028135
+      "street": "Bremdonckdreef"
     }
-  ], 
-  "name": "Bremdonckdreef"
+  ]
 }

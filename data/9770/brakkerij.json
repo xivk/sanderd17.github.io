@@ -1,20 +1,18 @@
 {
-  "pcode": 9770, 
   "addresses": [
     {
-      "lat": 50.935640970302245, 
       "housenumber": "1", 
+      "lat": 50.935640970302245, 
+      "lon": 3.5289977338574476, 
       "pcode": 9770, 
-      "street": "Brakkerij", 
-      "lon": 3.5289977338574476
+      "street": "Brakkerij"
     }, 
     {
-      "lat": 50.93650170041776, 
       "housenumber": "3", 
+      "lat": 50.93650170041776, 
+      "lon": 3.5332824347119485, 
       "pcode": 9770, 
-      "street": "Brakkerij", 
-      "lon": 3.5332824347119485
+      "street": "Brakkerij"
     }
-  ], 
-  "name": "Brakkerij"
+  ]
 }

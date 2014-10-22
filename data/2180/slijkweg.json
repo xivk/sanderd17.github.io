@@ -1,28 +1,26 @@
 {
-  "pcode": 2180, 
   "addresses": [
     {
+      "housenumber": "13", 
       "pcode": 2180, 
-      "street": "Slijkweg", 
-      "housenumber": "13"
+      "street": "Slijkweg"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2180, 
-      "street": "Slijkweg", 
-      "housenumber": "2"
+      "street": "Slijkweg"
     }, 
     {
-      "lat": 51.30091044366872, 
       "housenumber": "5", 
+      "lat": 51.30091044366872, 
+      "lon": 4.408679554272205, 
       "pcode": 2180, 
-      "street": "Slijkweg", 
-      "lon": 4.408679554272205
+      "street": "Slijkweg"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2180, 
-      "street": "Slijkweg", 
-      "housenumber": "7"
+      "street": "Slijkweg"
     }
-  ], 
-  "name": "Slijkweg"
+  ]
 }

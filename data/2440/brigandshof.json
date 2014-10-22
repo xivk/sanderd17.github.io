@@ -1,42 +1,40 @@
 {
-  "pcode": 2440, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2440, 
-      "street": "Brigandshof", 
-      "housenumber": "1"
+      "street": "Brigandshof"
     }, 
     {
-      "lat": 51.166146951685626, 
       "housenumber": "2", 
+      "lat": 51.166146951685626, 
+      "lon": 4.985579678423633, 
       "pcode": 2440, 
-      "street": "Brigandshof", 
-      "lon": 4.985579678423633
+      "street": "Brigandshof"
     }, 
     {
-      "lat": 51.16220566711491, 
       "housenumber": "3", 
+      "lat": 51.16220566711491, 
+      "lon": 4.985943411773541, 
       "pcode": 2440, 
-      "street": "Brigandshof", 
-      "lon": 4.985943411773541
+      "street": "Brigandshof"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2440, 
-      "street": "Brigandshof", 
-      "housenumber": "4"
+      "street": "Brigandshof"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2440, 
-      "street": "Brigandshof", 
-      "housenumber": "5"
+      "street": "Brigandshof"
     }, 
     {
-      "lat": 51.16624616699003, 
       "housenumber": "6", 
+      "lat": 51.16624616699003, 
+      "lon": 4.985497925182344, 
       "pcode": 2440, 
-      "street": "Brigandshof", 
-      "lon": 4.985497925182344
+      "street": "Brigandshof"
     }
-  ], 
-  "name": "Brigandshof"
+  ]
 }

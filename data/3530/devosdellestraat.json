@@ -1,20 +1,18 @@
 {
-  "pcode": 3530, 
   "addresses": [
     {
-      "lat": 51.037989341121595, 
       "housenumber": "1", 
+      "lat": 51.037989341121595, 
+      "lon": 5.362747174379133, 
       "pcode": 3530, 
-      "street": "De Vosdellestraat", 
-      "lon": 5.362747174379133
+      "street": "De Vosdellestraat"
     }, 
     {
-      "lat": 51.038941239893205, 
       "housenumber": "15", 
+      "lat": 51.038941239893205, 
+      "lon": 5.362346192982787, 
       "pcode": 3530, 
-      "street": "De Vosdellestraat", 
-      "lon": 5.362346192982787
+      "street": "De Vosdellestraat"
     }
-  ], 
-  "name": "De Vosdellestraat"
+  ]
 }

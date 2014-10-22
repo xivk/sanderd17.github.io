@@ -1,27 +1,25 @@
 {
-  "pcode": 3990, 
   "addresses": [
     {
-      "lat": 51.13377034042399, 
       "housenumber": "1", 
+      "lat": 51.13377034042399, 
+      "lon": 5.4937982197843995, 
       "pcode": 3990, 
-      "street": "Vaeshofweg", 
-      "lon": 5.4937982197843995
+      "street": "Vaeshofweg"
     }, 
     {
-      "lat": 51.13230857238796, 
       "housenumber": "2", 
+      "lat": 51.13230857238796, 
+      "lon": 5.505352538368092, 
       "pcode": 3990, 
-      "street": "Vaeshofweg", 
-      "lon": 5.505352538368092
+      "street": "Vaeshofweg"
     }, 
     {
-      "lat": 51.13210021046726, 
       "housenumber": "3", 
+      "lat": 51.13210021046726, 
+      "lon": 5.505807388333793, 
       "pcode": 3990, 
-      "street": "Vaeshofweg", 
-      "lon": 5.505807388333793
+      "street": "Vaeshofweg"
     }
-  ], 
-  "name": "Vaeshofweg"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 50.998526447577255, 
       "housenumber": "1", 
+      "lat": 50.998526447577255, 
+      "lon": 3.502696221727022, 
       "pcode": 9800, 
-      "street": "Processiestraat", 
-      "lon": 3.502696221727022
+      "street": "Processiestraat"
     }, 
     {
-      "lat": 50.99821367447321, 
       "housenumber": "11", 
+      "lat": 50.99821367447321, 
+      "lon": 3.5018137468289683, 
       "pcode": 9800, 
-      "street": "Processiestraat", 
-      "lon": 3.5018137468289683
+      "street": "Processiestraat"
     }, 
     {
-      "lat": 50.962777674599224, 
       "housenumber": "2", 
+      "lat": 50.962777674599224, 
+      "lon": 3.524030254505666, 
       "pcode": 9800, 
-      "street": "Processiestraat", 
-      "lon": 3.524030254505666
+      "street": "Processiestraat"
     }
-  ], 
-  "name": "Processiestraat"
+  ]
 }

@@ -1,67 +1,67 @@
 {
   "streets": [
     {
-      "latmax": 50.896505784763676, 
+      "b": 50.893302870898594, 
+      "l": 5.54998336588109, 
       "name": "Heiken", 
-      "lonmin": 5.54998336588109, 
-      "sanName": "heiken", 
       "numOfAddr": 10, 
-      "lonmax": 5.553462828425129, 
-      "latmin": 50.893302870898594
+      "r": 5.553462828425129, 
+      "sanName": "heiken", 
+      "t": 50.896505784763676
     }, 
     {
-      "latmax": 50.87786047103204, 
+      "b": 50.866863318005215, 
+      "l": 5.55551720998299, 
       "name": "Hoelbeekstraat", 
-      "lonmin": 5.55551720998299, 
-      "sanName": "hoelbeekstraat", 
       "numOfAddr": 122, 
-      "lonmax": 5.561708958425034, 
-      "latmin": 50.866863318005215
+      "r": 5.561708958425034, 
+      "sanName": "hoelbeekstraat", 
+      "t": 50.87786047103204
     }, 
     {
-      "latmax": 50.87532408134901, 
+      "b": 50.87408397618739, 
+      "l": 5.554043226118692, 
       "name": "Jonckholtstraat", 
-      "lonmin": 5.554043226118692, 
-      "sanName": "jonckholtstraat", 
       "numOfAddr": 21, 
-      "lonmax": 5.55875128795767, 
-      "latmin": 50.87408397618739
+      "r": 5.55875128795767, 
+      "sanName": "jonckholtstraat", 
+      "t": 50.87532408134901
     }, 
     {
-      "latmax": 50.862960549772055, 
+      "b": 50.862237369314585, 
+      "l": 5.552917008558997, 
       "name": "Maastrichterstraat", 
-      "lonmin": 5.552917008558997, 
-      "sanName": "maastrichterstraat", 
       "numOfAddr": 11, 
-      "lonmax": 5.556408511965677, 
-      "latmin": 50.862237369314585
+      "r": 5.556408511965677, 
+      "sanName": "maastrichterstraat", 
+      "t": 50.862960549772055
     }, 
     {
-      "latmax": 50.87201476549024, 
+      "b": 50.87196341123028, 
+      "l": 5.555022187174766, 
       "name": "Puthofstraat", 
-      "lonmin": 5.555022187174766, 
-      "sanName": "puthofstraat", 
       "numOfAddr": 2, 
-      "lonmax": 5.555242584380872, 
-      "latmin": 50.87196341123028
+      "r": 5.555242584380872, 
+      "sanName": "puthofstraat", 
+      "t": 50.87201476549024
     }, 
     {
-      "latmax": 50.874087612464045, 
+      "b": 50.871858112552445, 
+      "l": 5.558556086420414, 
       "name": "Rageveldstraat", 
-      "lonmin": 5.558556086420414, 
-      "sanName": "rageveldstraat", 
       "numOfAddr": 42, 
-      "lonmax": 5.562459081368832, 
-      "latmin": 50.871858112552445
+      "r": 5.562459081368832, 
+      "sanName": "rageveldstraat", 
+      "t": 50.874087612464045
     }, 
     {
-      "latmax": 50.892321008387334, 
+      "b": 50.89022067327306, 
+      "l": 5.54258774076323, 
       "name": "Zangerheistraat", 
-      "lonmin": 5.54258774076323, 
-      "sanName": "zangerheistraat", 
       "numOfAddr": 5, 
-      "lonmax": 5.560594872081899, 
-      "latmin": 50.89022067327306
+      "r": 5.560594872081899, 
+      "sanName": "zangerheistraat", 
+      "t": 50.892321008387334
     }
   ]
 }

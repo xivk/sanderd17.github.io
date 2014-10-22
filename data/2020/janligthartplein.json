@@ -1,81 +1,79 @@
 {
-  "pcode": 2020, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2020, 
-      "street": "Jan Ligthartplein", 
-      "housenumber": "1"
+      "street": "Jan Ligthartplein"
     }, 
     {
-      "lat": 51.18724793560788, 
       "housenumber": "10", 
-      "pcode": 2020, 
-      "street": "Jan Ligthartplein", 
-      "lon": 4.388596225563572
-    }, 
-    {
-      "pcode": 2020, 
-      "street": "Jan Ligthartplein", 
-      "housenumber": "11"
-    }, 
-    {
-      "pcode": 2020, 
-      "street": "Jan Ligthartplein", 
-      "housenumber": "12"
-    }, 
-    {
-      "pcode": 2020, 
-      "street": "Jan Ligthartplein", 
-      "housenumber": "12A"
-    }, 
-    {
-      "lat": 51.187228525757874, 
-      "housenumber": "2", 
-      "pcode": 2020, 
-      "street": "Jan Ligthartplein", 
-      "lon": 4.388565608703925
-    }, 
-    {
-      "lat": 51.18768339361294, 
-      "housenumber": "3", 
-      "pcode": 2020, 
-      "street": "Jan Ligthartplein", 
-      "lon": 4.388277744345614
-    }, 
-    {
       "lat": 51.18724793560788, 
-      "housenumber": "4", 
+      "lon": 4.388596225563572, 
       "pcode": 2020, 
-      "street": "Jan Ligthartplein", 
-      "lon": 4.388596225563572
+      "street": "Jan Ligthartplein"
     }, 
     {
+      "housenumber": "11", 
+      "pcode": 2020, 
+      "street": "Jan Ligthartplein"
+    }, 
+    {
+      "housenumber": "12", 
+      "pcode": 2020, 
+      "street": "Jan Ligthartplein"
+    }, 
+    {
+      "housenumber": "12A", 
+      "pcode": 2020, 
+      "street": "Jan Ligthartplein"
+    }, 
+    {
+      "housenumber": "2", 
+      "lat": 51.187228525757874, 
+      "lon": 4.388565608703925, 
+      "pcode": 2020, 
+      "street": "Jan Ligthartplein"
+    }, 
+    {
+      "housenumber": "3", 
       "lat": 51.18768339361294, 
+      "lon": 4.388277744345614, 
+      "pcode": 2020, 
+      "street": "Jan Ligthartplein"
+    }, 
+    {
+      "housenumber": "4", 
+      "lat": 51.18724793560788, 
+      "lon": 4.388596225563572, 
+      "pcode": 2020, 
+      "street": "Jan Ligthartplein"
+    }, 
+    {
       "housenumber": "5", 
+      "lat": 51.18768339361294, 
+      "lon": 4.388277744345614, 
       "pcode": 2020, 
-      "street": "Jan Ligthartplein", 
-      "lon": 4.388277744345614
+      "street": "Jan Ligthartplein"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2020, 
-      "street": "Jan Ligthartplein", 
-      "housenumber": "6"
+      "street": "Jan Ligthartplein"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2020, 
-      "street": "Jan Ligthartplein", 
-      "housenumber": "7"
+      "street": "Jan Ligthartplein"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2020, 
-      "street": "Jan Ligthartplein", 
-      "housenumber": "8"
+      "street": "Jan Ligthartplein"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 2020, 
-      "street": "Jan Ligthartplein", 
-      "housenumber": "9"
+      "street": "Jan Ligthartplein"
     }
-  ], 
-  "name": "Jan Ligthartplein"
+  ]
 }

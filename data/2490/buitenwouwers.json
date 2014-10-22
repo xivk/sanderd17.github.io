@@ -1,20 +1,18 @@
 {
-  "pcode": 2490, 
   "addresses": [
     {
-      "lat": 51.16640760284248, 
       "housenumber": "2", 
+      "lat": 51.16640760284248, 
+      "lon": 5.135024413030562, 
       "pcode": 2490, 
-      "street": "Buitenwouwers", 
-      "lon": 5.135024413030562
+      "street": "Buitenwouwers"
     }, 
     {
-      "lat": 51.166127160247626, 
       "housenumber": "3", 
+      "lat": 51.166127160247626, 
+      "lon": 5.13450967971992, 
       "pcode": 2490, 
-      "street": "Buitenwouwers", 
-      "lon": 5.13450967971992
+      "street": "Buitenwouwers"
     }
-  ], 
-  "name": "Buitenwouwers"
+  ]
 }

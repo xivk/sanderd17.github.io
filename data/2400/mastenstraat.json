@@ -1,27 +1,25 @@
 {
-  "pcode": 2400, 
   "addresses": [
     {
-      "lat": 51.197153358719575, 
       "housenumber": "6", 
+      "lat": 51.197153358719575, 
+      "lon": 5.1062650465187325, 
       "pcode": 2400, 
-      "street": "Mastenstraat", 
-      "lon": 5.1062650465187325
+      "street": "Mastenstraat"
     }, 
     {
-      "lat": 51.197073108707805, 
       "housenumber": "8", 
+      "lat": 51.197073108707805, 
+      "lon": 5.105873061341289, 
       "pcode": 2400, 
-      "street": "Mastenstraat", 
-      "lon": 5.105873061341289
+      "street": "Mastenstraat"
     }, 
     {
-      "lat": 51.194625351764785, 
       "housenumber": "91", 
+      "lat": 51.194625351764785, 
+      "lon": 5.10162583496956, 
       "pcode": 2400, 
-      "street": "Mastenstraat", 
-      "lon": 5.10162583496956
+      "street": "Mastenstraat"
     }
-  ], 
-  "name": "Mastenstraat"
+  ]
 }

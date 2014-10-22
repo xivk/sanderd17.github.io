@@ -1,18 +1,16 @@
 {
-  "pcode": 3920, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3920, 
-      "street": "Kiezelvenstraat", 
-      "housenumber": "10"
+      "street": "Kiezelvenstraat"
     }, 
     {
-      "lat": 51.22327610436844, 
       "housenumber": "16", 
+      "lat": 51.22327610436844, 
+      "lon": 5.350947971866363, 
       "pcode": 3920, 
-      "street": "Kiezelvenstraat", 
-      "lon": 5.350947971866363
+      "street": "Kiezelvenstraat"
     }
-  ], 
-  "name": "Kiezelvenstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8810, 
   "addresses": [
     {
-      "lat": 51.01554275551528, 
       "housenumber": "2", 
+      "lat": 51.01554275551528, 
+      "lon": 3.1611307774393476, 
       "pcode": 8810, 
-      "street": "Diksmuidseboterweg", 
-      "lon": 3.1611307774393476
+      "street": "Diksmuidseboterweg"
     }, 
     {
-      "lat": 51.01343274143663, 
       "housenumber": "4", 
+      "lat": 51.01343274143663, 
+      "lon": 3.1581707607596896, 
       "pcode": 8810, 
-      "street": "Diksmuidseboterweg", 
-      "lon": 3.1581707607596896
+      "street": "Diksmuidseboterweg"
     }
-  ], 
-  "name": "Diksmuidseboterweg"
+  ]
 }

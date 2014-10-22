@@ -1,18 +1,16 @@
 {
-  "pcode": 8501, 
   "addresses": [
     {
-      "lat": 50.823556508867554, 
       "housenumber": "1", 
+      "lat": 50.823556508867554, 
+      "lon": 3.2277697306793787, 
       "pcode": 8501, 
-      "street": "Rietput", 
-      "lon": 3.2277697306793787
+      "street": "Rietput"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 8501, 
-      "street": "Rietput", 
-      "housenumber": "6"
+      "street": "Rietput"
     }
-  ], 
-  "name": "Rietput"
+  ]
 }

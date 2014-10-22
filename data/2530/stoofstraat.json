@@ -1,20 +1,18 @@
 {
-  "pcode": 2530, 
   "addresses": [
     {
-      "lat": 51.158730646424345, 
       "housenumber": "4", 
+      "lat": 51.158730646424345, 
+      "lon": 4.523838006658814, 
       "pcode": 2530, 
-      "street": "Stoofstraat", 
-      "lon": 4.523838006658814
+      "street": "Stoofstraat"
     }, 
     {
-      "lat": 51.15773947508663, 
       "housenumber": "6", 
+      "lat": 51.15773947508663, 
+      "lon": 4.523562257166888, 
       "pcode": 2530, 
-      "street": "Stoofstraat", 
-      "lon": 4.523562257166888
+      "street": "Stoofstraat"
     }
-  ], 
-  "name": "Stoofstraat"
+  ]
 }

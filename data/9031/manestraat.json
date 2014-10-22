@@ -1,20 +1,18 @@
 {
-  "pcode": 9031, 
   "addresses": [
     {
-      "lat": 51.04587427990284, 
       "housenumber": "2", 
+      "lat": 51.04587427990284, 
+      "lon": 3.6223656473025203, 
       "pcode": 9031, 
-      "street": "Manestraat", 
-      "lon": 3.6223656473025203
+      "street": "Manestraat"
     }, 
     {
-      "lat": 51.046195218635276, 
       "housenumber": "4", 
+      "lat": 51.046195218635276, 
+      "lon": 3.6219140354716837, 
       "pcode": 9031, 
-      "street": "Manestraat", 
-      "lon": 3.6219140354716837
+      "street": "Manestraat"
     }
-  ], 
-  "name": "Manestraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.35077785933962, 
       "housenumber": "1", 
+      "lat": 51.35077785933962, 
+      "lon": 3.3117802742041356, 
       "pcode": 8300, 
-      "street": "Marcellaan", 
-      "lon": 3.3117802742041356
+      "street": "Marcellaan"
     }, 
     {
-      "lat": 51.35090384087412, 
       "housenumber": "2", 
+      "lat": 51.35090384087412, 
+      "lon": 3.3124417499344077, 
       "pcode": 8300, 
-      "street": "Marcellaan", 
-      "lon": 3.3124417499344077
+      "street": "Marcellaan"
     }, 
     {
-      "lat": 51.351182114867115, 
       "housenumber": "4", 
+      "lat": 51.351182114867115, 
+      "lon": 3.3125405090788713, 
       "pcode": 8300, 
-      "street": "Marcellaan", 
-      "lon": 3.3125405090788713
+      "street": "Marcellaan"
     }
-  ], 
-  "name": "Marcellaan"
+  ]
 }

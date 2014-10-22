@@ -1,20 +1,18 @@
 {
-  "pcode": 9870, 
   "addresses": [
     {
-      "lat": 50.95038232144915, 
       "housenumber": "1", 
+      "lat": 50.95038232144915, 
+      "lon": 3.4802894903659096, 
       "pcode": 9870, 
-      "street": "Weidestraat", 
-      "lon": 3.4802894903659096
+      "street": "Weidestraat"
     }, 
     {
-      "lat": 50.9490570236089, 
       "housenumber": "2", 
+      "lat": 50.9490570236089, 
+      "lon": 3.4835913408376378, 
       "pcode": 9870, 
-      "street": "Weidestraat", 
-      "lon": 3.4835913408376378
+      "street": "Weidestraat"
     }
-  ], 
-  "name": "Weidestraat"
+  ]
 }

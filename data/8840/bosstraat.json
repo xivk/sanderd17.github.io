@@ -1,27 +1,25 @@
 {
-  "pcode": 8840, 
   "addresses": [
     {
-      "lat": 50.923240761680034, 
       "housenumber": "1", 
+      "lat": 50.923240761680034, 
+      "lon": 3.0600065181276848, 
       "pcode": 8840, 
-      "street": "Bosstraat", 
-      "lon": 3.0600065181276848
+      "street": "Bosstraat"
     }, 
     {
-      "lat": 50.923677760146546, 
       "housenumber": "2", 
+      "lat": 50.923677760146546, 
+      "lon": 3.0602936271938326, 
       "pcode": 8840, 
-      "street": "Bosstraat", 
-      "lon": 3.0602936271938326
+      "street": "Bosstraat"
     }, 
     {
-      "lat": 50.92442075273876, 
       "housenumber": "3", 
+      "lat": 50.92442075273876, 
+      "lon": 3.0634956061372955, 
       "pcode": 8840, 
-      "street": "Bosstraat", 
-      "lon": 3.0634956061372955
+      "street": "Bosstraat"
     }
-  ], 
-  "name": "Bosstraat"
+  ]
 }

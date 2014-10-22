@@ -1,34 +1,32 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.04285809827897, 
       "housenumber": "1", 
+      "lat": 51.04285809827897, 
+      "lon": 3.7250695630733177, 
       "pcode": 9000, 
-      "street": "Sint-Amandplein", 
-      "lon": 3.7250695630733177
+      "street": "Sint-Amandplein"
     }, 
     {
-      "lat": 51.04216998957585, 
       "housenumber": "2", 
+      "lat": 51.04216998957585, 
+      "lon": 3.7251725554259507, 
       "pcode": 9000, 
-      "street": "Sint-Amandplein", 
-      "lon": 3.7251725554259507
+      "street": "Sint-Amandplein"
     }, 
     {
-      "lat": 51.04285634185793, 
       "housenumber": "3", 
+      "lat": 51.04285634185793, 
+      "lon": 3.7252747795571675, 
       "pcode": 9000, 
-      "street": "Sint-Amandplein", 
-      "lon": 3.7252747795571675
+      "street": "Sint-Amandplein"
     }, 
     {
-      "lat": 51.04217157792551, 
       "housenumber": "4", 
+      "lat": 51.04217157792551, 
+      "lon": 3.7252988697936513, 
       "pcode": 9000, 
-      "street": "Sint-Amandplein", 
-      "lon": 3.7252988697936513
+      "street": "Sint-Amandplein"
     }
-  ], 
-  "name": "Sint-Amandplein"
+  ]
 }

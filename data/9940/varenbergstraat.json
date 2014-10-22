@@ -1,20 +1,18 @@
 {
-  "pcode": 9940, 
   "addresses": [
     {
-      "lat": 51.12762253431527, 
       "housenumber": "1", 
+      "lat": 51.12762253431527, 
+      "lon": 3.7469896814960233, 
       "pcode": 9940, 
-      "street": "Varenbergstraat", 
-      "lon": 3.7469896814960233
+      "street": "Varenbergstraat"
     }, 
     {
-      "lat": 51.12378785639789, 
       "housenumber": "2", 
+      "lat": 51.12378785639789, 
+      "lon": 3.7502675564574797, 
       "pcode": 9940, 
-      "street": "Varenbergstraat", 
-      "lon": 3.7502675564574797
+      "street": "Varenbergstraat"
     }
-  ], 
-  "name": "Varenbergstraat"
+  ]
 }

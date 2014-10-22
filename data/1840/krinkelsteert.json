@@ -1,34 +1,32 @@
 {
-  "pcode": 1840, 
   "addresses": [
     {
-      "lat": 50.990497683345765, 
       "housenumber": "1", 
+      "lat": 50.990497683345765, 
+      "lon": 4.289196064635418, 
       "pcode": 1840, 
-      "street": "Krinkelsteert", 
-      "lon": 4.289196064635418
+      "street": "Krinkelsteert"
     }, 
     {
+      "housenumber": "2", 
       "lat": 50.98882114001189, 
-      "housenumber": "2", 
+      "lon": 4.286977213474588, 
       "pcode": 1840, 
-      "street": "Krinkelsteert", 
-      "lon": 4.286977213474588
+      "street": "Krinkelsteert"
     }, 
     {
+      "housenumber": "2", 
       "lat": 50.99016431220101, 
-      "housenumber": "2", 
+      "lon": 4.287786872159129, 
       "pcode": 1840, 
-      "street": "Krinkelsteert", 
-      "lon": 4.287786872159129
+      "street": "Krinkelsteert"
     }, 
     {
-      "lat": 50.989630565795565, 
       "housenumber": "3", 
+      "lat": 50.989630565795565, 
+      "lon": 4.28717193426781, 
       "pcode": 1840, 
-      "street": "Krinkelsteert", 
-      "lon": 4.28717193426781
+      "street": "Krinkelsteert"
     }
-  ], 
-  "name": "Krinkelsteert"
+  ]
 }

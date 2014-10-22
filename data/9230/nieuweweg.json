@@ -1,27 +1,25 @@
 {
-  "pcode": 9230, 
   "addresses": [
     {
-      "lat": 51.00984578581768, 
       "housenumber": "1", 
+      "lat": 51.00984578581768, 
+      "lon": 3.847297760364689, 
       "pcode": 9230, 
-      "street": "Nieuwe Weg", 
-      "lon": 3.847297760364689
+      "street": "Nieuwe Weg"
     }, 
     {
-      "lat": 51.00995924843667, 
       "housenumber": "3", 
+      "lat": 51.00995924843667, 
+      "lon": 3.8470783440989047, 
       "pcode": 9230, 
-      "street": "Nieuwe Weg", 
-      "lon": 3.8470783440989047
+      "street": "Nieuwe Weg"
     }, 
     {
-      "lat": 51.01017671358576, 
       "housenumber": "7", 
+      "lat": 51.01017671358576, 
+      "lon": 3.846188767691989, 
       "pcode": 9230, 
-      "street": "Nieuwe Weg", 
-      "lon": 3.846188767691989
+      "street": "Nieuwe Weg"
     }
-  ], 
-  "name": "Nieuwe Weg"
+  ]
 }

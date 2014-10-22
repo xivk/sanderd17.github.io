@@ -1,20 +1,18 @@
 {
-  "pcode": 9401, 
   "addresses": [
     {
-      "lat": 50.81245141565993, 
       "housenumber": "109", 
+      "lat": 50.81245141565993, 
+      "lon": 4.003607796833005, 
       "pcode": 9401, 
-      "street": "Neuringen", 
-      "lon": 4.003607796833005
+      "street": "Neuringen"
     }, 
     {
-      "lat": 50.81193498458025, 
       "housenumber": "118", 
+      "lat": 50.81193498458025, 
+      "lon": 4.005791230026637, 
       "pcode": 9401, 
-      "street": "Neuringen", 
-      "lon": 4.005791230026637
+      "street": "Neuringen"
     }
-  ], 
-  "name": "Neuringen"
+  ]
 }

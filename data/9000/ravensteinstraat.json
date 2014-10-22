@@ -1,27 +1,25 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05402721829427, 
       "housenumber": "1", 
+      "lat": 51.05402721829427, 
+      "lon": 3.7193336463764615, 
       "pcode": 9000, 
-      "street": "Ravensteinstraat", 
-      "lon": 3.7193336463764615
+      "street": "Ravensteinstraat"
     }, 
     {
-      "lat": 51.0540951878285, 
       "housenumber": "12", 
+      "lat": 51.0540951878285, 
+      "lon": 3.718813395361584, 
       "pcode": 9000, 
-      "street": "Ravensteinstraat", 
-      "lon": 3.718813395361584
+      "street": "Ravensteinstraat"
     }, 
     {
-      "lat": 51.054422849667525, 
       "housenumber": "2", 
+      "lat": 51.054422849667525, 
+      "lon": 3.719466654636064, 
       "pcode": 9000, 
-      "street": "Ravensteinstraat", 
-      "lon": 3.719466654636064
+      "street": "Ravensteinstraat"
     }
-  ], 
-  "name": "Ravensteinstraat"
+  ]
 }

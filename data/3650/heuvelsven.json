@@ -1,18 +1,16 @@
 {
-  "pcode": 3650, 
   "addresses": [
     {
-      "lat": 51.01650478774786, 
       "housenumber": "1", 
+      "lat": 51.01650478774786, 
+      "lon": 5.648440436422327, 
       "pcode": 3650, 
-      "street": "Heuvelsven", 
-      "lon": 5.648440436422327
+      "street": "Heuvelsven"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 3650, 
-      "street": "Heuvelsven", 
-      "housenumber": "1A"
+      "street": "Heuvelsven"
     }
-  ], 
-  "name": "Heuvelsven"
+  ]
 }

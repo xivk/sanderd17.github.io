@@ -1,20 +1,18 @@
 {
-  "pcode": 9050, 
   "addresses": [
     {
-      "lat": 51.03729136395098, 
       "housenumber": "1", 
+      "lat": 51.03729136395098, 
+      "lon": 3.7435931553596635, 
       "pcode": 9050, 
-      "street": "Prosper Vincentstraat", 
-      "lon": 3.7435931553596635
+      "street": "Prosper Vincentstraat"
     }, 
     {
-      "lat": 51.037171842259575, 
       "housenumber": "2", 
+      "lat": 51.037171842259575, 
+      "lon": 3.743701681776537, 
       "pcode": 9050, 
-      "street": "Prosper Vincentstraat", 
-      "lon": 3.743701681776537
+      "street": "Prosper Vincentstraat"
     }
-  ], 
-  "name": "Prosper Vincentstraat"
+  ]
 }

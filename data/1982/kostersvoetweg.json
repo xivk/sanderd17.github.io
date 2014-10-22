@@ -1,20 +1,18 @@
 {
-  "pcode": 1982, 
   "addresses": [
     {
-      "lat": 50.972402671555855, 
       "housenumber": "1", 
+      "lat": 50.972402671555855, 
+      "lon": 4.478456225622713, 
       "pcode": 1982, 
-      "street": "Kostersvoetweg", 
-      "lon": 4.478456225622713
+      "street": "Kostersvoetweg"
     }, 
     {
-      "lat": 50.972099755917185, 
       "housenumber": "2", 
+      "lat": 50.972099755917185, 
+      "lon": 4.47805117212842, 
       "pcode": 1982, 
-      "street": "Kostersvoetweg", 
-      "lon": 4.47805117212842
+      "street": "Kostersvoetweg"
     }
-  ], 
-  "name": "Kostersvoetweg"
+  ]
 }

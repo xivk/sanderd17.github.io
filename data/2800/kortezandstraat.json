@@ -1,25 +1,23 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
-      "lat": 51.0643078300759, 
       "housenumber": "1", 
+      "lat": 51.0643078300759, 
+      "lon": 4.456974421452329, 
       "pcode": 2800, 
-      "street": "Korte Zandstraat", 
-      "lon": 4.456974421452329
+      "street": "Korte Zandstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2800, 
-      "street": "Korte Zandstraat", 
-      "housenumber": "3"
+      "street": "Korte Zandstraat"
     }, 
     {
-      "lat": 51.06456276780496, 
       "housenumber": "5", 
+      "lat": 51.06456276780496, 
+      "lon": 4.457433540518969, 
       "pcode": 2800, 
-      "street": "Korte Zandstraat", 
-      "lon": 4.457433540518969
+      "street": "Korte Zandstraat"
     }
-  ], 
-  "name": "Korte Zandstraat"
+  ]
 }

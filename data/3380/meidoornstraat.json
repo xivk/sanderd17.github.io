@@ -1,32 +1,30 @@
 {
-  "pcode": 3380, 
   "addresses": [
     {
-      "lat": 50.87395556142591, 
       "housenumber": "1", 
+      "lat": 50.87395556142591, 
+      "lon": 4.948566615923116, 
       "pcode": 3380, 
-      "street": "Meidoornstraat", 
-      "lon": 4.948566615923116
+      "street": "Meidoornstraat"
     }, 
     {
-      "lat": 50.8733383566585, 
       "housenumber": "2", 
+      "lat": 50.8733383566585, 
+      "lon": 4.948015256311379, 
       "pcode": 3380, 
-      "street": "Meidoornstraat", 
-      "lon": 4.948015256311379
+      "street": "Meidoornstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3380, 
-      "street": "Meidoornstraat", 
-      "housenumber": "3"
+      "street": "Meidoornstraat"
     }, 
     {
-      "lat": 50.8738102787174, 
       "housenumber": "4", 
+      "lat": 50.8738102787174, 
+      "lon": 4.947895625757245, 
       "pcode": 3380, 
-      "street": "Meidoornstraat", 
-      "lon": 4.947895625757245
+      "street": "Meidoornstraat"
     }
-  ], 
-  "name": "Meidoornstraat"
+  ]
 }

@@ -1,25 +1,23 @@
 {
-  "pcode": 3200, 
   "addresses": [
     {
-      "lat": 50.99187415000611, 
       "housenumber": "1", 
+      "lat": 50.99187415000611, 
+      "lon": 4.828627531117334, 
       "pcode": 3200, 
-      "street": "Ossebrugstraat", 
-      "lon": 4.828627531117334
+      "street": "Ossebrugstraat"
     }, 
     {
-      "lat": 50.992483169439225, 
       "housenumber": "2", 
+      "lat": 50.992483169439225, 
+      "lon": 4.8279854248782215, 
       "pcode": 3200, 
-      "street": "Ossebrugstraat", 
-      "lon": 4.8279854248782215
+      "street": "Ossebrugstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3200, 
-      "street": "Ossebrugstraat", 
-      "housenumber": "3"
+      "street": "Ossebrugstraat"
     }
-  ], 
-  "name": "Ossebrugstraat"
+  ]
 }

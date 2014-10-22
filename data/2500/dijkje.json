@@ -1,60 +1,58 @@
 {
-  "pcode": 2500, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2500, 
-      "street": "Dijkje", 
-      "housenumber": "1"
+      "street": "Dijkje"
     }, 
     {
-      "lat": 51.130406989145385, 
       "housenumber": "14", 
+      "lat": 51.130406989145385, 
+      "lon": 4.573474590925401, 
       "pcode": 2500, 
-      "street": "Dijkje", 
-      "lon": 4.573474590925401
+      "street": "Dijkje"
     }, 
     {
-      "lat": 51.13055997723608, 
       "housenumber": "15", 
+      "lat": 51.13055997723608, 
+      "lon": 4.573422978067117, 
       "pcode": 2500, 
-      "street": "Dijkje", 
-      "lon": 4.573422978067117
+      "street": "Dijkje"
     }, 
     {
-      "lat": 51.13044219857965, 
       "housenumber": "3", 
+      "lat": 51.13044219857965, 
+      "lon": 4.5729727490164755, 
       "pcode": 2500, 
-      "street": "Dijkje", 
-      "lon": 4.5729727490164755
+      "street": "Dijkje"
     }, 
     {
-      "lat": 51.13047620314213, 
       "housenumber": "5", 
+      "lat": 51.13047620314213, 
+      "lon": 4.573060611934373, 
       "pcode": 2500, 
-      "street": "Dijkje", 
-      "lon": 4.573060611934373
+      "street": "Dijkje"
     }, 
     {
-      "lat": 51.13050331368046, 
       "housenumber": "7", 
+      "lat": 51.13050331368046, 
+      "lon": 4.57313273051413, 
       "pcode": 2500, 
-      "street": "Dijkje", 
-      "lon": 4.57313273051413
+      "street": "Dijkje"
     }, 
     {
-      "lat": 51.13029433727719, 
       "housenumber": "8", 
+      "lat": 51.13029433727719, 
+      "lon": 4.573229526574236, 
       "pcode": 2500, 
-      "street": "Dijkje", 
-      "lon": 4.573229526574236
+      "street": "Dijkje"
     }, 
     {
-      "lat": 51.13053036208342, 
       "housenumber": "9", 
+      "lat": 51.13053036208342, 
+      "lon": 4.573240563024318, 
       "pcode": 2500, 
-      "street": "Dijkje", 
-      "lon": 4.573240563024318
+      "street": "Dijkje"
     }
-  ], 
-  "name": "Dijkje"
+  ]
 }

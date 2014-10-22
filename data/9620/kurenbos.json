@@ -1,39 +1,37 @@
 {
-  "pcode": 9620, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 9620, 
-      "street": "Kurenbos", 
-      "housenumber": "2"
+      "street": "Kurenbos"
     }, 
     {
-      "lat": 50.874017423237206, 
       "housenumber": "3", 
+      "lat": 50.874017423237206, 
+      "lon": 3.8297478660024744, 
       "pcode": 9620, 
-      "street": "Kurenbos", 
-      "lon": 3.8297478660024744
+      "street": "Kurenbos"
     }, 
     {
-      "lat": 50.87441473959657, 
       "housenumber": "4", 
+      "lat": 50.87441473959657, 
+      "lon": 3.8293892478306013, 
       "pcode": 9620, 
-      "street": "Kurenbos", 
-      "lon": 3.8293892478306013
+      "street": "Kurenbos"
     }, 
     {
-      "lat": 50.87410123161911, 
       "housenumber": "5", 
+      "lat": 50.87410123161911, 
+      "lon": 3.8300080485545567, 
       "pcode": 9620, 
-      "street": "Kurenbos", 
-      "lon": 3.8300080485545567
+      "street": "Kurenbos"
     }, 
     {
-      "lat": 50.87420362925432, 
       "housenumber": "7", 
+      "lat": 50.87420362925432, 
+      "lon": 3.830362218408615, 
       "pcode": 9620, 
-      "street": "Kurenbos", 
-      "lon": 3.830362218408615
+      "street": "Kurenbos"
     }
-  ], 
-  "name": "Kurenbos"
+  ]
 }

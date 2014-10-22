@@ -1,27 +1,25 @@
 {
-  "pcode": 9660, 
   "addresses": [
     {
-      "lat": 50.81745279831648, 
       "housenumber": "1", 
+      "lat": 50.81745279831648, 
+      "lon": 3.7533618641155444, 
       "pcode": 9660, 
-      "street": "Kiekenstraat", 
-      "lon": 3.7533618641155444
+      "street": "Kiekenstraat"
     }, 
     {
-      "lat": 50.818883909052474, 
       "housenumber": "2", 
+      "lat": 50.818883909052474, 
+      "lon": 3.7535695142473866, 
       "pcode": 9660, 
-      "street": "Kiekenstraat", 
-      "lon": 3.7535695142473866
+      "street": "Kiekenstraat"
     }, 
     {
-      "lat": 50.81875623694511, 
       "housenumber": "3", 
+      "lat": 50.81875623694511, 
+      "lon": 3.7538237888887047, 
       "pcode": 9660, 
-      "street": "Kiekenstraat", 
-      "lon": 3.7538237888887047
+      "street": "Kiekenstraat"
     }
-  ], 
-  "name": "Kiekenstraat"
+  ]
 }

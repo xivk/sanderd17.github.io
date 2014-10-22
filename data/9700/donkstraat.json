@@ -1,20 +1,18 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.843669044592474, 
       "housenumber": "1", 
+      "lat": 50.843669044592474, 
+      "lon": 3.579178147370527, 
       "pcode": 9700, 
-      "street": "Donkstraat", 
-      "lon": 3.579178147370527
+      "street": "Donkstraat"
     }, 
     {
-      "lat": 50.84157551656728, 
       "housenumber": "50", 
+      "lat": 50.84157551656728, 
+      "lon": 3.58538696416402, 
       "pcode": 9700, 
-      "street": "Donkstraat", 
-      "lon": 3.58538696416402
+      "street": "Donkstraat"
     }
-  ], 
-  "name": "Donkstraat"
+  ]
 }

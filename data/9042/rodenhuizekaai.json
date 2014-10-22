@@ -1,20 +1,18 @@
 {
-  "pcode": 9042, 
   "addresses": [
     {
-      "lat": 51.13607362766629, 
       "housenumber": "1", 
+      "lat": 51.13607362766629, 
+      "lon": 3.7894699796696534, 
       "pcode": 9042, 
-      "street": "Rodenhuizekaai", 
-      "lon": 3.7894699796696534
+      "street": "Rodenhuizekaai"
     }, 
     {
-      "lat": 51.135644603397864, 
       "housenumber": "3", 
+      "lat": 51.135644603397864, 
+      "lon": 3.778809171340645, 
       "pcode": 9042, 
-      "street": "Rodenhuizekaai", 
-      "lon": 3.778809171340645
+      "street": "Rodenhuizekaai"
     }
-  ], 
-  "name": "Rodenhuizekaai"
+  ]
 }

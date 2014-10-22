@@ -1,20 +1,18 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.82921424935648, 
       "housenumber": "1", 
+      "lat": 50.82921424935648, 
+      "lon": 3.274154843335074, 
       "pcode": 8500, 
-      "street": "Groeningepoort", 
-      "lon": 3.274154843335074
+      "street": "Groeningepoort"
     }, 
     {
-      "lat": 50.827909349024374, 
       "housenumber": "4", 
+      "lat": 50.827909349024374, 
+      "lon": 3.2750593395780694, 
       "pcode": 8500, 
-      "street": "Groeningepoort", 
-      "lon": 3.2750593395780694
+      "street": "Groeningepoort"
     }
-  ], 
-  "name": "Groeningepoort"
+  ]
 }

@@ -1,39 +1,37 @@
 {
-  "pcode": 2890, 
   "addresses": [
     {
-      "lat": 51.04324225263632, 
       "housenumber": "2", 
+      "lat": 51.04324225263632, 
+      "lon": 4.274518568818955, 
       "pcode": 2890, 
-      "street": "Sint-Jansstraat", 
-      "lon": 4.274518568818955
+      "street": "Sint-Jansstraat"
     }, 
     {
-      "lat": 51.04268650824629, 
       "housenumber": "6", 
+      "lat": 51.04268650824629, 
+      "lon": 4.274009499683748, 
       "pcode": 2890, 
-      "street": "Sint-Jansstraat", 
-      "lon": 4.274009499683748
+      "street": "Sint-Jansstraat"
     }, 
     {
+      "housenumber": "6A", 
       "pcode": 2890, 
-      "street": "Sint-Jansstraat", 
-      "housenumber": "6A"
+      "street": "Sint-Jansstraat"
     }, 
     {
-      "lat": 51.04232134485297, 
       "housenumber": "8", 
+      "lat": 51.04232134485297, 
+      "lon": 4.274195881454682, 
       "pcode": 2890, 
-      "street": "Sint-Jansstraat", 
-      "lon": 4.274195881454682
+      "street": "Sint-Jansstraat"
     }, 
     {
-      "lat": 51.04293069123864, 
       "housenumber": "9", 
+      "lat": 51.04293069123864, 
+      "lon": 4.272166905570789, 
       "pcode": 2890, 
-      "street": "Sint-Jansstraat", 
-      "lon": 4.272166905570789
+      "street": "Sint-Jansstraat"
     }
-  ], 
-  "name": "Sint-Jansstraat"
+  ]
 }

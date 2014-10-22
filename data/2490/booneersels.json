@@ -1,20 +1,18 @@
 {
-  "pcode": 2490, 
   "addresses": [
     {
-      "lat": 51.19059124131169, 
       "housenumber": "1", 
+      "lat": 51.19059124131169, 
+      "lon": 5.171260145072559, 
       "pcode": 2490, 
-      "street": "Booneersels", 
-      "lon": 5.171260145072559
+      "street": "Booneersels"
     }, 
     {
-      "lat": 51.187463076268536, 
       "housenumber": "3", 
+      "lat": 51.187463076268536, 
+      "lon": 5.174504196002399, 
       "pcode": 2490, 
-      "street": "Booneersels", 
-      "lon": 5.174504196002399
+      "street": "Booneersels"
     }
-  ], 
-  "name": "Booneersels"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2260, 
   "addresses": [
     {
-      "lat": 51.099765303491445, 
       "housenumber": "16", 
+      "lat": 51.099765303491445, 
+      "lon": 4.8728379673918685, 
       "pcode": 2260, 
-      "street": "Distelstraat", 
-      "lon": 4.8728379673918685
+      "street": "Distelstraat"
     }, 
     {
-      "lat": 51.09968121773863, 
       "housenumber": "4", 
+      "lat": 51.09968121773863, 
+      "lon": 4.871374860856754, 
       "pcode": 2260, 
-      "street": "Distelstraat", 
-      "lon": 4.871374860856754
+      "street": "Distelstraat"
     }
-  ], 
-  "name": "Distelstraat"
+  ]
 }

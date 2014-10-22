@@ -1,37 +1,35 @@
 {
-  "pcode": 1760, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 1760, 
-      "street": "Bezenweg", 
-      "housenumber": "10"
+      "street": "Bezenweg"
     }, 
     {
-      "lat": 50.83229001694792, 
       "housenumber": "12", 
+      "lat": 50.83229001694792, 
+      "lon": 4.075471858992302, 
       "pcode": 1760, 
-      "street": "Bezenweg", 
-      "lon": 4.075471858992302
+      "street": "Bezenweg"
     }, 
     {
+      "housenumber": "16", 
       "pcode": 1760, 
-      "street": "Bezenweg", 
-      "housenumber": "16"
+      "street": "Bezenweg"
     }, 
     {
-      "lat": 50.83198685509343, 
       "housenumber": "4", 
+      "lat": 50.83198685509343, 
+      "lon": 4.07513505259507, 
       "pcode": 1760, 
-      "street": "Bezenweg", 
-      "lon": 4.07513505259507
+      "street": "Bezenweg"
     }, 
     {
-      "lat": 50.83221715464692, 
       "housenumber": "8", 
+      "lat": 50.83221715464692, 
+      "lon": 4.0756334264370375, 
       "pcode": 1760, 
-      "street": "Bezenweg", 
-      "lon": 4.0756334264370375
+      "street": "Bezenweg"
     }
-  ], 
-  "name": "Bezenweg"
+  ]
 }

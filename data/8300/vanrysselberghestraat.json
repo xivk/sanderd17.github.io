@@ -1,69 +1,67 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.3438816469191, 
       "housenumber": "1", 
+      "lat": 51.3438816469191, 
+      "lon": 3.2872689368205323, 
       "pcode": 8300, 
-      "street": "Van Rysselberghestraat", 
-      "lon": 3.2872689368205323
+      "street": "Van Rysselberghestraat"
     }, 
     {
-      "lat": 51.34408174663388, 
       "housenumber": "10", 
-      "pcode": 8300, 
-      "street": "Van Rysselberghestraat", 
-      "lon": 3.2872007033542685
-    }, 
-    {
-      "lat": 51.3443418038032, 
-      "housenumber": "12", 
-      "pcode": 8300, 
-      "street": "Van Rysselberghestraat", 
-      "lon": 3.286679249472287
-    }, 
-    {
-      "lat": 51.34384638730472, 
-      "housenumber": "3", 
-      "pcode": 8300, 
-      "street": "Van Rysselberghestraat", 
-      "lon": 3.287000213716495
-    }, 
-    {
-      "lat": 51.34407380557615, 
-      "housenumber": "4", 
-      "pcode": 8300, 
-      "street": "Van Rysselberghestraat", 
-      "lon": 3.2873649394516935
-    }, 
-    {
-      "lat": 51.343929318099974, 
-      "housenumber": "5", 
-      "pcode": 8300, 
-      "street": "Van Rysselberghestraat", 
-      "lon": 3.286769504121289
-    }, 
-    {
-      "lat": 51.34407466058103, 
-      "housenumber": "6", 
-      "pcode": 8300, 
-      "street": "Van Rysselberghestraat", 
-      "lon": 3.287281243262078
-    }, 
-    {
-      "lat": 51.343887286161284, 
-      "housenumber": "7", 
-      "pcode": 8300, 
-      "street": "Van Rysselberghestraat", 
-      "lon": 3.2865073973111025
-    }, 
-    {
       "lat": 51.34408174663388, 
-      "housenumber": "8", 
+      "lon": 3.2872007033542685, 
       "pcode": 8300, 
-      "street": "Van Rysselberghestraat", 
-      "lon": 3.2872007033542685
+      "street": "Van Rysselberghestraat"
+    }, 
+    {
+      "housenumber": "12", 
+      "lat": 51.3443418038032, 
+      "lon": 3.286679249472287, 
+      "pcode": 8300, 
+      "street": "Van Rysselberghestraat"
+    }, 
+    {
+      "housenumber": "3", 
+      "lat": 51.34384638730472, 
+      "lon": 3.287000213716495, 
+      "pcode": 8300, 
+      "street": "Van Rysselberghestraat"
+    }, 
+    {
+      "housenumber": "4", 
+      "lat": 51.34407380557615, 
+      "lon": 3.2873649394516935, 
+      "pcode": 8300, 
+      "street": "Van Rysselberghestraat"
+    }, 
+    {
+      "housenumber": "5", 
+      "lat": 51.343929318099974, 
+      "lon": 3.286769504121289, 
+      "pcode": 8300, 
+      "street": "Van Rysselberghestraat"
+    }, 
+    {
+      "housenumber": "6", 
+      "lat": 51.34407466058103, 
+      "lon": 3.287281243262078, 
+      "pcode": 8300, 
+      "street": "Van Rysselberghestraat"
+    }, 
+    {
+      "housenumber": "7", 
+      "lat": 51.343887286161284, 
+      "lon": 3.2865073973111025, 
+      "pcode": 8300, 
+      "street": "Van Rysselberghestraat"
+    }, 
+    {
+      "housenumber": "8", 
+      "lat": 51.34408174663388, 
+      "lon": 3.2872007033542685, 
+      "pcode": 8300, 
+      "street": "Van Rysselberghestraat"
     }
-  ], 
-  "name": "Van Rysselberghestraat"
+  ]
 }

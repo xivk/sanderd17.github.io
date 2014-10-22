@@ -1,20 +1,18 @@
 {
-  "pcode": 3940, 
   "addresses": [
     {
-      "lat": 51.15181112370471, 
       "housenumber": "12A", 
+      "lat": 51.15181112370471, 
+      "lon": 5.264642016599335, 
       "pcode": 3940, 
-      "street": "Heidestraat", 
-      "lon": 5.264642016599335
+      "street": "Heidestraat"
     }, 
     {
-      "lat": 51.15181539865146, 
       "housenumber": "12B", 
+      "lat": 51.15181539865146, 
+      "lon": 5.264659107522832, 
       "pcode": 3940, 
-      "street": "Heidestraat", 
-      "lon": 5.264659107522832
+      "street": "Heidestraat"
     }
-  ], 
-  "name": "Heidestraat"
+  ]
 }

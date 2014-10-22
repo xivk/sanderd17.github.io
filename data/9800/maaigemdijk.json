@@ -1,27 +1,25 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 50.99927101683091, 
       "housenumber": "1", 
+      "lat": 50.99927101683091, 
+      "lon": 3.565499295806311, 
       "pcode": 9800, 
-      "street": "Maaigemdijk", 
-      "lon": 3.565499295806311
+      "street": "Maaigemdijk"
     }, 
     {
-      "lat": 50.99764178778723, 
       "housenumber": "2", 
+      "lat": 50.99764178778723, 
+      "lon": 3.567155937940092, 
       "pcode": 9800, 
-      "street": "Maaigemdijk", 
-      "lon": 3.567155937940092
+      "street": "Maaigemdijk"
     }, 
     {
-      "lat": 50.99708467832892, 
       "housenumber": "3", 
+      "lat": 50.99708467832892, 
+      "lon": 3.5671658883627284, 
       "pcode": 9800, 
-      "street": "Maaigemdijk", 
-      "lon": 3.5671658883627284
+      "street": "Maaigemdijk"
     }
-  ], 
-  "name": "Maaigemdijk"
+  ]
 }

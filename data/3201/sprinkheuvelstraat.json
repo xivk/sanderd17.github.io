@@ -1,23 +1,21 @@
 {
-  "pcode": 3201, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 3201, 
-      "street": "Sprinkheuvelstraat", 
-      "housenumber": "11"
+      "street": "Sprinkheuvelstraat"
     }, 
     {
-      "lat": 50.99448333234068, 
       "housenumber": "8", 
+      "lat": 50.99448333234068, 
+      "lon": 4.864385140358019, 
       "pcode": 3201, 
-      "street": "Sprinkheuvelstraat", 
-      "lon": 4.864385140358019
+      "street": "Sprinkheuvelstraat"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 3201, 
-      "street": "Sprinkheuvelstraat", 
-      "housenumber": "9"
+      "street": "Sprinkheuvelstraat"
     }
-  ], 
-  "name": "Sprinkheuvelstraat"
+  ]
 }

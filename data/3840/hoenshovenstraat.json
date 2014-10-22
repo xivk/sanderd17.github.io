@@ -1,27 +1,25 @@
 {
-  "pcode": 3840, 
   "addresses": [
     {
-      "lat": 50.8013569064885, 
       "housenumber": "2", 
+      "lat": 50.8013569064885, 
+      "lon": 5.290304154636067, 
       "pcode": 3840, 
-      "street": "Hoenshovenstraat", 
-      "lon": 5.290304154636067
+      "street": "Hoenshovenstraat"
     }, 
     {
-      "lat": 50.802737850135124, 
       "housenumber": "3", 
+      "lat": 50.802737850135124, 
+      "lon": 5.290437200799525, 
       "pcode": 3840, 
-      "street": "Hoenshovenstraat", 
-      "lon": 5.290437200799525
+      "street": "Hoenshovenstraat"
     }, 
     {
-      "lat": 50.8022408260458, 
       "housenumber": "5", 
+      "lat": 50.8022408260458, 
+      "lon": 5.290602099372411, 
       "pcode": 3840, 
-      "street": "Hoenshovenstraat", 
-      "lon": 5.290602099372411
+      "street": "Hoenshovenstraat"
     }
-  ], 
-  "name": "Hoenshovenstraat"
+  ]
 }

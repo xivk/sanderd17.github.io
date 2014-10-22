@@ -1,39 +1,37 @@
 {
-  "pcode": 3990, 
   "addresses": [
     {
-      "lat": 51.13020304624312, 
       "housenumber": "1", 
+      "lat": 51.13020304624312, 
+      "lon": 5.475289748695943, 
       "pcode": 3990, 
-      "street": "Kloosterbosstraat", 
-      "lon": 5.475289748695943
+      "street": "Kloosterbosstraat"
     }, 
     {
-      "lat": 51.129246226451436, 
       "housenumber": "2", 
+      "lat": 51.129246226451436, 
+      "lon": 5.474604736349219, 
       "pcode": 3990, 
-      "street": "Kloosterbosstraat", 
-      "lon": 5.474604736349219
+      "street": "Kloosterbosstraat"
     }, 
     {
+      "housenumber": "34", 
       "pcode": 3990, 
-      "street": "Kloosterbosstraat", 
-      "housenumber": "34"
+      "street": "Kloosterbosstraat"
     }, 
     {
-      "lat": 51.13239771548015, 
       "housenumber": "6", 
+      "lat": 51.13239771548015, 
+      "lon": 5.474396631892368, 
       "pcode": 3990, 
-      "street": "Kloosterbosstraat", 
-      "lon": 5.474396631892368
+      "street": "Kloosterbosstraat"
     }, 
     {
-      "lat": 51.13212508076352, 
       "housenumber": "8", 
+      "lat": 51.13212508076352, 
+      "lon": 5.474442182277693, 
       "pcode": 3990, 
-      "street": "Kloosterbosstraat", 
-      "lon": 5.474442182277693
+      "street": "Kloosterbosstraat"
     }
-  ], 
-  "name": "Kloosterbosstraat"
+  ]
 }

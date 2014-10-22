@@ -1,27 +1,25 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 51.010201425949965, 
       "housenumber": "1", 
+      "lat": 51.010201425949965, 
+      "lon": 3.591854794034167, 
       "pcode": 9800, 
-      "street": "Leiehoek", 
-      "lon": 3.591854794034167
+      "street": "Leiehoek"
     }, 
     {
-      "lat": 51.00997886364748, 
       "housenumber": "2", 
+      "lat": 51.00997886364748, 
+      "lon": 3.5913671556426636, 
       "pcode": 9800, 
-      "street": "Leiehoek", 
-      "lon": 3.5913671556426636
+      "street": "Leiehoek"
     }, 
     {
-      "lat": 51.01038946050954, 
       "housenumber": "3", 
+      "lat": 51.01038946050954, 
+      "lon": 3.590733786434139, 
       "pcode": 9800, 
-      "street": "Leiehoek", 
-      "lon": 3.590733786434139
+      "street": "Leiehoek"
     }
-  ], 
-  "name": "Leiehoek"
+  ]
 }

@@ -1,34 +1,32 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.76090008591379, 
       "housenumber": "1", 
+      "lat": 50.76090008591379, 
+      "lon": 3.5640349067899164, 
       "pcode": 9600, 
-      "street": "Hotondstraat", 
-      "lon": 3.5640349067899164
+      "street": "Hotondstraat"
     }, 
     {
-      "lat": 50.75975182727145, 
       "housenumber": "2", 
+      "lat": 50.75975182727145, 
+      "lon": 3.564908774732623, 
       "pcode": 9600, 
-      "street": "Hotondstraat", 
-      "lon": 3.564908774732623
+      "street": "Hotondstraat"
     }, 
     {
-      "lat": 50.76105945607601, 
       "housenumber": "3", 
+      "lat": 50.76105945607601, 
+      "lon": 3.5635075932721314, 
       "pcode": 9600, 
-      "street": "Hotondstraat", 
-      "lon": 3.5635075932721314
+      "street": "Hotondstraat"
     }, 
     {
-      "lat": 50.76137939032991, 
       "housenumber": "5", 
+      "lat": 50.76137939032991, 
+      "lon": 3.563490362565132, 
       "pcode": 9600, 
-      "street": "Hotondstraat", 
-      "lon": 3.563490362565132
+      "street": "Hotondstraat"
     }
-  ], 
-  "name": "Hotondstraat"
+  ]
 }

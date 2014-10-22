@@ -1,20 +1,18 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.01372923905021, 
       "housenumber": "1", 
+      "lat": 51.01372923905021, 
+      "lon": 3.7350135756807847, 
       "pcode": 9000, 
-      "street": "Sluisweg", 
-      "lon": 3.7350135756807847
+      "street": "Sluisweg"
     }, 
     {
-      "lat": 51.01333916123993, 
       "housenumber": "2", 
+      "lat": 51.01333916123993, 
+      "lon": 3.735509915551571, 
       "pcode": 9000, 
-      "street": "Sluisweg", 
-      "lon": 3.735509915551571
+      "street": "Sluisweg"
     }
-  ], 
-  "name": "Sluisweg"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 1760, 
   "addresses": [
     {
-      "lat": 50.81878684079085, 
       "housenumber": "2", 
+      "lat": 50.81878684079085, 
+      "lon": 4.120269152761526, 
       "pcode": 1760, 
-      "street": "Mariaweg", 
-      "lon": 4.120269152761526
+      "street": "Mariaweg"
     }, 
     {
-      "lat": 50.818115147542635, 
       "housenumber": "3", 
+      "lat": 50.818115147542635, 
+      "lon": 4.118031256644389, 
       "pcode": 1760, 
-      "street": "Mariaweg", 
-      "lon": 4.118031256644389
+      "street": "Mariaweg"
     }, 
     {
-      "lat": 50.81878092725562, 
       "housenumber": "6", 
+      "lat": 50.81878092725562, 
+      "lon": 4.114893779616399, 
       "pcode": 1760, 
-      "street": "Mariaweg", 
-      "lon": 4.114893779616399
+      "street": "Mariaweg"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 1760, 
-      "street": "Mariaweg", 
-      "housenumber": "8"
+      "street": "Mariaweg"
     }
-  ], 
-  "name": "Mariaweg"
+  ]
 }

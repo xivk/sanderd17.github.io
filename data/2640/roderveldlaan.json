@@ -1,18 +1,16 @@
 {
-  "pcode": 2640, 
   "addresses": [
     {
-      "lat": 51.18431181884526, 
       "housenumber": "100", 
+      "lat": 51.18431181884526, 
+      "lon": 4.444356665694099, 
       "pcode": 2640, 
-      "street": "Roderveldlaan", 
-      "lon": 4.444356665694099
+      "street": "Roderveldlaan"
     }, 
     {
+      "housenumber": "101", 
       "pcode": 2640, 
-      "street": "Roderveldlaan", 
-      "housenumber": "101"
+      "street": "Roderveldlaan"
     }
-  ], 
-  "name": "Roderveldlaan"
+  ]
 }

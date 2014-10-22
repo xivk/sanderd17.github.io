@@ -1,85 +1,83 @@
 {
-  "pcode": 8570, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 8570, 
-      "street": "Driesstraat", 
-      "housenumber": "10"
+      "street": "Driesstraat"
     }, 
     {
-      "lat": 50.832320541219275, 
       "housenumber": "12", 
+      "lat": 50.832320541219275, 
+      "lon": 3.4044677551187856, 
       "pcode": 8570, 
-      "street": "Driesstraat", 
-      "lon": 3.4044677551187856
+      "street": "Driesstraat"
     }, 
     {
-      "lat": 50.832321163247244, 
       "housenumber": "14", 
+      "lat": 50.832321163247244, 
+      "lon": 3.4044996837984653, 
       "pcode": 8570, 
-      "street": "Driesstraat", 
-      "lon": 3.4044996837984653
+      "street": "Driesstraat"
     }, 
     {
-      "lat": 50.832621741730755, 
       "housenumber": "16", 
-      "pcode": 8570, 
-      "street": "Driesstraat", 
-      "lon": 3.4044380166759622
-    }, 
-    {
-      "pcode": 8570, 
-      "street": "Driesstraat", 
-      "housenumber": "18"
-    }, 
-    {
-      "lat": 50.83260659154889, 
-      "housenumber": "2", 
-      "pcode": 8570, 
-      "street": "Driesstraat", 
-      "lon": 3.4053297112699052
-    }, 
-    {
-      "pcode": 8570, 
-      "street": "Driesstraat", 
-      "housenumber": "20"
-    }, 
-    {
-      "lat": 50.832012505246105, 
-      "housenumber": "22", 
-      "pcode": 8570, 
-      "street": "Driesstraat", 
-      "lon": 3.403644305826191
-    }, 
-    {
-      "pcode": 8570, 
-      "street": "Driesstraat", 
-      "housenumber": "24"
-    }, 
-    {
-      "pcode": 8570, 
-      "street": "Driesstraat", 
-      "housenumber": "26"
-    }, 
-    {
-      "lat": 50.83249297877161, 
-      "housenumber": "4", 
-      "pcode": 8570, 
-      "street": "Driesstraat", 
-      "lon": 3.4050590437972006
-    }, 
-    {
       "lat": 50.832621741730755, 
-      "housenumber": "6", 
+      "lon": 3.4044380166759622, 
       "pcode": 8570, 
-      "street": "Driesstraat", 
-      "lon": 3.4044380166759622
+      "street": "Driesstraat"
     }, 
     {
+      "housenumber": "18", 
       "pcode": 8570, 
-      "street": "Driesstraat", 
-      "housenumber": "8"
+      "street": "Driesstraat"
+    }, 
+    {
+      "housenumber": "2", 
+      "lat": 50.83260659154889, 
+      "lon": 3.4053297112699052, 
+      "pcode": 8570, 
+      "street": "Driesstraat"
+    }, 
+    {
+      "housenumber": "20", 
+      "pcode": 8570, 
+      "street": "Driesstraat"
+    }, 
+    {
+      "housenumber": "22", 
+      "lat": 50.832012505246105, 
+      "lon": 3.403644305826191, 
+      "pcode": 8570, 
+      "street": "Driesstraat"
+    }, 
+    {
+      "housenumber": "24", 
+      "pcode": 8570, 
+      "street": "Driesstraat"
+    }, 
+    {
+      "housenumber": "26", 
+      "pcode": 8570, 
+      "street": "Driesstraat"
+    }, 
+    {
+      "housenumber": "4", 
+      "lat": 50.83249297877161, 
+      "lon": 3.4050590437972006, 
+      "pcode": 8570, 
+      "street": "Driesstraat"
+    }, 
+    {
+      "housenumber": "6", 
+      "lat": 50.832621741730755, 
+      "lon": 3.4044380166759622, 
+      "pcode": 8570, 
+      "street": "Driesstraat"
+    }, 
+    {
+      "housenumber": "8", 
+      "pcode": 8570, 
+      "street": "Driesstraat"
     }
-  ], 
-  "name": "Driesstraat"
+  ]
 }

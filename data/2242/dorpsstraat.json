@@ -1,18 +1,16 @@
 {
-  "pcode": 2242, 
   "addresses": [
     {
-      "lat": 51.20374686549563, 
       "housenumber": "108A", 
+      "lat": 51.20374686549563, 
+      "lon": 4.714246318504061, 
       "pcode": 2242, 
-      "street": "Dorpsstraat", 
-      "lon": 4.714246318504061
+      "street": "Dorpsstraat"
     }, 
     {
+      "housenumber": "108B", 
       "pcode": 2242, 
-      "street": "Dorpsstraat", 
-      "housenumber": "108B"
+      "street": "Dorpsstraat"
     }
-  ], 
-  "name": "Dorpsstraat"
+  ]
 }

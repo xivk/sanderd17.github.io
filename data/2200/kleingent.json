@@ -1,58 +1,56 @@
 {
-  "pcode": 2200, 
   "addresses": [
     {
-      "lat": 51.16226313887795, 
       "housenumber": "1", 
+      "lat": 51.16226313887795, 
+      "lon": 4.777205969030327, 
       "pcode": 2200, 
-      "street": "Klein Gent", 
-      "lon": 4.777205969030327
+      "street": "Klein Gent"
     }, 
     {
-      "lat": 51.16238829728463, 
       "housenumber": "2", 
+      "lat": 51.16238829728463, 
+      "lon": 4.777688397304304, 
       "pcode": 2200, 
-      "street": "Klein Gent", 
-      "lon": 4.777688397304304
+      "street": "Klein Gent"
     }, 
     {
+      "housenumber": "2_1", 
       "pcode": 2200, 
-      "street": "Klein Gent", 
-      "housenumber": "2_1"
+      "street": "Klein Gent"
     }, 
     {
-      "lat": 51.161560304480815, 
       "housenumber": "4", 
+      "lat": 51.161560304480815, 
+      "lon": 4.781003647867475, 
       "pcode": 2200, 
-      "street": "Klein Gent", 
-      "lon": 4.781003647867475
+      "street": "Klein Gent"
     }, 
     {
-      "lat": 51.162053184161046, 
       "housenumber": "5", 
+      "lat": 51.162053184161046, 
+      "lon": 4.779553730317208, 
       "pcode": 2200, 
-      "street": "Klein Gent", 
-      "lon": 4.779553730317208
+      "street": "Klein Gent"
     }, 
     {
-      "lat": 51.16285681117559, 
       "housenumber": "6", 
+      "lat": 51.16285681117559, 
+      "lon": 4.780213841200401, 
       "pcode": 2200, 
-      "street": "Klein Gent", 
-      "lon": 4.780213841200401
+      "street": "Klein Gent"
     }, 
     {
-      "lat": 51.16286094612163, 
       "housenumber": "6A", 
+      "lat": 51.16286094612163, 
+      "lon": 4.780316806785835, 
       "pcode": 2200, 
-      "street": "Klein Gent", 
-      "lon": 4.780316806785835
+      "street": "Klein Gent"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2200, 
-      "street": "Klein Gent", 
-      "housenumber": "7"
+      "street": "Klein Gent"
     }
-  ], 
-  "name": "Klein Gent"
+  ]
 }

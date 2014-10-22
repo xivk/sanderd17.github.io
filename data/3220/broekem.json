@@ -1,20 +1,18 @@
 {
-  "pcode": 3220, 
   "addresses": [
     {
-      "lat": 50.91677859558487, 
       "housenumber": "1", 
+      "lat": 50.91677859558487, 
+      "lon": 4.8419607218549645, 
       "pcode": 3220, 
-      "street": "Broekem", 
-      "lon": 4.8419607218549645
+      "street": "Broekem"
     }, 
     {
-      "lat": 50.91653986913452, 
       "housenumber": "2", 
+      "lat": 50.91653986913452, 
+      "lon": 4.842664514083623, 
       "pcode": 3220, 
-      "street": "Broekem", 
-      "lon": 4.842664514083623
+      "street": "Broekem"
     }
-  ], 
-  "name": "Broekem"
+  ]
 }

@@ -1,60 +1,58 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.054907627412916, 
       "housenumber": "1", 
+      "lat": 51.054907627412916, 
+      "lon": 3.7276470668014485, 
       "pcode": 9000, 
-      "street": "Baaisteeg", 
-      "lon": 3.7276470668014485
+      "street": "Baaisteeg"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 9000, 
-      "street": "Baaisteeg", 
-      "housenumber": "10"
+      "street": "Baaisteeg"
     }, 
     {
-      "lat": 51.055257398655506, 
       "housenumber": "12", 
+      "lat": 51.055257398655506, 
+      "lon": 3.7286563896815816, 
       "pcode": 9000, 
-      "street": "Baaisteeg", 
-      "lon": 3.7286563896815816
+      "street": "Baaisteeg"
     }, 
     {
-      "lat": 51.05491002564933, 
       "housenumber": "3", 
+      "lat": 51.05491002564933, 
+      "lon": 3.7276417566560376, 
       "pcode": 9000, 
-      "street": "Baaisteeg", 
-      "lon": 3.7276417566560376
+      "street": "Baaisteeg"
     }, 
     {
-      "lat": 51.0552654690435, 
       "housenumber": "4", 
+      "lat": 51.0552654690435, 
+      "lon": 3.7286527136226275, 
       "pcode": 9000, 
-      "street": "Baaisteeg", 
-      "lon": 3.7286527136226275
+      "street": "Baaisteeg"
     }, 
     {
-      "lat": 51.05506005635423, 
       "housenumber": "5", 
+      "lat": 51.05506005635423, 
+      "lon": 3.7276913357925596, 
       "pcode": 9000, 
-      "street": "Baaisteeg", 
-      "lon": 3.7276913357925596
+      "street": "Baaisteeg"
     }, 
     {
-      "lat": 51.05510477265089, 
       "housenumber": "7", 
+      "lat": 51.05510477265089, 
+      "lon": 3.7280129272900857, 
       "pcode": 9000, 
-      "street": "Baaisteeg", 
-      "lon": 3.7280129272900857
+      "street": "Baaisteeg"
     }, 
     {
-      "lat": 51.0554158433288, 
       "housenumber": "9", 
+      "lat": 51.0554158433288, 
+      "lon": 3.7283847930018323, 
       "pcode": 9000, 
-      "street": "Baaisteeg", 
-      "lon": 3.7283847930018323
+      "street": "Baaisteeg"
     }
-  ], 
-  "name": "Baaisteeg"
+  ]
 }

@@ -1,44 +1,42 @@
 {
-  "pcode": 8670, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8670, 
-      "street": "Jaakpad", 
-      "housenumber": "1"
+      "street": "Jaakpad"
     }, 
     {
-      "lat": 51.11064802037252, 
       "housenumber": "10", 
+      "lat": 51.11064802037252, 
+      "lon": 2.6103496697784268, 
       "pcode": 8670, 
-      "street": "Jaakpad", 
-      "lon": 2.6103496697784268
+      "street": "Jaakpad"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 8670, 
-      "street": "Jaakpad", 
-      "housenumber": "12"
+      "street": "Jaakpad"
     }, 
     {
-      "lat": 51.11075584724404, 
       "housenumber": "4", 
+      "lat": 51.11075584724404, 
+      "lon": 2.610888103430244, 
       "pcode": 8670, 
-      "street": "Jaakpad", 
-      "lon": 2.610888103430244
+      "street": "Jaakpad"
     }, 
     {
-      "lat": 51.11067917713627, 
       "housenumber": "6", 
+      "lat": 51.11067917713627, 
+      "lon": 2.6106243128481275, 
       "pcode": 8670, 
-      "street": "Jaakpad", 
-      "lon": 2.6106243128481275
+      "street": "Jaakpad"
     }, 
     {
-      "lat": 51.11065042995908, 
       "housenumber": "8", 
+      "lat": 51.11065042995908, 
+      "lon": 2.610547548754579, 
       "pcode": 8670, 
-      "street": "Jaakpad", 
-      "lon": 2.610547548754579
+      "street": "Jaakpad"
     }
-  ], 
-  "name": "Jaakpad"
+  ]
 }

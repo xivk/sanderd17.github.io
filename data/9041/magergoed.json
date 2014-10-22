@@ -1,20 +1,18 @@
 {
-  "pcode": 9041, 
   "addresses": [
     {
-      "lat": 51.09943505661025, 
       "housenumber": "1", 
+      "lat": 51.09943505661025, 
+      "lon": 3.7832010333239214, 
       "pcode": 9041, 
-      "street": "Magergoed", 
-      "lon": 3.7832010333239214
+      "street": "Magergoed"
     }, 
     {
-      "lat": 51.099284334911765, 
       "housenumber": "2", 
+      "lat": 51.099284334911765, 
+      "lon": 3.7825901719144874, 
       "pcode": 9041, 
-      "street": "Magergoed", 
-      "lon": 3.7825901719144874
+      "street": "Magergoed"
     }
-  ], 
-  "name": "Magergoed"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8600, 
   "addresses": [
     {
-      "lat": 51.083212942864996, 
       "housenumber": "2", 
+      "lat": 51.083212942864996, 
+      "lon": 2.914456605780488, 
       "pcode": 8600, 
-      "street": "Biesbeekstraat", 
-      "lon": 2.914456605780488
+      "street": "Biesbeekstraat"
     }, 
     {
-      "lat": 51.082792518192846, 
       "housenumber": "4", 
+      "lat": 51.082792518192846, 
+      "lon": 2.9117087022882098, 
       "pcode": 8600, 
-      "street": "Biesbeekstraat", 
-      "lon": 2.9117087022882098
+      "street": "Biesbeekstraat"
     }
-  ], 
-  "name": "Biesbeekstraat"
+  ]
 }

@@ -1,23 +1,21 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 3000, 
-      "street": "Waaistraat", 
-      "housenumber": "2"
+      "street": "Waaistraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3000, 
-      "street": "Waaistraat", 
-      "housenumber": "3"
+      "street": "Waaistraat"
     }, 
     {
-      "lat": 50.877783610142174, 
       "housenumber": "6", 
+      "lat": 50.877783610142174, 
+      "lon": 4.69700160720161, 
       "pcode": 3000, 
-      "street": "Waaistraat", 
-      "lon": 4.69700160720161
+      "street": "Waaistraat"
     }
-  ], 
-  "name": "Waaistraat"
+  ]
 }

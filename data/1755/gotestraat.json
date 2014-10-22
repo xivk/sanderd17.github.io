@@ -1,20 +1,18 @@
 {
-  "pcode": 1755, 
   "addresses": [
     {
-      "lat": 50.80113979615375, 
       "housenumber": "1", 
+      "lat": 50.80113979615375, 
+      "lon": 4.069596774067409, 
       "pcode": 1755, 
-      "street": "Gotestraat", 
-      "lon": 4.069596774067409
+      "street": "Gotestraat"
     }, 
     {
-      "lat": 50.80177106051531, 
       "housenumber": "3", 
+      "lat": 50.80177106051531, 
+      "lon": 4.0692472015374745, 
       "pcode": 1755, 
-      "street": "Gotestraat", 
-      "lon": 4.0692472015374745
+      "street": "Gotestraat"
     }
-  ], 
-  "name": "Gotestraat"
+  ]
 }

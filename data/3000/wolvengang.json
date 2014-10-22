@@ -1,18 +1,16 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.88796743191203, 
       "housenumber": "6", 
+      "lat": 50.88796743191203, 
+      "lon": 4.700586552847209, 
       "pcode": 3000, 
-      "street": "Wolvengang", 
-      "lon": 4.700586552847209
+      "street": "Wolvengang"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3000, 
-      "street": "Wolvengang", 
-      "housenumber": "8"
+      "street": "Wolvengang"
     }
-  ], 
-  "name": "Wolvengang"
+  ]
 }

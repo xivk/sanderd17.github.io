@@ -1,20 +1,18 @@
 {
-  "pcode": 3630, 
   "addresses": [
     {
-      "lat": 50.953047379737505, 
       "housenumber": "1", 
+      "lat": 50.953047379737505, 
+      "lon": 5.662503247887284, 
       "pcode": 3630, 
-      "street": "Kikmolenstraat", 
-      "lon": 5.662503247887284
+      "street": "Kikmolenstraat"
     }, 
     {
-      "lat": 50.953781949369514, 
       "housenumber": "3", 
+      "lat": 50.953781949369514, 
+      "lon": 5.661960857578606, 
       "pcode": 3630, 
-      "street": "Kikmolenstraat", 
-      "lon": 5.661960857578606
+      "street": "Kikmolenstraat"
     }
-  ], 
-  "name": "Kikmolenstraat"
+  ]
 }

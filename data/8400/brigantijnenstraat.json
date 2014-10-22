@@ -1,18 +1,16 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
+      "housenumber": "14", 
       "pcode": 8400, 
-      "street": "Brigantijnenstraat", 
-      "housenumber": "14"
+      "street": "Brigantijnenstraat"
     }, 
     {
-      "lat": 51.22591300578112, 
       "housenumber": "2", 
+      "lat": 51.22591300578112, 
+      "lon": 2.921631082206484, 
       "pcode": 8400, 
-      "street": "Brigantijnenstraat", 
-      "lon": 2.921631082206484
+      "street": "Brigantijnenstraat"
     }
-  ], 
-  "name": "Brigantijnenstraat"
+  ]
 }

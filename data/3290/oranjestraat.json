@@ -1,53 +1,51 @@
 {
-  "pcode": 3290, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3290, 
-      "street": "Oranjestraat", 
-      "housenumber": "1"
+      "street": "Oranjestraat"
     }, 
     {
-      "lat": 50.9686018628219, 
       "housenumber": "2", 
+      "lat": 50.9686018628219, 
+      "lon": 5.0380499588604994, 
       "pcode": 3290, 
-      "street": "Oranjestraat", 
-      "lon": 5.0380499588604994
+      "street": "Oranjestraat"
     }, 
     {
-      "lat": 50.96855035039048, 
       "housenumber": "3", 
+      "lat": 50.96855035039048, 
+      "lon": 5.0370714382543404, 
       "pcode": 3290, 
-      "street": "Oranjestraat", 
-      "lon": 5.0370714382543404
+      "street": "Oranjestraat"
     }, 
     {
-      "lat": 50.96853337368308, 
       "housenumber": "4", 
+      "lat": 50.96853337368308, 
+      "lon": 5.038047983538968, 
       "pcode": 3290, 
-      "street": "Oranjestraat", 
-      "lon": 5.038047983538968
+      "street": "Oranjestraat"
     }, 
     {
-      "lat": 50.9684309284627, 
       "housenumber": "5", 
+      "lat": 50.9684309284627, 
+      "lon": 5.036762504485261, 
       "pcode": 3290, 
-      "street": "Oranjestraat", 
-      "lon": 5.036762504485261
+      "street": "Oranjestraat"
     }, 
     {
-      "lat": 50.96839529786647, 
       "housenumber": "6", 
+      "lat": 50.96839529786647, 
+      "lon": 5.037636988015176, 
       "pcode": 3290, 
-      "street": "Oranjestraat", 
-      "lon": 5.037636988015176
+      "street": "Oranjestraat"
     }, 
     {
-      "lat": 50.968245950915936, 
       "housenumber": "8", 
+      "lat": 50.968245950915936, 
+      "lon": 5.037389698735439, 
       "pcode": 3290, 
-      "street": "Oranjestraat", 
-      "lon": 5.037389698735439
+      "street": "Oranjestraat"
     }
-  ], 
-  "name": "Oranjestraat"
+  ]
 }

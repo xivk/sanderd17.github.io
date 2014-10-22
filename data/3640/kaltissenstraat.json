@@ -1,20 +1,18 @@
 {
-  "pcode": 3640, 
   "addresses": [
     {
-      "lat": 51.14776417026672, 
       "housenumber": "1", 
+      "lat": 51.14776417026672, 
+      "lon": 5.765705182277507, 
       "pcode": 3640, 
-      "street": "Kaltissenstraat", 
-      "lon": 5.765705182277507
+      "street": "Kaltissenstraat"
     }, 
     {
-      "lat": 51.14800299449058, 
       "housenumber": "2", 
+      "lat": 51.14800299449058, 
+      "lon": 5.765010378176627, 
       "pcode": 3640, 
-      "street": "Kaltissenstraat", 
-      "lon": 5.765010378176627
+      "street": "Kaltissenstraat"
     }
-  ], 
-  "name": "Kaltissenstraat"
+  ]
 }

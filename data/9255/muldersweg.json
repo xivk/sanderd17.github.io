@@ -1,27 +1,25 @@
 {
-  "pcode": 9255, 
   "addresses": [
     {
-      "lat": 51.03177465673537, 
       "housenumber": "1", 
+      "lat": 51.03177465673537, 
+      "lon": 4.22534753004728, 
       "pcode": 9255, 
-      "street": "Muldersweg", 
-      "lon": 4.22534753004728
+      "street": "Muldersweg"
     }, 
     {
-      "lat": 51.03156009450254, 
       "housenumber": "2", 
+      "lat": 51.03156009450254, 
+      "lon": 4.225797942628388, 
       "pcode": 9255, 
-      "street": "Muldersweg", 
-      "lon": 4.225797942628388
+      "street": "Muldersweg"
     }, 
     {
-      "lat": 51.03180754543199, 
       "housenumber": "4", 
+      "lat": 51.03180754543199, 
+      "lon": 4.225709661996716, 
       "pcode": 9255, 
-      "street": "Muldersweg", 
-      "lon": 4.225709661996716
+      "street": "Muldersweg"
     }
-  ], 
-  "name": "Muldersweg"
+  ]
 }

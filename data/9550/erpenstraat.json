@@ -1,39 +1,37 @@
 {
-  "pcode": 9550, 
   "addresses": [
     {
-      "lat": 50.87615499087884, 
       "housenumber": "1", 
+      "lat": 50.87615499087884, 
+      "lon": 3.907115271288732, 
       "pcode": 9550, 
-      "street": "Erpenstraat", 
-      "lon": 3.907115271288732
+      "street": "Erpenstraat"
     }, 
     {
-      "lat": 50.87568819098856, 
       "housenumber": "2", 
+      "lat": 50.87568819098856, 
+      "lon": 3.905113345170978, 
       "pcode": 9550, 
-      "street": "Erpenstraat", 
-      "lon": 3.905113345170978
+      "street": "Erpenstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9550, 
-      "street": "Erpenstraat", 
-      "housenumber": "3"
+      "street": "Erpenstraat"
     }, 
     {
-      "lat": 50.87529930072596, 
       "housenumber": "4", 
+      "lat": 50.87529930072596, 
+      "lon": 3.9034074979317452, 
       "pcode": 9550, 
-      "street": "Erpenstraat", 
-      "lon": 3.9034074979317452
+      "street": "Erpenstraat"
     }, 
     {
-      "lat": 50.874729145290125, 
       "housenumber": "6", 
+      "lat": 50.874729145290125, 
+      "lon": 3.900614712307898, 
       "pcode": 9550, 
-      "street": "Erpenstraat", 
-      "lon": 3.900614712307898
+      "street": "Erpenstraat"
     }
-  ], 
-  "name": "Erpenstraat"
+  ]
 }

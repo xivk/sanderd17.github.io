@@ -1,28 +1,26 @@
 {
-  "pcode": 9040, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9040, 
-      "street": "Kleine Wedepad", 
-      "housenumber": "1"
+      "street": "Kleine Wedepad"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9040, 
-      "street": "Kleine Wedepad", 
-      "housenumber": "3"
+      "street": "Kleine Wedepad"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9040, 
-      "street": "Kleine Wedepad", 
-      "housenumber": "5"
+      "street": "Kleine Wedepad"
     }, 
     {
-      "lat": 51.04769893074602, 
       "housenumber": "7", 
+      "lat": 51.04769893074602, 
+      "lon": 3.75242904890367, 
       "pcode": 9040, 
-      "street": "Kleine Wedepad", 
-      "lon": 3.75242904890367
+      "street": "Kleine Wedepad"
     }
-  ], 
-  "name": "Kleine Wedepad"
+  ]
 }

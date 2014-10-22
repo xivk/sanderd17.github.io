@@ -1,20 +1,18 @@
 {
-  "pcode": 8670, 
   "addresses": [
     {
-      "lat": 51.110220913276684, 
       "housenumber": "1", 
+      "lat": 51.110220913276684, 
+      "lon": 2.7333820781730394, 
       "pcode": 8670, 
-      "street": "Steendamstraat", 
-      "lon": 2.7333820781730394
+      "street": "Steendamstraat"
     }, 
     {
-      "lat": 51.11228996497697, 
       "housenumber": "2", 
+      "lat": 51.11228996497697, 
+      "lon": 2.7287416981525157, 
       "pcode": 8670, 
-      "street": "Steendamstraat", 
-      "lon": 2.7287416981525157
+      "street": "Steendamstraat"
     }
-  ], 
-  "name": "Steendamstraat"
+  ]
 }

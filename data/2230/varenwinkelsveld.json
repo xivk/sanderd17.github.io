@@ -1,20 +1,18 @@
 {
-  "pcode": 2230, 
   "addresses": [
     {
-      "lat": 51.024157826926505, 
       "housenumber": "1", 
+      "lat": 51.024157826926505, 
+      "lon": 4.888020910050174, 
       "pcode": 2230, 
-      "street": "Varenwinkelsveld", 
-      "lon": 4.888020910050174
+      "street": "Varenwinkelsveld"
     }, 
     {
-      "lat": 51.02427634312329, 
       "housenumber": "4", 
+      "lat": 51.02427634312329, 
+      "lon": 4.890347831795902, 
       "pcode": 2230, 
-      "street": "Varenwinkelsveld", 
-      "lon": 4.890347831795902
+      "street": "Varenwinkelsveld"
     }
-  ], 
-  "name": "Varenwinkelsveld"
+  ]
 }

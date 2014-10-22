@@ -1,67 +1,65 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8300, 
-      "street": "Duivenlaan", 
-      "housenumber": "1"
+      "street": "Duivenlaan"
     }, 
     {
-      "lat": 51.34000708453465, 
       "housenumber": "10", 
+      "lat": 51.34000708453465, 
+      "lon": 3.297353474657515, 
       "pcode": 8300, 
-      "street": "Duivenlaan", 
-      "lon": 3.297353474657515
+      "street": "Duivenlaan"
     }, 
     {
-      "lat": 51.33975213083057, 
       "housenumber": "2", 
+      "lat": 51.33975213083057, 
+      "lon": 3.297151250115813, 
       "pcode": 8300, 
-      "street": "Duivenlaan", 
-      "lon": 3.297151250115813
+      "street": "Duivenlaan"
     }, 
     {
-      "lat": 51.33996899633703, 
       "housenumber": "3", 
+      "lat": 51.33996899633703, 
+      "lon": 3.296968154928697, 
       "pcode": 8300, 
-      "street": "Duivenlaan", 
-      "lon": 3.296968154928697
+      "street": "Duivenlaan"
     }, 
     {
-      "lat": 51.339834880064714, 
       "housenumber": "4", 
+      "lat": 51.339834880064714, 
+      "lon": 3.297216652493161, 
       "pcode": 8300, 
-      "street": "Duivenlaan", 
-      "lon": 3.297216652493161
+      "street": "Duivenlaan"
     }, 
     {
-      "lat": 51.34002485935745, 
       "housenumber": "5", 
+      "lat": 51.34002485935745, 
+      "lon": 3.297022551840914, 
       "pcode": 8300, 
-      "street": "Duivenlaan", 
-      "lon": 3.297022551840914
+      "street": "Duivenlaan"
     }, 
     {
-      "lat": 51.3398914610773, 
       "housenumber": "6", 
+      "lat": 51.3398914610773, 
+      "lon": 3.2972609870359713, 
       "pcode": 8300, 
-      "street": "Duivenlaan", 
-      "lon": 3.2972609870359713
+      "street": "Duivenlaan"
     }, 
     {
-      "lat": 51.340081403745565, 
       "housenumber": "7", 
+      "lat": 51.340081403745565, 
+      "lon": 3.2971026222930506, 
       "pcode": 8300, 
-      "street": "Duivenlaan", 
-      "lon": 3.2971026222930506
+      "street": "Duivenlaan"
     }, 
     {
-      "lat": 51.33994802263085, 
       "housenumber": "8", 
+      "lat": 51.33994802263085, 
+      "lon": 3.297303169422528, 
       "pcode": 8300, 
-      "street": "Duivenlaan", 
-      "lon": 3.297303169422528
+      "street": "Duivenlaan"
     }
-  ], 
-  "name": "Duivenlaan"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
-      "lat": 50.84235420213434, 
       "housenumber": "1", 
+      "lat": 50.84235420213434, 
+      "lon": 5.2740105862219915, 
       "pcode": 3800, 
-      "street": "Beursstraat", 
-      "lon": 5.2740105862219915
+      "street": "Beursstraat"
     }, 
     {
-      "lat": 50.847131838794795, 
       "housenumber": "3", 
+      "lat": 50.847131838794795, 
+      "lon": 5.268221807646444, 
       "pcode": 3800, 
-      "street": "Beursstraat", 
-      "lon": 5.268221807646444
+      "street": "Beursstraat"
     }
-  ], 
-  "name": "Beursstraat"
+  ]
 }

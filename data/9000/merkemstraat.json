@@ -1,27 +1,25 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05291377093732, 
       "housenumber": "2", 
+      "lat": 51.05291377093732, 
+      "lon": 3.6929456871538022, 
       "pcode": 9000, 
-      "street": "Merkemstraat", 
-      "lon": 3.6929456871538022
+      "street": "Merkemstraat"
     }, 
     {
-      "lat": 51.052779312473525, 
       "housenumber": "4", 
+      "lat": 51.052779312473525, 
+      "lon": 3.6928710375209324, 
       "pcode": 9000, 
-      "street": "Merkemstraat", 
-      "lon": 3.6928710375209324
+      "street": "Merkemstraat"
     }, 
     {
-      "lat": 51.05271242692083, 
       "housenumber": "6", 
+      "lat": 51.05271242692083, 
+      "lon": 3.692885837086956, 
       "pcode": 9000, 
-      "street": "Merkemstraat", 
-      "lon": 3.692885837086956
+      "street": "Merkemstraat"
     }
-  ], 
-  "name": "Merkemstraat"
+  ]
 }

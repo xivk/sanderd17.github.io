@@ -1,46 +1,44 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.951836180557, 
       "housenumber": "1", 
+      "lat": 50.951836180557, 
+      "lon": 3.1257347935621773, 
       "pcode": 8800, 
-      "street": "Gasthuisstraat", 
-      "lon": 3.1257347935621773
+      "street": "Gasthuisstraat"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 8800, 
-      "street": "Gasthuisstraat", 
-      "housenumber": "10"
+      "street": "Gasthuisstraat"
     }, 
     {
-      "lat": 50.95188787016186, 
       "housenumber": "2", 
+      "lat": 50.95188787016186, 
+      "lon": 3.125691721083006, 
       "pcode": 8800, 
-      "street": "Gasthuisstraat", 
-      "lon": 3.125691721083006
+      "street": "Gasthuisstraat"
     }, 
     {
-      "lat": 50.95194460354563, 
       "housenumber": "3", 
+      "lat": 50.95194460354563, 
+      "lon": 3.1256495112105522, 
       "pcode": 8800, 
-      "street": "Gasthuisstraat", 
-      "lon": 3.1256495112105522
+      "street": "Gasthuisstraat"
     }, 
     {
-      "lat": 50.951994189784294, 
       "housenumber": "4", 
+      "lat": 50.951994189784294, 
+      "lon": 3.125603078292351, 
       "pcode": 8800, 
-      "street": "Gasthuisstraat", 
-      "lon": 3.125603078292351
+      "street": "Gasthuisstraat"
     }, 
     {
-      "lat": 50.952049427529566, 
       "housenumber": "5", 
+      "lat": 50.952049427529566, 
+      "lon": 3.1255469592829557, 
       "pcode": 8800, 
-      "street": "Gasthuisstraat", 
-      "lon": 3.1255469592829557
+      "street": "Gasthuisstraat"
     }
-  ], 
-  "name": "Gasthuisstraat"
+  ]
 }

@@ -1,34 +1,32 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.33973393692197, 
       "housenumber": "1", 
+      "lat": 51.33973393692197, 
+      "lon": 3.3048762753628136, 
       "pcode": 8300, 
-      "street": "Madeliefjespad", 
-      "lon": 3.3048762753628136
+      "street": "Madeliefjespad"
     }, 
     {
-      "lat": 51.33974727645941, 
       "housenumber": "3", 
+      "lat": 51.33974727645941, 
+      "lon": 3.305211073907758, 
       "pcode": 8300, 
-      "street": "Madeliefjespad", 
-      "lon": 3.305211073907758
+      "street": "Madeliefjespad"
     }, 
     {
-      "lat": 51.33982551963865, 
       "housenumber": "4", 
+      "lat": 51.33982551963865, 
+      "lon": 3.3056467148468682, 
       "pcode": 8300, 
-      "street": "Madeliefjespad", 
-      "lon": 3.3056467148468682
+      "street": "Madeliefjespad"
     }, 
     {
-      "lat": 51.33996993327687, 
       "housenumber": "5", 
+      "lat": 51.33996993327687, 
+      "lon": 3.3051712546800167, 
       "pcode": 8300, 
-      "street": "Madeliefjespad", 
-      "lon": 3.3051712546800167
+      "street": "Madeliefjespad"
     }
-  ], 
-  "name": "Madeliefjespad"
+  ]
 }

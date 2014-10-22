@@ -1,39 +1,37 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.74289891118226, 
       "housenumber": "26", 
+      "lat": 50.74289891118226, 
+      "lon": 3.6008648717865177, 
       "pcode": 9600, 
-      "street": "Collegestraat", 
-      "lon": 3.6008648717865177
+      "street": "Collegestraat"
     }, 
     {
-      "lat": 50.74247822320788, 
       "housenumber": "3", 
+      "lat": 50.74247822320788, 
+      "lon": 3.6006950390542647, 
       "pcode": 9600, 
-      "street": "Collegestraat", 
-      "lon": 3.6006950390542647
+      "street": "Collegestraat"
     }, 
     {
+      "housenumber": "34", 
       "pcode": 9600, 
-      "street": "Collegestraat", 
-      "housenumber": "34"
+      "street": "Collegestraat"
     }, 
     {
-      "lat": 50.74262432494023, 
       "housenumber": "36", 
+      "lat": 50.74262432494023, 
+      "lon": 3.6007514595263106, 
       "pcode": 9600, 
-      "street": "Collegestraat", 
-      "lon": 3.6007514595263106
+      "street": "Collegestraat"
     }, 
     {
-      "lat": 50.7427567569938, 
       "housenumber": "4", 
+      "lat": 50.7427567569938, 
+      "lon": 3.6007249323190607, 
       "pcode": 9600, 
-      "street": "Collegestraat", 
-      "lon": 3.6007249323190607
+      "street": "Collegestraat"
     }
-  ], 
-  "name": "Collegestraat"
+  ]
 }

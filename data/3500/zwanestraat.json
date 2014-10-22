@@ -1,34 +1,32 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.9306580491464, 
       "housenumber": "1", 
+      "lat": 50.9306580491464, 
+      "lon": 5.336212350295776, 
       "pcode": 3500, 
-      "street": "Zwanestraat", 
-      "lon": 5.336212350295776
+      "street": "Zwanestraat"
     }, 
     {
-      "lat": 50.93066579065657, 
       "housenumber": "2", 
+      "lat": 50.93066579065657, 
+      "lon": 5.335774635271302, 
       "pcode": 3500, 
-      "street": "Zwanestraat", 
-      "lon": 5.335774635271302
+      "street": "Zwanestraat"
     }, 
     {
-      "lat": 50.93061955334878, 
       "housenumber": "3", 
+      "lat": 50.93061955334878, 
+      "lon": 5.336116384460693, 
       "pcode": 3500, 
-      "street": "Zwanestraat", 
-      "lon": 5.336116384460693
+      "street": "Zwanestraat"
     }, 
     {
-      "lat": 50.93055109463531, 
       "housenumber": "5", 
+      "lat": 50.93055109463531, 
+      "lon": 5.336078126914023, 
       "pcode": 3500, 
-      "street": "Zwanestraat", 
-      "lon": 5.336078126914023
+      "street": "Zwanestraat"
     }
-  ], 
-  "name": "Zwanestraat"
+  ]
 }

@@ -1,25 +1,23 @@
 {
-  "pcode": 3221, 
   "addresses": [
     {
-      "lat": 50.94970835368589, 
       "housenumber": "1", 
+      "lat": 50.94970835368589, 
+      "lon": 4.848980066366872, 
       "pcode": 3221, 
-      "street": "Grootveld", 
-      "lon": 4.848980066366872
+      "street": "Grootveld"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3221, 
-      "street": "Grootveld", 
-      "housenumber": "2"
+      "street": "Grootveld"
     }, 
     {
-      "lat": 50.950814040982195, 
       "housenumber": "4", 
+      "lat": 50.950814040982195, 
+      "lon": 4.84332498740321, 
       "pcode": 3221, 
-      "street": "Grootveld", 
-      "lon": 4.84332498740321
+      "street": "Grootveld"
     }
-  ], 
-  "name": "Grootveld"
+  ]
 }

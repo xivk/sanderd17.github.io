@@ -1,20 +1,18 @@
 {
-  "pcode": 3910, 
   "addresses": [
     {
-      "lat": 51.22567597964057, 
       "housenumber": "1", 
+      "lat": 51.22567597964057, 
+      "lon": 5.445527500904345, 
       "pcode": 3910, 
-      "street": "Kremerstraat", 
-      "lon": 5.445527500904345
+      "street": "Kremerstraat"
     }, 
     {
-      "lat": 51.225856026118755, 
       "housenumber": "3", 
+      "lat": 51.225856026118755, 
+      "lon": 5.445321355558847, 
       "pcode": 3910, 
-      "street": "Kremerstraat", 
-      "lon": 5.445321355558847
+      "street": "Kremerstraat"
     }
-  ], 
-  "name": "Kremerstraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 8660, 
   "addresses": [
     {
-      "lat": 51.0643229820929, 
       "housenumber": "1", 
+      "lat": 51.0643229820929, 
+      "lon": 2.616207201495833, 
       "pcode": 8660, 
-      "street": "Cappoenstraat", 
-      "lon": 2.616207201495833
+      "street": "Cappoenstraat"
     }, 
     {
-      "lat": 51.06125005463055, 
       "housenumber": "2", 
+      "lat": 51.06125005463055, 
+      "lon": 2.604268294627913, 
       "pcode": 8660, 
-      "street": "Cappoenstraat", 
-      "lon": 2.604268294627913
+      "street": "Cappoenstraat"
     }, 
     {
-      "lat": 51.062974989579196, 
       "housenumber": "3", 
+      "lat": 51.062974989579196, 
+      "lon": 2.6138263962820143, 
       "pcode": 8660, 
-      "street": "Cappoenstraat", 
-      "lon": 2.6138263962820143
+      "street": "Cappoenstraat"
     }
-  ], 
-  "name": "Cappoenstraat"
+  ]
 }

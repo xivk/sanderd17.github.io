@@ -1,32 +1,30 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.93854812548322, 
       "housenumber": "1", 
+      "lat": 50.93854812548322, 
+      "lon": 5.354442357763706, 
       "pcode": 3500, 
-      "street": "Vissersstraat", 
-      "lon": 5.354442357763706
+      "street": "Vissersstraat"
     }, 
     {
+      "housenumber": "1K", 
       "pcode": 3500, 
-      "street": "Vissersstraat", 
-      "housenumber": "1K"
+      "street": "Vissersstraat"
     }, 
     {
-      "lat": 50.94067170207445, 
       "housenumber": "2", 
+      "lat": 50.94067170207445, 
+      "lon": 5.353677520616123, 
       "pcode": 3500, 
-      "street": "Vissersstraat", 
-      "lon": 5.353677520616123
+      "street": "Vissersstraat"
     }, 
     {
-      "lat": 50.939214445622795, 
       "housenumber": "3", 
+      "lat": 50.939214445622795, 
+      "lon": 5.354905564609432, 
       "pcode": 3500, 
-      "street": "Vissersstraat", 
-      "lon": 5.354905564609432
+      "street": "Vissersstraat"
     }
-  ], 
-  "name": "Vissersstraat"
+  ]
 }

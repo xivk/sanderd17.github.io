@@ -1,53 +1,51 @@
 {
-  "pcode": 8020, 
   "addresses": [
     {
-      "lat": 51.15530709130799, 
       "housenumber": "1", 
+      "lat": 51.15530709130799, 
+      "lon": 3.2366121627408284, 
       "pcode": 8020, 
-      "street": "Pastorieplein", 
-      "lon": 3.2366121627408284
+      "street": "Pastorieplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8020, 
-      "street": "Pastorieplein", 
-      "housenumber": "2"
+      "street": "Pastorieplein"
     }, 
     {
-      "lat": 51.15582448242514, 
       "housenumber": "3", 
+      "lat": 51.15582448242514, 
+      "lon": 3.235875154607896, 
       "pcode": 8020, 
-      "street": "Pastorieplein", 
-      "lon": 3.235875154607896
+      "street": "Pastorieplein"
     }, 
     {
-      "lat": 51.15580045027791, 
       "housenumber": "4", 
+      "lat": 51.15580045027791, 
+      "lon": 3.236406510227661, 
       "pcode": 8020, 
-      "street": "Pastorieplein", 
-      "lon": 3.236406510227661
+      "street": "Pastorieplein"
     }, 
     {
-      "lat": 51.15577613868441, 
       "housenumber": "5", 
+      "lat": 51.15577613868441, 
+      "lon": 3.2361679444673235, 
       "pcode": 8020, 
-      "street": "Pastorieplein", 
-      "lon": 3.2361679444673235
+      "street": "Pastorieplein"
     }, 
     {
-      "lat": 51.155766495717025, 
       "housenumber": "6", 
+      "lat": 51.155766495717025, 
+      "lon": 3.2362310761318875, 
       "pcode": 8020, 
-      "street": "Pastorieplein", 
-      "lon": 3.2362310761318875
+      "street": "Pastorieplein"
     }, 
     {
-      "lat": 51.15577307731774, 
       "housenumber": "8", 
+      "lat": 51.15577307731774, 
+      "lon": 3.236073671821139, 
       "pcode": 8020, 
-      "street": "Pastorieplein", 
-      "lon": 3.236073671821139
+      "street": "Pastorieplein"
     }
-  ], 
-  "name": "Pastorieplein"
+  ]
 }

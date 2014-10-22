@@ -1,23 +1,21 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.3062723990761, 
       "housenumber": "2", 
+      "lat": 51.3062723990761, 
+      "lon": 4.35974956599138, 
       "pcode": 2030, 
-      "street": "Poldervlietweg", 
-      "lon": 4.35974956599138
+      "street": "Poldervlietweg"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2030, 
-      "street": "Poldervlietweg", 
-      "housenumber": "3"
+      "street": "Poldervlietweg"
     }, 
     {
+      "housenumber": "550", 
       "pcode": 2030, 
-      "street": "Poldervlietweg", 
-      "housenumber": "550"
+      "street": "Poldervlietweg"
     }
-  ], 
-  "name": "Poldervlietweg"
+  ]
 }

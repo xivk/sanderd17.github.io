@@ -1,37 +1,35 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.21344018778089, 
       "housenumber": "2", 
+      "lat": 51.21344018778089, 
+      "lon": 3.218532558542087, 
       "pcode": 8000, 
-      "street": "Hugo Losschaertstraat", 
-      "lon": 3.218532558542087
+      "street": "Hugo Losschaertstraat"
     }, 
     {
-      "lat": 51.2143740233161, 
       "housenumber": "3", 
+      "lat": 51.2143740233161, 
+      "lon": 3.2207634047045373, 
       "pcode": 8000, 
-      "street": "Hugo Losschaertstraat", 
-      "lon": 3.2207634047045373
+      "street": "Hugo Losschaertstraat"
     }, 
     {
-      "lat": 51.213994086097536, 
       "housenumber": "5", 
+      "lat": 51.213994086097536, 
+      "lon": 3.2192595955677437, 
       "pcode": 8000, 
-      "street": "Hugo Losschaertstraat", 
-      "lon": 3.2192595955677437
+      "street": "Hugo Losschaertstraat"
     }, 
     {
+      "housenumber": "5A", 
       "pcode": 8000, 
-      "street": "Hugo Losschaertstraat", 
-      "housenumber": "5A"
+      "street": "Hugo Losschaertstraat"
     }, 
     {
+      "housenumber": "5B", 
       "pcode": 8000, 
-      "street": "Hugo Losschaertstraat", 
-      "housenumber": "5B"
+      "street": "Hugo Losschaertstraat"
     }
-  ], 
-  "name": "Hugo Losschaertstraat"
+  ]
 }

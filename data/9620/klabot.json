@@ -1,32 +1,30 @@
 {
-  "pcode": 9620, 
   "addresses": [
     {
-      "lat": 50.878175277794305, 
       "housenumber": "1", 
+      "lat": 50.878175277794305, 
+      "lon": 3.8537517169916313, 
       "pcode": 9620, 
-      "street": "Klabot", 
-      "lon": 3.8537517169916313
+      "street": "Klabot"
     }, 
     {
-      "lat": 50.87751939927673, 
       "housenumber": "1A", 
+      "lat": 50.87751939927673, 
+      "lon": 3.854471620781232, 
       "pcode": 9620, 
-      "street": "Klabot", 
-      "lon": 3.854471620781232
+      "street": "Klabot"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 9620, 
-      "street": "Klabot", 
-      "housenumber": "1B"
+      "street": "Klabot"
     }, 
     {
-      "lat": 50.87826050690328, 
       "housenumber": "2", 
+      "lat": 50.87826050690328, 
+      "lon": 3.8532612763504765, 
       "pcode": 9620, 
-      "street": "Klabot", 
-      "lon": 3.8532612763504765
+      "street": "Klabot"
     }
-  ], 
-  "name": "Klabot"
+  ]
 }

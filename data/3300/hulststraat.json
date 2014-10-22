@@ -1,44 +1,42 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.82146676789585, 
       "housenumber": "1", 
+      "lat": 50.82146676789585, 
+      "lon": 4.8816392411069724, 
       "pcode": 3300, 
-      "street": "Hulststraat", 
-      "lon": 4.8816392411069724
+      "street": "Hulststraat"
     }, 
     {
+      "housenumber": "13", 
       "pcode": 3300, 
-      "street": "Hulststraat", 
-      "housenumber": "13"
+      "street": "Hulststraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3300, 
-      "street": "Hulststraat", 
-      "housenumber": "2"
+      "street": "Hulststraat"
     }, 
     {
-      "lat": 50.82179675664584, 
       "housenumber": "3", 
+      "lat": 50.82179675664584, 
+      "lon": 4.881911927702804, 
       "pcode": 3300, 
-      "street": "Hulststraat", 
-      "lon": 4.881911927702804
+      "street": "Hulststraat"
     }, 
     {
-      "lat": 50.82147096463021, 
       "housenumber": "4", 
+      "lat": 50.82147096463021, 
+      "lon": 4.88236336571059, 
       "pcode": 3300, 
-      "street": "Hulststraat", 
-      "lon": 4.88236336571059
+      "street": "Hulststraat"
     }, 
     {
-      "lat": 50.82135213484132, 
       "housenumber": "5", 
+      "lat": 50.82135213484132, 
+      "lon": 4.88203195989531, 
       "pcode": 3300, 
-      "street": "Hulststraat", 
-      "lon": 4.88203195989531
+      "street": "Hulststraat"
     }
-  ], 
-  "name": "Hulststraat"
+  ]
 }

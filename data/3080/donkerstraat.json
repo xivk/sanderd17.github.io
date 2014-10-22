@@ -1,20 +1,18 @@
 {
-  "pcode": 3080, 
   "addresses": [
     {
-      "lat": 50.834221168400354, 
       "housenumber": "2", 
+      "lat": 50.834221168400354, 
+      "lon": 4.567246940194978, 
       "pcode": 3080, 
-      "street": "Donkerstraat", 
-      "lon": 4.567246940194978
+      "street": "Donkerstraat"
     }, 
     {
-      "lat": 50.833805431810504, 
       "housenumber": "8", 
+      "lat": 50.833805431810504, 
+      "lon": 4.567704261330768, 
       "pcode": 3080, 
-      "street": "Donkerstraat", 
-      "lon": 4.567704261330768
+      "street": "Donkerstraat"
     }
-  ], 
-  "name": "Donkerstraat"
+  ]
 }

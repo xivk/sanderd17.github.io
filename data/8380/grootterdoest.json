@@ -1,25 +1,23 @@
 {
-  "pcode": 8380, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8380, 
-      "street": "Groot Ter Doest", 
-      "housenumber": "1"
+      "street": "Groot Ter Doest"
     }, 
     {
-      "lat": 51.282788988705164, 
       "housenumber": "11", 
+      "lat": 51.282788988705164, 
+      "lon": 3.196965938763384, 
       "pcode": 8380, 
-      "street": "Groot Ter Doest", 
-      "lon": 3.196965938763384
+      "street": "Groot Ter Doest"
     }, 
     {
-      "lat": 51.2811955143351, 
       "housenumber": "2", 
+      "lat": 51.2811955143351, 
+      "lon": 3.190935016924026, 
       "pcode": 8380, 
-      "street": "Groot Ter Doest", 
-      "lon": 3.190935016924026
+      "street": "Groot Ter Doest"
     }
-  ], 
-  "name": "Groot Ter Doest"
+  ]
 }

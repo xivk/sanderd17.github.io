@@ -1,20 +1,18 @@
 {
-  "pcode": 9890, 
   "addresses": [
     {
-      "lat": 50.94755732597138, 
       "housenumber": "4", 
+      "lat": 50.94755732597138, 
+      "lon": 3.674819543004372, 
       "pcode": 9890, 
-      "street": "Steenland", 
-      "lon": 3.674819543004372
+      "street": "Steenland"
     }, 
     {
-      "lat": 50.94788727290653, 
       "housenumber": "8", 
+      "lat": 50.94788727290653, 
+      "lon": 3.674717471496616, 
       "pcode": 9890, 
-      "street": "Steenland", 
-      "lon": 3.674717471496616
+      "street": "Steenland"
     }
-  ], 
-  "name": "Steenland"
+  ]
 }

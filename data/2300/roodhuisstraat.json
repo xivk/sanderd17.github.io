@@ -1,27 +1,25 @@
 {
-  "pcode": 2300, 
   "addresses": [
     {
-      "lat": 51.35791432355634, 
       "housenumber": "10", 
+      "lat": 51.35791432355634, 
+      "lon": 4.958958399500578, 
       "pcode": 2300, 
-      "street": "Roodhuisstraat", 
-      "lon": 4.958958399500578
+      "street": "Roodhuisstraat"
     }, 
     {
-      "lat": 51.355449494136856, 
       "housenumber": "4", 
+      "lat": 51.355449494136856, 
+      "lon": 4.9572432111351645, 
       "pcode": 2300, 
-      "street": "Roodhuisstraat", 
-      "lon": 4.9572432111351645
+      "street": "Roodhuisstraat"
     }, 
     {
-      "lat": 51.35626986138591, 
       "housenumber": "8", 
+      "lat": 51.35626986138591, 
+      "lon": 4.962373321916316, 
       "pcode": 2300, 
-      "street": "Roodhuisstraat", 
-      "lon": 4.962373321916316
+      "street": "Roodhuisstraat"
     }
-  ], 
-  "name": "Roodhuisstraat"
+  ]
 }

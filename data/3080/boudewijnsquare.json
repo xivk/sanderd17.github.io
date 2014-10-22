@@ -1,27 +1,25 @@
 {
-  "pcode": 3080, 
   "addresses": [
     {
-      "lat": 50.833225216407556, 
       "housenumber": "1", 
+      "lat": 50.833225216407556, 
+      "lon": 4.53328782724891, 
       "pcode": 3080, 
-      "street": "Boudewijnsquare", 
-      "lon": 4.53328782724891
+      "street": "Boudewijnsquare"
     }, 
     {
-      "lat": 50.833305759243906, 
       "housenumber": "2", 
+      "lat": 50.833305759243906, 
+      "lon": 4.534181138176912, 
       "pcode": 3080, 
-      "street": "Boudewijnsquare", 
-      "lon": 4.534181138176912
+      "street": "Boudewijnsquare"
     }, 
     {
-      "lat": 50.83369094072882, 
       "housenumber": "3", 
+      "lat": 50.83369094072882, 
+      "lon": 4.533942312076808, 
       "pcode": 3080, 
-      "street": "Boudewijnsquare", 
-      "lon": 4.533942312076808
+      "street": "Boudewijnsquare"
     }
-  ], 
-  "name": "Boudewijnsquare"
+  ]
 }

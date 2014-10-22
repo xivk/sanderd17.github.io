@@ -1,20 +1,18 @@
 {
-  "pcode": 2500, 
   "addresses": [
     {
-      "lat": 51.128970607454384, 
       "housenumber": "2", 
+      "lat": 51.128970607454384, 
+      "lon": 4.568921734789073, 
       "pcode": 2500, 
-      "street": "Kalkovenstraat", 
-      "lon": 4.568921734789073
+      "street": "Kalkovenstraat"
     }, 
     {
-      "lat": 51.12926926226349, 
       "housenumber": "3", 
+      "lat": 51.12926926226349, 
+      "lon": 4.568840021391046, 
       "pcode": 2500, 
-      "street": "Kalkovenstraat", 
-      "lon": 4.568840021391046
+      "street": "Kalkovenstraat"
     }
-  ], 
-  "name": "Kalkovenstraat"
+  ]
 }

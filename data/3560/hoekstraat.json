@@ -1,37 +1,35 @@
 {
-  "pcode": 3560, 
   "addresses": [
     {
-      "lat": 50.96949539534691, 
       "housenumber": "1", 
+      "lat": 50.96949539534691, 
+      "lon": 5.155028669414502, 
       "pcode": 3560, 
-      "street": "Hoekstraat", 
-      "lon": 5.155028669414502
+      "street": "Hoekstraat"
     }, 
     {
+      "housenumber": "13", 
       "pcode": 3560, 
-      "street": "Hoekstraat", 
-      "housenumber": "13"
+      "street": "Hoekstraat"
     }, 
     {
-      "lat": 50.969520338175464, 
       "housenumber": "2", 
+      "lat": 50.969520338175464, 
+      "lon": 5.155546187969974, 
       "pcode": 3560, 
-      "street": "Hoekstraat", 
-      "lon": 5.155546187969974
+      "street": "Hoekstraat"
     }, 
     {
+      "housenumber": "32", 
       "pcode": 3560, 
-      "street": "Hoekstraat", 
-      "housenumber": "32"
+      "street": "Hoekstraat"
     }, 
     {
-      "lat": 50.96990070008598, 
       "housenumber": "7", 
+      "lat": 50.96990070008598, 
+      "lon": 5.154389662451779, 
       "pcode": 3560, 
-      "street": "Hoekstraat", 
-      "lon": 5.154389662451779
+      "street": "Hoekstraat"
     }
-  ], 
-  "name": "Hoekstraat"
+  ]
 }

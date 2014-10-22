@@ -1,20 +1,18 @@
 {
-  "pcode": 2240, 
   "addresses": [
     {
-      "lat": 51.219973890392026, 
       "housenumber": "20", 
+      "lat": 51.219973890392026, 
+      "lon": 4.6972630162803055, 
       "pcode": 2240, 
-      "street": "Valkenaard", 
-      "lon": 4.6972630162803055
+      "street": "Valkenaard"
     }, 
     {
-      "lat": 51.22112430360228, 
       "housenumber": "54", 
+      "lat": 51.22112430360228, 
+      "lon": 4.699843415806319, 
       "pcode": 2240, 
-      "street": "Valkenaard", 
-      "lon": 4.699843415806319
+      "street": "Valkenaard"
     }
-  ], 
-  "name": "Valkenaard"
+  ]
 }

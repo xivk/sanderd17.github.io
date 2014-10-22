@@ -1,60 +1,58 @@
 {
-  "pcode": 8210, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8210, 
-      "street": "Emma\u0081sdreef", 
-      "housenumber": "1"
+      "street": "Emma\u0081sdreef"
     }, 
     {
-      "lat": 51.15629294704734, 
       "housenumber": "2", 
+      "lat": 51.15629294704734, 
+      "lon": 3.168103069322351, 
       "pcode": 8210, 
-      "street": "Emma\u0081sdreef", 
-      "lon": 3.168103069322351
+      "street": "Emma\u0081sdreef"
     }, 
     {
-      "lat": 51.15619099391764, 
       "housenumber": "3", 
+      "lat": 51.15619099391764, 
+      "lon": 3.1689958585982985, 
       "pcode": 8210, 
-      "street": "Emma\u0081sdreef", 
-      "lon": 3.1689958585982985
+      "street": "Emma\u0081sdreef"
     }, 
     {
-      "lat": 51.15588164383005, 
       "housenumber": "4", 
+      "lat": 51.15588164383005, 
+      "lon": 3.1691540457963088, 
       "pcode": 8210, 
-      "street": "Emma\u0081sdreef", 
-      "lon": 3.1691540457963088
+      "street": "Emma\u0081sdreef"
     }, 
     {
-      "lat": 51.15503482530352, 
       "housenumber": "6", 
+      "lat": 51.15503482530352, 
+      "lon": 3.172178444244551, 
       "pcode": 8210, 
-      "street": "Emma\u0081sdreef", 
-      "lon": 3.172178444244551
+      "street": "Emma\u0081sdreef"
     }, 
     {
-      "lat": 51.1552662332844, 
       "housenumber": "7", 
+      "lat": 51.1552662332844, 
+      "lon": 3.1698211293435357, 
       "pcode": 8210, 
-      "street": "Emma\u0081sdreef", 
-      "lon": 3.1698211293435357
+      "street": "Emma\u0081sdreef"
     }, 
     {
-      "lat": 51.1552717914737, 
       "housenumber": "8", 
+      "lat": 51.1552717914737, 
+      "lon": 3.1690935127810893, 
       "pcode": 8210, 
-      "street": "Emma\u0081sdreef", 
-      "lon": 3.1690935127810893
+      "street": "Emma\u0081sdreef"
     }, 
     {
-      "lat": 51.15487281613444, 
       "housenumber": "9", 
+      "lat": 51.15487281613444, 
+      "lon": 3.1680131993970138, 
       "pcode": 8210, 
-      "street": "Emma\u0081sdreef", 
-      "lon": 3.1680131993970138
+      "street": "Emma\u0081sdreef"
     }
-  ], 
-  "name": "Emma\u0081sdreef"
+  ]
 }

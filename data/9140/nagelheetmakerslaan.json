@@ -1,18 +1,16 @@
 {
-  "pcode": 9140, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9140, 
-      "street": "Nagelheetmakerslaan", 
-      "housenumber": "1"
+      "street": "Nagelheetmakerslaan"
     }, 
     {
-      "lat": 51.124645086616894, 
       "housenumber": "2", 
+      "lat": 51.124645086616894, 
+      "lon": 4.211768073968834, 
       "pcode": 9140, 
-      "street": "Nagelheetmakerslaan", 
-      "lon": 4.211768073968834
+      "street": "Nagelheetmakerslaan"
     }
-  ], 
-  "name": "Nagelheetmakerslaan"
+  ]
 }

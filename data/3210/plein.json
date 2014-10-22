@@ -1,53 +1,51 @@
 {
-  "pcode": 3210, 
   "addresses": [
     {
+      "housenumber": "101", 
       "pcode": 3210, 
-      "street": "Plein", 
-      "housenumber": "101"
+      "street": "Plein"
     }, 
     {
-      "lat": 50.89033202936618, 
       "housenumber": "124", 
+      "lat": 50.89033202936618, 
+      "lon": 4.7925387901736025, 
       "pcode": 3210, 
-      "street": "Plein", 
-      "lon": 4.7925387901736025
+      "street": "Plein"
     }, 
     {
-      "lat": 50.891005674000425, 
       "housenumber": "126", 
+      "lat": 50.891005674000425, 
+      "lon": 4.791527088756081, 
       "pcode": 3210, 
-      "street": "Plein", 
-      "lon": 4.791527088756081
+      "street": "Plein"
     }, 
     {
-      "lat": 50.890389069173295, 
       "housenumber": "127", 
+      "lat": 50.890389069173295, 
+      "lon": 4.791505468461747, 
       "pcode": 3210, 
-      "street": "Plein", 
-      "lon": 4.791505468461747
+      "street": "Plein"
     }, 
     {
-      "lat": 50.8910880614154, 
       "housenumber": "128", 
+      "lat": 50.8910880614154, 
+      "lon": 4.791290759039267, 
       "pcode": 3210, 
-      "street": "Plein", 
-      "lon": 4.791290759039267
+      "street": "Plein"
     }, 
     {
-      "lat": 50.891117930665345, 
       "housenumber": "130", 
+      "lat": 50.891117930665345, 
+      "lon": 4.791159415888816, 
       "pcode": 3210, 
-      "street": "Plein", 
-      "lon": 4.791159415888816
+      "street": "Plein"
     }, 
     {
-      "lat": 50.8911340758483, 
       "housenumber": "132", 
+      "lat": 50.8911340758483, 
+      "lon": 4.7909698178002005, 
       "pcode": 3210, 
-      "street": "Plein", 
-      "lon": 4.7909698178002005
+      "street": "Plein"
     }
-  ], 
-  "name": "Plein"
+  ]
 }

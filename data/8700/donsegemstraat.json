@@ -1,20 +1,18 @@
 {
-  "pcode": 8700, 
   "addresses": [
     {
-      "lat": 51.01100627211784, 
       "housenumber": "10", 
+      "lat": 51.01100627211784, 
+      "lon": 3.446708287397928, 
       "pcode": 8700, 
-      "street": "Donsegemstraat", 
-      "lon": 3.446708287397928
+      "street": "Donsegemstraat"
     }, 
     {
-      "lat": 51.01092217212175, 
       "housenumber": "4", 
+      "lat": 51.01092217212175, 
+      "lon": 3.4426004636958365, 
       "pcode": 8700, 
-      "street": "Donsegemstraat", 
-      "lon": 3.4426004636958365
+      "street": "Donsegemstraat"
     }
-  ], 
-  "name": "Donsegemstraat"
+  ]
 }

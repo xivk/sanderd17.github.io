@@ -1,20 +1,18 @@
 {
-  "pcode": 8600, 
   "addresses": [
     {
-      "lat": 50.982142114216074, 
       "housenumber": "1", 
+      "lat": 50.982142114216074, 
+      "lon": 2.8014925001524253, 
       "pcode": 8600, 
-      "street": "Knokkestraat", 
-      "lon": 2.8014925001524253
+      "street": "Knokkestraat"
     }, 
     {
-      "lat": 50.983159785955316, 
       "housenumber": "2", 
+      "lat": 50.983159785955316, 
+      "lon": 2.803576967431795, 
       "pcode": 8600, 
-      "street": "Knokkestraat", 
-      "lon": 2.803576967431795
+      "street": "Knokkestraat"
     }
-  ], 
-  "name": "Knokkestraat"
+  ]
 }

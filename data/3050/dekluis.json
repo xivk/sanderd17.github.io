@@ -1,18 +1,16 @@
 {
-  "pcode": 3050, 
   "addresses": [
     {
-      "lat": 50.838188266129315, 
       "housenumber": "51", 
+      "lat": 50.838188266129315, 
+      "lon": 4.663849702368548, 
       "pcode": 3050, 
-      "street": "De Kluis", 
-      "lon": 4.663849702368548
+      "street": "De Kluis"
     }, 
     {
+      "housenumber": "51C", 
       "pcode": 3050, 
-      "street": "De Kluis", 
-      "housenumber": "51C"
+      "street": "De Kluis"
     }
-  ], 
-  "name": "De Kluis"
+  ]
 }

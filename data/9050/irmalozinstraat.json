@@ -1,20 +1,18 @@
 {
-  "pcode": 9050, 
   "addresses": [
     {
-      "lat": 51.04437428621615, 
       "housenumber": "1", 
+      "lat": 51.04437428621615, 
+      "lon": 3.7451865918509206, 
       "pcode": 9050, 
-      "street": "Irma Lozinstraat", 
-      "lon": 3.7451865918509206
+      "street": "Irma Lozinstraat"
     }, 
     {
-      "lat": 51.0446044775322, 
       "housenumber": "2", 
+      "lat": 51.0446044775322, 
+      "lon": 3.7451480215074486, 
       "pcode": 9050, 
-      "street": "Irma Lozinstraat", 
-      "lon": 3.7451480215074486
+      "street": "Irma Lozinstraat"
     }
-  ], 
-  "name": "Irma Lozinstraat"
+  ]
 }

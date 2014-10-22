@@ -1,30 +1,28 @@
 {
-  "pcode": 9050, 
   "addresses": [
     {
-      "lat": 51.04501364707439, 
       "housenumber": "1", 
+      "lat": 51.04501364707439, 
+      "lon": 3.745279757271541, 
       "pcode": 9050, 
-      "street": "Claragoed", 
-      "lon": 3.745279757271541
+      "street": "Claragoed"
     }, 
     {
-      "lat": 51.045239034973875, 
       "housenumber": "2", 
+      "lat": 51.045239034973875, 
+      "lon": 3.7457099790841077, 
       "pcode": 9050, 
-      "street": "Claragoed", 
-      "lon": 3.7457099790841077
+      "street": "Claragoed"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9050, 
-      "street": "Claragoed", 
-      "housenumber": "3"
+      "street": "Claragoed"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9050, 
-      "street": "Claragoed", 
-      "housenumber": "4"
+      "street": "Claragoed"
     }
-  ], 
-  "name": "Claragoed"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 50.96287074782131, 
       "housenumber": "1", 
+      "lat": 50.96287074782131, 
+      "lon": 3.5323275471890048, 
       "pcode": 9800, 
-      "street": "Paddepoel", 
-      "lon": 3.5323275471890048
+      "street": "Paddepoel"
     }, 
     {
-      "lat": 50.96242906773872, 
       "housenumber": "2", 
+      "lat": 50.96242906773872, 
+      "lon": 3.5320602515614343, 
       "pcode": 9800, 
-      "street": "Paddepoel", 
-      "lon": 3.5320602515614343
+      "street": "Paddepoel"
     }
-  ], 
-  "name": "Paddepoel"
+  ]
 }

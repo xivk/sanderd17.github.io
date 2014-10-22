@@ -1,20 +1,18 @@
 {
-  "pcode": 3840, 
   "addresses": [
     {
-      "lat": 50.831897300708974, 
       "housenumber": "69", 
+      "lat": 50.831897300708974, 
+      "lon": 5.389811515087637, 
       "pcode": 3840, 
-      "street": "Belle Vue", 
-      "lon": 5.389811515087637
+      "street": "Belle Vue"
     }, 
     {
-      "lat": 50.83293443011178, 
       "housenumber": "70", 
+      "lat": 50.83293443011178, 
+      "lon": 5.388087596662497, 
       "pcode": 3840, 
-      "street": "Belle Vue", 
-      "lon": 5.388087596662497
+      "street": "Belle Vue"
     }
-  ], 
-  "name": "Belle Vue"
+  ]
 }

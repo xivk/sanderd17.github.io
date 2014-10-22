@@ -1,20 +1,18 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05390876868897, 
       "housenumber": "1", 
+      "lat": 51.05390876868897, 
+      "lon": 3.7375515093890552, 
       "pcode": 9000, 
-      "street": "Kapelaanstraat", 
-      "lon": 3.7375515093890552
+      "street": "Kapelaanstraat"
     }, 
     {
-      "lat": 51.053804105549325, 
       "housenumber": "2", 
+      "lat": 51.053804105549325, 
+      "lon": 3.737428691541777, 
       "pcode": 9000, 
-      "street": "Kapelaanstraat", 
-      "lon": 3.737428691541777
+      "street": "Kapelaanstraat"
     }
-  ], 
-  "name": "Kapelaanstraat"
+  ]
 }

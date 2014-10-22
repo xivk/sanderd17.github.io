@@ -1,39 +1,37 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.87710469489628, 
       "housenumber": "1", 
+      "lat": 50.87710469489628, 
+      "lon": 4.712674274340272, 
       "pcode": 3000, 
-      "street": "Straatjesgang", 
-      "lon": 4.712674274340272
+      "street": "Straatjesgang"
     }, 
     {
-      "lat": 50.87734363247467, 
       "housenumber": "2", 
+      "lat": 50.87734363247467, 
+      "lon": 4.712154850197128, 
       "pcode": 3000, 
-      "street": "Straatjesgang", 
-      "lon": 4.712154850197128
+      "street": "Straatjesgang"
     }, 
     {
-      "lat": 50.87730578919194, 
       "housenumber": "3", 
+      "lat": 50.87730578919194, 
+      "lon": 4.71233786572603, 
       "pcode": 3000, 
-      "street": "Straatjesgang", 
-      "lon": 4.71233786572603
+      "street": "Straatjesgang"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3000, 
-      "street": "Straatjesgang", 
-      "housenumber": "4"
+      "street": "Straatjesgang"
     }, 
     {
-      "lat": 50.87720198074507, 
       "housenumber": "5", 
+      "lat": 50.87720198074507, 
+      "lon": 4.712484022984346, 
       "pcode": 3000, 
-      "street": "Straatjesgang", 
-      "lon": 4.712484022984346
+      "street": "Straatjesgang"
     }
-  ], 
-  "name": "Straatjesgang"
+  ]
 }

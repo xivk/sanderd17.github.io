@@ -1,18 +1,16 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
-      "lat": 51.27263649895072, 
       "housenumber": "1", 
+      "lat": 51.27263649895072, 
+      "lon": 3.0328989872219236, 
       "pcode": 8420, 
-      "street": "Nieuwe Rijksweg", 
-      "lon": 3.0328989872219236
+      "street": "Nieuwe Rijksweg"
     }, 
     {
+      "housenumber": "16", 
       "pcode": 8420, 
-      "street": "Nieuwe Rijksweg", 
-      "housenumber": "16"
+      "street": "Nieuwe Rijksweg"
     }
-  ], 
-  "name": "Nieuwe Rijksweg"
+  ]
 }

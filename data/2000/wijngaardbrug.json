@@ -1,34 +1,32 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.22122041630595, 
       "housenumber": "2", 
+      "lat": 51.22122041630595, 
+      "lon": 4.404818084867996, 
       "pcode": 2000, 
-      "street": "Wijngaardbrug", 
-      "lon": 4.404818084867996
+      "street": "Wijngaardbrug"
     }, 
     {
-      "lat": 51.22122273190663, 
       "housenumber": "4", 
+      "lat": 51.22122273190663, 
+      "lon": 4.404886790920401, 
       "pcode": 2000, 
-      "street": "Wijngaardbrug", 
-      "lon": 4.404886790920401
+      "street": "Wijngaardbrug"
     }, 
     {
-      "lat": 51.22122154070226, 
       "housenumber": "6", 
+      "lat": 51.22122154070226, 
+      "lon": 4.404959645084985, 
       "pcode": 2000, 
-      "street": "Wijngaardbrug", 
-      "lon": 4.404959645084985
+      "street": "Wijngaardbrug"
     }, 
     {
-      "lat": 51.22120946374709, 
       "housenumber": "8", 
+      "lat": 51.22120946374709, 
+      "lon": 4.405063693774846, 
       "pcode": 2000, 
-      "street": "Wijngaardbrug", 
-      "lon": 4.405063693774846
+      "street": "Wijngaardbrug"
     }
-  ], 
-  "name": "Wijngaardbrug"
+  ]
 }

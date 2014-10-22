@@ -1,177 +1,175 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.21658429793311, 
       "housenumber": "03", 
+      "lat": 51.21658429793311, 
+      "lon": 2.940828390433401, 
       "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.940828390433401
+      "street": "Brouwerijstraat"
     }, 
     {
-      "lat": 51.2158629399222, 
       "housenumber": "1", 
-      "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.940099251865725
-    }, 
-    {
-      "lat": 51.21612547740627, 
-      "housenumber": "11", 
-      "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.940205727365769
-    }, 
-    {
-      "lat": 51.21600211697945, 
-      "housenumber": "12", 
-      "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.940509535324929
-    }, 
-    {
-      "lat": 51.216197590700176, 
-      "housenumber": "13", 
-      "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.9401100454690843
-    }, 
-    {
-      "lat": 51.21604964988975, 
-      "housenumber": "14", 
-      "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.940537281505792
-    }, 
-    {
-      "lat": 51.21623310576054, 
-      "housenumber": "15", 
-      "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.94022204234683
-    }, 
-    {
-      "lat": 51.21608688952324, 
-      "housenumber": "16", 
-      "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.9405613348253574
-    }, 
-    {
-      "lat": 51.21626897672815, 
-      "housenumber": "17", 
-      "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.9403114115734805
-    }, 
-    {
-      "lat": 51.216133618829616, 
-      "housenumber": "18", 
-      "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.9405746481021637
-    }, 
-    {
-      "lat": 51.21633708240312, 
-      "housenumber": "19", 
-      "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.9402858503132236
-    }, 
-    {
-      "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "housenumber": "19A"
-    }, 
-    {
-      "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "housenumber": "19B"
-    }, 
-    {
-      "lat": 51.21618660085656, 
-      "housenumber": "20", 
-      "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.9405771772659
-    }, 
-    {
-      "lat": 51.21623749339993, 
-      "housenumber": "22", 
-      "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.9406076836715584
-    }, 
-    {
-      "lat": 51.2162882874278, 
-      "housenumber": "24", 
-      "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.9406374774338673
-    }, 
-    {
-      "lat": 51.21633993692643, 
-      "housenumber": "26", 
-      "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.94066366644055
-    }, 
-    {
-      "lat": 51.21638348788633, 
-      "housenumber": "28", 
-      "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.940719018793053
-    }, 
-    {
       "lat": 51.2158629399222, 
+      "lon": 2.940099251865725, 
+      "pcode": 8400, 
+      "street": "Brouwerijstraat"
+    }, 
+    {
+      "housenumber": "11", 
+      "lat": 51.21612547740627, 
+      "lon": 2.940205727365769, 
+      "pcode": 8400, 
+      "street": "Brouwerijstraat"
+    }, 
+    {
+      "housenumber": "12", 
+      "lat": 51.21600211697945, 
+      "lon": 2.940509535324929, 
+      "pcode": 8400, 
+      "street": "Brouwerijstraat"
+    }, 
+    {
+      "housenumber": "13", 
+      "lat": 51.216197590700176, 
+      "lon": 2.9401100454690843, 
+      "pcode": 8400, 
+      "street": "Brouwerijstraat"
+    }, 
+    {
+      "housenumber": "14", 
+      "lat": 51.21604964988975, 
+      "lon": 2.940537281505792, 
+      "pcode": 8400, 
+      "street": "Brouwerijstraat"
+    }, 
+    {
+      "housenumber": "15", 
+      "lat": 51.21623310576054, 
+      "lon": 2.94022204234683, 
+      "pcode": 8400, 
+      "street": "Brouwerijstraat"
+    }, 
+    {
+      "housenumber": "16", 
+      "lat": 51.21608688952324, 
+      "lon": 2.9405613348253574, 
+      "pcode": 8400, 
+      "street": "Brouwerijstraat"
+    }, 
+    {
+      "housenumber": "17", 
+      "lat": 51.21626897672815, 
+      "lon": 2.9403114115734805, 
+      "pcode": 8400, 
+      "street": "Brouwerijstraat"
+    }, 
+    {
+      "housenumber": "18", 
+      "lat": 51.216133618829616, 
+      "lon": 2.9405746481021637, 
+      "pcode": 8400, 
+      "street": "Brouwerijstraat"
+    }, 
+    {
+      "housenumber": "19", 
+      "lat": 51.21633708240312, 
+      "lon": 2.9402858503132236, 
+      "pcode": 8400, 
+      "street": "Brouwerijstraat"
+    }, 
+    {
+      "housenumber": "19A", 
+      "pcode": 8400, 
+      "street": "Brouwerijstraat"
+    }, 
+    {
+      "housenumber": "19B", 
+      "pcode": 8400, 
+      "street": "Brouwerijstraat"
+    }, 
+    {
+      "housenumber": "20", 
+      "lat": 51.21618660085656, 
+      "lon": 2.9405771772659, 
+      "pcode": 8400, 
+      "street": "Brouwerijstraat"
+    }, 
+    {
+      "housenumber": "22", 
+      "lat": 51.21623749339993, 
+      "lon": 2.9406076836715584, 
+      "pcode": 8400, 
+      "street": "Brouwerijstraat"
+    }, 
+    {
+      "housenumber": "24", 
+      "lat": 51.2162882874278, 
+      "lon": 2.9406374774338673, 
+      "pcode": 8400, 
+      "street": "Brouwerijstraat"
+    }, 
+    {
+      "housenumber": "26", 
+      "lat": 51.21633993692643, 
+      "lon": 2.94066366644055, 
+      "pcode": 8400, 
+      "street": "Brouwerijstraat"
+    }, 
+    {
+      "housenumber": "28", 
+      "lat": 51.21638348788633, 
+      "lon": 2.940719018793053, 
+      "pcode": 8400, 
+      "street": "Brouwerijstraat"
+    }, 
+    {
       "housenumber": "3", 
+      "lat": 51.2158629399222, 
+      "lon": 2.940099251865725, 
       "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.940099251865725
+      "street": "Brouwerijstraat"
     }, 
     {
-      "lat": 51.21644098746458, 
       "housenumber": "30", 
+      "lat": 51.21644098746458, 
+      "lon": 2.940723413881654, 
       "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.940723413881654
+      "street": "Brouwerijstraat"
     }, 
     {
-      "lat": 51.21649357540595, 
       "housenumber": "32", 
+      "lat": 51.21649357540595, 
+      "lon": 2.9407379795366904, 
       "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.9407379795366904
+      "street": "Brouwerijstraat"
     }, 
     {
-      "lat": 51.2165321679167, 
       "housenumber": "34", 
+      "lat": 51.2165321679167, 
+      "lon": 2.9408294135297237, 
       "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.9408294135297237
+      "street": "Brouwerijstraat"
     }, 
     {
-      "lat": 51.215976902207586, 
       "housenumber": "5", 
+      "lat": 51.215976902207586, 
+      "lon": 2.9401040641462166, 
       "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.9401040641462166
+      "street": "Brouwerijstraat"
     }, 
     {
-      "lat": 51.21603041491218, 
       "housenumber": "7", 
+      "lat": 51.21603041491218, 
+      "lon": 2.9401728523452673, 
       "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.9401728523452673
+      "street": "Brouwerijstraat"
     }, 
     {
-      "lat": 51.2160782347711, 
       "housenumber": "9", 
+      "lat": 51.2160782347711, 
+      "lon": 2.940187133833352, 
       "pcode": 8400, 
-      "street": "Brouwerijstraat", 
-      "lon": 2.940187133833352
+      "street": "Brouwerijstraat"
     }
-  ], 
-  "name": "Brouwerijstraat"
+  ]
 }

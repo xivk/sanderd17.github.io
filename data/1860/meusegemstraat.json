@@ -1,28 +1,26 @@
 {
-  "pcode": 1860, 
   "addresses": [
     {
+      "housenumber": "83", 
       "pcode": 1860, 
-      "street": "Meusegemstraat", 
-      "housenumber": "83"
+      "street": "Meusegemstraat"
     }, 
     {
+      "housenumber": "83A", 
       "pcode": 1860, 
-      "street": "Meusegemstraat", 
-      "housenumber": "83A"
+      "street": "Meusegemstraat"
     }, 
     {
+      "housenumber": "85A", 
       "pcode": 1860, 
-      "street": "Meusegemstraat", 
-      "housenumber": "85A"
+      "street": "Meusegemstraat"
     }, 
     {
-      "lat": 50.953037531416456, 
       "housenumber": "8B", 
+      "lat": 50.953037531416456, 
+      "lon": 4.291543502668012, 
       "pcode": 1860, 
-      "street": "Meusegemstraat", 
-      "lon": 4.291543502668012
+      "street": "Meusegemstraat"
     }
-  ], 
-  "name": "Meusegemstraat"
+  ]
 }

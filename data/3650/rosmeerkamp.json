@@ -1,20 +1,18 @@
 {
-  "pcode": 3650, 
   "addresses": [
     {
-      "lat": 51.07516432291361, 
       "housenumber": "2", 
+      "lat": 51.07516432291361, 
+      "lon": 5.752728529345131, 
       "pcode": 3650, 
-      "street": "Rosmeerkamp", 
-      "lon": 5.752728529345131
+      "street": "Rosmeerkamp"
     }, 
     {
-      "lat": 51.075826420163054, 
       "housenumber": "6", 
+      "lat": 51.075826420163054, 
+      "lon": 5.75255660947019, 
       "pcode": 3650, 
-      "street": "Rosmeerkamp", 
-      "lon": 5.75255660947019
+      "street": "Rosmeerkamp"
     }
-  ], 
-  "name": "Rosmeerkamp"
+  ]
 }

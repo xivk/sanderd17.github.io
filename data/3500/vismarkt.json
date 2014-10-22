@@ -1,58 +1,56 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.92960064340364, 
       "housenumber": "1", 
+      "lat": 50.92960064340364, 
+      "lon": 5.338391237549941, 
       "pcode": 3500, 
-      "street": "Vismarkt", 
-      "lon": 5.338391237549941
+      "street": "Vismarkt"
     }, 
     {
-      "lat": 50.929462284625316, 
       "housenumber": "11", 
+      "lat": 50.929462284625316, 
+      "lon": 5.338881150844261, 
       "pcode": 3500, 
-      "street": "Vismarkt", 
-      "lon": 5.338881150844261
+      "street": "Vismarkt"
     }, 
     {
-      "lat": 50.92976871773285, 
       "housenumber": "15", 
+      "lat": 50.92976871773285, 
+      "lon": 5.339386101363853, 
       "pcode": 3500, 
-      "street": "Vismarkt", 
-      "lon": 5.339386101363853
+      "street": "Vismarkt"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3500, 
-      "street": "Vismarkt", 
-      "housenumber": "3"
+      "street": "Vismarkt"
     }, 
     {
-      "lat": 50.92953296056703, 
       "housenumber": "5", 
+      "lat": 50.92953296056703, 
+      "lon": 5.338531240479989, 
       "pcode": 3500, 
-      "street": "Vismarkt", 
-      "lon": 5.338531240479989
+      "street": "Vismarkt"
     }, 
     {
-      "lat": 50.92949790063936, 
       "housenumber": "7", 
+      "lat": 50.92949790063936, 
+      "lon": 5.338639910231533, 
       "pcode": 3500, 
-      "street": "Vismarkt", 
-      "lon": 5.338639910231533
+      "street": "Vismarkt"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3500, 
-      "street": "Vismarkt", 
-      "housenumber": "8"
+      "street": "Vismarkt"
     }, 
     {
-      "lat": 50.92943830900477, 
       "housenumber": "9", 
+      "lat": 50.92943830900477, 
+      "lon": 5.338725453645532, 
       "pcode": 3500, 
-      "street": "Vismarkt", 
-      "lon": 5.338725453645532
+      "street": "Vismarkt"
     }
-  ], 
-  "name": "Vismarkt"
+  ]
 }

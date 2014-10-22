@@ -1,32 +1,30 @@
 {
-  "pcode": 9042, 
   "addresses": [
     {
-      "lat": 51.15734068918501, 
       "housenumber": "1", 
+      "lat": 51.15734068918501, 
+      "lon": 3.8001739753319934, 
       "pcode": 9042, 
-      "street": "Bokstraat", 
-      "lon": 3.8001739753319934
+      "street": "Bokstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9042, 
-      "street": "Bokstraat", 
-      "housenumber": "3"
+      "street": "Bokstraat"
     }, 
     {
-      "lat": 51.15849621969293, 
       "housenumber": "4", 
+      "lat": 51.15849621969293, 
+      "lon": 3.796766389759661, 
       "pcode": 9042, 
-      "street": "Bokstraat", 
-      "lon": 3.796766389759661
+      "street": "Bokstraat"
     }, 
     {
-      "lat": 51.15779135458206, 
       "housenumber": "5", 
+      "lat": 51.15779135458206, 
+      "lon": 3.799755387302855, 
       "pcode": 9042, 
-      "street": "Bokstraat", 
-      "lon": 3.799755387302855
+      "street": "Bokstraat"
     }
-  ], 
-  "name": "Bokstraat"
+  ]
 }

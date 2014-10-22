@@ -1,25 +1,23 @@
 {
-  "pcode": 8972, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 8972, 
-      "street": "Watouseweg", 
-      "housenumber": "11"
+      "street": "Watouseweg"
     }, 
     {
-      "lat": 50.85450492301126, 
       "housenumber": "14", 
+      "lat": 50.85450492301126, 
+      "lon": 2.686129723950694, 
       "pcode": 8972, 
-      "street": "Watouseweg", 
-      "lon": 2.686129723950694
+      "street": "Watouseweg"
     }, 
     {
-      "lat": 50.85934568964894, 
       "housenumber": "14A", 
+      "lat": 50.85934568964894, 
+      "lon": 2.6851729414246117, 
       "pcode": 8972, 
-      "street": "Watouseweg", 
-      "lon": 2.6851729414246117
+      "street": "Watouseweg"
     }
-  ], 
-  "name": "Watouseweg"
+  ]
 }

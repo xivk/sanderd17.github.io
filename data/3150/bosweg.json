@@ -1,20 +1,18 @@
 {
-  "pcode": 3150, 
   "addresses": [
     {
-      "lat": 50.98043609525469, 
       "housenumber": "1", 
+      "lat": 50.98043609525469, 
+      "lon": 4.61615139313031, 
       "pcode": 3150, 
-      "street": "Bosweg", 
-      "lon": 4.61615139313031
+      "street": "Bosweg"
     }, 
     {
-      "lat": 50.980215743138004, 
       "housenumber": "2", 
+      "lat": 50.980215743138004, 
+      "lon": 4.615694836135808, 
       "pcode": 3150, 
-      "street": "Bosweg", 
-      "lon": 4.615694836135808
+      "street": "Bosweg"
     }
-  ], 
-  "name": "Bosweg"
+  ]
 }

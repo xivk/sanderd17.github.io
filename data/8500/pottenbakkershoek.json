@@ -1,20 +1,18 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.83245630683951, 
       "housenumber": "1", 
+      "lat": 50.83245630683951, 
+      "lon": 3.256280569367313, 
       "pcode": 8500, 
-      "street": "Pottenbakkershoek", 
-      "lon": 3.256280569367313
+      "street": "Pottenbakkershoek"
     }, 
     {
-      "lat": 50.832397202154084, 
       "housenumber": "2", 
+      "lat": 50.832397202154084, 
+      "lon": 3.2563146191156327, 
       "pcode": 8500, 
-      "street": "Pottenbakkershoek", 
-      "lon": 3.2563146191156327
+      "street": "Pottenbakkershoek"
     }
-  ], 
-  "name": "Pottenbakkershoek"
+  ]
 }

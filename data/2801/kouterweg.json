@@ -1,20 +1,18 @@
 {
-  "pcode": 2801, 
   "addresses": [
     {
-      "lat": 51.041756450562545, 
       "housenumber": "1", 
+      "lat": 51.041756450562545, 
+      "lon": 4.410334928682163, 
       "pcode": 2801, 
-      "street": "Kouterweg", 
-      "lon": 4.410334928682163
+      "street": "Kouterweg"
     }, 
     {
-      "lat": 51.04132525284786, 
       "housenumber": "2", 
+      "lat": 51.04132525284786, 
+      "lon": 4.408271495450189, 
       "pcode": 2801, 
-      "street": "Kouterweg", 
-      "lon": 4.408271495450189
+      "street": "Kouterweg"
     }
-  ], 
-  "name": "Kouterweg"
+  ]
 }

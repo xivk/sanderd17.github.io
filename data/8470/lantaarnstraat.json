@@ -1,20 +1,18 @@
 {
-  "pcode": 8470, 
   "addresses": [
     {
-      "lat": 51.15225854313273, 
       "housenumber": "1", 
+      "lat": 51.15225854313273, 
+      "lon": 2.984884248585688, 
       "pcode": 8470, 
-      "street": "Lantaarnstraat", 
-      "lon": 2.984884248585688
+      "street": "Lantaarnstraat"
     }, 
     {
-      "lat": 51.15028364248611, 
       "housenumber": "5", 
+      "lat": 51.15028364248611, 
+      "lon": 2.985342412077506, 
       "pcode": 8470, 
-      "street": "Lantaarnstraat", 
-      "lon": 2.985342412077506
+      "street": "Lantaarnstraat"
     }
-  ], 
-  "name": "Lantaarnstraat"
+  ]
 }

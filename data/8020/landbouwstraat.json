@@ -1,27 +1,25 @@
 {
-  "pcode": 8020, 
   "addresses": [
     {
-      "lat": 51.08933308343435, 
       "housenumber": "1", 
+      "lat": 51.08933308343435, 
+      "lon": 3.168209716098466, 
       "pcode": 8020, 
-      "street": "Landbouwstraat", 
-      "lon": 3.168209716098466
+      "street": "Landbouwstraat"
     }, 
     {
-      "lat": 51.0894609716676, 
       "housenumber": "3", 
+      "lat": 51.0894609716676, 
+      "lon": 3.16798503046719, 
       "pcode": 8020, 
-      "street": "Landbouwstraat", 
-      "lon": 3.16798503046719
+      "street": "Landbouwstraat"
     }, 
     {
-      "lat": 51.089745203116095, 
       "housenumber": "5", 
+      "lat": 51.089745203116095, 
+      "lon": 3.167487389132928, 
       "pcode": 8020, 
-      "street": "Landbouwstraat", 
-      "lon": 3.167487389132928
+      "street": "Landbouwstraat"
     }
-  ], 
-  "name": "Landbouwstraat"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.22817453807772, 
       "housenumber": "1", 
+      "lat": 51.22817453807772, 
+      "lon": 2.932940879241612, 
       "pcode": 8400, 
-      "street": "Esplanadestraat", 
-      "lon": 2.932940879241612
+      "street": "Esplanadestraat"
     }, 
     {
-      "lat": 51.22986277884411, 
       "housenumber": "10", 
+      "lat": 51.22986277884411, 
+      "lon": 2.932074597047579, 
       "pcode": 8400, 
-      "street": "Esplanadestraat", 
-      "lon": 2.932074597047579
+      "street": "Esplanadestraat"
     }, 
     {
-      "lat": 51.22650303676486, 
       "housenumber": "3", 
+      "lat": 51.22650303676486, 
+      "lon": 2.9359155761086013, 
       "pcode": 8400, 
-      "street": "Esplanadestraat", 
-      "lon": 2.9359155761086013
+      "street": "Esplanadestraat"
     }, 
     {
+      "housenumber": "ZN", 
       "pcode": 8400, 
-      "street": "Esplanadestraat", 
-      "housenumber": "ZN"
+      "street": "Esplanadestraat"
     }
-  ], 
-  "name": "Esplanadestraat"
+  ]
 }

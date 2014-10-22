@@ -1,25 +1,23 @@
 {
-  "pcode": 2260, 
   "addresses": [
     {
-      "lat": 51.08589202833955, 
       "housenumber": "6", 
+      "lat": 51.08589202833955, 
+      "lon": 4.854421134965106, 
       "pcode": 2260, 
-      "street": "Goudbloemstraat", 
-      "lon": 4.854421134965106
+      "street": "Goudbloemstraat"
     }, 
     {
-      "lat": 51.08592043782402, 
       "housenumber": "7", 
+      "lat": 51.08592043782402, 
+      "lon": 4.855182142536478, 
       "pcode": 2260, 
-      "street": "Goudbloemstraat", 
-      "lon": 4.855182142536478
+      "street": "Goudbloemstraat"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 2260, 
-      "street": "Goudbloemstraat", 
-      "housenumber": "9"
+      "street": "Goudbloemstraat"
     }
-  ], 
-  "name": "Goudbloemstraat"
+  ]
 }

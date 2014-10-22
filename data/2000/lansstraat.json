@@ -1,40 +1,38 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.224314381712404, 
       "housenumber": "1", 
+      "lat": 51.224314381712404, 
+      "lon": 4.408182101407661, 
       "pcode": 2000, 
-      "street": "Lansstraat", 
-      "lon": 4.408182101407661
+      "street": "Lansstraat"
     }, 
     {
+      "housenumber": "13", 
       "pcode": 2000, 
-      "street": "Lansstraat", 
-      "housenumber": "13"
+      "street": "Lansstraat"
     }, 
     {
+      "housenumber": "15", 
       "pcode": 2000, 
-      "street": "Lansstraat", 
-      "housenumber": "15"
+      "street": "Lansstraat"
     }, 
     {
-      "lat": 51.224322647177765, 
       "housenumber": "3", 
+      "lat": 51.224322647177765, 
+      "lon": 4.408193416843344, 
       "pcode": 2000, 
-      "street": "Lansstraat", 
-      "lon": 4.408193416843344
+      "street": "Lansstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2000, 
-      "street": "Lansstraat", 
-      "housenumber": "4"
+      "street": "Lansstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2000, 
-      "street": "Lansstraat", 
-      "housenumber": "5"
+      "street": "Lansstraat"
     }
-  ], 
-  "name": "Lansstraat"
+  ]
 }

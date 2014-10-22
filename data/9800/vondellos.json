@@ -1,34 +1,32 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 50.98140122492483, 
       "housenumber": "1", 
+      "lat": 50.98140122492483, 
+      "lon": 3.4480387841299156, 
       "pcode": 9800, 
-      "street": "Vondellos", 
-      "lon": 3.4480387841299156
+      "street": "Vondellos"
     }, 
     {
-      "lat": 50.98138547065602, 
       "housenumber": "3", 
+      "lat": 50.98138547065602, 
+      "lon": 3.448277349159086, 
       "pcode": 9800, 
-      "street": "Vondellos", 
-      "lon": 3.448277349159086
+      "street": "Vondellos"
     }, 
     {
-      "lat": 50.97984838019521, 
       "housenumber": "5", 
+      "lat": 50.97984838019521, 
+      "lon": 3.4509242523319594, 
       "pcode": 9800, 
-      "street": "Vondellos", 
-      "lon": 3.4509242523319594
+      "street": "Vondellos"
     }, 
     {
-      "lat": 50.978116135915236, 
       "housenumber": "7", 
+      "lat": 50.978116135915236, 
+      "lon": 3.449980554597287, 
       "pcode": 9800, 
-      "street": "Vondellos", 
-      "lon": 3.449980554597287
+      "street": "Vondellos"
     }
-  ], 
-  "name": "Vondellos"
+  ]
 }

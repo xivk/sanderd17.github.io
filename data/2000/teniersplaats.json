@@ -1,42 +1,40 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2000, 
-      "street": "Teniersplaats", 
-      "housenumber": "1"
+      "street": "Teniersplaats"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2000, 
-      "street": "Teniersplaats", 
-      "housenumber": "2"
+      "street": "Teniersplaats"
     }, 
     {
-      "lat": 51.218424740641986, 
       "housenumber": "3", 
+      "lat": 51.218424740641986, 
+      "lon": 4.41501942126627, 
       "pcode": 2000, 
-      "street": "Teniersplaats", 
-      "lon": 4.41501942126627
+      "street": "Teniersplaats"
     }, 
     {
-      "lat": 51.217869545111526, 
       "housenumber": "4", 
+      "lat": 51.217869545111526, 
+      "lon": 4.414519361049632, 
       "pcode": 2000, 
-      "street": "Teniersplaats", 
-      "lon": 4.414519361049632
+      "street": "Teniersplaats"
     }, 
     {
-      "lat": 51.21839910266594, 
       "housenumber": "5", 
+      "lat": 51.21839910266594, 
+      "lon": 4.414845784640387, 
       "pcode": 2000, 
-      "street": "Teniersplaats", 
-      "lon": 4.414845784640387
+      "street": "Teniersplaats"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 2000, 
-      "street": "Teniersplaats", 
-      "housenumber": "9"
+      "street": "Teniersplaats"
     }
-  ], 
-  "name": "Teniersplaats"
+  ]
 }

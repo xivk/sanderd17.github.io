@@ -1,20 +1,18 @@
 {
-  "pcode": 9200, 
   "addresses": [
     {
-      "lat": 51.04324506980031, 
       "housenumber": "1", 
+      "lat": 51.04324506980031, 
+      "lon": 4.086010819891659, 
       "pcode": 9200, 
-      "street": "Nieuwe Tijsluis", 
-      "lon": 4.086010819891659
+      "street": "Nieuwe Tijsluis"
     }, 
     {
-      "lat": 51.04311445471229, 
       "housenumber": "2", 
+      "lat": 51.04311445471229, 
+      "lon": 4.085558883096521, 
       "pcode": 9200, 
-      "street": "Nieuwe Tijsluis", 
-      "lon": 4.085558883096521
+      "street": "Nieuwe Tijsluis"
     }
-  ], 
-  "name": "Nieuwe Tijsluis"
+  ]
 }

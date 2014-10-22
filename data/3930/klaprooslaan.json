@@ -1,25 +1,23 @@
 {
-  "pcode": 3930, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3930, 
-      "street": "Klaprooslaan", 
-      "housenumber": "10"
+      "street": "Klaprooslaan"
     }, 
     {
-      "lat": 51.25521103813597, 
       "housenumber": "12", 
+      "lat": 51.25521103813597, 
+      "lon": 5.4987301937101325, 
       "pcode": 3930, 
-      "street": "Klaprooslaan", 
-      "lon": 5.4987301937101325
+      "street": "Klaprooslaan"
     }, 
     {
-      "lat": 51.25518707322562, 
       "housenumber": "8", 
+      "lat": 51.25518707322562, 
+      "lon": 5.498820435603702, 
       "pcode": 3930, 
-      "street": "Klaprooslaan", 
-      "lon": 5.498820435603702
+      "street": "Klaprooslaan"
     }
-  ], 
-  "name": "Klaprooslaan"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 2288, 
   "addresses": [
     {
-      "lat": 51.15221777799835, 
       "housenumber": "1", 
+      "lat": 51.15221777799835, 
+      "lon": 4.731635898315505, 
       "pcode": 2288, 
-      "street": "Middeldonk", 
-      "lon": 4.731635898315505
+      "street": "Middeldonk"
     }, 
     {
-      "lat": 51.15390013283646, 
       "housenumber": "2", 
+      "lat": 51.15390013283646, 
+      "lon": 4.735171772028258, 
       "pcode": 2288, 
-      "street": "Middeldonk", 
-      "lon": 4.735171772028258
+      "street": "Middeldonk"
     }, 
     {
-      "lat": 51.152203043967475, 
       "housenumber": "2A", 
+      "lat": 51.152203043967475, 
+      "lon": 4.734540713012856, 
       "pcode": 2288, 
-      "street": "Middeldonk", 
-      "lon": 4.734540713012856
+      "street": "Middeldonk"
     }
-  ], 
-  "name": "Middeldonk"
+  ]
 }

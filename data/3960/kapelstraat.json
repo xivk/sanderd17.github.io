@@ -1,20 +1,18 @@
 {
-  "pcode": 3960, 
   "addresses": [
     {
-      "lat": 51.16164336386053, 
       "housenumber": "21", 
+      "lat": 51.16164336386053, 
+      "lon": 5.605746156395848, 
       "pcode": 3960, 
-      "street": "Kapelstraat", 
-      "lon": 5.605746156395848
+      "street": "Kapelstraat"
     }, 
     {
-      "lat": 51.1592760568379, 
       "housenumber": "4", 
+      "lat": 51.1592760568379, 
+      "lon": 5.593543649488218, 
       "pcode": 3960, 
-      "street": "Kapelstraat", 
-      "lon": 5.593543649488218
+      "street": "Kapelstraat"
     }
-  ], 
-  "name": "Kapelstraat"
+  ]
 }

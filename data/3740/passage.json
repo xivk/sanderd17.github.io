@@ -1,49 +1,47 @@
 {
-  "pcode": 3740, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3740, 
-      "street": "Passage", 
-      "housenumber": "1"
+      "street": "Passage"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3740, 
-      "street": "Passage", 
-      "housenumber": "3"
+      "street": "Passage"
     }, 
     {
-      "lat": 50.87130289236101, 
       "housenumber": "4", 
+      "lat": 50.87130289236101, 
+      "lon": 5.515625436541357, 
       "pcode": 3740, 
-      "street": "Passage", 
-      "lon": 5.515625436541357
+      "street": "Passage"
     }, 
     {
-      "lat": 50.87096625577602, 
       "housenumber": "5", 
+      "lat": 50.87096625577602, 
+      "lon": 5.5167955133827515, 
       "pcode": 3740, 
-      "street": "Passage", 
-      "lon": 5.5167955133827515
+      "street": "Passage"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3740, 
-      "street": "Passage", 
-      "housenumber": "6"
+      "street": "Passage"
     }, 
     {
-      "lat": 50.8708106651795, 
       "housenumber": "7", 
+      "lat": 50.8708106651795, 
+      "lon": 5.516874543467385, 
       "pcode": 3740, 
-      "street": "Passage", 
-      "lon": 5.516874543467385
+      "street": "Passage"
     }, 
     {
-      "lat": 50.870917363518586, 
       "housenumber": "9", 
+      "lat": 50.870917363518586, 
+      "lon": 5.516454027861789, 
       "pcode": 3740, 
-      "street": "Passage", 
-      "lon": 5.516454027861789
+      "street": "Passage"
     }
-  ], 
-  "name": "Passage"
+  ]
 }

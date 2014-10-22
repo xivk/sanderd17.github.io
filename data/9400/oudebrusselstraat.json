@@ -1,18 +1,16 @@
 {
-  "pcode": 9400, 
   "addresses": [
     {
-      "lat": 50.79065931547369, 
       "housenumber": "1", 
+      "lat": 50.79065931547369, 
+      "lon": 3.994671885814202, 
       "pcode": 9400, 
-      "street": "Oude Brusselstraat", 
-      "lon": 3.994671885814202
+      "street": "Oude Brusselstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9400, 
-      "street": "Oude Brusselstraat", 
-      "housenumber": "2"
+      "street": "Oude Brusselstraat"
     }
-  ], 
-  "name": "Oude Brusselstraat"
+  ]
 }

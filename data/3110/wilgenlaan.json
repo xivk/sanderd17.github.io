@@ -1,32 +1,30 @@
 {
-  "pcode": 3110, 
   "addresses": [
     {
+      "housenumber": "13", 
       "pcode": 3110, 
-      "street": "Wilgenlaan", 
-      "housenumber": "13"
+      "street": "Wilgenlaan"
     }, 
     {
-      "lat": 50.96283773898945, 
       "housenumber": "3", 
+      "lat": 50.96283773898945, 
+      "lon": 4.755939907618565, 
       "pcode": 3110, 
-      "street": "Wilgenlaan", 
-      "lon": 4.755939907618565
+      "street": "Wilgenlaan"
     }, 
     {
-      "lat": 50.96340482347321, 
       "housenumber": "7", 
+      "lat": 50.96340482347321, 
+      "lon": 4.754973495918262, 
       "pcode": 3110, 
-      "street": "Wilgenlaan", 
-      "lon": 4.754973495918262
+      "street": "Wilgenlaan"
     }, 
     {
-      "lat": 50.963508340768875, 
       "housenumber": "8", 
+      "lat": 50.963508340768875, 
+      "lon": 4.756076700747619, 
       "pcode": 3110, 
-      "street": "Wilgenlaan", 
-      "lon": 4.756076700747619
+      "street": "Wilgenlaan"
     }
-  ], 
-  "name": "Wilgenlaan"
+  ]
 }

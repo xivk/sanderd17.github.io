@@ -1,25 +1,23 @@
 {
-  "pcode": 2840, 
   "addresses": [
     {
-      "lat": 51.104241285586255, 
       "housenumber": "2", 
+      "lat": 51.104241285586255, 
+      "lon": 4.412064622186233, 
       "pcode": 2840, 
-      "street": "Joannes Van Meirhaeghestraat", 
-      "lon": 4.412064622186233
+      "street": "Joannes Van Meirhaeghestraat"
     }, 
     {
+      "housenumber": "23", 
       "pcode": 2840, 
-      "street": "Joannes Van Meirhaeghestraat", 
-      "housenumber": "23"
+      "street": "Joannes Van Meirhaeghestraat"
     }, 
     {
-      "lat": 51.104319190875884, 
       "housenumber": "4", 
+      "lat": 51.104319190875884, 
+      "lon": 4.412377945756763, 
       "pcode": 2840, 
-      "street": "Joannes Van Meirhaeghestraat", 
-      "lon": 4.412377945756763
+      "street": "Joannes Van Meirhaeghestraat"
     }
-  ], 
-  "name": "Joannes Van Meirhaeghestraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 2900, 
   "addresses": [
     {
-      "lat": 51.25215188383431, 
       "housenumber": "12", 
+      "lat": 51.25215188383431, 
+      "lon": 4.501675821155658, 
       "pcode": 2900, 
-      "street": "Parking 't Ven", 
-      "lon": 4.501675821155658
+      "street": "Parking 't Ven"
     }, 
     {
-      "lat": 51.25190066435553, 
       "housenumber": "5", 
+      "lat": 51.25190066435553, 
+      "lon": 4.501114648620378, 
       "pcode": 2900, 
-      "street": "Parking 't Ven", 
-      "lon": 4.501114648620378
+      "street": "Parking 't Ven"
     }, 
     {
-      "lat": 51.25216810665896, 
       "housenumber": "8", 
+      "lat": 51.25216810665896, 
+      "lon": 4.501078459204672, 
       "pcode": 2900, 
-      "street": "Parking 't Ven", 
-      "lon": 4.501078459204672
+      "street": "Parking 't Ven"
     }
-  ], 
-  "name": "Parking 't Ven"
+  ]
 }

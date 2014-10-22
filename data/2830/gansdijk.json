@@ -1,40 +1,38 @@
 {
-  "pcode": 2830, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 2830, 
-      "street": "Gansdijk", 
-      "housenumber": "2"
+      "street": "Gansdijk"
     }, 
     {
+      "housenumber": "27", 
       "pcode": 2830, 
-      "street": "Gansdijk", 
-      "housenumber": "27"
+      "street": "Gansdijk"
     }, 
     {
+      "housenumber": "29", 
       "pcode": 2830, 
-      "street": "Gansdijk", 
-      "housenumber": "29"
+      "street": "Gansdijk"
     }, 
     {
-      "lat": 51.07501753993235, 
       "housenumber": "4", 
+      "lat": 51.07501753993235, 
+      "lon": 4.356510288299834, 
       "pcode": 2830, 
-      "street": "Gansdijk", 
-      "lon": 4.356510288299834
+      "street": "Gansdijk"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2830, 
-      "street": "Gansdijk", 
-      "housenumber": "5"
+      "street": "Gansdijk"
     }, 
     {
-      "lat": 51.07437751702334, 
       "housenumber": "6", 
+      "lat": 51.07437751702334, 
+      "lon": 4.358333382821582, 
       "pcode": 2830, 
-      "street": "Gansdijk", 
-      "lon": 4.358333382821582
+      "street": "Gansdijk"
     }
-  ], 
-  "name": "Gansdijk"
+  ]
 }

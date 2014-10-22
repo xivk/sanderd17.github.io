@@ -1,20 +1,18 @@
 {
-  "pcode": 3550, 
   "addresses": [
     {
-      "lat": 51.034773900379, 
       "housenumber": "5", 
+      "lat": 51.034773900379, 
+      "lon": 5.267322760110194, 
       "pcode": 3550, 
-      "street": "Zandbergstraat", 
-      "lon": 5.267322760110194
+      "street": "Zandbergstraat"
     }, 
     {
-      "lat": 51.03379078156557, 
       "housenumber": "9", 
+      "lat": 51.03379078156557, 
+      "lon": 5.266923781216344, 
       "pcode": 3550, 
-      "street": "Zandbergstraat", 
-      "lon": 5.266923781216344
+      "street": "Zandbergstraat"
     }
-  ], 
-  "name": "Zandbergstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2390, 
   "addresses": [
     {
-      "lat": 51.26749834862252, 
       "housenumber": "1", 
+      "lat": 51.26749834862252, 
+      "lon": 4.7707163788581815, 
       "pcode": 2390, 
-      "street": "Bruul", 
-      "lon": 4.7707163788581815
+      "street": "Bruul"
     }, 
     {
-      "lat": 51.267717748056945, 
       "housenumber": "2", 
+      "lat": 51.267717748056945, 
+      "lon": 4.769924797696278, 
       "pcode": 2390, 
-      "street": "Bruul", 
-      "lon": 4.769924797696278
+      "street": "Bruul"
     }
-  ], 
-  "name": "Bruul"
+  ]
 }

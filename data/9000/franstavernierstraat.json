@@ -1,37 +1,35 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.048774414036174, 
       "housenumber": "1", 
+      "lat": 51.048774414036174, 
+      "lon": 3.7208036241262468, 
       "pcode": 9000, 
-      "street": "Frans Tavernierstraat", 
-      "lon": 3.7208036241262468
+      "street": "Frans Tavernierstraat"
     }, 
     {
+      "housenumber": "3A", 
       "pcode": 9000, 
-      "street": "Frans Tavernierstraat", 
-      "housenumber": "3A"
+      "street": "Frans Tavernierstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9000, 
-      "street": "Frans Tavernierstraat", 
-      "housenumber": "5"
+      "street": "Frans Tavernierstraat"
     }, 
     {
-      "lat": 51.048511727632985, 
       "housenumber": "7", 
+      "lat": 51.048511727632985, 
+      "lon": 3.7208001264234087, 
       "pcode": 9000, 
-      "street": "Frans Tavernierstraat", 
-      "lon": 3.7208001264234087
+      "street": "Frans Tavernierstraat"
     }, 
     {
-      "lat": 51.04851209109529, 
       "housenumber": "9", 
+      "lat": 51.04851209109529, 
+      "lon": 3.7208008344519397, 
       "pcode": 9000, 
-      "street": "Frans Tavernierstraat", 
-      "lon": 3.7208008344519397
+      "street": "Frans Tavernierstraat"
     }
-  ], 
-  "name": "Frans Tavernierstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8630, 
   "addresses": [
     {
-      "lat": 51.0723634709101, 
       "housenumber": "1", 
+      "lat": 51.0723634709101, 
+      "lon": 2.663140223688377, 
       "pcode": 8630, 
-      "street": "Sint-Niklaasplaats", 
-      "lon": 2.663140223688377
+      "street": "Sint-Niklaasplaats"
     }, 
     {
-      "lat": 51.072527437390335, 
       "housenumber": "2", 
+      "lat": 51.072527437390335, 
+      "lon": 2.6628334003983922, 
       "pcode": 8630, 
-      "street": "Sint-Niklaasplaats", 
-      "lon": 2.6628334003983922
+      "street": "Sint-Niklaasplaats"
     }
-  ], 
-  "name": "Sint-Niklaasplaats"
+  ]
 }

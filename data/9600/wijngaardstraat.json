@@ -1,27 +1,25 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.761715723842165, 
       "housenumber": "1", 
+      "lat": 50.761715723842165, 
+      "lon": 3.626113003065661, 
       "pcode": 9600, 
-      "street": "Wijngaardstraat", 
-      "lon": 3.626113003065661
+      "street": "Wijngaardstraat"
     }, 
     {
-      "lat": 50.76156606349568, 
       "housenumber": "2", 
+      "lat": 50.76156606349568, 
+      "lon": 3.627110685511635, 
       "pcode": 9600, 
-      "street": "Wijngaardstraat", 
-      "lon": 3.627110685511635
+      "street": "Wijngaardstraat"
     }, 
     {
-      "lat": 50.76219026275741, 
       "housenumber": "4", 
+      "lat": 50.76219026275741, 
+      "lon": 3.6294457615337694, 
       "pcode": 9600, 
-      "street": "Wijngaardstraat", 
-      "lon": 3.6294457615337694
+      "street": "Wijngaardstraat"
     }
-  ], 
-  "name": "Wijngaardstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3630, 
   "addresses": [
     {
-      "lat": 50.95288675939434, 
       "housenumber": "10", 
+      "lat": 50.95288675939434, 
+      "lon": 5.7109988117479995, 
       "pcode": 3630, 
-      "street": "Kromstraat", 
-      "lon": 5.7109988117479995
+      "street": "Kromstraat"
     }, 
     {
-      "lat": 50.953439050493934, 
       "housenumber": "8", 
+      "lat": 50.953439050493934, 
+      "lon": 5.710739769717472, 
       "pcode": 3630, 
-      "street": "Kromstraat", 
-      "lon": 5.710739769717472
+      "street": "Kromstraat"
     }
-  ], 
-  "name": "Kromstraat"
+  ]
 }

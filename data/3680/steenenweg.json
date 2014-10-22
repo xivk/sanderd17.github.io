@@ -1,32 +1,30 @@
 {
-  "pcode": 3680, 
   "addresses": [
     {
+      "housenumber": "20", 
       "pcode": 3680, 
-      "street": "Steenenweg", 
-      "housenumber": "20"
+      "street": "Steenenweg"
     }, 
     {
-      "lat": 51.101499284722685, 
       "housenumber": "4", 
+      "lat": 51.101499284722685, 
+      "lon": 5.694628464856503, 
       "pcode": 3680, 
-      "street": "Steenenweg", 
-      "lon": 5.694628464856503
+      "street": "Steenenweg"
     }, 
     {
-      "lat": 51.10158587281344, 
       "housenumber": "6", 
+      "lat": 51.10158587281344, 
+      "lon": 5.694387607559609, 
       "pcode": 3680, 
-      "street": "Steenenweg", 
-      "lon": 5.694387607559609
+      "street": "Steenenweg"
     }, 
     {
-      "lat": 51.101772332511345, 
       "housenumber": "8", 
+      "lat": 51.101772332511345, 
+      "lon": 5.694083613278133, 
       "pcode": 3680, 
-      "street": "Steenenweg", 
-      "lon": 5.694083613278133
+      "street": "Steenenweg"
     }
-  ], 
-  "name": "Steenenweg"
+  ]
 }

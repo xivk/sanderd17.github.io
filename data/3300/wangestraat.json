@@ -1,30 +1,28 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.795536331664344, 
       "housenumber": "3", 
+      "lat": 50.795536331664344, 
+      "lon": 4.9999567392257465, 
       "pcode": 3300, 
-      "street": "Wangestraat", 
-      "lon": 4.9999567392257465
+      "street": "Wangestraat"
     }, 
     {
-      "lat": 50.79616856626507, 
       "housenumber": "5", 
+      "lat": 50.79616856626507, 
+      "lon": 5.000262112491602, 
       "pcode": 3300, 
-      "street": "Wangestraat", 
-      "lon": 5.000262112491602
+      "street": "Wangestraat"
     }, 
     {
+      "housenumber": "647", 
       "pcode": 3300, 
-      "street": "Wangestraat", 
-      "housenumber": "647"
+      "street": "Wangestraat"
     }, 
     {
+      "housenumber": "647A", 
       "pcode": 3300, 
-      "street": "Wangestraat", 
-      "housenumber": "647A"
+      "street": "Wangestraat"
     }
-  ], 
-  "name": "Wangestraat"
+  ]
 }

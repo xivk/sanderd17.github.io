@@ -1,32 +1,30 @@
 {
-  "pcode": 8600, 
   "addresses": [
     {
-      "lat": 51.03626096266826, 
       "housenumber": "1", 
+      "lat": 51.03626096266826, 
+      "lon": 2.8634620550695304, 
       "pcode": 8600, 
-      "street": "Begijnhofstraat", 
-      "lon": 2.8634620550695304
+      "street": "Begijnhofstraat"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 8600, 
-      "street": "Begijnhofstraat", 
-      "housenumber": "12"
+      "street": "Begijnhofstraat"
     }, 
     {
-      "lat": 51.03561368934158, 
       "housenumber": "2", 
+      "lat": 51.03561368934158, 
+      "lon": 2.863136637960007, 
       "pcode": 8600, 
-      "street": "Begijnhofstraat", 
-      "lon": 2.863136637960007
+      "street": "Begijnhofstraat"
     }, 
     {
-      "lat": 51.035311541416355, 
       "housenumber": "3", 
+      "lat": 51.035311541416355, 
+      "lon": 2.8632518718729187, 
       "pcode": 8600, 
-      "street": "Begijnhofstraat", 
-      "lon": 2.8632518718729187
+      "street": "Begijnhofstraat"
     }
-  ], 
-  "name": "Begijnhofstraat"
+  ]
 }

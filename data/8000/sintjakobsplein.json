@@ -1,23 +1,21 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.21009887965906, 
       "housenumber": "1", 
+      "lat": 51.21009887965906, 
+      "lon": 3.2202344287877875, 
       "pcode": 8000, 
-      "street": "Sint-Jakobsplein", 
-      "lon": 3.2202344287877875
+      "street": "Sint-Jakobsplein"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8000, 
-      "street": "Sint-Jakobsplein", 
-      "housenumber": "3"
+      "street": "Sint-Jakobsplein"
     }, 
     {
+      "housenumber": "64", 
       "pcode": 8000, 
-      "street": "Sint-Jakobsplein", 
-      "housenumber": "64"
+      "street": "Sint-Jakobsplein"
     }
-  ], 
-  "name": "Sint-Jakobsplein"
+  ]
 }

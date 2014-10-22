@@ -1,30 +1,28 @@
 {
-  "pcode": 2110, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2110, 
-      "street": "Albertkanaalbaan", 
-      "housenumber": "1"
+      "street": "Albertkanaalbaan"
     }, 
     {
-      "lat": 51.23092018385352, 
       "housenumber": "11", 
+      "lat": 51.23092018385352, 
+      "lon": 4.528773003996423, 
       "pcode": 2110, 
-      "street": "Albertkanaalbaan", 
-      "lon": 4.528773003996423
+      "street": "Albertkanaalbaan"
     }, 
     {
+      "housenumber": "13", 
       "pcode": 2110, 
-      "street": "Albertkanaalbaan", 
-      "housenumber": "13"
+      "street": "Albertkanaalbaan"
     }, 
     {
-      "lat": 51.230677564911545, 
       "housenumber": "9", 
+      "lat": 51.230677564911545, 
+      "lon": 4.529252050462904, 
       "pcode": 2110, 
-      "street": "Albertkanaalbaan", 
-      "lon": 4.529252050462904
+      "street": "Albertkanaalbaan"
     }
-  ], 
-  "name": "Albertkanaalbaan"
+  ]
 }

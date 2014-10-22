@@ -1,32 +1,30 @@
 {
-  "pcode": 9910, 
   "addresses": [
     {
-      "lat": 51.12921215000639, 
       "housenumber": "1", 
+      "lat": 51.12921215000639, 
+      "lon": 3.480333257817016, 
       "pcode": 9910, 
-      "street": "Planterij", 
-      "lon": 3.480333257817016
+      "street": "Planterij"
     }, 
     {
-      "lat": 51.12903180874469, 
       "housenumber": "2", 
+      "lat": 51.12903180874469, 
+      "lon": 3.4805344049416416, 
       "pcode": 9910, 
-      "street": "Planterij", 
-      "lon": 3.4805344049416416
+      "street": "Planterij"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9910, 
-      "street": "Planterij", 
-      "housenumber": "3"
+      "street": "Planterij"
     }, 
     {
-      "lat": 51.12882261830984, 
       "housenumber": "5", 
+      "lat": 51.12882261830984, 
+      "lon": 3.4801150819428517, 
       "pcode": 9910, 
-      "street": "Planterij", 
-      "lon": 3.4801150819428517
+      "street": "Planterij"
     }
-  ], 
-  "name": "Planterij"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 8890, 
   "addresses": [
     {
-      "lat": 50.906868949026766, 
       "housenumber": "2", 
+      "lat": 50.906868949026766, 
+      "lon": 3.0560531782925104, 
       "pcode": 8890, 
-      "street": "Schoolstraat", 
-      "lon": 3.0560531782925104
+      "street": "Schoolstraat"
     }, 
     {
-      "lat": 50.906732551975864, 
       "housenumber": "2A", 
+      "lat": 50.906732551975864, 
+      "lon": 3.0557387532932223, 
       "pcode": 8890, 
-      "street": "Schoolstraat", 
-      "lon": 3.0557387532932223
+      "street": "Schoolstraat"
     }, 
     {
-      "lat": 50.906452787538996, 
       "housenumber": "4", 
+      "lat": 50.906452787538996, 
+      "lon": 3.0555482104967604, 
       "pcode": 8890, 
-      "street": "Schoolstraat", 
-      "lon": 3.0555482104967604
+      "street": "Schoolstraat"
     }
-  ], 
-  "name": "Schoolstraat"
+  ]
 }

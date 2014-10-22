@@ -1,20 +1,18 @@
 {
-  "pcode": 3920, 
   "addresses": [
     {
-      "lat": 51.23060989029878, 
       "housenumber": "3", 
+      "lat": 51.23060989029878, 
+      "lon": 5.355664596050272, 
       "pcode": 3920, 
-      "street": "Leukerheide", 
-      "lon": 5.355664596050272
+      "street": "Leukerheide"
     }, 
     {
-      "lat": 51.23078591319475, 
       "housenumber": "4", 
+      "lat": 51.23078591319475, 
+      "lon": 5.356125485672442, 
       "pcode": 3920, 
-      "street": "Leukerheide", 
-      "lon": 5.356125485672442
+      "street": "Leukerheide"
     }
-  ], 
-  "name": "Leukerheide"
+  ]
 }

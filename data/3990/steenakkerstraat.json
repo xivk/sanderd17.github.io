@@ -1,35 +1,33 @@
 {
-  "pcode": 3990, 
   "addresses": [
     {
-      "lat": 51.155888959526074, 
       "housenumber": "11", 
+      "lat": 51.155888959526074, 
+      "lon": 5.5043961962181225, 
       "pcode": 3990, 
-      "street": "Steenakkerstraat", 
-      "lon": 5.5043961962181225
+      "street": "Steenakkerstraat"
     }, 
     {
-      "lat": 51.155509082147425, 
       "housenumber": "17", 
+      "lat": 51.155509082147425, 
+      "lon": 5.503739534689815, 
       "pcode": 3990, 
-      "street": "Steenakkerstraat", 
-      "lon": 5.503739534689815
+      "street": "Steenakkerstraat"
     }, 
     {
+      "housenumber": "31", 
       "pcode": 3990, 
-      "street": "Steenakkerstraat", 
-      "housenumber": "31"
+      "street": "Steenakkerstraat"
     }, 
     {
+      "housenumber": "33", 
       "pcode": 3990, 
-      "street": "Steenakkerstraat", 
-      "housenumber": "33"
+      "street": "Steenakkerstraat"
     }, 
     {
+      "housenumber": "37", 
       "pcode": 3990, 
-      "street": "Steenakkerstraat", 
-      "housenumber": "37"
+      "street": "Steenakkerstraat"
     }
-  ], 
-  "name": "Steenakkerstraat"
+  ]
 }

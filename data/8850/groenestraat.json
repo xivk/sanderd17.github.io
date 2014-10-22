@@ -1,27 +1,25 @@
 {
-  "pcode": 8850, 
   "addresses": [
     {
-      "lat": 50.97264973209928, 
       "housenumber": "1", 
+      "lat": 50.97264973209928, 
+      "lon": 3.2245490326714825, 
       "pcode": 8850, 
-      "street": "Groenestraat", 
-      "lon": 3.2245490326714825
+      "street": "Groenestraat"
     }, 
     {
-      "lat": 50.97432069883241, 
       "housenumber": "2", 
+      "lat": 50.97432069883241, 
+      "lon": 3.2246271709849172, 
       "pcode": 8850, 
-      "street": "Groenestraat", 
-      "lon": 3.2246271709849172
+      "street": "Groenestraat"
     }, 
     {
-      "lat": 50.97373715385324, 
       "housenumber": "3", 
+      "lat": 50.97373715385324, 
+      "lon": 3.2244157092192878, 
       "pcode": 8850, 
-      "street": "Groenestraat", 
-      "lon": 3.2244157092192878
+      "street": "Groenestraat"
     }
-  ], 
-  "name": "Groenestraat"
+  ]
 }

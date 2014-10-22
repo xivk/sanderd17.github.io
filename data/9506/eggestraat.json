@@ -1,20 +1,18 @@
 {
-  "pcode": 9506, 
   "addresses": [
     {
-      "lat": 50.76989693457796, 
       "housenumber": "1", 
+      "lat": 50.76989693457796, 
+      "lon": 3.9827887544677143, 
       "pcode": 9506, 
-      "street": "Eggestraat", 
-      "lon": 3.9827887544677143
+      "street": "Eggestraat"
     }, 
     {
-      "lat": 50.77019454551634, 
       "housenumber": "3", 
+      "lat": 50.77019454551634, 
+      "lon": 3.983596503638025, 
       "pcode": 9506, 
-      "street": "Eggestraat", 
-      "lon": 3.983596503638025
+      "street": "Eggestraat"
     }
-  ], 
-  "name": "Eggestraat"
+  ]
 }

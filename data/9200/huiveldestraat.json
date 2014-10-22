@@ -1,44 +1,42 @@
 {
-  "pcode": 9200, 
   "addresses": [
     {
-      "lat": 51.052130137090636, 
       "housenumber": "1", 
+      "lat": 51.052130137090636, 
+      "lon": 4.076396324795972, 
       "pcode": 9200, 
-      "street": "Huiveldestraat", 
-      "lon": 4.076396324795972
+      "street": "Huiveldestraat"
     }, 
     {
-      "lat": 51.0526957368421, 
       "housenumber": "2", 
+      "lat": 51.0526957368421, 
+      "lon": 4.0760017372998405, 
       "pcode": 9200, 
-      "street": "Huiveldestraat", 
-      "lon": 4.0760017372998405
+      "street": "Huiveldestraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 9200, 
-      "street": "Huiveldestraat", 
-      "housenumber": "2A"
+      "street": "Huiveldestraat"
     }, 
     {
-      "lat": 51.053112327595244, 
       "housenumber": "3", 
+      "lat": 51.053112327595244, 
+      "lon": 4.07489596617611, 
       "pcode": 9200, 
-      "street": "Huiveldestraat", 
-      "lon": 4.07489596617611
+      "street": "Huiveldestraat"
     }, 
     {
-      "lat": 51.05323227373733, 
       "housenumber": "4", 
+      "lat": 51.05323227373733, 
+      "lon": 4.074331718845629, 
       "pcode": 9200, 
-      "street": "Huiveldestraat", 
-      "lon": 4.074331718845629
+      "street": "Huiveldestraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 9200, 
-      "street": "Huiveldestraat", 
-      "housenumber": "8"
+      "street": "Huiveldestraat"
     }
-  ], 
-  "name": "Huiveldestraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2060, 
   "addresses": [
     {
-      "lat": 51.232064044236694, 
       "housenumber": "26", 
+      "lat": 51.232064044236694, 
+      "lon": 4.41249309043072, 
       "pcode": 2060, 
-      "street": "Rigastraat", 
-      "lon": 4.41249309043072
+      "street": "Rigastraat"
     }, 
     {
-      "lat": 51.23276249431856, 
       "housenumber": "31", 
+      "lat": 51.23276249431856, 
+      "lon": 4.413529442527688, 
       "pcode": 2060, 
-      "street": "Rigastraat", 
-      "lon": 4.413529442527688
+      "street": "Rigastraat"
     }
-  ], 
-  "name": "Rigastraat"
+  ]
 }

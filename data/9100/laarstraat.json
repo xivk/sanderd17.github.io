@@ -1,32 +1,30 @@
 {
-  "pcode": 9100, 
   "addresses": [
     {
-      "lat": 51.15034834350945, 
       "housenumber": "1", 
+      "lat": 51.15034834350945, 
+      "lon": 4.188930535491518, 
       "pcode": 9100, 
-      "street": "Laarstraat", 
-      "lon": 4.188930535491518
+      "street": "Laarstraat"
     }, 
     {
-      "lat": 51.15022157316238, 
       "housenumber": "3", 
+      "lat": 51.15022157316238, 
+      "lon": 4.189029062529562, 
       "pcode": 9100, 
-      "street": "Laarstraat", 
-      "lon": 4.189029062529562
+      "street": "Laarstraat"
     }, 
     {
-      "lat": 51.149698130991474, 
       "housenumber": "5", 
+      "lat": 51.149698130991474, 
+      "lon": 4.189304036814001, 
       "pcode": 9100, 
-      "street": "Laarstraat", 
-      "lon": 4.189304036814001
+      "street": "Laarstraat"
     }, 
     {
+      "housenumber": "52", 
       "pcode": 9100, 
-      "street": "Laarstraat", 
-      "housenumber": "52"
+      "street": "Laarstraat"
     }
-  ], 
-  "name": "Laarstraat"
+  ]
 }

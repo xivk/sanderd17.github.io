@@ -1,20 +1,18 @@
 {
-  "pcode": 9680, 
   "addresses": [
     {
-      "lat": 50.7791714703521, 
       "housenumber": "1", 
+      "lat": 50.7791714703521, 
+      "lon": 3.6411706348394346, 
       "pcode": 9680, 
-      "street": "Boskantdreef", 
-      "lon": 3.6411706348394346
+      "street": "Boskantdreef"
     }, 
     {
-      "lat": 50.777032978414, 
       "housenumber": "3", 
+      "lat": 50.777032978414, 
+      "lon": 3.640053878649856, 
       "pcode": 9680, 
-      "street": "Boskantdreef", 
-      "lon": 3.640053878649856
+      "street": "Boskantdreef"
     }
-  ], 
-  "name": "Boskantdreef"
+  ]
 }

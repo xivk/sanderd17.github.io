@@ -1,25 +1,23 @@
 {
-  "pcode": 3940, 
   "addresses": [
     {
-      "lat": 51.15460495256166, 
       "housenumber": "33", 
+      "lat": 51.15460495256166, 
+      "lon": 5.403053063856505, 
       "pcode": 3940, 
-      "street": "Europawijk", 
-      "lon": 5.403053063856505
+      "street": "Europawijk"
     }, 
     {
-      "lat": 51.15402141199009, 
       "housenumber": "39", 
+      "lat": 51.15402141199009, 
+      "lon": 5.40226695775705, 
       "pcode": 3940, 
-      "street": "Europawijk", 
-      "lon": 5.40226695775705
+      "street": "Europawijk"
     }, 
     {
+      "housenumber": "70", 
       "pcode": 3940, 
-      "street": "Europawijk", 
-      "housenumber": "70"
+      "street": "Europawijk"
     }
-  ], 
-  "name": "Europawijk"
+  ]
 }

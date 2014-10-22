@@ -1,30 +1,28 @@
 {
-  "pcode": 3920, 
   "addresses": [
     {
-      "lat": 51.16329277168929, 
       "housenumber": "13", 
+      "lat": 51.16329277168929, 
+      "lon": 5.2870774278963015, 
       "pcode": 3920, 
-      "street": "Rode-Bornstraat", 
-      "lon": 5.2870774278963015
+      "street": "Rode-Bornstraat"
     }, 
     {
-      "lat": 51.16341471465538, 
       "housenumber": "15", 
+      "lat": 51.16341471465538, 
+      "lon": 5.2875561961502395, 
       "pcode": 3920, 
-      "street": "Rode-Bornstraat", 
-      "lon": 5.2875561961502395
+      "street": "Rode-Bornstraat"
     }, 
     {
+      "housenumber": "17", 
       "pcode": 3920, 
-      "street": "Rode-Bornstraat", 
-      "housenumber": "17"
+      "street": "Rode-Bornstraat"
     }, 
     {
+      "housenumber": "19", 
       "pcode": 3920, 
-      "street": "Rode-Bornstraat", 
-      "housenumber": "19"
+      "street": "Rode-Bornstraat"
     }
-  ], 
-  "name": "Rode-Bornstraat"
+  ]
 }

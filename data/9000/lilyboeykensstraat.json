@@ -1,54 +1,52 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 9000, 
-      "street": "Lily Boeykensstraat", 
-      "housenumber": "10"
+      "street": "Lily Boeykensstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9000, 
-      "street": "Lily Boeykensstraat", 
-      "housenumber": "2"
+      "street": "Lily Boeykensstraat"
     }, 
     {
-      "lat": 51.05417614162542, 
       "housenumber": "3", 
+      "lat": 51.05417614162542, 
+      "lon": 3.6883187110692686, 
       "pcode": 9000, 
-      "street": "Lily Boeykensstraat", 
-      "lon": 3.6883187110692686
+      "street": "Lily Boeykensstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9000, 
-      "street": "Lily Boeykensstraat", 
-      "housenumber": "4"
+      "street": "Lily Boeykensstraat"
     }, 
     {
-      "lat": 51.05365687876162, 
       "housenumber": "5", 
+      "lat": 51.05365687876162, 
+      "lon": 3.6880625357437773, 
       "pcode": 9000, 
-      "street": "Lily Boeykensstraat", 
-      "lon": 3.6880625357437773
+      "street": "Lily Boeykensstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9000, 
-      "street": "Lily Boeykensstraat", 
-      "housenumber": "6"
+      "street": "Lily Boeykensstraat"
     }, 
     {
-      "lat": 51.054002787732436, 
       "housenumber": "7", 
+      "lat": 51.054002787732436, 
+      "lon": 3.6883896907019245, 
       "pcode": 9000, 
-      "street": "Lily Boeykensstraat", 
-      "lon": 3.6883896907019245
+      "street": "Lily Boeykensstraat"
     }, 
     {
-      "lat": 51.053893855306946, 
       "housenumber": "8", 
+      "lat": 51.053893855306946, 
+      "lon": 3.687956685370557, 
       "pcode": 9000, 
-      "street": "Lily Boeykensstraat", 
-      "lon": 3.687956685370557
+      "street": "Lily Boeykensstraat"
     }
-  ], 
-  "name": "Lily Boeykensstraat"
+  ]
 }

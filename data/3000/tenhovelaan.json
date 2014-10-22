@@ -1,25 +1,23 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.87334373281282, 
       "housenumber": "1", 
+      "lat": 50.87334373281282, 
+      "lon": 4.692625149807081, 
       "pcode": 3000, 
-      "street": "Ten Hovelaan", 
-      "lon": 4.692625149807081
+      "street": "Ten Hovelaan"
     }, 
     {
-      "lat": 50.87323095415507, 
       "housenumber": "3", 
+      "lat": 50.87323095415507, 
+      "lon": 4.692025098827174, 
       "pcode": 3000, 
-      "street": "Ten Hovelaan", 
-      "lon": 4.692025098827174
+      "street": "Ten Hovelaan"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3000, 
-      "street": "Ten Hovelaan", 
-      "housenumber": "5"
+      "street": "Ten Hovelaan"
     }
-  ], 
-  "name": "Ten Hovelaan"
+  ]
 }

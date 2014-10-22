@@ -1,20 +1,18 @@
 {
-  "pcode": 9940, 
   "addresses": [
     {
-      "lat": 51.16906745055745, 
       "housenumber": "1", 
+      "lat": 51.16906745055745, 
+      "lon": 3.7427679969710645, 
       "pcode": 9940, 
-      "street": "Bommels", 
-      "lon": 3.7427679969710645
+      "street": "Bommels"
     }, 
     {
-      "lat": 51.16932244536392, 
       "housenumber": "3", 
+      "lat": 51.16932244536392, 
+      "lon": 3.7430359567337725, 
       "pcode": 9940, 
-      "street": "Bommels", 
-      "lon": 3.7430359567337725
+      "street": "Bommels"
     }
-  ], 
-  "name": "Bommels"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3191, 
   "addresses": [
     {
-      "lat": 50.99510040705279, 
       "housenumber": "2", 
+      "lat": 50.99510040705279, 
+      "lon": 4.541544706826421, 
       "pcode": 3191, 
-      "street": "Koevoetstraat", 
-      "lon": 4.541544706826421
+      "street": "Koevoetstraat"
     }, 
     {
-      "lat": 50.99543868559063, 
       "housenumber": "3", 
+      "lat": 50.99543868559063, 
+      "lon": 4.541898366837748, 
       "pcode": 3191, 
-      "street": "Koevoetstraat", 
-      "lon": 4.541898366837748
+      "street": "Koevoetstraat"
     }
-  ], 
-  "name": "Koevoetstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9810, 
   "addresses": [
     {
-      "lat": 50.946024155700535, 
       "housenumber": "5", 
+      "lat": 50.946024155700535, 
+      "lon": 3.632221177452979, 
       "pcode": 9810, 
-      "street": "Vestenwegel", 
-      "lon": 3.632221177452979
+      "street": "Vestenwegel"
     }, 
     {
-      "lat": 50.945405206057124, 
       "housenumber": "7", 
+      "lat": 50.945405206057124, 
+      "lon": 3.6319038837306494, 
       "pcode": 9810, 
-      "street": "Vestenwegel", 
-      "lon": 3.6319038837306494
+      "street": "Vestenwegel"
     }
-  ], 
-  "name": "Vestenwegel"
+  ]
 }

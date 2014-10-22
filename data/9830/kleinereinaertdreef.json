@@ -1,39 +1,37 @@
 {
-  "pcode": 9830, 
   "addresses": [
     {
+      "housenumber": "21", 
       "pcode": 9830, 
-      "street": "Kleine Reinaertdreef", 
-      "housenumber": "21"
+      "street": "Kleine Reinaertdreef"
     }, 
     {
-      "lat": 51.00965380693451, 
       "housenumber": "3", 
+      "lat": 51.00965380693451, 
+      "lon": 3.6191920950284313, 
       "pcode": 9830, 
-      "street": "Kleine Reinaertdreef", 
-      "lon": 3.6191920950284313
+      "street": "Kleine Reinaertdreef"
     }, 
     {
-      "lat": 51.00941249960704, 
       "housenumber": "5", 
+      "lat": 51.00941249960704, 
+      "lon": 3.618763911605969, 
       "pcode": 9830, 
-      "street": "Kleine Reinaertdreef", 
-      "lon": 3.618763911605969
+      "street": "Kleine Reinaertdreef"
     }, 
     {
-      "lat": 51.009585946351656, 
       "housenumber": "6", 
+      "lat": 51.009585946351656, 
+      "lon": 3.6179232702268402, 
       "pcode": 9830, 
-      "street": "Kleine Reinaertdreef", 
-      "lon": 3.6179232702268402
+      "street": "Kleine Reinaertdreef"
     }, 
     {
-      "lat": 51.008720063068495, 
       "housenumber": "9", 
+      "lat": 51.008720063068495, 
+      "lon": 3.617794502352264, 
       "pcode": 9830, 
-      "street": "Kleine Reinaertdreef", 
-      "lon": 3.617794502352264
+      "street": "Kleine Reinaertdreef"
     }
-  ], 
-  "name": "Kleine Reinaertdreef"
+  ]
 }

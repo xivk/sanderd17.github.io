@@ -1,18 +1,16 @@
 {
-  "pcode": 3583, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3583, 
-      "street": "Scheepvaartstraat", 
-      "housenumber": "10"
+      "street": "Scheepvaartstraat"
     }, 
     {
-      "lat": 51.06446114649508, 
       "housenumber": "15", 
+      "lat": 51.06446114649508, 
+      "lon": 5.193350819993522, 
       "pcode": 3583, 
-      "street": "Scheepvaartstraat", 
-      "lon": 5.193350819993522
+      "street": "Scheepvaartstraat"
     }
-  ], 
-  "name": "Scheepvaartstraat"
+  ]
 }

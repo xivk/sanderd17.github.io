@@ -1,32 +1,30 @@
 {
-  "pcode": 3520, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3520, 
-      "street": "Weutenswijerweg", 
-      "housenumber": "1"
+      "street": "Weutenswijerweg"
     }, 
     {
-      "lat": 50.97446868404733, 
       "housenumber": "10", 
+      "lat": 50.97446868404733, 
+      "lon": 5.367849120206975, 
       "pcode": 3520, 
-      "street": "Weutenswijerweg", 
-      "lon": 5.367849120206975
+      "street": "Weutenswijerweg"
     }, 
     {
-      "lat": 50.974388643812944, 
       "housenumber": "12", 
+      "lat": 50.974388643812944, 
+      "lon": 5.367609331992349, 
       "pcode": 3520, 
-      "street": "Weutenswijerweg", 
-      "lon": 5.367609331992349
+      "street": "Weutenswijerweg"
     }, 
     {
-      "lat": 50.97424777661815, 
       "housenumber": "14", 
+      "lat": 50.97424777661815, 
+      "lon": 5.366878559910971, 
       "pcode": 3520, 
-      "street": "Weutenswijerweg", 
-      "lon": 5.366878559910971
+      "street": "Weutenswijerweg"
     }
-  ], 
-  "name": "Weutenswijerweg"
+  ]
 }

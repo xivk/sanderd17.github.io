@@ -1,20 +1,18 @@
 {
-  "pcode": 8301, 
   "addresses": [
     {
-      "lat": 51.33959982933984, 
       "housenumber": "1", 
+      "lat": 51.33959982933984, 
+      "lon": 3.2288885825268867, 
       "pcode": 8301, 
-      "street": "de Gemblinnestraat", 
-      "lon": 3.2288885825268867
+      "street": "de Gemblinnestraat"
     }, 
     {
-      "lat": 51.33971537388725, 
       "housenumber": "2", 
+      "lat": 51.33971537388725, 
+      "lon": 3.2291635978421485, 
       "pcode": 8301, 
-      "street": "de Gemblinnestraat", 
-      "lon": 3.2291635978421485
+      "street": "de Gemblinnestraat"
     }
-  ], 
-  "name": "de Gemblinnestraat"
+  ]
 }

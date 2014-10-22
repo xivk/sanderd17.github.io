@@ -1,46 +1,44 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.9399487040828, 
       "housenumber": "11", 
+      "lat": 50.9399487040828, 
+      "lon": 5.352811020530687, 
       "pcode": 3500, 
-      "street": "Bootstraat", 
-      "lon": 5.352811020530687
+      "street": "Bootstraat"
     }, 
     {
-      "lat": 50.94057276663614, 
       "housenumber": "2", 
+      "lat": 50.94057276663614, 
+      "lon": 5.351901939713586, 
       "pcode": 3500, 
-      "street": "Bootstraat", 
-      "lon": 5.351901939713586
+      "street": "Bootstraat"
     }, 
     {
-      "lat": 50.939977415666824, 
       "housenumber": "5", 
+      "lat": 50.939977415666824, 
+      "lon": 5.352055788551597, 
       "pcode": 3500, 
-      "street": "Bootstraat", 
-      "lon": 5.352055788551597
+      "street": "Bootstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3500, 
-      "street": "Bootstraat", 
-      "housenumber": "7"
+      "street": "Bootstraat"
     }, 
     {
-      "lat": 50.940566998086766, 
       "housenumber": "8", 
+      "lat": 50.940566998086766, 
+      "lon": 5.352225812914741, 
       "pcode": 3500, 
-      "street": "Bootstraat", 
-      "lon": 5.352225812914741
+      "street": "Bootstraat"
     }, 
     {
-      "lat": 50.9399699477355, 
       "housenumber": "9", 
+      "lat": 50.9399699477355, 
+      "lon": 5.352389297568124, 
       "pcode": 3500, 
-      "street": "Bootstraat", 
-      "lon": 5.352389297568124
+      "street": "Bootstraat"
     }
-  ], 
-  "name": "Bootstraat"
+  ]
 }

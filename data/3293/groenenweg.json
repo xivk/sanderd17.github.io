@@ -1,25 +1,23 @@
 {
-  "pcode": 3293, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3293, 
-      "street": "Groenenweg", 
-      "housenumber": "1"
+      "street": "Groenenweg"
     }, 
     {
-      "lat": 50.98050187417606, 
       "housenumber": "3", 
+      "lat": 50.98050187417606, 
+      "lon": 5.019141016468105, 
       "pcode": 3293, 
-      "street": "Groenenweg", 
-      "lon": 5.019141016468105
+      "street": "Groenenweg"
     }, 
     {
-      "lat": 50.98066063155549, 
       "housenumber": "5", 
+      "lat": 50.98066063155549, 
+      "lon": 5.0187343780807785, 
       "pcode": 3293, 
-      "street": "Groenenweg", 
-      "lon": 5.0187343780807785
+      "street": "Groenenweg"
     }
-  ], 
-  "name": "Groenenweg"
+  ]
 }

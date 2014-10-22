@@ -1,18 +1,16 @@
 {
-  "pcode": 9120, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9120, 
-      "street": "Lammerstraat", 
-      "housenumber": "1"
+      "street": "Lammerstraat"
     }, 
     {
-      "lat": 51.22783012172096, 
       "housenumber": "5", 
+      "lat": 51.22783012172096, 
+      "lon": 4.170904579251937, 
       "pcode": 9120, 
-      "street": "Lammerstraat", 
-      "lon": 4.170904579251937
+      "street": "Lammerstraat"
     }
-  ], 
-  "name": "Lammerstraat"
+  ]
 }

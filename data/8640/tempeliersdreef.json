@@ -1,27 +1,25 @@
 {
-  "pcode": 8640, 
   "addresses": [
     {
-      "lat": 50.89984134954273, 
       "housenumber": "1", 
+      "lat": 50.89984134954273, 
+      "lon": 2.747198438601631, 
       "pcode": 8640, 
-      "street": "Tempeliersdreef", 
-      "lon": 2.747198438601631
+      "street": "Tempeliersdreef"
     }, 
     {
-      "lat": 50.89604688159852, 
       "housenumber": "3", 
+      "lat": 50.89604688159852, 
+      "lon": 2.7422146318466427, 
       "pcode": 8640, 
-      "street": "Tempeliersdreef", 
-      "lon": 2.7422146318466427
+      "street": "Tempeliersdreef"
     }, 
     {
-      "lat": 50.89609811346857, 
       "housenumber": "4", 
+      "lat": 50.89609811346857, 
+      "lon": 2.7412591354620606, 
       "pcode": 8640, 
-      "street": "Tempeliersdreef", 
-      "lon": 2.7412591354620606
+      "street": "Tempeliersdreef"
     }
-  ], 
-  "name": "Tempeliersdreef"
+  ]
 }

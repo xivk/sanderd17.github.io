@@ -1,44 +1,42 @@
 {
-  "pcode": 8620, 
   "addresses": [
     {
+      "housenumber": "110", 
       "pcode": 8620, 
-      "street": "Schoorbakkestraat", 
-      "housenumber": "110"
+      "street": "Schoorbakkestraat"
     }, 
     {
+      "housenumber": "112", 
       "pcode": 8620, 
-      "street": "Schoorbakkestraat", 
-      "housenumber": "112"
+      "street": "Schoorbakkestraat"
     }, 
     {
-      "lat": 51.12560792018229, 
       "housenumber": "3", 
+      "lat": 51.12560792018229, 
+      "lon": 2.7969791984294328, 
       "pcode": 8620, 
-      "street": "Schoorbakkestraat", 
-      "lon": 2.7969791984294328
+      "street": "Schoorbakkestraat"
     }, 
     {
-      "lat": 51.12087490257935, 
       "housenumber": "4", 
+      "lat": 51.12087490257935, 
+      "lon": 2.7973214928637855, 
       "pcode": 8620, 
-      "street": "Schoorbakkestraat", 
-      "lon": 2.7973214928637855
+      "street": "Schoorbakkestraat"
     }, 
     {
-      "lat": 51.12228034319114, 
       "housenumber": "6", 
+      "lat": 51.12228034319114, 
+      "lon": 2.802177859160327, 
       "pcode": 8620, 
-      "street": "Schoorbakkestraat", 
-      "lon": 2.802177859160327
+      "street": "Schoorbakkestraat"
     }, 
     {
-      "lat": 51.12237790138622, 
       "housenumber": "8", 
+      "lat": 51.12237790138622, 
+      "lon": 2.8023817405307505, 
       "pcode": 8620, 
-      "street": "Schoorbakkestraat", 
-      "lon": 2.8023817405307505
+      "street": "Schoorbakkestraat"
     }
-  ], 
-  "name": "Schoorbakkestraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2490, 
   "addresses": [
     {
-      "lat": 51.15280943387071, 
       "housenumber": "1", 
+      "lat": 51.15280943387071, 
+      "lon": 5.093399158598645, 
       "pcode": 2490, 
-      "street": "Greesloopstraat", 
-      "lon": 5.093399158598645
+      "street": "Greesloopstraat"
     }, 
     {
-      "lat": 51.152545805092394, 
       "housenumber": "2", 
+      "lat": 51.152545805092394, 
+      "lon": 5.094945140624265, 
       "pcode": 2490, 
-      "street": "Greesloopstraat", 
-      "lon": 5.094945140624265
+      "street": "Greesloopstraat"
     }
-  ], 
-  "name": "Greesloopstraat"
+  ]
 }

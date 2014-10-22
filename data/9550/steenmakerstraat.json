@@ -1,20 +1,18 @@
 {
-  "pcode": 9550, 
   "addresses": [
     {
-      "lat": 50.88808910269144, 
       "housenumber": "21", 
+      "lat": 50.88808910269144, 
+      "lon": 3.883318733320232, 
       "pcode": 9550, 
-      "street": "Steenmakerstraat", 
-      "lon": 3.883318733320232
+      "street": "Steenmakerstraat"
     }, 
     {
-      "lat": 50.888017300100124, 
       "housenumber": "23", 
+      "lat": 50.888017300100124, 
+      "lon": 3.8831504921857873, 
       "pcode": 9550, 
-      "street": "Steenmakerstraat", 
-      "lon": 3.8831504921857873
+      "street": "Steenmakerstraat"
     }
-  ], 
-  "name": "Steenmakerstraat"
+  ]
 }

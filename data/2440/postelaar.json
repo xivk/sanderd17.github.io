@@ -1,25 +1,23 @@
 {
-  "pcode": 2440, 
   "addresses": [
     {
-      "lat": 51.15768246692853, 
       "housenumber": "1", 
+      "lat": 51.15768246692853, 
+      "lon": 4.973498613822893, 
       "pcode": 2440, 
-      "street": "Postelaar", 
-      "lon": 4.973498613822893
+      "street": "Postelaar"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2440, 
-      "street": "Postelaar", 
-      "housenumber": "2"
+      "street": "Postelaar"
     }, 
     {
-      "lat": 51.158369350682655, 
       "housenumber": "4", 
+      "lat": 51.158369350682655, 
+      "lon": 4.97370078343593, 
       "pcode": 2440, 
-      "street": "Postelaar", 
-      "lon": 4.97370078343593
+      "street": "Postelaar"
     }
-  ], 
-  "name": "Postelaar"
+  ]
 }

@@ -1,25 +1,23 @@
 {
-  "pcode": 9220, 
   "addresses": [
     {
-      "lat": 51.09090330878633, 
       "housenumber": "24", 
+      "lat": 51.09090330878633, 
+      "lon": 4.157747344447522, 
       "pcode": 9220, 
-      "street": "Veermanshof", 
-      "lon": 4.157747344447522
+      "street": "Veermanshof"
     }, 
     {
-      "lat": 51.09089723359387, 
       "housenumber": "24A", 
+      "lat": 51.09089723359387, 
+      "lon": 4.157717825538106, 
       "pcode": 9220, 
-      "street": "Veermanshof", 
-      "lon": 4.157717825538106
+      "street": "Veermanshof"
     }, 
     {
+      "housenumber": "26", 
       "pcode": 9220, 
-      "street": "Veermanshof", 
-      "housenumber": "26"
+      "street": "Veermanshof"
     }
-  ], 
-  "name": "Veermanshof"
+  ]
 }

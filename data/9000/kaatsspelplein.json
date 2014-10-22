@@ -1,74 +1,72 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.059034474674334, 
       "housenumber": "1", 
-      "pcode": 9000, 
-      "street": "Kaatsspelplein", 
-      "lon": 3.7238978426214
-    }, 
-    {
-      "pcode": 9000, 
-      "street": "Kaatsspelplein", 
-      "housenumber": "1A"
-    }, 
-    {
       "lat": 51.059034474674334, 
+      "lon": 3.7238978426214, 
+      "pcode": 9000, 
+      "street": "Kaatsspelplein"
+    }, 
+    {
+      "housenumber": "1A", 
+      "pcode": 9000, 
+      "street": "Kaatsspelplein"
+    }, 
+    {
       "housenumber": "1B", 
+      "lat": 51.059034474674334, 
+      "lon": 3.7238978426214, 
       "pcode": 9000, 
-      "street": "Kaatsspelplein", 
-      "lon": 3.7238978426214
+      "street": "Kaatsspelplein"
     }, 
     {
-      "lat": 51.05889401181469, 
       "housenumber": "3", 
+      "lat": 51.05889401181469, 
+      "lon": 3.7237899415059736, 
       "pcode": 9000, 
-      "street": "Kaatsspelplein", 
-      "lon": 3.7237899415059736
+      "street": "Kaatsspelplein"
     }, 
     {
-      "lat": 51.05885034695311, 
       "housenumber": "4", 
+      "lat": 51.05885034695311, 
+      "lon": 3.72371194671679, 
       "pcode": 9000, 
-      "street": "Kaatsspelplein", 
-      "lon": 3.72371194671679
+      "street": "Kaatsspelplein"
     }, 
     {
-      "lat": 51.05880602458276, 
       "housenumber": "5", 
+      "lat": 51.05880602458276, 
+      "lon": 3.7236452298730156, 
       "pcode": 9000, 
-      "street": "Kaatsspelplein", 
-      "lon": 3.7236452298730156
+      "street": "Kaatsspelplein"
     }, 
     {
-      "lat": 51.0587429156139, 
       "housenumber": "6", 
+      "lat": 51.0587429156139, 
+      "lon": 3.723365093961517, 
       "pcode": 9000, 
-      "street": "Kaatsspelplein", 
-      "lon": 3.723365093961517
+      "street": "Kaatsspelplein"
     }, 
     {
-      "lat": 51.058999694103626, 
       "housenumber": "7", 
+      "lat": 51.058999694103626, 
+      "lon": 3.7235705279711775, 
       "pcode": 9000, 
-      "street": "Kaatsspelplein", 
-      "lon": 3.7235705279711775
+      "street": "Kaatsspelplein"
     }, 
     {
-      "lat": 51.05908366963032, 
       "housenumber": "8", 
+      "lat": 51.05908366963032, 
+      "lon": 3.7232612620222247, 
       "pcode": 9000, 
-      "street": "Kaatsspelplein", 
-      "lon": 3.7232612620222247
+      "street": "Kaatsspelplein"
     }, 
     {
-      "lat": 51.059051824098006, 
       "housenumber": "9", 
+      "lat": 51.059051824098006, 
+      "lon": 3.723634855203203, 
       "pcode": 9000, 
-      "street": "Kaatsspelplein", 
-      "lon": 3.723634855203203
+      "street": "Kaatsspelplein"
     }
-  ], 
-  "name": "Kaatsspelplein"
+  ]
 }

@@ -1,53 +1,51 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.20667259499422, 
       "housenumber": "1", 
+      "lat": 51.20667259499422, 
+      "lon": 3.2292182360016652, 
       "pcode": 8000, 
-      "street": "Gevangenisstraat", 
-      "lon": 3.2292182360016652
+      "street": "Gevangenisstraat"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 8000, 
-      "street": "Gevangenisstraat", 
-      "housenumber": "10"
+      "street": "Gevangenisstraat"
     }, 
     {
-      "lat": 51.20656474976261, 
       "housenumber": "2", 
+      "lat": 51.20656474976261, 
+      "lon": 3.229389161631738, 
       "pcode": 8000, 
-      "street": "Gevangenisstraat", 
-      "lon": 3.229389161631738
+      "street": "Gevangenisstraat"
     }, 
     {
-      "lat": 51.206707197272614, 
       "housenumber": "3", 
+      "lat": 51.206707197272614, 
+      "lon": 3.2292827905594836, 
       "pcode": 8000, 
-      "street": "Gevangenisstraat", 
-      "lon": 3.2292827905594836
+      "street": "Gevangenisstraat"
     }, 
     {
-      "lat": 51.20663302591128, 
       "housenumber": "4", 
+      "lat": 51.20663302591128, 
+      "lon": 3.229487239485927, 
       "pcode": 8000, 
-      "street": "Gevangenisstraat", 
-      "lon": 3.229487239485927
+      "street": "Gevangenisstraat"
     }, 
     {
-      "lat": 51.20667453641637, 
       "housenumber": "6", 
+      "lat": 51.20667453641637, 
+      "lon": 3.2295783863666165, 
       "pcode": 8000, 
-      "street": "Gevangenisstraat", 
-      "lon": 3.2295783863666165
+      "street": "Gevangenisstraat"
     }, 
     {
-      "lat": 51.206732132110524, 
       "housenumber": "8", 
+      "lat": 51.206732132110524, 
+      "lon": 3.2296502507787586, 
       "pcode": 8000, 
-      "street": "Gevangenisstraat", 
-      "lon": 3.2296502507787586
+      "street": "Gevangenisstraat"
     }
-  ], 
-  "name": "Gevangenisstraat"
+  ]
 }

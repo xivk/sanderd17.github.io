@@ -1,20 +1,18 @@
 {
-  "pcode": 9850, 
   "addresses": [
     {
-      "lat": 51.085771238782854, 
       "housenumber": "1", 
+      "lat": 51.085771238782854, 
+      "lon": 3.59113741190325, 
       "pcode": 9850, 
-      "street": "Valkenstraat", 
-      "lon": 3.59113741190325
+      "street": "Valkenstraat"
     }, 
     {
-      "lat": 51.0839132872213, 
       "housenumber": "2", 
+      "lat": 51.0839132872213, 
+      "lon": 3.593276272353346, 
       "pcode": 9850, 
-      "street": "Valkenstraat", 
-      "lon": 3.593276272353346
+      "street": "Valkenstraat"
     }
-  ], 
-  "name": "Valkenstraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 2160, 
   "addresses": [
     {
-      "lat": 51.20423688341413, 
       "housenumber": "1", 
+      "lat": 51.20423688341413, 
+      "lon": 4.5243574153736255, 
       "pcode": 2160, 
-      "street": "Godshuisweg", 
-      "lon": 4.5243574153736255
+      "street": "Godshuisweg"
     }, 
     {
-      "lat": 51.203934606792856, 
       "housenumber": "2", 
+      "lat": 51.203934606792856, 
+      "lon": 4.524489181728684, 
       "pcode": 2160, 
-      "street": "Godshuisweg", 
-      "lon": 4.524489181728684
+      "street": "Godshuisweg"
     }, 
     {
-      "lat": 51.204092215695596, 
       "housenumber": "4", 
+      "lat": 51.204092215695596, 
+      "lon": 4.524254198078118, 
       "pcode": 2160, 
-      "street": "Godshuisweg", 
-      "lon": 4.524254198078118
+      "street": "Godshuisweg"
     }
-  ], 
-  "name": "Godshuisweg"
+  ]
 }

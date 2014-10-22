@@ -1,20 +1,18 @@
 {
-  "pcode": 2400, 
   "addresses": [
     {
-      "lat": 51.26899118811956, 
       "housenumber": "28", 
+      "lat": 51.26899118811956, 
+      "lon": 5.176748556484701, 
       "pcode": 2400, 
-      "street": "De Wurft", 
-      "lon": 5.176748556484701
+      "street": "De Wurft"
     }, 
     {
-      "lat": 51.26934128347401, 
       "housenumber": "30", 
+      "lat": 51.26934128347401, 
+      "lon": 5.176540416243069, 
       "pcode": 2400, 
-      "street": "De Wurft", 
-      "lon": 5.176540416243069
+      "street": "De Wurft"
     }
-  ], 
-  "name": "De Wurft"
+  ]
 }

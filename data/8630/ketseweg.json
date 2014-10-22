@@ -1,20 +1,18 @@
 {
-  "pcode": 8630, 
   "addresses": [
     {
-      "lat": 51.01829807146147, 
       "housenumber": "1", 
+      "lat": 51.01829807146147, 
+      "lon": 2.622734153861356, 
       "pcode": 8630, 
-      "street": "Ketseweg", 
-      "lon": 2.622734153861356
+      "street": "Ketseweg"
     }, 
     {
-      "lat": 51.02286134783239, 
       "housenumber": "2", 
+      "lat": 51.02286134783239, 
+      "lon": 2.6240012668926953, 
       "pcode": 8630, 
-      "street": "Ketseweg", 
-      "lon": 2.6240012668926953
+      "street": "Ketseweg"
     }
-  ], 
-  "name": "Ketseweg"
+  ]
 }

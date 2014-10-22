@@ -1,20 +1,18 @@
 {
-  "pcode": 3520, 
   "addresses": [
     {
-      "lat": 50.99896638105993, 
       "housenumber": "10", 
+      "lat": 50.99896638105993, 
+      "lon": 5.4168413317005575, 
       "pcode": 3520, 
-      "street": "Hengelsbroekweg", 
-      "lon": 5.4168413317005575
+      "street": "Hengelsbroekweg"
     }, 
     {
-      "lat": 50.997975378483, 
       "housenumber": "5", 
+      "lat": 50.997975378483, 
+      "lon": 5.416663717633889, 
       "pcode": 3520, 
-      "street": "Hengelsbroekweg", 
-      "lon": 5.416663717633889
+      "street": "Hengelsbroekweg"
     }
-  ], 
-  "name": "Hengelsbroekweg"
+  ]
 }

@@ -1,42 +1,40 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.942558630662894, 
       "housenumber": "1", 
+      "lat": 50.942558630662894, 
+      "lon": 5.3449663964288225, 
       "pcode": 3500, 
-      "street": "Handelskaai", 
-      "lon": 5.3449663964288225
+      "street": "Handelskaai"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 3500, 
-      "street": "Handelskaai", 
-      "housenumber": "11"
+      "street": "Handelskaai"
     }, 
     {
+      "housenumber": "15", 
       "pcode": 3500, 
-      "street": "Handelskaai", 
-      "housenumber": "15"
+      "street": "Handelskaai"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 3500, 
-      "street": "Handelskaai", 
-      "housenumber": "1B"
+      "street": "Handelskaai"
     }, 
     {
-      "lat": 50.94232670761703, 
       "housenumber": "2", 
+      "lat": 50.94232670761703, 
+      "lon": 5.347534546937156, 
       "pcode": 3500, 
-      "street": "Handelskaai", 
-      "lon": 5.347534546937156
+      "street": "Handelskaai"
     }, 
     {
-      "lat": 50.942315500684785, 
       "housenumber": "3", 
+      "lat": 50.942315500684785, 
+      "lon": 5.347832848110493, 
       "pcode": 3500, 
-      "street": "Handelskaai", 
-      "lon": 5.347832848110493
+      "street": "Handelskaai"
     }
-  ], 
-  "name": "Handelskaai"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 3640, 
   "addresses": [
     {
-      "lat": 51.125552785778936, 
       "housenumber": "1", 
+      "lat": 51.125552785778936, 
+      "lon": 5.788464660873551, 
       "pcode": 3640, 
-      "street": "Hoverhofweg", 
-      "lon": 5.788464660873551
+      "street": "Hoverhofweg"
     }, 
     {
-      "lat": 51.125492421364385, 
       "housenumber": "2", 
+      "lat": 51.125492421364385, 
+      "lon": 5.7879675069815, 
       "pcode": 3640, 
-      "street": "Hoverhofweg", 
-      "lon": 5.7879675069815
+      "street": "Hoverhofweg"
     }, 
     {
-      "lat": 51.125785367379116, 
       "housenumber": "3", 
+      "lat": 51.125785367379116, 
+      "lon": 5.78306277050351, 
       "pcode": 3640, 
-      "street": "Hoverhofweg", 
-      "lon": 5.78306277050351
+      "street": "Hoverhofweg"
     }
-  ], 
-  "name": "Hoverhofweg"
+  ]
 }

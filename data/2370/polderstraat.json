@@ -1,32 +1,30 @@
 {
-  "pcode": 2370, 
   "addresses": [
     {
-      "lat": 51.33639047680977, 
       "housenumber": "11", 
+      "lat": 51.33639047680977, 
+      "lon": 5.113527191216058, 
       "pcode": 2370, 
-      "street": "Polderstraat", 
-      "lon": 5.113527191216058
+      "street": "Polderstraat"
     }, 
     {
+      "housenumber": "13", 
       "pcode": 2370, 
-      "street": "Polderstraat", 
-      "housenumber": "13"
+      "street": "Polderstraat"
     }, 
     {
-      "lat": 51.339030813601674, 
       "housenumber": "6", 
+      "lat": 51.339030813601674, 
+      "lon": 5.1176051229433615, 
       "pcode": 2370, 
-      "street": "Polderstraat", 
-      "lon": 5.1176051229433615
+      "street": "Polderstraat"
     }, 
     {
-      "lat": 51.33631104922599, 
       "housenumber": "9", 
+      "lat": 51.33631104922599, 
+      "lon": 5.11343666410879, 
       "pcode": 2370, 
-      "street": "Polderstraat", 
-      "lon": 5.11343666410879
+      "street": "Polderstraat"
     }
-  ], 
-  "name": "Polderstraat"
+  ]
 }

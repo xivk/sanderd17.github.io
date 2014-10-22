@@ -1,20 +1,18 @@
 {
-  "pcode": 9771, 
   "addresses": [
     {
-      "lat": 50.87799130978483, 
       "housenumber": "1", 
+      "lat": 50.87799130978483, 
+      "lon": 3.4805621977236663, 
       "pcode": 9771, 
-      "street": "Peerdekouterstraat", 
-      "lon": 3.4805621977236663
+      "street": "Peerdekouterstraat"
     }, 
     {
-      "lat": 50.87765084022198, 
       "housenumber": "3", 
+      "lat": 50.87765084022198, 
+      "lon": 3.484002404911745, 
       "pcode": 9771, 
-      "street": "Peerdekouterstraat", 
-      "lon": 3.484002404911745
+      "street": "Peerdekouterstraat"
     }
-  ], 
-  "name": "Peerdekouterstraat"
+  ]
 }

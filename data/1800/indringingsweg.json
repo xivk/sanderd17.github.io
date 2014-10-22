@@ -1,27 +1,25 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
-      "lat": 50.90916796116731, 
       "housenumber": "1", 
+      "lat": 50.90916796116731, 
+      "lon": 4.3860805125411035, 
       "pcode": 1800, 
-      "street": "Indringingsweg", 
-      "lon": 4.3860805125411035
+      "street": "Indringingsweg"
     }, 
     {
-      "lat": 50.908577632650506, 
       "housenumber": "1B", 
+      "lat": 50.908577632650506, 
+      "lon": 4.385469762862289, 
       "pcode": 1800, 
-      "street": "Indringingsweg", 
-      "lon": 4.385469762862289
+      "street": "Indringingsweg"
     }, 
     {
-      "lat": 50.90768520217988, 
       "housenumber": "3", 
+      "lat": 50.90768520217988, 
+      "lon": 4.384622905300577, 
       "pcode": 1800, 
-      "street": "Indringingsweg", 
-      "lon": 4.384622905300577
+      "street": "Indringingsweg"
     }
-  ], 
-  "name": "Indringingsweg"
+  ]
 }

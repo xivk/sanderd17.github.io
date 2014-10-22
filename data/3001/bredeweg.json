@@ -1,34 +1,32 @@
 {
-  "pcode": 3001, 
   "addresses": [
     {
-      "lat": 50.858269193982245, 
       "housenumber": "1", 
+      "lat": 50.858269193982245, 
+      "lon": 4.654501023110754, 
       "pcode": 3001, 
-      "street": "Bredeweg", 
-      "lon": 4.654501023110754
+      "street": "Bredeweg"
     }, 
     {
-      "lat": 50.85816403726552, 
       "housenumber": "3", 
+      "lat": 50.85816403726552, 
+      "lon": 4.654197718312077, 
       "pcode": 3001, 
-      "street": "Bredeweg", 
-      "lon": 4.654197718312077
+      "street": "Bredeweg"
     }, 
     {
-      "lat": 50.85801755387921, 
       "housenumber": "5", 
+      "lat": 50.85801755387921, 
+      "lon": 4.6537730131396255, 
       "pcode": 3001, 
-      "street": "Bredeweg", 
-      "lon": 4.6537730131396255
+      "street": "Bredeweg"
     }, 
     {
-      "lat": 50.85785569395741, 
       "housenumber": "7", 
+      "lat": 50.85785569395741, 
+      "lon": 4.653608128706047, 
       "pcode": 3001, 
-      "street": "Bredeweg", 
-      "lon": 4.653608128706047
+      "street": "Bredeweg"
     }
-  ], 
-  "name": "Bredeweg"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 3550, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3550, 
-      "street": "Schootschansweg", 
-      "housenumber": "10"
+      "street": "Schootschansweg"
     }, 
     {
-      "lat": 51.03095679636479, 
       "housenumber": "12", 
+      "lat": 51.03095679636479, 
+      "lon": 5.287703071988048, 
       "pcode": 3550, 
-      "street": "Schootschansweg", 
-      "lon": 5.287703071988048
+      "street": "Schootschansweg"
     }, 
     {
-      "lat": 51.031163367240836, 
       "housenumber": "5", 
+      "lat": 51.031163367240836, 
+      "lon": 5.288095900725767, 
       "pcode": 3550, 
-      "street": "Schootschansweg", 
-      "lon": 5.288095900725767
+      "street": "Schootschansweg"
     }, 
     {
-      "lat": 51.030978703730604, 
       "housenumber": "8", 
+      "lat": 51.030978703730604, 
+      "lon": 5.287269112524631, 
       "pcode": 3550, 
-      "street": "Schootschansweg", 
-      "lon": 5.287269112524631
+      "street": "Schootschansweg"
     }
-  ], 
-  "name": "Schootschansweg"
+  ]
 }

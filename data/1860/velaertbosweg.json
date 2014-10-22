@@ -1,20 +1,18 @@
 {
-  "pcode": 1860, 
   "addresses": [
     {
-      "lat": 50.96163439925305, 
       "housenumber": "2", 
+      "lat": 50.96163439925305, 
+      "lon": 4.325244606726005, 
       "pcode": 1860, 
-      "street": "Velaertbosweg", 
-      "lon": 4.325244606726005
+      "street": "Velaertbosweg"
     }, 
     {
-      "lat": 50.959409680427605, 
       "housenumber": "4", 
+      "lat": 50.959409680427605, 
+      "lon": 4.322898827980736, 
       "pcode": 1860, 
-      "street": "Velaertbosweg", 
-      "lon": 4.322898827980736
+      "street": "Velaertbosweg"
     }
-  ], 
-  "name": "Velaertbosweg"
+  ]
 }

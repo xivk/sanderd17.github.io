@@ -1,32 +1,30 @@
 {
-  "pcode": 8953, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8953, 
-      "street": "Guido Gezellestraat", 
-      "housenumber": "1"
+      "street": "Guido Gezellestraat"
     }, 
     {
-      "lat": 50.78422152134804, 
       "housenumber": "3", 
+      "lat": 50.78422152134804, 
+      "lon": 2.8815366571083247, 
       "pcode": 8953, 
-      "street": "Guido Gezellestraat", 
-      "lon": 2.8815366571083247
+      "street": "Guido Gezellestraat"
     }, 
     {
-      "lat": 50.78469494168076, 
       "housenumber": "4", 
+      "lat": 50.78469494168076, 
+      "lon": 2.882027061430148, 
       "pcode": 8953, 
-      "street": "Guido Gezellestraat", 
-      "lon": 2.882027061430148
+      "street": "Guido Gezellestraat"
     }, 
     {
-      "lat": 50.7846371665767, 
       "housenumber": "6", 
+      "lat": 50.7846371665767, 
+      "lon": 2.881923928064014, 
       "pcode": 8953, 
-      "street": "Guido Gezellestraat", 
-      "lon": 2.881923928064014
+      "street": "Guido Gezellestraat"
     }
-  ], 
-  "name": "Guido Gezellestraat"
+  ]
 }

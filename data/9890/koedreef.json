@@ -1,27 +1,25 @@
 {
-  "pcode": 9890, 
   "addresses": [
     {
-      "lat": 50.9471719951143, 
       "housenumber": "1", 
+      "lat": 50.9471719951143, 
+      "lon": 3.69155245166534, 
       "pcode": 9890, 
-      "street": "Koedreef", 
-      "lon": 3.69155245166534
+      "street": "Koedreef"
     }, 
     {
-      "lat": 50.94754679083285, 
       "housenumber": "3", 
+      "lat": 50.94754679083285, 
+      "lon": 3.6915868912334227, 
       "pcode": 9890, 
-      "street": "Koedreef", 
-      "lon": 3.6915868912334227
+      "street": "Koedreef"
     }, 
     {
-      "lat": 50.947667957903796, 
       "housenumber": "4", 
+      "lat": 50.947667957903796, 
+      "lon": 3.692303498875449, 
       "pcode": 9890, 
-      "street": "Koedreef", 
-      "lon": 3.692303498875449
+      "street": "Koedreef"
     }
-  ], 
-  "name": "Koedreef"
+  ]
 }

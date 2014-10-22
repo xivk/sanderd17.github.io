@@ -1,20 +1,18 @@
 {
-  "pcode": 9255, 
   "addresses": [
     {
-      "lat": 50.999972893275924, 
       "housenumber": "1", 
+      "lat": 50.999972893275924, 
+      "lon": 4.1750781525272265, 
       "pcode": 9255, 
-      "street": "Hof Ter Koppen", 
-      "lon": 4.1750781525272265
+      "street": "Hof Ter Koppen"
     }, 
     {
-      "lat": 51.00012102171422, 
       "housenumber": "2", 
+      "lat": 51.00012102171422, 
+      "lon": 4.174961011106068, 
       "pcode": 9255, 
-      "street": "Hof Ter Koppen", 
-      "lon": 4.174961011106068
+      "street": "Hof Ter Koppen"
     }
-  ], 
-  "name": "Hof Ter Koppen"
+  ]
 }

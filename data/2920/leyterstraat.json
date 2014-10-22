@@ -1,20 +1,18 @@
 {
-  "pcode": 2920, 
   "addresses": [
     {
-      "lat": 51.39909308343075, 
       "housenumber": "1", 
+      "lat": 51.39909308343075, 
+      "lon": 4.497270812553424, 
       "pcode": 2920, 
-      "street": "Leyterstraat", 
-      "lon": 4.497270812553424
+      "street": "Leyterstraat"
     }, 
     {
-      "lat": 51.39903899537704, 
       "housenumber": "3", 
+      "lat": 51.39903899537704, 
+      "lon": 4.496591908515537, 
       "pcode": 2920, 
-      "street": "Leyterstraat", 
-      "lon": 4.496591908515537
+      "street": "Leyterstraat"
     }
-  ], 
-  "name": "Leyterstraat"
+  ]
 }

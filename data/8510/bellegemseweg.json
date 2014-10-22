@@ -1,25 +1,23 @@
 {
-  "pcode": 8510, 
   "addresses": [
     {
-      "lat": 50.77203470533523, 
       "housenumber": "2", 
+      "lat": 50.77203470533523, 
+      "lon": 3.2622531492864604, 
       "pcode": 8510, 
-      "street": "Bellegemseweg", 
-      "lon": 3.2622531492864604
+      "street": "Bellegemseweg"
     }, 
     {
-      "lat": 50.77206250331692, 
       "housenumber": "4", 
+      "lat": 50.77206250331692, 
+      "lon": 3.263245409614779, 
       "pcode": 8510, 
-      "street": "Bellegemseweg", 
-      "lon": 3.263245409614779
+      "street": "Bellegemseweg"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 8510, 
-      "street": "Bellegemseweg", 
-      "housenumber": "6"
+      "street": "Bellegemseweg"
     }
-  ], 
-  "name": "Bellegemseweg"
+  ]
 }

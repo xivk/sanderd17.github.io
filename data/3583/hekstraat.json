@@ -1,18 +1,16 @@
 {
-  "pcode": 3583, 
   "addresses": [
     {
-      "lat": 51.03981915917591, 
       "housenumber": "82", 
+      "lat": 51.03981915917591, 
+      "lon": 5.208550578799741, 
       "pcode": 3583, 
-      "street": "Hekstraat", 
-      "lon": 5.208550578799741
+      "street": "Hekstraat"
     }, 
     {
+      "housenumber": "84", 
       "pcode": 3583, 
-      "street": "Hekstraat", 
-      "housenumber": "84"
+      "street": "Hekstraat"
     }
-  ], 
-  "name": "Hekstraat"
+  ]
 }

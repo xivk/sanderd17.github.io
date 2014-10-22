@@ -1,27 +1,25 @@
 {
-  "pcode": 8904, 
   "addresses": [
     {
-      "lat": 50.895030874350525, 
       "housenumber": "1", 
+      "lat": 50.895030874350525, 
+      "lon": 2.8445154754630044, 
       "pcode": 8904, 
-      "street": "Binnenweg", 
-      "lon": 2.8445154754630044
+      "street": "Binnenweg"
     }, 
     {
-      "lat": 50.89530675967765, 
       "housenumber": "3", 
+      "lat": 50.89530675967765, 
+      "lon": 2.8432507330727885, 
       "pcode": 8904, 
-      "street": "Binnenweg", 
-      "lon": 2.8432507330727885
+      "street": "Binnenweg"
     }, 
     {
-      "lat": 50.89851104260992, 
       "housenumber": "5", 
+      "lat": 50.89851104260992, 
+      "lon": 2.83794116553852, 
       "pcode": 8904, 
-      "street": "Binnenweg", 
-      "lon": 2.83794116553852
+      "street": "Binnenweg"
     }
-  ], 
-  "name": "Binnenweg"
+  ]
 }

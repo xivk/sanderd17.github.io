@@ -1,27 +1,25 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.07351112112533, 
       "housenumber": "42", 
+      "lat": 51.07351112112533, 
+      "lon": 3.7240001265975837, 
       "pcode": 9000, 
-      "street": "Buitensingel", 
-      "lon": 3.7240001265975837
+      "street": "Buitensingel"
     }, 
     {
-      "lat": 51.073599931337284, 
       "housenumber": "43", 
+      "lat": 51.073599931337284, 
+      "lon": 3.7238515076509597, 
       "pcode": 9000, 
-      "street": "Buitensingel", 
-      "lon": 3.7238515076509597
+      "street": "Buitensingel"
     }, 
     {
-      "lat": 51.0735263617472, 
       "housenumber": "44", 
+      "lat": 51.0735263617472, 
+      "lon": 3.7236801546739375, 
       "pcode": 9000, 
-      "street": "Buitensingel", 
-      "lon": 3.7236801546739375
+      "street": "Buitensingel"
     }
-  ], 
-  "name": "Buitensingel"
+  ]
 }

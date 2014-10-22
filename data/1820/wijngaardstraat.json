@@ -1,20 +1,18 @@
 {
-  "pcode": 1820, 
   "addresses": [
     {
-      "lat": 50.9034478325475, 
       "housenumber": "2", 
+      "lat": 50.9034478325475, 
+      "lon": 4.523172801883207, 
       "pcode": 1820, 
-      "street": "Wijngaardstraat", 
-      "lon": 4.523172801883207
+      "street": "Wijngaardstraat"
     }, 
     {
-      "lat": 50.903711082524474, 
       "housenumber": "6", 
+      "lat": 50.903711082524474, 
+      "lon": 4.524699682277211, 
       "pcode": 1820, 
-      "street": "Wijngaardstraat", 
-      "lon": 4.524699682277211
+      "street": "Wijngaardstraat"
     }
-  ], 
-  "name": "Wijngaardstraat"
+  ]
 }

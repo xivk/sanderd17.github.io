@@ -1,20 +1,18 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.96481395393128, 
       "housenumber": "1", 
+      "lat": 50.96481395393128, 
+      "lon": 5.506716826207412, 
       "pcode": 3600, 
-      "street": "Albert Remansstraat", 
-      "lon": 5.506716826207412
+      "street": "Albert Remansstraat"
     }, 
     {
-      "lat": 50.96510091541769, 
       "housenumber": "2", 
+      "lat": 50.96510091541769, 
+      "lon": 5.504775765969006, 
       "pcode": 3600, 
-      "street": "Albert Remansstraat", 
-      "lon": 5.504775765969006
+      "street": "Albert Remansstraat"
     }
-  ], 
-  "name": "Albert Remansstraat"
+  ]
 }

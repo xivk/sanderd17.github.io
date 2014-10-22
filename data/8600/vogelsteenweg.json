@@ -1,20 +1,18 @@
 {
-  "pcode": 8600, 
   "addresses": [
     {
-      "lat": 51.07592915791583, 
       "housenumber": "1", 
+      "lat": 51.07592915791583, 
+      "lon": 2.774101652383381, 
       "pcode": 8600, 
-      "street": "Vogelsteenweg", 
-      "lon": 2.774101652383381
+      "street": "Vogelsteenweg"
     }, 
     {
-      "lat": 51.0799071926588, 
       "housenumber": "3", 
+      "lat": 51.0799071926588, 
+      "lon": 2.7718027810141925, 
       "pcode": 8600, 
-      "street": "Vogelsteenweg", 
-      "lon": 2.7718027810141925
+      "street": "Vogelsteenweg"
     }
-  ], 
-  "name": "Vogelsteenweg"
+  ]
 }

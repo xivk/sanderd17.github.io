@@ -1,20 +1,18 @@
 {
-  "pcode": 3390, 
   "addresses": [
     {
-      "lat": 50.913064085866495, 
       "housenumber": "1", 
+      "lat": 50.913064085866495, 
+      "lon": 4.90186012121938, 
       "pcode": 3390, 
-      "street": "Manhofweg", 
-      "lon": 4.90186012121938
+      "street": "Manhofweg"
     }, 
     {
-      "lat": 50.91440228621752, 
       "housenumber": "2", 
+      "lat": 50.91440228621752, 
+      "lon": 4.900213000413881, 
       "pcode": 3390, 
-      "street": "Manhofweg", 
-      "lon": 4.900213000413881
+      "street": "Manhofweg"
     }
-  ], 
-  "name": "Manhofweg"
+  ]
 }

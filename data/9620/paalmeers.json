@@ -1,20 +1,18 @@
 {
-  "pcode": 9620, 
   "addresses": [
     {
-      "lat": 50.90337654395538, 
       "housenumber": "12", 
+      "lat": 50.90337654395538, 
+      "lon": 3.751665376997183, 
       "pcode": 9620, 
-      "street": "Paalmeers", 
-      "lon": 3.751665376997183
+      "street": "Paalmeers"
     }, 
     {
-      "lat": 50.903006758118934, 
       "housenumber": "4", 
+      "lat": 50.903006758118934, 
+      "lon": 3.753956728223609, 
       "pcode": 9620, 
-      "street": "Paalmeers", 
-      "lon": 3.753956728223609
+      "street": "Paalmeers"
     }
-  ], 
-  "name": "Paalmeers"
+  ]
 }

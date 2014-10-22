@@ -1,34 +1,32 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.9244438415556, 
       "housenumber": "1", 
+      "lat": 50.9244438415556, 
+      "lon": 3.127411927700918, 
       "pcode": 8800, 
-      "street": "Sint-Henricusweg", 
-      "lon": 3.127411927700918
+      "street": "Sint-Henricusweg"
     }, 
     {
-      "lat": 50.923433699469804, 
       "housenumber": "2", 
+      "lat": 50.923433699469804, 
+      "lon": 3.1280541299874396, 
       "pcode": 8800, 
-      "street": "Sint-Henricusweg", 
-      "lon": 3.1280541299874396
+      "street": "Sint-Henricusweg"
     }, 
     {
-      "lat": 50.925058194572514, 
       "housenumber": "4", 
+      "lat": 50.925058194572514, 
+      "lon": 3.1277976839863513, 
       "pcode": 8800, 
-      "street": "Sint-Henricusweg", 
-      "lon": 3.1277976839863513
+      "street": "Sint-Henricusweg"
     }, 
     {
-      "lat": 50.925237295272396, 
       "housenumber": "6", 
+      "lat": 50.925237295272396, 
+      "lon": 3.1287696443132744, 
       "pcode": 8800, 
-      "street": "Sint-Henricusweg", 
-      "lon": 3.1287696443132744
+      "street": "Sint-Henricusweg"
     }
-  ], 
-  "name": "Sint-Henricusweg"
+  ]
 }

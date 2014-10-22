@@ -1,20 +1,18 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.94391538423094, 
       "housenumber": "1", 
+      "lat": 50.94391538423094, 
+      "lon": 5.530076275757994, 
       "pcode": 3600, 
-      "street": "Papblookstraat", 
-      "lon": 5.530076275757994
+      "street": "Papblookstraat"
     }, 
     {
-      "lat": 50.94390694790443, 
       "housenumber": "4", 
+      "lat": 50.94390694790443, 
+      "lon": 5.53080196459403, 
       "pcode": 3600, 
-      "street": "Papblookstraat", 
-      "lon": 5.53080196459403
+      "street": "Papblookstraat"
     }
-  ], 
-  "name": "Papblookstraat"
+  ]
 }

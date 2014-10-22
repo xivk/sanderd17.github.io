@@ -1,37 +1,35 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
-      "lat": 51.013210177294795, 
       "housenumber": "1", 
+      "lat": 51.013210177294795, 
+      "lon": 4.484417347466496, 
       "pcode": 2800, 
-      "street": "Withuisstraat", 
-      "lon": 4.484417347466496
+      "street": "Withuisstraat"
     }, 
     {
-      "lat": 51.0132145159818, 
       "housenumber": "2", 
+      "lat": 51.0132145159818, 
+      "lon": 4.484393133533779, 
       "pcode": 2800, 
-      "street": "Withuisstraat", 
-      "lon": 4.484393133533779
+      "street": "Withuisstraat"
     }, 
     {
-      "lat": 51.01303363320105, 
       "housenumber": "3", 
+      "lat": 51.01303363320105, 
+      "lon": 4.4842340842953226, 
       "pcode": 2800, 
-      "street": "Withuisstraat", 
-      "lon": 4.4842340842953226
+      "street": "Withuisstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2800, 
-      "street": "Withuisstraat", 
-      "housenumber": "4"
+      "street": "Withuisstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2800, 
-      "street": "Withuisstraat", 
-      "housenumber": "5"
+      "street": "Withuisstraat"
     }
-  ], 
-  "name": "Withuisstraat"
+  ]
 }

@@ -1,53 +1,51 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.96119094478452, 
       "housenumber": "1", 
+      "lat": 50.96119094478452, 
+      "lon": 5.496649930586695, 
       "pcode": 3600, 
-      "street": "Klokkuil", 
-      "lon": 5.496649930586695
+      "street": "Klokkuil"
     }, 
     {
-      "lat": 50.96212603668325, 
       "housenumber": "10", 
+      "lat": 50.96212603668325, 
+      "lon": 5.497284868057501, 
       "pcode": 3600, 
-      "street": "Klokkuil", 
-      "lon": 5.497284868057501
+      "street": "Klokkuil"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3600, 
-      "street": "Klokkuil", 
-      "housenumber": "2"
+      "street": "Klokkuil"
     }, 
     {
-      "lat": 50.961603120558706, 
       "housenumber": "4", 
+      "lat": 50.961603120558706, 
+      "lon": 5.496989836760277, 
       "pcode": 3600, 
-      "street": "Klokkuil", 
-      "lon": 5.496989836760277
+      "street": "Klokkuil"
     }, 
     {
-      "lat": 50.961865247256505, 
       "housenumber": "6", 
+      "lat": 50.961865247256505, 
+      "lon": 5.496983478127413, 
       "pcode": 3600, 
-      "street": "Klokkuil", 
-      "lon": 5.496983478127413
+      "street": "Klokkuil"
     }, 
     {
-      "lat": 50.962332339608764, 
       "housenumber": "7", 
+      "lat": 50.962332339608764, 
+      "lon": 5.49685663531628, 
       "pcode": 3600, 
-      "street": "Klokkuil", 
-      "lon": 5.49685663531628
+      "street": "Klokkuil"
     }, 
     {
-      "lat": 50.96232083045497, 
       "housenumber": "9", 
+      "lat": 50.96232083045497, 
+      "lon": 5.497025339436044, 
       "pcode": 3600, 
-      "street": "Klokkuil", 
-      "lon": 5.497025339436044
+      "street": "Klokkuil"
     }
-  ], 
-  "name": "Klokkuil"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 8310, 
   "addresses": [
     {
-      "lat": 51.230276039274834, 
       "housenumber": "2", 
+      "lat": 51.230276039274834, 
+      "lon": 3.2668623554503275, 
       "pcode": 8310, 
-      "street": "Broekweg", 
-      "lon": 3.2668623554503275
+      "street": "Broekweg"
     }, 
     {
-      "lat": 51.232074799476216, 
       "housenumber": "4", 
+      "lat": 51.232074799476216, 
+      "lon": 3.2658581020208524, 
       "pcode": 8310, 
-      "street": "Broekweg", 
-      "lon": 3.2658581020208524
+      "street": "Broekweg"
     }, 
     {
-      "lat": 51.2324700897631, 
       "housenumber": "5", 
+      "lat": 51.2324700897631, 
+      "lon": 3.269755102565049, 
       "pcode": 8310, 
-      "street": "Broekweg", 
-      "lon": 3.269755102565049
+      "street": "Broekweg"
     }
-  ], 
-  "name": "Broekweg"
+  ]
 }

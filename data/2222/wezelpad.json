@@ -1,34 +1,32 @@
 {
-  "pcode": 2222, 
   "addresses": [
     {
-      "lat": 51.096999070501354, 
       "housenumber": "1", 
+      "lat": 51.096999070501354, 
+      "lon": 4.7299793685515095, 
       "pcode": 2222, 
-      "street": "Wezelpad", 
-      "lon": 4.7299793685515095
+      "street": "Wezelpad"
     }, 
     {
-      "lat": 51.09753058717141, 
       "housenumber": "2", 
+      "lat": 51.09753058717141, 
+      "lon": 4.730329811028042, 
       "pcode": 2222, 
-      "street": "Wezelpad", 
-      "lon": 4.730329811028042
+      "street": "Wezelpad"
     }, 
     {
-      "lat": 51.09757672119411, 
       "housenumber": "4", 
+      "lat": 51.09757672119411, 
+      "lon": 4.7299717058315025, 
       "pcode": 2222, 
-      "street": "Wezelpad", 
-      "lon": 4.7299717058315025
+      "street": "Wezelpad"
     }, 
     {
-      "lat": 51.09750376936507, 
       "housenumber": "6", 
+      "lat": 51.09750376936507, 
+      "lon": 4.72954900952882, 
       "pcode": 2222, 
-      "street": "Wezelpad", 
-      "lon": 4.72954900952882
+      "street": "Wezelpad"
     }
-  ], 
-  "name": "Wezelpad"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 3740, 
   "addresses": [
     {
-      "lat": 50.88371308603146, 
       "housenumber": "12", 
+      "lat": 50.88371308603146, 
+      "lon": 5.525407366805736, 
       "pcode": 3740, 
-      "street": "Vlekkert", 
-      "lon": 5.525407366805736
+      "street": "Vlekkert"
     }, 
     {
-      "lat": 50.883706782016965, 
       "housenumber": "14", 
+      "lat": 50.883706782016965, 
+      "lon": 5.525308152105241, 
       "pcode": 3740, 
-      "street": "Vlekkert", 
-      "lon": 5.525308152105241
+      "street": "Vlekkert"
     }, 
     {
+      "housenumber": "15", 
       "pcode": 3740, 
-      "street": "Vlekkert", 
-      "housenumber": "15"
+      "street": "Vlekkert"
     }, 
     {
-      "lat": 50.88341424559687, 
       "housenumber": "23", 
+      "lat": 50.88341424559687, 
+      "lon": 5.526555167278946, 
       "pcode": 3740, 
-      "street": "Vlekkert", 
-      "lon": 5.526555167278946
+      "street": "Vlekkert"
     }
-  ], 
-  "name": "Vlekkert"
+  ]
 }

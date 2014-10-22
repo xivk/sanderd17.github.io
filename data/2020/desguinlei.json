@@ -1,20 +1,18 @@
 {
-  "pcode": 2020, 
   "addresses": [
     {
-      "lat": 51.19233033208275, 
       "housenumber": "19", 
+      "lat": 51.19233033208275, 
+      "lon": 4.406482827401394, 
       "pcode": 2020, 
-      "street": "Desguinlei", 
-      "lon": 4.406482827401394
+      "street": "Desguinlei"
     }, 
     {
-      "lat": 51.19321346236282, 
       "housenumber": "25", 
+      "lat": 51.19321346236282, 
+      "lon": 4.4035726734320875, 
       "pcode": 2020, 
-      "street": "Desguinlei", 
-      "lon": 4.4035726734320875
+      "street": "Desguinlei"
     }
-  ], 
-  "name": "Desguinlei"
+  ]
 }

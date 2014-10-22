@@ -1,37 +1,35 @@
 {
-  "pcode": 9100, 
   "addresses": [
     {
-      "lat": 51.17342432112362, 
       "housenumber": "1", 
+      "lat": 51.17342432112362, 
+      "lon": 4.151843046008516, 
       "pcode": 9100, 
-      "street": "Singel", 
-      "lon": 4.151843046008516
+      "street": "Singel"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 9100, 
-      "street": "Singel", 
-      "housenumber": "11"
+      "street": "Singel"
     }, 
     {
-      "lat": 51.17340550018896, 
       "housenumber": "3", 
+      "lat": 51.17340550018896, 
+      "lon": 4.151971393216763, 
       "pcode": 9100, 
-      "street": "Singel", 
-      "lon": 4.151971393216763
+      "street": "Singel"
     }, 
     {
-      "lat": 51.17362831202404, 
       "housenumber": "5", 
+      "lat": 51.17362831202404, 
+      "lon": 4.152110490383923, 
       "pcode": 9100, 
-      "street": "Singel", 
-      "lon": 4.152110490383923
+      "street": "Singel"
     }, 
     {
+      "housenumber": "5A", 
       "pcode": 9100, 
-      "street": "Singel", 
-      "housenumber": "5A"
+      "street": "Singel"
     }
-  ], 
-  "name": "Singel"
+  ]
 }

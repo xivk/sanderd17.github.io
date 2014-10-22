@@ -1,20 +1,18 @@
 {
-  "pcode": 8810, 
   "addresses": [
     {
-      "lat": 51.005151327337074, 
       "housenumber": "2", 
+      "lat": 51.005151327337074, 
+      "lon": 3.142063391089043, 
       "pcode": 8810, 
-      "street": "Steenovenstraat", 
-      "lon": 3.142063391089043
+      "street": "Steenovenstraat"
     }, 
     {
-      "lat": 51.0063337267131, 
       "housenumber": "4", 
+      "lat": 51.0063337267131, 
+      "lon": 3.14119157141024, 
       "pcode": 8810, 
-      "street": "Steenovenstraat", 
-      "lon": 3.14119157141024
+      "street": "Steenovenstraat"
     }
-  ], 
-  "name": "Steenovenstraat"
+  ]
 }

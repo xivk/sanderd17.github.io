@@ -1,30 +1,28 @@
 {
-  "pcode": 3740, 
   "addresses": [
     {
+      "housenumber": "15", 
       "pcode": 3740, 
-      "street": "Tarweveldweg", 
-      "housenumber": "15"
+      "street": "Tarweveldweg"
     }, 
     {
-      "lat": 50.834244337629926, 
       "housenumber": "2", 
+      "lat": 50.834244337629926, 
+      "lon": 5.522070577042089, 
       "pcode": 3740, 
-      "street": "Tarweveldweg", 
-      "lon": 5.522070577042089
+      "street": "Tarweveldweg"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3740, 
-      "street": "Tarweveldweg", 
-      "housenumber": "4"
+      "street": "Tarweveldweg"
     }, 
     {
-      "lat": 50.83370374699947, 
       "housenumber": "7", 
+      "lat": 50.83370374699947, 
+      "lon": 5.521749231140686, 
       "pcode": 3740, 
-      "street": "Tarweveldweg", 
-      "lon": 5.521749231140686
+      "street": "Tarweveldweg"
     }
-  ], 
-  "name": "Tarweveldweg"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 1861, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 1861, 
-      "street": "Mouterijstraat", 
-      "housenumber": "1"
+      "street": "Mouterijstraat"
     }, 
     {
-      "lat": 50.949815272662796, 
       "housenumber": "4", 
+      "lat": 50.949815272662796, 
+      "lon": 4.31274645445317, 
       "pcode": 1861, 
-      "street": "Mouterijstraat", 
-      "lon": 4.31274645445317
+      "street": "Mouterijstraat"
     }, 
     {
-      "lat": 50.94980188740282, 
       "housenumber": "6", 
+      "lat": 50.94980188740282, 
+      "lon": 4.312764969955231, 
       "pcode": 1861, 
-      "street": "Mouterijstraat", 
-      "lon": 4.312764969955231
+      "street": "Mouterijstraat"
     }, 
     {
-      "lat": 50.95018387697913, 
       "housenumber": "8", 
+      "lat": 50.95018387697913, 
+      "lon": 4.31265195503023, 
       "pcode": 1861, 
-      "street": "Mouterijstraat", 
-      "lon": 4.31265195503023
+      "street": "Mouterijstraat"
     }
-  ], 
-  "name": "Mouterijstraat"
+  ]
 }

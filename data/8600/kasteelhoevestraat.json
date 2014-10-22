@@ -1,20 +1,18 @@
 {
-  "pcode": 8600, 
   "addresses": [
     {
-      "lat": 51.07601735015903, 
       "housenumber": "1", 
+      "lat": 51.07601735015903, 
+      "lon": 2.8261354005917716, 
       "pcode": 8600, 
-      "street": "Kasteelhoevestraat", 
-      "lon": 2.8261354005917716
+      "street": "Kasteelhoevestraat"
     }, 
     {
-      "lat": 51.07497025187867, 
       "housenumber": "2", 
+      "lat": 51.07497025187867, 
+      "lon": 2.827336205182724, 
       "pcode": 8600, 
-      "street": "Kasteelhoevestraat", 
-      "lon": 2.827336205182724
+      "street": "Kasteelhoevestraat"
     }
-  ], 
-  "name": "Kasteelhoevestraat"
+  ]
 }

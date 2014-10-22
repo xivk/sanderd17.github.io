@@ -1,34 +1,32 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.765610724346004, 
       "housenumber": "2", 
+      "lat": 50.765610724346004, 
+      "lon": 3.6216036130153224, 
       "pcode": 9600, 
-      "street": "Ten Bergestraat", 
-      "lon": 3.6216036130153224
+      "street": "Ten Bergestraat"
     }, 
     {
-      "lat": 50.762165377508296, 
       "housenumber": "3", 
+      "lat": 50.762165377508296, 
+      "lon": 3.624492287101815, 
       "pcode": 9600, 
-      "street": "Ten Bergestraat", 
-      "lon": 3.624492287101815
+      "street": "Ten Bergestraat"
     }, 
     {
-      "lat": 50.76261706072457, 
       "housenumber": "3C", 
+      "lat": 50.76261706072457, 
+      "lon": 3.6242827404558455, 
       "pcode": 9600, 
-      "street": "Ten Bergestraat", 
-      "lon": 3.6242827404558455
+      "street": "Ten Bergestraat"
     }, 
     {
-      "lat": 50.76282014613462, 
       "housenumber": "3D", 
+      "lat": 50.76282014613462, 
+      "lon": 3.624055996947806, 
       "pcode": 9600, 
-      "street": "Ten Bergestraat", 
-      "lon": 3.624055996947806
+      "street": "Ten Bergestraat"
     }
-  ], 
-  "name": "Ten Bergestraat"
+  ]
 }

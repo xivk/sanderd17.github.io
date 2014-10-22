@@ -1,39 +1,37 @@
 {
-  "pcode": 3950, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3950, 
-      "street": "Dijkstraat", 
-      "housenumber": "1"
+      "street": "Dijkstraat"
     }, 
     {
-      "lat": 51.21148486276467, 
       "housenumber": "3", 
+      "lat": 51.21148486276467, 
+      "lon": 5.527665008502408, 
       "pcode": 3950, 
-      "street": "Dijkstraat", 
-      "lon": 5.527665008502408
+      "street": "Dijkstraat"
     }, 
     {
-      "lat": 51.21178766689163, 
       "housenumber": "5", 
+      "lat": 51.21178766689163, 
+      "lon": 5.52679033254203, 
       "pcode": 3950, 
-      "street": "Dijkstraat", 
-      "lon": 5.52679033254203
+      "street": "Dijkstraat"
     }, 
     {
-      "lat": 51.21200870592336, 
       "housenumber": "6", 
+      "lat": 51.21200870592336, 
+      "lon": 5.52647064958138, 
       "pcode": 3950, 
-      "street": "Dijkstraat", 
-      "lon": 5.52647064958138
+      "street": "Dijkstraat"
     }, 
     {
-      "lat": 51.213146940548945, 
       "housenumber": "7", 
+      "lat": 51.213146940548945, 
+      "lon": 5.524838372688367, 
       "pcode": 3950, 
-      "street": "Dijkstraat", 
-      "lon": 5.524838372688367
+      "street": "Dijkstraat"
     }
-  ], 
-  "name": "Dijkstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2980, 
   "addresses": [
     {
-      "lat": 51.24141840456033, 
       "housenumber": "1", 
+      "lat": 51.24141840456033, 
+      "lon": 4.640934588258543, 
       "pcode": 2980, 
-      "street": "De Pier", 
-      "lon": 4.640934588258543
+      "street": "De Pier"
     }, 
     {
-      "lat": 51.24145134794614, 
       "housenumber": "2", 
+      "lat": 51.24145134794614, 
+      "lon": 4.640368580700536, 
       "pcode": 2980, 
-      "street": "De Pier", 
-      "lon": 4.640368580700536
+      "street": "De Pier"
     }
-  ], 
-  "name": "De Pier"
+  ]
 }

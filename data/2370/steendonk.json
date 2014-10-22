@@ -1,27 +1,25 @@
 {
-  "pcode": 2370, 
   "addresses": [
     {
-      "lat": 51.32285396952919, 
       "housenumber": "6", 
+      "lat": 51.32285396952919, 
+      "lon": 5.0826706516297575, 
       "pcode": 2370, 
-      "street": "Steendonk", 
-      "lon": 5.0826706516297575
+      "street": "Steendonk"
     }, 
     {
-      "lat": 51.32294328592295, 
       "housenumber": "7", 
+      "lat": 51.32294328592295, 
+      "lon": 5.082869128499078, 
       "pcode": 2370, 
-      "street": "Steendonk", 
-      "lon": 5.082869128499078
+      "street": "Steendonk"
     }, 
     {
-      "lat": 51.32301486431264, 
       "housenumber": "8", 
+      "lat": 51.32301486431264, 
+      "lon": 5.082983269714917, 
       "pcode": 2370, 
-      "street": "Steendonk", 
-      "lon": 5.082983269714917
+      "street": "Steendonk"
     }
-  ], 
-  "name": "Steendonk"
+  ]
 }

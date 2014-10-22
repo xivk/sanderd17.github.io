@@ -1,20 +1,18 @@
 {
-  "pcode": 3950, 
   "addresses": [
     {
-      "lat": 51.185515460826046, 
       "housenumber": "17", 
+      "lat": 51.185515460826046, 
+      "lon": 5.516289639956814, 
       "pcode": 3950, 
-      "street": "Heidelandstraat", 
-      "lon": 5.516289639956814
+      "street": "Heidelandstraat"
     }, 
     {
-      "lat": 51.1850950350013, 
       "housenumber": "23", 
+      "lat": 51.1850950350013, 
+      "lon": 5.515982629050418, 
       "pcode": 3950, 
-      "street": "Heidelandstraat", 
-      "lon": 5.515982629050418
+      "street": "Heidelandstraat"
     }
-  ], 
-  "name": "Heidelandstraat"
+  ]
 }

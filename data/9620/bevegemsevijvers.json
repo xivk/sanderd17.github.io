@@ -1,20 +1,18 @@
 {
-  "pcode": 9620, 
   "addresses": [
     {
-      "lat": 50.86860756813037, 
       "housenumber": "1", 
+      "lat": 50.86860756813037, 
+      "lon": 3.8284275714513276, 
       "pcode": 9620, 
-      "street": "Bevegemsevijvers", 
-      "lon": 3.8284275714513276
+      "street": "Bevegemsevijvers"
     }, 
     {
-      "lat": 50.868773960481555, 
       "housenumber": "2", 
+      "lat": 50.868773960481555, 
+      "lon": 3.8283283466757703, 
       "pcode": 9620, 
-      "street": "Bevegemsevijvers", 
-      "lon": 3.8283283466757703
+      "street": "Bevegemsevijvers"
     }
-  ], 
-  "name": "Bevegemsevijvers"
+  ]
 }

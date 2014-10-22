@@ -1,27 +1,25 @@
 {
-  "pcode": 8700, 
   "addresses": [
     {
-      "lat": 51.03817575410495, 
       "housenumber": "31", 
+      "lat": 51.03817575410495, 
+      "lon": 3.3093573465398314, 
       "pcode": 8700, 
-      "street": "Maaistraat", 
-      "lon": 3.3093573465398314
+      "street": "Maaistraat"
     }, 
     {
-      "lat": 51.03818115914551, 
       "housenumber": "33", 
+      "lat": 51.03818115914551, 
+      "lon": 3.312412897752614, 
       "pcode": 8700, 
-      "street": "Maaistraat", 
-      "lon": 3.312412897752614
+      "street": "Maaistraat"
     }, 
     {
-      "lat": 51.03840219114096, 
       "housenumber": "34", 
+      "lat": 51.03840219114096, 
+      "lon": 3.3138848520917352, 
       "pcode": 8700, 
-      "street": "Maaistraat", 
-      "lon": 3.3138848520917352
+      "street": "Maaistraat"
     }
-  ], 
-  "name": "Maaistraat"
+  ]
 }

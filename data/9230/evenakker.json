@@ -1,20 +1,18 @@
 {
-  "pcode": 9230, 
   "addresses": [
     {
-      "lat": 50.958334758617, 
       "housenumber": "2", 
+      "lat": 50.958334758617, 
+      "lon": 3.864887625570186, 
       "pcode": 9230, 
-      "street": "Evenakker", 
-      "lon": 3.864887625570186
+      "street": "Evenakker"
     }, 
     {
-      "lat": 50.95838123367831, 
       "housenumber": "6", 
+      "lat": 50.95838123367831, 
+      "lon": 3.8659388385271916, 
       "pcode": 9230, 
-      "street": "Evenakker", 
-      "lon": 3.8659388385271916
+      "street": "Evenakker"
     }
-  ], 
-  "name": "Evenakker"
+  ]
 }

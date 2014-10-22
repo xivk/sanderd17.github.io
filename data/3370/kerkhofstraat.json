@@ -1,18 +1,16 @@
 {
-  "pcode": 3370, 
   "addresses": [
     {
-      "lat": 50.83062904779661, 
       "housenumber": "1", 
+      "lat": 50.83062904779661, 
+      "lon": 4.835102888979401, 
       "pcode": 3370, 
-      "street": "Kerkhofstraat", 
-      "lon": 4.835102888979401
+      "street": "Kerkhofstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3370, 
-      "street": "Kerkhofstraat", 
-      "housenumber": "2"
+      "street": "Kerkhofstraat"
     }
-  ], 
-  "name": "Kerkhofstraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 8670, 
   "addresses": [
     {
-      "lat": 51.14158067354153, 
       "housenumber": "1", 
+      "lat": 51.14158067354153, 
+      "lon": 2.696893840181131, 
       "pcode": 8670, 
-      "street": "Zuidenwindhelling", 
-      "lon": 2.696893840181131
+      "street": "Zuidenwindhelling"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8670, 
-      "street": "Zuidenwindhelling", 
-      "housenumber": "2"
+      "street": "Zuidenwindhelling"
     }
-  ], 
-  "name": "Zuidenwindhelling"
+  ]
 }

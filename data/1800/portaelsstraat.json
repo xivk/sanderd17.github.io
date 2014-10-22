@@ -1,27 +1,25 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
-      "lat": 50.92752816069723, 
       "housenumber": "5", 
+      "lat": 50.92752816069723, 
+      "lon": 4.4248980381670435, 
       "pcode": 1800, 
-      "street": "Portaelsstraat", 
-      "lon": 4.4248980381670435
+      "street": "Portaelsstraat"
     }, 
     {
-      "lat": 50.927466793632966, 
       "housenumber": "7", 
+      "lat": 50.927466793632966, 
+      "lon": 4.424649901156809, 
       "pcode": 1800, 
-      "street": "Portaelsstraat", 
-      "lon": 4.424649901156809
+      "street": "Portaelsstraat"
     }, 
     {
-      "lat": 50.92741934759817, 
       "housenumber": "9", 
+      "lat": 50.92741934759817, 
+      "lon": 4.424613573346042, 
       "pcode": 1800, 
-      "street": "Portaelsstraat", 
-      "lon": 4.424613573346042
+      "street": "Portaelsstraat"
     }
-  ], 
-  "name": "Portaelsstraat"
+  ]
 }

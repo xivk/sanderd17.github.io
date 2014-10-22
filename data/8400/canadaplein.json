@@ -1,32 +1,30 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.22758722113882, 
       "housenumber": "1", 
+      "lat": 51.22758722113882, 
+      "lon": 2.9163634928220663, 
       "pcode": 8400, 
-      "street": "Canadaplein", 
-      "lon": 2.9163634928220663
+      "street": "Canadaplein"
     }, 
     {
-      "lat": 51.227355288166535, 
       "housenumber": "1A", 
+      "lat": 51.227355288166535, 
+      "lon": 2.916715922600592, 
       "pcode": 8400, 
-      "street": "Canadaplein", 
-      "lon": 2.916715922600592
+      "street": "Canadaplein"
     }, 
     {
+      "housenumber": "1_1", 
       "pcode": 8400, 
-      "street": "Canadaplein", 
-      "housenumber": "1_1"
+      "street": "Canadaplein"
     }, 
     {
-      "lat": 51.22703345719003, 
       "housenumber": "2", 
+      "lat": 51.22703345719003, 
+      "lon": 2.916812279428827, 
       "pcode": 8400, 
-      "street": "Canadaplein", 
-      "lon": 2.916812279428827
+      "street": "Canadaplein"
     }
-  ], 
-  "name": "Canadaplein"
+  ]
 }

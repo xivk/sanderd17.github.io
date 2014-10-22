@@ -1,34 +1,32 @@
 {
-  "pcode": 8760, 
   "addresses": [
     {
-      "lat": 50.96356038502128, 
       "housenumber": "1", 
+      "lat": 50.96356038502128, 
+      "lon": 3.3009046059844898, 
       "pcode": 8760, 
-      "street": "Mulderstraat", 
-      "lon": 3.3009046059844898
+      "street": "Mulderstraat"
     }, 
     {
-      "lat": 50.963850103106296, 
       "housenumber": "2", 
+      "lat": 50.963850103106296, 
+      "lon": 3.30056417100475, 
       "pcode": 8760, 
-      "street": "Mulderstraat", 
-      "lon": 3.30056417100475
+      "street": "Mulderstraat"
     }, 
     {
-      "lat": 50.963557306564184, 
       "housenumber": "3", 
+      "lat": 50.963557306564184, 
+      "lon": 3.300466486000687, 
       "pcode": 8760, 
-      "street": "Mulderstraat", 
-      "lon": 3.300466486000687
+      "street": "Mulderstraat"
     }, 
     {
-      "lat": 50.963612848823416, 
       "housenumber": "5", 
+      "lat": 50.963612848823416, 
+      "lon": 3.299999412454696, 
       "pcode": 8760, 
-      "street": "Mulderstraat", 
-      "lon": 3.299999412454696
+      "street": "Mulderstraat"
     }
-  ], 
-  "name": "Mulderstraat"
+  ]
 }

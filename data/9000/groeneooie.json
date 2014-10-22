@@ -1,34 +1,32 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.04841439345769, 
       "housenumber": "1C", 
+      "lat": 51.04841439345769, 
+      "lon": 3.7348118235881667, 
       "pcode": 9000, 
-      "street": "Groene Ooie", 
-      "lon": 3.7348118235881667
+      "street": "Groene Ooie"
     }, 
     {
-      "lat": 51.048431737099456, 
       "housenumber": "3", 
+      "lat": 51.048431737099456, 
+      "lon": 3.7347940478275325, 
       "pcode": 9000, 
-      "street": "Groene Ooie", 
-      "lon": 3.7347940478275325
+      "street": "Groene Ooie"
     }, 
     {
-      "lat": 51.04845502261904, 
       "housenumber": "5", 
+      "lat": 51.04845502261904, 
+      "lon": 3.7347612175395413, 
       "pcode": 9000, 
-      "street": "Groene Ooie", 
-      "lon": 3.7347612175395413
+      "street": "Groene Ooie"
     }, 
     {
-      "lat": 51.04847891856543, 
       "housenumber": "7", 
+      "lat": 51.04847891856543, 
+      "lon": 3.734758327202731, 
       "pcode": 9000, 
-      "street": "Groene Ooie", 
-      "lon": 3.734758327202731
+      "street": "Groene Ooie"
     }
-  ], 
-  "name": "Groene Ooie"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 2370, 
   "addresses": [
     {
-      "lat": 51.34335214495083, 
       "housenumber": "1", 
+      "lat": 51.34335214495083, 
+      "lon": 5.109388972019327, 
       "pcode": 2370, 
-      "street": "Jokeven", 
-      "lon": 5.109388972019327
+      "street": "Jokeven"
     }, 
     {
-      "lat": 51.34447290551629, 
       "housenumber": "2", 
+      "lat": 51.34447290551629, 
+      "lon": 5.110796403146586, 
       "pcode": 2370, 
-      "street": "Jokeven", 
-      "lon": 5.110796403146586
+      "street": "Jokeven"
     }, 
     {
-      "lat": 51.345217702707345, 
       "housenumber": "3", 
+      "lat": 51.345217702707345, 
+      "lon": 5.1101185300918335, 
       "pcode": 2370, 
-      "street": "Jokeven", 
-      "lon": 5.1101185300918335
+      "street": "Jokeven"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2370, 
-      "street": "Jokeven", 
-      "housenumber": "4"
+      "street": "Jokeven"
     }
-  ], 
-  "name": "Jokeven"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.7658029255426, 
       "housenumber": "2", 
+      "lat": 50.7658029255426, 
+      "lon": 5.460426615741568, 
       "pcode": 3700, 
-      "street": "Jagersstraat", 
-      "lon": 5.460426615741568
+      "street": "Jagersstraat"
     }, 
     {
-      "lat": 50.765794808174554, 
       "housenumber": "4", 
+      "lat": 50.765794808174554, 
+      "lon": 5.46082436099519, 
       "pcode": 3700, 
-      "street": "Jagersstraat", 
-      "lon": 5.46082436099519
+      "street": "Jagersstraat"
     }
-  ], 
-  "name": "Jagersstraat"
+  ]
 }

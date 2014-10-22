@@ -1,20 +1,18 @@
 {
-  "pcode": 3090, 
   "addresses": [
     {
-      "lat": 50.77329741759004, 
       "housenumber": "7", 
+      "lat": 50.77329741759004, 
+      "lon": 4.600288741069663, 
       "pcode": 3090, 
-      "street": "Varrendel", 
-      "lon": 4.600288741069663
+      "street": "Varrendel"
     }, 
     {
-      "lat": 50.77398808798871, 
       "housenumber": "8", 
+      "lat": 50.77398808798871, 
+      "lon": 4.60079218725106, 
       "pcode": 3090, 
-      "street": "Varrendel", 
-      "lon": 4.60079218725106
+      "street": "Varrendel"
     }
-  ], 
-  "name": "Varrendel"
+  ]
 }

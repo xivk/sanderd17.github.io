@@ -1,25 +1,23 @@
 {
-  "pcode": 2930, 
   "addresses": [
     {
+      "housenumber": "55", 
       "pcode": 2930, 
-      "street": "Generaal Mercierlei", 
-      "housenumber": "55"
+      "street": "Generaal Mercierlei"
     }, 
     {
-      "lat": 51.32474924407873, 
       "housenumber": "56", 
+      "lat": 51.32474924407873, 
+      "lon": 4.513632803875536, 
       "pcode": 2930, 
-      "street": "Generaal Mercierlei", 
-      "lon": 4.513632803875536
+      "street": "Generaal Mercierlei"
     }, 
     {
-      "lat": 51.324626983445135, 
       "housenumber": "57", 
+      "lat": 51.324626983445135, 
+      "lon": 4.513285697349471, 
       "pcode": 2930, 
-      "street": "Generaal Mercierlei", 
-      "lon": 4.513285697349471
+      "street": "Generaal Mercierlei"
     }
-  ], 
-  "name": "Generaal Mercierlei"
+  ]
 }

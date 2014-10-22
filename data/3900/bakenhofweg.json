@@ -1,18 +1,16 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
+      "housenumber": "6", 
       "pcode": 3900, 
-      "street": "Bakenhofweg", 
-      "housenumber": "6"
+      "street": "Bakenhofweg"
     }, 
     {
-      "lat": 51.19568679529361, 
       "housenumber": "8", 
+      "lat": 51.19568679529361, 
+      "lon": 5.4060935130884245, 
       "pcode": 3900, 
-      "street": "Bakenhofweg", 
-      "lon": 5.4060935130884245
+      "street": "Bakenhofweg"
     }
-  ], 
-  "name": "Bakenhofweg"
+  ]
 }

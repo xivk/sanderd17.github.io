@@ -1,34 +1,32 @@
 {
-  "pcode": 2221, 
   "addresses": [
     {
-      "lat": 51.03804276113223, 
       "housenumber": "1", 
+      "lat": 51.03804276113223, 
+      "lon": 4.75017520156627, 
       "pcode": 2221, 
-      "street": "De Del", 
-      "lon": 4.75017520156627
+      "street": "De Del"
     }, 
     {
-      "lat": 51.03833566951774, 
       "housenumber": "2", 
+      "lat": 51.03833566951774, 
+      "lon": 4.751792983969149, 
       "pcode": 2221, 
-      "street": "De Del", 
-      "lon": 4.751792983969149
+      "street": "De Del"
     }, 
     {
-      "lat": 51.03834175883682, 
       "housenumber": "3", 
+      "lat": 51.03834175883682, 
+      "lon": 4.750141285127647, 
       "pcode": 2221, 
-      "street": "De Del", 
-      "lon": 4.750141285127647
+      "street": "De Del"
     }, 
     {
-      "lat": 51.0384318681498, 
       "housenumber": "5", 
+      "lat": 51.0384318681498, 
+      "lon": 4.749824502124844, 
       "pcode": 2221, 
-      "street": "De Del", 
-      "lon": 4.749824502124844
+      "street": "De Del"
     }
-  ], 
-  "name": "De Del"
+  ]
 }

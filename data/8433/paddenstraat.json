@@ -1,20 +1,18 @@
 {
-  "pcode": 8433, 
   "addresses": [
     {
-      "lat": 51.154779312680446, 
       "housenumber": "2", 
+      "lat": 51.154779312680446, 
+      "lon": 2.8481465110925073, 
       "pcode": 8433, 
-      "street": "Paddenstraat", 
-      "lon": 2.8481465110925073
+      "street": "Paddenstraat"
     }, 
     {
-      "lat": 51.15486700213223, 
       "housenumber": "2A", 
+      "lat": 51.15486700213223, 
+      "lon": 2.8484004132408782, 
       "pcode": 8433, 
-      "street": "Paddenstraat", 
-      "lon": 2.8484004132408782
+      "street": "Paddenstraat"
     }
-  ], 
-  "name": "Paddenstraat"
+  ]
 }

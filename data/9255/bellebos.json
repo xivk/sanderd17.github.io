@@ -1,20 +1,18 @@
 {
-  "pcode": 9255, 
   "addresses": [
     {
-      "lat": 51.009232180211335, 
       "housenumber": "1", 
+      "lat": 51.009232180211335, 
+      "lon": 4.186463574023766, 
       "pcode": 9255, 
-      "street": "Bellebos", 
-      "lon": 4.186463574023766
+      "street": "Bellebos"
     }, 
     {
-      "lat": 51.008574977522954, 
       "housenumber": "2", 
+      "lat": 51.008574977522954, 
+      "lon": 4.185759541422343, 
       "pcode": 9255, 
-      "street": "Bellebos", 
-      "lon": 4.185759541422343
+      "street": "Bellebos"
     }
-  ], 
-  "name": "Bellebos"
+  ]
 }

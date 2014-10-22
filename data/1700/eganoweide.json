@@ -1,27 +1,25 @@
 {
-  "pcode": 1700, 
   "addresses": [
     {
-      "lat": 50.84399202997923, 
       "housenumber": "3", 
+      "lat": 50.84399202997923, 
+      "lon": 4.238150933264431, 
       "pcode": 1700, 
-      "street": "Eganoweide", 
-      "lon": 4.238150933264431
+      "street": "Eganoweide"
     }, 
     {
-      "lat": 50.84403619795492, 
       "housenumber": "4", 
+      "lat": 50.84403619795492, 
+      "lon": 4.2374489767615096, 
       "pcode": 1700, 
-      "street": "Eganoweide", 
-      "lon": 4.2374489767615096
+      "street": "Eganoweide"
     }, 
     {
-      "lat": 50.84388261139042, 
       "housenumber": "5", 
+      "lat": 50.84388261139042, 
+      "lon": 4.238055395721667, 
       "pcode": 1700, 
-      "street": "Eganoweide", 
-      "lon": 4.238055395721667
+      "street": "Eganoweide"
     }
-  ], 
-  "name": "Eganoweide"
+  ]
 }

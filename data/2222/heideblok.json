@@ -1,64 +1,62 @@
 {
-  "pcode": 2222, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 2222, 
-      "street": "Heideblok", 
-      "housenumber": "10"
+      "street": "Heideblok"
     }, 
     {
-      "lat": 51.10216770442437, 
       "housenumber": "12", 
+      "lat": 51.10216770442437, 
+      "lon": 4.717273083095422, 
       "pcode": 2222, 
-      "street": "Heideblok", 
-      "lon": 4.717273083095422
+      "street": "Heideblok"
     }, 
     {
+      "housenumber": "14", 
       "pcode": 2222, 
-      "street": "Heideblok", 
-      "housenumber": "14"
+      "street": "Heideblok"
     }, 
     {
+      "housenumber": "17", 
       "pcode": 2222, 
-      "street": "Heideblok", 
-      "housenumber": "17"
+      "street": "Heideblok"
     }, 
     {
+      "housenumber": "19", 
       "pcode": 2222, 
-      "street": "Heideblok", 
-      "housenumber": "19"
+      "street": "Heideblok"
     }, 
     {
-      "lat": 51.10176245011458, 
       "housenumber": "21", 
+      "lat": 51.10176245011458, 
+      "lon": 4.718648353644877, 
       "pcode": 2222, 
-      "street": "Heideblok", 
-      "lon": 4.718648353644877
+      "street": "Heideblok"
     }, 
     {
+      "housenumber": "23", 
       "pcode": 2222, 
-      "street": "Heideblok", 
-      "housenumber": "23"
+      "street": "Heideblok"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2222, 
-      "street": "Heideblok", 
-      "housenumber": "6"
+      "street": "Heideblok"
     }, 
     {
-      "lat": 51.10242358062015, 
       "housenumber": "7", 
+      "lat": 51.10242358062015, 
+      "lon": 4.717952874167025, 
       "pcode": 2222, 
-      "street": "Heideblok", 
-      "lon": 4.717952874167025
+      "street": "Heideblok"
     }, 
     {
-      "lat": 51.10227090400259, 
       "housenumber": "8", 
+      "lat": 51.10227090400259, 
+      "lon": 4.717027716533909, 
       "pcode": 2222, 
-      "street": "Heideblok", 
-      "lon": 4.717027716533909
+      "street": "Heideblok"
     }
-  ], 
-  "name": "Heideblok"
+  ]
 }

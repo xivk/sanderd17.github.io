@@ -1,20 +1,18 @@
 {
-  "pcode": 3940, 
   "addresses": [
     {
-      "lat": 51.09283961046292, 
       "housenumber": "1", 
+      "lat": 51.09283961046292, 
+      "lon": 5.367888032279344, 
       "pcode": 3940, 
-      "street": "Katerstraat", 
-      "lon": 5.367888032279344
+      "street": "Katerstraat"
     }, 
     {
-      "lat": 51.092736267545604, 
       "housenumber": "2", 
+      "lat": 51.092736267545604, 
+      "lon": 5.364857738244834, 
       "pcode": 3940, 
-      "street": "Katerstraat", 
-      "lon": 5.364857738244834
+      "street": "Katerstraat"
     }
-  ], 
-  "name": "Katerstraat"
+  ]
 }

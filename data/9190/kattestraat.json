@@ -1,32 +1,30 @@
 {
-  "pcode": 9190, 
   "addresses": [
     {
-      "lat": 51.218507450398796, 
       "housenumber": "1", 
+      "lat": 51.218507450398796, 
+      "lon": 4.069614463695733, 
       "pcode": 9190, 
-      "street": "Kattestraat", 
-      "lon": 4.069614463695733
+      "street": "Kattestraat"
     }, 
     {
-      "lat": 51.219846030104506, 
       "housenumber": "10", 
+      "lat": 51.219846030104506, 
+      "lon": 4.082133838036687, 
       "pcode": 9190, 
-      "street": "Kattestraat", 
-      "lon": 4.082133838036687
+      "street": "Kattestraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9190, 
-      "street": "Kattestraat", 
-      "housenumber": "2"
+      "street": "Kattestraat"
     }, 
     {
-      "lat": 51.21870946847105, 
       "housenumber": "4", 
+      "lat": 51.21870946847105, 
+      "lon": 4.075495412903116, 
       "pcode": 9190, 
-      "street": "Kattestraat", 
-      "lon": 4.075495412903116
+      "street": "Kattestraat"
     }
-  ], 
-  "name": "Kattestraat"
+  ]
 }

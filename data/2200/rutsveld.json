@@ -1,20 +1,18 @@
 {
-  "pcode": 2200, 
   "addresses": [
     {
-      "lat": 51.192454604420234, 
       "housenumber": "4", 
+      "lat": 51.192454604420234, 
+      "lon": 4.831919659904213, 
       "pcode": 2200, 
-      "street": "Rutsveld", 
-      "lon": 4.831919659904213
+      "street": "Rutsveld"
     }, 
     {
-      "lat": 51.192134883104444, 
       "housenumber": "8", 
+      "lat": 51.192134883104444, 
+      "lon": 4.832170104179951, 
       "pcode": 2200, 
-      "street": "Rutsveld", 
-      "lon": 4.832170104179951
+      "street": "Rutsveld"
     }
-  ], 
-  "name": "Rutsveld"
+  ]
 }

@@ -1,44 +1,42 @@
 {
-  "pcode": 1831, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 1831, 
-      "street": "Hermeslaan", 
-      "housenumber": "1"
+      "street": "Hermeslaan"
     }, 
     {
-      "lat": 50.88307268241136, 
       "housenumber": "1A", 
+      "lat": 50.88307268241136, 
+      "lon": 4.4470021396244, 
       "pcode": 1831, 
-      "street": "Hermeslaan", 
-      "lon": 4.4470021396244
+      "street": "Hermeslaan"
     }, 
     {
-      "lat": 50.88232140617904, 
       "housenumber": "1H", 
+      "lat": 50.88232140617904, 
+      "lon": 4.446510486136811, 
       "pcode": 1831, 
-      "street": "Hermeslaan", 
-      "lon": 4.446510486136811
+      "street": "Hermeslaan"
     }, 
     {
-      "lat": 50.8809630297586, 
       "housenumber": "2", 
+      "lat": 50.8809630297586, 
+      "lon": 4.442906769245937, 
       "pcode": 1831, 
-      "street": "Hermeslaan", 
-      "lon": 4.442906769245937
+      "street": "Hermeslaan"
     }, 
     {
-      "lat": 50.879587476491416, 
       "housenumber": "7", 
+      "lat": 50.879587476491416, 
+      "lon": 4.438684704838305, 
       "pcode": 1831, 
-      "street": "Hermeslaan", 
-      "lon": 4.438684704838305
+      "street": "Hermeslaan"
     }, 
     {
+      "housenumber": "84", 
       "pcode": 1831, 
-      "street": "Hermeslaan", 
-      "housenumber": "84"
+      "street": "Hermeslaan"
     }
-  ], 
-  "name": "Hermeslaan"
+  ]
 }

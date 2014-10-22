@@ -1,20 +1,18 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.21550442237659, 
       "housenumber": "1", 
+      "lat": 51.21550442237659, 
+      "lon": 3.3093306127643087, 
       "pcode": 8340, 
-      "street": "Eikelberg", 
-      "lon": 3.3093306127643087
+      "street": "Eikelberg"
     }, 
     {
-      "lat": 51.214445265699055, 
       "housenumber": "3", 
+      "lat": 51.214445265699055, 
+      "lon": 3.3102806951507495, 
       "pcode": 8340, 
-      "street": "Eikelberg", 
-      "lon": 3.3102806951507495
+      "street": "Eikelberg"
     }
-  ], 
-  "name": "Eikelberg"
+  ]
 }

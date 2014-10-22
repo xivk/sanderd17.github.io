@@ -1,25 +1,23 @@
 {
-  "pcode": 2500, 
   "addresses": [
     {
-      "lat": 51.13233713505025, 
       "housenumber": "1", 
+      "lat": 51.13233713505025, 
+      "lon": 4.561069515148076, 
       "pcode": 2500, 
-      "street": "Paradeplein", 
-      "lon": 4.561069515148076
+      "street": "Paradeplein"
     }, 
     {
-      "lat": 51.13159444724929, 
       "housenumber": "2", 
+      "lat": 51.13159444724929, 
+      "lon": 4.561752173303741, 
       "pcode": 2500, 
-      "street": "Paradeplein", 
-      "lon": 4.561752173303741
+      "street": "Paradeplein"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2500, 
-      "street": "Paradeplein", 
-      "housenumber": "3"
+      "street": "Paradeplein"
     }
-  ], 
-  "name": "Paradeplein"
+  ]
 }

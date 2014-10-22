@@ -1,79 +1,77 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.208104912603375, 
       "housenumber": "1", 
+      "lat": 51.208104912603375, 
+      "lon": 3.2355732777742907, 
       "pcode": 8000, 
-      "street": "Ganzenplein", 
-      "lon": 3.2355732777742907
+      "street": "Ganzenplein"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 8000, 
-      "street": "Ganzenplein", 
-      "housenumber": "1B"
+      "street": "Ganzenplein"
     }, 
     {
-      "lat": 51.208057874014834, 
       "housenumber": "2", 
+      "lat": 51.208057874014834, 
+      "lon": 3.235523902148606, 
       "pcode": 8000, 
-      "street": "Ganzenplein", 
-      "lon": 3.235523902148606
+      "street": "Ganzenplein"
     }, 
     {
-      "lat": 51.20801046722346, 
       "housenumber": "3", 
+      "lat": 51.20801046722346, 
+      "lon": 3.235529919097561, 
       "pcode": 8000, 
-      "street": "Ganzenplein", 
-      "lon": 3.235529919097561
+      "street": "Ganzenplein"
     }, 
     {
-      "lat": 51.20797174575567, 
       "housenumber": "4", 
+      "lat": 51.20797174575567, 
+      "lon": 3.2354760483434504, 
       "pcode": 8000, 
-      "street": "Ganzenplein", 
-      "lon": 3.2354760483434504
+      "street": "Ganzenplein"
     }, 
     {
-      "lat": 51.20792063789875, 
       "housenumber": "5", 
+      "lat": 51.20792063789875, 
+      "lon": 3.2352553264373447, 
       "pcode": 8000, 
-      "street": "Ganzenplein", 
-      "lon": 3.2352553264373447
+      "street": "Ganzenplein"
     }, 
     {
-      "lat": 51.20786385343257, 
       "housenumber": "5A", 
+      "lat": 51.20786385343257, 
+      "lon": 3.234967624570971, 
       "pcode": 8000, 
-      "street": "Ganzenplein", 
-      "lon": 3.234967624570971
+      "street": "Ganzenplein"
     }, 
     {
+      "housenumber": "5B", 
       "pcode": 8000, 
-      "street": "Ganzenplein", 
-      "housenumber": "5B"
+      "street": "Ganzenplein"
     }, 
     {
-      "lat": 51.20808918230471, 
       "housenumber": "6", 
+      "lat": 51.20808918230471, 
+      "lon": 3.2352450788417495, 
       "pcode": 8000, 
-      "street": "Ganzenplein", 
-      "lon": 3.2352450788417495
+      "street": "Ganzenplein"
     }, 
     {
-      "lat": 51.20814398954926, 
       "housenumber": "7", 
+      "lat": 51.20814398954926, 
+      "lon": 3.2353546580874095, 
       "pcode": 8000, 
-      "street": "Ganzenplein", 
-      "lon": 3.2353546580874095
+      "street": "Ganzenplein"
     }, 
     {
-      "lat": 51.20821174457703, 
       "housenumber": "8", 
+      "lat": 51.20821174457703, 
+      "lon": 3.23538950567639, 
       "pcode": 8000, 
-      "street": "Ganzenplein", 
-      "lon": 3.23538950567639
+      "street": "Ganzenplein"
     }
-  ], 
-  "name": "Ganzenplein"
+  ]
 }

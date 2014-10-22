@@ -1,25 +1,23 @@
 {
-  "pcode": 8840, 
   "addresses": [
     {
-      "lat": 50.93516497919815, 
       "housenumber": "1", 
+      "lat": 50.93516497919815, 
+      "lon": 2.9922941579158326, 
       "pcode": 8840, 
-      "street": "Kneukenburgstraat", 
-      "lon": 2.9922941579158326
+      "street": "Kneukenburgstraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 8840, 
-      "street": "Kneukenburgstraat", 
-      "housenumber": "1A"
+      "street": "Kneukenburgstraat"
     }, 
     {
-      "lat": 50.93541342580397, 
       "housenumber": "2", 
+      "lat": 50.93541342580397, 
+      "lon": 2.9880417588123867, 
       "pcode": 8840, 
-      "street": "Kneukenburgstraat", 
-      "lon": 2.9880417588123867
+      "street": "Kneukenburgstraat"
     }
-  ], 
-  "name": "Kneukenburgstraat"
+  ]
 }

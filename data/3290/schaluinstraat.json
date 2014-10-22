@@ -1,23 +1,21 @@
 {
-  "pcode": 3290, 
   "addresses": [
     {
-      "lat": 50.99047628945932, 
       "housenumber": "2", 
+      "lat": 50.99047628945932, 
+      "lon": 5.03968193412256, 
       "pcode": 3290, 
-      "street": "Schaluinstraat", 
-      "lon": 5.03968193412256
+      "street": "Schaluinstraat"
     }, 
     {
+      "housenumber": "36", 
       "pcode": 3290, 
-      "street": "Schaluinstraat", 
-      "housenumber": "36"
+      "street": "Schaluinstraat"
     }, 
     {
+      "housenumber": "38", 
       "pcode": 3290, 
-      "street": "Schaluinstraat", 
-      "housenumber": "38"
+      "street": "Schaluinstraat"
     }
-  ], 
-  "name": "Schaluinstraat"
+  ]
 }

@@ -1,64 +1,62 @@
 {
-  "pcode": 9050, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9050, 
-      "street": "Bellevue", 
-      "housenumber": "1"
+      "street": "Bellevue"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 9050, 
-      "street": "Bellevue", 
-      "housenumber": "10"
+      "street": "Bellevue"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 9050, 
-      "street": "Bellevue", 
-      "housenumber": "11"
+      "street": "Bellevue"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9050, 
-      "street": "Bellevue", 
-      "housenumber": "2"
+      "street": "Bellevue"
     }, 
     {
-      "lat": 51.03751492742745, 
       "housenumber": "3", 
+      "lat": 51.03751492742745, 
+      "lon": 3.735558371236353, 
       "pcode": 9050, 
-      "street": "Bellevue", 
-      "lon": 3.735558371236353
+      "street": "Bellevue"
     }, 
     {
-      "lat": 51.0375812080014, 
       "housenumber": "4", 
+      "lat": 51.0375812080014, 
+      "lon": 3.7356642662402315, 
       "pcode": 9050, 
-      "street": "Bellevue", 
-      "lon": 3.7356642662402315
+      "street": "Bellevue"
     }, 
     {
-      "lat": 51.03708499357492, 
       "housenumber": "5", 
+      "lat": 51.03708499357492, 
+      "lon": 3.736568057375172, 
       "pcode": 9050, 
-      "street": "Bellevue", 
-      "lon": 3.736568057375172
+      "street": "Bellevue"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9050, 
-      "street": "Bellevue", 
-      "housenumber": "6"
+      "street": "Bellevue"
     }, 
     {
-      "lat": 51.03708536728698, 
       "housenumber": "7", 
+      "lat": 51.03708536728698, 
+      "lon": 3.7364365973075264, 
       "pcode": 9050, 
-      "street": "Bellevue", 
-      "lon": 3.7364365973075264
+      "street": "Bellevue"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 9050, 
-      "street": "Bellevue", 
-      "housenumber": "9"
+      "street": "Bellevue"
     }
-  ], 
-  "name": "Bellevue"
+  ]
 }

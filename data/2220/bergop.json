@@ -1,27 +1,25 @@
 {
-  "pcode": 2220, 
   "addresses": [
     {
-      "lat": 51.075019378845745, 
       "housenumber": "1", 
+      "lat": 51.075019378845745, 
+      "lon": 4.728724448068, 
       "pcode": 2220, 
-      "street": "Bergop", 
-      "lon": 4.728724448068
+      "street": "Bergop"
     }, 
     {
-      "lat": 51.07527722965762, 
       "housenumber": "2", 
+      "lat": 51.07527722965762, 
+      "lon": 4.728944036739941, 
       "pcode": 2220, 
-      "street": "Bergop", 
-      "lon": 4.728944036739941
+      "street": "Bergop"
     }, 
     {
-      "lat": 51.07516192505691, 
       "housenumber": "4", 
+      "lat": 51.07516192505691, 
+      "lon": 4.728024946567672, 
       "pcode": 2220, 
-      "street": "Bergop", 
-      "lon": 4.728024946567672
+      "street": "Bergop"
     }
-  ], 
-  "name": "Bergop"
+  ]
 }

@@ -1,34 +1,32 @@
 {
-  "pcode": 2950, 
   "addresses": [
     {
+      "housenumber": "1", 
       "lat": 51.34904086390905, 
-      "housenumber": "1", 
+      "lon": 4.4475282240186775, 
       "pcode": 2950, 
-      "street": "Vierdedreef", 
-      "lon": 4.4475282240186775
+      "street": "Vierdedreef"
     }, 
     {
+      "housenumber": "1", 
       "lat": 51.348590985304355, 
-      "housenumber": "1", 
+      "lon": 4.447443779498382, 
       "pcode": 2950, 
-      "street": "Vierdedreef", 
-      "lon": 4.447443779498382
+      "street": "Vierdedreef"
     }, 
     {
-      "lat": 51.348804609739084, 
       "housenumber": "2", 
+      "lat": 51.348804609739084, 
+      "lon": 4.449197034533075, 
       "pcode": 2950, 
-      "street": "Vierdedreef", 
-      "lon": 4.449197034533075
+      "street": "Vierdedreef"
     }, 
     {
-      "lat": 51.3484169701958, 
       "housenumber": "4", 
+      "lat": 51.3484169701958, 
+      "lon": 4.448523798073074, 
       "pcode": 2950, 
-      "street": "Vierdedreef", 
-      "lon": 4.448523798073074
+      "street": "Vierdedreef"
     }
-  ], 
-  "name": "Vierdedreef"
+  ]
 }

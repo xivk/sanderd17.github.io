@@ -1,32 +1,30 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.95141978176394, 
       "housenumber": "10", 
+      "lat": 50.95141978176394, 
+      "lon": 5.3560719717521135, 
       "pcode": 3500, 
-      "street": "Research Campus", 
-      "lon": 5.3560719717521135
+      "street": "Research Campus"
     }, 
     {
+      "housenumber": "305", 
       "pcode": 3500, 
-      "street": "Research Campus", 
-      "housenumber": "305"
+      "street": "Research Campus"
     }, 
     {
-      "lat": 50.95202802358309, 
       "housenumber": "6", 
+      "lat": 50.95202802358309, 
+      "lon": 5.358254243000088, 
       "pcode": 3500, 
-      "street": "Research Campus", 
-      "lon": 5.358254243000088
+      "street": "Research Campus"
     }, 
     {
-      "lat": 50.951574889568704, 
       "housenumber": "8", 
+      "lat": 50.951574889568704, 
+      "lon": 5.3568702581156105, 
       "pcode": 3500, 
-      "street": "Research Campus", 
-      "lon": 5.3568702581156105
+      "street": "Research Campus"
     }
-  ], 
-  "name": "Research Campus"
+  ]
 }

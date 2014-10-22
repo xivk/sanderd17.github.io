@@ -1,20 +1,18 @@
 {
-  "pcode": 2450, 
   "addresses": [
     {
-      "lat": 51.1127932293472, 
       "housenumber": "6", 
+      "lat": 51.1127932293472, 
+      "lon": 5.09885976024799, 
       "pcode": 2450, 
-      "street": "Vestpad", 
-      "lon": 5.09885976024799
+      "street": "Vestpad"
     }, 
     {
-      "lat": 51.11288486609557, 
       "housenumber": "7", 
+      "lat": 51.11288486609557, 
+      "lon": 5.098897323786334, 
       "pcode": 2450, 
-      "street": "Vestpad", 
-      "lon": 5.098897323786334
+      "street": "Vestpad"
     }
-  ], 
-  "name": "Vestpad"
+  ]
 }

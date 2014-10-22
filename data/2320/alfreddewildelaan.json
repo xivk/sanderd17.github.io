@@ -1,32 +1,30 @@
 {
-  "pcode": 2320, 
   "addresses": [
     {
-      "lat": 51.400874755689166, 
       "housenumber": "1", 
+      "lat": 51.400874755689166, 
+      "lon": 4.758739034841032, 
       "pcode": 2320, 
-      "street": "Alfred De Wildelaan", 
-      "lon": 4.758739034841032
+      "street": "Alfred De Wildelaan"
     }, 
     {
-      "lat": 51.400893321486464, 
       "housenumber": "2", 
+      "lat": 51.400893321486464, 
+      "lon": 4.758614324871978, 
       "pcode": 2320, 
-      "street": "Alfred De Wildelaan", 
-      "lon": 4.758614324871978
+      "street": "Alfred De Wildelaan"
     }, 
     {
-      "lat": 51.400926633020006, 
       "housenumber": "3", 
+      "lat": 51.400926633020006, 
+      "lon": 4.758378523043306, 
       "pcode": 2320, 
-      "street": "Alfred De Wildelaan", 
-      "lon": 4.758378523043306
+      "street": "Alfred De Wildelaan"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2320, 
-      "street": "Alfred De Wildelaan", 
-      "housenumber": "5"
+      "street": "Alfred De Wildelaan"
     }
-  ], 
-  "name": "Alfred De Wildelaan"
+  ]
 }

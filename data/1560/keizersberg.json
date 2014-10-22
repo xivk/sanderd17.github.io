@@ -1,47 +1,45 @@
 {
-  "pcode": 1560, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 1560, 
-      "street": "Keizersberg", 
-      "housenumber": "1"
+      "street": "Keizersberg"
     }, 
     {
-      "lat": 50.76976703068358, 
       "housenumber": "2", 
+      "lat": 50.76976703068358, 
+      "lon": 4.477796560347972, 
       "pcode": 1560, 
-      "street": "Keizersberg", 
-      "lon": 4.477796560347972
+      "street": "Keizersberg"
     }, 
     {
-      "lat": 50.76959140550228, 
       "housenumber": "3", 
+      "lat": 50.76959140550228, 
+      "lon": 4.477952371653433, 
       "pcode": 1560, 
-      "street": "Keizersberg", 
-      "lon": 4.477952371653433
+      "street": "Keizersberg"
     }, 
     {
-      "lat": 50.76929226887015, 
       "housenumber": "4", 
+      "lat": 50.76929226887015, 
+      "lon": 4.478100379860271, 
       "pcode": 1560, 
-      "street": "Keizersberg", 
-      "lon": 4.478100379860271
+      "street": "Keizersberg"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 1560, 
-      "street": "Keizersberg", 
-      "housenumber": "5"
+      "street": "Keizersberg"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 1560, 
-      "street": "Keizersberg", 
-      "housenumber": "6"
+      "street": "Keizersberg"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 1560, 
-      "street": "Keizersberg", 
-      "housenumber": "7"
+      "street": "Keizersberg"
     }
-  ], 
-  "name": "Keizersberg"
+  ]
 }

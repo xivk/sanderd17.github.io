@@ -1,20 +1,18 @@
 {
-  "pcode": 2260, 
   "addresses": [
     {
-      "lat": 51.130451737491605, 
       "housenumber": "1", 
+      "lat": 51.130451737491605, 
+      "lon": 4.932904887108049, 
       "pcode": 2260, 
-      "street": "Van Doornelaan", 
-      "lon": 4.932904887108049
+      "street": "Van Doornelaan"
     }, 
     {
-      "lat": 51.12554585191641, 
       "housenumber": "3", 
+      "lat": 51.12554585191641, 
+      "lon": 4.937296340230749, 
       "pcode": 2260, 
-      "street": "Van Doornelaan", 
-      "lon": 4.937296340230749
+      "street": "Van Doornelaan"
     }
-  ], 
-  "name": "Van Doornelaan"
+  ]
 }

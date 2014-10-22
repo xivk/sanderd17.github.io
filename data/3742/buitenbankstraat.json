@@ -1,20 +1,18 @@
 {
-  "pcode": 3742, 
   "addresses": [
     {
-      "lat": 50.85342770993737, 
       "housenumber": "1", 
+      "lat": 50.85342770993737, 
+      "lon": 5.535757033960265, 
       "pcode": 3742, 
-      "street": "Buitenbankstraat", 
-      "lon": 5.535757033960265
+      "street": "Buitenbankstraat"
     }, 
     {
-      "lat": 50.85303963838704, 
       "housenumber": "2", 
+      "lat": 50.85303963838704, 
+      "lon": 5.535869111824345, 
       "pcode": 3742, 
-      "street": "Buitenbankstraat", 
-      "lon": 5.535869111824345
+      "street": "Buitenbankstraat"
     }
-  ], 
-  "name": "Buitenbankstraat"
+  ]
 }

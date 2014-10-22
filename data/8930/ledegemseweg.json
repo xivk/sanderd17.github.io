@@ -1,20 +1,18 @@
 {
-  "pcode": 8930, 
   "addresses": [
     {
-      "lat": 50.82584557224625, 
       "housenumber": "15", 
+      "lat": 50.82584557224625, 
+      "lon": 3.1251445122220667, 
       "pcode": 8930, 
-      "street": "Ledegemseweg", 
-      "lon": 3.1251445122220667
+      "street": "Ledegemseweg"
     }, 
     {
-      "lat": 50.82846079298849, 
       "housenumber": "79", 
+      "lat": 50.82846079298849, 
+      "lon": 3.1269067875060075, 
       "pcode": 8930, 
-      "street": "Ledegemseweg", 
-      "lon": 3.1269067875060075
+      "street": "Ledegemseweg"
     }
-  ], 
-  "name": "Ledegemseweg"
+  ]
 }

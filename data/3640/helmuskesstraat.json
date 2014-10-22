@@ -1,39 +1,37 @@
 {
-  "pcode": 3640, 
   "addresses": [
     {
-      "lat": 51.18370685329066, 
       "housenumber": "1", 
+      "lat": 51.18370685329066, 
+      "lon": 5.725055473363717, 
       "pcode": 3640, 
-      "street": "Helmuskesstraat", 
-      "lon": 5.725055473363717
+      "street": "Helmuskesstraat"
     }, 
     {
-      "lat": 51.18381267424618, 
       "housenumber": "2", 
+      "lat": 51.18381267424618, 
+      "lon": 5.724843414337353, 
       "pcode": 3640, 
-      "street": "Helmuskesstraat", 
-      "lon": 5.724843414337353
+      "street": "Helmuskesstraat"
     }, 
     {
-      "lat": 51.18452225651637, 
       "housenumber": "3", 
+      "lat": 51.18452225651637, 
+      "lon": 5.72389591866014, 
       "pcode": 3640, 
-      "street": "Helmuskesstraat", 
-      "lon": 5.72389591866014
+      "street": "Helmuskesstraat"
     }, 
     {
-      "lat": 51.183779625528146, 
       "housenumber": "4", 
+      "lat": 51.183779625528146, 
+      "lon": 5.720504968787354, 
       "pcode": 3640, 
-      "street": "Helmuskesstraat", 
-      "lon": 5.720504968787354
+      "street": "Helmuskesstraat"
     }, 
     {
+      "housenumber": "4A", 
       "pcode": 3640, 
-      "street": "Helmuskesstraat", 
-      "housenumber": "4A"
+      "street": "Helmuskesstraat"
     }
-  ], 
-  "name": "Helmuskesstraat"
+  ]
 }

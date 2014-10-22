@@ -1,20 +1,18 @@
 {
-  "pcode": 3840, 
   "addresses": [
     {
-      "lat": 50.8028551797589, 
       "housenumber": "1", 
+      "lat": 50.8028551797589, 
+      "lon": 5.308811239877974, 
       "pcode": 3840, 
-      "street": "Fonteinhof", 
-      "lon": 5.308811239877974
+      "street": "Fonteinhof"
     }, 
     {
-      "lat": 50.802931636864535, 
       "housenumber": "2", 
+      "lat": 50.802931636864535, 
+      "lon": 5.3086047833231165, 
       "pcode": 3840, 
-      "street": "Fonteinhof", 
-      "lon": 5.3086047833231165
+      "street": "Fonteinhof"
     }
-  ], 
-  "name": "Fonteinhof"
+  ]
 }

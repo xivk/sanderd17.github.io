@@ -1,42 +1,40 @@
 {
-  "pcode": 9400, 
   "addresses": [
     {
-      "lat": 50.82747065804486, 
       "housenumber": "1", 
+      "lat": 50.82747065804486, 
+      "lon": 3.9382934807125416, 
       "pcode": 9400, 
-      "street": "Schoolbaantje", 
-      "lon": 3.9382934807125416
+      "street": "Schoolbaantje"
     }, 
     {
-      "lat": 50.82806050905365, 
       "housenumber": "2", 
+      "lat": 50.82806050905365, 
+      "lon": 3.938156228384973, 
       "pcode": 9400, 
-      "street": "Schoolbaantje", 
-      "lon": 3.938156228384973
+      "street": "Schoolbaantje"
     }, 
     {
-      "lat": 50.82813818103792, 
       "housenumber": "3", 
+      "lat": 50.82813818103792, 
+      "lon": 3.9384507528732597, 
       "pcode": 9400, 
-      "street": "Schoolbaantje", 
-      "lon": 3.9384507528732597
+      "street": "Schoolbaantje"
     }, 
     {
+      "housenumber": "3A", 
       "pcode": 9400, 
-      "street": "Schoolbaantje", 
-      "housenumber": "3A"
+      "street": "Schoolbaantje"
     }, 
     {
+      "housenumber": "609", 
       "pcode": 9400, 
-      "street": "Schoolbaantje", 
-      "housenumber": "609"
+      "street": "Schoolbaantje"
     }, 
     {
+      "housenumber": "70", 
       "pcode": 9400, 
-      "street": "Schoolbaantje", 
-      "housenumber": "70"
+      "street": "Schoolbaantje"
     }
-  ], 
-  "name": "Schoolbaantje"
+  ]
 }

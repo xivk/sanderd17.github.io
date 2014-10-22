@@ -1,30 +1,28 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.26159388137555, 
       "housenumber": "1", 
+      "lat": 51.26159388137555, 
+      "lon": 4.413541968187737, 
       "pcode": 2030, 
-      "street": "Bremenstraat", 
-      "lon": 4.413541968187737
+      "street": "Bremenstraat"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 2030, 
-      "street": "Bremenstraat", 
-      "housenumber": "12"
+      "street": "Bremenstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2030, 
-      "street": "Bremenstraat", 
-      "housenumber": "2"
+      "street": "Bremenstraat"
     }, 
     {
-      "lat": 51.26173330985834, 
       "housenumber": "3", 
+      "lat": 51.26173330985834, 
+      "lon": 4.412060383935078, 
       "pcode": 2030, 
-      "street": "Bremenstraat", 
-      "lon": 4.412060383935078
+      "street": "Bremenstraat"
     }
-  ], 
-  "name": "Bremenstraat"
+  ]
 }

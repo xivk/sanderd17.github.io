@@ -1,32 +1,30 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.25367002603784, 
       "housenumber": "2", 
+      "lat": 51.25367002603784, 
+      "lon": 4.424379014162961, 
       "pcode": 2030, 
-      "street": "Perustraat", 
-      "lon": 4.424379014162961
+      "street": "Perustraat"
     }, 
     {
-      "lat": 51.25432555031951, 
       "housenumber": "4", 
+      "lat": 51.25432555031951, 
+      "lon": 4.42473517385003, 
       "pcode": 2030, 
-      "street": "Perustraat", 
-      "lon": 4.42473517385003
+      "street": "Perustraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2030, 
-      "street": "Perustraat", 
-      "housenumber": "6"
+      "street": "Perustraat"
     }, 
     {
-      "lat": 51.25438688876595, 
       "housenumber": "8", 
+      "lat": 51.25438688876595, 
+      "lon": 4.424277753614046, 
       "pcode": 2030, 
-      "street": "Perustraat", 
-      "lon": 4.424277753614046
+      "street": "Perustraat"
     }
-  ], 
-  "name": "Perustraat"
+  ]
 }

@@ -1,23 +1,21 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 2000, 
-      "street": "Lammekensraamveld", 
-      "housenumber": "2"
+      "street": "Lammekensraamveld"
     }, 
     {
-      "lat": 51.215552740684345, 
       "housenumber": "4", 
+      "lat": 51.215552740684345, 
+      "lon": 4.411317971696507, 
       "pcode": 2000, 
-      "street": "Lammekensraamveld", 
-      "lon": 4.411317971696507
+      "street": "Lammekensraamveld"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2000, 
-      "street": "Lammekensraamveld", 
-      "housenumber": "6"
+      "street": "Lammekensraamveld"
     }
-  ], 
-  "name": "Lammekensraamveld"
+  ]
 }

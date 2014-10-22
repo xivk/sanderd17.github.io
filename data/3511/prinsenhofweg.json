@@ -1,32 +1,30 @@
 {
-  "pcode": 3511, 
   "addresses": [
     {
-      "lat": 50.94444350835401, 
       "housenumber": "21", 
+      "lat": 50.94444350835401, 
+      "lon": 5.308629373641109, 
       "pcode": 3511, 
-      "street": "Prinsenhofweg", 
-      "lon": 5.308629373641109
+      "street": "Prinsenhofweg"
     }, 
     {
-      "lat": 50.943983222160384, 
       "housenumber": "27", 
+      "lat": 50.943983222160384, 
+      "lon": 5.307314122025397, 
       "pcode": 3511, 
-      "street": "Prinsenhofweg", 
-      "lon": 5.307314122025397
+      "street": "Prinsenhofweg"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3511, 
-      "street": "Prinsenhofweg", 
-      "housenumber": "3"
+      "street": "Prinsenhofweg"
     }, 
     {
-      "lat": 50.9445463918737, 
       "housenumber": "4", 
+      "lat": 50.9445463918737, 
+      "lon": 5.306048675374716, 
       "pcode": 3511, 
-      "street": "Prinsenhofweg", 
-      "lon": 5.306048675374716
+      "street": "Prinsenhofweg"
     }
-  ], 
-  "name": "Prinsenhofweg"
+  ]
 }

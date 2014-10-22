@@ -1,47 +1,45 @@
 {
-  "pcode": 9500, 
   "addresses": [
     {
-      "lat": 50.77225124936763, 
       "housenumber": "1", 
+      "lat": 50.77225124936763, 
+      "lon": 3.8804449237480814, 
       "pcode": 9500, 
-      "street": "Laverdijstraat", 
-      "lon": 3.8804449237480814
+      "street": "Laverdijstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9500, 
-      "street": "Laverdijstraat", 
-      "housenumber": "2"
+      "street": "Laverdijstraat"
     }, 
     {
-      "lat": 50.772244042881816, 
       "housenumber": "3", 
+      "lat": 50.772244042881816, 
+      "lon": 3.8803766643413513, 
       "pcode": 9500, 
-      "street": "Laverdijstraat", 
-      "lon": 3.8803766643413513
+      "street": "Laverdijstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9500, 
-      "street": "Laverdijstraat", 
-      "housenumber": "5"
+      "street": "Laverdijstraat"
     }, 
     {
+      "housenumber": "5B", 
       "pcode": 9500, 
-      "street": "Laverdijstraat", 
-      "housenumber": "5B"
+      "street": "Laverdijstraat"
     }, 
     {
-      "lat": 50.77203206041193, 
       "housenumber": "6", 
+      "lat": 50.77203206041193, 
+      "lon": 3.8806139167578015, 
       "pcode": 9500, 
-      "street": "Laverdijstraat", 
-      "lon": 3.8806139167578015
+      "street": "Laverdijstraat"
     }, 
     {
+      "housenumber": "6B", 
       "pcode": 9500, 
-      "street": "Laverdijstraat", 
-      "housenumber": "6B"
+      "street": "Laverdijstraat"
     }
-  ], 
-  "name": "Laverdijstraat"
+  ]
 }

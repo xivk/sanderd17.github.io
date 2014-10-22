@@ -1,25 +1,23 @@
 {
-  "pcode": 3740, 
   "addresses": [
     {
-      "lat": 50.849910366469764, 
       "housenumber": "1", 
+      "lat": 50.849910366469764, 
+      "lon": 5.573204137233323, 
       "pcode": 3740, 
-      "street": "Slakkenstraat", 
-      "lon": 5.573204137233323
+      "street": "Slakkenstraat"
     }, 
     {
-      "lat": 50.84863999076809, 
       "housenumber": "2", 
+      "lat": 50.84863999076809, 
+      "lon": 5.570479190147558, 
       "pcode": 3740, 
-      "street": "Slakkenstraat", 
-      "lon": 5.570479190147558
+      "street": "Slakkenstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3740, 
-      "street": "Slakkenstraat", 
-      "housenumber": "3"
+      "street": "Slakkenstraat"
     }
-  ], 
-  "name": "Slakkenstraat"
+  ]
 }

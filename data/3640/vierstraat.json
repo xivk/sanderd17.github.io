@@ -1,27 +1,25 @@
 {
-  "pcode": 3640, 
   "addresses": [
     {
-      "lat": 51.14902077017331, 
       "housenumber": "1", 
+      "lat": 51.14902077017331, 
+      "lon": 5.803120062475576, 
       "pcode": 3640, 
-      "street": "Vierstraat", 
-      "lon": 5.803120062475576
+      "street": "Vierstraat"
     }, 
     {
-      "lat": 51.14931571875041, 
       "housenumber": "2", 
+      "lat": 51.14931571875041, 
+      "lon": 5.803040647079143, 
       "pcode": 3640, 
-      "street": "Vierstraat", 
-      "lon": 5.803040647079143
+      "street": "Vierstraat"
     }, 
     {
-      "lat": 51.149508113903906, 
       "housenumber": "3", 
+      "lat": 51.149508113903906, 
+      "lon": 5.802988668594812, 
       "pcode": 3640, 
-      "street": "Vierstraat", 
-      "lon": 5.802988668594812
+      "street": "Vierstraat"
     }
-  ], 
-  "name": "Vierstraat"
+  ]
 }

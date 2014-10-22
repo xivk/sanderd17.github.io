@@ -1,20 +1,18 @@
 {
-  "pcode": 9404, 
   "addresses": [
     {
-      "lat": 50.838586305180584, 
       "housenumber": "1", 
+      "lat": 50.838586305180584, 
+      "lon": 3.929497978072051, 
       "pcode": 9404, 
-      "street": "Willebroekstraat", 
-      "lon": 3.929497978072051
+      "street": "Willebroekstraat"
     }, 
     {
-      "lat": 50.83881716474031, 
       "housenumber": "2", 
+      "lat": 50.83881716474031, 
+      "lon": 3.929162758221021, 
       "pcode": 9404, 
-      "street": "Willebroekstraat", 
-      "lon": 3.929162758221021
+      "street": "Willebroekstraat"
     }
-  ], 
-  "name": "Willebroekstraat"
+  ]
 }

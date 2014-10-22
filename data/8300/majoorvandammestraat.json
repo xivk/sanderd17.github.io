@@ -1,27 +1,25 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.34427942787774, 
       "housenumber": "1", 
+      "lat": 51.34427942787774, 
+      "lon": 3.282686463841189, 
       "pcode": 8300, 
-      "street": "Majoor Vandammestraat", 
-      "lon": 3.282686463841189
+      "street": "Majoor Vandammestraat"
     }, 
     {
-      "lat": 51.3442000744071, 
       "housenumber": "2", 
+      "lat": 51.3442000744071, 
+      "lon": 3.2817757672024173, 
       "pcode": 8300, 
-      "street": "Majoor Vandammestraat", 
-      "lon": 3.2817757672024173
+      "street": "Majoor Vandammestraat"
     }, 
     {
-      "lat": 51.34454151606556, 
       "housenumber": "8", 
+      "lat": 51.34454151606556, 
+      "lon": 3.282143548824058, 
       "pcode": 8300, 
-      "street": "Majoor Vandammestraat", 
-      "lon": 3.282143548824058
+      "street": "Majoor Vandammestraat"
     }
-  ], 
-  "name": "Majoor Vandammestraat"
+  ]
 }

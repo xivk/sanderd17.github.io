@@ -1,25 +1,23 @@
 {
-  "pcode": 3201, 
   "addresses": [
     {
-      "lat": 50.99197258859367, 
       "housenumber": "3", 
+      "lat": 50.99197258859367, 
+      "lon": 4.863794640708332, 
       "pcode": 3201, 
-      "street": "Houten Kruisweg", 
-      "lon": 4.863794640708332
+      "street": "Houten Kruisweg"
     }, 
     {
+      "housenumber": "39a", 
       "pcode": 3201, 
-      "street": "Houten Kruisweg", 
-      "housenumber": "39a"
+      "street": "Houten Kruisweg"
     }, 
     {
-      "lat": 50.99177002174074, 
       "housenumber": "5", 
+      "lat": 50.99177002174074, 
+      "lon": 4.864080788401509, 
       "pcode": 3201, 
-      "street": "Houten Kruisweg", 
-      "lon": 4.864080788401509
+      "street": "Houten Kruisweg"
     }
-  ], 
-  "name": "Houten Kruisweg"
+  ]
 }

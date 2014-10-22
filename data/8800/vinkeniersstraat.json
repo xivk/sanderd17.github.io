@@ -1,27 +1,25 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.90760252230244, 
       "housenumber": "1", 
+      "lat": 50.90760252230244, 
+      "lon": 3.114092303822444, 
       "pcode": 8800, 
-      "street": "Vinkeniersstraat", 
-      "lon": 3.114092303822444
+      "street": "Vinkeniersstraat"
     }, 
     {
-      "lat": 50.908147458495506, 
       "housenumber": "4", 
+      "lat": 50.908147458495506, 
+      "lon": 3.1146156873578996, 
       "pcode": 8800, 
-      "street": "Vinkeniersstraat", 
-      "lon": 3.1146156873578996
+      "street": "Vinkeniersstraat"
     }, 
     {
-      "lat": 50.90808361805384, 
       "housenumber": "6", 
+      "lat": 50.90808361805384, 
+      "lon": 3.1143371172368672, 
       "pcode": 8800, 
-      "street": "Vinkeniersstraat", 
-      "lon": 3.1143371172368672
+      "street": "Vinkeniersstraat"
     }
-  ], 
-  "name": "Vinkeniersstraat"
+  ]
 }

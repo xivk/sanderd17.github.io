@@ -1,20 +1,18 @@
 {
-  "pcode": 3390, 
   "addresses": [
     {
-      "lat": 50.93083787907976, 
       "housenumber": "2", 
+      "lat": 50.93083787907976, 
+      "lon": 4.945319994318702, 
       "pcode": 3390, 
-      "street": "Heidebergstraat", 
-      "lon": 4.945319994318702
+      "street": "Heidebergstraat"
     }, 
     {
-      "lat": 50.93086196746836, 
       "housenumber": "4", 
+      "lat": 50.93086196746836, 
+      "lon": 4.945467095060649, 
       "pcode": 3390, 
-      "street": "Heidebergstraat", 
-      "lon": 4.945467095060649
+      "street": "Heidebergstraat"
     }
-  ], 
-  "name": "Heidebergstraat"
+  ]
 }

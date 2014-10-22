@@ -1,20 +1,18 @@
 {
-  "pcode": 9688, 
   "addresses": [
     {
-      "lat": 50.7801246209597, 
       "housenumber": "1", 
+      "lat": 50.7801246209597, 
+      "lon": 3.6655092063739776, 
       "pcode": 9688, 
-      "street": "Goudberg", 
-      "lon": 3.6655092063739776
+      "street": "Goudberg"
     }, 
     {
-      "lat": 50.780598940481674, 
       "housenumber": "2", 
+      "lat": 50.780598940481674, 
+      "lon": 3.6651052282478935, 
       "pcode": 9688, 
-      "street": "Goudberg", 
-      "lon": 3.6651052282478935
+      "street": "Goudberg"
     }
-  ], 
-  "name": "Goudberg"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 8421, 
   "addresses": [
     {
-      "lat": 51.27486969288648, 
       "housenumber": "4", 
+      "lat": 51.27486969288648, 
+      "lon": 3.03623311891983, 
       "pcode": 8421, 
-      "street": "Guido Gezellelaan", 
-      "lon": 3.03623311891983
+      "street": "Guido Gezellelaan"
     }, 
     {
-      "lat": 51.27459109409236, 
       "housenumber": "5", 
+      "lat": 51.27459109409236, 
+      "lon": 3.0366317793389284, 
       "pcode": 8421, 
-      "street": "Guido Gezellelaan", 
-      "lon": 3.0366317793389284
+      "street": "Guido Gezellelaan"
     }, 
     {
-      "lat": 51.27465352654826, 
       "housenumber": "7", 
+      "lat": 51.27465352654826, 
+      "lon": 3.0368755033089943, 
       "pcode": 8421, 
-      "street": "Guido Gezellelaan", 
-      "lon": 3.0368755033089943
+      "street": "Guido Gezellelaan"
     }
-  ], 
-  "name": "Guido Gezellelaan"
+  ]
 }

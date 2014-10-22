@@ -1,20 +1,18 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
-      "lat": 50.80163470955561, 
       "housenumber": "1111", 
+      "lat": 50.80163470955561, 
+      "lon": 5.20510423755188, 
       "pcode": 3800, 
-      "street": "Spookvliegerlaan", 
-      "lon": 5.20510423755188
+      "street": "Spookvliegerlaan"
     }, 
     {
-      "lat": 50.800763275948185, 
       "housenumber": "1131", 
+      "lat": 50.800763275948185, 
+      "lon": 5.206589795571238, 
       "pcode": 3800, 
-      "street": "Spookvliegerlaan", 
-      "lon": 5.206589795571238
+      "street": "Spookvliegerlaan"
     }
-  ], 
-  "name": "Spookvliegerlaan"
+  ]
 }

@@ -1,39 +1,37 @@
 {
-  "pcode": 8380, 
   "addresses": [
     {
-      "lat": 51.32738428704479, 
       "housenumber": "1", 
+      "lat": 51.32738428704479, 
+      "lon": 3.1823997006296953, 
       "pcode": 8380, 
-      "street": "Sint-Christianastraat", 
-      "lon": 3.1823997006296953
+      "street": "Sint-Christianastraat"
     }, 
     {
-      "lat": 51.32744500521221, 
       "housenumber": "2", 
+      "lat": 51.32744500521221, 
+      "lon": 3.1829610207306174, 
       "pcode": 8380, 
-      "street": "Sint-Christianastraat", 
-      "lon": 3.1829610207306174
+      "street": "Sint-Christianastraat"
     }, 
     {
-      "lat": 51.3276613737983, 
       "housenumber": "4", 
+      "lat": 51.3276613737983, 
+      "lon": 3.182844168052256, 
       "pcode": 8380, 
-      "street": "Sint-Christianastraat", 
-      "lon": 3.182844168052256
+      "street": "Sint-Christianastraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 8380, 
-      "street": "Sint-Christianastraat", 
-      "housenumber": "6"
+      "street": "Sint-Christianastraat"
     }, 
     {
-      "lat": 51.327677506063914, 
       "housenumber": "8", 
+      "lat": 51.327677506063914, 
+      "lon": 3.182821374180366, 
       "pcode": 8380, 
-      "street": "Sint-Christianastraat", 
-      "lon": 3.182821374180366
+      "street": "Sint-Christianastraat"
     }
-  ], 
-  "name": "Sint-Christianastraat"
+  ]
 }

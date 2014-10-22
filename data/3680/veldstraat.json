@@ -1,49 +1,47 @@
 {
-  "pcode": 3680, 
   "addresses": [
     {
-      "lat": 51.054998912917654, 
       "housenumber": "1", 
+      "lat": 51.054998912917654, 
+      "lon": 5.653363179548062, 
       "pcode": 3680, 
-      "street": "Veldstraat", 
-      "lon": 5.653363179548062
+      "street": "Veldstraat"
     }, 
     {
-      "lat": 51.05519781777609, 
       "housenumber": "1A", 
+      "lat": 51.05519781777609, 
+      "lon": 5.653326562188976, 
       "pcode": 3680, 
-      "street": "Veldstraat", 
-      "lon": 5.653326562188976
+      "street": "Veldstraat"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 3680, 
-      "street": "Veldstraat", 
-      "housenumber": "1B"
+      "street": "Veldstraat"
     }, 
     {
-      "lat": 51.054966092298464, 
       "housenumber": "2", 
+      "lat": 51.054966092298464, 
+      "lon": 5.653709765178727, 
       "pcode": 3680, 
-      "street": "Veldstraat", 
-      "lon": 5.653709765178727
+      "street": "Veldstraat"
     }, 
     {
+      "housenumber": "27", 
       "pcode": 3680, 
-      "street": "Veldstraat", 
-      "housenumber": "27"
+      "street": "Veldstraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 3680, 
-      "street": "Veldstraat", 
-      "housenumber": "2A"
+      "street": "Veldstraat"
     }, 
     {
-      "lat": 51.054239771575666, 
       "housenumber": "3", 
+      "lat": 51.054239771575666, 
+      "lon": 5.649079829866274, 
       "pcode": 3680, 
-      "street": "Veldstraat", 
-      "lon": 5.649079829866274
+      "street": "Veldstraat"
     }
-  ], 
-  "name": "Veldstraat"
+  ]
 }

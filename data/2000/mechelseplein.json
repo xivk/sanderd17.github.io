@@ -1,179 +1,177 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.21310618198384, 
       "housenumber": "10", 
+      "lat": 51.21310618198384, 
+      "lon": 4.404675735639186, 
       "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.404675735639186
+      "street": "Mechelseplein"
     }, 
     {
-      "lat": 51.21331372788293, 
       "housenumber": "11", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.405240751919742
-    }, 
-    {
-      "lat": 51.213141811944325, 
-      "housenumber": "12", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.404559845321218
-    }, 
-    {
-      "lat": 51.21323831393711, 
-      "housenumber": "13", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.4052444126355095
-    }, 
-    {
-      "lat": 51.21302884691943, 
-      "housenumber": "14", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.404787585888884
-    }, 
-    {
-      "lat": 51.21318240488854, 
-      "housenumber": "15", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.405247945784226
-    }, 
-    {
-      "lat": 51.21296189875003, 
-      "housenumber": "16", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.4047375883135045
-    }, 
-    {
-      "lat": 51.21311921531463, 
-      "housenumber": "17", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.405251186900322
-    }, 
-    {
-      "lat": 51.21287971829385, 
-      "housenumber": "18", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.404822386842396
-    }, 
-    {
-      "lat": 51.213064659792096, 
-      "housenumber": "19", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.405237977385593
-    }, 
-    {
-      "lat": 51.21277781853161, 
-      "housenumber": "20", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.40472942949584
-    }, 
-    {
-      "lat": 51.212673457011086, 
-      "housenumber": "21", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.405323530054976
-    }, 
-    {
-      "lat": 51.212567419363666, 
-      "housenumber": "22", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.404666010657255
-    }, 
-    {
-      "lat": 51.21251714668637, 
-      "housenumber": "22A", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.405042915264373
-    }, 
-    {
-      "lat": 51.21262436555528, 
-      "housenumber": "23", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.405370143846642
-    }, 
-    {
-      "lat": 51.21241155933191, 
-      "housenumber": "24", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.404957969220302
-    }, 
-    {
-      "lat": 51.21255899518745, 
-      "housenumber": "25", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.405447941873268
-    }, 
-    {
-      "lat": 51.21232818465884, 
-      "housenumber": "26", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.4051243361227606
-    }, 
-    {
-      "lat": 51.212558455611024, 
-      "housenumber": "27", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.405448800083972
-    }, 
-    {
-      "lat": 51.21249687428532, 
-      "housenumber": "29", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.40548252397058
-    }, 
-    {
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "housenumber": "3"
-    }, 
-    {
-      "lat": 51.213223304364156, 
-      "housenumber": "6", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.4046649512961995
-    }, 
-    {
-      "lat": 51.21338986107934, 
-      "housenumber": "7", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.405236519326462
-    }, 
-    {
-      "lat": 51.21317340803657, 
-      "housenumber": "8", 
-      "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.404699258315217
-    }, 
-    {
       "lat": 51.21331372788293, 
-      "housenumber": "9", 
+      "lon": 4.405240751919742, 
       "pcode": 2000, 
-      "street": "Mechelseplein", 
-      "lon": 4.405240751919742
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "12", 
+      "lat": 51.213141811944325, 
+      "lon": 4.404559845321218, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "13", 
+      "lat": 51.21323831393711, 
+      "lon": 4.4052444126355095, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "14", 
+      "lat": 51.21302884691943, 
+      "lon": 4.404787585888884, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "15", 
+      "lat": 51.21318240488854, 
+      "lon": 4.405247945784226, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "16", 
+      "lat": 51.21296189875003, 
+      "lon": 4.4047375883135045, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "17", 
+      "lat": 51.21311921531463, 
+      "lon": 4.405251186900322, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "18", 
+      "lat": 51.21287971829385, 
+      "lon": 4.404822386842396, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "19", 
+      "lat": 51.213064659792096, 
+      "lon": 4.405237977385593, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "20", 
+      "lat": 51.21277781853161, 
+      "lon": 4.40472942949584, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "21", 
+      "lat": 51.212673457011086, 
+      "lon": 4.405323530054976, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "22", 
+      "lat": 51.212567419363666, 
+      "lon": 4.404666010657255, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "22A", 
+      "lat": 51.21251714668637, 
+      "lon": 4.405042915264373, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "23", 
+      "lat": 51.21262436555528, 
+      "lon": 4.405370143846642, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "24", 
+      "lat": 51.21241155933191, 
+      "lon": 4.404957969220302, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "25", 
+      "lat": 51.21255899518745, 
+      "lon": 4.405447941873268, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "26", 
+      "lat": 51.21232818465884, 
+      "lon": 4.4051243361227606, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "27", 
+      "lat": 51.212558455611024, 
+      "lon": 4.405448800083972, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "29", 
+      "lat": 51.21249687428532, 
+      "lon": 4.40548252397058, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "3", 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "6", 
+      "lat": 51.213223304364156, 
+      "lon": 4.4046649512961995, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "7", 
+      "lat": 51.21338986107934, 
+      "lon": 4.405236519326462, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "8", 
+      "lat": 51.21317340803657, 
+      "lon": 4.404699258315217, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
+    }, 
+    {
+      "housenumber": "9", 
+      "lat": 51.21331372788293, 
+      "lon": 4.405240751919742, 
+      "pcode": 2000, 
+      "street": "Mechelseplein"
     }
-  ], 
-  "name": "Mechelseplein"
+  ]
 }

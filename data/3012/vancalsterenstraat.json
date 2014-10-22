@@ -1,20 +1,18 @@
 {
-  "pcode": 3012, 
   "addresses": [
     {
-      "lat": 50.926140612177754, 
       "housenumber": "2", 
+      "lat": 50.926140612177754, 
+      "lon": 4.721572040486971, 
       "pcode": 3012, 
-      "street": "Van Calsterenstraat", 
-      "lon": 4.721572040486971
+      "street": "Van Calsterenstraat"
     }, 
     {
-      "lat": 50.92610162543299, 
       "housenumber": "4", 
+      "lat": 50.92610162543299, 
+      "lon": 4.7214434506398355, 
       "pcode": 3012, 
-      "street": "Van Calsterenstraat", 
-      "lon": 4.7214434506398355
+      "street": "Van Calsterenstraat"
     }
-  ], 
-  "name": "Van Calsterenstraat"
+  ]
 }

@@ -1,35 +1,33 @@
 {
-  "pcode": 3360, 
   "addresses": [
     {
-      "lat": 50.86504901903757, 
       "housenumber": "1", 
+      "lat": 50.86504901903757, 
+      "lon": 4.770260956629457, 
       "pcode": 3360, 
-      "street": "Holleweg", 
-      "lon": 4.770260956629457
+      "street": "Holleweg"
     }, 
     {
-      "lat": 50.868285232663, 
       "housenumber": "3", 
+      "lat": 50.868285232663, 
+      "lon": 4.773641574583514, 
       "pcode": 3360, 
-      "street": "Holleweg", 
-      "lon": 4.773641574583514
+      "street": "Holleweg"
     }, 
     {
+      "housenumber": "81", 
       "pcode": 3360, 
-      "street": "Holleweg", 
-      "housenumber": "81"
+      "street": "Holleweg"
     }, 
     {
+      "housenumber": "83", 
       "pcode": 3360, 
-      "street": "Holleweg", 
-      "housenumber": "83"
+      "street": "Holleweg"
     }, 
     {
+      "housenumber": "85", 
       "pcode": 3360, 
-      "street": "Holleweg", 
-      "housenumber": "85"
+      "street": "Holleweg"
     }
-  ], 
-  "name": "Holleweg"
+  ]
 }

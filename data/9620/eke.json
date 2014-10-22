@@ -1,18 +1,16 @@
 {
-  "pcode": 9620, 
   "addresses": [
     {
-      "lat": 50.90646344854859, 
       "housenumber": "1", 
+      "lat": 50.90646344854859, 
+      "lon": 3.823333407735857, 
       "pcode": 9620, 
-      "street": "Eke", 
-      "lon": 3.823333407735857
+      "street": "Eke"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9620, 
-      "street": "Eke", 
-      "housenumber": "3"
+      "street": "Eke"
     }
-  ], 
-  "name": "Eke"
+  ]
 }

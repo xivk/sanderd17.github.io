@@ -1,20 +1,18 @@
 {
-  "pcode": 3550, 
   "addresses": [
     {
-      "lat": 51.038791610572304, 
       "housenumber": "6", 
+      "lat": 51.038791610572304, 
+      "lon": 5.293093214733099, 
       "pcode": 3550, 
-      "street": "Muitenbergstraat", 
-      "lon": 5.293093214733099
+      "street": "Muitenbergstraat"
     }, 
     {
-      "lat": 51.038721082562105, 
       "housenumber": "8", 
+      "lat": 51.038721082562105, 
+      "lon": 5.2933969568243535, 
       "pcode": 3550, 
-      "street": "Muitenbergstraat", 
-      "lon": 5.2933969568243535
+      "street": "Muitenbergstraat"
     }
-  ], 
-  "name": "Muitenbergstraat"
+  ]
 }

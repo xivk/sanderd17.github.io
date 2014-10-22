@@ -1,39 +1,37 @@
 {
-  "pcode": 8850, 
   "addresses": [
     {
-      "lat": 50.973146275483884, 
       "housenumber": "1", 
+      "lat": 50.973146275483884, 
+      "lon": 3.2257528155399164, 
       "pcode": 8850, 
-      "street": "Patrijzenstraat", 
-      "lon": 3.2257528155399164
+      "street": "Patrijzenstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8850, 
-      "street": "Patrijzenstraat", 
-      "housenumber": "2"
+      "street": "Patrijzenstraat"
     }, 
     {
-      "lat": 50.97322152783197, 
       "housenumber": "3", 
+      "lat": 50.97322152783197, 
+      "lon": 3.2264475703390527, 
       "pcode": 8850, 
-      "street": "Patrijzenstraat", 
-      "lon": 3.2264475703390527
+      "street": "Patrijzenstraat"
     }, 
     {
-      "lat": 50.9726711953221, 
       "housenumber": "4", 
+      "lat": 50.9726711953221, 
+      "lon": 3.227972460886149, 
       "pcode": 8850, 
-      "street": "Patrijzenstraat", 
-      "lon": 3.227972460886149
+      "street": "Patrijzenstraat"
     }, 
     {
-      "lat": 50.97363747054632, 
       "housenumber": "5", 
+      "lat": 50.97363747054632, 
+      "lon": 3.227778228495278, 
       "pcode": 8850, 
-      "street": "Patrijzenstraat", 
-      "lon": 3.227778228495278
+      "street": "Patrijzenstraat"
     }
-  ], 
-  "name": "Patrijzenstraat"
+  ]
 }

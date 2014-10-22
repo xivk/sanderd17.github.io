@@ -1,20 +1,18 @@
 {
-  "pcode": 9400, 
   "addresses": [
     {
-      "lat": 50.85367122917779, 
       "housenumber": "2", 
+      "lat": 50.85367122917779, 
+      "lon": 4.04508615953119, 
       "pcode": 9400, 
-      "street": "Riefstraat", 
-      "lon": 4.04508615953119
+      "street": "Riefstraat"
     }, 
     {
-      "lat": 50.8535397970306, 
       "housenumber": "4", 
+      "lat": 50.8535397970306, 
+      "lon": 4.045313151148136, 
       "pcode": 9400, 
-      "street": "Riefstraat", 
-      "lon": 4.045313151148136
+      "street": "Riefstraat"
     }
-  ], 
-  "name": "Riefstraat"
+  ]
 }

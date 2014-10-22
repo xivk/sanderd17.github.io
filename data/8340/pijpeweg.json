@@ -1,27 +1,25 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.23748649484084, 
       "housenumber": "1", 
+      "lat": 51.23748649484084, 
+      "lon": 3.2864062320399476, 
       "pcode": 8340, 
-      "street": "Pijpeweg", 
-      "lon": 3.2864062320399476
+      "street": "Pijpeweg"
     }, 
     {
-      "lat": 51.23162964523633, 
       "housenumber": "2", 
+      "lat": 51.23162964523633, 
+      "lon": 3.283328296830751, 
       "pcode": 8340, 
-      "street": "Pijpeweg", 
-      "lon": 3.283328296830751
+      "street": "Pijpeweg"
     }, 
     {
-      "lat": 51.235053339474355, 
       "housenumber": "2A", 
+      "lat": 51.235053339474355, 
+      "lon": 3.2824888453163483, 
       "pcode": 8340, 
-      "street": "Pijpeweg", 
-      "lon": 3.2824888453163483
+      "street": "Pijpeweg"
     }
-  ], 
-  "name": "Pijpeweg"
+  ]
 }

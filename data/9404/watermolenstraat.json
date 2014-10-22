@@ -1,20 +1,18 @@
 {
-  "pcode": 9404, 
   "addresses": [
     {
-      "lat": 50.84171816945081, 
       "housenumber": "1", 
+      "lat": 50.84171816945081, 
+      "lon": 3.9606367724468257, 
       "pcode": 9404, 
-      "street": "Watermolenstraat", 
-      "lon": 3.9606367724468257
+      "street": "Watermolenstraat"
     }, 
     {
-      "lat": 50.84147204121265, 
       "housenumber": "2", 
+      "lat": 50.84147204121265, 
+      "lon": 3.960018738096403, 
       "pcode": 9404, 
-      "street": "Watermolenstraat", 
-      "lon": 3.960018738096403
+      "street": "Watermolenstraat"
     }
-  ], 
-  "name": "Watermolenstraat"
+  ]
 }

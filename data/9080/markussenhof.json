@@ -1,62 +1,60 @@
 {
-  "pcode": 9080, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9080, 
-      "street": "Markussenhof", 
-      "housenumber": "1"
+      "street": "Markussenhof"
     }, 
     {
-      "lat": 51.09076203754978, 
       "housenumber": "10", 
+      "lat": 51.09076203754978, 
+      "lon": 3.8235951932821703, 
       "pcode": 9080, 
-      "street": "Markussenhof", 
-      "lon": 3.8235951932821703
+      "street": "Markussenhof"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9080, 
-      "street": "Markussenhof", 
-      "housenumber": "2"
+      "street": "Markussenhof"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9080, 
-      "street": "Markussenhof", 
-      "housenumber": "3"
+      "street": "Markussenhof"
     }, 
     {
-      "lat": 51.09132641527026, 
       "housenumber": "4", 
+      "lat": 51.09132641527026, 
+      "lon": 3.823157261334601, 
       "pcode": 9080, 
-      "street": "Markussenhof", 
-      "lon": 3.823157261334601
+      "street": "Markussenhof"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9080, 
-      "street": "Markussenhof", 
-      "housenumber": "5"
+      "street": "Markussenhof"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9080, 
-      "street": "Markussenhof", 
-      "housenumber": "6"
+      "street": "Markussenhof"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 9080, 
-      "street": "Markussenhof", 
-      "housenumber": "7"
+      "street": "Markussenhof"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 9080, 
-      "street": "Markussenhof", 
-      "housenumber": "8"
+      "street": "Markussenhof"
     }, 
     {
-      "lat": 51.09082746265043, 
       "housenumber": "9", 
+      "lat": 51.09082746265043, 
+      "lon": 3.824039775542556, 
       "pcode": 9080, 
-      "street": "Markussenhof", 
-      "lon": 3.824039775542556
+      "street": "Markussenhof"
     }
-  ], 
-  "name": "Markussenhof"
+  ]
 }

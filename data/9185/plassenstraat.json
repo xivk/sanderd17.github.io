@@ -1,37 +1,35 @@
 {
-  "pcode": 9185, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 9185, 
-      "street": "Plassenstraat", 
-      "housenumber": "10"
+      "street": "Plassenstraat"
     }, 
     {
-      "lat": 51.2008045308695, 
       "housenumber": "2", 
+      "lat": 51.2008045308695, 
+      "lon": 3.893336024880668, 
       "pcode": 9185, 
-      "street": "Plassenstraat", 
-      "lon": 3.893336024880668
+      "street": "Plassenstraat"
     }, 
     {
-      "lat": 51.20065839435881, 
       "housenumber": "4", 
+      "lat": 51.20065839435881, 
+      "lon": 3.893430223771174, 
       "pcode": 9185, 
-      "street": "Plassenstraat", 
-      "lon": 3.893430223771174
+      "street": "Plassenstraat"
     }, 
     {
-      "lat": 51.20050491510835, 
       "housenumber": "6", 
+      "lat": 51.20050491510835, 
+      "lon": 3.8934194810737965, 
       "pcode": 9185, 
-      "street": "Plassenstraat", 
-      "lon": 3.8934194810737965
+      "street": "Plassenstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 9185, 
-      "street": "Plassenstraat", 
-      "housenumber": "8"
+      "street": "Plassenstraat"
     }
-  ], 
-  "name": "Plassenstraat"
+  ]
 }

@@ -1,53 +1,51 @@
 {
-  "pcode": 8211, 
   "addresses": [
     {
-      "lat": 51.138965918232785, 
       "housenumber": "1", 
+      "lat": 51.138965918232785, 
+      "lon": 3.0810674565290763, 
       "pcode": 8211, 
-      "street": "Boterweg", 
-      "lon": 3.0810674565290763
+      "street": "Boterweg"
     }, 
     {
-      "lat": 51.13772234064336, 
       "housenumber": "2", 
+      "lat": 51.13772234064336, 
+      "lon": 3.079692590641281, 
       "pcode": 8211, 
-      "street": "Boterweg", 
-      "lon": 3.079692590641281
+      "street": "Boterweg"
     }, 
     {
-      "lat": 51.1371937456864, 
       "housenumber": "3", 
+      "lat": 51.1371937456864, 
+      "lon": 3.0805509825740764, 
       "pcode": 8211, 
-      "street": "Boterweg", 
-      "lon": 3.0805509825740764
+      "street": "Boterweg"
     }, 
     {
-      "lat": 51.137329406726764, 
       "housenumber": "4", 
+      "lat": 51.137329406726764, 
+      "lon": 3.0775469508500035, 
       "pcode": 8211, 
-      "street": "Boterweg", 
-      "lon": 3.0775469508500035
+      "street": "Boterweg"
     }, 
     {
-      "lat": 51.132700187640644, 
       "housenumber": "5", 
+      "lat": 51.132700187640644, 
+      "lon": 3.0756596003640535, 
       "pcode": 8211, 
-      "street": "Boterweg", 
-      "lon": 3.0756596003640535
+      "street": "Boterweg"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8211, 
-      "street": "Boterweg", 
-      "housenumber": "7"
+      "street": "Boterweg"
     }, 
     {
-      "lat": 51.135875335675856, 
       "housenumber": "8", 
+      "lat": 51.135875335675856, 
+      "lon": 3.0726381347242104, 
       "pcode": 8211, 
-      "street": "Boterweg", 
-      "lon": 3.0726381347242104
+      "street": "Boterweg"
     }
-  ], 
-  "name": "Boterweg"
+  ]
 }

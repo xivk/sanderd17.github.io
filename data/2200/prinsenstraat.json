@@ -1,20 +1,18 @@
 {
-  "pcode": 2200, 
   "addresses": [
     {
-      "lat": 51.13915633204479, 
       "housenumber": "3", 
+      "lat": 51.13915633204479, 
+      "lon": 4.836746854567915, 
       "pcode": 2200, 
-      "street": "Prinsenstraat", 
-      "lon": 4.836746854567915
+      "street": "Prinsenstraat"
     }, 
     {
-      "lat": 51.138799977887665, 
       "housenumber": "6", 
+      "lat": 51.138799977887665, 
+      "lon": 4.8365975372562255, 
       "pcode": 2200, 
-      "street": "Prinsenstraat", 
-      "lon": 4.8365975372562255
+      "street": "Prinsenstraat"
     }
-  ], 
-  "name": "Prinsenstraat"
+  ]
 }

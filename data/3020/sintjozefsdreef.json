@@ -1,39 +1,37 @@
 {
-  "pcode": 3020, 
   "addresses": [
     {
-      "lat": 50.90663361982668, 
       "housenumber": "1", 
+      "lat": 50.90663361982668, 
+      "lon": 4.680858204499292, 
       "pcode": 3020, 
-      "street": "Sint-Jozefsdreef", 
-      "lon": 4.680858204499292
+      "street": "Sint-Jozefsdreef"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 3020, 
-      "street": "Sint-Jozefsdreef", 
-      "housenumber": "1A"
+      "street": "Sint-Jozefsdreef"
     }, 
     {
-      "lat": 50.90764654648642, 
       "housenumber": "2", 
+      "lat": 50.90764654648642, 
+      "lon": 4.680318844170785, 
       "pcode": 3020, 
-      "street": "Sint-Jozefsdreef", 
-      "lon": 4.680318844170785
+      "street": "Sint-Jozefsdreef"
     }, 
     {
-      "lat": 50.90764918294487, 
       "housenumber": "3", 
+      "lat": 50.90764918294487, 
+      "lon": 4.680679427518546, 
       "pcode": 3020, 
-      "street": "Sint-Jozefsdreef", 
-      "lon": 4.680679427518546
+      "street": "Sint-Jozefsdreef"
     }, 
     {
-      "lat": 50.90780021416748, 
       "housenumber": "7", 
+      "lat": 50.90780021416748, 
+      "lon": 4.6810473982983485, 
       "pcode": 3020, 
-      "street": "Sint-Jozefsdreef", 
-      "lon": 4.6810473982983485
+      "street": "Sint-Jozefsdreef"
     }
-  ], 
-  "name": "Sint-Jozefsdreef"
+  ]
 }

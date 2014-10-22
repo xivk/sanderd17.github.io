@@ -1,44 +1,42 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
+      "housenumber": "50", 
       "pcode": 1800, 
-      "street": "Fabrieksstraat", 
-      "housenumber": "50"
+      "street": "Fabrieksstraat"
     }, 
     {
+      "housenumber": "52", 
       "pcode": 1800, 
-      "street": "Fabrieksstraat", 
-      "housenumber": "52"
+      "street": "Fabrieksstraat"
     }, 
     {
-      "lat": 50.925425249560405, 
       "housenumber": "54", 
+      "lat": 50.925425249560405, 
+      "lon": 4.437520537040508, 
       "pcode": 1800, 
-      "street": "Fabrieksstraat", 
-      "lon": 4.437520537040508
+      "street": "Fabrieksstraat"
     }, 
     {
-      "lat": 50.925535956349336, 
       "housenumber": "54C", 
+      "lat": 50.925535956349336, 
+      "lon": 4.43713354554045, 
       "pcode": 1800, 
-      "street": "Fabrieksstraat", 
-      "lon": 4.43713354554045
+      "street": "Fabrieksstraat"
     }, 
     {
-      "lat": 50.92603887774764, 
       "housenumber": "79", 
+      "lat": 50.92603887774764, 
+      "lon": 4.437490296145838, 
       "pcode": 1800, 
-      "street": "Fabrieksstraat", 
-      "lon": 4.437490296145838
+      "street": "Fabrieksstraat"
     }, 
     {
-      "lat": 50.92564194945047, 
       "housenumber": "85", 
+      "lat": 50.92564194945047, 
+      "lon": 4.439375139866985, 
       "pcode": 1800, 
-      "street": "Fabrieksstraat", 
-      "lon": 4.439375139866985
+      "street": "Fabrieksstraat"
     }
-  ], 
-  "name": "Fabrieksstraat"
+  ]
 }

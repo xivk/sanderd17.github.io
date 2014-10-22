@@ -1,32 +1,30 @@
 {
-  "pcode": 8870, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8870, 
-      "street": "Wolvestraat", 
-      "housenumber": "1"
+      "street": "Wolvestraat"
     }, 
     {
-      "lat": 50.92059379093216, 
       "housenumber": "2", 
+      "lat": 50.92059379093216, 
+      "lon": 3.215164430930084, 
       "pcode": 8870, 
-      "street": "Wolvestraat", 
-      "lon": 3.215164430930084
+      "street": "Wolvestraat"
     }, 
     {
-      "lat": 50.92074565771604, 
       "housenumber": "4", 
+      "lat": 50.92074565771604, 
+      "lon": 3.2153312392710274, 
       "pcode": 8870, 
-      "street": "Wolvestraat", 
-      "lon": 3.2153312392710274
+      "street": "Wolvestraat"
     }, 
     {
-      "lat": 50.920711644574176, 
       "housenumber": "6", 
+      "lat": 50.920711644574176, 
+      "lon": 3.2155481288195964, 
       "pcode": 8870, 
-      "street": "Wolvestraat", 
-      "lon": 3.2155481288195964
+      "street": "Wolvestraat"
     }
-  ], 
-  "name": "Wolvestraat"
+  ]
 }

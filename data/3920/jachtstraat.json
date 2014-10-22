@@ -1,20 +1,18 @@
 {
-  "pcode": 3920, 
   "addresses": [
     {
-      "lat": 51.22346563890832, 
       "housenumber": "11", 
+      "lat": 51.22346563890832, 
+      "lon": 5.227258600362183, 
       "pcode": 3920, 
-      "street": "Jachtstraat", 
-      "lon": 5.227258600362183
+      "street": "Jachtstraat"
     }, 
     {
-      "lat": 51.22338584510965, 
       "housenumber": "8", 
+      "lat": 51.22338584510965, 
+      "lon": 5.226722607807734, 
       "pcode": 3920, 
-      "street": "Jachtstraat", 
-      "lon": 5.226722607807734
+      "street": "Jachtstraat"
     }
-  ], 
-  "name": "Jachtstraat"
+  ]
 }

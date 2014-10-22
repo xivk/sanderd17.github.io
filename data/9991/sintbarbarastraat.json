@@ -1,20 +1,18 @@
 {
-  "pcode": 9991, 
   "addresses": [
     {
-      "lat": 51.20223285538779, 
       "housenumber": "34", 
+      "lat": 51.20223285538779, 
+      "lon": 3.4679285386379632, 
       "pcode": 9991, 
-      "street": "Sint Barbarastraat", 
-      "lon": 3.4679285386379632
+      "street": "Sint Barbarastraat"
     }, 
     {
-      "lat": 51.201893484094015, 
       "housenumber": "36", 
+      "lat": 51.201893484094015, 
+      "lon": 3.4677354840273553, 
       "pcode": 9991, 
-      "street": "Sint Barbarastraat", 
-      "lon": 3.4677354840273553
+      "street": "Sint Barbarastraat"
     }
-  ], 
-  "name": "Sint Barbarastraat"
+  ]
 }

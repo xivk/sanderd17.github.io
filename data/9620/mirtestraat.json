@@ -1,30 +1,28 @@
 {
-  "pcode": 9620, 
   "addresses": [
     {
-      "lat": 50.8621693129651, 
       "housenumber": "3", 
+      "lat": 50.8621693129651, 
+      "lon": 3.8205287236549945, 
       "pcode": 9620, 
-      "street": "Mirtestraat", 
-      "lon": 3.8205287236549945
+      "street": "Mirtestraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9620, 
-      "street": "Mirtestraat", 
-      "housenumber": "5"
+      "street": "Mirtestraat"
     }, 
     {
-      "lat": 50.86226629788404, 
       "housenumber": "7", 
+      "lat": 50.86226629788404, 
+      "lon": 3.8206605470328703, 
       "pcode": 9620, 
-      "street": "Mirtestraat", 
-      "lon": 3.8206605470328703
+      "street": "Mirtestraat"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 9620, 
-      "street": "Mirtestraat", 
-      "housenumber": "9"
+      "street": "Mirtestraat"
     }
-  ], 
-  "name": "Mirtestraat"
+  ]
 }

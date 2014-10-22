@@ -1,25 +1,23 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.22860303771366, 
       "housenumber": "1", 
+      "lat": 51.22860303771366, 
+      "lon": 4.404750037208126, 
       "pcode": 2000, 
-      "street": "Hanzestedenplaats", 
-      "lon": 4.404750037208126
+      "street": "Hanzestedenplaats"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2000, 
-      "street": "Hanzestedenplaats", 
-      "housenumber": "3"
+      "street": "Hanzestedenplaats"
     }, 
     {
-      "lat": 51.22867827932523, 
       "housenumber": "5", 
+      "lat": 51.22867827932523, 
+      "lon": 4.404720892459365, 
       "pcode": 2000, 
-      "street": "Hanzestedenplaats", 
-      "lon": 4.404720892459365
+      "street": "Hanzestedenplaats"
     }
-  ], 
-  "name": "Hanzestedenplaats"
+  ]
 }

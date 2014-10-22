@@ -1,20 +1,18 @@
 {
-  "pcode": 2222, 
   "addresses": [
     {
-      "lat": 51.106490230304246, 
       "housenumber": "1", 
+      "lat": 51.106490230304246, 
+      "lon": 4.729784848314493, 
       "pcode": 2222, 
-      "street": "Smisweg", 
-      "lon": 4.729784848314493
+      "street": "Smisweg"
     }, 
     {
-      "lat": 51.10661641175558, 
       "housenumber": "3", 
+      "lat": 51.10661641175558, 
+      "lon": 4.730055830326038, 
       "pcode": 2222, 
-      "street": "Smisweg", 
-      "lon": 4.730055830326038
+      "street": "Smisweg"
     }
-  ], 
-  "name": "Smisweg"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3940, 
   "addresses": [
     {
-      "lat": 51.15056092038568, 
       "housenumber": "3", 
+      "lat": 51.15056092038568, 
+      "lon": 5.381210651889783, 
       "pcode": 3940, 
-      "street": "Borgveld", 
-      "lon": 5.381210651889783
+      "street": "Borgveld"
     }, 
     {
-      "lat": 51.1505555713396, 
       "housenumber": "5", 
+      "lat": 51.1505555713396, 
+      "lon": 5.3811530777813195, 
       "pcode": 3940, 
-      "street": "Borgveld", 
-      "lon": 5.3811530777813195
+      "street": "Borgveld"
     }
-  ], 
-  "name": "Borgveld"
+  ]
 }

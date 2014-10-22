@@ -1,27 +1,25 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.917845010429765, 
       "housenumber": "1", 
+      "lat": 50.917845010429765, 
+      "lon": 3.1446376782880874, 
       "pcode": 8800, 
-      "street": "Steenovenstraat", 
-      "lon": 3.1446376782880874
+      "street": "Steenovenstraat"
     }, 
     {
-      "lat": 50.917866932355125, 
       "housenumber": "14", 
+      "lat": 50.917866932355125, 
+      "lon": 3.142454475885905, 
       "pcode": 8800, 
-      "street": "Steenovenstraat", 
-      "lon": 3.142454475885905
+      "street": "Steenovenstraat"
     }, 
     {
-      "lat": 50.91814643732725, 
       "housenumber": "2", 
+      "lat": 50.91814643732725, 
+      "lon": 3.144514330810287, 
       "pcode": 8800, 
-      "street": "Steenovenstraat", 
-      "lon": 3.144514330810287
+      "street": "Steenovenstraat"
     }
-  ], 
-  "name": "Steenovenstraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.907758053655606, 
       "housenumber": "2", 
+      "lat": 50.907758053655606, 
+      "lon": 3.1035363100643996, 
       "pcode": 8800, 
-      "street": "Valkeniersstraat", 
-      "lon": 3.1035363100643996
+      "street": "Valkeniersstraat"
     }, 
     {
-      "lat": 50.907320291996584, 
       "housenumber": "4", 
+      "lat": 50.907320291996584, 
+      "lon": 3.1037695036970883, 
       "pcode": 8800, 
-      "street": "Valkeniersstraat", 
-      "lon": 3.1037695036970883
+      "street": "Valkeniersstraat"
     }, 
     {
-      "lat": 50.90670773181177, 
       "housenumber": "6", 
+      "lat": 50.90670773181177, 
+      "lon": 3.1048196203002614, 
       "pcode": 8800, 
-      "street": "Valkeniersstraat", 
-      "lon": 3.1048196203002614
+      "street": "Valkeniersstraat"
     }
-  ], 
-  "name": "Valkeniersstraat"
+  ]
 }

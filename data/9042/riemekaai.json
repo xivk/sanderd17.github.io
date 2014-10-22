@@ -1,20 +1,18 @@
 {
-  "pcode": 9042, 
   "addresses": [
     {
-      "lat": 51.172793424964325, 
       "housenumber": "75", 
+      "lat": 51.172793424964325, 
+      "lon": 3.792913994435789, 
       "pcode": 9042, 
-      "street": "Riemekaai", 
-      "lon": 3.792913994435789
+      "street": "Riemekaai"
     }, 
     {
-      "lat": 51.17780490088229, 
       "housenumber": "8", 
+      "lat": 51.17780490088229, 
+      "lon": 3.795140314876324, 
       "pcode": 9042, 
-      "street": "Riemekaai", 
-      "lon": 3.795140314876324
+      "street": "Riemekaai"
     }
-  ], 
-  "name": "Riemekaai"
+  ]
 }

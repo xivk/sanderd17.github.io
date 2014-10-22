@@ -1,20 +1,18 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 50.95197519846648, 
       "housenumber": "2", 
+      "lat": 50.95197519846648, 
+      "lon": 3.430170809103242, 
       "pcode": 9800, 
-      "street": "Voetpad", 
-      "lon": 3.430170809103242
+      "street": "Voetpad"
     }, 
     {
-      "lat": 50.95225424388992, 
       "housenumber": "4", 
+      "lat": 50.95225424388992, 
+      "lon": 3.4309256672559356, 
       "pcode": 9800, 
-      "street": "Voetpad", 
-      "lon": 3.4309256672559356
+      "street": "Voetpad"
     }
-  ], 
-  "name": "Voetpad"
+  ]
 }

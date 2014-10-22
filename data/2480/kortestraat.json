@@ -1,20 +1,18 @@
 {
-  "pcode": 2480, 
   "addresses": [
     {
-      "lat": 51.251711465049056, 
       "housenumber": "1", 
+      "lat": 51.251711465049056, 
+      "lon": 5.119453737468688, 
       "pcode": 2480, 
-      "street": "Kortestraat", 
-      "lon": 5.119453737468688
+      "street": "Kortestraat"
     }, 
     {
-      "lat": 51.25187147531516, 
       "housenumber": "3", 
+      "lat": 51.25187147531516, 
+      "lon": 5.119536959258009, 
       "pcode": 2480, 
-      "street": "Kortestraat", 
-      "lon": 5.119536959258009
+      "street": "Kortestraat"
     }
-  ], 
-  "name": "Kortestraat"
+  ]
 }

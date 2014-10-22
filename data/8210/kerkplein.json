@@ -1,46 +1,44 @@
 {
-  "pcode": 8210, 
   "addresses": [
     {
-      "lat": 51.14270900740022, 
       "housenumber": "1", 
+      "lat": 51.14270900740022, 
+      "lon": 3.1353828739618193, 
       "pcode": 8210, 
-      "street": "Kerkplein", 
-      "lon": 3.1353828739618193
+      "street": "Kerkplein"
     }, 
     {
-      "lat": 51.142866017168, 
       "housenumber": "2", 
+      "lat": 51.142866017168, 
+      "lon": 3.135197944455344, 
       "pcode": 8210, 
-      "street": "Kerkplein", 
-      "lon": 3.135197944455344
+      "street": "Kerkplein"
     }, 
     {
-      "lat": 51.142923420387845, 
       "housenumber": "2A", 
+      "lat": 51.142923420387845, 
+      "lon": 3.1354090845053313, 
       "pcode": 8210, 
-      "street": "Kerkplein", 
-      "lon": 3.1354090845053313
+      "street": "Kerkplein"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8210, 
-      "street": "Kerkplein", 
-      "housenumber": "3"
+      "street": "Kerkplein"
     }, 
     {
-      "lat": 51.14299465140401, 
       "housenumber": "4", 
+      "lat": 51.14299465140401, 
+      "lon": 3.1344655455656363, 
       "pcode": 8210, 
-      "street": "Kerkplein", 
-      "lon": 3.1344655455656363
+      "street": "Kerkplein"
     }, 
     {
-      "lat": 51.14320626150035, 
       "housenumber": "5", 
+      "lat": 51.14320626150035, 
+      "lon": 3.1359705616135267, 
       "pcode": 8210, 
-      "street": "Kerkplein", 
-      "lon": 3.1359705616135267
+      "street": "Kerkplein"
     }
-  ], 
-  "name": "Kerkplein"
+  ]
 }

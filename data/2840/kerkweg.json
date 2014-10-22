@@ -1,27 +1,25 @@
 {
-  "pcode": 2840, 
   "addresses": [
     {
-      "lat": 51.10885384412335, 
       "housenumber": "1", 
+      "lat": 51.10885384412335, 
+      "lon": 4.389977827285782, 
       "pcode": 2840, 
-      "street": "Kerkweg", 
-      "lon": 4.389977827285782
+      "street": "Kerkweg"
     }, 
     {
-      "lat": 51.109105357542155, 
       "housenumber": "2", 
+      "lat": 51.109105357542155, 
+      "lon": 4.3904151696124405, 
       "pcode": 2840, 
-      "street": "Kerkweg", 
-      "lon": 4.3904151696124405
+      "street": "Kerkweg"
     }, 
     {
-      "lat": 51.10912410294854, 
       "housenumber": "4", 
+      "lat": 51.10912410294854, 
+      "lon": 4.3901562993691385, 
       "pcode": 2840, 
-      "street": "Kerkweg", 
-      "lon": 4.3901562993691385
+      "street": "Kerkweg"
     }
-  ], 
-  "name": "Kerkweg"
+  ]
 }

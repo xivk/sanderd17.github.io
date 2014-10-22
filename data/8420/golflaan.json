@@ -1,20 +1,18 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
-      "lat": 51.266544924387865, 
       "housenumber": "2", 
+      "lat": 51.266544924387865, 
+      "lon": 3.018396178373173, 
       "pcode": 8420, 
-      "street": "Golflaan", 
-      "lon": 3.018396178373173
+      "street": "Golflaan"
     }, 
     {
-      "lat": 51.2667239745535, 
       "housenumber": "2A", 
+      "lat": 51.2667239745535, 
+      "lon": 3.0179762875734175, 
       "pcode": 8420, 
-      "street": "Golflaan", 
-      "lon": 3.0179762875734175
+      "street": "Golflaan"
     }
-  ], 
-  "name": "Golflaan"
+  ]
 }

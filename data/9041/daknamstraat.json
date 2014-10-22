@@ -1,32 +1,30 @@
 {
-  "pcode": 9041, 
   "addresses": [
     {
-      "lat": 51.092554641042355, 
       "housenumber": "1", 
+      "lat": 51.092554641042355, 
+      "lon": 3.774853898478128, 
       "pcode": 9041, 
-      "street": "Daknamstraat", 
-      "lon": 3.774853898478128
+      "street": "Daknamstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9041, 
-      "street": "Daknamstraat", 
-      "housenumber": "2"
+      "street": "Daknamstraat"
     }, 
     {
-      "lat": 51.09276079648754, 
       "housenumber": "3", 
+      "lat": 51.09276079648754, 
+      "lon": 3.7746822728057428, 
       "pcode": 9041, 
-      "street": "Daknamstraat", 
-      "lon": 3.7746822728057428
+      "street": "Daknamstraat"
     }, 
     {
-      "lat": 51.092939939885014, 
       "housenumber": "5", 
+      "lat": 51.092939939885014, 
+      "lon": 3.774555382413882, 
       "pcode": 9041, 
-      "street": "Daknamstraat", 
-      "lon": 3.774555382413882
+      "street": "Daknamstraat"
     }
-  ], 
-  "name": "Daknamstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3040, 
   "addresses": [
     {
-      "lat": 50.79999907776149, 
       "housenumber": "2", 
+      "lat": 50.79999907776149, 
+      "lon": 4.579888563580477, 
       "pcode": 3040, 
-      "street": "Veldweg", 
-      "lon": 4.579888563580477
+      "street": "Veldweg"
     }, 
     {
-      "lat": 50.799852926955964, 
       "housenumber": "4", 
+      "lat": 50.799852926955964, 
+      "lon": 4.580323960439939, 
       "pcode": 3040, 
-      "street": "Veldweg", 
-      "lon": 4.580323960439939
+      "street": "Veldweg"
     }
-  ], 
-  "name": "Veldweg"
+  ]
 }

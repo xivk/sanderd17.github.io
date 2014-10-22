@@ -1,18 +1,16 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.24383852509064, 
       "housenumber": "1", 
+      "lat": 51.24383852509064, 
+      "lon": 4.411165652411335, 
       "pcode": 2030, 
-      "street": "Malachietstraat", 
-      "lon": 4.411165652411335
+      "street": "Malachietstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2030, 
-      "street": "Malachietstraat", 
-      "housenumber": "2"
+      "street": "Malachietstraat"
     }
-  ], 
-  "name": "Malachietstraat"
+  ]
 }

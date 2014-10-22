@@ -1,63 +1,61 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.21068507800579, 
       "housenumber": "10", 
+      "lat": 51.21068507800579, 
+      "lon": 3.23468296880605, 
       "pcode": 8000, 
-      "street": "Kersenboomstraat", 
-      "lon": 3.23468296880605
+      "street": "Kersenboomstraat"
     }, 
     {
-      "lat": 51.21047800482544, 
       "housenumber": "2", 
+      "lat": 51.21047800482544, 
+      "lon": 3.2349407468160383, 
       "pcode": 8000, 
-      "street": "Kersenboomstraat", 
-      "lon": 3.2349407468160383
+      "street": "Kersenboomstraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 8000, 
-      "street": "Kersenboomstraat", 
-      "housenumber": "2A"
+      "street": "Kersenboomstraat"
     }, 
     {
-      "lat": 51.21056004472185, 
       "housenumber": "2B", 
+      "lat": 51.21056004472185, 
+      "lon": 3.234862185452258, 
       "pcode": 8000, 
-      "street": "Kersenboomstraat", 
-      "lon": 3.234862185452258
+      "street": "Kersenboomstraat"
     }, 
     {
-      "lat": 51.210591082819924, 
       "housenumber": "4", 
+      "lat": 51.210591082819924, 
+      "lon": 3.234827226084745, 
       "pcode": 8000, 
-      "street": "Kersenboomstraat", 
-      "lon": 3.234827226084745
+      "street": "Kersenboomstraat"
     }, 
     {
-      "lat": 51.210617268429935, 
       "housenumber": "6", 
+      "lat": 51.210617268429935, 
+      "lon": 3.2347830819244066, 
       "pcode": 8000, 
-      "street": "Kersenboomstraat", 
-      "lon": 3.2347830819244066
+      "street": "Kersenboomstraat"
     }, 
     {
+      "housenumber": "6A", 
       "pcode": 8000, 
-      "street": "Kersenboomstraat", 
-      "housenumber": "6A"
+      "street": "Kersenboomstraat"
     }, 
     {
-      "lat": 51.21063928141763, 
       "housenumber": "8", 
+      "lat": 51.21063928141763, 
+      "lon": 3.2347350318129666, 
       "pcode": 8000, 
-      "street": "Kersenboomstraat", 
-      "lon": 3.2347350318129666
+      "street": "Kersenboomstraat"
     }, 
     {
+      "housenumber": "8A", 
       "pcode": 8000, 
-      "street": "Kersenboomstraat", 
-      "housenumber": "8A"
+      "street": "Kersenboomstraat"
     }
-  ], 
-  "name": "Kersenboomstraat"
+  ]
 }

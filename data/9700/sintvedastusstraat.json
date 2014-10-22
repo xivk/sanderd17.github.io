@@ -1,20 +1,18 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.86765974397173, 
       "housenumber": "1", 
+      "lat": 50.86765974397173, 
+      "lon": 3.6325399630586928, 
       "pcode": 9700, 
-      "street": "Sint-Vedastusstraat", 
-      "lon": 3.6325399630586928
+      "street": "Sint-Vedastusstraat"
     }, 
     {
-      "lat": 50.86745875722915, 
       "housenumber": "2", 
+      "lat": 50.86745875722915, 
+      "lon": 3.6329746969173167, 
       "pcode": 9700, 
-      "street": "Sint-Vedastusstraat", 
-      "lon": 3.6329746969173167
+      "street": "Sint-Vedastusstraat"
     }
-  ], 
-  "name": "Sint-Vedastusstraat"
+  ]
 }

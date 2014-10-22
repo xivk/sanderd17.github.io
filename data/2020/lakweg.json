@@ -1,39 +1,37 @@
 {
-  "pcode": 2020, 
   "addresses": [
     {
-      "lat": 51.196614937674404, 
       "housenumber": "16", 
+      "lat": 51.196614937674404, 
+      "lon": 4.358014772355683, 
       "pcode": 2020, 
-      "street": "Lakweg", 
-      "lon": 4.358014772355683
+      "street": "Lakweg"
     }, 
     {
+      "housenumber": "20", 
       "pcode": 2020, 
-      "street": "Lakweg", 
-      "housenumber": "20"
+      "street": "Lakweg"
     }, 
     {
-      "lat": 51.1923982154155, 
       "housenumber": "21", 
+      "lat": 51.1923982154155, 
+      "lon": 4.358529069932489, 
       "pcode": 2020, 
-      "street": "Lakweg", 
-      "lon": 4.358529069932489
+      "street": "Lakweg"
     }, 
     {
-      "lat": 51.195285107208356, 
       "housenumber": "23", 
+      "lat": 51.195285107208356, 
+      "lon": 4.355359829379847, 
       "pcode": 2020, 
-      "street": "Lakweg", 
-      "lon": 4.355359829379847
+      "street": "Lakweg"
     }, 
     {
-      "lat": 51.195255968621666, 
       "housenumber": "25", 
+      "lat": 51.195255968621666, 
+      "lon": 4.355212491561845, 
       "pcode": 2020, 
-      "street": "Lakweg", 
-      "lon": 4.355212491561845
+      "street": "Lakweg"
     }
-  ], 
-  "name": "Lakweg"
+  ]
 }

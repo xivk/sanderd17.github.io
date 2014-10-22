@@ -1,20 +1,18 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.248237805042194, 
       "housenumber": "15", 
+      "lat": 51.248237805042194, 
+      "lon": 4.396429421054786, 
       "pcode": 2030, 
-      "street": "Haminastraat", 
-      "lon": 4.396429421054786
+      "street": "Haminastraat"
     }, 
     {
-      "lat": 51.24995815067339, 
       "housenumber": "4", 
+      "lat": 51.24995815067339, 
+      "lon": 4.398643679024574, 
       "pcode": 2030, 
-      "street": "Haminastraat", 
-      "lon": 4.398643679024574
+      "street": "Haminastraat"
     }
-  ], 
-  "name": "Haminastraat"
+  ]
 }

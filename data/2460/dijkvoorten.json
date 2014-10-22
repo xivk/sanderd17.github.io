@@ -1,20 +1,18 @@
 {
-  "pcode": 2460, 
   "addresses": [
     {
-      "lat": 51.25528432754021, 
       "housenumber": "1", 
+      "lat": 51.25528432754021, 
+      "lon": 4.982386555884383, 
       "pcode": 2460, 
-      "street": "Dijkvoorten", 
-      "lon": 4.982386555884383
+      "street": "Dijkvoorten"
     }, 
     {
-      "lat": 51.25678187923576, 
       "housenumber": "3", 
+      "lat": 51.25678187923576, 
+      "lon": 4.981821420870909, 
       "pcode": 2460, 
-      "street": "Dijkvoorten", 
-      "lon": 4.981821420870909
+      "street": "Dijkvoorten"
     }
-  ], 
-  "name": "Dijkvoorten"
+  ]
 }

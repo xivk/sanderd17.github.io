@@ -1,42 +1,40 @@
 {
-  "pcode": 3220, 
   "addresses": [
     {
+      "housenumber": "1A", 
       "pcode": 3220, 
-      "street": "Burgemeestersstraat", 
-      "housenumber": "1A"
+      "street": "Burgemeestersstraat"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 3220, 
-      "street": "Burgemeestersstraat", 
-      "housenumber": "1B"
+      "street": "Burgemeestersstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3220, 
-      "street": "Burgemeestersstraat", 
-      "housenumber": "3"
+      "street": "Burgemeestersstraat"
     }, 
     {
-      "lat": 50.92031757606569, 
       "housenumber": "5", 
+      "lat": 50.92031757606569, 
+      "lon": 4.7563244770665865, 
       "pcode": 3220, 
-      "street": "Burgemeestersstraat", 
-      "lon": 4.7563244770665865
+      "street": "Burgemeestersstraat"
     }, 
     {
-      "lat": 50.920464548859236, 
       "housenumber": "7", 
+      "lat": 50.920464548859236, 
+      "lon": 4.756298671419318, 
       "pcode": 3220, 
-      "street": "Burgemeestersstraat", 
-      "lon": 4.756298671419318
+      "street": "Burgemeestersstraat"
     }, 
     {
-      "lat": 50.92051239805605, 
       "housenumber": "9", 
+      "lat": 50.92051239805605, 
+      "lon": 4.756263797022022, 
       "pcode": 3220, 
-      "street": "Burgemeestersstraat", 
-      "lon": 4.756263797022022
+      "street": "Burgemeestersstraat"
     }
-  ], 
-  "name": "Burgemeestersstraat"
+  ]
 }

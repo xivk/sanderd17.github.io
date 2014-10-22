@@ -1,39 +1,37 @@
 {
-  "pcode": 3680, 
   "addresses": [
     {
-      "lat": 51.09468824937431, 
       "housenumber": "10", 
+      "lat": 51.09468824937431, 
+      "lon": 5.753837179182165, 
       "pcode": 3680, 
-      "street": "Wurfelderbroekweg", 
-      "lon": 5.753837179182165
+      "street": "Wurfelderbroekweg"
     }, 
     {
+      "housenumber": "10K", 
       "pcode": 3680, 
-      "street": "Wurfelderbroekweg", 
-      "housenumber": "10K"
+      "street": "Wurfelderbroekweg"
     }, 
     {
-      "lat": 51.09511349197586, 
       "housenumber": "12", 
+      "lat": 51.09511349197586, 
+      "lon": 5.753745560180171, 
       "pcode": 3680, 
-      "street": "Wurfelderbroekweg", 
-      "lon": 5.753745560180171
+      "street": "Wurfelderbroekweg"
     }, 
     {
-      "lat": 51.09343377992966, 
       "housenumber": "2", 
+      "lat": 51.09343377992966, 
+      "lon": 5.754850050390593, 
       "pcode": 3680, 
-      "street": "Wurfelderbroekweg", 
-      "lon": 5.754850050390593
+      "street": "Wurfelderbroekweg"
     }, 
     {
-      "lat": 51.094242608648734, 
       "housenumber": "7", 
+      "lat": 51.094242608648734, 
+      "lon": 5.753438348320051, 
       "pcode": 3680, 
-      "street": "Wurfelderbroekweg", 
-      "lon": 5.753438348320051
+      "street": "Wurfelderbroekweg"
     }
-  ], 
-  "name": "Wurfelderbroekweg"
+  ]
 }

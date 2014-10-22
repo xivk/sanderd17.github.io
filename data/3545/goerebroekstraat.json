@@ -1,18 +1,16 @@
 {
-  "pcode": 3545, 
   "addresses": [
     {
-      "lat": 50.97349041700932, 
       "housenumber": "2", 
+      "lat": 50.97349041700932, 
+      "lon": 5.112502705660768, 
       "pcode": 3545, 
-      "street": "Goerebroekstraat", 
-      "lon": 5.112502705660768
+      "street": "Goerebroekstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3545, 
-      "street": "Goerebroekstraat", 
-      "housenumber": "3"
+      "street": "Goerebroekstraat"
     }
-  ], 
-  "name": "Goerebroekstraat"
+  ]
 }

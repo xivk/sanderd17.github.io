@@ -1,20 +1,18 @@
 {
-  "pcode": 3803, 
   "addresses": [
     {
-      "lat": 50.822497309235345, 
       "housenumber": "3", 
+      "lat": 50.822497309235345, 
+      "lon": 5.135096719903584, 
       "pcode": 3803, 
-      "street": "Hallestraat", 
-      "lon": 5.135096719903584
+      "street": "Hallestraat"
     }, 
     {
-      "lat": 50.82228056519658, 
       "housenumber": "5", 
+      "lat": 50.82228056519658, 
+      "lon": 5.134820968684896, 
       "pcode": 3803, 
-      "street": "Hallestraat", 
-      "lon": 5.134820968684896
+      "street": "Hallestraat"
     }
-  ], 
-  "name": "Hallestraat"
+  ]
 }

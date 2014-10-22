@@ -1,30 +1,28 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8000, 
-      "street": "Lendestraat", 
-      "housenumber": "1"
+      "street": "Lendestraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8000, 
-      "street": "Lendestraat", 
-      "housenumber": "2"
+      "street": "Lendestraat"
     }, 
     {
-      "lat": 51.205179297973544, 
       "housenumber": "4", 
+      "lat": 51.205179297973544, 
+      "lon": 3.220467548722947, 
       "pcode": 8000, 
-      "street": "Lendestraat", 
-      "lon": 3.220467548722947
+      "street": "Lendestraat"
     }, 
     {
-      "lat": 51.20508682545664, 
       "housenumber": "6", 
+      "lat": 51.20508682545664, 
+      "lon": 3.220544666032657, 
       "pcode": 8000, 
-      "street": "Lendestraat", 
-      "lon": 3.220544666032657
+      "street": "Lendestraat"
     }
-  ], 
-  "name": "Lendestraat"
+  ]
 }

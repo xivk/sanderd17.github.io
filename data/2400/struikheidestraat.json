@@ -1,20 +1,18 @@
 {
-  "pcode": 2400, 
   "addresses": [
     {
-      "lat": 51.20491312342985, 
       "housenumber": "6", 
+      "lat": 51.20491312342985, 
+      "lon": 5.1166254399752615, 
       "pcode": 2400, 
-      "street": "Struikheidestraat", 
-      "lon": 5.1166254399752615
+      "street": "Struikheidestraat"
     }, 
     {
-      "lat": 51.204906824516556, 
       "housenumber": "8", 
+      "lat": 51.204906824516556, 
+      "lon": 5.116697456739859, 
       "pcode": 2400, 
-      "street": "Struikheidestraat", 
-      "lon": 5.116697456739859
+      "street": "Struikheidestraat"
     }
-  ], 
-  "name": "Struikheidestraat"
+  ]
 }

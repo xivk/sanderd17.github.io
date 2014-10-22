@@ -1,18 +1,16 @@
 {
-  "pcode": 9820, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 9820, 
-      "street": "Kottem", 
-      "housenumber": "11"
+      "street": "Kottem"
     }, 
     {
-      "lat": 50.977777676776554, 
       "housenumber": "5", 
+      "lat": 50.977777676776554, 
+      "lon": 3.724673056048897, 
       "pcode": 9820, 
-      "street": "Kottem", 
-      "lon": 3.724673056048897
+      "street": "Kottem"
     }
-  ], 
-  "name": "Kottem"
+  ]
 }

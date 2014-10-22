@@ -1,38 +1,36 @@
 {
-  "pcode": 8301, 
   "addresses": [
     {
-      "lat": 51.33027381149398, 
       "housenumber": "1", 
+      "lat": 51.33027381149398, 
+      "lon": 3.2420105022407744, 
       "pcode": 8301, 
-      "street": "Kraaiennestplein", 
-      "lon": 3.2420105022407744
+      "street": "Kraaiennestplein"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 8301, 
-      "street": "Kraaiennestplein", 
-      "housenumber": "1A"
+      "street": "Kraaiennestplein"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 8301, 
-      "street": "Kraaiennestplein", 
-      "housenumber": "1B"
+      "street": "Kraaiennestplein"
     }, 
     {
+      "housenumber": "1C", 
       "pcode": 8301, 
-      "street": "Kraaiennestplein", 
-      "housenumber": "1C"
+      "street": "Kraaiennestplein"
     }, 
     {
+      "housenumber": "1D", 
       "pcode": 8301, 
-      "street": "Kraaiennestplein", 
-      "housenumber": "1D"
+      "street": "Kraaiennestplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8301, 
-      "street": "Kraaiennestplein", 
-      "housenumber": "2"
+      "street": "Kraaiennestplein"
     }
-  ], 
-  "name": "Kraaiennestplein"
+  ]
 }

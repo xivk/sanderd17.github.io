@@ -1,18 +1,16 @@
 {
-  "pcode": 8510, 
   "addresses": [
     {
-      "lat": 50.76258266286041, 
       "housenumber": "1", 
+      "lat": 50.76258266286041, 
+      "lon": 3.316038543095602, 
       "pcode": 8510, 
-      "street": "Rejettestraat", 
-      "lon": 3.316038543095602
+      "street": "Rejettestraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8510, 
-      "street": "Rejettestraat", 
-      "housenumber": "2"
+      "street": "Rejettestraat"
     }
-  ], 
-  "name": "Rejettestraat"
+  ]
 }

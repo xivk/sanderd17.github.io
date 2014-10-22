@@ -1,20 +1,18 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.91343641859639, 
       "housenumber": "20", 
+      "lat": 50.91343641859639, 
+      "lon": 3.110658373413463, 
       "pcode": 8800, 
-      "street": "Zilverstraat", 
-      "lon": 3.110658373413463
+      "street": "Zilverstraat"
     }, 
     {
-      "lat": 50.91222487261734, 
       "housenumber": "40", 
+      "lat": 50.91222487261734, 
+      "lon": 3.1087901662560684, 
       "pcode": 8800, 
-      "street": "Zilverstraat", 
-      "lon": 3.1087901662560684
+      "street": "Zilverstraat"
     }
-  ], 
-  "name": "Zilverstraat"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3000, 
-      "street": "Jozef Vounckplein", 
-      "housenumber": "1"
+      "street": "Jozef Vounckplein"
     }, 
     {
-      "lat": 50.878362694219426, 
       "housenumber": "2", 
+      "lat": 50.878362694219426, 
+      "lon": 4.702637844109753, 
       "pcode": 3000, 
-      "street": "Jozef Vounckplein", 
-      "lon": 4.702637844109753
+      "street": "Jozef Vounckplein"
     }, 
     {
-      "lat": 50.87840815434235, 
       "housenumber": "3", 
+      "lat": 50.87840815434235, 
+      "lon": 4.702394908732684, 
       "pcode": 3000, 
-      "street": "Jozef Vounckplein", 
-      "lon": 4.702394908732684
+      "street": "Jozef Vounckplein"
     }, 
     {
-      "lat": 50.878330946861496, 
       "housenumber": "4", 
+      "lat": 50.878330946861496, 
+      "lon": 4.702642875341084, 
       "pcode": 3000, 
-      "street": "Jozef Vounckplein", 
-      "lon": 4.702642875341084
+      "street": "Jozef Vounckplein"
     }
-  ], 
-  "name": "Jozef Vounckplein"
+  ]
 }

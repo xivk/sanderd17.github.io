@@ -1,20 +1,18 @@
 {
-  "pcode": 3400, 
   "addresses": [
     {
-      "lat": 50.75697883724686, 
       "housenumber": "3", 
+      "lat": 50.75697883724686, 
+      "lon": 5.078551503666745, 
       "pcode": 3400, 
-      "street": "Louis Gilletplein", 
-      "lon": 5.078551503666745
+      "street": "Louis Gilletplein"
     }, 
     {
-      "lat": 50.75703060619466, 
       "housenumber": "4", 
+      "lat": 50.75703060619466, 
+      "lon": 5.078494600721088, 
       "pcode": 3400, 
-      "street": "Louis Gilletplein", 
-      "lon": 5.078494600721088
+      "street": "Louis Gilletplein"
     }
-  ], 
-  "name": "Louis Gilletplein"
+  ]
 }

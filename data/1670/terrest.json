@@ -1,37 +1,35 @@
 {
-  "pcode": 1670, 
   "addresses": [
     {
-      "lat": 50.72250246043043, 
       "housenumber": "1", 
+      "lat": 50.72250246043043, 
+      "lon": 4.09093855045401, 
       "pcode": 1670, 
-      "street": "Terrest", 
-      "lon": 4.09093855045401
+      "street": "Terrest"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 1670, 
-      "street": "Terrest", 
-      "housenumber": "1A"
+      "street": "Terrest"
     }, 
     {
-      "lat": 50.725119223324796, 
       "housenumber": "2", 
+      "lat": 50.725119223324796, 
+      "lon": 4.087129656562281, 
       "pcode": 1670, 
-      "street": "Terrest", 
-      "lon": 4.087129656562281
+      "street": "Terrest"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 1670, 
-      "street": "Terrest", 
-      "housenumber": "2A"
+      "street": "Terrest"
     }, 
     {
-      "lat": 50.72229164527323, 
       "housenumber": "3", 
+      "lat": 50.72229164527323, 
+      "lon": 4.08142479496748, 
       "pcode": 1670, 
-      "street": "Terrest", 
-      "lon": 4.08142479496748
+      "street": "Terrest"
     }
-  ], 
-  "name": "Terrest"
+  ]
 }

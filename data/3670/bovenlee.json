@@ -1,39 +1,37 @@
 {
-  "pcode": 3670, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3670, 
-      "street": "Bovenlee", 
-      "housenumber": "10"
+      "street": "Bovenlee"
     }, 
     {
-      "lat": 51.071738928080386, 
       "housenumber": "2", 
+      "lat": 51.071738928080386, 
+      "lon": 5.634766205226079, 
       "pcode": 3670, 
-      "street": "Bovenlee", 
-      "lon": 5.634766205226079
+      "street": "Bovenlee"
     }, 
     {
-      "lat": 51.070800734164514, 
       "housenumber": "4", 
+      "lat": 51.070800734164514, 
+      "lon": 5.634287316472424, 
       "pcode": 3670, 
-      "street": "Bovenlee", 
-      "lon": 5.634287316472424
+      "street": "Bovenlee"
     }, 
     {
-      "lat": 51.07027353270381, 
       "housenumber": "6", 
+      "lat": 51.07027353270381, 
+      "lon": 5.635050006961111, 
       "pcode": 3670, 
-      "street": "Bovenlee", 
-      "lon": 5.635050006961111
+      "street": "Bovenlee"
     }, 
     {
-      "lat": 51.070028494741955, 
       "housenumber": "8", 
+      "lat": 51.070028494741955, 
+      "lon": 5.634854445824964, 
       "pcode": 3670, 
-      "street": "Bovenlee", 
-      "lon": 5.634854445824964
+      "street": "Bovenlee"
     }
-  ], 
-  "name": "Bovenlee"
+  ]
 }

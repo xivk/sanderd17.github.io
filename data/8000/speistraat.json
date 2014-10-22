@@ -1,39 +1,37 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.21999506874926, 
       "housenumber": "10", 
+      "lat": 51.21999506874926, 
+      "lon": 3.1777367274833117, 
       "pcode": 8000, 
-      "street": "Speistraat", 
-      "lon": 3.1777367274833117
+      "street": "Speistraat"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 8000, 
-      "street": "Speistraat", 
-      "housenumber": "11"
+      "street": "Speistraat"
     }, 
     {
-      "lat": 51.218872608031, 
       "housenumber": "4", 
+      "lat": 51.218872608031, 
+      "lon": 3.1767078275438796, 
       "pcode": 8000, 
-      "street": "Speistraat", 
-      "lon": 3.1767078275438796
+      "street": "Speistraat"
     }, 
     {
-      "lat": 51.21939384113228, 
       "housenumber": "6", 
+      "lat": 51.21939384113228, 
+      "lon": 3.176620502516686, 
       "pcode": 8000, 
-      "street": "Speistraat", 
-      "lon": 3.176620502516686
+      "street": "Speistraat"
     }, 
     {
-      "lat": 51.22148335598123, 
       "housenumber": "9", 
+      "lat": 51.22148335598123, 
+      "lon": 3.175753996874396, 
       "pcode": 8000, 
-      "street": "Speistraat", 
-      "lon": 3.175753996874396
+      "street": "Speistraat"
     }
-  ], 
-  "name": "Speistraat"
+  ]
 }

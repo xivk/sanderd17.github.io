@@ -1,37 +1,35 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3600, 
-      "street": "Kensheide", 
-      "housenumber": "1"
+      "street": "Kensheide"
     }, 
     {
-      "lat": 50.926519435550986, 
       "housenumber": "14", 
+      "lat": 50.926519435550986, 
+      "lon": 5.534133257354911, 
       "pcode": 3600, 
-      "street": "Kensheide", 
-      "lon": 5.534133257354911
+      "street": "Kensheide"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3600, 
-      "street": "Kensheide", 
-      "housenumber": "3"
+      "street": "Kensheide"
     }, 
     {
-      "lat": 50.92702702107114, 
       "housenumber": "4", 
+      "lat": 50.92702702107114, 
+      "lon": 5.532856766317109, 
       "pcode": 3600, 
-      "street": "Kensheide", 
-      "lon": 5.532856766317109
+      "street": "Kensheide"
     }, 
     {
-      "lat": 50.92698838426046, 
       "housenumber": "6", 
+      "lat": 50.92698838426046, 
+      "lon": 5.53319906558022, 
       "pcode": 3600, 
-      "street": "Kensheide", 
-      "lon": 5.53319906558022
+      "street": "Kensheide"
     }
-  ], 
-  "name": "Kensheide"
+  ]
 }

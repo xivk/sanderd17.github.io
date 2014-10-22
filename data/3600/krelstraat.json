@@ -1,39 +1,37 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3600, 
-      "street": "Krelstraat", 
-      "housenumber": "1"
+      "street": "Krelstraat"
     }, 
     {
-      "lat": 50.93677913798212, 
       "housenumber": "11", 
+      "lat": 50.93677913798212, 
+      "lon": 5.519203373963333, 
       "pcode": 3600, 
-      "street": "Krelstraat", 
-      "lon": 5.519203373963333
+      "street": "Krelstraat"
     }, 
     {
-      "lat": 50.937180950314975, 
       "housenumber": "12", 
+      "lat": 50.937180950314975, 
+      "lon": 5.518860368625494, 
       "pcode": 3600, 
-      "street": "Krelstraat", 
-      "lon": 5.518860368625494
+      "street": "Krelstraat"
     }, 
     {
-      "lat": 50.9367776339636, 
       "housenumber": "13", 
+      "lat": 50.9367776339636, 
+      "lon": 5.5188429341165675, 
       "pcode": 3600, 
-      "street": "Krelstraat", 
-      "lon": 5.5188429341165675
+      "street": "Krelstraat"
     }, 
     {
-      "lat": 50.9367803422539, 
       "housenumber": "15", 
+      "lat": 50.9367803422539, 
+      "lon": 5.518502090391179, 
       "pcode": 3600, 
-      "street": "Krelstraat", 
-      "lon": 5.518502090391179
+      "street": "Krelstraat"
     }
-  ], 
-  "name": "Krelstraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 1703, 
   "addresses": [
     {
-      "lat": 50.83902870488281, 
       "housenumber": "2", 
+      "lat": 50.83902870488281, 
+      "lon": 4.217534639547463, 
       "pcode": 1703, 
-      "street": "Ijsbergstraat", 
-      "lon": 4.217534639547463
+      "street": "Ijsbergstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 1703, 
-      "street": "Ijsbergstraat", 
-      "housenumber": "6"
+      "street": "Ijsbergstraat"
     }
-  ], 
-  "name": "Ijsbergstraat"
+  ]
 }

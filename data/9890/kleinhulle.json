@@ -1,30 +1,28 @@
 {
-  "pcode": 9890, 
   "addresses": [
     {
-      "lat": 50.93613079518473, 
       "housenumber": "3", 
+      "lat": 50.93613079518473, 
+      "lon": 3.7036300295889353, 
       "pcode": 9890, 
-      "street": "Kleinhulle", 
-      "lon": 3.7036300295889353
+      "street": "Kleinhulle"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9890, 
-      "street": "Kleinhulle", 
-      "housenumber": "4"
+      "street": "Kleinhulle"
     }, 
     {
-      "lat": 50.936944508483805, 
       "housenumber": "5", 
+      "lat": 50.936944508483805, 
+      "lon": 3.7041020886381326, 
       "pcode": 9890, 
-      "street": "Kleinhulle", 
-      "lon": 3.7041020886381326
+      "street": "Kleinhulle"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9890, 
-      "street": "Kleinhulle", 
-      "housenumber": "6"
+      "street": "Kleinhulle"
     }
-  ], 
-  "name": "Kleinhulle"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.913102420421374, 
       "housenumber": "1", 
+      "lat": 50.913102420421374, 
+      "lon": 5.2896571396632, 
       "pcode": 3500, 
-      "street": "Moersstraat", 
-      "lon": 5.2896571396632
+      "street": "Moersstraat"
     }, 
     {
-      "lat": 50.91324041416726, 
       "housenumber": "3", 
+      "lat": 50.91324041416726, 
+      "lon": 5.28978356789737, 
       "pcode": 3500, 
-      "street": "Moersstraat", 
-      "lon": 5.28978356789737
+      "street": "Moersstraat"
     }
-  ], 
-  "name": "Moersstraat"
+  ]
 }

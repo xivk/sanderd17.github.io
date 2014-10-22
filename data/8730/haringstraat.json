@@ -1,27 +1,25 @@
 {
-  "pcode": 8730, 
   "addresses": [
     {
-      "lat": 51.17152226259056, 
       "housenumber": "1", 
+      "lat": 51.17152226259056, 
+      "lon": 3.352184000482088, 
       "pcode": 8730, 
-      "street": "Haringstraat", 
-      "lon": 3.352184000482088
+      "street": "Haringstraat"
     }, 
     {
-      "lat": 51.17231041233539, 
       "housenumber": "2", 
+      "lat": 51.17231041233539, 
+      "lon": 3.3508528449722474, 
       "pcode": 8730, 
-      "street": "Haringstraat", 
-      "lon": 3.3508528449722474
+      "street": "Haringstraat"
     }, 
     {
-      "lat": 51.17184471479965, 
       "housenumber": "3", 
+      "lat": 51.17184471479965, 
+      "lon": 3.349783375607803, 
       "pcode": 8730, 
-      "street": "Haringstraat", 
-      "lon": 3.349783375607803
+      "street": "Haringstraat"
     }
-  ], 
-  "name": "Haringstraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 3950, 
   "addresses": [
     {
-      "lat": 51.18667460847857, 
       "housenumber": "18", 
+      "lat": 51.18667460847857, 
+      "lon": 5.515897899316071, 
       "pcode": 3950, 
-      "street": "Bosakkerstraat", 
-      "lon": 5.515897899316071
+      "street": "Bosakkerstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3950, 
-      "street": "Bosakkerstraat", 
-      "housenumber": "3"
+      "street": "Bosakkerstraat"
     }
-  ], 
-  "name": "Bosakkerstraat"
+  ]
 }

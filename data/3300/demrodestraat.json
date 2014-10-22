@@ -1,18 +1,16 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.76305727914945, 
       "housenumber": "14", 
+      "lat": 50.76305727914945, 
+      "lon": 4.946510669123429, 
       "pcode": 3300, 
-      "street": "de M\u0082rodestraat", 
-      "lon": 4.946510669123429
+      "street": "de M\u00e9rodestraat"
     }, 
     {
+      "housenumber": "16", 
       "pcode": 3300, 
-      "street": "de M\u0082rodestraat", 
-      "housenumber": "16"
+      "street": "de M\u00e9rodestraat"
     }
-  ], 
-  "name": "de M\u0082rodestraat"
+  ]
 }

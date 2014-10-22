@@ -1,32 +1,30 @@
 {
-  "pcode": 1860, 
   "addresses": [
     {
+      "housenumber": "21", 
       "pcode": 1860, 
-      "street": "Strooistraat", 
-      "housenumber": "21"
+      "street": "Strooistraat"
     }, 
     {
-      "lat": 50.93641566493868, 
       "housenumber": "23", 
+      "lat": 50.93641566493868, 
+      "lon": 4.302861183670188, 
       "pcode": 1860, 
-      "street": "Strooistraat", 
-      "lon": 4.302861183670188
+      "street": "Strooistraat"
     }, 
     {
-      "lat": 50.93595022778572, 
       "housenumber": "32A", 
+      "lat": 50.93595022778572, 
+      "lon": 4.304886951546759, 
       "pcode": 1860, 
-      "street": "Strooistraat", 
-      "lon": 4.304886951546759
+      "street": "Strooistraat"
     }, 
     {
-      "lat": 50.935374856749235, 
       "housenumber": "34A", 
+      "lat": 50.935374856749235, 
+      "lon": 4.305452363219111, 
       "pcode": 1860, 
-      "street": "Strooistraat", 
-      "lon": 4.305452363219111
+      "street": "Strooistraat"
     }
-  ], 
-  "name": "Strooistraat"
+  ]
 }

@@ -1,42 +1,40 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.219452330118614, 
       "housenumber": "1", 
+      "lat": 51.219452330118614, 
+      "lon": 4.405612914172392, 
       "pcode": 2000, 
-      "street": "Israelietenstraat", 
-      "lon": 4.405612914172392
+      "street": "Israelietenstraat"
     }, 
     {
+      "housenumber": "1_3", 
       "pcode": 2000, 
-      "street": "Israelietenstraat", 
-      "housenumber": "1_3"
+      "street": "Israelietenstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2000, 
-      "street": "Israelietenstraat", 
-      "housenumber": "2"
+      "street": "Israelietenstraat"
     }, 
     {
-      "lat": 51.21945619526276, 
       "housenumber": "3", 
+      "lat": 51.21945619526276, 
+      "lon": 4.4056124879001155, 
       "pcode": 2000, 
-      "street": "Israelietenstraat", 
-      "lon": 4.4056124879001155
+      "street": "Israelietenstraat"
     }, 
     {
-      "lat": 51.219435666084905, 
       "housenumber": "5", 
+      "lat": 51.219435666084905, 
+      "lon": 4.405724540842222, 
       "pcode": 2000, 
-      "street": "Israelietenstraat", 
-      "lon": 4.405724540842222
+      "street": "Israelietenstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2000, 
-      "street": "Israelietenstraat", 
-      "housenumber": "7"
+      "street": "Israelietenstraat"
     }
-  ], 
-  "name": "Israelietenstraat"
+  ]
 }

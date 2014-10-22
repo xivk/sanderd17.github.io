@@ -1,25 +1,23 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.95798674263983, 
       "housenumber": "1", 
+      "lat": 50.95798674263983, 
+      "lon": 5.5370904127425815, 
       "pcode": 3600, 
-      "street": "Planetariumweg", 
-      "lon": 5.5370904127425815
+      "street": "Planetariumweg"
     }, 
     {
-      "lat": 50.95744433557946, 
       "housenumber": "18", 
+      "lat": 50.95744433557946, 
+      "lon": 5.53687547044238, 
       "pcode": 3600, 
-      "street": "Planetariumweg", 
-      "lon": 5.53687547044238
+      "street": "Planetariumweg"
     }, 
     {
+      "housenumber": "19", 
       "pcode": 3600, 
-      "street": "Planetariumweg", 
-      "housenumber": "19"
+      "street": "Planetariumweg"
     }
-  ], 
-  "name": "Planetariumweg"
+  ]
 }

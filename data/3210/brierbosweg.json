@@ -1,27 +1,25 @@
 {
-  "pcode": 3210, 
   "addresses": [
     {
-      "lat": 50.86487209497861, 
       "housenumber": "1", 
+      "lat": 50.86487209497861, 
+      "lon": 4.849759864895335, 
       "pcode": 3210, 
-      "street": "Brierbosweg", 
-      "lon": 4.849759864895335
+      "street": "Brierbosweg"
     }, 
     {
-      "lat": 50.86542015569698, 
       "housenumber": "3", 
+      "lat": 50.86542015569698, 
+      "lon": 4.850556859995727, 
       "pcode": 3210, 
-      "street": "Brierbosweg", 
-      "lon": 4.850556859995727
+      "street": "Brierbosweg"
     }, 
     {
-      "lat": 50.86621024797551, 
       "housenumber": "5", 
+      "lat": 50.86621024797551, 
+      "lon": 4.85173792371476, 
       "pcode": 3210, 
-      "street": "Brierbosweg", 
-      "lon": 4.85173792371476
+      "street": "Brierbosweg"
     }
-  ], 
-  "name": "Brierbosweg"
+  ]
 }

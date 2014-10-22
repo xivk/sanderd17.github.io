@@ -1,51 +1,49 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.9432110111454, 
       "housenumber": "1", 
+      "lat": 50.9432110111454, 
+      "lon": 3.1482425138573706, 
       "pcode": 8800, 
-      "street": "Kolenkaai", 
-      "lon": 3.1482425138573706
+      "street": "Kolenkaai"
     }, 
     {
-      "lat": 50.943120689220194, 
       "housenumber": "11", 
+      "lat": 50.943120689220194, 
+      "lon": 3.154071371209013, 
       "pcode": 8800, 
-      "street": "Kolenkaai", 
-      "lon": 3.154071371209013
+      "street": "Kolenkaai"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 8800, 
-      "street": "Kolenkaai", 
-      "housenumber": "1A"
+      "street": "Kolenkaai"
     }, 
     {
+      "housenumber": "1J", 
       "pcode": 8800, 
-      "street": "Kolenkaai", 
-      "housenumber": "1J"
+      "street": "Kolenkaai"
     }, 
     {
-      "lat": 50.94316178735489, 
       "housenumber": "2", 
+      "lat": 50.94316178735489, 
+      "lon": 3.150335954902379, 
       "pcode": 8800, 
-      "street": "Kolenkaai", 
-      "lon": 3.150335954902379
+      "street": "Kolenkaai"
     }, 
     {
-      "lat": 50.94332670858673, 
       "housenumber": "4", 
+      "lat": 50.94332670858673, 
+      "lon": 3.1486920351031826, 
       "pcode": 8800, 
-      "street": "Kolenkaai", 
-      "lon": 3.1486920351031826
+      "street": "Kolenkaai"
     }, 
     {
-      "lat": 50.943058986814016, 
       "housenumber": "9", 
+      "lat": 50.943058986814016, 
+      "lon": 3.1523206357124485, 
       "pcode": 8800, 
-      "street": "Kolenkaai", 
-      "lon": 3.1523206357124485
+      "street": "Kolenkaai"
     }
-  ], 
-  "name": "Kolenkaai"
+  ]
 }

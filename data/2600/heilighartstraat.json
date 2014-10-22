@@ -1,53 +1,51 @@
 {
-  "pcode": 2600, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2600, 
-      "street": "Heilig Hartstraat", 
-      "housenumber": "1"
+      "street": "Heilig Hartstraat"
     }, 
     {
-      "lat": 51.19256864959791, 
       "housenumber": "11", 
+      "lat": 51.19256864959791, 
+      "lon": 4.420027611733544, 
       "pcode": 2600, 
-      "street": "Heilig Hartstraat", 
-      "lon": 4.420027611733544
+      "street": "Heilig Hartstraat"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 2600, 
-      "street": "Heilig Hartstraat", 
-      "housenumber": "12"
+      "street": "Heilig Hartstraat"
     }, 
     {
+      "housenumber": "14", 
       "pcode": 2600, 
-      "street": "Heilig Hartstraat", 
-      "housenumber": "14"
+      "street": "Heilig Hartstraat"
     }, 
     {
+      "housenumber": "17", 
       "pcode": 2600, 
-      "street": "Heilig Hartstraat", 
-      "housenumber": "17"
+      "street": "Heilig Hartstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2600, 
-      "street": "Heilig Hartstraat", 
-      "housenumber": "2"
+      "street": "Heilig Hartstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2600, 
-      "street": "Heilig Hartstraat", 
-      "housenumber": "3"
+      "street": "Heilig Hartstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2600, 
-      "street": "Heilig Hartstraat", 
-      "housenumber": "4"
+      "street": "Heilig Hartstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2600, 
-      "street": "Heilig Hartstraat", 
-      "housenumber": "5"
+      "street": "Heilig Hartstraat"
     }
-  ], 
-  "name": "Heilig Hartstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3020, 
   "addresses": [
     {
-      "lat": 50.921959491123935, 
       "housenumber": "1", 
+      "lat": 50.921959491123935, 
+      "lon": 4.609614522045869, 
       "pcode": 3020, 
-      "street": "Boerbemdstraatje", 
-      "lon": 4.609614522045869
+      "street": "Boerbemdstraatje"
     }, 
     {
-      "lat": 50.92155098956809, 
       "housenumber": "2", 
+      "lat": 50.92155098956809, 
+      "lon": 4.612148923333057, 
       "pcode": 3020, 
-      "street": "Boerbemdstraatje", 
-      "lon": 4.612148923333057
+      "street": "Boerbemdstraatje"
     }
-  ], 
-  "name": "Boerbemdstraatje"
+  ]
 }

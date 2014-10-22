@@ -1,35 +1,33 @@
 {
-  "pcode": 2450, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 2450, 
-      "street": "Steenheuvel", 
-      "housenumber": "11"
+      "street": "Steenheuvel"
     }, 
     {
-      "lat": 51.12040664312088, 
       "housenumber": "13", 
+      "lat": 51.12040664312088, 
+      "lon": 5.055189977598998, 
       "pcode": 2450, 
-      "street": "Steenheuvel", 
-      "lon": 5.055189977598998
+      "street": "Steenheuvel"
     }, 
     {
-      "lat": 51.11454390460858, 
       "housenumber": "41", 
+      "lat": 51.11454390460858, 
+      "lon": 5.055010665414507, 
       "pcode": 2450, 
-      "street": "Steenheuvel", 
-      "lon": 5.055010665414507
+      "street": "Steenheuvel"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2450, 
-      "street": "Steenheuvel", 
-      "housenumber": "7"
+      "street": "Steenheuvel"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 2450, 
-      "street": "Steenheuvel", 
-      "housenumber": "9"
+      "street": "Steenheuvel"
     }
-  ], 
-  "name": "Steenheuvel"
+  ]
 }

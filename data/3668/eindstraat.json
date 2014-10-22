@@ -1,20 +1,18 @@
 {
-  "pcode": 3668, 
   "addresses": [
     {
-      "lat": 51.03254666686352, 
       "housenumber": "10", 
+      "lat": 51.03254666686352, 
+      "lon": 5.61408069292771, 
       "pcode": 3668, 
-      "street": "Eindstraat", 
-      "lon": 5.61408069292771
+      "street": "Eindstraat"
     }, 
     {
-      "lat": 51.03229292292502, 
       "housenumber": "6", 
+      "lat": 51.03229292292502, 
+      "lon": 5.614848698795288, 
       "pcode": 3668, 
-      "street": "Eindstraat", 
-      "lon": 5.614848698795288
+      "street": "Eindstraat"
     }
-  ], 
-  "name": "Eindstraat"
+  ]
 }

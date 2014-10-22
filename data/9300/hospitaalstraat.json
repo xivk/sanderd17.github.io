@@ -1,156 +1,154 @@
 {
-  "pcode": 9300, 
   "addresses": [
     {
-      "lat": 50.94494865842414, 
       "housenumber": "1", 
+      "lat": 50.94494865842414, 
+      "lon": 4.043572783731508, 
       "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.043572783731508
+      "street": "Hospitaalstraat"
     }, 
     {
-      "lat": 50.944844962456926, 
       "housenumber": "10", 
+      "lat": 50.944844962456926, 
+      "lon": 4.043197139246942, 
       "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.043197139246942
+      "street": "Hospitaalstraat"
     }, 
     {
-      "lat": 50.94489036331118, 
       "housenumber": "12", 
+      "lat": 50.94489036331118, 
+      "lon": 4.042906264686825, 
       "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.042906264686825
+      "street": "Hospitaalstraat"
     }, 
     {
-      "lat": 50.94493567788726, 
       "housenumber": "14", 
+      "lat": 50.94493567788726, 
+      "lon": 4.0426169553701055, 
       "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.0426169553701055
+      "street": "Hospitaalstraat"
     }, 
     {
-      "lat": 50.94498948141004, 
       "housenumber": "16", 
+      "lat": 50.94498948141004, 
+      "lon": 4.042406843321276, 
       "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.042406843321276
+      "street": "Hospitaalstraat"
     }, 
     {
-      "lat": 50.94518385438053, 
       "housenumber": "18", 
+      "lat": 50.94518385438053, 
+      "lon": 4.04248019764111, 
       "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.04248019764111
+      "street": "Hospitaalstraat"
     }, 
     {
-      "lat": 50.94496743661469, 
       "housenumber": "2", 
-      "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.043211374018264
-    }, 
-    {
-      "lat": 50.945170653321455, 
-      "housenumber": "20", 
-      "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.042712226517246
-    }, 
-    {
-      "lat": 50.94512461898721, 
-      "housenumber": "22", 
-      "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.043001399884616
-    }, 
-    {
-      "lat": 50.94507822712642, 
-      "housenumber": "24", 
-      "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.043291571202366
-    }, 
-    {
-      "lat": 50.94489845430029, 
-      "housenumber": "26", 
-      "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.0431990454594
-    }, 
-    {
-      "lat": 50.944941838428775, 
-      "housenumber": "28", 
-      "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.04292654022895
-    }, 
-    {
-      "lat": 50.9451036443683, 
-      "housenumber": "3", 
-      "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.043641434973362
-    }, 
-    {
-      "lat": 50.94498706276842, 
-      "housenumber": "30", 
-      "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.042637088948468
-    }, 
-    {
-      "lat": 50.945053175166386, 
-      "housenumber": "32", 
-      "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.0424570572415055
-    }, 
-    {
-      "lat": 50.9451134790567, 
-      "housenumber": "34", 
-      "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.042484243420287
-    }, 
-    {
-      "lat": 50.94512025765837, 
-      "housenumber": "36", 
-      "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.0426922282089865
-    }, 
-    {
-      "lat": 50.94507368323547, 
-      "housenumber": "38", 
-      "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.042981120443557
-    }, 
-    {
-      "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "housenumber": "4"
-    }, 
-    {
-      "lat": 50.9450307476541, 
-      "housenumber": "40", 
-      "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.043253338697973
-    }, 
-    {
-      "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "housenumber": "6"
-    }, 
-    {
       "lat": 50.94496743661469, 
-      "housenumber": "8", 
+      "lon": 4.043211374018264, 
       "pcode": 9300, 
-      "street": "Hospitaalstraat", 
-      "lon": 4.043211374018264
+      "street": "Hospitaalstraat"
+    }, 
+    {
+      "housenumber": "20", 
+      "lat": 50.945170653321455, 
+      "lon": 4.042712226517246, 
+      "pcode": 9300, 
+      "street": "Hospitaalstraat"
+    }, 
+    {
+      "housenumber": "22", 
+      "lat": 50.94512461898721, 
+      "lon": 4.043001399884616, 
+      "pcode": 9300, 
+      "street": "Hospitaalstraat"
+    }, 
+    {
+      "housenumber": "24", 
+      "lat": 50.94507822712642, 
+      "lon": 4.043291571202366, 
+      "pcode": 9300, 
+      "street": "Hospitaalstraat"
+    }, 
+    {
+      "housenumber": "26", 
+      "lat": 50.94489845430029, 
+      "lon": 4.0431990454594, 
+      "pcode": 9300, 
+      "street": "Hospitaalstraat"
+    }, 
+    {
+      "housenumber": "28", 
+      "lat": 50.944941838428775, 
+      "lon": 4.04292654022895, 
+      "pcode": 9300, 
+      "street": "Hospitaalstraat"
+    }, 
+    {
+      "housenumber": "3", 
+      "lat": 50.9451036443683, 
+      "lon": 4.043641434973362, 
+      "pcode": 9300, 
+      "street": "Hospitaalstraat"
+    }, 
+    {
+      "housenumber": "30", 
+      "lat": 50.94498706276842, 
+      "lon": 4.042637088948468, 
+      "pcode": 9300, 
+      "street": "Hospitaalstraat"
+    }, 
+    {
+      "housenumber": "32", 
+      "lat": 50.945053175166386, 
+      "lon": 4.0424570572415055, 
+      "pcode": 9300, 
+      "street": "Hospitaalstraat"
+    }, 
+    {
+      "housenumber": "34", 
+      "lat": 50.9451134790567, 
+      "lon": 4.042484243420287, 
+      "pcode": 9300, 
+      "street": "Hospitaalstraat"
+    }, 
+    {
+      "housenumber": "36", 
+      "lat": 50.94512025765837, 
+      "lon": 4.0426922282089865, 
+      "pcode": 9300, 
+      "street": "Hospitaalstraat"
+    }, 
+    {
+      "housenumber": "38", 
+      "lat": 50.94507368323547, 
+      "lon": 4.042981120443557, 
+      "pcode": 9300, 
+      "street": "Hospitaalstraat"
+    }, 
+    {
+      "housenumber": "4", 
+      "pcode": 9300, 
+      "street": "Hospitaalstraat"
+    }, 
+    {
+      "housenumber": "40", 
+      "lat": 50.9450307476541, 
+      "lon": 4.043253338697973, 
+      "pcode": 9300, 
+      "street": "Hospitaalstraat"
+    }, 
+    {
+      "housenumber": "6", 
+      "pcode": 9300, 
+      "street": "Hospitaalstraat"
+    }, 
+    {
+      "housenumber": "8", 
+      "lat": 50.94496743661469, 
+      "lon": 4.043211374018264, 
+      "pcode": 9300, 
+      "street": "Hospitaalstraat"
     }
-  ], 
-  "name": "Hospitaalstraat"
+  ]
 }

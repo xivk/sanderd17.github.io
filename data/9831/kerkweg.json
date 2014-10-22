@@ -1,18 +1,16 @@
 {
-  "pcode": 9831, 
   "addresses": [
     {
-      "lat": 51.00561226130871, 
       "housenumber": "1", 
+      "lat": 51.00561226130871, 
+      "lon": 3.6037779841527264, 
       "pcode": 9831, 
-      "street": "Kerkweg", 
-      "lon": 3.6037779841527264
+      "street": "Kerkweg"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9831, 
-      "street": "Kerkweg", 
-      "housenumber": "5"
+      "street": "Kerkweg"
     }
-  ], 
-  "name": "Kerkweg"
+  ]
 }

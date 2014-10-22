@@ -1,23 +1,21 @@
 {
-  "pcode": 2040, 
   "addresses": [
     {
+      "housenumber": "516", 
       "pcode": 2040, 
-      "street": "Kanaaldok B1", 
-      "housenumber": "516"
+      "street": "Kanaaldok B1"
     }, 
     {
+      "housenumber": "518", 
       "pcode": 2040, 
-      "street": "Kanaaldok B1", 
-      "housenumber": "518"
+      "street": "Kanaaldok B1"
     }, 
     {
-      "lat": 51.303446647796086, 
       "housenumber": "528", 
+      "lat": 51.303446647796086, 
+      "lon": 4.331689733131405, 
       "pcode": 2040, 
-      "street": "Kanaaldok B1", 
-      "lon": 4.331689733131405
+      "street": "Kanaaldok B1"
     }
-  ], 
-  "name": "Kanaaldok B1"
+  ]
 }

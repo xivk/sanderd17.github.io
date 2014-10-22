@@ -1,20 +1,18 @@
 {
-  "pcode": 8460, 
   "addresses": [
     {
-      "lat": 51.17536839381708, 
       "housenumber": "2", 
+      "lat": 51.17536839381708, 
+      "lon": 3.0053995448890576, 
       "pcode": 8460, 
-      "street": "Merelstraat", 
-      "lon": 3.0053995448890576
+      "street": "Merelstraat"
     }, 
     {
-      "lat": 51.174940332899205, 
       "housenumber": "4", 
+      "lat": 51.174940332899205, 
+      "lon": 3.0010002846489603, 
       "pcode": 8460, 
-      "street": "Merelstraat", 
-      "lon": 3.0010002846489603
+      "street": "Merelstraat"
     }
-  ], 
-  "name": "Merelstraat"
+  ]
 }

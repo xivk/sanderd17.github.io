@@ -1,54 +1,52 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9000, 
-      "street": "Twijndersstraat", 
-      "housenumber": "1"
+      "street": "Twijndersstraat"
     }, 
     {
-      "lat": 51.05858605541709, 
       "housenumber": "3", 
+      "lat": 51.05858605541709, 
+      "lon": 3.726973378679748, 
       "pcode": 9000, 
-      "street": "Twijndersstraat", 
-      "lon": 3.726973378679748
+      "street": "Twijndersstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9000, 
-      "street": "Twijndersstraat", 
-      "housenumber": "4"
+      "street": "Twijndersstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9000, 
-      "street": "Twijndersstraat", 
-      "housenumber": "5"
+      "street": "Twijndersstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9000, 
-      "street": "Twijndersstraat", 
-      "housenumber": "6"
+      "street": "Twijndersstraat"
     }, 
     {
-      "lat": 51.05857737903116, 
       "housenumber": "7", 
+      "lat": 51.05857737903116, 
+      "lon": 3.7269647964156927, 
       "pcode": 9000, 
-      "street": "Twijndersstraat", 
-      "lon": 3.7269647964156927
+      "street": "Twijndersstraat"
     }, 
     {
-      "lat": 51.0581908421457, 
       "housenumber": "8", 
+      "lat": 51.0581908421457, 
+      "lon": 3.726915461012369, 
       "pcode": 9000, 
-      "street": "Twijndersstraat", 
-      "lon": 3.726915461012369
+      "street": "Twijndersstraat"
     }, 
     {
-      "lat": 51.05854534906307, 
       "housenumber": "9", 
+      "lat": 51.05854534906307, 
+      "lon": 3.726761400557883, 
       "pcode": 9000, 
-      "street": "Twijndersstraat", 
-      "lon": 3.726761400557883
+      "street": "Twijndersstraat"
     }
-  ], 
-  "name": "Twijndersstraat"
+  ]
 }

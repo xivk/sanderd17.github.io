@@ -1,44 +1,42 @@
 {
-  "pcode": 8210, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8210, 
-      "street": "Koevoetveld", 
-      "housenumber": "1"
+      "street": "Koevoetveld"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8210, 
-      "street": "Koevoetveld", 
-      "housenumber": "2"
+      "street": "Koevoetveld"
     }, 
     {
-      "lat": 51.12863993748912, 
       "housenumber": "3", 
+      "lat": 51.12863993748912, 
+      "lon": 3.119460045685785, 
       "pcode": 8210, 
-      "street": "Koevoetveld", 
-      "lon": 3.119460045685785
+      "street": "Koevoetveld"
     }, 
     {
-      "lat": 51.12957136785554, 
       "housenumber": "4", 
+      "lat": 51.12957136785554, 
+      "lon": 3.121294503015586, 
       "pcode": 8210, 
-      "street": "Koevoetveld", 
-      "lon": 3.121294503015586
+      "street": "Koevoetveld"
     }, 
     {
-      "lat": 51.12974173851831, 
       "housenumber": "5", 
+      "lat": 51.12974173851831, 
+      "lon": 3.1217805843835014, 
       "pcode": 8210, 
-      "street": "Koevoetveld", 
-      "lon": 3.1217805843835014
+      "street": "Koevoetveld"
     }, 
     {
-      "lat": 51.13011722457801, 
       "housenumber": "6", 
+      "lat": 51.13011722457801, 
+      "lon": 3.122697824738723, 
       "pcode": 8210, 
-      "street": "Koevoetveld", 
-      "lon": 3.122697824738723
+      "street": "Koevoetveld"
     }
-  ], 
-  "name": "Koevoetveld"
+  ]
 }

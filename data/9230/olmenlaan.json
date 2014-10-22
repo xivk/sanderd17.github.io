@@ -1,32 +1,30 @@
 {
-  "pcode": 9230, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9230, 
-      "street": "Olmenlaan", 
-      "housenumber": "1"
+      "street": "Olmenlaan"
     }, 
     {
-      "lat": 50.99748204093588, 
       "housenumber": "1A", 
+      "lat": 50.99748204093588, 
+      "lon": 3.881739989267958, 
       "pcode": 9230, 
-      "street": "Olmenlaan", 
-      "lon": 3.881739989267958
+      "street": "Olmenlaan"
     }, 
     {
-      "lat": 50.99797501218579, 
       "housenumber": "2", 
+      "lat": 50.99797501218579, 
+      "lon": 3.882044141938842, 
       "pcode": 9230, 
-      "street": "Olmenlaan", 
-      "lon": 3.882044141938842
+      "street": "Olmenlaan"
     }, 
     {
-      "lat": 50.99790706423942, 
       "housenumber": "2A", 
+      "lat": 50.99790706423942, 
+      "lon": 3.881872761566863, 
       "pcode": 9230, 
-      "street": "Olmenlaan", 
-      "lon": 3.881872761566863
+      "street": "Olmenlaan"
     }
-  ], 
-  "name": "Olmenlaan"
+  ]
 }

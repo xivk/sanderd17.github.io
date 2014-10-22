@@ -1,39 +1,37 @@
 {
-  "pcode": 8670, 
   "addresses": [
     {
-      "lat": 51.13558674067144, 
       "housenumber": "1", 
+      "lat": 51.13558674067144, 
+      "lon": 2.679768847149689, 
       "pcode": 8670, 
-      "street": "Westhelling", 
-      "lon": 2.679768847149689
+      "street": "Westhelling"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8670, 
-      "street": "Westhelling", 
-      "housenumber": "2"
+      "street": "Westhelling"
     }, 
     {
-      "lat": 51.13541877181987, 
       "housenumber": "3", 
+      "lat": 51.13541877181987, 
+      "lon": 2.679824221816413, 
       "pcode": 8670, 
-      "street": "Westhelling", 
-      "lon": 2.679824221816413
+      "street": "Westhelling"
     }, 
     {
-      "lat": 51.1356512795188, 
       "housenumber": "4", 
+      "lat": 51.1356512795188, 
+      "lon": 2.680672840253187, 
       "pcode": 8670, 
-      "street": "Westhelling", 
-      "lon": 2.680672840253187
+      "street": "Westhelling"
     }, 
     {
-      "lat": 51.135654177628155, 
       "housenumber": "501", 
+      "lat": 51.135654177628155, 
+      "lon": 2.6806805955217796, 
       "pcode": 8670, 
-      "street": "Westhelling", 
-      "lon": 2.6806805955217796
+      "street": "Westhelling"
     }
-  ], 
-  "name": "Westhelling"
+  ]
 }

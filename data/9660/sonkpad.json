@@ -1,20 +1,18 @@
 {
-  "pcode": 9660, 
   "addresses": [
     {
-      "lat": 50.81912132984191, 
       "housenumber": "2", 
+      "lat": 50.81912132984191, 
+      "lon": 3.7454941437531155, 
       "pcode": 9660, 
-      "street": "Sonkpad", 
-      "lon": 3.7454941437531155
+      "street": "Sonkpad"
     }, 
     {
-      "lat": 50.81931439908118, 
       "housenumber": "4", 
+      "lat": 50.81931439908118, 
+      "lon": 3.7454708685342406, 
       "pcode": 9660, 
-      "street": "Sonkpad", 
-      "lon": 3.7454708685342406
+      "street": "Sonkpad"
     }
-  ], 
-  "name": "Sonkpad"
+  ]
 }

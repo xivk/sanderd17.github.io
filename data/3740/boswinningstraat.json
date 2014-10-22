@@ -1,25 +1,23 @@
 {
-  "pcode": 3740, 
   "addresses": [
     {
-      "lat": 50.899914729196134, 
       "housenumber": "1", 
+      "lat": 50.899914729196134, 
+      "lon": 5.496136770476534, 
       "pcode": 3740, 
-      "street": "Boswinningstraat", 
-      "lon": 5.496136770476534
+      "street": "Boswinningstraat"
     }, 
     {
-      "lat": 50.89788184841299, 
       "housenumber": "3", 
+      "lat": 50.89788184841299, 
+      "lon": 5.489903350344575, 
       "pcode": 3740, 
-      "street": "Boswinningstraat", 
-      "lon": 5.489903350344575
+      "street": "Boswinningstraat"
     }, 
     {
+      "housenumber": "3A", 
       "pcode": 3740, 
-      "street": "Boswinningstraat", 
-      "housenumber": "3A"
+      "street": "Boswinningstraat"
     }
-  ], 
-  "name": "Boswinningstraat"
+  ]
 }

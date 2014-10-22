@@ -1,52 +1,50 @@
 {
-  "pcode": 2050, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2050, 
-      "street": "Belgicaplein", 
-      "housenumber": "1"
+      "street": "Belgicaplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2050, 
-      "street": "Belgicaplein", 
-      "housenumber": "2"
+      "street": "Belgicaplein"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2050, 
-      "street": "Belgicaplein", 
-      "housenumber": "3"
+      "street": "Belgicaplein"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2050, 
-      "street": "Belgicaplein", 
-      "housenumber": "4"
+      "street": "Belgicaplein"
     }, 
     {
-      "lat": 51.218918897763096, 
       "housenumber": "5", 
+      "lat": 51.218918897763096, 
+      "lon": 4.3672274718670225, 
       "pcode": 2050, 
-      "street": "Belgicaplein", 
-      "lon": 4.3672274718670225
+      "street": "Belgicaplein"
     }, 
     {
-      "lat": 51.21886263043607, 
       "housenumber": "6", 
+      "lat": 51.21886263043607, 
+      "lon": 4.367229619768275, 
       "pcode": 2050, 
-      "street": "Belgicaplein", 
-      "lon": 4.367229619768275
+      "street": "Belgicaplein"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2050, 
-      "street": "Belgicaplein", 
-      "housenumber": "7"
+      "street": "Belgicaplein"
     }, 
     {
-      "lat": 51.21881319194892, 
       "housenumber": "8", 
+      "lat": 51.21881319194892, 
+      "lon": 4.366946659768733, 
       "pcode": 2050, 
-      "street": "Belgicaplein", 
-      "lon": 4.366946659768733
+      "street": "Belgicaplein"
     }
-  ], 
-  "name": "Belgicaplein"
+  ]
 }

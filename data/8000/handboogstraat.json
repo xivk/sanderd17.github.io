@@ -1,20 +1,18 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.226433245653354, 
       "housenumber": "1", 
+      "lat": 51.226433245653354, 
+      "lon": 3.213195173878781, 
       "pcode": 8000, 
-      "street": "Handboogstraat", 
-      "lon": 3.213195173878781
+      "street": "Handboogstraat"
     }, 
     {
-      "lat": 51.22700420252753, 
       "housenumber": "2", 
+      "lat": 51.22700420252753, 
+      "lon": 3.2121777021095803, 
       "pcode": 8000, 
-      "street": "Handboogstraat", 
-      "lon": 3.2121777021095803
+      "street": "Handboogstraat"
     }
-  ], 
-  "name": "Handboogstraat"
+  ]
 }

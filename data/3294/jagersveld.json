@@ -1,23 +1,21 @@
 {
-  "pcode": 3294, 
   "addresses": [
     {
+      "housenumber": "119", 
       "pcode": 3294, 
-      "street": "Jagersveld", 
-      "housenumber": "119"
+      "street": "Jagersveld"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3294, 
-      "street": "Jagersveld", 
-      "housenumber": "2"
+      "street": "Jagersveld"
     }, 
     {
-      "lat": 50.999910397978134, 
       "housenumber": "45", 
+      "lat": 50.999910397978134, 
+      "lon": 5.023612109748789, 
       "pcode": 3294, 
-      "street": "Jagersveld", 
-      "lon": 5.023612109748789
+      "street": "Jagersveld"
     }
-  ], 
-  "name": "Jagersveld"
+  ]
 }

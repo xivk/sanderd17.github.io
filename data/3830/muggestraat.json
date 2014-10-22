@@ -1,20 +1,18 @@
 {
-  "pcode": 3830, 
   "addresses": [
     {
-      "lat": 50.81888715228889, 
       "housenumber": "1", 
+      "lat": 50.81888715228889, 
+      "lon": 5.312312631652883, 
       "pcode": 3830, 
-      "street": "Muggestraat", 
-      "lon": 5.312312631652883
+      "street": "Muggestraat"
     }, 
     {
-      "lat": 50.8191046323422, 
       "housenumber": "2", 
+      "lat": 50.8191046323422, 
+      "lon": 5.3129144873586736, 
       "pcode": 3830, 
-      "street": "Muggestraat", 
-      "lon": 5.3129144873586736
+      "street": "Muggestraat"
     }
-  ], 
-  "name": "Muggestraat"
+  ]
 }

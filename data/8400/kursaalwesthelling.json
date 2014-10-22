@@ -1,79 +1,77 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8400, 
-      "street": "Kursaal-Westhelling", 
-      "housenumber": "1"
+      "street": "Kursaal-Westhelling"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 8400, 
-      "street": "Kursaal-Westhelling", 
-      "housenumber": "12"
+      "street": "Kursaal-Westhelling"
     }, 
     {
-      "lat": 51.23080515179762, 
       "housenumber": "2", 
+      "lat": 51.23080515179762, 
+      "lon": 2.912036570656466, 
       "pcode": 8400, 
-      "street": "Kursaal-Westhelling", 
-      "lon": 2.912036570656466
+      "street": "Kursaal-Westhelling"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8400, 
-      "street": "Kursaal-Westhelling", 
-      "housenumber": "3"
+      "street": "Kursaal-Westhelling"
     }, 
     {
-      "lat": 51.23088320648503, 
       "housenumber": "4", 
+      "lat": 51.23088320648503, 
+      "lon": 2.9119287438801664, 
       "pcode": 8400, 
-      "street": "Kursaal-Westhelling", 
-      "lon": 2.9119287438801664
+      "street": "Kursaal-Westhelling"
     }, 
     {
+      "housenumber": "4_1", 
       "pcode": 8400, 
-      "street": "Kursaal-Westhelling", 
-      "housenumber": "4_1"
+      "street": "Kursaal-Westhelling"
     }, 
     {
+      "housenumber": "4_3", 
       "pcode": 8400, 
-      "street": "Kursaal-Westhelling", 
-      "housenumber": "4_3"
+      "street": "Kursaal-Westhelling"
     }, 
     {
+      "housenumber": "4_4", 
       "pcode": 8400, 
-      "street": "Kursaal-Westhelling", 
-      "housenumber": "4_4"
+      "street": "Kursaal-Westhelling"
     }, 
     {
+      "housenumber": "4_5", 
       "pcode": 8400, 
-      "street": "Kursaal-Westhelling", 
-      "housenumber": "4_5"
+      "street": "Kursaal-Westhelling"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8400, 
-      "street": "Kursaal-Westhelling", 
-      "housenumber": "5"
+      "street": "Kursaal-Westhelling"
     }, 
     {
-      "lat": 51.23103185297863, 
       "housenumber": "6", 
+      "lat": 51.23103185297863, 
+      "lon": 2.9116838249630237, 
       "pcode": 8400, 
-      "street": "Kursaal-Westhelling", 
-      "lon": 2.9116838249630237
+      "street": "Kursaal-Westhelling"
     }, 
     {
-      "lat": 51.230778370458125, 
       "housenumber": "7", 
+      "lat": 51.230778370458125, 
+      "lon": 2.911723390053322, 
       "pcode": 8400, 
-      "street": "Kursaal-Westhelling", 
-      "lon": 2.911723390053322
+      "street": "Kursaal-Westhelling"
     }, 
     {
+      "housenumber": "ZN", 
       "pcode": 8400, 
-      "street": "Kursaal-Westhelling", 
-      "housenumber": "ZN"
+      "street": "Kursaal-Westhelling"
     }
-  ], 
-  "name": "Kursaal-Westhelling"
+  ]
 }

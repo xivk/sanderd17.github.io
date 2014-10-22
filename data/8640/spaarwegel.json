@@ -1,20 +1,18 @@
 {
-  "pcode": 8640, 
   "addresses": [
     {
-      "lat": 50.933403954527954, 
       "housenumber": "1", 
+      "lat": 50.933403954527954, 
+      "lon": 2.7375518166849773, 
       "pcode": 8640, 
-      "street": "Spaarwegel", 
-      "lon": 2.7375518166849773
+      "street": "Spaarwegel"
     }, 
     {
-      "lat": 50.932877982566104, 
       "housenumber": "2", 
+      "lat": 50.932877982566104, 
+      "lon": 2.7368866856792655, 
       "pcode": 8640, 
-      "street": "Spaarwegel", 
-      "lon": 2.7368866856792655
+      "street": "Spaarwegel"
     }
-  ], 
-  "name": "Spaarwegel"
+  ]
 }

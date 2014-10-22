@@ -1,20 +1,18 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.77559607546533, 
       "housenumber": "2", 
+      "lat": 50.77559607546533, 
+      "lon": 5.4581425369236545, 
       "pcode": 3700, 
-      "street": "Hoefnagelstraat", 
-      "lon": 5.4581425369236545
+      "street": "Hoefnagelstraat"
     }, 
     {
-      "lat": 50.77616402238313, 
       "housenumber": "3", 
+      "lat": 50.77616402238313, 
+      "lon": 5.458373486529939, 
       "pcode": 3700, 
-      "street": "Hoefnagelstraat", 
-      "lon": 5.458373486529939
+      "street": "Hoefnagelstraat"
     }
-  ], 
-  "name": "Hoefnagelstraat"
+  ]
 }

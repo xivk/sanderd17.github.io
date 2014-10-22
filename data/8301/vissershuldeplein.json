@@ -1,32 +1,30 @@
 {
-  "pcode": 8301, 
   "addresses": [
     {
-      "lat": 51.340447987549865, 
       "housenumber": "2", 
+      "lat": 51.340447987549865, 
+      "lon": 3.2344631239503685, 
       "pcode": 8301, 
-      "street": "Vissershuldeplein", 
-      "lon": 3.2344631239503685
+      "street": "Vissershuldeplein"
     }, 
     {
-      "lat": 51.34059828727776, 
       "housenumber": "3", 
+      "lat": 51.34059828727776, 
+      "lon": 3.235479154864997, 
       "pcode": 8301, 
-      "street": "Vissershuldeplein", 
-      "lon": 3.235479154864997
+      "street": "Vissershuldeplein"
     }, 
     {
+      "housenumber": "31F", 
       "pcode": 8301, 
-      "street": "Vissershuldeplein", 
-      "housenumber": "31F"
+      "street": "Vissershuldeplein"
     }, 
     {
-      "lat": 51.340605958111574, 
       "housenumber": "5", 
+      "lat": 51.340605958111574, 
+      "lon": 3.2354258664090167, 
       "pcode": 8301, 
-      "street": "Vissershuldeplein", 
-      "lon": 3.2354258664090167
+      "street": "Vissershuldeplein"
     }
-  ], 
-  "name": "Vissershuldeplein"
+  ]
 }

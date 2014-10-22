@@ -1,20 +1,18 @@
 {
-  "pcode": 8930, 
   "addresses": [
     {
-      "lat": 50.79728439160884, 
       "housenumber": "1", 
+      "lat": 50.79728439160884, 
+      "lon": 3.09646744252079, 
       "pcode": 8930, 
-      "street": "Madeliefjesweg", 
-      "lon": 3.09646744252079
+      "street": "Madeliefjesweg"
     }, 
     {
-      "lat": 50.79761728952829, 
       "housenumber": "2", 
+      "lat": 50.79761728952829, 
+      "lon": 3.0964557506403487, 
       "pcode": 8930, 
-      "street": "Madeliefjesweg", 
-      "lon": 3.0964557506403487
+      "street": "Madeliefjesweg"
     }
-  ], 
-  "name": "Madeliefjesweg"
+  ]
 }

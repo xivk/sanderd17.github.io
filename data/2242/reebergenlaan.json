@@ -1,20 +1,18 @@
 {
-  "pcode": 2242, 
   "addresses": [
     {
-      "lat": 51.24241491925121, 
       "housenumber": "1", 
+      "lat": 51.24241491925121, 
+      "lon": 4.7223551509399435, 
       "pcode": 2242, 
-      "street": "Reebergenlaan", 
-      "lon": 4.7223551509399435
+      "street": "Reebergenlaan"
     }, 
     {
-      "lat": 51.23959680163917, 
       "housenumber": "4", 
+      "lat": 51.23959680163917, 
+      "lon": 4.727176907324639, 
       "pcode": 2242, 
-      "street": "Reebergenlaan", 
-      "lon": 4.727176907324639
+      "street": "Reebergenlaan"
     }
-  ], 
-  "name": "Reebergenlaan"
+  ]
 }

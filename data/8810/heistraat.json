@@ -1,27 +1,25 @@
 {
-  "pcode": 8810, 
   "addresses": [
     {
-      "lat": 51.01504627766149, 
       "housenumber": "1", 
+      "lat": 51.01504627766149, 
+      "lon": 3.1247729554924444, 
       "pcode": 8810, 
-      "street": "Heistraat", 
-      "lon": 3.1247729554924444
+      "street": "Heistraat"
     }, 
     {
-      "lat": 51.0136775898367, 
       "housenumber": "2", 
+      "lat": 51.0136775898367, 
+      "lon": 3.128574368595543, 
       "pcode": 8810, 
-      "street": "Heistraat", 
-      "lon": 3.128574368595543
+      "street": "Heistraat"
     }, 
     {
-      "lat": 51.012927715990685, 
       "housenumber": "4", 
+      "lat": 51.012927715990685, 
+      "lon": 3.129796488181203, 
       "pcode": 8810, 
-      "street": "Heistraat", 
-      "lon": 3.129796488181203
+      "street": "Heistraat"
     }
-  ], 
-  "name": "Heistraat"
+  ]
 }

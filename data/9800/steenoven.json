@@ -1,20 +1,18 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 50.967232807830925, 
       "housenumber": "1", 
+      "lat": 50.967232807830925, 
+      "lon": 3.4654213287087026, 
       "pcode": 9800, 
-      "street": "Steenoven", 
-      "lon": 3.4654213287087026
+      "street": "Steenoven"
     }, 
     {
-      "lat": 50.967623503706385, 
       "housenumber": "3", 
+      "lat": 50.967623503706385, 
+      "lon": 3.4655614444593286, 
       "pcode": 9800, 
-      "street": "Steenoven", 
-      "lon": 3.4655614444593286
+      "street": "Steenoven"
     }
-  ], 
-  "name": "Steenoven"
+  ]
 }

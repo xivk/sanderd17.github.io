@@ -1,42 +1,40 @@
 {
-  "pcode": 9100, 
   "addresses": [
     {
-      "lat": 51.16499964401188, 
       "housenumber": "2", 
+      "lat": 51.16499964401188, 
+      "lon": 4.138544132978369, 
       "pcode": 9100, 
-      "street": "Sint-Jozefstraat", 
-      "lon": 4.138544132978369
+      "street": "Sint-Jozefstraat"
     }, 
     {
-      "lat": 51.16508671353805, 
       "housenumber": "3", 
+      "lat": 51.16508671353805, 
+      "lon": 4.138667367364873, 
       "pcode": 9100, 
-      "street": "Sint-Jozefstraat", 
-      "lon": 4.138667367364873
+      "street": "Sint-Jozefstraat"
     }, 
     {
+      "housenumber": "3B", 
       "pcode": 9100, 
-      "street": "Sint-Jozefstraat", 
-      "housenumber": "3B"
+      "street": "Sint-Jozefstraat"
     }, 
     {
-      "lat": 51.16517184219185, 
       "housenumber": "4", 
+      "lat": 51.16517184219185, 
+      "lon": 4.138670666101424, 
       "pcode": 9100, 
-      "street": "Sint-Jozefstraat", 
-      "lon": 4.138670666101424
+      "street": "Sint-Jozefstraat"
     }, 
     {
+      "housenumber": "4B", 
       "pcode": 9100, 
-      "street": "Sint-Jozefstraat", 
-      "housenumber": "4B"
+      "street": "Sint-Jozefstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9100, 
-      "street": "Sint-Jozefstraat", 
-      "housenumber": "5"
+      "street": "Sint-Jozefstraat"
     }
-  ], 
-  "name": "Sint-Jozefstraat"
+  ]
 }

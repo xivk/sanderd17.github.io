@@ -1,32 +1,30 @@
 {
-  "pcode": 2275, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 2275, 
-      "street": "Helleweg", 
-      "housenumber": "10"
+      "street": "Helleweg"
     }, 
     {
-      "lat": 51.240965045037754, 
       "housenumber": "11", 
+      "lat": 51.240965045037754, 
+      "lon": 4.816394883154134, 
       "pcode": 2275, 
-      "street": "Helleweg", 
-      "lon": 4.816394883154134
+      "street": "Helleweg"
     }, 
     {
-      "lat": 51.24121046183121, 
       "housenumber": "13", 
+      "lat": 51.24121046183121, 
+      "lon": 4.816078199307376, 
       "pcode": 2275, 
-      "street": "Helleweg", 
-      "lon": 4.816078199307376
+      "street": "Helleweg"
     }, 
     {
-      "lat": 51.24096158510787, 
       "housenumber": "9", 
+      "lat": 51.24096158510787, 
+      "lon": 4.816619955574758, 
       "pcode": 2275, 
-      "street": "Helleweg", 
-      "lon": 4.816619955574758
+      "street": "Helleweg"
     }
-  ], 
-  "name": "Helleweg"
+  ]
 }

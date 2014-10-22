@@ -1,20 +1,18 @@
 {
-  "pcode": 2627, 
   "addresses": [
     {
-      "lat": 51.11928233092464, 
       "housenumber": "1", 
+      "lat": 51.11928233092464, 
+      "lon": 4.337679180250636, 
       "pcode": 2627, 
-      "street": "Bareelstraat", 
-      "lon": 4.337679180250636
+      "street": "Bareelstraat"
     }, 
     {
-      "lat": 51.119238886251566, 
       "housenumber": "2", 
+      "lat": 51.119238886251566, 
+      "lon": 4.3379161492470395, 
       "pcode": 2627, 
-      "street": "Bareelstraat", 
-      "lon": 4.3379161492470395
+      "street": "Bareelstraat"
     }
-  ], 
-  "name": "Bareelstraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
-      "lat": 51.18743973032077, 
       "housenumber": "2", 
+      "lat": 51.18743973032077, 
+      "lon": 5.4060163207952465, 
       "pcode": 3900, 
-      "street": "Tolstraat", 
-      "lon": 5.4060163207952465
+      "street": "Tolstraat"
     }, 
     {
-      "lat": 51.187442324284746, 
       "housenumber": "4", 
+      "lat": 51.187442324284746, 
+      "lon": 5.406294027160835, 
       "pcode": 3900, 
-      "street": "Tolstraat", 
-      "lon": 5.406294027160835
+      "street": "Tolstraat"
     }, 
     {
-      "lat": 51.18749291273781, 
       "housenumber": "6", 
+      "lat": 51.18749291273781, 
+      "lon": 5.406593114096617, 
       "pcode": 3900, 
-      "street": "Tolstraat", 
-      "lon": 5.406593114096617
+      "street": "Tolstraat"
     }
-  ], 
-  "name": "Tolstraat"
+  ]
 }

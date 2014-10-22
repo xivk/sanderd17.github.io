@@ -1,35 +1,33 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 8400, 
-      "street": "Esperantolaan", 
-      "housenumber": "10"
+      "street": "Esperantolaan"
     }, 
     {
-      "lat": 51.21613737777256, 
       "housenumber": "10A", 
+      "lat": 51.21613737777256, 
+      "lon": 2.9920286850161606, 
       "pcode": 8400, 
-      "street": "Esperantolaan", 
-      "lon": 2.9920286850161606
+      "street": "Esperantolaan"
     }, 
     {
+      "housenumber": "10B", 
       "pcode": 8400, 
-      "street": "Esperantolaan", 
-      "housenumber": "10B"
+      "street": "Esperantolaan"
     }, 
     {
-      "lat": 51.21720549642439, 
       "housenumber": "14", 
+      "lat": 51.21720549642439, 
+      "lon": 2.9916136747059854, 
       "pcode": 8400, 
-      "street": "Esperantolaan", 
-      "lon": 2.9916136747059854
+      "street": "Esperantolaan"
     }, 
     {
+      "housenumber": "ZN", 
       "pcode": 8400, 
-      "street": "Esperantolaan", 
-      "housenumber": "ZN"
+      "street": "Esperantolaan"
     }
-  ], 
-  "name": "Esperantolaan"
+  ]
 }

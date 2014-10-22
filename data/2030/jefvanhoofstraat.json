@@ -1,20 +1,18 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.26772517203766, 
       "housenumber": "2", 
+      "lat": 51.26772517203766, 
+      "lon": 4.41764781818489, 
       "pcode": 2030, 
-      "street": "Jef Van Hoofstraat", 
-      "lon": 4.41764781818489
+      "street": "Jef Van Hoofstraat"
     }, 
     {
-      "lat": 51.267708548759494, 
       "housenumber": "4", 
+      "lat": 51.267708548759494, 
+      "lon": 4.417636051801449, 
       "pcode": 2030, 
-      "street": "Jef Van Hoofstraat", 
-      "lon": 4.417636051801449
+      "street": "Jef Van Hoofstraat"
     }
-  ], 
-  "name": "Jef Van Hoofstraat"
+  ]
 }

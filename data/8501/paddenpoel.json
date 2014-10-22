@@ -1,44 +1,42 @@
 {
-  "pcode": 8501, 
   "addresses": [
     {
-      "lat": 50.83611814876465, 
       "housenumber": "2", 
+      "lat": 50.83611814876465, 
+      "lon": 3.2252531866725382, 
       "pcode": 8501, 
-      "street": "Paddenpoel", 
-      "lon": 3.2252531866725382
+      "street": "Paddenpoel"
     }, 
     {
-      "lat": 50.83607953739377, 
       "housenumber": "3", 
+      "lat": 50.83607953739377, 
+      "lon": 3.225331929210628, 
       "pcode": 8501, 
-      "street": "Paddenpoel", 
-      "lon": 3.225331929210628
+      "street": "Paddenpoel"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8501, 
-      "street": "Paddenpoel", 
-      "housenumber": "4"
+      "street": "Paddenpoel"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8501, 
-      "street": "Paddenpoel", 
-      "housenumber": "5"
+      "street": "Paddenpoel"
     }, 
     {
-      "lat": 50.8361649316876, 
       "housenumber": "7", 
+      "lat": 50.8361649316876, 
+      "lon": 3.22587462460816, 
       "pcode": 8501, 
-      "street": "Paddenpoel", 
-      "lon": 3.22587462460816
+      "street": "Paddenpoel"
     }, 
     {
-      "lat": 50.836222904560124, 
       "housenumber": "8", 
+      "lat": 50.836222904560124, 
+      "lon": 3.225919075274311, 
       "pcode": 8501, 
-      "street": "Paddenpoel", 
-      "lon": 3.225919075274311
+      "street": "Paddenpoel"
     }
-  ], 
-  "name": "Paddenpoel"
+  ]
 }

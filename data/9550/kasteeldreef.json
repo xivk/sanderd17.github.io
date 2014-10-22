@@ -1,39 +1,37 @@
 {
-  "pcode": 9550, 
   "addresses": [
     {
-      "lat": 50.88536528680393, 
       "housenumber": "1", 
+      "lat": 50.88536528680393, 
+      "lon": 3.8960990882282247, 
       "pcode": 9550, 
-      "street": "Kasteeldreef", 
-      "lon": 3.8960990882282247
+      "street": "Kasteeldreef"
     }, 
     {
-      "lat": 50.885449261115305, 
       "housenumber": "2", 
+      "lat": 50.885449261115305, 
+      "lon": 3.902313571040759, 
       "pcode": 9550, 
-      "street": "Kasteeldreef", 
-      "lon": 3.902313571040759
+      "street": "Kasteeldreef"
     }, 
     {
-      "lat": 50.885583077167986, 
       "housenumber": "3", 
+      "lat": 50.885583077167986, 
+      "lon": 3.8960028204238157, 
       "pcode": 9550, 
-      "street": "Kasteeldreef", 
-      "lon": 3.8960028204238157
+      "street": "Kasteeldreef"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9550, 
-      "street": "Kasteeldreef", 
-      "housenumber": "4"
+      "street": "Kasteeldreef"
     }, 
     {
-      "lat": 50.88553527620933, 
       "housenumber": "5", 
+      "lat": 50.88553527620933, 
+      "lon": 3.8962099340728877, 
       "pcode": 9550, 
-      "street": "Kasteeldreef", 
-      "lon": 3.8962099340728877
+      "street": "Kasteeldreef"
     }
-  ], 
-  "name": "Kasteeldreef"
+  ]
 }

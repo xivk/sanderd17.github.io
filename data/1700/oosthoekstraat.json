@@ -1,27 +1,25 @@
 {
-  "pcode": 1700, 
   "addresses": [
     {
-      "lat": 50.87047840029523, 
       "housenumber": "13", 
+      "lat": 50.87047840029523, 
+      "lon": 4.210402631983105, 
       "pcode": 1700, 
-      "street": "Oosthoekstraat", 
-      "lon": 4.210402631983105
+      "street": "Oosthoekstraat"
     }, 
     {
-      "lat": 50.870374716435286, 
       "housenumber": "15", 
+      "lat": 50.870374716435286, 
+      "lon": 4.210845370999515, 
       "pcode": 1700, 
-      "street": "Oosthoekstraat", 
-      "lon": 4.210845370999515
+      "street": "Oosthoekstraat"
     }, 
     {
-      "lat": 50.868148167535686, 
       "housenumber": "16", 
+      "lat": 50.868148167535686, 
+      "lon": 4.212301533504785, 
       "pcode": 1700, 
-      "street": "Oosthoekstraat", 
-      "lon": 4.212301533504785
+      "street": "Oosthoekstraat"
     }
-  ], 
-  "name": "Oosthoekstraat"
+  ]
 }

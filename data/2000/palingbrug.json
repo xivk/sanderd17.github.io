@@ -1,45 +1,43 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.22238306691317, 
       "housenumber": "10", 
+      "lat": 51.22238306691317, 
+      "lon": 4.398478875022331, 
       "pcode": 2000, 
-      "street": "Palingbrug", 
-      "lon": 4.398478875022331
+      "street": "Palingbrug"
     }, 
     {
-      "lat": 51.22251086303259, 
       "housenumber": "12", 
+      "lat": 51.22251086303259, 
+      "lon": 4.398897922608236, 
       "pcode": 2000, 
-      "street": "Palingbrug", 
-      "lon": 4.398897922608236
+      "street": "Palingbrug"
     }, 
     {
+      "housenumber": "12_11", 
       "pcode": 2000, 
-      "street": "Palingbrug", 
-      "housenumber": "12_11"
+      "street": "Palingbrug"
     }, 
     {
+      "housenumber": "12_13", 
       "pcode": 2000, 
-      "street": "Palingbrug", 
-      "housenumber": "12_13"
+      "street": "Palingbrug"
     }, 
     {
+      "housenumber": "12_22", 
       "pcode": 2000, 
-      "street": "Palingbrug", 
-      "housenumber": "12_22"
+      "street": "Palingbrug"
     }, 
     {
+      "housenumber": "12_3", 
       "pcode": 2000, 
-      "street": "Palingbrug", 
-      "housenumber": "12_3"
+      "street": "Palingbrug"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2000, 
-      "street": "Palingbrug", 
-      "housenumber": "8"
+      "street": "Palingbrug"
     }
-  ], 
-  "name": "Palingbrug"
+  ]
 }

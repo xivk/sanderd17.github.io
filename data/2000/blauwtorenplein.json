@@ -1,46 +1,44 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.21244133916796, 
       "housenumber": "10", 
+      "lat": 51.21244133916796, 
+      "lon": 4.408708680390915, 
       "pcode": 2000, 
-      "street": "Blauwtorenplein", 
-      "lon": 4.408708680390915
+      "street": "Blauwtorenplein"
     }, 
     {
-      "lat": 51.212790320994216, 
       "housenumber": "2", 
+      "lat": 51.212790320994216, 
+      "lon": 4.408820179436345, 
       "pcode": 2000, 
-      "street": "Blauwtorenplein", 
-      "lon": 4.408820179436345
+      "street": "Blauwtorenplein"
     }, 
     {
-      "lat": 51.21274807372411, 
       "housenumber": "4", 
+      "lat": 51.21274807372411, 
+      "lon": 4.408825151284245, 
       "pcode": 2000, 
-      "street": "Blauwtorenplein", 
-      "lon": 4.408825151284245
+      "street": "Blauwtorenplein"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2000, 
-      "street": "Blauwtorenplein", 
-      "housenumber": "6"
+      "street": "Blauwtorenplein"
     }, 
     {
-      "lat": 51.21266062672038, 
       "housenumber": "6A", 
+      "lat": 51.21266062672038, 
+      "lon": 4.408795308477766, 
       "pcode": 2000, 
-      "street": "Blauwtorenplein", 
-      "lon": 4.408795308477766
+      "street": "Blauwtorenplein"
     }, 
     {
-      "lat": 51.21265641039872, 
       "housenumber": "8", 
+      "lat": 51.21265641039872, 
+      "lon": 4.408771405839238, 
       "pcode": 2000, 
-      "street": "Blauwtorenplein", 
-      "lon": 4.408771405839238
+      "street": "Blauwtorenplein"
     }
-  ], 
-  "name": "Blauwtorenplein"
+  ]
 }

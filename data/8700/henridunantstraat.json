@@ -1,20 +1,18 @@
 {
-  "pcode": 8700, 
   "addresses": [
     {
-      "lat": 51.0010250973694, 
       "housenumber": "11B", 
+      "lat": 51.0010250973694, 
+      "lon": 3.3497207434527834, 
       "pcode": 8700, 
-      "street": "Henri Dunantstraat", 
-      "lon": 3.3497207434527834
+      "street": "Henri Dunantstraat"
     }, 
     {
-      "lat": 51.00176251815877, 
       "housenumber": "2", 
+      "lat": 51.00176251815877, 
+      "lon": 3.348430687187454, 
       "pcode": 8700, 
-      "street": "Henri Dunantstraat", 
-      "lon": 3.348430687187454
+      "street": "Henri Dunantstraat"
     }
-  ], 
-  "name": "Henri Dunantstraat"
+  ]
 }

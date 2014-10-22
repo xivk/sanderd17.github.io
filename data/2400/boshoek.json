@@ -1,20 +1,18 @@
 {
-  "pcode": 2400, 
   "addresses": [
     {
-      "lat": 51.19537158736475, 
       "housenumber": "21", 
+      "lat": 51.19537158736475, 
+      "lon": 5.105745007165892, 
       "pcode": 2400, 
-      "street": "Boshoek", 
-      "lon": 5.105745007165892
+      "street": "Boshoek"
     }, 
     {
-      "lat": 51.19534724116238, 
       "housenumber": "23", 
+      "lat": 51.19534724116238, 
+      "lon": 5.105627597929097, 
       "pcode": 2400, 
-      "street": "Boshoek", 
-      "lon": 5.105627597929097
+      "street": "Boshoek"
     }
-  ], 
-  "name": "Boshoek"
+  ]
 }

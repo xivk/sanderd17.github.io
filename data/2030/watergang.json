@@ -1,38 +1,36 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 2030, 
-      "street": "Watergang", 
-      "housenumber": "10"
+      "street": "Watergang"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 2030, 
-      "street": "Watergang", 
-      "housenumber": "12"
+      "street": "Watergang"
     }, 
     {
+      "housenumber": "368", 
       "pcode": 2030, 
-      "street": "Watergang", 
-      "housenumber": "368"
+      "street": "Watergang"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2030, 
-      "street": "Watergang", 
-      "housenumber": "4"
+      "street": "Watergang"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2030, 
-      "street": "Watergang", 
-      "housenumber": "5"
+      "street": "Watergang"
     }, 
     {
-      "lat": 51.27599679451546, 
       "housenumber": "6", 
+      "lat": 51.27599679451546, 
+      "lon": 4.3587932664950735, 
       "pcode": 2030, 
-      "street": "Watergang", 
-      "lon": 4.3587932664950735
+      "street": "Watergang"
     }
-  ], 
-  "name": "Watergang"
+  ]
 }

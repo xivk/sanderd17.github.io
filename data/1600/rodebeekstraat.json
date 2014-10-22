@@ -1,32 +1,30 @@
 {
-  "pcode": 1600, 
   "addresses": [
     {
-      "lat": 50.76750541158454, 
       "housenumber": "2", 
+      "lat": 50.76750541158454, 
+      "lon": 4.236850849910045, 
       "pcode": 1600, 
-      "street": "Rodebeekstraat", 
-      "lon": 4.236850849910045
+      "street": "Rodebeekstraat"
     }, 
     {
-      "lat": 50.76770855290886, 
       "housenumber": "5", 
+      "lat": 50.76770855290886, 
+      "lon": 4.237551264164124, 
       "pcode": 1600, 
-      "street": "Rodebeekstraat", 
-      "lon": 4.237551264164124
+      "street": "Rodebeekstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 1600, 
-      "street": "Rodebeekstraat", 
-      "housenumber": "7"
+      "street": "Rodebeekstraat"
     }, 
     {
-      "lat": 50.76740273244361, 
       "housenumber": "9", 
+      "lat": 50.76740273244361, 
+      "lon": 4.2375599082882, 
       "pcode": 1600, 
-      "street": "Rodebeekstraat", 
-      "lon": 4.2375599082882
+      "street": "Rodebeekstraat"
     }
-  ], 
-  "name": "Rodebeekstraat"
+  ]
 }

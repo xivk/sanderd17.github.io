@@ -1,32 +1,30 @@
 {
-  "pcode": 1640, 
   "addresses": [
     {
-      "lat": 50.74829806099194, 
       "housenumber": "2", 
+      "lat": 50.74829806099194, 
+      "lon": 4.380077498511577, 
       "pcode": 1640, 
-      "street": "Heuken", 
-      "lon": 4.380077498511577
+      "street": "Heuken"
     }, 
     {
-      "lat": 50.7485656251664, 
       "housenumber": "3", 
+      "lat": 50.7485656251664, 
+      "lon": 4.379787653561221, 
       "pcode": 1640, 
-      "street": "Heuken", 
-      "lon": 4.379787653561221
+      "street": "Heuken"
     }, 
     {
-      "lat": 50.74859896169976, 
       "housenumber": "4", 
+      "lat": 50.74859896169976, 
+      "lon": 4.380795698924068, 
       "pcode": 1640, 
-      "street": "Heuken", 
-      "lon": 4.380795698924068
+      "street": "Heuken"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 1640, 
-      "street": "Heuken", 
-      "housenumber": "5"
+      "street": "Heuken"
     }
-  ], 
-  "name": "Heuken"
+  ]
 }

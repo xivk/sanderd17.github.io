@@ -1,18 +1,16 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
+      "housenumber": "44", 
       "pcode": 3800, 
-      "street": "Langschouw", 
-      "housenumber": "44"
+      "street": "Langschouw"
     }, 
     {
-      "lat": 50.840071905326624, 
       "housenumber": "5", 
+      "lat": 50.840071905326624, 
+      "lon": 5.228601926613867, 
       "pcode": 3800, 
-      "street": "Langschouw", 
-      "lon": 5.228601926613867
+      "street": "Langschouw"
     }
-  ], 
-  "name": "Langschouw"
+  ]
 }

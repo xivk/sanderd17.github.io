@@ -1,27 +1,25 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.23878042186963, 
       "housenumber": "1", 
+      "lat": 51.23878042186963, 
+      "lon": 3.3506969700011764, 
       "pcode": 8340, 
-      "street": "Kleverstraat", 
-      "lon": 3.3506969700011764
+      "street": "Kleverstraat"
     }, 
     {
-      "lat": 51.241222932128245, 
       "housenumber": "3", 
+      "lat": 51.241222932128245, 
+      "lon": 3.3546523464324824, 
       "pcode": 8340, 
-      "street": "Kleverstraat", 
-      "lon": 3.3546523464324824
+      "street": "Kleverstraat"
     }, 
     {
-      "lat": 51.2422934194652, 
       "housenumber": "5", 
+      "lat": 51.2422934194652, 
+      "lon": 3.368743580751339, 
       "pcode": 8340, 
-      "street": "Kleverstraat", 
-      "lon": 3.368743580751339
+      "street": "Kleverstraat"
     }
-  ], 
-  "name": "Kleverstraat"
+  ]
 }

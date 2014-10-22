@@ -1,20 +1,18 @@
 {
-  "pcode": 8600, 
   "addresses": [
     {
-      "lat": 51.02109421623326, 
       "housenumber": "1", 
+      "lat": 51.02109421623326, 
+      "lon": 2.872225638819898, 
       "pcode": 8600, 
-      "street": "Frans Kustersstraat", 
-      "lon": 2.872225638819898
+      "street": "Frans Kustersstraat"
     }, 
     {
-      "lat": 51.02303240545527, 
       "housenumber": "4", 
+      "lat": 51.02303240545527, 
+      "lon": 2.869958506207241, 
       "pcode": 8600, 
-      "street": "Frans Kustersstraat", 
-      "lon": 2.869958506207241
+      "street": "Frans Kustersstraat"
     }
-  ], 
-  "name": "Frans Kustersstraat"
+  ]
 }

@@ -1,23 +1,21 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.204604241318606, 
       "housenumber": "1", 
+      "lat": 51.204604241318606, 
+      "lon": 3.2117611819636376, 
       "pcode": 8000, 
-      "street": "Buiten de Smedenpoort", 
-      "lon": 3.2117611819636376
+      "street": "Buiten de Smedenpoort"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8000, 
-      "street": "Buiten de Smedenpoort", 
-      "housenumber": "2"
+      "street": "Buiten de Smedenpoort"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8000, 
-      "street": "Buiten de Smedenpoort", 
-      "housenumber": "3"
+      "street": "Buiten de Smedenpoort"
     }
-  ], 
-  "name": "Buiten de Smedenpoort"
+  ]
 }

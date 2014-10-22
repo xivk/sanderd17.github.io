@@ -1,32 +1,30 @@
 {
-  "pcode": 9320, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9320, 
-      "street": "Paardeput", 
-      "housenumber": "1"
+      "street": "Paardeput"
     }, 
     {
-      "lat": 50.91968492980862, 
       "housenumber": "10", 
+      "lat": 50.91968492980862, 
+      "lon": 4.0696490017174645, 
       "pcode": 9320, 
-      "street": "Paardeput", 
-      "lon": 4.0696490017174645
+      "street": "Paardeput"
     }, 
     {
-      "lat": 50.92009815952036, 
       "housenumber": "2", 
+      "lat": 50.92009815952036, 
+      "lon": 4.069184312712466, 
       "pcode": 9320, 
-      "street": "Paardeput", 
-      "lon": 4.069184312712466
+      "street": "Paardeput"
     }, 
     {
-      "lat": 50.920186610125185, 
       "housenumber": "4", 
+      "lat": 50.920186610125185, 
+      "lon": 4.069323690808811, 
       "pcode": 9320, 
-      "street": "Paardeput", 
-      "lon": 4.069323690808811
+      "street": "Paardeput"
     }
-  ], 
-  "name": "Paardeput"
+  ]
 }

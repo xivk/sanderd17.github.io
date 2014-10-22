@@ -1,27 +1,25 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.3536059082228, 
       "housenumber": "2", 
+      "lat": 51.3536059082228, 
+      "lon": 3.3161675414940768, 
       "pcode": 8300, 
-      "street": "Zoutedijkske", 
-      "lon": 3.3161675414940768
+      "street": "Zoutedijkske"
     }, 
     {
-      "lat": 51.35375326769897, 
       "housenumber": "4", 
+      "lat": 51.35375326769897, 
+      "lon": 3.316738862769438, 
       "pcode": 8300, 
-      "street": "Zoutedijkske", 
-      "lon": 3.316738862769438
+      "street": "Zoutedijkske"
     }, 
     {
-      "lat": 51.352324053894556, 
       "housenumber": "6", 
+      "lat": 51.352324053894556, 
+      "lon": 3.32256464161777, 
       "pcode": 8300, 
-      "street": "Zoutedijkske", 
-      "lon": 3.32256464161777
+      "street": "Zoutedijkske"
     }
-  ], 
-  "name": "Zoutedijkske"
+  ]
 }

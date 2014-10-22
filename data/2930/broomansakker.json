@@ -1,39 +1,37 @@
 {
-  "pcode": 2930, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2930, 
-      "street": "Broomansakker", 
-      "housenumber": "1"
+      "street": "Broomansakker"
     }, 
     {
-      "lat": 51.288466100863424, 
       "housenumber": "2", 
+      "lat": 51.288466100863424, 
+      "lon": 4.489667459093027, 
       "pcode": 2930, 
-      "street": "Broomansakker", 
-      "lon": 4.489667459093027
+      "street": "Broomansakker"
     }, 
     {
-      "lat": 51.28844410666541, 
       "housenumber": "4", 
+      "lat": 51.28844410666541, 
+      "lon": 4.489816332560619, 
       "pcode": 2930, 
-      "street": "Broomansakker", 
-      "lon": 4.489816332560619
+      "street": "Broomansakker"
     }, 
     {
-      "lat": 51.28840216772991, 
       "housenumber": "6", 
+      "lat": 51.28840216772991, 
+      "lon": 4.489868972189675, 
       "pcode": 2930, 
-      "street": "Broomansakker", 
-      "lon": 4.489868972189675
+      "street": "Broomansakker"
     }, 
     {
-      "lat": 51.28834924923688, 
       "housenumber": "8", 
+      "lat": 51.28834924923688, 
+      "lon": 4.489935200318461, 
       "pcode": 2930, 
-      "street": "Broomansakker", 
-      "lon": 4.489935200318461
+      "street": "Broomansakker"
     }
-  ], 
-  "name": "Broomansakker"
+  ]
 }

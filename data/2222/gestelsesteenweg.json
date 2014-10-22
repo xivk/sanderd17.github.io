@@ -1,27 +1,25 @@
 {
-  "pcode": 2222, 
   "addresses": [
     {
-      "lat": 51.118628936496805, 
       "housenumber": "1", 
+      "lat": 51.118628936496805, 
+      "lon": 4.691372104128911, 
       "pcode": 2222, 
-      "street": "Gestelsesteenweg", 
-      "lon": 4.691372104128911
+      "street": "Gestelsesteenweg"
     }, 
     {
-      "lat": 51.12147885284816, 
       "housenumber": "2", 
+      "lat": 51.12147885284816, 
+      "lon": 4.688963719067335, 
       "pcode": 2222, 
-      "street": "Gestelsesteenweg", 
-      "lon": 4.688963719067335
+      "street": "Gestelsesteenweg"
     }, 
     {
-      "lat": 51.118610928705294, 
       "housenumber": "3", 
+      "lat": 51.118610928705294, 
+      "lon": 4.692332878233352, 
       "pcode": 2222, 
-      "street": "Gestelsesteenweg", 
-      "lon": 4.692332878233352
+      "street": "Gestelsesteenweg"
     }
-  ], 
-  "name": "Gestelsesteenweg"
+  ]
 }

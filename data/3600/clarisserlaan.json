@@ -1,20 +1,18 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.97087463716293, 
       "housenumber": "1", 
+      "lat": 50.97087463716293, 
+      "lon": 5.507728462985849, 
       "pcode": 3600, 
-      "street": "Clarisserlaan", 
-      "lon": 5.507728462985849
+      "street": "Clarisserlaan"
     }, 
     {
-      "lat": 50.9708354564646, 
       "housenumber": "3", 
+      "lat": 50.9708354564646, 
+      "lon": 5.50781949186546, 
       "pcode": 3600, 
-      "street": "Clarisserlaan", 
-      "lon": 5.50781949186546
+      "street": "Clarisserlaan"
     }
-  ], 
-  "name": "Clarisserlaan"
+  ]
 }

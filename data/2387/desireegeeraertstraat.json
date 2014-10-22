@@ -1,18 +1,16 @@
 {
-  "pcode": 2387, 
   "addresses": [
     {
-      "lat": 51.44234283511723, 
       "housenumber": "1", 
+      "lat": 51.44234283511723, 
+      "lon": 4.9300271900057835, 
       "pcode": 2387, 
-      "street": "Desiree Geeraertstraat", 
-      "lon": 4.9300271900057835
+      "street": "Desiree Geeraertstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2387, 
-      "street": "Desiree Geeraertstraat", 
-      "housenumber": "2"
+      "street": "Desiree Geeraertstraat"
     }
-  ], 
-  "name": "Desiree Geeraertstraat"
+  ]
 }

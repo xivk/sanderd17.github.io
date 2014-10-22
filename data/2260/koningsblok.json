@@ -1,20 +1,18 @@
 {
-  "pcode": 2260, 
   "addresses": [
     {
-      "lat": 51.10520787413493, 
       "housenumber": "1", 
+      "lat": 51.10520787413493, 
+      "lon": 4.913381464852067, 
       "pcode": 2260, 
-      "street": "Koningsblok", 
-      "lon": 4.913381464852067
+      "street": "Koningsblok"
     }, 
     {
-      "lat": 51.10514663787178, 
       "housenumber": "3", 
+      "lat": 51.10514663787178, 
+      "lon": 4.913541523242507, 
       "pcode": 2260, 
-      "street": "Koningsblok", 
-      "lon": 4.913541523242507
+      "street": "Koningsblok"
     }
-  ], 
-  "name": "Koningsblok"
+  ]
 }

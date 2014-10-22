@@ -1,42 +1,40 @@
 {
-  "pcode": 9270, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 9270, 
-      "street": "Koewegstraat", 
-      "housenumber": "2"
+      "street": "Koewegstraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 9270, 
-      "street": "Koewegstraat", 
-      "housenumber": "2A"
+      "street": "Koewegstraat"
     }, 
     {
-      "lat": 51.03465503586676, 
       "housenumber": "4", 
+      "lat": 51.03465503586676, 
+      "lon": 3.8336319056774406, 
       "pcode": 9270, 
-      "street": "Koewegstraat", 
-      "lon": 3.8336319056774406
+      "street": "Koewegstraat"
     }, 
     {
-      "lat": 51.034623548626584, 
       "housenumber": "4A", 
+      "lat": 51.034623548626584, 
+      "lon": 3.833606603056819, 
       "pcode": 9270, 
-      "street": "Koewegstraat", 
-      "lon": 3.833606603056819
+      "street": "Koewegstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 9270, 
-      "street": "Koewegstraat", 
-      "housenumber": "7"
+      "street": "Koewegstraat"
     }, 
     {
-      "lat": 51.03514806026908, 
       "housenumber": "8", 
+      "lat": 51.03514806026908, 
+      "lon": 3.835032431437194, 
       "pcode": 9270, 
-      "street": "Koewegstraat", 
-      "lon": 3.835032431437194
+      "street": "Koewegstraat"
     }
-  ], 
-  "name": "Koewegstraat"
+  ]
 }

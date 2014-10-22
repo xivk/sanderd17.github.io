@@ -1,25 +1,23 @@
 {
-  "pcode": 1910, 
   "addresses": [
     {
+      "housenumber": "3", 
       "pcode": 1910, 
-      "street": "Hasseltvoetweg", 
-      "housenumber": "3"
+      "street": "Hasseltvoetweg"
     }, 
     {
-      "lat": 50.93249473329685, 
       "housenumber": "7", 
+      "lat": 50.93249473329685, 
+      "lon": 4.55151166090427, 
       "pcode": 1910, 
-      "street": "Hasseltvoetweg", 
-      "lon": 4.55151166090427
+      "street": "Hasseltvoetweg"
     }, 
     {
-      "lat": 50.93264335715, 
       "housenumber": "9", 
+      "lat": 50.93264335715, 
+      "lon": 4.551088609991369, 
       "pcode": 1910, 
-      "street": "Hasseltvoetweg", 
-      "lon": 4.551088609991369
+      "street": "Hasseltvoetweg"
     }
-  ], 
-  "name": "Hasseltvoetweg"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 9890, 
   "addresses": [
     {
-      "lat": 50.95357223145878, 
       "housenumber": "1", 
+      "lat": 50.95357223145878, 
+      "lon": 3.681303538339754, 
       "pcode": 9890, 
-      "street": "Akkerlos", 
-      "lon": 3.681303538339754
+      "street": "Akkerlos"
     }, 
     {
-      "lat": 50.95352657890564, 
       "housenumber": "5", 
+      "lat": 50.95352657890564, 
+      "lon": 3.680967613261306, 
       "pcode": 9890, 
-      "street": "Akkerlos", 
-      "lon": 3.680967613261306
+      "street": "Akkerlos"
     }, 
     {
-      "lat": 50.953495812642956, 
       "housenumber": "7", 
+      "lat": 50.953495812642956, 
+      "lon": 3.680395072470034, 
       "pcode": 9890, 
-      "street": "Akkerlos", 
-      "lon": 3.680395072470034
+      "street": "Akkerlos"
     }
-  ], 
-  "name": "Akkerlos"
+  ]
 }

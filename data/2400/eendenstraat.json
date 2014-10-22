@@ -1,20 +1,18 @@
 {
-  "pcode": 2400, 
   "addresses": [
     {
-      "lat": 51.19686675747523, 
       "housenumber": "21", 
+      "lat": 51.19686675747523, 
+      "lon": 5.064312638430158, 
       "pcode": 2400, 
-      "street": "Eendenstraat", 
-      "lon": 5.064312638430158
+      "street": "Eendenstraat"
     }, 
     {
-      "lat": 51.19686298865254, 
       "housenumber": "30", 
+      "lat": 51.19686298865254, 
+      "lon": 5.062111093185855, 
       "pcode": 2400, 
-      "street": "Eendenstraat", 
-      "lon": 5.062111093185855
+      "street": "Eendenstraat"
     }
-  ], 
-  "name": "Eendenstraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.732616863500155, 
       "housenumber": "2", 
+      "lat": 50.732616863500155, 
+      "lon": 3.6394844431407183, 
       "pcode": 9600, 
-      "street": "Kattemolenstraat", 
-      "lon": 3.6394844431407183
+      "street": "Kattemolenstraat"
     }, 
     {
-      "lat": 50.73248045523563, 
       "housenumber": "32", 
+      "lat": 50.73248045523563, 
+      "lon": 3.6417211754239367, 
       "pcode": 9600, 
-      "street": "Kattemolenstraat", 
-      "lon": 3.6417211754239367
+      "street": "Kattemolenstraat"
     }, 
     {
-      "lat": 50.73238606695558, 
       "housenumber": "34", 
+      "lat": 50.73238606695558, 
+      "lon": 3.641664693146693, 
       "pcode": 9600, 
-      "street": "Kattemolenstraat", 
-      "lon": 3.641664693146693
+      "street": "Kattemolenstraat"
     }
-  ], 
-  "name": "Kattemolenstraat"
+  ]
 }

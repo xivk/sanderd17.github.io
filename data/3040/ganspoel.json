@@ -1,25 +1,23 @@
 {
-  "pcode": 3040, 
   "addresses": [
     {
-      "lat": 50.80828493622839, 
       "housenumber": "2", 
+      "lat": 50.80828493622839, 
+      "lon": 4.576374664165374, 
       "pcode": 3040, 
-      "street": "Ganspoel", 
-      "lon": 4.576374664165374
+      "street": "Ganspoel"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 3040, 
-      "street": "Ganspoel", 
-      "housenumber": "2A"
+      "street": "Ganspoel"
     }, 
     {
-      "lat": 50.808218231768876, 
       "housenumber": "4", 
+      "lat": 50.808218231768876, 
+      "lon": 4.57597044283092, 
       "pcode": 3040, 
-      "street": "Ganspoel", 
-      "lon": 4.57597044283092
+      "street": "Ganspoel"
     }
-  ], 
-  "name": "Ganspoel"
+  ]
 }

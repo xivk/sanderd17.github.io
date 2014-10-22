@@ -1,40 +1,38 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3500, 
-      "street": "Jeneverplein", 
-      "housenumber": "1"
+      "street": "Jeneverplein"
     }, 
     {
-      "lat": 50.9329773478752, 
       "housenumber": "2", 
+      "lat": 50.9329773478752, 
+      "lon": 5.340897956985845, 
       "pcode": 3500, 
-      "street": "Jeneverplein", 
-      "lon": 5.340897956985845
+      "street": "Jeneverplein"
     }, 
     {
-      "lat": 50.93311868157986, 
       "housenumber": "3", 
+      "lat": 50.93311868157986, 
+      "lon": 5.340733865982766, 
       "pcode": 3500, 
-      "street": "Jeneverplein", 
-      "lon": 5.340733865982766
+      "street": "Jeneverplein"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3500, 
-      "street": "Jeneverplein", 
-      "housenumber": "4"
+      "street": "Jeneverplein"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3500, 
-      "street": "Jeneverplein", 
-      "housenumber": "8"
+      "street": "Jeneverplein"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 3500, 
-      "street": "Jeneverplein", 
-      "housenumber": "9"
+      "street": "Jeneverplein"
     }
-  ], 
-  "name": "Jeneverplein"
+  ]
 }

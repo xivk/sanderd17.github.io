@@ -1,20 +1,18 @@
 {
-  "pcode": 2460, 
   "addresses": [
     {
-      "lat": 51.22751952874431, 
       "housenumber": "1", 
+      "lat": 51.22751952874431, 
+      "lon": 4.9463125720826, 
       "pcode": 2460, 
-      "street": "Hoge Weg", 
-      "lon": 4.9463125720826
+      "street": "Hoge Weg"
     }, 
     {
-      "lat": 51.227735930839934, 
       "housenumber": "5", 
+      "lat": 51.227735930839934, 
+      "lon": 4.945751499572136, 
       "pcode": 2460, 
-      "street": "Hoge Weg", 
-      "lon": 4.945751499572136
+      "street": "Hoge Weg"
     }
-  ], 
-  "name": "Hoge Weg"
+  ]
 }

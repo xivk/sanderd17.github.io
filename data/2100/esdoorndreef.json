@@ -1,49 +1,47 @@
 {
-  "pcode": 2100, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2100, 
-      "street": "Esdoorndreef", 
-      "housenumber": "1"
+      "street": "Esdoorndreef"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 2100, 
-      "street": "Esdoorndreef", 
-      "housenumber": "11"
+      "street": "Esdoorndreef"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2100, 
-      "street": "Esdoorndreef", 
-      "housenumber": "2"
+      "street": "Esdoorndreef"
     }, 
     {
-      "lat": 51.20956870547979, 
       "housenumber": "3", 
+      "lat": 51.20956870547979, 
+      "lon": 4.469582251527667, 
       "pcode": 2100, 
-      "street": "Esdoorndreef", 
-      "lon": 4.469582251527667
+      "street": "Esdoorndreef"
     }, 
     {
-      "lat": 51.209675667522774, 
       "housenumber": "5", 
+      "lat": 51.209675667522774, 
+      "lon": 4.469582627457428, 
       "pcode": 2100, 
-      "street": "Esdoorndreef", 
-      "lon": 4.469582627457428
+      "street": "Esdoorndreef"
     }, 
     {
-      "lat": 51.2098008773991, 
       "housenumber": "7", 
+      "lat": 51.2098008773991, 
+      "lon": 4.469581469023033, 
       "pcode": 2100, 
-      "street": "Esdoorndreef", 
-      "lon": 4.469581469023033
+      "street": "Esdoorndreef"
     }, 
     {
-      "lat": 51.209934974043655, 
       "housenumber": "9", 
+      "lat": 51.209934974043655, 
+      "lon": 4.469489318784849, 
       "pcode": 2100, 
-      "street": "Esdoorndreef", 
-      "lon": 4.469489318784849
+      "street": "Esdoorndreef"
     }
-  ], 
-  "name": "Esdoorndreef"
+  ]
 }

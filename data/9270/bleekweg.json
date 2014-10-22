@@ -1,30 +1,28 @@
 {
-  "pcode": 9270, 
   "addresses": [
     {
-      "lat": 51.03597352285076, 
       "housenumber": "1", 
+      "lat": 51.03597352285076, 
+      "lon": 3.920649319212367, 
       "pcode": 9270, 
-      "street": "Bleekweg", 
-      "lon": 3.920649319212367
+      "street": "Bleekweg"
     }, 
     {
+      "housenumber": "19", 
       "pcode": 9270, 
-      "street": "Bleekweg", 
-      "housenumber": "19"
+      "street": "Bleekweg"
     }, 
     {
+      "housenumber": "21", 
       "pcode": 9270, 
-      "street": "Bleekweg", 
-      "housenumber": "21"
+      "street": "Bleekweg"
     }, 
     {
-      "lat": 51.035928269559925, 
       "housenumber": "3", 
+      "lat": 51.035928269559925, 
+      "lon": 3.9208286768589633, 
       "pcode": 9270, 
-      "street": "Bleekweg", 
-      "lon": 3.9208286768589633
+      "street": "Bleekweg"
     }
-  ], 
-  "name": "Bleekweg"
+  ]
 }

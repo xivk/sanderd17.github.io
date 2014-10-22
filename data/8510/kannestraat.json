@@ -1,20 +1,18 @@
 {
-  "pcode": 8510, 
   "addresses": [
     {
-      "lat": 50.776758464055455, 
       "housenumber": "2", 
+      "lat": 50.776758464055455, 
+      "lon": 3.2635829983924745, 
       "pcode": 8510, 
-      "street": "Kannestraat", 
-      "lon": 3.2635829983924745
+      "street": "Kannestraat"
     }, 
     {
-      "lat": 50.77728850814786, 
       "housenumber": "4", 
+      "lat": 50.77728850814786, 
+      "lon": 3.2686608854480537, 
       "pcode": 8510, 
-      "street": "Kannestraat", 
-      "lon": 3.2686608854480537
+      "street": "Kannestraat"
     }
-  ], 
-  "name": "Kannestraat"
+  ]
 }

@@ -1,37 +1,35 @@
 {
-  "pcode": 3290, 
   "addresses": [
     {
-      "lat": 50.99028776021976, 
       "housenumber": "1", 
+      "lat": 50.99028776021976, 
+      "lon": 5.057172452832743, 
       "pcode": 3290, 
-      "street": "Leopoldvest", 
-      "lon": 5.057172452832743
+      "street": "Leopoldvest"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3290, 
-      "street": "Leopoldvest", 
-      "housenumber": "3"
+      "street": "Leopoldvest"
     }, 
     {
-      "lat": 50.98401426412063, 
       "housenumber": "48", 
+      "lat": 50.98401426412063, 
+      "lon": 5.06362947415863, 
       "pcode": 3290, 
-      "street": "Leopoldvest", 
-      "lon": 5.06362947415863
+      "street": "Leopoldvest"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3290, 
-      "street": "Leopoldvest", 
-      "housenumber": "5"
+      "street": "Leopoldvest"
     }, 
     {
-      "lat": 50.98301667454384, 
       "housenumber": "50", 
+      "lat": 50.98301667454384, 
+      "lon": 5.0631615124035365, 
       "pcode": 3290, 
-      "street": "Leopoldvest", 
-      "lon": 5.0631615124035365
+      "street": "Leopoldvest"
     }
-  ], 
-  "name": "Leopoldvest"
+  ]
 }

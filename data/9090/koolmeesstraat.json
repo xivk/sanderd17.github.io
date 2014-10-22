@@ -1,51 +1,49 @@
 {
-  "pcode": 9090, 
   "addresses": [
     {
-      "lat": 50.992841406616506, 
       "housenumber": "1", 
+      "lat": 50.992841406616506, 
+      "lon": 3.7976503900461775, 
       "pcode": 9090, 
-      "street": "Koolmeesstraat", 
-      "lon": 3.7976503900461775
+      "street": "Koolmeesstraat"
     }, 
     {
-      "lat": 50.99267963877681, 
       "housenumber": "10", 
+      "lat": 50.99267963877681, 
+      "lon": 3.7987910236463174, 
       "pcode": 9090, 
-      "street": "Koolmeesstraat", 
-      "lon": 3.7987910236463174
+      "street": "Koolmeesstraat"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 9090, 
-      "street": "Koolmeesstraat", 
-      "housenumber": "12"
+      "street": "Koolmeesstraat"
     }, 
     {
-      "lat": 50.992995637456765, 
       "housenumber": "3", 
+      "lat": 50.992995637456765, 
+      "lon": 3.7977375381355727, 
       "pcode": 9090, 
-      "street": "Koolmeesstraat", 
-      "lon": 3.7977375381355727
+      "street": "Koolmeesstraat"
     }, 
     {
+      "housenumber": "375", 
       "pcode": 9090, 
-      "street": "Koolmeesstraat", 
-      "housenumber": "375"
+      "street": "Koolmeesstraat"
     }, 
     {
-      "lat": 50.99261045190933, 
       "housenumber": "4", 
+      "lat": 50.99261045190933, 
+      "lon": 3.797999187399208, 
       "pcode": 9090, 
-      "street": "Koolmeesstraat", 
-      "lon": 3.797999187399208
+      "street": "Koolmeesstraat"
     }, 
     {
-      "lat": 50.99314287955405, 
       "housenumber": "5", 
+      "lat": 50.99314287955405, 
+      "lon": 3.7978479897769306, 
       "pcode": 9090, 
-      "street": "Koolmeesstraat", 
-      "lon": 3.7978479897769306
+      "street": "Koolmeesstraat"
     }
-  ], 
-  "name": "Koolmeesstraat"
+  ]
 }

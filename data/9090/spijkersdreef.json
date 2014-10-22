@@ -1,20 +1,18 @@
 {
-  "pcode": 9090, 
   "addresses": [
     {
-      "lat": 51.011278792888525, 
       "housenumber": "1", 
+      "lat": 51.011278792888525, 
+      "lon": 3.7925792740760413, 
       "pcode": 9090, 
-      "street": "Spijkersdreef", 
-      "lon": 3.7925792740760413
+      "street": "Spijkersdreef"
     }, 
     {
-      "lat": 51.01067927300956, 
       "housenumber": "2", 
+      "lat": 51.01067927300956, 
+      "lon": 3.792464664233537, 
       "pcode": 9090, 
-      "street": "Spijkersdreef", 
-      "lon": 3.792464664233537
+      "street": "Spijkersdreef"
     }
-  ], 
-  "name": "Spijkersdreef"
+  ]
 }

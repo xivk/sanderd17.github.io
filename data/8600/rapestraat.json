@@ -1,25 +1,23 @@
 {
-  "pcode": 8600, 
   "addresses": [
     {
-      "lat": 51.000168477272744, 
       "housenumber": "1", 
+      "lat": 51.000168477272744, 
+      "lon": 2.82827718965209, 
       "pcode": 8600, 
-      "street": "Rapestraat", 
-      "lon": 2.82827718965209
+      "street": "Rapestraat"
     }, 
     {
-      "lat": 50.997083901313566, 
       "housenumber": "2", 
+      "lat": 50.997083901313566, 
+      "lon": 2.824625225056743, 
       "pcode": 8600, 
-      "street": "Rapestraat", 
-      "lon": 2.824625225056743
+      "street": "Rapestraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8600, 
-      "street": "Rapestraat", 
-      "housenumber": "3"
+      "street": "Rapestraat"
     }
-  ], 
-  "name": "Rapestraat"
+  ]
 }

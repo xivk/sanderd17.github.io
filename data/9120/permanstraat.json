@@ -1,20 +1,18 @@
 {
-  "pcode": 9120, 
   "addresses": [
     {
-      "lat": 51.22057986423653, 
       "housenumber": "2", 
+      "lat": 51.22057986423653, 
+      "lon": 4.220814375275392, 
       "pcode": 9120, 
-      "street": "Permanstraat", 
-      "lon": 4.220814375275392
+      "street": "Permanstraat"
     }, 
     {
-      "lat": 51.2189764497919, 
       "housenumber": "4", 
+      "lat": 51.2189764497919, 
+      "lon": 4.2209810289836005, 
       "pcode": 9120, 
-      "street": "Permanstraat", 
-      "lon": 4.2209810289836005
+      "street": "Permanstraat"
     }
-  ], 
-  "name": "Permanstraat"
+  ]
 }

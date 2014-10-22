@@ -1,18 +1,16 @@
 {
-  "pcode": 8450, 
   "addresses": [
     {
-      "lat": 51.223265877793665, 
       "housenumber": "11", 
+      "lat": 51.223265877793665, 
+      "lon": 2.9494630750701565, 
       "pcode": 8450, 
-      "street": "Ostendialaan", 
-      "lon": 2.9494630750701565
+      "street": "Ostendialaan"
     }, 
     {
+      "housenumber": "53", 
       "pcode": 8450, 
-      "street": "Ostendialaan", 
-      "housenumber": "53"
+      "street": "Ostendialaan"
     }
-  ], 
-  "name": "Ostendialaan"
+  ]
 }

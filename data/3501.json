@@ -1,49 +1,49 @@
 {
   "streets": [
     {
-      "latmax": 50.88085294660307, 
+      "b": 50.87977971743892, 
+      "l": 5.359813966033752, 
       "name": "Eikenveld", 
-      "lonmin": 5.359813966033752, 
-      "sanName": "eikenveld", 
       "numOfAddr": 2, 
-      "lonmax": 5.360863780285829, 
-      "latmin": 50.87977971743892
+      "r": 5.360863780285829, 
+      "sanName": "eikenveld", 
+      "t": 50.88085294660307
     }, 
     {
-      "latmax": 50.87715463049091, 
+      "b": 50.87505075798068, 
+      "l": 5.347978135840507, 
       "name": "Hoogbrug", 
-      "lonmin": 5.347978135840507, 
-      "sanName": "hoogbrug", 
       "numOfAddr": 3, 
-      "lonmax": 5.349503507554628, 
-      "latmin": 50.87505075798068
+      "r": 5.349503507554628, 
+      "sanName": "hoogbrug", 
+      "t": 50.87715463049091
     }, 
     {
-      "latmax": 50.88560170508661, 
+      "b": 50.87892300266312, 
+      "l": 5.351250251214684, 
       "name": "Luikersteenweg", 
-      "lonmin": 5.351250251214684, 
-      "sanName": "luikersteenweg", 
       "numOfAddr": 55, 
-      "lonmax": 5.3591474450704295, 
-      "latmin": 50.87892300266312
+      "r": 5.3591474450704295, 
+      "sanName": "luikersteenweg", 
+      "t": 50.88560170508661
     }, 
     {
-      "latmax": 50.88330306253043, 
+      "b": 50.8815783591586, 
+      "l": 5.347473053621434, 
       "name": "Smetstraat", 
-      "lonmin": 5.347473053621434, 
-      "sanName": "smetstraat", 
       "numOfAddr": 33, 
-      "lonmax": 5.3519401445461, 
-      "latmin": 50.8815783591586
+      "r": 5.3519401445461, 
+      "sanName": "smetstraat", 
+      "t": 50.88330306253043
     }, 
     {
-      "latmax": 50.88512358934479, 
+      "b": 50.88085074194425, 
+      "l": 5.347226975811198, 
       "name": "Wimmertingenstraat", 
-      "lonmin": 5.347226975811198, 
-      "sanName": "wimmertingenstraat", 
       "numOfAddr": 37, 
-      "lonmax": 5.351333617567147, 
-      "latmin": 50.88085074194425
+      "r": 5.351333617567147, 
+      "sanName": "wimmertingenstraat", 
+      "t": 50.88512358934479
     }
   ]
 }

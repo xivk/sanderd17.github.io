@@ -1,27 +1,25 @@
 {
-  "pcode": 9300, 
   "addresses": [
     {
-      "lat": 50.940381664197304, 
       "housenumber": "1", 
+      "lat": 50.940381664197304, 
+      "lon": 4.015921269181203, 
       "pcode": 9300, 
-      "street": "Terlindendreef", 
-      "lon": 4.015921269181203
+      "street": "Terlindendreef"
     }, 
     {
-      "lat": 50.94135727343389, 
       "housenumber": "8", 
+      "lat": 50.94135727343389, 
+      "lon": 4.015169813798243, 
       "pcode": 9300, 
-      "street": "Terlindendreef", 
-      "lon": 4.015169813798243
+      "street": "Terlindendreef"
     }, 
     {
-      "lat": 50.94239539941928, 
       "housenumber": "9", 
+      "lat": 50.94239539941928, 
+      "lon": 4.015181212800733, 
       "pcode": 9300, 
-      "street": "Terlindendreef", 
-      "lon": 4.015181212800733
+      "street": "Terlindendreef"
     }
-  ], 
-  "name": "Terlindendreef"
+  ]
 }

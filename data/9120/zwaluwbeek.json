@@ -1,54 +1,52 @@
 {
-  "pcode": 9120, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9120, 
-      "street": "Zwaluwbeek", 
-      "housenumber": "1"
+      "street": "Zwaluwbeek"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 9120, 
-      "street": "Zwaluwbeek", 
-      "housenumber": "10"
+      "street": "Zwaluwbeek"
     }, 
     {
-      "lat": 51.19867013256515, 
       "housenumber": "2", 
+      "lat": 51.19867013256515, 
+      "lon": 4.31821232563264, 
       "pcode": 9120, 
-      "street": "Zwaluwbeek", 
-      "lon": 4.31821232563264
+      "street": "Zwaluwbeek"
     }, 
     {
-      "lat": 51.197706203203474, 
       "housenumber": "3", 
+      "lat": 51.197706203203474, 
+      "lon": 4.318625802369641, 
       "pcode": 9120, 
-      "street": "Zwaluwbeek", 
-      "lon": 4.318625802369641
+      "street": "Zwaluwbeek"
     }, 
     {
+      "housenumber": "3B", 
       "pcode": 9120, 
-      "street": "Zwaluwbeek", 
-      "housenumber": "3B"
+      "street": "Zwaluwbeek"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9120, 
-      "street": "Zwaluwbeek", 
-      "housenumber": "4"
+      "street": "Zwaluwbeek"
     }, 
     {
-      "lat": 51.19788687506206, 
       "housenumber": "6", 
+      "lat": 51.19788687506206, 
+      "lon": 4.3165300354573555, 
       "pcode": 9120, 
-      "street": "Zwaluwbeek", 
-      "lon": 4.3165300354573555
+      "street": "Zwaluwbeek"
     }, 
     {
-      "lat": 51.19752599708316, 
       "housenumber": "7", 
+      "lat": 51.19752599708316, 
+      "lon": 4.3175925198073815, 
       "pcode": 9120, 
-      "street": "Zwaluwbeek", 
-      "lon": 4.3175925198073815
+      "street": "Zwaluwbeek"
     }
-  ], 
-  "name": "Zwaluwbeek"
+  ]
 }

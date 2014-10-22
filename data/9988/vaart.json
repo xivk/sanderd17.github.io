@@ -1,46 +1,44 @@
 {
-  "pcode": 9988, 
   "addresses": [
     {
-      "lat": 51.26191201050181, 
       "housenumber": "1", 
+      "lat": 51.26191201050181, 
+      "lon": 3.610622970168809, 
       "pcode": 9988, 
-      "street": "Vaart", 
-      "lon": 3.610622970168809
+      "street": "Vaart"
     }, 
     {
-      "lat": 51.26273780074043, 
       "housenumber": "10", 
+      "lat": 51.26273780074043, 
+      "lon": 3.609976868081353, 
       "pcode": 9988, 
-      "street": "Vaart", 
-      "lon": 3.609976868081353
+      "street": "Vaart"
     }, 
     {
+      "housenumber": "2b", 
       "pcode": 9988, 
-      "street": "Vaart", 
-      "housenumber": "2b"
+      "street": "Vaart"
     }, 
     {
-      "lat": 51.26383309319737, 
       "housenumber": "4", 
+      "lat": 51.26383309319737, 
+      "lon": 3.6145259863540113, 
       "pcode": 9988, 
-      "street": "Vaart", 
-      "lon": 3.6145259863540113
+      "street": "Vaart"
     }, 
     {
-      "lat": 51.26317160538473, 
       "housenumber": "6", 
+      "lat": 51.26317160538473, 
+      "lon": 3.612790080971332, 
       "pcode": 9988, 
-      "street": "Vaart", 
-      "lon": 3.612790080971332
+      "street": "Vaart"
     }, 
     {
-      "lat": 51.2628119868298, 
       "housenumber": "8", 
+      "lat": 51.2628119868298, 
+      "lon": 3.6116953190070222, 
       "pcode": 9988, 
-      "street": "Vaart", 
-      "lon": 3.6116953190070222
+      "street": "Vaart"
     }
-  ], 
-  "name": "Vaart"
+  ]
 }

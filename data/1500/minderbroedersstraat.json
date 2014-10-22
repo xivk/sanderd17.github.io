@@ -1,69 +1,67 @@
 {
-  "pcode": 1500, 
   "addresses": [
     {
-      "lat": 50.73519577796486, 
       "housenumber": "1", 
+      "lat": 50.73519577796486, 
+      "lon": 4.233902548391491, 
       "pcode": 1500, 
-      "street": "Minderbroedersstraat", 
-      "lon": 4.233902548391491
+      "street": "Minderbroedersstraat"
     }, 
     {
-      "lat": 50.734979663655146, 
       "housenumber": "10", 
+      "lat": 50.734979663655146, 
+      "lon": 4.233433146025673, 
       "pcode": 1500, 
-      "street": "Minderbroedersstraat", 
-      "lon": 4.233433146025673
+      "street": "Minderbroedersstraat"
     }, 
     {
-      "lat": 50.73542854410329, 
       "housenumber": "2", 
+      "lat": 50.73542854410329, 
+      "lon": 4.233685431817021, 
       "pcode": 1500, 
-      "street": "Minderbroedersstraat", 
-      "lon": 4.233685431817021
+      "street": "Minderbroedersstraat"
     }, 
     {
-      "lat": 50.73515127427376, 
       "housenumber": "3", 
+      "lat": 50.73515127427376, 
+      "lon": 4.23389885035054, 
       "pcode": 1500, 
-      "street": "Minderbroedersstraat", 
-      "lon": 4.23389885035054
+      "street": "Minderbroedersstraat"
     }, 
     {
-      "lat": 50.735147904282414, 
       "housenumber": "4", 
-      "pcode": 1500, 
-      "street": "Minderbroedersstraat", 
-      "lon": 4.233547549516115
-    }, 
-    {
-      "lat": 50.73511746400903, 
-      "housenumber": "5", 
-      "pcode": 1500, 
-      "street": "Minderbroedersstraat", 
-      "lon": 4.233891297120666
-    }, 
-    {
-      "lat": 50.735211214167606, 
-      "housenumber": "6", 
-      "pcode": 1500, 
-      "street": "Minderbroedersstraat", 
-      "lon": 4.233566492563377
-    }, 
-    {
-      "lat": 50.734919559284215, 
-      "housenumber": "7", 
-      "pcode": 1500, 
-      "street": "Minderbroedersstraat", 
-      "lon": 4.233856871419367
-    }, 
-    {
       "lat": 50.735147904282414, 
-      "housenumber": "8", 
+      "lon": 4.233547549516115, 
       "pcode": 1500, 
-      "street": "Minderbroedersstraat", 
-      "lon": 4.233547549516115
+      "street": "Minderbroedersstraat"
+    }, 
+    {
+      "housenumber": "5", 
+      "lat": 50.73511746400903, 
+      "lon": 4.233891297120666, 
+      "pcode": 1500, 
+      "street": "Minderbroedersstraat"
+    }, 
+    {
+      "housenumber": "6", 
+      "lat": 50.735211214167606, 
+      "lon": 4.233566492563377, 
+      "pcode": 1500, 
+      "street": "Minderbroedersstraat"
+    }, 
+    {
+      "housenumber": "7", 
+      "lat": 50.734919559284215, 
+      "lon": 4.233856871419367, 
+      "pcode": 1500, 
+      "street": "Minderbroedersstraat"
+    }, 
+    {
+      "housenumber": "8", 
+      "lat": 50.735147904282414, 
+      "lon": 4.233547549516115, 
+      "pcode": 1500, 
+      "street": "Minderbroedersstraat"
     }
-  ], 
-  "name": "Minderbroedersstraat"
+  ]
 }

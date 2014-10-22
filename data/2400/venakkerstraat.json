@@ -1,27 +1,25 @@
 {
-  "pcode": 2400, 
   "addresses": [
     {
-      "lat": 51.17870058081872, 
       "housenumber": "10", 
+      "lat": 51.17870058081872, 
+      "lon": 5.102154644303795, 
       "pcode": 2400, 
-      "street": "Venakkerstraat", 
-      "lon": 5.102154644303795
+      "street": "Venakkerstraat"
     }, 
     {
-      "lat": 51.178466170213675, 
       "housenumber": "2", 
+      "lat": 51.178466170213675, 
+      "lon": 5.099876675198432, 
       "pcode": 2400, 
-      "street": "Venakkerstraat", 
-      "lon": 5.099876675198432
+      "street": "Venakkerstraat"
     }, 
     {
-      "lat": 51.177955791386026, 
       "housenumber": "8", 
+      "lat": 51.177955791386026, 
+      "lon": 5.1002369178611495, 
       "pcode": 2400, 
-      "street": "Venakkerstraat", 
-      "lon": 5.1002369178611495
+      "street": "Venakkerstraat"
     }
-  ], 
-  "name": "Venakkerstraat"
+  ]
 }

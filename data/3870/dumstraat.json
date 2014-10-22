@@ -1,20 +1,18 @@
 {
-  "pcode": 3870, 
   "addresses": [
     {
-      "lat": 50.77274676835235, 
       "housenumber": "2", 
+      "lat": 50.77274676835235, 
+      "lon": 5.355139262252586, 
       "pcode": 3870, 
-      "street": "Dumstraat", 
-      "lon": 5.355139262252586
+      "street": "Dumstraat"
     }, 
     {
-      "lat": 50.772595804166954, 
       "housenumber": "4", 
+      "lat": 50.772595804166954, 
+      "lon": 5.354906267954722, 
       "pcode": 3870, 
-      "street": "Dumstraat", 
-      "lon": 5.354906267954722
+      "street": "Dumstraat"
     }
-  ], 
-  "name": "Dumstraat"
+  ]
 }

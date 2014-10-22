@@ -1,32 +1,30 @@
 {
-  "pcode": 2430, 
   "addresses": [
     {
-      "lat": 51.08539662852211, 
       "housenumber": "1", 
+      "lat": 51.08539662852211, 
+      "lon": 4.973271378194813, 
       "pcode": 2430, 
-      "street": "Waterstraat", 
-      "lon": 4.973271378194813
+      "street": "Waterstraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 2430, 
-      "street": "Waterstraat", 
-      "housenumber": "1A"
+      "street": "Waterstraat"
     }, 
     {
-      "lat": 51.08705651354487, 
       "housenumber": "2", 
+      "lat": 51.08705651354487, 
+      "lon": 4.974400428716113, 
       "pcode": 2430, 
-      "street": "Waterstraat", 
-      "lon": 4.974400428716113
+      "street": "Waterstraat"
     }, 
     {
-      "lat": 51.08620752555894, 
       "housenumber": "3", 
+      "lat": 51.08620752555894, 
+      "lon": 4.97180124079502, 
       "pcode": 2430, 
-      "street": "Waterstraat", 
-      "lon": 4.97180124079502
+      "street": "Waterstraat"
     }
-  ], 
-  "name": "Waterstraat"
+  ]
 }

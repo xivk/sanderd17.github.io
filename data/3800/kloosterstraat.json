@@ -1,32 +1,30 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
-      "lat": 50.78256955493745, 
       "housenumber": "2", 
+      "lat": 50.78256955493745, 
+      "lon": 5.265946680565775, 
       "pcode": 3800, 
-      "street": "Kloosterstraat", 
-      "lon": 5.265946680565775
+      "street": "Kloosterstraat"
     }, 
     {
-      "lat": 50.78276721568993, 
       "housenumber": "3", 
+      "lat": 50.78276721568993, 
+      "lon": 5.265071507382292, 
       "pcode": 3800, 
-      "street": "Kloosterstraat", 
-      "lon": 5.265071507382292
+      "street": "Kloosterstraat"
     }, 
     {
-      "lat": 50.78261304053855, 
       "housenumber": "4", 
+      "lat": 50.78261304053855, 
+      "lon": 5.265774359578126, 
       "pcode": 3800, 
-      "street": "Kloosterstraat", 
-      "lon": 5.265774359578126
+      "street": "Kloosterstraat"
     }, 
     {
+      "housenumber": "4B", 
       "pcode": 3800, 
-      "street": "Kloosterstraat", 
-      "housenumber": "4B"
+      "street": "Kloosterstraat"
     }
-  ], 
-  "name": "Kloosterstraat"
+  ]
 }

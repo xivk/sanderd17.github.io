@@ -1,34 +1,32 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 51.007468915023374, 
       "housenumber": "1", 
+      "lat": 51.007468915023374, 
+      "lon": 3.477209297058019, 
       "pcode": 9800, 
-      "street": "Zandweg", 
-      "lon": 3.477209297058019
+      "street": "Zandweg"
     }, 
     {
-      "lat": 51.007476723868606, 
       "housenumber": "3", 
+      "lat": 51.007476723868606, 
+      "lon": 3.4770414367122826, 
       "pcode": 9800, 
-      "street": "Zandweg", 
-      "lon": 3.4770414367122826
+      "street": "Zandweg"
     }, 
     {
-      "lat": 51.00762664439059, 
       "housenumber": "5", 
+      "lat": 51.00762664439059, 
+      "lon": 3.4770377300501902, 
       "pcode": 9800, 
-      "street": "Zandweg", 
-      "lon": 3.4770377300501902
+      "street": "Zandweg"
     }, 
     {
-      "lat": 51.0077128412427, 
       "housenumber": "7", 
+      "lat": 51.0077128412427, 
+      "lon": 3.4770001825477035, 
       "pcode": 9800, 
-      "street": "Zandweg", 
-      "lon": 3.4770001825477035
+      "street": "Zandweg"
     }
-  ], 
-  "name": "Zandweg"
+  ]
 }

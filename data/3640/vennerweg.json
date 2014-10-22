@@ -1,27 +1,25 @@
 {
-  "pcode": 3640, 
   "addresses": [
     {
-      "lat": 51.12303282507894, 
       "housenumber": "1", 
+      "lat": 51.12303282507894, 
+      "lon": 5.789252920355001, 
       "pcode": 3640, 
-      "street": "Vennerweg", 
-      "lon": 5.789252920355001
+      "street": "Vennerweg"
     }, 
     {
-      "lat": 51.12271254189535, 
       "housenumber": "2", 
+      "lat": 51.12271254189535, 
+      "lon": 5.789473179712337, 
       "pcode": 3640, 
-      "street": "Vennerweg", 
-      "lon": 5.789473179712337
+      "street": "Vennerweg"
     }, 
     {
-      "lat": 51.12142908642449, 
       "housenumber": "3", 
+      "lat": 51.12142908642449, 
+      "lon": 5.788405012839883, 
       "pcode": 3640, 
-      "street": "Vennerweg", 
-      "lon": 5.788405012839883
+      "street": "Vennerweg"
     }
-  ], 
-  "name": "Vennerweg"
+  ]
 }

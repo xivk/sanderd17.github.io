@@ -1,37 +1,35 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.80473735702139, 
       "housenumber": "20", 
+      "lat": 50.80473735702139, 
+      "lon": 4.936824277851422, 
       "pcode": 3300, 
-      "street": "Sint-Jorisplein", 
-      "lon": 4.936824277851422
+      "street": "Sint-Jorisplein"
     }, 
     {
+      "housenumber": "25", 
       "pcode": 3300, 
-      "street": "Sint-Jorisplein", 
-      "housenumber": "25"
+      "street": "Sint-Jorisplein"
     }, 
     {
-      "lat": 50.80428279386042, 
       "housenumber": "26", 
+      "lat": 50.80428279386042, 
+      "lon": 4.936590656786243, 
       "pcode": 3300, 
-      "street": "Sint-Jorisplein", 
-      "lon": 4.936590656786243
+      "street": "Sint-Jorisplein"
     }, 
     {
+      "housenumber": "28", 
       "pcode": 3300, 
-      "street": "Sint-Jorisplein", 
-      "housenumber": "28"
+      "street": "Sint-Jorisplein"
     }, 
     {
-      "lat": 50.804252325317655, 
       "housenumber": "30", 
+      "lat": 50.804252325317655, 
+      "lon": 4.936644766472346, 
       "pcode": 3300, 
-      "street": "Sint-Jorisplein", 
-      "lon": 4.936644766472346
+      "street": "Sint-Jorisplein"
     }
-  ], 
-  "name": "Sint-Jorisplein"
+  ]
 }

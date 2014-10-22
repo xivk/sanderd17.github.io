@@ -1,27 +1,25 @@
 {
-  "pcode": 2300, 
   "addresses": [
     {
-      "lat": 51.338422132746615, 
       "housenumber": "2", 
+      "lat": 51.338422132746615, 
+      "lon": 4.936332957772551, 
       "pcode": 2300, 
-      "street": "Elzenstraat", 
-      "lon": 4.936332957772551
+      "street": "Elzenstraat"
     }, 
     {
-      "lat": 51.34267884238474, 
       "housenumber": "21", 
+      "lat": 51.34267884238474, 
+      "lon": 4.935191244292864, 
       "pcode": 2300, 
-      "street": "Elzenstraat", 
-      "lon": 4.935191244292864
+      "street": "Elzenstraat"
     }, 
     {
-      "lat": 51.34262297675518, 
       "housenumber": "23", 
+      "lat": 51.34262297675518, 
+      "lon": 4.935201469861002, 
       "pcode": 2300, 
-      "street": "Elzenstraat", 
-      "lon": 4.935201469861002
+      "street": "Elzenstraat"
     }
-  ], 
-  "name": "Elzenstraat"
+  ]
 }

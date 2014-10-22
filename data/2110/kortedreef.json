@@ -1,30 +1,28 @@
 {
-  "pcode": 2110, 
   "addresses": [
     {
-      "lat": 51.23019723344861, 
       "housenumber": "12", 
+      "lat": 51.23019723344861, 
+      "lon": 4.552151828146362, 
       "pcode": 2110, 
-      "street": "Korte Dreef", 
-      "lon": 4.552151828146362
+      "street": "Korte Dreef"
     }, 
     {
-      "lat": 51.229798763157056, 
       "housenumber": "14", 
+      "lat": 51.229798763157056, 
+      "lon": 4.551409541918851, 
       "pcode": 2110, 
-      "street": "Korte Dreef", 
-      "lon": 4.551409541918851
+      "street": "Korte Dreef"
     }, 
     {
+      "housenumber": "14A", 
       "pcode": 2110, 
-      "street": "Korte Dreef", 
-      "housenumber": "14A"
+      "street": "Korte Dreef"
     }, 
     {
+      "housenumber": "14B", 
       "pcode": 2110, 
-      "street": "Korte Dreef", 
-      "housenumber": "14B"
+      "street": "Korte Dreef"
     }
-  ], 
-  "name": "Korte Dreef"
+  ]
 }

@@ -1,121 +1,121 @@
 {
   "streets": [
     {
-      "latmax": 50.746726530206, 
-      "name": "Cantempr\u0082straat", 
-      "lonmin": 4.153795263596609, 
+      "b": 50.74605267660747, 
+      "l": 4.153795263596609, 
+      "name": "Cantempr\u00e9straat", 
+      "numOfAddr": 3, 
+      "r": 4.155852169643439, 
       "sanName": "cantemprstraat", 
-      "numOfAddr": 3, 
-      "lonmax": 4.155852169643439, 
-      "latmin": 50.74605267660747
+      "t": 50.746726530206
     }, 
     {
-      "latmax": 50.73640877594733, 
+      "b": 50.729154331207106, 
+      "l": 4.155627241602641, 
       "name": "Daelestraat", 
-      "lonmin": 4.155627241602641, 
-      "sanName": "daelestraat", 
       "numOfAddr": 36, 
-      "lonmax": 4.160838395636364, 
-      "latmin": 50.729154331207106
+      "r": 4.160838395636364, 
+      "sanName": "daelestraat", 
+      "t": 50.73640877594733
     }, 
     {
-      "latmax": 50.73553084716403, 
+      "b": 50.7346220821041, 
+      "l": 4.159468428931853, 
       "name": "Daeleveld", 
-      "lonmin": 4.159468428931853, 
+      "numOfAddr": 6, 
+      "r": 4.160495197874218, 
       "sanName": "daeleveld", 
-      "numOfAddr": 6, 
-      "lonmax": 4.160495197874218, 
-      "latmin": 50.7346220821041
+      "t": 50.73553084716403
     }, 
     {
-      "latmax": 50.73868707140449, 
+      "b": 50.73012227086275, 
+      "l": 4.163950727141148, 
       "name": "Dorekensstraat", 
-      "lonmin": 4.163950727141148, 
-      "sanName": "dorekensstraat", 
       "numOfAddr": 20, 
-      "lonmax": 4.166776514395893, 
-      "latmin": 50.73012227086275
+      "r": 4.166776514395893, 
+      "sanName": "dorekensstraat", 
+      "t": 50.73868707140449
     }, 
     {
-      "latmax": 50.72923876075438, 
+      "b": 50.72254785998615, 
+      "l": 4.149675429451834, 
       "name": "Hondzochtstraat", 
-      "lonmin": 4.149675429451834, 
-      "sanName": "hondzochtstraat", 
       "numOfAddr": 80, 
-      "lonmax": 4.176346642511116, 
-      "latmin": 50.72254785998615
+      "r": 4.176346642511116, 
+      "sanName": "hondzochtstraat", 
+      "t": 50.72923876075438
     }, 
     {
-      "latmax": 50.741671079333614, 
+      "b": 50.73983319012216, 
+      "l": 4.1556754118760075, 
       "name": "Kareelstraat", 
-      "lonmin": 4.1556754118760075, 
-      "sanName": "kareelstraat", 
       "numOfAddr": 13, 
-      "lonmax": 4.159063802198938, 
-      "latmin": 50.73983319012216
+      "r": 4.159063802198938, 
+      "sanName": "kareelstraat", 
+      "t": 50.741671079333614
     }, 
     {
-      "latmax": 50.747471838769265, 
+      "b": 50.746138707092975, 
+      "l": 4.161510937314215, 
       "name": "Kattenholstraat", 
-      "lonmin": 4.161510937314215, 
-      "sanName": "kattenholstraat", 
       "numOfAddr": 6, 
-      "lonmax": 4.1639493299367, 
-      "latmin": 50.746138707092975
+      "r": 4.1639493299367, 
+      "sanName": "kattenholstraat", 
+      "t": 50.747471838769265
     }, 
     {
-      "latmax": 50.74213998340673, 
+      "b": 50.74056696583241, 
+      "l": 4.1501478046176565, 
       "name": "Kriekelaerestraat", 
-      "lonmin": 4.1501478046176565, 
-      "sanName": "kriekelaerestraat", 
       "numOfAddr": 23, 
-      "lonmax": 4.1539344496060515, 
-      "latmin": 50.74056696583241
+      "r": 4.1539344496060515, 
+      "sanName": "kriekelaerestraat", 
+      "t": 50.74213998340673
     }, 
     {
-      "latmax": 50.739720814566915, 
+      "b": 50.73932351839496, 
+      "l": 4.154169459785535, 
       "name": "Nerebosstraat", 
-      "lonmin": 4.154169459785535, 
-      "sanName": "nerebosstraat", 
       "numOfAddr": 3, 
-      "lonmax": 4.1545834621303745, 
-      "latmin": 50.73932351839496
+      "r": 4.1545834621303745, 
+      "sanName": "nerebosstraat", 
+      "t": 50.739720814566915
     }, 
     {
-      "latmax": 50.73646014441817, 
+      "b": 50.72830960233205, 
+      "l": 4.159019828068316, 
       "name": "Nieuwe Baan", 
-      "lonmin": 4.159019828068316, 
-      "sanName": "nieuwebaan", 
       "numOfAddr": 37, 
-      "lonmax": 4.165565417708647, 
-      "latmin": 50.72830960233205
+      "r": 4.165565417708647, 
+      "sanName": "nieuwebaan", 
+      "t": 50.73646014441817
     }, 
     {
-      "latmax": 50.72374503925715, 
+      "b": 50.723616059666895, 
+      "l": 4.173748613487679, 
       "name": "Stationsplein", 
-      "lonmin": 4.173748613487679, 
-      "sanName": "stationsplein", 
       "numOfAddr": 2, 
-      "lonmax": 4.173950461593778, 
-      "latmin": 50.723616059666895
+      "r": 4.173950461593778, 
+      "sanName": "stationsplein", 
+      "t": 50.72374503925715
     }, 
     {
-      "latmax": 50.743129151694774, 
+      "b": 50.743129151694774, 
+      "l": 4.146288133265013, 
       "name": "Terkammenstraat", 
-      "lonmin": 4.146288133265013, 
-      "sanName": "terkammenstraat", 
       "numOfAddr": 1, 
-      "lonmax": 4.146288133265013, 
-      "latmin": 50.743129151694774
+      "r": 4.146288133265013, 
+      "sanName": "terkammenstraat", 
+      "t": 50.743129151694774
     }, 
     {
-      "latmax": 50.74547522143333, 
+      "b": 50.739923240919076, 
+      "l": 4.153736175618157, 
       "name": "Trapstraat", 
-      "lonmin": 4.153736175618157, 
-      "sanName": "trapstraat", 
       "numOfAddr": 51, 
-      "lonmax": 4.156088900724434, 
-      "latmin": 50.739923240919076
+      "r": 4.156088900724434, 
+      "sanName": "trapstraat", 
+      "t": 50.74547522143333
     }
   ]
 }

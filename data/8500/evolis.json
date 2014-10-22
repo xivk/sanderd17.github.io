@@ -1,30 +1,28 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
+      "housenumber": "100", 
       "pcode": 8500, 
-      "street": "Evolis", 
-      "housenumber": "100"
+      "street": "Evolis"
     }, 
     {
-      "lat": 50.81762419101965, 
       "housenumber": "11", 
+      "lat": 50.81762419101965, 
+      "lon": 3.3097098108423597, 
       "pcode": 8500, 
-      "street": "Evolis", 
-      "lon": 3.3097098108423597
+      "street": "Evolis"
     }, 
     {
-      "lat": 50.819731051863506, 
       "housenumber": "28", 
+      "lat": 50.819731051863506, 
+      "lon": 3.3110678974845413, 
       "pcode": 8500, 
-      "street": "Evolis", 
-      "lon": 3.3110678974845413
+      "street": "Evolis"
     }, 
     {
+      "housenumber": "78", 
       "pcode": 8500, 
-      "street": "Evolis", 
-      "housenumber": "78"
+      "street": "Evolis"
     }
-  ], 
-  "name": "Evolis"
+  ]
 }

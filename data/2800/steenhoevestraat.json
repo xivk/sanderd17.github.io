@@ -1,32 +1,30 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
-      "lat": 51.04934822688536, 
       "housenumber": "4", 
+      "lat": 51.04934822688536, 
+      "lon": 4.444478477558861, 
       "pcode": 2800, 
-      "street": "Steenhoevestraat", 
-      "lon": 4.444478477558861
+      "street": "Steenhoevestraat"
     }, 
     {
-      "lat": 51.04855094918044, 
       "housenumber": "6", 
+      "lat": 51.04855094918044, 
+      "lon": 4.4445511882173685, 
       "pcode": 2800, 
-      "street": "Steenhoevestraat", 
-      "lon": 4.4445511882173685
+      "street": "Steenhoevestraat"
     }, 
     {
-      "lat": 51.04920622774001, 
       "housenumber": "7", 
+      "lat": 51.04920622774001, 
+      "lon": 4.44567558064633, 
       "pcode": 2800, 
-      "street": "Steenhoevestraat", 
-      "lon": 4.44567558064633
+      "street": "Steenhoevestraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2800, 
-      "street": "Steenhoevestraat", 
-      "housenumber": "8"
+      "street": "Steenhoevestraat"
     }
-  ], 
-  "name": "Steenhoevestraat"
+  ]
 }

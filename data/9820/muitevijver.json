@@ -1,28 +1,26 @@
 {
-  "pcode": 9820, 
   "addresses": [
     {
+      "housenumber": "19", 
       "pcode": 9820, 
-      "street": "Muitevijver", 
-      "housenumber": "19"
+      "street": "Muitevijver"
     }, 
     {
+      "housenumber": "20", 
       "pcode": 9820, 
-      "street": "Muitevijver", 
-      "housenumber": "20"
+      "street": "Muitevijver"
     }, 
     {
-      "lat": 50.98156288634486, 
       "housenumber": "21", 
+      "lat": 50.98156288634486, 
+      "lon": 3.7461163055491653, 
       "pcode": 9820, 
-      "street": "Muitevijver", 
-      "lon": 3.7461163055491653
+      "street": "Muitevijver"
     }, 
     {
+      "housenumber": "22", 
       "pcode": 9820, 
-      "street": "Muitevijver", 
-      "housenumber": "22"
+      "street": "Muitevijver"
     }
-  ], 
-  "name": "Muitevijver"
+  ]
 }

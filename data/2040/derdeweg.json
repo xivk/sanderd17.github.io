@@ -1,34 +1,32 @@
 {
-  "pcode": 2040, 
   "addresses": [
     {
-      "lat": 51.35165650932139, 
       "housenumber": "1", 
+      "lat": 51.35165650932139, 
+      "lon": 4.30417045911565, 
       "pcode": 2040, 
-      "street": "Derdeweg", 
-      "lon": 4.30417045911565
+      "street": "Derdeweg"
     }, 
     {
-      "lat": 51.35187709789762, 
       "housenumber": "2", 
+      "lat": 51.35187709789762, 
+      "lon": 4.304050877553979, 
       "pcode": 2040, 
-      "street": "Derdeweg", 
-      "lon": 4.304050877553979
+      "street": "Derdeweg"
     }, 
     {
-      "lat": 51.35163194912655, 
       "housenumber": "2A", 
+      "lat": 51.35163194912655, 
+      "lon": 4.3047977420978425, 
       "pcode": 2040, 
-      "street": "Derdeweg", 
-      "lon": 4.3047977420978425
+      "street": "Derdeweg"
     }, 
     {
-      "lat": 51.35174853115703, 
       "housenumber": "3", 
+      "lat": 51.35174853115703, 
+      "lon": 4.302660337573334, 
       "pcode": 2040, 
-      "street": "Derdeweg", 
-      "lon": 4.302660337573334
+      "street": "Derdeweg"
     }
-  ], 
-  "name": "Derdeweg"
+  ]
 }

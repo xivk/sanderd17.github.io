@@ -1,20 +1,18 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.84565308173734, 
       "housenumber": "1", 
+      "lat": 50.84565308173734, 
+      "lon": 3.677834645467848, 
       "pcode": 9700, 
-      "street": "Abeelstraat", 
-      "lon": 3.677834645467848
+      "street": "Abeelstraat"
     }, 
     {
-      "lat": 50.84650636521678, 
       "housenumber": "2", 
+      "lat": 50.84650636521678, 
+      "lon": 3.675875736972403, 
       "pcode": 9700, 
-      "street": "Abeelstraat", 
-      "lon": 3.675875736972403
+      "street": "Abeelstraat"
     }
-  ], 
-  "name": "Abeelstraat"
+  ]
 }

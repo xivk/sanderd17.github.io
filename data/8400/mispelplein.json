@@ -1,49 +1,47 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8400, 
-      "street": "Mispelplein", 
-      "housenumber": "1"
+      "street": "Mispelplein"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 8400, 
-      "street": "Mispelplein", 
-      "housenumber": "10"
+      "street": "Mispelplein"
     }, 
     {
-      "lat": 51.20590931724322, 
       "housenumber": "2", 
+      "lat": 51.20590931724322, 
+      "lon": 2.912034851681247, 
       "pcode": 8400, 
-      "street": "Mispelplein", 
-      "lon": 2.912034851681247
+      "street": "Mispelplein"
     }, 
     {
-      "lat": 51.20598573564146, 
       "housenumber": "4", 
+      "lat": 51.20598573564146, 
+      "lon": 2.9119109616202774, 
       "pcode": 8400, 
-      "street": "Mispelplein", 
-      "lon": 2.9119109616202774
+      "street": "Mispelplein"
     }, 
     {
-      "lat": 51.206185022364835, 
       "housenumber": "6", 
+      "lat": 51.206185022364835, 
+      "lon": 2.91159518115411, 
       "pcode": 8400, 
-      "street": "Mispelplein", 
-      "lon": 2.91159518115411
+      "street": "Mispelplein"
     }, 
     {
-      "lat": 51.206264247278426, 
       "housenumber": "8", 
+      "lat": 51.206264247278426, 
+      "lon": 2.911465620469367, 
       "pcode": 8400, 
-      "street": "Mispelplein", 
-      "lon": 2.911465620469367
+      "street": "Mispelplein"
     }, 
     {
+      "housenumber": "ZN", 
       "pcode": 8400, 
-      "street": "Mispelplein", 
-      "housenumber": "ZN"
+      "street": "Mispelplein"
     }
-  ], 
-  "name": "Mispelplein"
+  ]
 }

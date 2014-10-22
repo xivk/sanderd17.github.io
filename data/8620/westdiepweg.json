@@ -1,33 +1,31 @@
 {
-  "pcode": 8620, 
   "addresses": [
     {
-      "lat": 51.145442428304534, 
       "housenumber": "2", 
+      "lat": 51.145442428304534, 
+      "lon": 2.7328500898247174, 
       "pcode": 8620, 
-      "street": "Westdiepweg", 
-      "lon": 2.7328500898247174
+      "street": "Westdiepweg"
     }, 
     {
+      "housenumber": "22", 
       "pcode": 8620, 
-      "street": "Westdiepweg", 
-      "housenumber": "22"
+      "street": "Westdiepweg"
     }, 
     {
+      "housenumber": "22A", 
       "pcode": 8620, 
-      "street": "Westdiepweg", 
-      "housenumber": "22A"
+      "street": "Westdiepweg"
     }, 
     {
+      "housenumber": "22B", 
       "pcode": 8620, 
-      "street": "Westdiepweg", 
-      "housenumber": "22B"
+      "street": "Westdiepweg"
     }, 
     {
+      "housenumber": "22C", 
       "pcode": 8620, 
-      "street": "Westdiepweg", 
-      "housenumber": "22C"
+      "street": "Westdiepweg"
     }
-  ], 
-  "name": "Westdiepweg"
+  ]
 }

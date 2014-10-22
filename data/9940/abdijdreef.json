@@ -1,25 +1,23 @@
 {
-  "pcode": 9940, 
   "addresses": [
     {
-      "lat": 51.14478062243727, 
       "housenumber": "1", 
+      "lat": 51.14478062243727, 
+      "lon": 3.7607225639848587, 
       "pcode": 9940, 
-      "street": "Abdijdreef", 
-      "lon": 3.7607225639848587
+      "street": "Abdijdreef"
     }, 
     {
-      "lat": 51.14449515835604, 
       "housenumber": "2", 
+      "lat": 51.14449515835604, 
+      "lon": 3.763002870456558, 
       "pcode": 9940, 
-      "street": "Abdijdreef", 
-      "lon": 3.763002870456558
+      "street": "Abdijdreef"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9940, 
-      "street": "Abdijdreef", 
-      "housenumber": "3"
+      "street": "Abdijdreef"
     }
-  ], 
-  "name": "Abdijdreef"
+  ]
 }

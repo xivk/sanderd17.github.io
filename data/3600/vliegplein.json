@@ -1,27 +1,25 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 51.01462183215976, 
       "housenumber": "1", 
+      "lat": 51.01462183215976, 
+      "lon": 5.524694324045755, 
       "pcode": 3600, 
-      "street": "Vliegplein", 
-      "lon": 5.524694324045755
+      "street": "Vliegplein"
     }, 
     {
-      "lat": 51.01681171897299, 
       "housenumber": "2", 
+      "lat": 51.01681171897299, 
+      "lon": 5.526077182156811, 
       "pcode": 3600, 
-      "street": "Vliegplein", 
-      "lon": 5.526077182156811
+      "street": "Vliegplein"
     }, 
     {
-      "lat": 51.01801144984659, 
       "housenumber": "3", 
+      "lat": 51.01801144984659, 
+      "lon": 5.527328758924937, 
       "pcode": 3600, 
-      "street": "Vliegplein", 
-      "lon": 5.527328758924937
+      "street": "Vliegplein"
     }
-  ], 
-  "name": "Vliegplein"
+  ]
 }

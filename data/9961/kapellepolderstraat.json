@@ -1,32 +1,30 @@
 {
-  "pcode": 9961, 
   "addresses": [
     {
-      "lat": 51.260902160741736, 
       "housenumber": "1", 
+      "lat": 51.260902160741736, 
+      "lon": 3.723461163490377, 
       "pcode": 9961, 
-      "street": "Kapellepolderstraat", 
-      "lon": 3.723461163490377
+      "street": "Kapellepolderstraat"
     }, 
     {
-      "lat": 51.26080883638025, 
       "housenumber": "2", 
+      "lat": 51.26080883638025, 
+      "lon": 3.721924119972251, 
       "pcode": 9961, 
-      "street": "Kapellepolderstraat", 
-      "lon": 3.721924119972251
+      "street": "Kapellepolderstraat"
     }, 
     {
-      "lat": 51.25999584562143, 
       "housenumber": "3", 
+      "lat": 51.25999584562143, 
+      "lon": 3.7220607466858833, 
       "pcode": 9961, 
-      "street": "Kapellepolderstraat", 
-      "lon": 3.7220607466858833
+      "street": "Kapellepolderstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9961, 
-      "street": "Kapellepolderstraat", 
-      "housenumber": "5"
+      "street": "Kapellepolderstraat"
     }
-  ], 
-  "name": "Kapellepolderstraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 9820, 
   "addresses": [
     {
-      "lat": 50.99368851250924, 
       "housenumber": "1", 
+      "lat": 50.99368851250924, 
+      "lon": 3.763873629805093, 
       "pcode": 9820, 
-      "street": "Hovenierstraat", 
-      "lon": 3.763873629805093
+      "street": "Hovenierstraat"
     }, 
     {
+      "housenumber": "113", 
       "pcode": 9820, 
-      "street": "Hovenierstraat", 
-      "housenumber": "113"
+      "street": "Hovenierstraat"
     }
-  ], 
-  "name": "Hovenierstraat"
+  ]
 }

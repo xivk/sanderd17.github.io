@@ -1,23 +1,21 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8000, 
-      "street": "Blinde-Ezelstraat", 
-      "housenumber": "1"
+      "street": "Blinde-Ezelstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8000, 
-      "street": "Blinde-Ezelstraat", 
-      "housenumber": "2"
+      "street": "Blinde-Ezelstraat"
     }, 
     {
-      "lat": 51.20821953911499, 
       "housenumber": "3", 
+      "lat": 51.20821953911499, 
+      "lon": 3.227627280078712, 
       "pcode": 8000, 
-      "street": "Blinde-Ezelstraat", 
-      "lon": 3.227627280078712
+      "street": "Blinde-Ezelstraat"
     }
-  ], 
-  "name": "Blinde-Ezelstraat"
+  ]
 }

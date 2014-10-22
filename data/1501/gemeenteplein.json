@@ -1,41 +1,39 @@
 {
-  "pcode": 1501, 
   "addresses": [
     {
-      "lat": 50.74082227689929, 
       "housenumber": "1", 
-      "pcode": 1501, 
-      "street": "Gemeenteplein", 
-      "lon": 4.2490884803604
-    }, 
-    {
       "lat": 50.74082227689929, 
+      "lon": 4.2490884803604, 
+      "pcode": 1501, 
+      "street": "Gemeenteplein"
+    }, 
+    {
       "housenumber": "1A", 
+      "lat": 50.74082227689929, 
+      "lon": 4.2490884803604, 
       "pcode": 1501, 
-      "street": "Gemeenteplein", 
-      "lon": 4.2490884803604
+      "street": "Gemeenteplein"
     }, 
     {
-      "lat": 50.74145807585194, 
       "housenumber": "2", 
+      "lat": 50.74145807585194, 
+      "lon": 4.249130086101062, 
       "pcode": 1501, 
-      "street": "Gemeenteplein", 
-      "lon": 4.249130086101062
+      "street": "Gemeenteplein"
     }, 
     {
-      "lat": 50.74156045413599, 
       "housenumber": "3", 
+      "lat": 50.74156045413599, 
+      "lon": 4.2493807370271846, 
       "pcode": 1501, 
-      "street": "Gemeenteplein", 
-      "lon": 4.2493807370271846
+      "street": "Gemeenteplein"
     }, 
     {
-      "lat": 50.74141414791394, 
       "housenumber": "5", 
+      "lat": 50.74141414791394, 
+      "lon": 4.249693643319549, 
       "pcode": 1501, 
-      "street": "Gemeenteplein", 
-      "lon": 4.249693643319549
+      "street": "Gemeenteplein"
     }
-  ], 
-  "name": "Gemeenteplein"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3740, 
   "addresses": [
     {
-      "lat": 50.88626035764457, 
       "housenumber": "1", 
+      "lat": 50.88626035764457, 
+      "lon": 5.565921135438008, 
       "pcode": 3740, 
-      "street": "Boxbergstraat", 
-      "lon": 5.565921135438008
+      "street": "Boxbergstraat"
     }, 
     {
-      "lat": 50.88600232732069, 
       "housenumber": "8", 
+      "lat": 50.88600232732069, 
+      "lon": 5.565348447876323, 
       "pcode": 3740, 
-      "street": "Boxbergstraat", 
-      "lon": 5.565348447876323
+      "street": "Boxbergstraat"
     }
-  ], 
-  "name": "Boxbergstraat"
+  ]
 }

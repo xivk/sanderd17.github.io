@@ -1,39 +1,37 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.26414640847349, 
       "housenumber": "1", 
+      "lat": 51.26414640847349, 
+      "lon": 3.285914829320496, 
       "pcode": 8340, 
-      "street": "Romboutswervedijk", 
-      "lon": 3.285914829320496
+      "street": "Romboutswervedijk"
     }, 
     {
-      "lat": 51.256036209710075, 
       "housenumber": "2", 
+      "lat": 51.256036209710075, 
+      "lon": 3.2823864312504907, 
       "pcode": 8340, 
-      "street": "Romboutswervedijk", 
-      "lon": 3.2823864312504907
+      "street": "Romboutswervedijk"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8340, 
-      "street": "Romboutswervedijk", 
-      "housenumber": "3"
+      "street": "Romboutswervedijk"
     }, 
     {
-      "lat": 51.256831702177294, 
       "housenumber": "4", 
+      "lat": 51.256831702177294, 
+      "lon": 3.2828999555341856, 
       "pcode": 8340, 
-      "street": "Romboutswervedijk", 
-      "lon": 3.2828999555341856
+      "street": "Romboutswervedijk"
     }, 
     {
-      "lat": 51.258611270679, 
       "housenumber": "6", 
+      "lat": 51.258611270679, 
+      "lon": 3.2866971166471695, 
       "pcode": 8340, 
-      "street": "Romboutswervedijk", 
-      "lon": 3.2866971166471695
+      "street": "Romboutswervedijk"
     }
-  ], 
-  "name": "Romboutswervedijk"
+  ]
 }

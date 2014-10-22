@@ -1,25 +1,23 @@
 {
-  "pcode": 9120, 
   "addresses": [
     {
-      "lat": 51.22678994473106, 
       "housenumber": "1", 
+      "lat": 51.22678994473106, 
+      "lon": 4.281445720861894, 
       "pcode": 9120, 
-      "street": "Karel L. Ledegancklaan", 
-      "lon": 4.281445720861894
+      "street": "Karel L. Ledegancklaan"
     }, 
     {
+      "housenumber": "19", 
       "pcode": 9120, 
-      "street": "Karel L. Ledegancklaan", 
-      "housenumber": "19"
+      "street": "Karel L. Ledegancklaan"
     }, 
     {
-      "lat": 51.22681567186354, 
       "housenumber": "3", 
+      "lat": 51.22681567186354, 
+      "lon": 4.281596411131286, 
       "pcode": 9120, 
-      "street": "Karel L. Ledegancklaan", 
-      "lon": 4.281596411131286
+      "street": "Karel L. Ledegancklaan"
     }
-  ], 
-  "name": "Karel L. Ledegancklaan"
+  ]
 }

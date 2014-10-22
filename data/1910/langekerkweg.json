@@ -1,20 +1,18 @@
 {
-  "pcode": 1910, 
   "addresses": [
     {
-      "lat": 50.930161229545874, 
       "housenumber": "1", 
+      "lat": 50.930161229545874, 
+      "lon": 4.535032265833488, 
       "pcode": 1910, 
-      "street": "Lange Kerkweg", 
-      "lon": 4.535032265833488
+      "street": "Lange Kerkweg"
     }, 
     {
-      "lat": 50.930036749696704, 
       "housenumber": "3", 
+      "lat": 50.930036749696704, 
+      "lon": 4.534573222164718, 
       "pcode": 1910, 
-      "street": "Lange Kerkweg", 
-      "lon": 4.534573222164718
+      "street": "Lange Kerkweg"
     }
-  ], 
-  "name": "Lange Kerkweg"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8750, 
   "addresses": [
     {
-      "lat": 51.06309582894529, 
       "housenumber": "1", 
+      "lat": 51.06309582894529, 
+      "lon": 3.3355237152647996, 
       "pcode": 8750, 
-      "street": "Uitkantstraat", 
-      "lon": 3.3355237152647996
+      "street": "Uitkantstraat"
     }, 
     {
-      "lat": 51.063647694221956, 
       "housenumber": "3", 
+      "lat": 51.063647694221956, 
+      "lon": 3.3378531045897577, 
       "pcode": 8750, 
-      "street": "Uitkantstraat", 
-      "lon": 3.3378531045897577
+      "street": "Uitkantstraat"
     }
-  ], 
-  "name": "Uitkantstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8460, 
   "addresses": [
     {
-      "lat": 51.203532428701486, 
       "housenumber": "1", 
+      "lat": 51.203532428701486, 
+      "lon": 3.020866160273473, 
       "pcode": 8460, 
-      "street": "Cotidianenstraat", 
-      "lon": 3.020866160273473
+      "street": "Cotidianenstraat"
     }, 
     {
-      "lat": 51.20377218327807, 
       "housenumber": "3", 
+      "lat": 51.20377218327807, 
+      "lon": 3.0211889462287633, 
       "pcode": 8460, 
-      "street": "Cotidianenstraat", 
-      "lon": 3.0211889462287633
+      "street": "Cotidianenstraat"
     }
-  ], 
-  "name": "Cotidianenstraat"
+  ]
 }

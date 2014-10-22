@@ -1,69 +1,67 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.042110322764685, 
       "housenumber": "1", 
-      "pcode": 9000, 
-      "street": "Gaspar de Craeyerstraat", 
-      "lon": 3.7220387866503044
-    }, 
-    {
-      "lat": 51.042140569700464, 
-      "housenumber": "11", 
-      "pcode": 9000, 
-      "street": "Gaspar de Craeyerstraat", 
-      "lon": 3.7223580595356904
-    }, 
-    {
-      "lat": 51.04214807236598, 
-      "housenumber": "13", 
-      "pcode": 9000, 
-      "street": "Gaspar de Craeyerstraat", 
-      "lon": 3.722578830433101
-    }, 
-    {
-      "lat": 51.042147634655564, 
-      "housenumber": "15", 
-      "pcode": 9000, 
-      "street": "Gaspar de Craeyerstraat", 
-      "lon": 3.7225809753430203
-    }, 
-    {
-      "lat": 51.04139443747466, 
-      "housenumber": "2", 
-      "pcode": 9000, 
-      "street": "Gaspar de Craeyerstraat", 
-      "lon": 3.722977921149851
-    }, 
-    {
       "lat": 51.042110322764685, 
+      "lon": 3.7220387866503044, 
+      "pcode": 9000, 
+      "street": "Gaspar de Craeyerstraat"
+    }, 
+    {
+      "housenumber": "11", 
+      "lat": 51.042140569700464, 
+      "lon": 3.7223580595356904, 
+      "pcode": 9000, 
+      "street": "Gaspar de Craeyerstraat"
+    }, 
+    {
+      "housenumber": "13", 
+      "lat": 51.04214807236598, 
+      "lon": 3.722578830433101, 
+      "pcode": 9000, 
+      "street": "Gaspar de Craeyerstraat"
+    }, 
+    {
+      "housenumber": "15", 
+      "lat": 51.042147634655564, 
+      "lon": 3.7225809753430203, 
+      "pcode": 9000, 
+      "street": "Gaspar de Craeyerstraat"
+    }, 
+    {
+      "housenumber": "2", 
+      "lat": 51.04139443747466, 
+      "lon": 3.722977921149851, 
+      "pcode": 9000, 
+      "street": "Gaspar de Craeyerstraat"
+    }, 
+    {
       "housenumber": "3", 
+      "lat": 51.042110322764685, 
+      "lon": 3.7220387866503044, 
       "pcode": 9000, 
-      "street": "Gaspar de Craeyerstraat", 
-      "lon": 3.7220387866503044
+      "street": "Gaspar de Craeyerstraat"
     }, 
     {
-      "lat": 51.04213415311333, 
       "housenumber": "5", 
+      "lat": 51.04213415311333, 
+      "lon": 3.722155097662057, 
       "pcode": 9000, 
-      "street": "Gaspar de Craeyerstraat", 
-      "lon": 3.722155097662057
+      "street": "Gaspar de Craeyerstraat"
     }, 
     {
-      "lat": 51.04213243045131, 
       "housenumber": "7", 
+      "lat": 51.04213243045131, 
+      "lon": 3.722168810222539, 
       "pcode": 9000, 
-      "street": "Gaspar de Craeyerstraat", 
-      "lon": 3.722168810222539
+      "street": "Gaspar de Craeyerstraat"
     }, 
     {
-      "lat": 51.04214904007492, 
       "housenumber": "9", 
+      "lat": 51.04214904007492, 
+      "lon": 3.722296200524933, 
       "pcode": 9000, 
-      "street": "Gaspar de Craeyerstraat", 
-      "lon": 3.722296200524933
+      "street": "Gaspar de Craeyerstraat"
     }
-  ], 
-  "name": "Gaspar de Craeyerstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2970, 
   "addresses": [
     {
-      "lat": 51.26527007700054, 
       "housenumber": "10", 
+      "lat": 51.26527007700054, 
+      "lon": 4.548076302689331, 
       "pcode": 2970, 
-      "street": "De Kaak", 
-      "lon": 4.548076302689331
+      "street": "De Kaak"
     }, 
     {
-      "lat": 51.26378207892129, 
       "housenumber": "2", 
+      "lat": 51.26378207892129, 
+      "lon": 4.550477977243521, 
       "pcode": 2970, 
-      "street": "De Kaak", 
-      "lon": 4.550477977243521
+      "street": "De Kaak"
     }
-  ], 
-  "name": "De Kaak"
+  ]
 }

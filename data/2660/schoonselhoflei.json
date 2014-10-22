@@ -1,20 +1,18 @@
 {
-  "pcode": 2660, 
   "addresses": [
     {
-      "lat": 51.17581155552793, 
       "housenumber": "1", 
+      "lat": 51.17581155552793, 
+      "lon": 4.368020858539064, 
       "pcode": 2660, 
-      "street": "Schoonselhoflei", 
-      "lon": 4.368020858539064
+      "street": "Schoonselhoflei"
     }, 
     {
-      "lat": 51.17543852428715, 
       "housenumber": "5", 
+      "lat": 51.17543852428715, 
+      "lon": 4.369318809792683, 
       "pcode": 2660, 
-      "street": "Schoonselhoflei", 
-      "lon": 4.369318809792683
+      "street": "Schoonselhoflei"
     }
-  ], 
-  "name": "Schoonselhoflei"
+  ]
 }

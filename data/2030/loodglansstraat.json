@@ -1,20 +1,18 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.247862642932574, 
       "housenumber": "11", 
+      "lat": 51.247862642932574, 
+      "lon": 4.411010548714058, 
       "pcode": 2030, 
-      "street": "Loodglansstraat", 
-      "lon": 4.411010548714058
+      "street": "Loodglansstraat"
     }, 
     {
-      "lat": 51.24486886474717, 
       "housenumber": "5", 
+      "lat": 51.24486886474717, 
+      "lon": 4.408330688418967, 
       "pcode": 2030, 
-      "street": "Loodglansstraat", 
-      "lon": 4.408330688418967
+      "street": "Loodglansstraat"
     }
-  ], 
-  "name": "Loodglansstraat"
+  ]
 }

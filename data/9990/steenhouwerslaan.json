@@ -1,43 +1,41 @@
 {
-  "pcode": 9990, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9990, 
-      "street": "Steenhouwerslaan", 
-      "housenumber": "1"
+      "street": "Steenhouwerslaan"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 9990, 
-      "street": "Steenhouwerslaan", 
-      "housenumber": "1A"
+      "street": "Steenhouwerslaan"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9990, 
-      "street": "Steenhouwerslaan", 
-      "housenumber": "2"
+      "street": "Steenhouwerslaan"
     }, 
     {
-      "lat": 51.195103618503914, 
       "housenumber": "2A", 
+      "lat": 51.195103618503914, 
+      "lon": 3.469906471320599, 
       "pcode": 9990, 
-      "street": "Steenhouwerslaan", 
-      "lon": 3.469906471320599
+      "street": "Steenhouwerslaan"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9990, 
-      "street": "Steenhouwerslaan", 
-      "housenumber": "3"
+      "street": "Steenhouwerslaan"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9990, 
-      "street": "Steenhouwerslaan", 
-      "housenumber": "4"
+      "street": "Steenhouwerslaan"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 9990, 
-      "street": "Steenhouwerslaan", 
-      "housenumber": "9"
+      "street": "Steenhouwerslaan"
     }
-  ], 
-  "name": "Steenhouwerslaan"
+  ]
 }

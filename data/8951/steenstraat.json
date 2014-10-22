@@ -1,20 +1,18 @@
 {
-  "pcode": 8951, 
   "addresses": [
     {
-      "lat": 50.760130588589284, 
       "housenumber": "1", 
+      "lat": 50.760130588589284, 
+      "lon": 2.790605158998327, 
       "pcode": 8951, 
-      "street": "Steenstraat", 
-      "lon": 2.790605158998327
+      "street": "Steenstraat"
     }, 
     {
-      "lat": 50.7615732257923, 
       "housenumber": "2", 
+      "lat": 50.7615732257923, 
+      "lon": 2.7989004747306483, 
       "pcode": 8951, 
-      "street": "Steenstraat", 
-      "lon": 2.7989004747306483
+      "street": "Steenstraat"
     }
-  ], 
-  "name": "Steenstraat"
+  ]
 }

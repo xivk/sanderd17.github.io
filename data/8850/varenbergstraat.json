@@ -1,46 +1,44 @@
 {
-  "pcode": 8850, 
   "addresses": [
     {
-      "lat": 50.97538575381911, 
       "housenumber": "1", 
+      "lat": 50.97538575381911, 
+      "lon": 3.2140043376020295, 
       "pcode": 8850, 
-      "street": "Varenbergstraat", 
-      "lon": 3.2140043376020295
+      "street": "Varenbergstraat"
     }, 
     {
-      "lat": 50.975231284158, 
       "housenumber": "2", 
+      "lat": 50.975231284158, 
+      "lon": 3.2164787779800124, 
       "pcode": 8850, 
-      "street": "Varenbergstraat", 
-      "lon": 3.2164787779800124
+      "street": "Varenbergstraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 8850, 
-      "street": "Varenbergstraat", 
-      "housenumber": "2A"
+      "street": "Varenbergstraat"
     }, 
     {
-      "lat": 50.97538006646339, 
       "housenumber": "3", 
+      "lat": 50.97538006646339, 
+      "lon": 3.2144967555500528, 
       "pcode": 8850, 
-      "street": "Varenbergstraat", 
-      "lon": 3.2144967555500528
+      "street": "Varenbergstraat"
     }, 
     {
-      "lat": 50.97512471215361, 
       "housenumber": "4", 
+      "lat": 50.97512471215361, 
+      "lon": 3.21421866787215, 
       "pcode": 8850, 
-      "street": "Varenbergstraat", 
-      "lon": 3.21421866787215
+      "street": "Varenbergstraat"
     }, 
     {
-      "lat": 50.974754911332795, 
       "housenumber": "6", 
+      "lat": 50.974754911332795, 
+      "lon": 3.2144628705094616, 
       "pcode": 8850, 
-      "street": "Varenbergstraat", 
-      "lon": 3.2144628705094616
+      "street": "Varenbergstraat"
     }
-  ], 
-  "name": "Varenbergstraat"
+  ]
 }

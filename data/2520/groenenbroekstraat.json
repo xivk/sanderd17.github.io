@@ -1,20 +1,18 @@
 {
-  "pcode": 2520, 
   "addresses": [
     {
-      "lat": 51.18506287207467, 
       "housenumber": "1", 
+      "lat": 51.18506287207467, 
+      "lon": 4.538913027270103, 
       "pcode": 2520, 
-      "street": "Groenenbroekstraat", 
-      "lon": 4.538913027270103
+      "street": "Groenenbroekstraat"
     }, 
     {
-      "lat": 51.186331529353616, 
       "housenumber": "2", 
+      "lat": 51.186331529353616, 
+      "lon": 4.539646395644119, 
       "pcode": 2520, 
-      "street": "Groenenbroekstraat", 
-      "lon": 4.539646395644119
+      "street": "Groenenbroekstraat"
     }
-  ], 
-  "name": "Groenenbroekstraat"
+  ]
 }

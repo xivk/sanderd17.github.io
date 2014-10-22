@@ -1,25 +1,23 @@
 {
-  "pcode": 3960, 
   "addresses": [
     {
-      "lat": 51.156136272208, 
       "housenumber": "11", 
+      "lat": 51.156136272208, 
+      "lon": 5.597097839649086, 
       "pcode": 3960, 
-      "street": "Mgr. Kestersstraat", 
-      "lon": 5.597097839649086
+      "street": "Mgr. Kestersstraat"
     }, 
     {
-      "lat": 51.155804820424024, 
       "housenumber": "17", 
+      "lat": 51.155804820424024, 
+      "lon": 5.597606889901678, 
       "pcode": 3960, 
-      "street": "Mgr. Kestersstraat", 
-      "lon": 5.597606889901678
+      "street": "Mgr. Kestersstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3960, 
-      "street": "Mgr. Kestersstraat", 
-      "housenumber": "3"
+      "street": "Mgr. Kestersstraat"
     }
-  ], 
-  "name": "Mgr. Kestersstraat"
+  ]
 }

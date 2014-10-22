@@ -1,20 +1,18 @@
 {
-  "pcode": 3545, 
   "addresses": [
     {
-      "lat": 50.98334893617781, 
       "housenumber": "1", 
+      "lat": 50.98334893617781, 
+      "lon": 5.10714700308667, 
       "pcode": 3545, 
-      "street": "Lobosstraat", 
-      "lon": 5.10714700308667
+      "street": "Lobosstraat"
     }, 
     {
-      "lat": 50.98333913924798, 
       "housenumber": "2", 
+      "lat": 50.98333913924798, 
+      "lon": 5.108033235487361, 
       "pcode": 3545, 
-      "street": "Lobosstraat", 
-      "lon": 5.108033235487361
+      "street": "Lobosstraat"
     }
-  ], 
-  "name": "Lobosstraat"
+  ]
 }

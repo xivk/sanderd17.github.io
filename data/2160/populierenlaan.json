@@ -1,20 +1,18 @@
 {
-  "pcode": 2160, 
   "addresses": [
     {
-      "lat": 51.19208994297745, 
       "housenumber": "101", 
+      "lat": 51.19208994297745, 
+      "lon": 4.518180677819534, 
       "pcode": 2160, 
-      "street": "Populierenlaan", 
-      "lon": 4.518180677819534
+      "street": "Populierenlaan"
     }, 
     {
-      "lat": 51.19288540713217, 
       "housenumber": "95", 
+      "lat": 51.19288540713217, 
+      "lon": 4.518407249121997, 
       "pcode": 2160, 
-      "street": "Populierenlaan", 
-      "lon": 4.518407249121997
+      "street": "Populierenlaan"
     }
-  ], 
-  "name": "Populierenlaan"
+  ]
 }

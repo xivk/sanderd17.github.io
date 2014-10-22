@@ -1,20 +1,18 @@
 {
-  "pcode": 9910, 
   "addresses": [
     {
-      "lat": 51.120451699076376, 
       "housenumber": "2", 
+      "lat": 51.120451699076376, 
+      "lon": 3.410918620607481, 
       "pcode": 9910, 
-      "street": "Ameldonkdreef", 
-      "lon": 3.410918620607481
+      "street": "Ameldonkdreef"
     }, 
     {
-      "lat": 51.120542113081854, 
       "housenumber": "4", 
+      "lat": 51.120542113081854, 
+      "lon": 3.4102958549240663, 
       "pcode": 9910, 
-      "street": "Ameldonkdreef", 
-      "lon": 3.4102958549240663
+      "street": "Ameldonkdreef"
     }
-  ], 
-  "name": "Ameldonkdreef"
+  ]
 }

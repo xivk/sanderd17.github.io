@@ -1,32 +1,30 @@
 {
-  "pcode": 8920, 
   "addresses": [
     {
-      "lat": 50.92515764602537, 
       "housenumber": "1", 
+      "lat": 50.92515764602537, 
+      "lon": 2.950962208073254, 
       "pcode": 8920, 
-      "street": "Wulverstraat", 
-      "lon": 2.950962208073254
+      "street": "Wulverstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8920, 
-      "street": "Wulverstraat", 
-      "housenumber": "3"
+      "street": "Wulverstraat"
     }, 
     {
-      "lat": 50.925053049157874, 
       "housenumber": "4", 
+      "lat": 50.925053049157874, 
+      "lon": 2.9523389940098257, 
       "pcode": 8920, 
-      "street": "Wulverstraat", 
-      "lon": 2.9523389940098257
+      "street": "Wulverstraat"
     }, 
     {
-      "lat": 50.92626091314713, 
       "housenumber": "7", 
+      "lat": 50.92626091314713, 
+      "lon": 2.953542345816974, 
       "pcode": 8920, 
-      "street": "Wulverstraat", 
-      "lon": 2.953542345816974
+      "street": "Wulverstraat"
     }
-  ], 
-  "name": "Wulverstraat"
+  ]
 }

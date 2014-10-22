@@ -1,25 +1,23 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
-      "lat": 50.78345412762553, 
       "housenumber": "10", 
+      "lat": 50.78345412762553, 
+      "lon": 5.264865213229252, 
       "pcode": 3800, 
-      "street": "Tril", 
-      "lon": 5.264865213229252
+      "street": "Tril"
     }, 
     {
-      "lat": 50.783543475981574, 
       "housenumber": "4", 
+      "lat": 50.783543475981574, 
+      "lon": 5.264221240230445, 
       "pcode": 3800, 
-      "street": "Tril", 
-      "lon": 5.264221240230445
+      "street": "Tril"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3800, 
-      "street": "Tril", 
-      "housenumber": "8"
+      "street": "Tril"
     }
-  ], 
-  "name": "Tril"
+  ]
 }

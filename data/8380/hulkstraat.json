@@ -1,20 +1,18 @@
 {
-  "pcode": 8380, 
   "addresses": [
     {
-      "lat": 51.31371295796271, 
       "housenumber": "1", 
+      "lat": 51.31371295796271, 
+      "lon": 3.184623073847328, 
       "pcode": 8380, 
-      "street": "Hulkstraat", 
-      "lon": 3.184623073847328
+      "street": "Hulkstraat"
     }, 
     {
-      "lat": 51.31301812672194, 
       "housenumber": "3", 
+      "lat": 51.31301812672194, 
+      "lon": 3.183574024381569, 
       "pcode": 8380, 
-      "street": "Hulkstraat", 
-      "lon": 3.183574024381569
+      "street": "Hulkstraat"
     }
-  ], 
-  "name": "Hulkstraat"
+  ]
 }

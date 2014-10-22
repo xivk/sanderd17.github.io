@@ -1,74 +1,72 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2000, 
-      "street": "Gillisplaats", 
-      "housenumber": "1"
+      "street": "Gillisplaats"
     }, 
     {
-      "lat": 51.20834808156051, 
       "housenumber": "2", 
+      "lat": 51.20834808156051, 
+      "lon": 4.389666846769883, 
       "pcode": 2000, 
-      "street": "Gillisplaats", 
-      "lon": 4.389666846769883
+      "street": "Gillisplaats"
     }, 
     {
-      "lat": 51.20834846514106, 
       "housenumber": "20", 
+      "lat": 51.20834846514106, 
+      "lon": 4.3895349140163855, 
       "pcode": 2000, 
-      "street": "Gillisplaats", 
-      "lon": 4.3895349140163855
+      "street": "Gillisplaats"
     }, 
     {
-      "lat": 51.208069396853745, 
       "housenumber": "3", 
+      "lat": 51.208069396853745, 
+      "lon": 4.3894107235157875, 
       "pcode": 2000, 
-      "street": "Gillisplaats", 
-      "lon": 4.3894107235157875
+      "street": "Gillisplaats"
     }, 
     {
-      "lat": 51.20799973770267, 
       "housenumber": "4", 
+      "lat": 51.20799973770267, 
+      "lon": 4.389404109338736, 
       "pcode": 2000, 
-      "street": "Gillisplaats", 
-      "lon": 4.389404109338736
+      "street": "Gillisplaats"
     }, 
     {
-      "lat": 51.20783565165142, 
       "housenumber": "5", 
+      "lat": 51.20783565165142, 
+      "lon": 4.389166214158258, 
       "pcode": 2000, 
-      "street": "Gillisplaats", 
-      "lon": 4.389166214158258
+      "street": "Gillisplaats"
     }, 
     {
-      "lat": 51.20839913709688, 
       "housenumber": "56", 
+      "lat": 51.20839913709688, 
+      "lon": 4.3896600018899115, 
       "pcode": 2000, 
-      "street": "Gillisplaats", 
-      "lon": 4.3896600018899115
+      "street": "Gillisplaats"
     }, 
     {
-      "lat": 51.20780016330725, 
       "housenumber": "6", 
+      "lat": 51.20780016330725, 
+      "lon": 4.3890766221287185, 
       "pcode": 2000, 
-      "street": "Gillisplaats", 
-      "lon": 4.3890766221287185
+      "street": "Gillisplaats"
     }, 
     {
-      "lat": 51.20780984209355, 
       "housenumber": "7", 
+      "lat": 51.20780984209355, 
+      "lon": 4.3887297699487275, 
       "pcode": 2000, 
-      "street": "Gillisplaats", 
-      "lon": 4.3887297699487275
+      "street": "Gillisplaats"
     }, 
     {
-      "lat": 51.207838443626514, 
       "housenumber": "8", 
+      "lat": 51.207838443626514, 
+      "lon": 4.388624752567885, 
       "pcode": 2000, 
-      "street": "Gillisplaats", 
-      "lon": 4.388624752567885
+      "street": "Gillisplaats"
     }
-  ], 
-  "name": "Gillisplaats"
+  ]
 }

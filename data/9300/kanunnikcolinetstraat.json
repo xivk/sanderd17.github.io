@@ -1,47 +1,45 @@
 {
-  "pcode": 9300, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 9300, 
-      "street": "Kanunnik Colinetstraat", 
-      "housenumber": "11"
+      "street": "Kanunnik Colinetstraat"
     }, 
     {
+      "housenumber": "13", 
       "pcode": 9300, 
-      "street": "Kanunnik Colinetstraat", 
-      "housenumber": "13"
+      "street": "Kanunnik Colinetstraat"
     }, 
     {
-      "lat": 50.934645029000826, 
       "housenumber": "15", 
+      "lat": 50.934645029000826, 
+      "lon": 4.037402347120728, 
       "pcode": 9300, 
-      "street": "Kanunnik Colinetstraat", 
-      "lon": 4.037402347120728
+      "street": "Kanunnik Colinetstraat"
     }, 
     {
-      "lat": 50.9351135909175, 
       "housenumber": "3", 
+      "lat": 50.9351135909175, 
+      "lon": 4.037574881143214, 
       "pcode": 9300, 
-      "street": "Kanunnik Colinetstraat", 
-      "lon": 4.037574881143214
+      "street": "Kanunnik Colinetstraat"
     }, 
     {
-      "lat": 50.934959107188206, 
       "housenumber": "5", 
+      "lat": 50.934959107188206, 
+      "lon": 4.037238950945473, 
       "pcode": 9300, 
-      "street": "Kanunnik Colinetstraat", 
-      "lon": 4.037238950945473
+      "street": "Kanunnik Colinetstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 9300, 
-      "street": "Kanunnik Colinetstraat", 
-      "housenumber": "7"
+      "street": "Kanunnik Colinetstraat"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 9300, 
-      "street": "Kanunnik Colinetstraat", 
-      "housenumber": "9"
+      "street": "Kanunnik Colinetstraat"
     }
-  ], 
-  "name": "Kanunnik Colinetstraat"
+  ]
 }

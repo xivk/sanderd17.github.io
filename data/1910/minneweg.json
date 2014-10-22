@@ -1,32 +1,30 @@
 {
-  "pcode": 1910, 
   "addresses": [
     {
-      "lat": 50.933118608646936, 
       "housenumber": "18", 
+      "lat": 50.933118608646936, 
+      "lon": 4.552362510756561, 
       "pcode": 1910, 
-      "street": "Minneweg", 
-      "lon": 4.552362510756561
+      "street": "Minneweg"
     }, 
     {
-      "lat": 50.934197877654306, 
       "housenumber": "4", 
+      "lat": 50.934197877654306, 
+      "lon": 4.5538389842005085, 
       "pcode": 1910, 
-      "street": "Minneweg", 
-      "lon": 4.5538389842005085
+      "street": "Minneweg"
     }, 
     {
+      "housenumber": "4Z", 
       "pcode": 1910, 
-      "street": "Minneweg", 
-      "housenumber": "4Z"
+      "street": "Minneweg"
     }, 
     {
-      "lat": 50.933978774481886, 
       "housenumber": "6", 
+      "lat": 50.933978774481886, 
+      "lon": 4.553575793064626, 
       "pcode": 1910, 
-      "street": "Minneweg", 
-      "lon": 4.553575793064626
+      "street": "Minneweg"
     }
-  ], 
-  "name": "Minneweg"
+  ]
 }

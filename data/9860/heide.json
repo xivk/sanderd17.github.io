@@ -1,30 +1,28 @@
 {
-  "pcode": 9860, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9860, 
-      "street": "Heide", 
-      "housenumber": "1"
+      "street": "Heide"
     }, 
     {
-      "lat": 50.914902725622426, 
       "housenumber": "2", 
+      "lat": 50.914902725622426, 
+      "lon": 3.8182273440004084, 
       "pcode": 9860, 
-      "street": "Heide", 
-      "lon": 3.8182273440004084
+      "street": "Heide"
     }, 
     {
-      "lat": 50.91514064288323, 
       "housenumber": "4", 
+      "lat": 50.91514064288323, 
+      "lon": 3.8169343373925364, 
       "pcode": 9860, 
-      "street": "Heide", 
-      "lon": 3.8169343373925364
+      "street": "Heide"
     }, 
     {
+      "housenumber": "55", 
       "pcode": 9860, 
-      "street": "Heide", 
-      "housenumber": "55"
+      "street": "Heide"
     }
-  ], 
-  "name": "Heide"
+  ]
 }

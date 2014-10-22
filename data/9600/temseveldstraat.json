@@ -1,34 +1,32 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.73070371985515, 
       "housenumber": "1", 
+      "lat": 50.73070371985515, 
+      "lon": 3.6369728086147974, 
       "pcode": 9600, 
-      "street": "Temseveldstraat", 
-      "lon": 3.6369728086147974
+      "street": "Temseveldstraat"
     }, 
     {
-      "lat": 50.73112360690229, 
       "housenumber": "12", 
+      "lat": 50.73112360690229, 
+      "lon": 3.6381172165852798, 
       "pcode": 9600, 
-      "street": "Temseveldstraat", 
-      "lon": 3.6381172165852798
+      "street": "Temseveldstraat"
     }, 
     {
-      "lat": 50.73106949337676, 
       "housenumber": "3", 
+      "lat": 50.73106949337676, 
+      "lon": 3.6373695666911567, 
       "pcode": 9600, 
-      "street": "Temseveldstraat", 
-      "lon": 3.6373695666911567
+      "street": "Temseveldstraat"
     }, 
     {
-      "lat": 50.73059141094278, 
       "housenumber": "6", 
+      "lat": 50.73059141094278, 
+      "lon": 3.6377034837998816, 
       "pcode": 9600, 
-      "street": "Temseveldstraat", 
-      "lon": 3.6377034837998816
+      "street": "Temseveldstraat"
     }
-  ], 
-  "name": "Temseveldstraat"
+  ]
 }

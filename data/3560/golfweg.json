@@ -1,30 +1,28 @@
 {
-  "pcode": 3560, 
   "addresses": [
     {
-      "lat": 50.99347627866127, 
       "housenumber": "1", 
+      "lat": 50.99347627866127, 
+      "lon": 5.225743607939416, 
       "pcode": 3560, 
-      "street": "Golfweg", 
-      "lon": 5.225743607939416
+      "street": "Golfweg"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 3560, 
-      "street": "Golfweg", 
-      "housenumber": "1B"
+      "street": "Golfweg"
     }, 
     {
+      "housenumber": "1C", 
       "pcode": 3560, 
-      "street": "Golfweg", 
-      "housenumber": "1C"
+      "street": "Golfweg"
     }, 
     {
-      "lat": 50.993446421568144, 
       "housenumber": "2", 
+      "lat": 50.993446421568144, 
+      "lon": 5.22728519825815, 
       "pcode": 3560, 
-      "street": "Golfweg", 
-      "lon": 5.22728519825815
+      "street": "Golfweg"
     }
-  ], 
-  "name": "Golfweg"
+  ]
 }

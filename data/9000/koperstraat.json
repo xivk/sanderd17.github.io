@@ -1,50 +1,48 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9000, 
-      "street": "Koperstraat", 
-      "housenumber": "1"
+      "street": "Koperstraat"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 9000, 
-      "street": "Koperstraat", 
-      "housenumber": "10"
+      "street": "Koperstraat"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 9000, 
-      "street": "Koperstraat", 
-      "housenumber": "12"
+      "street": "Koperstraat"
     }, 
     {
+      "housenumber": "14", 
       "pcode": 9000, 
-      "street": "Koperstraat", 
-      "housenumber": "14"
+      "street": "Koperstraat"
     }, 
     {
+      "housenumber": "16", 
       "pcode": 9000, 
-      "street": "Koperstraat", 
-      "housenumber": "16"
+      "street": "Koperstraat"
     }, 
     {
+      "housenumber": "18", 
       "pcode": 9000, 
-      "street": "Koperstraat", 
-      "housenumber": "18"
+      "street": "Koperstraat"
     }, 
     {
-      "lat": 51.04964742090406, 
       "housenumber": "5", 
+      "lat": 51.04964742090406, 
+      "lon": 3.7166554443685635, 
       "pcode": 9000, 
-      "street": "Koperstraat", 
-      "lon": 3.7166554443685635
+      "street": "Koperstraat"
     }, 
     {
-      "lat": 51.04984191767576, 
       "housenumber": "8", 
+      "lat": 51.04984191767576, 
+      "lon": 3.716600967942045, 
       "pcode": 9000, 
-      "street": "Koperstraat", 
-      "lon": 3.716600967942045
+      "street": "Koperstraat"
     }
-  ], 
-  "name": "Koperstraat"
+  ]
 }

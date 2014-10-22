@@ -1,20 +1,18 @@
 {
-  "pcode": 3550, 
   "addresses": [
     {
-      "lat": 51.03528330797153, 
       "housenumber": "1", 
+      "lat": 51.03528330797153, 
+      "lon": 5.337066888393919, 
       "pcode": 3550, 
-      "street": "Bosselsteeg", 
-      "lon": 5.337066888393919
+      "street": "Bosselsteeg"
     }, 
     {
-      "lat": 51.034291317462234, 
       "housenumber": "10", 
+      "lat": 51.034291317462234, 
+      "lon": 5.336669959274127, 
       "pcode": 3550, 
-      "street": "Bosselsteeg", 
-      "lon": 5.336669959274127
+      "street": "Bosselsteeg"
     }
-  ], 
-  "name": "Bosselsteeg"
+  ]
 }

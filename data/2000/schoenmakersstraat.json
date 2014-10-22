@@ -1,58 +1,56 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.2214239300433, 
       "housenumber": "1", 
+      "lat": 51.2214239300433, 
+      "lon": 4.401744719862196, 
       "pcode": 2000, 
-      "street": "Schoenmakersstraat", 
-      "lon": 4.401744719862196
+      "street": "Schoenmakersstraat"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 2000, 
-      "street": "Schoenmakersstraat", 
-      "housenumber": "12"
+      "street": "Schoenmakersstraat"
     }, 
     {
-      "lat": 51.221413358105664, 
       "housenumber": "2", 
+      "lat": 51.221413358105664, 
+      "lon": 4.401623906800777, 
       "pcode": 2000, 
-      "street": "Schoenmakersstraat", 
-      "lon": 4.401623906800777
+      "street": "Schoenmakersstraat"
     }, 
     {
-      "lat": 51.22138447479056, 
       "housenumber": "3", 
+      "lat": 51.22138447479056, 
+      "lon": 4.4017315230023115, 
       "pcode": 2000, 
-      "street": "Schoenmakersstraat", 
-      "lon": 4.4017315230023115
+      "street": "Schoenmakersstraat"
     }, 
     {
-      "lat": 51.22136761263585, 
       "housenumber": "4", 
+      "lat": 51.22136761263585, 
+      "lon": 4.401604837015696, 
       "pcode": 2000, 
-      "street": "Schoenmakersstraat", 
-      "lon": 4.401604837015696
+      "street": "Schoenmakersstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2000, 
-      "street": "Schoenmakersstraat", 
-      "housenumber": "5"
+      "street": "Schoenmakersstraat"
     }, 
     {
-      "lat": 51.221327894856735, 
       "housenumber": "6", 
+      "lat": 51.221327894856735, 
+      "lon": 4.401566448495168, 
       "pcode": 2000, 
-      "street": "Schoenmakersstraat", 
-      "lon": 4.401566448495168
+      "street": "Schoenmakersstraat"
     }, 
     {
-      "lat": 51.22128978958354, 
       "housenumber": "8", 
+      "lat": 51.22128978958354, 
+      "lon": 4.4015470980206866, 
       "pcode": 2000, 
-      "street": "Schoenmakersstraat", 
-      "lon": 4.4015470980206866
+      "street": "Schoenmakersstraat"
     }
-  ], 
-  "name": "Schoenmakersstraat"
+  ]
 }

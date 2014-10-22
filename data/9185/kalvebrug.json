@@ -1,25 +1,23 @@
 {
-  "pcode": 9185, 
   "addresses": [
     {
-      "lat": 51.16662467101401, 
       "housenumber": "1", 
+      "lat": 51.16662467101401, 
+      "lon": 3.885536068556398, 
       "pcode": 9185, 
-      "street": "Kalvebrug", 
-      "lon": 3.885536068556398
+      "street": "Kalvebrug"
     }, 
     {
-      "lat": 51.16605540232048, 
       "housenumber": "2", 
+      "lat": 51.16605540232048, 
+      "lon": 3.886524569320681, 
       "pcode": 9185, 
-      "street": "Kalvebrug", 
-      "lon": 3.886524569320681
+      "street": "Kalvebrug"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9185, 
-      "street": "Kalvebrug", 
-      "housenumber": "3"
+      "street": "Kalvebrug"
     }
-  ], 
-  "name": "Kalvebrug"
+  ]
 }

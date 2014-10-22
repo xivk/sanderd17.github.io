@@ -1,75 +1,73 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9000, 
-      "street": "Bastionstraat", 
-      "housenumber": "1"
+      "street": "Bastionstraat"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 9000, 
-      "street": "Bastionstraat", 
-      "housenumber": "11"
+      "street": "Bastionstraat"
     }, 
     {
-      "lat": 51.05668594535559, 
       "housenumber": "13", 
+      "lat": 51.05668594535559, 
+      "lon": 3.7370376862769144, 
       "pcode": 9000, 
-      "street": "Bastionstraat", 
-      "lon": 3.7370376862769144
+      "street": "Bastionstraat"
     }, 
     {
-      "lat": 51.05663003573028, 
       "housenumber": "15", 
+      "lat": 51.05663003573028, 
+      "lon": 3.737055128575779, 
       "pcode": 9000, 
-      "street": "Bastionstraat", 
-      "lon": 3.737055128575779
+      "street": "Bastionstraat"
     }, 
     {
-      "lat": 51.056612018288824, 
       "housenumber": "17", 
+      "lat": 51.056612018288824, 
+      "lon": 3.7370646428391274, 
       "pcode": 9000, 
-      "street": "Bastionstraat", 
-      "lon": 3.7370646428391274
+      "street": "Bastionstraat"
     }, 
     {
-      "lat": 51.05659459796627, 
       "housenumber": "19", 
+      "lat": 51.05659459796627, 
+      "lon": 3.7370681583573653, 
       "pcode": 9000, 
-      "street": "Bastionstraat", 
-      "lon": 3.7370681583573653
+      "street": "Bastionstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9000, 
-      "street": "Bastionstraat", 
-      "housenumber": "2"
+      "street": "Bastionstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9000, 
-      "street": "Bastionstraat", 
-      "housenumber": "3"
+      "street": "Bastionstraat"
     }, 
     {
-      "lat": 51.05678188659254, 
       "housenumber": "5", 
+      "lat": 51.05678188659254, 
+      "lon": 3.7369921753505326, 
       "pcode": 9000, 
-      "street": "Bastionstraat", 
-      "lon": 3.7369921753505326
+      "street": "Bastionstraat"
     }, 
     {
-      "lat": 51.05670734230589, 
       "housenumber": "7", 
+      "lat": 51.05670734230589, 
+      "lon": 3.7370549419308614, 
       "pcode": 9000, 
-      "street": "Bastionstraat", 
-      "lon": 3.7370549419308614
+      "street": "Bastionstraat"
     }, 
     {
-      "lat": 51.05669480154929, 
       "housenumber": "9", 
+      "lat": 51.05669480154929, 
+      "lon": 3.737046410262796, 
       "pcode": 9000, 
-      "street": "Bastionstraat", 
-      "lon": 3.737046410262796
+      "street": "Bastionstraat"
     }
-  ], 
-  "name": "Bastionstraat"
+  ]
 }

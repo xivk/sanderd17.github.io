@@ -1,32 +1,30 @@
 {
-  "pcode": 8370, 
   "addresses": [
     {
-      "lat": 51.30768102909662, 
       "housenumber": "1", 
+      "lat": 51.30768102909662, 
+      "lon": 3.1217448652456516, 
       "pcode": 8370, 
-      "street": "Wijtschatestraat", 
-      "lon": 3.1217448652456516
+      "street": "Wijtschatestraat"
     }, 
     {
-      "lat": 51.30773526629893, 
       "housenumber": "3", 
+      "lat": 51.30773526629893, 
+      "lon": 3.121970016375484, 
       "pcode": 8370, 
-      "street": "Wijtschatestraat", 
-      "lon": 3.121970016375484
+      "street": "Wijtschatestraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8370, 
-      "street": "Wijtschatestraat", 
-      "housenumber": "5"
+      "street": "Wijtschatestraat"
     }, 
     {
-      "lat": 51.30757753164759, 
       "housenumber": "7", 
+      "lat": 51.30757753164759, 
+      "lon": 3.121998334550669, 
       "pcode": 8370, 
-      "street": "Wijtschatestraat", 
-      "lon": 3.121998334550669
+      "street": "Wijtschatestraat"
     }
-  ], 
-  "name": "Wijtschatestraat"
+  ]
 }

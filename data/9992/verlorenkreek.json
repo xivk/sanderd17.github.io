@@ -1,20 +1,18 @@
 {
-  "pcode": 9992, 
   "addresses": [
     {
-      "lat": 51.26146620472202, 
       "housenumber": "2", 
+      "lat": 51.26146620472202, 
+      "lon": 3.400880228749249, 
       "pcode": 9992, 
-      "street": "Verloren Kreek", 
-      "lon": 3.400880228749249
+      "street": "Verloren Kreek"
     }, 
     {
-      "lat": 51.26271615102319, 
       "housenumber": "4", 
+      "lat": 51.26271615102319, 
+      "lon": 3.3982691933875167, 
       "pcode": 9992, 
-      "street": "Verloren Kreek", 
-      "lon": 3.3982691933875167
+      "street": "Verloren Kreek"
     }
-  ], 
-  "name": "Verloren Kreek"
+  ]
 }

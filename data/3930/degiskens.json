@@ -1,20 +1,18 @@
 {
-  "pcode": 3930, 
   "addresses": [
     {
-      "lat": 51.229051883897945, 
       "housenumber": "15", 
+      "lat": 51.229051883897945, 
+      "lon": 5.534123811552344, 
       "pcode": 3930, 
-      "street": "De Giskens", 
-      "lon": 5.534123811552344
+      "street": "De Giskens"
     }, 
     {
-      "lat": 51.22988492062179, 
       "housenumber": "19", 
+      "lat": 51.22988492062179, 
+      "lon": 5.5321821089756265, 
       "pcode": 3930, 
-      "street": "De Giskens", 
-      "lon": 5.5321821089756265
+      "street": "De Giskens"
     }
-  ], 
-  "name": "De Giskens"
+  ]
 }

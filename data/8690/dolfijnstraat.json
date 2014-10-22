@@ -1,20 +1,18 @@
 {
-  "pcode": 8690, 
   "addresses": [
     {
-      "lat": 51.00587907528036, 
       "housenumber": "1", 
+      "lat": 51.00587907528036, 
+      "lon": 2.6974738363522976, 
       "pcode": 8690, 
-      "street": "Dolfijnstraat", 
-      "lon": 2.6974738363522976
+      "street": "Dolfijnstraat"
     }, 
     {
-      "lat": 51.0041427271848, 
       "housenumber": "2", 
+      "lat": 51.0041427271848, 
+      "lon": 2.6949028104382875, 
       "pcode": 8690, 
-      "street": "Dolfijnstraat", 
-      "lon": 2.6949028104382875
+      "street": "Dolfijnstraat"
     }
-  ], 
-  "name": "Dolfijnstraat"
+  ]
 }

@@ -1,28 +1,26 @@
 {
-  "pcode": 3290, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3290, 
-      "street": "Palmboomstraat", 
-      "housenumber": "10"
+      "street": "Palmboomstraat"
     }, 
     {
-      "lat": 50.98742014295517, 
       "housenumber": "11", 
+      "lat": 50.98742014295517, 
+      "lon": 5.054890925338016, 
       "pcode": 3290, 
-      "street": "Palmboomstraat", 
-      "lon": 5.054890925338016
+      "street": "Palmboomstraat"
     }, 
     {
+      "housenumber": "13", 
       "pcode": 3290, 
-      "street": "Palmboomstraat", 
-      "housenumber": "13"
+      "street": "Palmboomstraat"
     }, 
     {
+      "housenumber": "43", 
       "pcode": 3290, 
-      "street": "Palmboomstraat", 
-      "housenumber": "43"
+      "street": "Palmboomstraat"
     }
-  ], 
-  "name": "Palmboomstraat"
+  ]
 }

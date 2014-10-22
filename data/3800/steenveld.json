@@ -1,18 +1,16 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 3800, 
-      "street": "Steenveld", 
-      "housenumber": "2"
+      "street": "Steenveld"
     }, 
     {
-      "lat": 50.76280143659148, 
       "housenumber": "5", 
+      "lat": 50.76280143659148, 
+      "lon": 5.254736754792108, 
       "pcode": 3800, 
-      "street": "Steenveld", 
-      "lon": 5.254736754792108
+      "street": "Steenveld"
     }
-  ], 
-  "name": "Steenveld"
+  ]
 }

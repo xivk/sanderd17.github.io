@@ -1,51 +1,49 @@
 {
-  "pcode": 3720, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3720, 
-      "street": "Bekesstraat", 
-      "housenumber": "1"
+      "street": "Bekesstraat"
     }, 
     {
-      "lat": 50.86115506819729, 
       "housenumber": "21", 
+      "lat": 50.86115506819729, 
+      "lon": 5.364499526973506, 
       "pcode": 3720, 
-      "street": "Bekesstraat", 
-      "lon": 5.364499526973506
+      "street": "Bekesstraat"
     }, 
     {
-      "lat": 50.86193372065255, 
       "housenumber": "22", 
+      "lat": 50.86193372065255, 
+      "lon": 5.364763635442224, 
       "pcode": 3720, 
-      "street": "Bekesstraat", 
-      "lon": 5.364763635442224
+      "street": "Bekesstraat"
     }, 
     {
-      "lat": 50.862114304132696, 
       "housenumber": "24", 
+      "lat": 50.862114304132696, 
+      "lon": 5.364661494479153, 
       "pcode": 3720, 
-      "street": "Bekesstraat", 
-      "lon": 5.364661494479153
+      "street": "Bekesstraat"
     }, 
     {
+      "housenumber": "27", 
       "pcode": 3720, 
-      "street": "Bekesstraat", 
-      "housenumber": "27"
+      "street": "Bekesstraat"
     }, 
     {
-      "lat": 50.862375022230744, 
       "housenumber": "29", 
+      "lat": 50.862375022230744, 
+      "lon": 5.365349164955067, 
       "pcode": 3720, 
-      "street": "Bekesstraat", 
-      "lon": 5.365349164955067
+      "street": "Bekesstraat"
     }, 
     {
-      "lat": 50.863192700629625, 
       "housenumber": "34", 
+      "lat": 50.863192700629625, 
+      "lon": 5.3638659821723795, 
       "pcode": 3720, 
-      "street": "Bekesstraat", 
-      "lon": 5.3638659821723795
+      "street": "Bekesstraat"
     }
-  ], 
-  "name": "Bekesstraat"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 1850, 
   "addresses": [
     {
-      "lat": 50.939249475830124, 
       "housenumber": "10", 
+      "lat": 50.939249475830124, 
+      "lon": 4.380103064271297, 
       "pcode": 1850, 
-      "street": "Wezenhaag", 
-      "lon": 4.380103064271297
+      "street": "Wezenhaag"
     }, 
     {
-      "lat": 50.939223470978604, 
       "housenumber": "10A", 
+      "lat": 50.939223470978604, 
+      "lon": 4.380352889658119, 
       "pcode": 1850, 
-      "street": "Wezenhaag", 
-      "lon": 4.380352889658119
+      "street": "Wezenhaag"
     }, 
     {
-      "lat": 50.94031808201371, 
       "housenumber": "20", 
+      "lat": 50.94031808201371, 
+      "lon": 4.380468420561486, 
       "pcode": 1850, 
-      "street": "Wezenhaag", 
-      "lon": 4.380468420561486
+      "street": "Wezenhaag"
     }, 
     {
+      "housenumber": "22", 
       "pcode": 1850, 
-      "street": "Wezenhaag", 
-      "housenumber": "22"
+      "street": "Wezenhaag"
     }
-  ], 
-  "name": "Wezenhaag"
+  ]
 }

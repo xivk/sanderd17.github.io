@@ -1,41 +1,39 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.76194206097235, 
       "housenumber": "1", 
+      "lat": 50.76194206097235, 
+      "lon": 3.551759752013831, 
       "pcode": 9600, 
-      "street": "Eisdale", 
-      "lon": 3.551759752013831
+      "street": "Eisdale"
     }, 
     {
-      "lat": 50.76275686336372, 
       "housenumber": "11", 
+      "lat": 50.76275686336372, 
+      "lon": 3.5412063110200456, 
       "pcode": 9600, 
-      "street": "Eisdale", 
-      "lon": 3.5412063110200456
+      "street": "Eisdale"
     }, 
     {
-      "lat": 50.76160865210987, 
       "housenumber": "5", 
+      "lat": 50.76160865210987, 
+      "lon": 3.5492552204268795, 
       "pcode": 9600, 
-      "street": "Eisdale", 
-      "lon": 3.5492552204268795
+      "street": "Eisdale"
     }, 
     {
-      "lat": 50.761248681911994, 
       "housenumber": "7", 
+      "lat": 50.761248681911994, 
+      "lon": 3.547047432374533, 
       "pcode": 9600, 
-      "street": "Eisdale", 
-      "lon": 3.547047432374533
+      "street": "Eisdale"
     }, 
     {
-      "lat": 50.76289002661562, 
       "housenumber": "9", 
+      "lat": 50.76289002661562, 
+      "lon": 3.5415397772818173, 
       "pcode": 9600, 
-      "street": "Eisdale", 
-      "lon": 3.5415397772818173
+      "street": "Eisdale"
     }
-  ], 
-  "name": "Eisdale"
+  ]
 }

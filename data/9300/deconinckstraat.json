@@ -1,34 +1,32 @@
 {
-  "pcode": 9300, 
   "addresses": [
     {
-      "lat": 50.93917147399674, 
       "housenumber": "2", 
+      "lat": 50.93917147399674, 
+      "lon": 4.042759806402449, 
       "pcode": 9300, 
-      "street": "De Coninckstraat", 
-      "lon": 4.042759806402449
+      "street": "De Coninckstraat"
     }, 
     {
-      "lat": 50.93913922164704, 
       "housenumber": "2A", 
-      "pcode": 9300, 
-      "street": "De Coninckstraat", 
-      "lon": 4.042896755830089
-    }, 
-    {
       "lat": 50.93913922164704, 
-      "housenumber": "4A", 
+      "lon": 4.042896755830089, 
       "pcode": 9300, 
-      "street": "De Coninckstraat", 
-      "lon": 4.042896755830089
+      "street": "De Coninckstraat"
     }, 
     {
-      "lat": 50.9390851861931, 
-      "housenumber": "4B", 
+      "housenumber": "4A", 
+      "lat": 50.93913922164704, 
+      "lon": 4.042896755830089, 
       "pcode": 9300, 
-      "street": "De Coninckstraat", 
-      "lon": 4.043023327684197
+      "street": "De Coninckstraat"
+    }, 
+    {
+      "housenumber": "4B", 
+      "lat": 50.9390851861931, 
+      "lon": 4.043023327684197, 
+      "pcode": 9300, 
+      "street": "De Coninckstraat"
     }
-  ], 
-  "name": "De Coninckstraat"
+  ]
 }

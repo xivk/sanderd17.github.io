@@ -1,20 +1,18 @@
 {
-  "pcode": 9660, 
   "addresses": [
     {
-      "lat": 50.79231717309317, 
       "housenumber": "1", 
+      "lat": 50.79231717309317, 
+      "lon": 3.7215679453584327, 
       "pcode": 9660, 
-      "street": "Broekweg", 
-      "lon": 3.7215679453584327
+      "street": "Broekweg"
     }, 
     {
-      "lat": 50.79327846190082, 
       "housenumber": "2", 
+      "lat": 50.79327846190082, 
+      "lon": 3.7216964355003515, 
       "pcode": 9660, 
-      "street": "Broekweg", 
-      "lon": 3.7216964355003515
+      "street": "Broekweg"
     }
-  ], 
-  "name": "Broekweg"
+  ]
 }

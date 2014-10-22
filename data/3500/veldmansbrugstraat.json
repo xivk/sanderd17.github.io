@@ -1,63 +1,61 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3500, 
-      "street": "Veldmansbrugstraat", 
-      "housenumber": "10"
+      "street": "Veldmansbrugstraat"
     }, 
     {
-      "lat": 50.933473378755735, 
       "housenumber": "12", 
+      "lat": 50.933473378755735, 
+      "lon": 5.348818640953875, 
       "pcode": 3500, 
-      "street": "Veldmansbrugstraat", 
-      "lon": 5.348818640953875
+      "street": "Veldmansbrugstraat"
     }, 
     {
+      "housenumber": "13", 
       "pcode": 3500, 
-      "street": "Veldmansbrugstraat", 
-      "housenumber": "13"
+      "street": "Veldmansbrugstraat"
     }, 
     {
-      "lat": 50.93337544547911, 
       "housenumber": "14", 
+      "lat": 50.93337544547911, 
+      "lon": 5.3492315896783955, 
       "pcode": 3500, 
-      "street": "Veldmansbrugstraat", 
-      "lon": 5.3492315896783955
+      "street": "Veldmansbrugstraat"
     }, 
     {
-      "lat": 50.93318550117809, 
       "housenumber": "16", 
+      "lat": 50.93318550117809, 
+      "lon": 5.348572760300022, 
       "pcode": 3500, 
-      "street": "Veldmansbrugstraat", 
-      "lon": 5.348572760300022
+      "street": "Veldmansbrugstraat"
     }, 
     {
-      "lat": 50.93290988797746, 
       "housenumber": "2", 
+      "lat": 50.93290988797746, 
+      "lon": 5.3495822151810595, 
       "pcode": 3500, 
-      "street": "Veldmansbrugstraat", 
-      "lon": 5.3495822151810595
+      "street": "Veldmansbrugstraat"
     }, 
     {
-      "lat": 50.932837660028014, 
       "housenumber": "4", 
+      "lat": 50.932837660028014, 
+      "lon": 5.349974070886761, 
       "pcode": 3500, 
-      "street": "Veldmansbrugstraat", 
-      "lon": 5.349974070886761
+      "street": "Veldmansbrugstraat"
     }, 
     {
-      "lat": 50.93327724703494, 
       "housenumber": "6", 
+      "lat": 50.93327724703494, 
+      "lon": 5.349643819822986, 
       "pcode": 3500, 
-      "street": "Veldmansbrugstraat", 
-      "lon": 5.349643819822986
+      "street": "Veldmansbrugstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3500, 
-      "street": "Veldmansbrugstraat", 
-      "housenumber": "8"
+      "street": "Veldmansbrugstraat"
     }
-  ], 
-  "name": "Veldmansbrugstraat"
+  ]
 }

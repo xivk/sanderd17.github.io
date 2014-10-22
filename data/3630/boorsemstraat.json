@@ -1,32 +1,30 @@
 {
-  "pcode": 3630, 
   "addresses": [
     {
-      "lat": 50.94670770514624, 
       "housenumber": "1", 
+      "lat": 50.94670770514624, 
+      "lon": 5.694501307337331, 
       "pcode": 3630, 
-      "street": "Boorsemstraat", 
-      "lon": 5.694501307337331
+      "street": "Boorsemstraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 3630, 
-      "street": "Boorsemstraat", 
-      "housenumber": "1A"
+      "street": "Boorsemstraat"
     }, 
     {
-      "lat": 50.94591108205778, 
       "housenumber": "3", 
+      "lat": 50.94591108205778, 
+      "lon": 5.696352373493849, 
       "pcode": 3630, 
-      "street": "Boorsemstraat", 
-      "lon": 5.696352373493849
+      "street": "Boorsemstraat"
     }, 
     {
-      "lat": 50.94493696874784, 
       "housenumber": "4", 
+      "lat": 50.94493696874784, 
+      "lon": 5.6949332462501925, 
       "pcode": 3630, 
-      "street": "Boorsemstraat", 
-      "lon": 5.6949332462501925
+      "street": "Boorsemstraat"
     }
-  ], 
-  "name": "Boorsemstraat"
+  ]
 }

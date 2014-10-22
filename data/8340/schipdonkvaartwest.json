@@ -1,20 +1,18 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.279448931197315, 
       "housenumber": "1", 
+      "lat": 51.279448931197315, 
+      "lon": 3.273867502099227, 
       "pcode": 8340, 
-      "street": "Schipdonkvaart-West", 
-      "lon": 3.273867502099227
+      "street": "Schipdonkvaart-West"
     }, 
     {
-      "lat": 51.27619473663036, 
       "housenumber": "2", 
+      "lat": 51.27619473663036, 
+      "lon": 3.2809866209433984, 
       "pcode": 8340, 
-      "street": "Schipdonkvaart-West", 
-      "lon": 3.2809866209433984
+      "street": "Schipdonkvaart-West"
     }
-  ], 
-  "name": "Schipdonkvaart-West"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 1500, 
   "addresses": [
     {
-      "lat": 50.71857678011023, 
       "housenumber": "14", 
+      "lat": 50.71857678011023, 
+      "lon": 4.268136042211368, 
       "pcode": 1500, 
-      "street": "Arenbergstraat", 
-      "lon": 4.268136042211368
+      "street": "Arenbergstraat"
     }, 
     {
-      "lat": 50.719299079272375, 
       "housenumber": "15", 
+      "lat": 50.719299079272375, 
+      "lon": 4.268625188567638, 
       "pcode": 1500, 
-      "street": "Arenbergstraat", 
-      "lon": 4.268625188567638
+      "street": "Arenbergstraat"
     }
-  ], 
-  "name": "Arenbergstraat"
+  ]
 }

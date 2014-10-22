@@ -1,39 +1,37 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.93840999522834, 
       "housenumber": "1", 
+      "lat": 50.93840999522834, 
+      "lon": 5.357324251219493, 
       "pcode": 3500, 
-      "street": "Sasstraat", 
-      "lon": 5.357324251219493
+      "street": "Sasstraat"
     }, 
     {
-      "lat": 50.93900066570556, 
       "housenumber": "2", 
+      "lat": 50.93900066570556, 
+      "lon": 5.361073405387205, 
       "pcode": 3500, 
-      "street": "Sasstraat", 
-      "lon": 5.361073405387205
+      "street": "Sasstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3500, 
-      "street": "Sasstraat", 
-      "housenumber": "3"
+      "street": "Sasstraat"
     }, 
     {
-      "lat": 50.93820468312473, 
       "housenumber": "4", 
+      "lat": 50.93820468312473, 
+      "lon": 5.359487175369108, 
       "pcode": 3500, 
-      "street": "Sasstraat", 
-      "lon": 5.359487175369108
+      "street": "Sasstraat"
     }, 
     {
-      "lat": 50.93938994370997, 
       "housenumber": "5", 
+      "lat": 50.93938994370997, 
+      "lon": 5.358867808832498, 
       "pcode": 3500, 
-      "street": "Sasstraat", 
-      "lon": 5.358867808832498
+      "street": "Sasstraat"
     }
-  ], 
-  "name": "Sasstraat"
+  ]
 }

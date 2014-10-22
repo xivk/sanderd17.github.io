@@ -1,33 +1,31 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 2030, 
-      "street": "Straatsburgdok", 
-      "housenumber": "2"
+      "street": "Straatsburgdok"
     }, 
     {
+      "housenumber": "21", 
       "pcode": 2030, 
-      "street": "Straatsburgdok", 
-      "housenumber": "21"
+      "street": "Straatsburgdok"
     }, 
     {
-      "lat": 51.24291433205007, 
       "housenumber": "3", 
+      "lat": 51.24291433205007, 
+      "lon": 4.41931662557995, 
       "pcode": 2030, 
-      "street": "Straatsburgdok", 
-      "lon": 4.41931662557995
+      "street": "Straatsburgdok"
     }, 
     {
+      "housenumber": "33", 
       "pcode": 2030, 
-      "street": "Straatsburgdok", 
-      "housenumber": "33"
+      "street": "Straatsburgdok"
     }, 
     {
+      "housenumber": "33_4", 
       "pcode": 2030, 
-      "street": "Straatsburgdok", 
-      "housenumber": "33_4"
+      "street": "Straatsburgdok"
     }
-  ], 
-  "name": "Straatsburgdok"
+  ]
 }

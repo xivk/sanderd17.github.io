@@ -1,20 +1,18 @@
 {
-  "pcode": 1730, 
   "addresses": [
     {
-      "lat": 50.88935247700875, 
       "housenumber": "1", 
+      "lat": 50.88935247700875, 
+      "lon": 4.23368262204758, 
       "pcode": 1730, 
-      "street": "Mulweg", 
-      "lon": 4.23368262204758
+      "street": "Mulweg"
     }, 
     {
-      "lat": 50.88909922786633, 
       "housenumber": "2", 
+      "lat": 50.88909922786633, 
+      "lon": 4.233432217489757, 
       "pcode": 1730, 
-      "street": "Mulweg", 
-      "lon": 4.233432217489757
+      "street": "Mulweg"
     }
-  ], 
-  "name": "Mulweg"
+  ]
 }

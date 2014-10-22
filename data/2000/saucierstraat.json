@@ -1,25 +1,23 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.22404596580932, 
       "housenumber": "4", 
+      "lat": 51.22404596580932, 
+      "lon": 4.39932550252846, 
       "pcode": 2000, 
-      "street": "Saucierstraat", 
-      "lon": 4.39932550252846
+      "street": "Saucierstraat"
     }, 
     {
+      "housenumber": "4D", 
       "pcode": 2000, 
-      "street": "Saucierstraat", 
-      "housenumber": "4D"
+      "street": "Saucierstraat"
     }, 
     {
-      "lat": 51.22448022480053, 
       "housenumber": "5", 
+      "lat": 51.22448022480053, 
+      "lon": 4.399548954933036, 
       "pcode": 2000, 
-      "street": "Saucierstraat", 
-      "lon": 4.399548954933036
+      "street": "Saucierstraat"
     }
-  ], 
-  "name": "Saucierstraat"
+  ]
 }

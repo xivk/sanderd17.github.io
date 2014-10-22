@@ -1,60 +1,58 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9600, 
-      "street": "Ossestraat", 
-      "housenumber": "1"
+      "street": "Ossestraat"
     }, 
     {
-      "lat": 50.750068941756226, 
       "housenumber": "1A", 
+      "lat": 50.750068941756226, 
+      "lon": 3.5688851732827667, 
       "pcode": 9600, 
-      "street": "Ossestraat", 
-      "lon": 3.5688851732827667
+      "street": "Ossestraat"
     }, 
     {
-      "lat": 50.75394191165737, 
       "housenumber": "2", 
+      "lat": 50.75394191165737, 
+      "lon": 3.5647173155032372, 
       "pcode": 9600, 
-      "street": "Ossestraat", 
-      "lon": 3.5647173155032372
+      "street": "Ossestraat"
     }, 
     {
-      "lat": 50.75244519525243, 
       "housenumber": "3", 
+      "lat": 50.75244519525243, 
+      "lon": 3.5665374115704247, 
       "pcode": 9600, 
-      "street": "Ossestraat", 
-      "lon": 3.5665374115704247
+      "street": "Ossestraat"
     }, 
     {
-      "lat": 50.75426496200836, 
       "housenumber": "4", 
+      "lat": 50.75426496200836, 
+      "lon": 3.5646562500725683, 
       "pcode": 9600, 
-      "street": "Ossestraat", 
-      "lon": 3.5646562500725683
+      "street": "Ossestraat"
     }, 
     {
-      "lat": 50.752977878942886, 
       "housenumber": "5", 
+      "lat": 50.752977878942886, 
+      "lon": 3.5658041622644125, 
       "pcode": 9600, 
-      "street": "Ossestraat", 
-      "lon": 3.5658041622644125
+      "street": "Ossestraat"
     }, 
     {
-      "lat": 50.755150250187896, 
       "housenumber": "6", 
+      "lat": 50.755150250187896, 
+      "lon": 3.5635200988890787, 
       "pcode": 9600, 
-      "street": "Ossestraat", 
-      "lon": 3.5635200988890787
+      "street": "Ossestraat"
     }, 
     {
-      "lat": 50.75675201745282, 
       "housenumber": "7", 
+      "lat": 50.75675201745282, 
+      "lon": 3.564916986346173, 
       "pcode": 9600, 
-      "street": "Ossestraat", 
-      "lon": 3.564916986346173
+      "street": "Ossestraat"
     }
-  ], 
-  "name": "Ossestraat"
+  ]
 }

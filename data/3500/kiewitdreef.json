@@ -1,44 +1,42 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.96582375743834, 
       "housenumber": "1", 
+      "lat": 50.96582375743834, 
+      "lon": 5.364689445151148, 
       "pcode": 3500, 
-      "street": "Kiewitdreef", 
-      "lon": 5.364689445151148
+      "street": "Kiewitdreef"
     }, 
     {
-      "lat": 50.96072258729788, 
       "housenumber": "3", 
+      "lat": 50.96072258729788, 
+      "lon": 5.3772057557718105, 
       "pcode": 3500, 
-      "street": "Kiewitdreef", 
-      "lon": 5.3772057557718105
+      "street": "Kiewitdreef"
     }, 
     {
-      "lat": 50.96064673113571, 
       "housenumber": "4", 
+      "lat": 50.96064673113571, 
+      "lon": 5.37666916627191, 
       "pcode": 3500, 
-      "street": "Kiewitdreef", 
-      "lon": 5.37666916627191
+      "street": "Kiewitdreef"
     }, 
     {
-      "lat": 50.9607126691755, 
       "housenumber": "5", 
+      "lat": 50.9607126691755, 
+      "lon": 5.377313871971312, 
       "pcode": 3500, 
-      "street": "Kiewitdreef", 
-      "lon": 5.377313871971312
+      "street": "Kiewitdreef"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3500, 
-      "street": "Kiewitdreef", 
-      "housenumber": "7"
+      "street": "Kiewitdreef"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 3500, 
-      "street": "Kiewitdreef", 
-      "housenumber": "9"
+      "street": "Kiewitdreef"
     }
-  ], 
-  "name": "Kiewitdreef"
+  ]
 }

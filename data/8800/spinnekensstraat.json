@@ -1,27 +1,25 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.96814494285994, 
       "housenumber": "1", 
+      "lat": 50.96814494285994, 
+      "lon": 3.1656673355006593, 
       "pcode": 8800, 
-      "street": "Spinnekensstraat", 
-      "lon": 3.1656673355006593
+      "street": "Spinnekensstraat"
     }, 
     {
-      "lat": 50.96818338221582, 
       "housenumber": "3", 
+      "lat": 50.96818338221582, 
+      "lon": 3.1659448447804204, 
       "pcode": 8800, 
-      "street": "Spinnekensstraat", 
-      "lon": 3.1659448447804204
+      "street": "Spinnekensstraat"
     }, 
     {
-      "lat": 50.96819212126634, 
       "housenumber": "5", 
+      "lat": 50.96819212126634, 
+      "lon": 3.166104940530836, 
       "pcode": 8800, 
-      "street": "Spinnekensstraat", 
-      "lon": 3.166104940530836
+      "street": "Spinnekensstraat"
     }
-  ], 
-  "name": "Spinnekensstraat"
+  ]
 }

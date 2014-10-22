@@ -1,25 +1,23 @@
 {
-  "pcode": 2811, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 2811, 
-      "street": "Sint-Maartensplein", 
-      "housenumber": "2"
+      "street": "Sint-Maartensplein"
     }, 
     {
-      "lat": 51.01554557595468, 
       "housenumber": "3", 
+      "lat": 51.01554557595468, 
+      "lon": 4.441133876554683, 
       "pcode": 2811, 
-      "street": "Sint-Maartensplein", 
-      "lon": 4.441133876554683
+      "street": "Sint-Maartensplein"
     }, 
     {
-      "lat": 51.01554535183203, 
       "housenumber": "4", 
+      "lat": 51.01554535183203, 
+      "lon": 4.441205271352466, 
       "pcode": 2811, 
-      "street": "Sint-Maartensplein", 
-      "lon": 4.441205271352466
+      "street": "Sint-Maartensplein"
     }
-  ], 
-  "name": "Sint-Maartensplein"
+  ]
 }

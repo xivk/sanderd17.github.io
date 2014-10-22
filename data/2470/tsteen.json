@@ -1,20 +1,18 @@
 {
-  "pcode": 2470, 
   "addresses": [
     {
-      "lat": 51.289717028600954, 
       "housenumber": "1", 
+      "lat": 51.289717028600954, 
+      "lon": 5.035598317582622, 
       "pcode": 2470, 
-      "street": "'t Steen", 
-      "lon": 5.035598317582622
+      "street": "'t Steen"
     }, 
     {
-      "lat": 51.29017358847289, 
       "housenumber": "2", 
+      "lat": 51.29017358847289, 
+      "lon": 5.035719831833948, 
       "pcode": 2470, 
-      "street": "'t Steen", 
-      "lon": 5.035719831833948
+      "street": "'t Steen"
     }
-  ], 
-  "name": "'t Steen"
+  ]
 }

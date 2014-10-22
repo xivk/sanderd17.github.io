@@ -1,20 +1,18 @@
 {
-  "pcode": 3350, 
   "addresses": [
     {
-      "lat": 50.814910273723406, 
       "housenumber": "1", 
+      "lat": 50.814910273723406, 
+      "lon": 5.029704105785815, 
       "pcode": 3350, 
-      "street": "Heerenweg", 
-      "lon": 5.029704105785815
+      "street": "Heerenweg"
     }, 
     {
-      "lat": 50.815038471322616, 
       "housenumber": "2", 
+      "lat": 50.815038471322616, 
+      "lon": 5.030865401756031, 
       "pcode": 3350, 
-      "street": "Heerenweg", 
-      "lon": 5.030865401756031
+      "street": "Heerenweg"
     }
-  ], 
-  "name": "Heerenweg"
+  ]
 }

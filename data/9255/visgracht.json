@@ -1,20 +1,18 @@
 {
-  "pcode": 9255, 
   "addresses": [
     {
-      "lat": 51.004961317339955, 
       "housenumber": "1", 
+      "lat": 51.004961317339955, 
+      "lon": 4.179739994678332, 
       "pcode": 9255, 
-      "street": "Visgracht", 
-      "lon": 4.179739994678332
+      "street": "Visgracht"
     }, 
     {
-      "lat": 51.00522886302743, 
       "housenumber": "2", 
+      "lat": 51.00522886302743, 
+      "lon": 4.1808855522816195, 
       "pcode": 9255, 
-      "street": "Visgracht", 
-      "lon": 4.1808855522816195
+      "street": "Visgracht"
     }
-  ], 
-  "name": "Visgracht"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3690, 
   "addresses": [
     {
-      "lat": 50.91302153171497, 
       "housenumber": "3", 
+      "lat": 50.91302153171497, 
+      "lon": 5.5443777595457835, 
       "pcode": 3690, 
-      "street": "Dijkstraat", 
-      "lon": 5.5443777595457835
+      "street": "Dijkstraat"
     }, 
     {
-      "lat": 50.911735881684955, 
       "housenumber": "5", 
+      "lat": 50.911735881684955, 
+      "lon": 5.54987728836239, 
       "pcode": 3690, 
-      "street": "Dijkstraat", 
-      "lon": 5.54987728836239
+      "street": "Dijkstraat"
     }
-  ], 
-  "name": "Dijkstraat"
+  ]
 }

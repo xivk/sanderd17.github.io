@@ -1,25 +1,23 @@
 {
-  "pcode": 2470, 
   "addresses": [
     {
-      "lat": 51.29105258517469, 
       "housenumber": "1", 
+      "lat": 51.29105258517469, 
+      "lon": 5.091526681223168, 
       "pcode": 2470, 
-      "street": "Huisjes", 
-      "lon": 5.091526681223168
+      "street": "Huisjes"
     }, 
     {
-      "lat": 51.29391090415262, 
       "housenumber": "4", 
+      "lat": 51.29391090415262, 
+      "lon": 5.096007074556262, 
       "pcode": 2470, 
-      "street": "Huisjes", 
-      "lon": 5.096007074556262
+      "street": "Huisjes"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2470, 
-      "street": "Huisjes", 
-      "housenumber": "7"
+      "street": "Huisjes"
     }
-  ], 
-  "name": "Huisjes"
+  ]
 }

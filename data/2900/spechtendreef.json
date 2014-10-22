@@ -1,20 +1,18 @@
 {
-  "pcode": 2900, 
   "addresses": [
     {
-      "lat": 51.26941225407825, 
       "housenumber": "1", 
+      "lat": 51.26941225407825, 
+      "lon": 4.49768019471221, 
       "pcode": 2900, 
-      "street": "Spechtendreef", 
-      "lon": 4.49768019471221
+      "street": "Spechtendreef"
     }, 
     {
-      "lat": 51.270177483237944, 
       "housenumber": "3", 
+      "lat": 51.270177483237944, 
+      "lon": 4.497541762237541, 
       "pcode": 2900, 
-      "street": "Spechtendreef", 
-      "lon": 4.497541762237541
+      "street": "Spechtendreef"
     }
-  ], 
-  "name": "Spechtendreef"
+  ]
 }

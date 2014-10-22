@@ -1,18 +1,16 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 8000, 
-      "street": "Elisabeth Zorghestraat", 
-      "housenumber": "2"
+      "street": "Elisabeth Zorghestraat"
     }, 
     {
-      "lat": 51.2147051396416, 
       "housenumber": "4", 
+      "lat": 51.2147051396416, 
+      "lon": 3.2307303254608732, 
       "pcode": 8000, 
-      "street": "Elisabeth Zorghestraat", 
-      "lon": 3.2307303254608732
+      "street": "Elisabeth Zorghestraat"
     }
-  ], 
-  "name": "Elisabeth Zorghestraat"
+  ]
 }

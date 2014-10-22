@@ -1,25 +1,23 @@
 {
-  "pcode": 3940, 
   "addresses": [
     {
-      "lat": 51.15554455841581, 
       "housenumber": "16", 
+      "lat": 51.15554455841581, 
+      "lon": 5.388821732320212, 
       "pcode": 3940, 
-      "street": "Sint Jozefstraat", 
-      "lon": 5.388821732320212
+      "street": "Sint Jozefstraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 3940, 
-      "street": "Sint Jozefstraat", 
-      "housenumber": "1A"
+      "street": "Sint Jozefstraat"
     }, 
     {
-      "lat": 51.15506949151114, 
       "housenumber": "5", 
+      "lat": 51.15506949151114, 
+      "lon": 5.387434934229808, 
       "pcode": 3940, 
-      "street": "Sint Jozefstraat", 
-      "lon": 5.387434934229808
+      "street": "Sint Jozefstraat"
     }
-  ], 
-  "name": "Sint Jozefstraat"
+  ]
 }

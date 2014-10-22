@@ -1,20 +1,18 @@
 {
-  "pcode": 9042, 
   "addresses": [
     {
-      "lat": 51.15501076126678, 
       "housenumber": "1", 
+      "lat": 51.15501076126678, 
+      "lon": 3.788224349536815, 
       "pcode": 9042, 
-      "street": "Arbedkaai", 
-      "lon": 3.788224349536815
+      "street": "Arbedkaai"
     }, 
     {
-      "lat": 51.153233891709235, 
       "housenumber": "3", 
+      "lat": 51.153233891709235, 
+      "lon": 3.786864282470044, 
       "pcode": 9042, 
-      "street": "Arbedkaai", 
-      "lon": 3.786864282470044
+      "street": "Arbedkaai"
     }
-  ], 
-  "name": "Arbedkaai"
+  ]
 }

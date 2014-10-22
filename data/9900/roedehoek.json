@@ -1,27 +1,25 @@
 {
-  "pcode": 9900, 
   "addresses": [
     {
-      "lat": 51.190260110251096, 
       "housenumber": "2", 
+      "lat": 51.190260110251096, 
+      "lon": 3.5392590704119833, 
       "pcode": 9900, 
-      "street": "Roedehoek", 
-      "lon": 3.5392590704119833
+      "street": "Roedehoek"
     }, 
     {
-      "lat": 51.19007334566675, 
       "housenumber": "3", 
+      "lat": 51.19007334566675, 
+      "lon": 3.539378399238826, 
       "pcode": 9900, 
-      "street": "Roedehoek", 
-      "lon": 3.539378399238826
+      "street": "Roedehoek"
     }, 
     {
-      "lat": 51.190083412761844, 
       "housenumber": "4", 
+      "lat": 51.190083412761844, 
+      "lon": 3.539878313380173, 
       "pcode": 9900, 
-      "street": "Roedehoek", 
-      "lon": 3.539878313380173
+      "street": "Roedehoek"
     }
-  ], 
-  "name": "Roedehoek"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3321, 
   "addresses": [
     {
-      "lat": 50.76279657093686, 
       "housenumber": "2", 
+      "lat": 50.76279657093686, 
+      "lon": 4.919917339489705, 
       "pcode": 3321, 
-      "street": "Pietrainstraat", 
-      "lon": 4.919917339489705
+      "street": "Pietrainstraat"
     }, 
     {
-      "lat": 50.762471756172225, 
       "housenumber": "4", 
+      "lat": 50.762471756172225, 
+      "lon": 4.91988079046173, 
       "pcode": 3321, 
-      "street": "Pietrainstraat", 
-      "lon": 4.91988079046173
+      "street": "Pietrainstraat"
     }
-  ], 
-  "name": "Pietrainstraat"
+  ]
 }

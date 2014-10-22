@@ -1,27 +1,25 @@
 {
-  "pcode": 2300, 
   "addresses": [
     {
-      "lat": 51.32759944072186, 
       "housenumber": "1", 
+      "lat": 51.32759944072186, 
+      "lon": 4.942272485663395, 
       "pcode": 2300, 
-      "street": "Kastanjestraat", 
-      "lon": 4.942272485663395
+      "street": "Kastanjestraat"
     }, 
     {
-      "lat": 51.3275487126281, 
       "housenumber": "2", 
+      "lat": 51.3275487126281, 
+      "lon": 4.9422981136206365, 
       "pcode": 2300, 
-      "street": "Kastanjestraat", 
-      "lon": 4.9422981136206365
+      "street": "Kastanjestraat"
     }, 
     {
-      "lat": 51.32749306303233, 
       "housenumber": "3", 
+      "lat": 51.32749306303233, 
+      "lon": 4.94233774034088, 
       "pcode": 2300, 
-      "street": "Kastanjestraat", 
-      "lon": 4.94233774034088
+      "street": "Kastanjestraat"
     }
-  ], 
-  "name": "Kastanjestraat"
+  ]
 }

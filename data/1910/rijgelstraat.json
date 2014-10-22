@@ -1,46 +1,44 @@
 {
-  "pcode": 1910, 
   "addresses": [
     {
-      "lat": 50.93783282349527, 
       "housenumber": "1", 
+      "lat": 50.93783282349527, 
+      "lon": 4.6177659412444045, 
       "pcode": 1910, 
-      "street": "Rijgelstraat", 
-      "lon": 4.6177659412444045
+      "street": "Rijgelstraat"
     }, 
     {
-      "lat": 50.93768295656271, 
       "housenumber": "2", 
+      "lat": 50.93768295656271, 
+      "lon": 4.618153397094155, 
       "pcode": 1910, 
-      "street": "Rijgelstraat", 
-      "lon": 4.618153397094155
+      "street": "Rijgelstraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 1910, 
-      "street": "Rijgelstraat", 
-      "housenumber": "2A"
+      "street": "Rijgelstraat"
     }, 
     {
-      "lat": 50.93811255809938, 
       "housenumber": "3A", 
+      "lat": 50.93811255809938, 
+      "lon": 4.6181948116391425, 
       "pcode": 1910, 
-      "street": "Rijgelstraat", 
-      "lon": 4.6181948116391425
+      "street": "Rijgelstraat"
     }, 
     {
-      "lat": 50.93811700684382, 
       "housenumber": "3B", 
+      "lat": 50.93811700684382, 
+      "lon": 4.618300827126324, 
       "pcode": 1910, 
-      "street": "Rijgelstraat", 
-      "lon": 4.618300827126324
+      "street": "Rijgelstraat"
     }, 
     {
-      "lat": 50.93812162891234, 
       "housenumber": "3C", 
+      "lat": 50.93812162891234, 
+      "lon": 4.618409831246742, 
       "pcode": 1910, 
-      "street": "Rijgelstraat", 
-      "lon": 4.618409831246742
+      "street": "Rijgelstraat"
     }
-  ], 
-  "name": "Rijgelstraat"
+  ]
 }

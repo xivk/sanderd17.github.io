@@ -1,27 +1,25 @@
 {
-  "pcode": 1910, 
   "addresses": [
     {
-      "lat": 50.92008686635411, 
       "housenumber": "1", 
+      "lat": 50.92008686635411, 
+      "lon": 4.5296474080362445, 
       "pcode": 1910, 
-      "street": "Humelgemseweg", 
-      "lon": 4.5296474080362445
+      "street": "Humelgemseweg"
     }, 
     {
-      "lat": 50.91983413090798, 
       "housenumber": "3", 
+      "lat": 50.91983413090798, 
+      "lon": 4.5294185673679035, 
       "pcode": 1910, 
-      "street": "Humelgemseweg", 
-      "lon": 4.5294185673679035
+      "street": "Humelgemseweg"
     }, 
     {
-      "lat": 50.91947876955003, 
       "housenumber": "5", 
+      "lat": 50.91947876955003, 
+      "lon": 4.529165769346667, 
       "pcode": 1910, 
-      "street": "Humelgemseweg", 
-      "lon": 4.529165769346667
+      "street": "Humelgemseweg"
     }
-  ], 
-  "name": "Humelgemseweg"
+  ]
 }

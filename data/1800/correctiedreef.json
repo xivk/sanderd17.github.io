@@ -1,37 +1,35 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
-      "lat": 50.92440952586083, 
       "housenumber": "1", 
+      "lat": 50.92440952586083, 
+      "lon": 4.422178123375008, 
       "pcode": 1800, 
-      "street": "Correctiedreef", 
-      "lon": 4.422178123375008
+      "street": "Correctiedreef"
     }, 
     {
-      "lat": 50.92380505059493, 
       "housenumber": "3", 
+      "lat": 50.92380505059493, 
+      "lon": 4.422639947497017, 
       "pcode": 1800, 
-      "street": "Correctiedreef", 
-      "lon": 4.422639947497017
+      "street": "Correctiedreef"
     }, 
     {
-      "lat": 50.924273006951665, 
       "housenumber": "5", 
+      "lat": 50.924273006951665, 
+      "lon": 4.422698663005401, 
       "pcode": 1800, 
-      "street": "Correctiedreef", 
-      "lon": 4.422698663005401
+      "street": "Correctiedreef"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 1800, 
-      "street": "Correctiedreef", 
-      "housenumber": "7"
+      "street": "Correctiedreef"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 1800, 
-      "street": "Correctiedreef", 
-      "housenumber": "9"
+      "street": "Correctiedreef"
     }
-  ], 
-  "name": "Correctiedreef"
+  ]
 }

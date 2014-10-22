@@ -1,39 +1,37 @@
 {
-  "pcode": 2627, 
   "addresses": [
     {
-      "lat": 51.12844805823247, 
       "housenumber": "1", 
+      "lat": 51.12844805823247, 
+      "lon": 4.3367378412644175, 
       "pcode": 2627, 
-      "street": "Stormsstraat", 
-      "lon": 4.3367378412644175
+      "street": "Stormsstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2627, 
-      "street": "Stormsstraat", 
-      "housenumber": "2"
+      "street": "Stormsstraat"
     }, 
     {
-      "lat": 51.12838744454088, 
       "housenumber": "3", 
+      "lat": 51.12838744454088, 
+      "lon": 4.33662560227351, 
       "pcode": 2627, 
-      "street": "Stormsstraat", 
-      "lon": 4.33662560227351
+      "street": "Stormsstraat"
     }, 
     {
-      "lat": 51.128369622716704, 
       "housenumber": "5", 
+      "lat": 51.128369622716704, 
+      "lon": 4.336534904931693, 
       "pcode": 2627, 
-      "street": "Stormsstraat", 
-      "lon": 4.336534904931693
+      "street": "Stormsstraat"
     }, 
     {
-      "lat": 51.128343983256066, 
       "housenumber": "7", 
+      "lat": 51.128343983256066, 
+      "lon": 4.336453926698916, 
       "pcode": 2627, 
-      "street": "Stormsstraat", 
-      "lon": 4.336453926698916
+      "street": "Stormsstraat"
     }
-  ], 
-  "name": "Stormsstraat"
+  ]
 }

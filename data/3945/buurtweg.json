@@ -1,20 +1,18 @@
 {
-  "pcode": 3945, 
   "addresses": [
     {
-      "lat": 51.10589959404011, 
       "housenumber": "5", 
+      "lat": 51.10589959404011, 
+      "lon": 5.18305510722158, 
       "pcode": 3945, 
-      "street": "Buurtweg", 
-      "lon": 5.18305510722158
+      "street": "Buurtweg"
     }, 
     {
-      "lat": 51.10599974674806, 
       "housenumber": "8", 
+      "lat": 51.10599974674806, 
+      "lon": 5.183625584271004, 
       "pcode": 3945, 
-      "street": "Buurtweg", 
-      "lon": 5.183625584271004
+      "street": "Buurtweg"
     }
-  ], 
-  "name": "Buurtweg"
+  ]
 }

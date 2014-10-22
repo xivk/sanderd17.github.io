@@ -1,39 +1,37 @@
 {
-  "pcode": 9690, 
   "addresses": [
     {
-      "lat": 50.762301682891504, 
       "housenumber": "1", 
+      "lat": 50.762301682891504, 
+      "lon": 3.4878993824355287, 
       "pcode": 9690, 
-      "street": "Eikendreef", 
-      "lon": 3.4878993824355287
+      "street": "Eikendreef"
     }, 
     {
-      "lat": 50.76273513183271, 
       "housenumber": "2", 
+      "lat": 50.76273513183271, 
+      "lon": 3.487866758190183, 
       "pcode": 9690, 
-      "street": "Eikendreef", 
-      "lon": 3.487866758190183
+      "street": "Eikendreef"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9690, 
-      "street": "Eikendreef", 
-      "housenumber": "3"
+      "street": "Eikendreef"
     }, 
     {
-      "lat": 50.763013735948995, 
       "housenumber": "4", 
+      "lat": 50.763013735948995, 
+      "lon": 3.487710444098464, 
       "pcode": 9690, 
-      "street": "Eikendreef", 
-      "lon": 3.487710444098464
+      "street": "Eikendreef"
     }, 
     {
-      "lat": 50.76267760396399, 
       "housenumber": "5", 
+      "lat": 50.76267760396399, 
+      "lon": 3.489591654725283, 
       "pcode": 9690, 
-      "street": "Eikendreef", 
-      "lon": 3.489591654725283
+      "street": "Eikendreef"
     }
-  ], 
-  "name": "Eikendreef"
+  ]
 }

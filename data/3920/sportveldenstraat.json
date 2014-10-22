@@ -1,20 +1,18 @@
 {
-  "pcode": 3920, 
   "addresses": [
     {
-      "lat": 51.24507398503369, 
       "housenumber": "10", 
+      "lat": 51.24507398503369, 
+      "lon": 5.30580693273793, 
       "pcode": 3920, 
-      "street": "Sportveldenstraat", 
-      "lon": 5.30580693273793
+      "street": "Sportveldenstraat"
     }, 
     {
-      "lat": 51.243869325034254, 
       "housenumber": "15", 
+      "lat": 51.243869325034254, 
+      "lon": 5.304825158391264, 
       "pcode": 3920, 
-      "street": "Sportveldenstraat", 
-      "lon": 5.304825158391264
+      "street": "Sportveldenstraat"
     }
-  ], 
-  "name": "Sportveldenstraat"
+  ]
 }

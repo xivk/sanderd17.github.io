@@ -1,18 +1,16 @@
 {
-  "pcode": 2060, 
   "addresses": [
     {
+      "housenumber": "93", 
       "pcode": 2060, 
-      "street": "Amerikadok-Noordkaai", 
-      "housenumber": "93"
+      "street": "Amerikadok-Noordkaai"
     }, 
     {
-      "lat": 51.24544490225309, 
       "housenumber": "95", 
+      "lat": 51.24544490225309, 
+      "lon": 4.397411847498649, 
       "pcode": 2060, 
-      "street": "Amerikadok-Noordkaai", 
-      "lon": 4.397411847498649
+      "street": "Amerikadok-Noordkaai"
     }
-  ], 
-  "name": "Amerikadok-Noordkaai"
+  ]
 }

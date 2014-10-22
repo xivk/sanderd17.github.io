@@ -1,18 +1,16 @@
 {
-  "pcode": 8434, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8434, 
-      "street": "Strandlaan", 
-      "housenumber": "1"
+      "street": "Strandlaan"
     }, 
     {
-      "lat": 51.16585796390661, 
       "housenumber": "12", 
+      "lat": 51.16585796390661, 
+      "lon": 2.7636510908775813, 
       "pcode": 8434, 
-      "street": "Strandlaan", 
-      "lon": 2.7636510908775813
+      "street": "Strandlaan"
     }
-  ], 
-  "name": "Strandlaan"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8940, 
   "addresses": [
     {
-      "lat": 50.81359364174226, 
       "housenumber": "1", 
+      "lat": 50.81359364174226, 
+      "lon": 3.0939895035425335, 
       "pcode": 8940, 
-      "street": "Verbrandhofweg", 
-      "lon": 3.0939895035425335
+      "street": "Verbrandhofweg"
     }, 
     {
-      "lat": 50.815379815889706, 
       "housenumber": "3", 
+      "lat": 50.815379815889706, 
+      "lon": 3.099380048295427, 
       "pcode": 8940, 
-      "street": "Verbrandhofweg", 
-      "lon": 3.099380048295427
+      "street": "Verbrandhofweg"
     }
-  ], 
-  "name": "Verbrandhofweg"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 1760, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 1760, 
-      "street": "Berchembos", 
-      "housenumber": "2"
+      "street": "Berchembos"
     }, 
     {
-      "lat": 50.82142062186266, 
       "housenumber": "4", 
+      "lat": 50.82142062186266, 
+      "lon": 4.077446430539312, 
       "pcode": 1760, 
-      "street": "Berchembos", 
-      "lon": 4.077446430539312
+      "street": "Berchembos"
     }, 
     {
-      "lat": 50.81534014271453, 
       "housenumber": "5", 
+      "lat": 50.81534014271453, 
+      "lon": 4.080777064376782, 
       "pcode": 1760, 
-      "street": "Berchembos", 
-      "lon": 4.080777064376782
+      "street": "Berchembos"
     }, 
     {
-      "lat": 50.820191538814896, 
       "housenumber": "6", 
+      "lat": 50.820191538814896, 
+      "lon": 4.0779468935124985, 
       "pcode": 1760, 
-      "street": "Berchembos", 
-      "lon": 4.0779468935124985
+      "street": "Berchembos"
     }
-  ], 
-  "name": "Berchembos"
+  ]
 }

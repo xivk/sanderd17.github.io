@@ -1,28 +1,26 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
+      "housenumber": "13", 
       "pcode": 3500, 
-      "street": "Ekkelgardenstraat", 
-      "housenumber": "13"
+      "street": "Ekkelgardenstraat"
     }, 
     {
+      "housenumber": "17", 
       "pcode": 3500, 
-      "street": "Ekkelgardenstraat", 
-      "housenumber": "17"
+      "street": "Ekkelgardenstraat"
     }, 
     {
-      "lat": 50.90769306983516, 
       "housenumber": "26", 
+      "lat": 50.90769306983516, 
+      "lon": 5.345564626232492, 
       "pcode": 3500, 
-      "street": "Ekkelgardenstraat", 
-      "lon": 5.345564626232492
+      "street": "Ekkelgardenstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3500, 
-      "street": "Ekkelgardenstraat", 
-      "housenumber": "4"
+      "street": "Ekkelgardenstraat"
     }
-  ], 
-  "name": "Ekkelgardenstraat"
+  ]
 }

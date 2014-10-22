@@ -1,32 +1,30 @@
 {
-  "pcode": 1640, 
   "addresses": [
     {
-      "lat": 50.734915531426, 
       "housenumber": "12", 
+      "lat": 50.734915531426, 
+      "lon": 4.394816987460048, 
       "pcode": 1640, 
-      "street": "Patrijzenlaan", 
-      "lon": 4.394816987460048
+      "street": "Patrijzenlaan"
     }, 
     {
-      "lat": 50.73475710900936, 
       "housenumber": "18", 
+      "lat": 50.73475710900936, 
+      "lon": 4.394120374813542, 
       "pcode": 1640, 
-      "street": "Patrijzenlaan", 
-      "lon": 4.394120374813542
+      "street": "Patrijzenlaan"
     }, 
     {
-      "lat": 50.73511067534239, 
       "housenumber": "2", 
+      "lat": 50.73511067534239, 
+      "lon": 4.395310914881217, 
       "pcode": 1640, 
-      "street": "Patrijzenlaan", 
-      "lon": 4.395310914881217
+      "street": "Patrijzenlaan"
     }, 
     {
+      "housenumber": "20", 
       "pcode": 1640, 
-      "street": "Patrijzenlaan", 
-      "housenumber": "20"
+      "street": "Patrijzenlaan"
     }
-  ], 
-  "name": "Patrijzenlaan"
+  ]
 }

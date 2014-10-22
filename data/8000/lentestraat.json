@@ -1,20 +1,18 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.25602390607833, 
       "housenumber": "3", 
+      "lat": 51.25602390607833, 
+      "lon": 3.2038729108526813, 
       "pcode": 8000, 
-      "street": "Lentestraat", 
-      "lon": 3.2038729108526813
+      "street": "Lentestraat"
     }, 
     {
-      "lat": 51.25817480366293, 
       "housenumber": "5", 
+      "lat": 51.25817480366293, 
+      "lon": 3.2027418078546934, 
       "pcode": 8000, 
-      "street": "Lentestraat", 
-      "lon": 3.2027418078546934
+      "street": "Lentestraat"
     }
-  ], 
-  "name": "Lentestraat"
+  ]
 }

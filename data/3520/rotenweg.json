@@ -1,20 +1,18 @@
 {
-  "pcode": 3520, 
   "addresses": [
     {
-      "lat": 50.987102134484495, 
       "housenumber": "1", 
+      "lat": 50.987102134484495, 
+      "lon": 5.363520668836714, 
       "pcode": 3520, 
-      "street": "Rotenweg", 
-      "lon": 5.363520668836714
+      "street": "Rotenweg"
     }, 
     {
-      "lat": 50.98687219355634, 
       "housenumber": "1A", 
+      "lat": 50.98687219355634, 
+      "lon": 5.363847363429816, 
       "pcode": 3520, 
-      "street": "Rotenweg", 
-      "lon": 5.363847363429816
+      "street": "Rotenweg"
     }
-  ], 
-  "name": "Rotenweg"
+  ]
 }

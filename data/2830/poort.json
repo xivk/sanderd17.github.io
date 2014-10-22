@@ -1,42 +1,40 @@
 {
-  "pcode": 2830, 
   "addresses": [
     {
-      "lat": 51.08074093194733, 
       "housenumber": "1", 
+      "lat": 51.08074093194733, 
+      "lon": 4.365742099944194, 
       "pcode": 2830, 
-      "street": "Poort", 
-      "lon": 4.365742099944194
+      "street": "Poort"
     }, 
     {
-      "lat": 51.08062111494738, 
       "housenumber": "2", 
+      "lat": 51.08062111494738, 
+      "lon": 4.365978565570008, 
       "pcode": 2830, 
-      "street": "Poort", 
-      "lon": 4.365978565570008
+      "street": "Poort"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2830, 
-      "street": "Poort", 
-      "housenumber": "4"
+      "street": "Poort"
     }, 
     {
-      "lat": 51.08045949513623, 
       "housenumber": "6", 
+      "lat": 51.08045949513623, 
+      "lon": 4.365966014900202, 
       "pcode": 2830, 
-      "street": "Poort", 
-      "lon": 4.365966014900202
+      "street": "Poort"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2830, 
-      "street": "Poort", 
-      "housenumber": "7"
+      "street": "Poort"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 2830, 
-      "street": "Poort", 
-      "housenumber": "9"
+      "street": "Poort"
     }
-  ], 
-  "name": "Poort"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3210, 
   "addresses": [
     {
-      "lat": 50.90309510357183, 
       "housenumber": "1", 
+      "lat": 50.90309510357183, 
+      "lon": 4.762475452943069, 
       "pcode": 3210, 
-      "street": "Jonkvrouwlaan", 
-      "lon": 4.762475452943069
+      "street": "Jonkvrouwlaan"
     }, 
     {
-      "lat": 50.903216890826634, 
       "housenumber": "2", 
+      "lat": 50.903216890826634, 
+      "lon": 4.763043150800156, 
       "pcode": 3210, 
-      "street": "Jonkvrouwlaan", 
-      "lon": 4.763043150800156
+      "street": "Jonkvrouwlaan"
     }
-  ], 
-  "name": "Jonkvrouwlaan"
+  ]
 }

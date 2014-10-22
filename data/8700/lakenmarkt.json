@@ -1,42 +1,40 @@
 {
-  "pcode": 8700, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8700, 
-      "street": "Lakenmarkt", 
-      "housenumber": "1"
+      "street": "Lakenmarkt"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8700, 
-      "street": "Lakenmarkt", 
-      "housenumber": "3"
+      "street": "Lakenmarkt"
     }, 
     {
-      "lat": 51.00152267725115, 
       "housenumber": "4", 
+      "lat": 51.00152267725115, 
+      "lon": 3.3265274685765354, 
       "pcode": 8700, 
-      "street": "Lakenmarkt", 
-      "lon": 3.3265274685765354
+      "street": "Lakenmarkt"
     }, 
     {
-      "lat": 51.00153418793252, 
       "housenumber": "6", 
+      "lat": 51.00153418793252, 
+      "lon": 3.3273203800146516, 
       "pcode": 8700, 
-      "street": "Lakenmarkt", 
-      "lon": 3.3273203800146516
+      "street": "Lakenmarkt"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8700, 
-      "street": "Lakenmarkt", 
-      "housenumber": "7"
+      "street": "Lakenmarkt"
     }, 
     {
-      "lat": 51.00113289441715, 
       "housenumber": "9", 
+      "lat": 51.00113289441715, 
+      "lon": 3.326560497501312, 
       "pcode": 8700, 
-      "street": "Lakenmarkt", 
-      "lon": 3.326560497501312
+      "street": "Lakenmarkt"
     }
-  ], 
-  "name": "Lakenmarkt"
+  ]
 }

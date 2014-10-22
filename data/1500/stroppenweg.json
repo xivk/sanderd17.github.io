@@ -1,27 +1,25 @@
 {
-  "pcode": 1500, 
   "addresses": [
     {
-      "lat": 50.74530051432701, 
       "housenumber": "1", 
+      "lat": 50.74530051432701, 
+      "lon": 4.243797170563658, 
       "pcode": 1500, 
-      "street": "Stroppenweg", 
-      "lon": 4.243797170563658
+      "street": "Stroppenweg"
     }, 
     {
-      "lat": 50.7453444358454, 
       "housenumber": "3", 
+      "lat": 50.7453444358454, 
+      "lon": 4.243845653712524, 
       "pcode": 1500, 
-      "street": "Stroppenweg", 
-      "lon": 4.243845653712524
+      "street": "Stroppenweg"
     }, 
     {
-      "lat": 50.74538692394605, 
       "housenumber": "5", 
+      "lat": 50.74538692394605, 
+      "lon": 4.243898816439925, 
       "pcode": 1500, 
-      "street": "Stroppenweg", 
-      "lon": 4.243898816439925
+      "street": "Stroppenweg"
     }
-  ], 
-  "name": "Stroppenweg"
+  ]
 }

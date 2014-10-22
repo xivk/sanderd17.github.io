@@ -1,32 +1,30 @@
 {
-  "pcode": 8660, 
   "addresses": [
     {
-      "lat": 51.09414283845569, 
       "housenumber": "1", 
+      "lat": 51.09414283845569, 
+      "lon": 2.566121381488855, 
       "pcode": 8660, 
-      "street": "Schuilhavenlaan", 
-      "lon": 2.566121381488855
+      "street": "Schuilhavenlaan"
     }, 
     {
-      "lat": 51.09384742295108, 
       "housenumber": "2", 
+      "lat": 51.09384742295108, 
+      "lon": 2.5624748763573835, 
       "pcode": 8660, 
-      "street": "Schuilhavenlaan", 
-      "lon": 2.5624748763573835
+      "street": "Schuilhavenlaan"
     }, 
     {
+      "housenumber": "24", 
       "pcode": 8660, 
-      "street": "Schuilhavenlaan", 
-      "housenumber": "24"
+      "street": "Schuilhavenlaan"
     }, 
     {
-      "lat": 51.09358913721202, 
       "housenumber": "5", 
+      "lat": 51.09358913721202, 
+      "lon": 2.565932687167584, 
       "pcode": 8660, 
-      "street": "Schuilhavenlaan", 
-      "lon": 2.565932687167584
+      "street": "Schuilhavenlaan"
     }
-  ], 
-  "name": "Schuilhavenlaan"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 8820, 
   "addresses": [
     {
-      "lat": 51.0447507571321, 
       "housenumber": "1", 
+      "lat": 51.0447507571321, 
+      "lon": 3.081924050572677, 
       "pcode": 8820, 
-      "street": "Akkerstraat", 
-      "lon": 3.081924050572677
+      "street": "Akkerstraat"
     }, 
     {
-      "lat": 51.046527690302696, 
       "housenumber": "3", 
+      "lat": 51.046527690302696, 
+      "lon": 3.0786759439821165, 
       "pcode": 8820, 
-      "street": "Akkerstraat", 
-      "lon": 3.0786759439821165
+      "street": "Akkerstraat"
     }, 
     {
-      "lat": 51.04322643552468, 
       "housenumber": "5", 
+      "lat": 51.04322643552468, 
+      "lon": 3.076910806047559, 
       "pcode": 8820, 
-      "street": "Akkerstraat", 
-      "lon": 3.076910806047559
+      "street": "Akkerstraat"
     }
-  ], 
-  "name": "Akkerstraat"
+  ]
 }

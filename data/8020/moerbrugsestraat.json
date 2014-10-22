@@ -1,20 +1,18 @@
 {
-  "pcode": 8020, 
   "addresses": [
     {
-      "lat": 51.157312333642544, 
       "housenumber": "20", 
+      "lat": 51.157312333642544, 
+      "lon": 3.2581595126009164, 
       "pcode": 8020, 
-      "street": "Moerbrugsestraat", 
-      "lon": 3.2581595126009164
+      "street": "Moerbrugsestraat"
     }, 
     {
-      "lat": 51.159431988806574, 
       "housenumber": "99", 
+      "lat": 51.159431988806574, 
+      "lon": 3.2596136363889556, 
       "pcode": 8020, 
-      "street": "Moerbrugsestraat", 
-      "lon": 3.2596136363889556
+      "street": "Moerbrugsestraat"
     }
-  ], 
-  "name": "Moerbrugsestraat"
+  ]
 }

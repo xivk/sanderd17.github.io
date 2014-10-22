@@ -1,30 +1,28 @@
 {
-  "pcode": 8620, 
   "addresses": [
     {
-      "lat": 51.14615427637448, 
       "housenumber": "1", 
+      "lat": 51.14615427637448, 
+      "lon": 2.7441124181898555, 
       "pcode": 8620, 
-      "street": "Halvemaanstraat", 
-      "lon": 2.7441124181898555
+      "street": "Halvemaanstraat"
     }, 
     {
-      "lat": 51.145028258984524, 
       "housenumber": "2A", 
+      "lat": 51.145028258984524, 
+      "lon": 2.748777361689365, 
       "pcode": 8620, 
-      "street": "Halvemaanstraat", 
-      "lon": 2.748777361689365
+      "street": "Halvemaanstraat"
     }, 
     {
+      "housenumber": "2B", 
       "pcode": 8620, 
-      "street": "Halvemaanstraat", 
-      "housenumber": "2B"
+      "street": "Halvemaanstraat"
     }, 
     {
+      "housenumber": "2D", 
       "pcode": 8620, 
-      "street": "Halvemaanstraat", 
-      "housenumber": "2D"
+      "street": "Halvemaanstraat"
     }
-  ], 
-  "name": "Halvemaanstraat"
+  ]
 }

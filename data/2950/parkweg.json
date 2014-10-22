@@ -1,20 +1,18 @@
 {
-  "pcode": 2950, 
   "addresses": [
     {
-      "lat": 51.31753769294431, 
       "housenumber": "1", 
+      "lat": 51.31753769294431, 
+      "lon": 4.421271885542792, 
       "pcode": 2950, 
-      "street": "Parkweg", 
-      "lon": 4.421271885542792
+      "street": "Parkweg"
     }, 
     {
-      "lat": 51.31736023695884, 
       "housenumber": "2", 
+      "lat": 51.31736023695884, 
+      "lon": 4.420942224907322, 
       "pcode": 2950, 
-      "street": "Parkweg", 
-      "lon": 4.420942224907322
+      "street": "Parkweg"
     }
-  ], 
-  "name": "Parkweg"
+  ]
 }

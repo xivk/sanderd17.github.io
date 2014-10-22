@@ -1,32 +1,30 @@
 {
-  "pcode": 2610, 
   "addresses": [
     {
-      "lat": 51.16962119863796, 
       "housenumber": "11", 
+      "lat": 51.16962119863796, 
+      "lon": 4.4064289629513365, 
       "pcode": 2610, 
-      "street": "Alfons De Vosstraat", 
-      "lon": 4.4064289629513365
+      "street": "Alfons De Vosstraat"
     }, 
     {
-      "lat": 51.169566076271884, 
       "housenumber": "5", 
+      "lat": 51.169566076271884, 
+      "lon": 4.405941657433469, 
       "pcode": 2610, 
-      "street": "Alfons De Vosstraat", 
-      "lon": 4.405941657433469
+      "street": "Alfons De Vosstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2610, 
-      "street": "Alfons De Vosstraat", 
-      "housenumber": "7"
+      "street": "Alfons De Vosstraat"
     }, 
     {
-      "lat": 51.16954046424466, 
       "housenumber": "9", 
+      "lat": 51.16954046424466, 
+      "lon": 4.4064815115140465, 
       "pcode": 2610, 
-      "street": "Alfons De Vosstraat", 
-      "lon": 4.4064815115140465
+      "street": "Alfons De Vosstraat"
     }
-  ], 
-  "name": "Alfons De Vosstraat"
+  ]
 }

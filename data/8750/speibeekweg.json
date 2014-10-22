@@ -1,27 +1,25 @@
 {
-  "pcode": 8750, 
   "addresses": [
     {
-      "lat": 51.060030407476376, 
       "housenumber": "2", 
+      "lat": 51.060030407476376, 
+      "lon": 3.2518457912766676, 
       "pcode": 8750, 
-      "street": "Speibeekweg", 
-      "lon": 3.2518457912766676
+      "street": "Speibeekweg"
     }, 
     {
-      "lat": 51.057540725955356, 
       "housenumber": "4", 
+      "lat": 51.057540725955356, 
+      "lon": 3.251702621819415, 
       "pcode": 8750, 
-      "street": "Speibeekweg", 
-      "lon": 3.251702621819415
+      "street": "Speibeekweg"
     }, 
     {
-      "lat": 51.05734517201135, 
       "housenumber": "6", 
+      "lat": 51.05734517201135, 
+      "lon": 3.2514630729307377, 
       "pcode": 8750, 
-      "street": "Speibeekweg", 
-      "lon": 3.2514630729307377
+      "street": "Speibeekweg"
     }
-  ], 
-  "name": "Speibeekweg"
+  ]
 }

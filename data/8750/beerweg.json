@@ -1,27 +1,25 @@
 {
-  "pcode": 8750, 
   "addresses": [
     {
-      "lat": 51.056650593619274, 
       "housenumber": "1", 
+      "lat": 51.056650593619274, 
+      "lon": 3.304798357794496, 
       "pcode": 8750, 
-      "street": "Beerweg", 
-      "lon": 3.304798357794496
+      "street": "Beerweg"
     }, 
     {
-      "lat": 51.05966540700167, 
       "housenumber": "2", 
+      "lat": 51.05966540700167, 
+      "lon": 3.3053639452770476, 
       "pcode": 8750, 
-      "street": "Beerweg", 
-      "lon": 3.3053639452770476
+      "street": "Beerweg"
     }, 
     {
-      "lat": 51.05575576722461, 
       "housenumber": "2A", 
+      "lat": 51.05575576722461, 
+      "lon": 3.306096622933829, 
       "pcode": 8750, 
-      "street": "Beerweg", 
-      "lon": 3.306096622933829
+      "street": "Beerweg"
     }
-  ], 
-  "name": "Beerweg"
+  ]
 }

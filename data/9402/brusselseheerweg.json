@@ -1,23 +1,21 @@
 {
-  "pcode": 9402, 
   "addresses": [
     {
-      "lat": 50.80427598543693, 
       "housenumber": "162", 
+      "lat": 50.80427598543693, 
+      "lon": 4.065130500238292, 
       "pcode": 9402, 
-      "street": "Brusselseheerweg", 
-      "lon": 4.065130500238292
+      "street": "Brusselseheerweg"
     }, 
     {
+      "housenumber": "205", 
       "pcode": 9402, 
-      "street": "Brusselseheerweg", 
-      "housenumber": "205"
+      "street": "Brusselseheerweg"
     }, 
     {
+      "housenumber": "425", 
       "pcode": 9402, 
-      "street": "Brusselseheerweg", 
-      "housenumber": "425"
+      "street": "Brusselseheerweg"
     }
-  ], 
-  "name": "Brusselseheerweg"
+  ]
 }

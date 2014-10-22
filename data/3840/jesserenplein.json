@@ -1,39 +1,37 @@
 {
-  "pcode": 3840, 
   "addresses": [
     {
-      "lat": 50.80333289629543, 
       "housenumber": "1", 
+      "lat": 50.80333289629543, 
+      "lon": 5.398026093090908, 
       "pcode": 3840, 
-      "street": "Jesserenplein", 
-      "lon": 5.398026093090908
+      "street": "Jesserenplein"
     }, 
     {
+      "housenumber": "160", 
       "pcode": 3840, 
-      "street": "Jesserenplein", 
-      "housenumber": "160"
+      "street": "Jesserenplein"
     }, 
     {
-      "lat": 50.80335767481068, 
       "housenumber": "2", 
+      "lat": 50.80335767481068, 
+      "lon": 5.398572007604058, 
       "pcode": 3840, 
-      "street": "Jesserenplein", 
-      "lon": 5.398572007604058
+      "street": "Jesserenplein"
     }, 
     {
-      "lat": 50.803159211161834, 
       "housenumber": "3", 
+      "lat": 50.803159211161834, 
+      "lon": 5.398024844688572, 
       "pcode": 3840, 
-      "street": "Jesserenplein", 
-      "lon": 5.398024844688572
+      "street": "Jesserenplein"
     }, 
     {
-      "lat": 50.80314242841442, 
       "housenumber": "5", 
+      "lat": 50.80314242841442, 
+      "lon": 5.398287372669662, 
       "pcode": 3840, 
-      "street": "Jesserenplein", 
-      "lon": 5.398287372669662
+      "street": "Jesserenplein"
     }
-  ], 
-  "name": "Jesserenplein"
+  ]
 }

@@ -1,30 +1,28 @@
 {
-  "pcode": 9500, 
   "addresses": [
     {
-      "lat": 50.77296556394984, 
       "housenumber": "1", 
+      "lat": 50.77296556394984, 
+      "lon": 3.879900343901816, 
       "pcode": 9500, 
-      "street": "Patersstraat", 
-      "lon": 3.879900343901816
+      "street": "Patersstraat"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 9500, 
-      "street": "Patersstraat", 
-      "housenumber": "1B"
+      "street": "Patersstraat"
     }, 
     {
-      "lat": 50.77276868762234, 
       "housenumber": "2", 
+      "lat": 50.77276868762234, 
+      "lon": 3.879857726533207, 
       "pcode": 9500, 
-      "street": "Patersstraat", 
-      "lon": 3.879857726533207
+      "street": "Patersstraat"
     }, 
     {
+      "housenumber": "2B", 
       "pcode": 9500, 
-      "street": "Patersstraat", 
-      "housenumber": "2B"
+      "street": "Patersstraat"
     }
-  ], 
-  "name": "Patersstraat"
+  ]
 }

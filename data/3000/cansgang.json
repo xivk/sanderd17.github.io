@@ -1,27 +1,25 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.87438407247071, 
       "housenumber": "2", 
+      "lat": 50.87438407247071, 
+      "lon": 4.710688803250194, 
       "pcode": 3000, 
-      "street": "Cansgang", 
-      "lon": 4.710688803250194
+      "street": "Cansgang"
     }, 
     {
-      "lat": 50.874379664243655, 
       "housenumber": "3", 
+      "lat": 50.874379664243655, 
+      "lon": 4.710813089802956, 
       "pcode": 3000, 
-      "street": "Cansgang", 
-      "lon": 4.710813089802956
+      "street": "Cansgang"
     }, 
     {
-      "lat": 50.874535357970714, 
       "housenumber": "4", 
+      "lat": 50.874535357970714, 
+      "lon": 4.710907145357329, 
       "pcode": 3000, 
-      "street": "Cansgang", 
-      "lon": 4.710907145357329
+      "street": "Cansgang"
     }
-  ], 
-  "name": "Cansgang"
+  ]
 }

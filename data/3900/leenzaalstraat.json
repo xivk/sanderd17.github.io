@@ -1,32 +1,30 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
-      "lat": 51.222631734010804, 
       "housenumber": "2", 
+      "lat": 51.222631734010804, 
+      "lon": 5.428576697100406, 
       "pcode": 3900, 
-      "street": "Leenzaalstraat", 
-      "lon": 5.428576697100406
+      "street": "Leenzaalstraat"
     }, 
     {
-      "lat": 51.22268377634615, 
       "housenumber": "4", 
+      "lat": 51.22268377634615, 
+      "lon": 5.428988156996452, 
       "pcode": 3900, 
-      "street": "Leenzaalstraat", 
-      "lon": 5.428988156996452
+      "street": "Leenzaalstraat"
     }, 
     {
+      "housenumber": "4A", 
       "pcode": 3900, 
-      "street": "Leenzaalstraat", 
-      "housenumber": "4A"
+      "street": "Leenzaalstraat"
     }, 
     {
-      "lat": 51.22315665233326, 
       "housenumber": "6", 
+      "lat": 51.22315665233326, 
+      "lon": 5.430035211839348, 
       "pcode": 3900, 
-      "street": "Leenzaalstraat", 
-      "lon": 5.430035211839348
+      "street": "Leenzaalstraat"
     }
-  ], 
-  "name": "Leenzaalstraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 8650, 
   "addresses": [
     {
-      "lat": 50.99058656150136, 
       "housenumber": "1", 
+      "lat": 50.99058656150136, 
+      "lon": 2.9079495267483266, 
       "pcode": 8650, 
-      "street": "Kerelsstraat", 
-      "lon": 2.9079495267483266
+      "street": "Kerelsstraat"
     }, 
     {
-      "lat": 50.99002045770505, 
       "housenumber": "2", 
+      "lat": 50.99002045770505, 
+      "lon": 2.9070919225741316, 
       "pcode": 8650, 
-      "street": "Kerelsstraat", 
-      "lon": 2.9070919225741316
+      "street": "Kerelsstraat"
     }, 
     {
-      "lat": 50.989512964886735, 
       "housenumber": "3", 
+      "lat": 50.989512964886735, 
+      "lon": 2.9048890294889764, 
       "pcode": 8650, 
-      "street": "Kerelsstraat", 
-      "lon": 2.9048890294889764
+      "street": "Kerelsstraat"
     }
-  ], 
-  "name": "Kerelsstraat"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 3510, 
   "addresses": [
     {
+      "housenumber": "50", 
       "pcode": 3510, 
-      "street": "Schouterveldstraat", 
-      "housenumber": "50"
+      "street": "Schouterveldstraat"
     }, 
     {
-      "lat": 50.95064335123656, 
       "housenumber": "57", 
+      "lat": 50.95064335123656, 
+      "lon": 5.26557002333768, 
       "pcode": 3510, 
-      "street": "Schouterveldstraat", 
-      "lon": 5.26557002333768
+      "street": "Schouterveldstraat"
     }, 
     {
-      "lat": 50.950457310043745, 
       "housenumber": "59", 
+      "lat": 50.950457310043745, 
+      "lon": 5.265163134446338, 
       "pcode": 3510, 
-      "street": "Schouterveldstraat", 
-      "lon": 5.265163134446338
+      "street": "Schouterveldstraat"
     }, 
     {
-      "lat": 50.95053314147499, 
       "housenumber": "61", 
+      "lat": 50.95053314147499, 
+      "lon": 5.264886068485507, 
       "pcode": 3510, 
-      "street": "Schouterveldstraat", 
-      "lon": 5.264886068485507
+      "street": "Schouterveldstraat"
     }
-  ], 
-  "name": "Schouterveldstraat"
+  ]
 }

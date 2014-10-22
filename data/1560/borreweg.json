@@ -1,28 +1,26 @@
 {
-  "pcode": 1560, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 1560, 
-      "street": "Borreweg", 
-      "housenumber": "2"
+      "street": "Borreweg"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 1560, 
-      "street": "Borreweg", 
-      "housenumber": "4"
+      "street": "Borreweg"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 1560, 
-      "street": "Borreweg", 
-      "housenumber": "6"
+      "street": "Borreweg"
     }, 
     {
-      "lat": 50.76881184798857, 
       "housenumber": "8", 
+      "lat": 50.76881184798857, 
+      "lon": 4.475302359568655, 
       "pcode": 1560, 
-      "street": "Borreweg", 
-      "lon": 4.475302359568655
+      "street": "Borreweg"
     }
-  ], 
-  "name": "Borreweg"
+  ]
 }

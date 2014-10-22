@@ -1,20 +1,18 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.23644678875103, 
       "housenumber": "2", 
+      "lat": 51.23644678875103, 
+      "lon": 2.9487627217557866, 
       "pcode": 8400, 
-      "street": "Tarbotstraat", 
-      "lon": 2.9487627217557866
+      "street": "Tarbotstraat"
     }, 
     {
-      "lat": 51.236507080879704, 
       "housenumber": "4", 
+      "lat": 51.236507080879704, 
+      "lon": 2.948880033841614, 
       "pcode": 8400, 
-      "street": "Tarbotstraat", 
-      "lon": 2.948880033841614
+      "street": "Tarbotstraat"
     }
-  ], 
-  "name": "Tarbotstraat"
+  ]
 }

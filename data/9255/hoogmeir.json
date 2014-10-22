@@ -1,18 +1,16 @@
 {
-  "pcode": 9255, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 9255, 
-      "street": "Hoogmeir", 
-      "housenumber": "2"
+      "street": "Hoogmeir"
     }, 
     {
-      "lat": 50.99521486061252, 
       "housenumber": "4", 
+      "lat": 50.99521486061252, 
+      "lon": 4.184232530073151, 
       "pcode": 9255, 
-      "street": "Hoogmeir", 
-      "lon": 4.184232530073151
+      "street": "Hoogmeir"
     }
-  ], 
-  "name": "Hoogmeir"
+  ]
 }

@@ -1,51 +1,49 @@
 {
-  "pcode": 8600, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8600, 
-      "street": "Vaartstraat", 
-      "housenumber": "1"
+      "street": "Vaartstraat"
     }, 
     {
-      "lat": 51.03352526914094, 
       "housenumber": "2", 
+      "lat": 51.03352526914094, 
+      "lon": 2.859088220835094, 
       "pcode": 8600, 
-      "street": "Vaartstraat", 
-      "lon": 2.859088220835094
+      "street": "Vaartstraat"
     }, 
     {
-      "lat": 51.0335264749426, 
       "housenumber": "22", 
+      "lat": 51.0335264749426, 
+      "lon": 2.8595471772558905, 
       "pcode": 8600, 
-      "street": "Vaartstraat", 
-      "lon": 2.8595471772558905
+      "street": "Vaartstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8600, 
-      "street": "Vaartstraat", 
-      "housenumber": "5"
+      "street": "Vaartstraat"
     }, 
     {
-      "lat": 51.033330520723666, 
       "housenumber": "6", 
+      "lat": 51.033330520723666, 
+      "lon": 2.8585967208494707, 
       "pcode": 8600, 
-      "street": "Vaartstraat", 
-      "lon": 2.8585967208494707
+      "street": "Vaartstraat"
     }, 
     {
-      "lat": 51.03292049651885, 
       "housenumber": "7", 
+      "lat": 51.03292049651885, 
+      "lon": 2.858600531150397, 
       "pcode": 8600, 
-      "street": "Vaartstraat", 
-      "lon": 2.858600531150397
+      "street": "Vaartstraat"
     }, 
     {
-      "lat": 51.03346970669527, 
       "housenumber": "8", 
+      "lat": 51.03346970669527, 
+      "lon": 2.859593494432998, 
       "pcode": 8600, 
-      "street": "Vaartstraat", 
-      "lon": 2.859593494432998
+      "street": "Vaartstraat"
     }
-  ], 
-  "name": "Vaartstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2850, 
   "addresses": [
     {
-      "lat": 51.09916545996064, 
       "housenumber": "1", 
+      "lat": 51.09916545996064, 
+      "lon": 4.372036906573217, 
       "pcode": 2850, 
-      "street": "August Sniedersstraat", 
-      "lon": 4.372036906573217
+      "street": "August Sniedersstraat"
     }, 
     {
-      "lat": 51.09915520904084, 
       "housenumber": "3", 
+      "lat": 51.09915520904084, 
+      "lon": 4.372144975070214, 
       "pcode": 2850, 
-      "street": "August Sniedersstraat", 
-      "lon": 4.372144975070214
+      "street": "August Sniedersstraat"
     }
-  ], 
-  "name": "August Sniedersstraat"
+  ]
 }

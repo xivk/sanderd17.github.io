@@ -1,27 +1,25 @@
 {
-  "pcode": 9300, 
   "addresses": [
     {
-      "lat": 50.96034315421246, 
       "housenumber": "12", 
+      "lat": 50.96034315421246, 
+      "lon": 4.050060670878469, 
       "pcode": 9300, 
-      "street": "Dijkstraat", 
-      "lon": 4.050060670878469
+      "street": "Dijkstraat"
     }, 
     {
-      "lat": 50.96001791475398, 
       "housenumber": "14", 
+      "lat": 50.96001791475398, 
+      "lon": 4.0501911228029766, 
       "pcode": 9300, 
-      "street": "Dijkstraat", 
-      "lon": 4.0501911228029766
+      "street": "Dijkstraat"
     }, 
     {
-      "lat": 50.95852461272935, 
       "housenumber": "7", 
+      "lat": 50.95852461272935, 
+      "lon": 4.046554666835105, 
       "pcode": 9300, 
-      "street": "Dijkstraat", 
-      "lon": 4.046554666835105
+      "street": "Dijkstraat"
     }
-  ], 
-  "name": "Dijkstraat"
+  ]
 }

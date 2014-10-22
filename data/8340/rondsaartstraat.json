@@ -1,20 +1,18 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.26866663426615, 
       "housenumber": "1", 
+      "lat": 51.26866663426615, 
+      "lon": 3.262245636633659, 
       "pcode": 8340, 
-      "street": "Rondsaartstraat", 
-      "lon": 3.262245636633659
+      "street": "Rondsaartstraat"
     }, 
     {
-      "lat": 51.273083509431615, 
       "housenumber": "3", 
+      "lat": 51.273083509431615, 
+      "lon": 3.266703146484097, 
       "pcode": 8340, 
-      "street": "Rondsaartstraat", 
-      "lon": 3.266703146484097
+      "street": "Rondsaartstraat"
     }
-  ], 
-  "name": "Rondsaartstraat"
+  ]
 }

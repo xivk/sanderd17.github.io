@@ -1,38 +1,36 @@
 {
-  "pcode": 9840, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9840, 
-      "street": "Bachtenboslaan", 
-      "housenumber": "1"
+      "street": "Bachtenboslaan"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9840, 
-      "street": "Bachtenboslaan", 
-      "housenumber": "2"
+      "street": "Bachtenboslaan"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9840, 
-      "street": "Bachtenboslaan", 
-      "housenumber": "3"
+      "street": "Bachtenboslaan"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9840, 
-      "street": "Bachtenboslaan", 
-      "housenumber": "4"
+      "street": "Bachtenboslaan"
     }, 
     {
-      "lat": 50.98725100690139, 
       "housenumber": "5", 
+      "lat": 50.98725100690139, 
+      "lon": 3.6464173569484446, 
       "pcode": 9840, 
-      "street": "Bachtenboslaan", 
-      "lon": 3.6464173569484446
+      "street": "Bachtenboslaan"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9840, 
-      "street": "Bachtenboslaan", 
-      "housenumber": "6"
+      "street": "Bachtenboslaan"
     }
-  ], 
-  "name": "Bachtenboslaan"
+  ]
 }

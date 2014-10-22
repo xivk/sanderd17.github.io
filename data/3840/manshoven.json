@@ -1,20 +1,18 @@
 {
-  "pcode": 3840, 
   "addresses": [
     {
-      "lat": 50.77934193966653, 
       "housenumber": "1", 
+      "lat": 50.77934193966653, 
+      "lon": 5.355050528408858, 
       "pcode": 3840, 
-      "street": "Manshoven", 
-      "lon": 5.355050528408858
+      "street": "Manshoven"
     }, 
     {
-      "lat": 50.78043110209055, 
       "housenumber": "2", 
+      "lat": 50.78043110209055, 
+      "lon": 5.358887238229256, 
       "pcode": 3840, 
-      "street": "Manshoven", 
-      "lon": 5.358887238229256
+      "street": "Manshoven"
     }
-  ], 
-  "name": "Manshoven"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.948013070287104, 
       "housenumber": "2", 
+      "lat": 50.948013070287104, 
+      "lon": 3.127472028795127, 
       "pcode": 8800, 
-      "street": "Torenstraat", 
-      "lon": 3.127472028795127
+      "street": "Torenstraat"
     }, 
     {
-      "lat": 50.94810754525428, 
       "housenumber": "6", 
+      "lat": 50.94810754525428, 
+      "lon": 3.1273854185718473, 
       "pcode": 8800, 
-      "street": "Torenstraat", 
-      "lon": 3.1273854185718473
+      "street": "Torenstraat"
     }, 
     {
-      "lat": 50.948281147102705, 
       "housenumber": "7", 
+      "lat": 50.948281147102705, 
+      "lon": 3.1269847476150683, 
       "pcode": 8800, 
-      "street": "Torenstraat", 
-      "lon": 3.1269847476150683
+      "street": "Torenstraat"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 8800, 
-      "street": "Torenstraat", 
-      "housenumber": "9"
+      "street": "Torenstraat"
     }
-  ], 
-  "name": "Torenstraat"
+  ]
 }

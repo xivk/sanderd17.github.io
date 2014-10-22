@@ -1,51 +1,49 @@
 {
-  "pcode": 3040, 
   "addresses": [
     {
-      "lat": 50.789101104622816, 
       "housenumber": "1", 
+      "lat": 50.789101104622816, 
+      "lon": 4.5788754233043205, 
       "pcode": 3040, 
-      "street": "Kasteelpark", 
-      "lon": 4.5788754233043205
+      "street": "Kasteelpark"
     }, 
     {
-      "lat": 50.790019897068944, 
       "housenumber": "2", 
+      "lat": 50.790019897068944, 
+      "lon": 4.578749628880676, 
       "pcode": 3040, 
-      "street": "Kasteelpark", 
-      "lon": 4.578749628880676
+      "street": "Kasteelpark"
     }, 
     {
-      "lat": 50.79022969345504, 
       "housenumber": "3", 
+      "lat": 50.79022969345504, 
+      "lon": 4.578662353777182, 
       "pcode": 3040, 
-      "street": "Kasteelpark", 
-      "lon": 4.578662353777182
+      "street": "Kasteelpark"
     }, 
     {
+      "housenumber": "3B", 
       "pcode": 3040, 
-      "street": "Kasteelpark", 
-      "housenumber": "3B"
+      "street": "Kasteelpark"
     }, 
     {
+      "housenumber": "3BIS", 
       "pcode": 3040, 
-      "street": "Kasteelpark", 
-      "housenumber": "3BIS"
+      "street": "Kasteelpark"
     }, 
     {
-      "lat": 50.78883311372215, 
       "housenumber": "4", 
+      "lat": 50.78883311372215, 
+      "lon": 4.576367566235931, 
       "pcode": 3040, 
-      "street": "Kasteelpark", 
-      "lon": 4.576367566235931
+      "street": "Kasteelpark"
     }, 
     {
-      "lat": 50.78994018078968, 
       "housenumber": "5", 
+      "lat": 50.78994018078968, 
+      "lon": 4.577181989685043, 
       "pcode": 3040, 
-      "street": "Kasteelpark", 
-      "lon": 4.577181989685043
+      "street": "Kasteelpark"
     }
-  ], 
-  "name": "Kasteelpark"
+  ]
 }

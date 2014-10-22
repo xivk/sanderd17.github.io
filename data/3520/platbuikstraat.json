@@ -1,35 +1,33 @@
 {
-  "pcode": 3520, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3520, 
-      "street": "Platbuikstraat", 
-      "housenumber": "10"
+      "street": "Platbuikstraat"
     }, 
     {
-      "lat": 50.99557307206705, 
       "housenumber": "2", 
+      "lat": 50.99557307206705, 
+      "lon": 5.34123474707361, 
       "pcode": 3520, 
-      "street": "Platbuikstraat", 
-      "lon": 5.34123474707361
+      "street": "Platbuikstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3520, 
-      "street": "Platbuikstraat", 
-      "housenumber": "4"
+      "street": "Platbuikstraat"
     }, 
     {
-      "lat": 50.99570210102396, 
       "housenumber": "6", 
+      "lat": 50.99570210102396, 
+      "lon": 5.341134003177799, 
       "pcode": 3520, 
-      "street": "Platbuikstraat", 
-      "lon": 5.341134003177799
+      "street": "Platbuikstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3520, 
-      "street": "Platbuikstraat", 
-      "housenumber": "8"
+      "street": "Platbuikstraat"
     }
-  ], 
-  "name": "Platbuikstraat"
+  ]
 }

@@ -1,28 +1,26 @@
 {
-  "pcode": 9130, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9130, 
-      "street": "Nicolaasstraat", 
-      "housenumber": "1"
+      "street": "Nicolaasstraat"
     }, 
     {
+      "housenumber": "1147", 
       "pcode": 9130, 
-      "street": "Nicolaasstraat", 
-      "housenumber": "1147"
+      "street": "Nicolaasstraat"
     }, 
     {
+      "housenumber": "1155", 
       "pcode": 9130, 
-      "street": "Nicolaasstraat", 
-      "housenumber": "1155"
+      "street": "Nicolaasstraat"
     }, 
     {
-      "lat": 51.25247437245106, 
       "housenumber": "5", 
+      "lat": 51.25247437245106, 
+      "lon": 4.2465177666356055, 
       "pcode": 9130, 
-      "street": "Nicolaasstraat", 
-      "lon": 4.2465177666356055
+      "street": "Nicolaasstraat"
     }
-  ], 
-  "name": "Nicolaasstraat"
+  ]
 }

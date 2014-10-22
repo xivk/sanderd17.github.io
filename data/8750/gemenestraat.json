@@ -1,20 +1,18 @@
 {
-  "pcode": 8750, 
   "addresses": [
     {
-      "lat": 51.03142424243675, 
       "housenumber": "1", 
+      "lat": 51.03142424243675, 
+      "lon": 3.1839119825832682, 
       "pcode": 8750, 
-      "street": "Gemenestraat", 
-      "lon": 3.1839119825832682
+      "street": "Gemenestraat"
     }, 
     {
-      "lat": 51.031345169476054, 
       "housenumber": "2", 
+      "lat": 51.031345169476054, 
+      "lon": 3.1853113251801575, 
       "pcode": 8750, 
-      "street": "Gemenestraat", 
-      "lon": 3.1853113251801575
+      "street": "Gemenestraat"
     }
-  ], 
-  "name": "Gemenestraat"
+  ]
 }

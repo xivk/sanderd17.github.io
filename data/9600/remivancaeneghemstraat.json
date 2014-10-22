@@ -1,51 +1,49 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.75935693771937, 
       "housenumber": "1", 
+      "lat": 50.75935693771937, 
+      "lon": 3.5859338522014186, 
       "pcode": 9600, 
-      "street": "Remi Van Caeneghemstraat", 
-      "lon": 3.5859338522014186
+      "street": "Remi Van Caeneghemstraat"
     }, 
     {
-      "lat": 50.75921663531974, 
       "housenumber": "2", 
+      "lat": 50.75921663531974, 
+      "lon": 3.5860332724348623, 
       "pcode": 9600, 
-      "street": "Remi Van Caeneghemstraat", 
-      "lon": 3.5860332724348623
+      "street": "Remi Van Caeneghemstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9600, 
-      "street": "Remi Van Caeneghemstraat", 
-      "housenumber": "3"
+      "street": "Remi Van Caeneghemstraat"
     }, 
     {
-      "lat": 50.75924436905631, 
       "housenumber": "4", 
+      "lat": 50.75924436905631, 
+      "lon": 3.585945643313538, 
       "pcode": 9600, 
-      "street": "Remi Van Caeneghemstraat", 
-      "lon": 3.585945643313538
+      "street": "Remi Van Caeneghemstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9600, 
-      "street": "Remi Van Caeneghemstraat", 
-      "housenumber": "5"
+      "street": "Remi Van Caeneghemstraat"
     }, 
     {
-      "lat": 50.75921382711573, 
       "housenumber": "6", 
+      "lat": 50.75921382711573, 
+      "lon": 3.5847527210430417, 
       "pcode": 9600, 
-      "street": "Remi Van Caeneghemstraat", 
-      "lon": 3.5847527210430417
+      "street": "Remi Van Caeneghemstraat"
     }, 
     {
-      "lat": 50.759560580727566, 
       "housenumber": "7", 
+      "lat": 50.759560580727566, 
+      "lon": 3.5854248889278244, 
       "pcode": 9600, 
-      "street": "Remi Van Caeneghemstraat", 
-      "lon": 3.5854248889278244
+      "street": "Remi Van Caeneghemstraat"
     }
-  ], 
-  "name": "Remi Van Caeneghemstraat"
+  ]
 }

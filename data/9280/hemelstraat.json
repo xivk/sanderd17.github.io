@@ -1,53 +1,51 @@
 {
-  "pcode": 9280, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9280, 
-      "street": "Hemelstraat", 
-      "housenumber": "1"
+      "street": "Hemelstraat"
     }, 
     {
-      "lat": 50.99772790029007, 
       "housenumber": "10", 
+      "lat": 50.99772790029007, 
+      "lon": 4.130800612055558, 
       "pcode": 9280, 
-      "street": "Hemelstraat", 
-      "lon": 4.130800612055558
+      "street": "Hemelstraat"
     }, 
     {
-      "lat": 50.99762606871227, 
       "housenumber": "2", 
+      "lat": 50.99762606871227, 
+      "lon": 4.130273914890292, 
       "pcode": 9280, 
-      "street": "Hemelstraat", 
-      "lon": 4.130273914890292
+      "street": "Hemelstraat"
     }, 
     {
-      "lat": 50.99761166045442, 
       "housenumber": "2A", 
+      "lat": 50.99761166045442, 
+      "lon": 4.130083388028727, 
       "pcode": 9280, 
-      "street": "Hemelstraat", 
-      "lon": 4.130083388028727
+      "street": "Hemelstraat"
     }, 
     {
-      "lat": 50.99763905086389, 
       "housenumber": "4", 
+      "lat": 50.99763905086389, 
+      "lon": 4.130337097467766, 
       "pcode": 9280, 
-      "street": "Hemelstraat", 
-      "lon": 4.130337097467766
+      "street": "Hemelstraat"
     }, 
     {
-      "lat": 50.99765063069567, 
       "housenumber": "6", 
+      "lat": 50.99765063069567, 
+      "lon": 4.130418093633568, 
       "pcode": 9280, 
-      "street": "Hemelstraat", 
-      "lon": 4.130418093633568
+      "street": "Hemelstraat"
     }, 
     {
-      "lat": 50.99771044547598, 
       "housenumber": "8", 
+      "lat": 50.99771044547598, 
+      "lon": 4.13048089636486, 
       "pcode": 9280, 
-      "street": "Hemelstraat", 
-      "lon": 4.13048089636486
+      "street": "Hemelstraat"
     }
-  ], 
-  "name": "Hemelstraat"
+  ]
 }

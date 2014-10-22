@@ -1,20 +1,18 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.22183712405534, 
       "housenumber": "1", 
+      "lat": 51.22183712405534, 
+      "lon": 2.9288021447164634, 
       "pcode": 8400, 
-      "street": "Platanendreef", 
-      "lon": 2.9288021447164634
+      "street": "Platanendreef"
     }, 
     {
-      "lat": 51.22165824299762, 
       "housenumber": "2", 
+      "lat": 51.22165824299762, 
+      "lon": 2.927910613514193, 
       "pcode": 8400, 
-      "street": "Platanendreef", 
-      "lon": 2.927910613514193
+      "street": "Platanendreef"
     }
-  ], 
-  "name": "Platanendreef"
+  ]
 }

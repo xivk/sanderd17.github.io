@@ -1,25 +1,23 @@
 {
-  "pcode": 9860, 
   "addresses": [
     {
-      "lat": 50.946401745067234, 
       "housenumber": "1", 
+      "lat": 50.946401745067234, 
+      "lon": 3.8350956399964353, 
       "pcode": 9860, 
-      "street": "Maudeweg", 
-      "lon": 3.8350956399964353
+      "street": "Maudeweg"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9860, 
-      "street": "Maudeweg", 
-      "housenumber": "3"
+      "street": "Maudeweg"
     }, 
     {
-      "lat": 50.944730172295905, 
       "housenumber": "7", 
+      "lat": 50.944730172295905, 
+      "lon": 3.840019639232266, 
       "pcode": 9860, 
-      "street": "Maudeweg", 
-      "lon": 3.840019639232266
+      "street": "Maudeweg"
     }
-  ], 
-  "name": "Maudeweg"
+  ]
 }

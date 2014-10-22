@@ -1,20 +1,18 @@
 {
-  "pcode": 9310, 
   "addresses": [
     {
-      "lat": 50.94157006251823, 
       "housenumber": "1", 
+      "lat": 50.94157006251823, 
+      "lon": 4.097805460975269, 
       "pcode": 9310, 
-      "street": "Zekensweg", 
-      "lon": 4.097805460975269
+      "street": "Zekensweg"
     }, 
     {
-      "lat": 50.9415134868767, 
       "housenumber": "3", 
+      "lat": 50.9415134868767, 
+      "lon": 4.097869386633181, 
       "pcode": 9310, 
-      "street": "Zekensweg", 
-      "lon": 4.097869386633181
+      "street": "Zekensweg"
     }
-  ], 
-  "name": "Zekensweg"
+  ]
 }

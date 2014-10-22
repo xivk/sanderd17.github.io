@@ -1,20 +1,18 @@
 {
-  "pcode": 9031, 
   "addresses": [
     {
-      "lat": 51.04551220959753, 
       "housenumber": "1", 
+      "lat": 51.04551220959753, 
+      "lon": 3.6180793297709077, 
       "pcode": 9031, 
-      "street": "Vierlinden", 
-      "lon": 3.6180793297709077
+      "street": "Vierlinden"
     }, 
     {
-      "lat": 51.04591664709673, 
       "housenumber": "2", 
+      "lat": 51.04591664709673, 
+      "lon": 3.6171768621123594, 
       "pcode": 9031, 
-      "street": "Vierlinden", 
-      "lon": 3.6171768621123594
+      "street": "Vierlinden"
     }
-  ], 
-  "name": "Vierlinden"
+  ]
 }

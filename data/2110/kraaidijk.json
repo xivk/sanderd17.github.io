@@ -1,20 +1,18 @@
 {
-  "pcode": 2110, 
   "addresses": [
     {
-      "lat": 51.22949381524179, 
       "housenumber": "1", 
+      "lat": 51.22949381524179, 
+      "lon": 4.527447297094095, 
       "pcode": 2110, 
-      "street": "Kraaidijk", 
-      "lon": 4.527447297094095
+      "street": "Kraaidijk"
     }, 
     {
-      "lat": 51.22936148643207, 
       "housenumber": "3", 
+      "lat": 51.22936148643207, 
+      "lon": 4.527728581789902, 
       "pcode": 2110, 
-      "street": "Kraaidijk", 
-      "lon": 4.527728581789902
+      "street": "Kraaidijk"
     }
-  ], 
-  "name": "Kraaidijk"
+  ]
 }

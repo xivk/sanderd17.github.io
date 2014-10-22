@@ -1,20 +1,18 @@
 {
-  "pcode": 8460, 
   "addresses": [
     {
-      "lat": 51.19377706697591, 
       "housenumber": "1", 
+      "lat": 51.19377706697591, 
+      "lon": 3.0423326656689302, 
       "pcode": 8460, 
-      "street": "Hillenweg", 
-      "lon": 3.0423326656689302
+      "street": "Hillenweg"
     }, 
     {
-      "lat": 51.19538720839262, 
       "housenumber": "3", 
+      "lat": 51.19538720839262, 
+      "lon": 3.0487143658605347, 
       "pcode": 8460, 
-      "street": "Hillenweg", 
-      "lon": 3.0487143658605347
+      "street": "Hillenweg"
     }
-  ], 
-  "name": "Hillenweg"
+  ]
 }

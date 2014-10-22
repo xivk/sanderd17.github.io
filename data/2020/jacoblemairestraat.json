@@ -1,47 +1,45 @@
 {
-  "pcode": 2020, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 2020, 
-      "street": "Jacob le Mairestraat", 
-      "housenumber": "2"
+      "street": "Jacob le Mairestraat"
     }, 
     {
-      "lat": 51.19093562340478, 
       "housenumber": "4", 
+      "lat": 51.19093562340478, 
+      "lon": 4.380349539378917, 
       "pcode": 2020, 
-      "street": "Jacob le Mairestraat", 
-      "lon": 4.380349539378917
+      "street": "Jacob le Mairestraat"
     }, 
     {
+      "housenumber": "40", 
       "pcode": 2020, 
-      "street": "Jacob le Mairestraat", 
-      "housenumber": "40"
+      "street": "Jacob le Mairestraat"
     }, 
     {
-      "lat": 51.1907832770283, 
       "housenumber": "6", 
+      "lat": 51.1907832770283, 
+      "lon": 4.38026710797189, 
       "pcode": 2020, 
-      "street": "Jacob le Mairestraat", 
-      "lon": 4.38026710797189
+      "street": "Jacob le Mairestraat"
     }, 
     {
+      "housenumber": "6B", 
       "pcode": 2020, 
-      "street": "Jacob le Mairestraat", 
-      "housenumber": "6B"
+      "street": "Jacob le Mairestraat"
     }, 
     {
-      "lat": 51.19080528660988, 
       "housenumber": "8", 
+      "lat": 51.19080528660988, 
+      "lon": 4.380384836045224, 
       "pcode": 2020, 
-      "street": "Jacob le Mairestraat", 
-      "lon": 4.380384836045224
+      "street": "Jacob le Mairestraat"
     }, 
     {
+      "housenumber": "8A", 
       "pcode": 2020, 
-      "street": "Jacob le Mairestraat", 
-      "housenumber": "8A"
+      "street": "Jacob le Mairestraat"
     }
-  ], 
-  "name": "Jacob le Mairestraat"
+  ]
 }

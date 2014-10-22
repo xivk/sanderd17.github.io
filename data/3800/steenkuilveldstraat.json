@@ -1,27 +1,25 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
-      "lat": 50.780576833384735, 
       "housenumber": "1", 
+      "lat": 50.780576833384735, 
+      "lon": 5.218679666309084, 
       "pcode": 3800, 
-      "street": "Steenkuilveldstraat", 
-      "lon": 5.218679666309084
+      "street": "Steenkuilveldstraat"
     }, 
     {
-      "lat": 50.78073013387232, 
       "housenumber": "3", 
+      "lat": 50.78073013387232, 
+      "lon": 5.218454558003672, 
       "pcode": 3800, 
-      "street": "Steenkuilveldstraat", 
-      "lon": 5.218454558003672
+      "street": "Steenkuilveldstraat"
     }, 
     {
-      "lat": 50.78079573812887, 
       "housenumber": "5", 
+      "lat": 50.78079573812887, 
+      "lon": 5.21839604375105, 
       "pcode": 3800, 
-      "street": "Steenkuilveldstraat", 
-      "lon": 5.21839604375105
+      "street": "Steenkuilveldstraat"
     }
-  ], 
-  "name": "Steenkuilveldstraat"
+  ]
 }

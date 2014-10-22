@@ -1,20 +1,18 @@
 {
-  "pcode": 8552, 
   "addresses": [
     {
-      "lat": 50.78766772138262, 
       "housenumber": "1", 
+      "lat": 50.78766772138262, 
+      "lon": 3.379487803710062, 
       "pcode": 8552, 
-      "street": "De Souterrain", 
-      "lon": 3.379487803710062
+      "street": "De Souterrain"
     }, 
     {
-      "lat": 50.78634936491232, 
       "housenumber": "3", 
+      "lat": 50.78634936491232, 
+      "lon": 3.379861118967416, 
       "pcode": 8552, 
-      "street": "De Souterrain", 
-      "lon": 3.379861118967416
+      "street": "De Souterrain"
     }
-  ], 
-  "name": "De Souterrain"
+  ]
 }

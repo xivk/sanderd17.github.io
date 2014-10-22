@@ -1,51 +1,49 @@
 {
-  "pcode": 8610, 
   "addresses": [
     {
-      "lat": 51.03088217899854, 
       "housenumber": "1", 
+      "lat": 51.03088217899854, 
+      "lon": 3.043471183040748, 
       "pcode": 8610, 
-      "street": "Processiestraat", 
-      "lon": 3.043471183040748
+      "street": "Processiestraat"
     }, 
     {
-      "lat": 51.031357859740375, 
       "housenumber": "2", 
+      "lat": 51.031357859740375, 
+      "lon": 3.043007469153294, 
       "pcode": 8610, 
-      "street": "Processiestraat", 
-      "lon": 3.043007469153294
+      "street": "Processiestraat"
     }, 
     {
-      "lat": 51.030931090631114, 
       "housenumber": "3", 
+      "lat": 51.030931090631114, 
+      "lon": 3.0433036995832294, 
       "pcode": 8610, 
-      "street": "Processiestraat", 
-      "lon": 3.0433036995832294
+      "street": "Processiestraat"
     }, 
     {
-      "lat": 51.031374728768625, 
       "housenumber": "4", 
+      "lat": 51.031374728768625, 
+      "lon": 3.0427569131860577, 
       "pcode": 8610, 
-      "street": "Processiestraat", 
-      "lon": 3.0427569131860577
+      "street": "Processiestraat"
     }, 
     {
-      "lat": 51.033503278603625, 
       "housenumber": "4A", 
+      "lat": 51.033503278603625, 
+      "lon": 3.0428425156795442, 
       "pcode": 8610, 
-      "street": "Processiestraat", 
-      "lon": 3.0428425156795442
+      "street": "Processiestraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 8610, 
-      "street": "Processiestraat", 
-      "housenumber": "6"
+      "street": "Processiestraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 8610, 
-      "street": "Processiestraat", 
-      "housenumber": "8"
+      "street": "Processiestraat"
     }
-  ], 
-  "name": "Processiestraat"
+  ]
 }

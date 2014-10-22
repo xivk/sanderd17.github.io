@@ -1,20 +1,18 @@
 {
-  "pcode": 2920, 
   "addresses": [
     {
-      "lat": 51.36215522156289, 
       "housenumber": "1", 
+      "lat": 51.36215522156289, 
+      "lon": 4.506796806647907, 
       "pcode": 2920, 
-      "street": "Leemdreef", 
-      "lon": 4.506796806647907
+      "street": "Leemdreef"
     }, 
     {
-      "lat": 51.361377293811536, 
       "housenumber": "2", 
+      "lat": 51.361377293811536, 
+      "lon": 4.506973367542401, 
       "pcode": 2920, 
-      "street": "Leemdreef", 
-      "lon": 4.506973367542401
+      "street": "Leemdreef"
     }
-  ], 
-  "name": "Leemdreef"
+  ]
 }

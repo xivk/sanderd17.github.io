@@ -1,25 +1,23 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.7455143123813, 
       "housenumber": "2", 
+      "lat": 50.7455143123813, 
+      "lon": 3.605370291607726, 
       "pcode": 9600, 
-      "street": "Michel Portoisstraat", 
-      "lon": 3.605370291607726
+      "street": "Michel Portoisstraat"
     }, 
     {
-      "lat": 50.74549917968998, 
       "housenumber": "4", 
+      "lat": 50.74549917968998, 
+      "lon": 3.6052554796080005, 
       "pcode": 9600, 
-      "street": "Michel Portoisstraat", 
-      "lon": 3.6052554796080005
+      "street": "Michel Portoisstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9600, 
-      "street": "Michel Portoisstraat", 
-      "housenumber": "6"
+      "street": "Michel Portoisstraat"
     }
-  ], 
-  "name": "Michel Portoisstraat"
+  ]
 }

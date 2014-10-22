@@ -1,20 +1,18 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.995451714457104, 
       "housenumber": "1", 
+      "lat": 50.995451714457104, 
+      "lon": 5.527618364146402, 
       "pcode": 3600, 
-      "street": "Bronstraat", 
-      "lon": 5.527618364146402
+      "street": "Bronstraat"
     }, 
     {
-      "lat": 50.99594632957477, 
       "housenumber": "2", 
+      "lat": 50.99594632957477, 
+      "lon": 5.528514588047061, 
       "pcode": 3600, 
-      "street": "Bronstraat", 
-      "lon": 5.528514588047061
+      "street": "Bronstraat"
     }
-  ], 
-  "name": "Bronstraat"
+  ]
 }

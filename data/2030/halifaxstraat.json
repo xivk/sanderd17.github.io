@@ -1,18 +1,16 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.26923067252147, 
       "housenumber": "3", 
+      "lat": 51.26923067252147, 
+      "lon": 4.4025343863858, 
       "pcode": 2030, 
-      "street": "Halifaxstraat", 
-      "lon": 4.4025343863858
+      "street": "Halifaxstraat"
     }, 
     {
+      "housenumber": "8A", 
       "pcode": 2030, 
-      "street": "Halifaxstraat", 
-      "housenumber": "8A"
+      "street": "Halifaxstraat"
     }
-  ], 
-  "name": "Halifaxstraat"
+  ]
 }

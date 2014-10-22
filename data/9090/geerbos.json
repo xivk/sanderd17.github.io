@@ -1,25 +1,23 @@
 {
-  "pcode": 9090, 
   "addresses": [
     {
-      "lat": 50.98495750552928, 
       "housenumber": "2", 
+      "lat": 50.98495750552928, 
+      "lon": 3.8276511831286184, 
       "pcode": 9090, 
-      "street": "Geerbos", 
-      "lon": 3.8276511831286184
+      "street": "Geerbos"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9090, 
-      "street": "Geerbos", 
-      "housenumber": "3"
+      "street": "Geerbos"
     }, 
     {
-      "lat": 50.99002066831755, 
       "housenumber": "4", 
+      "lat": 50.99002066831755, 
+      "lon": 3.8277074523557104, 
       "pcode": 9090, 
-      "street": "Geerbos", 
-      "lon": 3.8277074523557104
+      "street": "Geerbos"
     }
-  ], 
-  "name": "Geerbos"
+  ]
 }

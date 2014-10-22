@@ -1,42 +1,40 @@
 {
-  "pcode": 3020, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3020, 
-      "street": "Pastorijstraat", 
-      "housenumber": "1"
+      "street": "Pastorijstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3020, 
-      "street": "Pastorijstraat", 
-      "housenumber": "2"
+      "street": "Pastorijstraat"
     }, 
     {
-      "lat": 50.90027222340692, 
       "housenumber": "3", 
+      "lat": 50.90027222340692, 
+      "lon": 4.622634057654343, 
       "pcode": 3020, 
-      "street": "Pastorijstraat", 
-      "lon": 4.622634057654343
+      "street": "Pastorijstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3020, 
-      "street": "Pastorijstraat", 
-      "housenumber": "5"
+      "street": "Pastorijstraat"
     }, 
     {
-      "lat": 50.90001127946725, 
       "housenumber": "7", 
+      "lat": 50.90001127946725, 
+      "lon": 4.621544869813188, 
       "pcode": 3020, 
-      "street": "Pastorijstraat", 
-      "lon": 4.621544869813188
+      "street": "Pastorijstraat"
     }, 
     {
-      "lat": 50.90040770603711, 
       "housenumber": "9", 
+      "lat": 50.90040770603711, 
+      "lon": 4.6211731381169034, 
       "pcode": 3020, 
-      "street": "Pastorijstraat", 
-      "lon": 4.6211731381169034
+      "street": "Pastorijstraat"
     }
-  ], 
-  "name": "Pastorijstraat"
+  ]
 }

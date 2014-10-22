@@ -1,20 +1,18 @@
 {
-  "pcode": 3680, 
   "addresses": [
     {
-      "lat": 51.068791559070675, 
       "housenumber": "1", 
+      "lat": 51.068791559070675, 
+      "lon": 5.654535502222602, 
       "pcode": 3680, 
-      "street": "Dorpermolenstraat", 
-      "lon": 5.654535502222602
+      "street": "Dorpermolenstraat"
     }, 
     {
-      "lat": 51.06829811329801, 
       "housenumber": "2", 
+      "lat": 51.06829811329801, 
+      "lon": 5.653865712987852, 
       "pcode": 3680, 
-      "street": "Dorpermolenstraat", 
-      "lon": 5.653865712987852
+      "street": "Dorpermolenstraat"
     }
-  ], 
-  "name": "Dorpermolenstraat"
+  ]
 }

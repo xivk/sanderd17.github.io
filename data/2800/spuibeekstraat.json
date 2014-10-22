@@ -1,39 +1,37 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 2800, 
-      "street": "Spuibeekstraat", 
-      "housenumber": "11"
+      "street": "Spuibeekstraat"
     }, 
     {
-      "lat": 51.02503831345952, 
       "housenumber": "2", 
+      "lat": 51.02503831345952, 
+      "lon": 4.500752662277977, 
       "pcode": 2800, 
-      "street": "Spuibeekstraat", 
-      "lon": 4.500752662277977
+      "street": "Spuibeekstraat"
     }, 
     {
-      "lat": 51.02460003328218, 
       "housenumber": "4", 
+      "lat": 51.02460003328218, 
+      "lon": 4.501048886728604, 
       "pcode": 2800, 
-      "street": "Spuibeekstraat", 
-      "lon": 4.501048886728604
+      "street": "Spuibeekstraat"
     }, 
     {
-      "lat": 51.02569391200839, 
       "housenumber": "5", 
+      "lat": 51.02569391200839, 
+      "lon": 4.4982311995199495, 
       "pcode": 2800, 
-      "street": "Spuibeekstraat", 
-      "lon": 4.4982311995199495
+      "street": "Spuibeekstraat"
     }, 
     {
-      "lat": 51.025548035373404, 
       "housenumber": "7", 
+      "lat": 51.025548035373404, 
+      "lon": 4.497973089149687, 
       "pcode": 2800, 
-      "street": "Spuibeekstraat", 
-      "lon": 4.497973089149687
+      "street": "Spuibeekstraat"
     }
-  ], 
-  "name": "Spuibeekstraat"
+  ]
 }

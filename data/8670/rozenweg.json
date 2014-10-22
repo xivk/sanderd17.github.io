@@ -1,46 +1,44 @@
 {
-  "pcode": 8670, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8670, 
-      "street": "Rozenweg", 
-      "housenumber": "1"
+      "street": "Rozenweg"
     }, 
     {
-      "lat": 51.1127042279985, 
       "housenumber": "2", 
+      "lat": 51.1127042279985, 
+      "lon": 2.620240933199296, 
       "pcode": 8670, 
-      "street": "Rozenweg", 
-      "lon": 2.620240933199296
+      "street": "Rozenweg"
     }, 
     {
-      "lat": 51.11275974875581, 
       "housenumber": "3", 
+      "lat": 51.11275974875581, 
+      "lon": 2.619558503778501, 
       "pcode": 8670, 
-      "street": "Rozenweg", 
-      "lon": 2.619558503778501
+      "street": "Rozenweg"
     }, 
     {
-      "lat": 51.11281167903743, 
       "housenumber": "4", 
+      "lat": 51.11281167903743, 
+      "lon": 2.620320190739792, 
       "pcode": 8670, 
-      "street": "Rozenweg", 
-      "lon": 2.620320190739792
+      "street": "Rozenweg"
     }, 
     {
-      "lat": 51.11278182185331, 
       "housenumber": "5", 
+      "lat": 51.11278182185331, 
+      "lon": 2.6192704239622495, 
       "pcode": 8670, 
-      "street": "Rozenweg", 
-      "lon": 2.6192704239622495
+      "street": "Rozenweg"
     }, 
     {
-      "lat": 51.11307403352683, 
       "housenumber": "8", 
+      "lat": 51.11307403352683, 
+      "lon": 2.6196461621350657, 
       "pcode": 8670, 
-      "street": "Rozenweg", 
-      "lon": 2.6196461621350657
+      "street": "Rozenweg"
     }
-  ], 
-  "name": "Rozenweg"
+  ]
 }

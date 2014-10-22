@@ -1,20 +1,18 @@
 {
-  "pcode": 3620, 
   "addresses": [
     {
-      "lat": 50.897383267764, 
       "housenumber": "2", 
+      "lat": 50.897383267764, 
+      "lon": 5.661196363280195, 
       "pcode": 3620, 
-      "street": "Sportstraat", 
-      "lon": 5.661196363280195
+      "street": "Sportstraat"
     }, 
     {
-      "lat": 50.89748225028191, 
       "housenumber": "4", 
+      "lat": 50.89748225028191, 
+      "lon": 5.661368269875653, 
       "pcode": 3620, 
-      "street": "Sportstraat", 
-      "lon": 5.661368269875653
+      "street": "Sportstraat"
     }
-  ], 
-  "name": "Sportstraat"
+  ]
 }

@@ -1,50 +1,48 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2800, 
-      "street": "Lieve-Heerstraat", 
-      "housenumber": "1"
+      "street": "Lieve-Heerstraat"
     }, 
     {
-      "lat": 51.023663647534974, 
       "housenumber": "12", 
+      "lat": 51.023663647534974, 
+      "lon": 4.477566529834879, 
       "pcode": 2800, 
-      "street": "Lieve-Heerstraat", 
-      "lon": 4.477566529834879
+      "street": "Lieve-Heerstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2800, 
-      "street": "Lieve-Heerstraat", 
-      "housenumber": "3"
+      "street": "Lieve-Heerstraat"
     }, 
     {
+      "housenumber": "54", 
       "pcode": 2800, 
-      "street": "Lieve-Heerstraat", 
-      "housenumber": "54"
+      "street": "Lieve-Heerstraat"
     }, 
     {
-      "lat": 51.02381727381849, 
       "housenumber": "6", 
+      "lat": 51.02381727381849, 
+      "lon": 4.477755742048193, 
       "pcode": 2800, 
-      "street": "Lieve-Heerstraat", 
-      "lon": 4.477755742048193
+      "street": "Lieve-Heerstraat"
     }, 
     {
+      "housenumber": "6A", 
       "pcode": 2800, 
-      "street": "Lieve-Heerstraat", 
-      "housenumber": "6A"
+      "street": "Lieve-Heerstraat"
     }, 
     {
+      "housenumber": "6B", 
       "pcode": 2800, 
-      "street": "Lieve-Heerstraat", 
-      "housenumber": "6B"
+      "street": "Lieve-Heerstraat"
     }, 
     {
+      "housenumber": "6C", 
       "pcode": 2800, 
-      "street": "Lieve-Heerstraat", 
-      "housenumber": "6C"
+      "street": "Lieve-Heerstraat"
     }
-  ], 
-  "name": "Lieve-Heerstraat"
+  ]
 }

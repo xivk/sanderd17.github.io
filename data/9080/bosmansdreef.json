@@ -1,20 +1,18 @@
 {
-  "pcode": 9080, 
   "addresses": [
     {
-      "lat": 51.07720772149427, 
       "housenumber": "2", 
+      "lat": 51.07720772149427, 
+      "lon": 3.8625172315904037, 
       "pcode": 9080, 
-      "street": "Bosmansdreef", 
-      "lon": 3.8625172315904037
+      "street": "Bosmansdreef"
     }, 
     {
-      "lat": 51.07651825661433, 
       "housenumber": "4", 
+      "lat": 51.07651825661433, 
+      "lon": 3.861678934335293, 
       "pcode": 9080, 
-      "street": "Bosmansdreef", 
-      "lon": 3.861678934335293
+      "street": "Bosmansdreef"
     }
-  ], 
-  "name": "Bosmansdreef"
+  ]
 }

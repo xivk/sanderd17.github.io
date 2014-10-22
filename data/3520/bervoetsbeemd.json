@@ -1,20 +1,18 @@
 {
-  "pcode": 3520, 
   "addresses": [
     {
-      "lat": 50.973533193164315, 
       "housenumber": "1", 
+      "lat": 50.973533193164315, 
+      "lon": 5.366345602709788, 
       "pcode": 3520, 
-      "street": "Bervoetsbeemd", 
-      "lon": 5.366345602709788
+      "street": "Bervoetsbeemd"
     }, 
     {
-      "lat": 50.9736176423451, 
       "housenumber": "3", 
+      "lat": 50.9736176423451, 
+      "lon": 5.366288736200828, 
       "pcode": 3520, 
-      "street": "Bervoetsbeemd", 
-      "lon": 5.366288736200828
+      "street": "Bervoetsbeemd"
     }
-  ], 
-  "name": "Bervoetsbeemd"
+  ]
 }

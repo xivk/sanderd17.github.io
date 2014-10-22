@@ -1,20 +1,18 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.9517684450667, 
       "housenumber": "1", 
+      "lat": 50.9517684450667, 
+      "lon": 5.518442061121658, 
       "pcode": 3600, 
-      "street": "Lortblookstraat", 
-      "lon": 5.518442061121658
+      "street": "Lortblookstraat"
     }, 
     {
-      "lat": 50.952452005146384, 
       "housenumber": "10", 
+      "lat": 50.952452005146384, 
+      "lon": 5.519348394879763, 
       "pcode": 3600, 
-      "street": "Lortblookstraat", 
-      "lon": 5.519348394879763
+      "street": "Lortblookstraat"
     }
-  ], 
-  "name": "Lortblookstraat"
+  ]
 }

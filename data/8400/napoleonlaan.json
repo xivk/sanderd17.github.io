@@ -1,27 +1,25 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.234603708038364, 
       "housenumber": "16", 
+      "lat": 51.234603708038364, 
+      "lon": 2.9369650743032567, 
       "pcode": 8400, 
-      "street": "Napoleonlaan", 
-      "lon": 2.9369650743032567
+      "street": "Napoleonlaan"
     }, 
     {
-      "lat": 51.23375883175323, 
       "housenumber": "2", 
+      "lat": 51.23375883175323, 
+      "lon": 2.938771836502627, 
       "pcode": 8400, 
-      "street": "Napoleonlaan", 
-      "lon": 2.938771836502627
+      "street": "Napoleonlaan"
     }, 
     {
-      "lat": 51.234037304825314, 
       "housenumber": "4", 
+      "lat": 51.234037304825314, 
+      "lon": 2.9385307407014647, 
       "pcode": 8400, 
-      "street": "Napoleonlaan", 
-      "lon": 2.9385307407014647
+      "street": "Napoleonlaan"
     }
-  ], 
-  "name": "Napoleonlaan"
+  ]
 }

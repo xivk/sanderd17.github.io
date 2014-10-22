@@ -1,20 +1,18 @@
 {
-  "pcode": 9130, 
   "addresses": [
     {
-      "lat": 51.32036442987816, 
       "housenumber": "1", 
+      "lat": 51.32036442987816, 
+      "lon": 4.230762803622295, 
       "pcode": 9130, 
-      "street": "Rapenburg-Kleinstraatje", 
-      "lon": 4.230762803622295
+      "street": "Rapenburg-Kleinstraatje"
     }, 
     {
-      "lat": 51.320285661592884, 
       "housenumber": "3", 
+      "lat": 51.320285661592884, 
+      "lon": 4.230424377086987, 
       "pcode": 9130, 
-      "street": "Rapenburg-Kleinstraatje", 
-      "lon": 4.230424377086987
+      "street": "Rapenburg-Kleinstraatje"
     }
-  ], 
-  "name": "Rapenburg-Kleinstraatje"
+  ]
 }

@@ -1,37 +1,35 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
-      "lat": 51.02565300632025, 
       "housenumber": "1", 
-      "pcode": 2800, 
-      "street": "Van Beethovenstraat", 
-      "lon": 4.476795357850851
-    }, 
-    {
-      "lat": 51.02593966335554, 
-      "housenumber": "10", 
-      "pcode": 2800, 
-      "street": "Van Beethovenstraat", 
-      "lon": 4.47650638830545
-    }, 
-    {
-      "pcode": 2800, 
-      "street": "Van Beethovenstraat", 
-      "housenumber": "2"
-    }, 
-    {
       "lat": 51.02565300632025, 
-      "housenumber": "4", 
+      "lon": 4.476795357850851, 
       "pcode": 2800, 
-      "street": "Van Beethovenstraat", 
-      "lon": 4.476795357850851
+      "street": "Van Beethovenstraat"
     }, 
     {
+      "housenumber": "10", 
+      "lat": 51.02593966335554, 
+      "lon": 4.47650638830545, 
       "pcode": 2800, 
-      "street": "Van Beethovenstraat", 
-      "housenumber": "8"
+      "street": "Van Beethovenstraat"
+    }, 
+    {
+      "housenumber": "2", 
+      "pcode": 2800, 
+      "street": "Van Beethovenstraat"
+    }, 
+    {
+      "housenumber": "4", 
+      "lat": 51.02565300632025, 
+      "lon": 4.476795357850851, 
+      "pcode": 2800, 
+      "street": "Van Beethovenstraat"
+    }, 
+    {
+      "housenumber": "8", 
+      "pcode": 2800, 
+      "street": "Van Beethovenstraat"
     }
-  ], 
-  "name": "Van Beethovenstraat"
+  ]
 }

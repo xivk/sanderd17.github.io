@@ -1,25 +1,23 @@
 {
-  "pcode": 1982, 
   "addresses": [
     {
-      "lat": 50.98044594111807, 
       "housenumber": "118", 
+      "lat": 50.98044594111807, 
+      "lon": 4.47037553399704, 
       "pcode": 1982, 
-      "street": "Stationslaan", 
-      "lon": 4.47037553399704
+      "street": "Stationslaan"
     }, 
     {
-      "lat": 50.980313412373604, 
       "housenumber": "122", 
+      "lat": 50.980313412373604, 
+      "lon": 4.470408281103674, 
       "pcode": 1982, 
-      "street": "Stationslaan", 
-      "lon": 4.470408281103674
+      "street": "Stationslaan"
     }, 
     {
+      "housenumber": "59A", 
       "pcode": 1982, 
-      "street": "Stationslaan", 
-      "housenumber": "59A"
+      "street": "Stationslaan"
     }
-  ], 
-  "name": "Stationslaan"
+  ]
 }

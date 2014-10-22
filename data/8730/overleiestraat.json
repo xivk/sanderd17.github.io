@@ -1,18 +1,16 @@
 {
-  "pcode": 8730, 
   "addresses": [
     {
-      "lat": 51.12525477923638, 
       "housenumber": "2", 
+      "lat": 51.12525477923638, 
+      "lon": 3.3736688094436613, 
       "pcode": 8730, 
-      "street": "Overleiestraat", 
-      "lon": 3.3736688094436613
+      "street": "Overleiestraat"
     }, 
     {
+      "housenumber": "75", 
       "pcode": 8730, 
-      "street": "Overleiestraat", 
-      "housenumber": "75"
+      "street": "Overleiestraat"
     }
-  ], 
-  "name": "Overleiestraat"
+  ]
 }

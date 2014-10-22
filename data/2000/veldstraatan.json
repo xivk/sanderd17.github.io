@@ -1,18 +1,16 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "157", 
       "pcode": 2000, 
-      "street": "Veldstraat_AN", 
-      "housenumber": "157"
+      "street": "Veldstraat_AN"
     }, 
     {
-      "lat": 51.300202939565665, 
       "housenumber": "16", 
+      "lat": 51.300202939565665, 
+      "lon": 4.420479841062749, 
       "pcode": 2000, 
-      "street": "Veldstraat_AN", 
-      "lon": 4.420479841062749
+      "street": "Veldstraat_AN"
     }
-  ], 
-  "name": "Veldstraat_AN"
+  ]
 }

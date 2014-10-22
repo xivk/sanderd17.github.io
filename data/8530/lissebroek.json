@@ -1,20 +1,18 @@
 {
-  "pcode": 8530, 
   "addresses": [
     {
-      "lat": 50.863401273940056, 
       "housenumber": "55", 
+      "lat": 50.863401273940056, 
+      "lon": 3.3329769028397225, 
       "pcode": 8530, 
-      "street": "Lissebroek", 
-      "lon": 3.3329769028397225
+      "street": "Lissebroek"
     }, 
     {
-      "lat": 50.86110396502912, 
       "housenumber": "70", 
+      "lat": 50.86110396502912, 
+      "lon": 3.3368861703643353, 
       "pcode": 8530, 
-      "street": "Lissebroek", 
-      "lon": 3.3368861703643353
+      "street": "Lissebroek"
     }
-  ], 
-  "name": "Lissebroek"
+  ]
 }

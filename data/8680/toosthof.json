@@ -1,25 +1,23 @@
 {
-  "pcode": 8680, 
   "addresses": [
     {
-      "lat": 51.09081196034415, 
       "housenumber": "1", 
+      "lat": 51.09081196034415, 
+      "lon": 2.9835385204132323, 
       "pcode": 8680, 
-      "street": "'t Oosthof", 
-      "lon": 2.9835385204132323
+      "street": "'t Oosthof"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8680, 
-      "street": "'t Oosthof", 
-      "housenumber": "2"
+      "street": "'t Oosthof"
     }, 
     {
-      "lat": 51.09077936126411, 
       "housenumber": "3", 
+      "lat": 51.09077936126411, 
+      "lon": 2.983909089632254, 
       "pcode": 8680, 
-      "street": "'t Oosthof", 
-      "lon": 2.983909089632254
+      "street": "'t Oosthof"
     }
-  ], 
-  "name": "'t Oosthof"
+  ]
 }

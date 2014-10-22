@@ -1,20 +1,18 @@
 {
-  "pcode": 9840, 
   "addresses": [
     {
-      "lat": 50.981556383651146, 
       "housenumber": "1", 
+      "lat": 50.981556383651146, 
+      "lon": 3.6507819921987665, 
       "pcode": 9840, 
-      "street": "Parkwegel", 
-      "lon": 3.6507819921987665
+      "street": "Parkwegel"
     }, 
     {
-      "lat": 50.98117274773725, 
       "housenumber": "2", 
+      "lat": 50.98117274773725, 
+      "lon": 3.648962770121835, 
       "pcode": 9840, 
-      "street": "Parkwegel", 
-      "lon": 3.648962770121835
+      "street": "Parkwegel"
     }
-  ], 
-  "name": "Parkwegel"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8530, 
   "addresses": [
     {
-      "lat": 50.834219126400576, 
       "housenumber": "20", 
+      "lat": 50.834219126400576, 
+      "lon": 3.32201645144908, 
       "pcode": 8530, 
-      "street": "Kamutstraat", 
-      "lon": 3.32201645144908
+      "street": "Kamutstraat"
     }, 
     {
-      "lat": 50.83411454305742, 
       "housenumber": "33", 
+      "lat": 50.83411454305742, 
+      "lon": 3.3221346252728163, 
       "pcode": 8530, 
-      "street": "Kamutstraat", 
-      "lon": 3.3221346252728163
+      "street": "Kamutstraat"
     }
-  ], 
-  "name": "Kamutstraat"
+  ]
 }

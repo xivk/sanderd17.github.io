@@ -1,58 +1,56 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8420, 
-      "street": "Popplaan", 
-      "housenumber": "1"
+      "street": "Popplaan"
     }, 
     {
-      "lat": 51.276106542647796, 
       "housenumber": "11", 
+      "lat": 51.276106542647796, 
+      "lon": 3.0350161687991983, 
       "pcode": 8420, 
-      "street": "Popplaan", 
-      "lon": 3.0350161687991983
+      "street": "Popplaan"
     }, 
     {
-      "lat": 51.275904071071615, 
       "housenumber": "2", 
+      "lat": 51.275904071071615, 
+      "lon": 3.0347345982452905, 
       "pcode": 8420, 
-      "street": "Popplaan", 
-      "lon": 3.0347345982452905
+      "street": "Popplaan"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8420, 
-      "street": "Popplaan", 
-      "housenumber": "3"
+      "street": "Popplaan"
     }, 
     {
-      "lat": 51.27594670974685, 
       "housenumber": "4", 
+      "lat": 51.27594670974685, 
+      "lon": 3.034705142356151, 
       "pcode": 8420, 
-      "street": "Popplaan", 
-      "lon": 3.034705142356151
+      "street": "Popplaan"
     }, 
     {
-      "lat": 51.27576672311962, 
       "housenumber": "5", 
+      "lat": 51.27576672311962, 
+      "lon": 3.035286603852096, 
       "pcode": 8420, 
-      "street": "Popplaan", 
-      "lon": 3.035286603852096
+      "street": "Popplaan"
     }, 
     {
-      "lat": 51.27569467687193, 
       "housenumber": "7", 
+      "lat": 51.27569467687193, 
+      "lon": 3.035291102350827, 
       "pcode": 8420, 
-      "street": "Popplaan", 
-      "lon": 3.035291102350827
+      "street": "Popplaan"
     }, 
     {
-      "lat": 51.27594396514528, 
       "housenumber": "9", 
+      "lat": 51.27594396514528, 
+      "lon": 3.035163861216756, 
       "pcode": 8420, 
-      "street": "Popplaan", 
-      "lon": 3.035163861216756
+      "street": "Popplaan"
     }
-  ], 
-  "name": "Popplaan"
+  ]
 }

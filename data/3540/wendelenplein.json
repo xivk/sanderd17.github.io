@@ -1,46 +1,44 @@
 {
-  "pcode": 3540, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3540, 
-      "street": "Wendelenplein", 
-      "housenumber": "1"
+      "street": "Wendelenplein"
     }, 
     {
-      "lat": 50.94035638440268, 
       "housenumber": "2", 
+      "lat": 50.94035638440268, 
+      "lon": 5.166895723899286, 
       "pcode": 3540, 
-      "street": "Wendelenplein", 
-      "lon": 5.166895723899286
+      "street": "Wendelenplein"
     }, 
     {
-      "lat": 50.940337524201695, 
       "housenumber": "3", 
+      "lat": 50.940337524201695, 
+      "lon": 5.166959146410321, 
       "pcode": 3540, 
-      "street": "Wendelenplein", 
-      "lon": 5.166959146410321
+      "street": "Wendelenplein"
     }, 
     {
-      "lat": 50.940375279018504, 
       "housenumber": "4", 
+      "lat": 50.940375279018504, 
+      "lon": 5.167118152686851, 
       "pcode": 3540, 
-      "street": "Wendelenplein", 
-      "lon": 5.167118152686851
+      "street": "Wendelenplein"
     }, 
     {
-      "lat": 50.94038345184802, 
       "housenumber": "5", 
+      "lat": 50.94038345184802, 
+      "lon": 5.1671457529263956, 
       "pcode": 3540, 
-      "street": "Wendelenplein", 
-      "lon": 5.1671457529263956
+      "street": "Wendelenplein"
     }, 
     {
-      "lat": 50.94042743650768, 
       "housenumber": "6", 
+      "lat": 50.94042743650768, 
+      "lon": 5.167327204439047, 
       "pcode": 3540, 
-      "street": "Wendelenplein", 
-      "lon": 5.167327204439047
+      "street": "Wendelenplein"
     }
-  ], 
-  "name": "Wendelenplein"
+  ]
 }

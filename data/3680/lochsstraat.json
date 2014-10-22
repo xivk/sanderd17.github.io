@@ -1,25 +1,23 @@
 {
-  "pcode": 3680, 
   "addresses": [
     {
-      "lat": 51.053516499851796, 
       "housenumber": "1", 
+      "lat": 51.053516499851796, 
+      "lon": 5.634730803790788, 
       "pcode": 3680, 
-      "street": "Lochsstraat", 
-      "lon": 5.634730803790788
+      "street": "Lochsstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3680, 
-      "street": "Lochsstraat", 
-      "housenumber": "2"
+      "street": "Lochsstraat"
     }, 
     {
-      "lat": 51.05259571084941, 
       "housenumber": "3", 
+      "lat": 51.05259571084941, 
+      "lon": 5.636294019663588, 
       "pcode": 3680, 
-      "street": "Lochsstraat", 
-      "lon": 5.636294019663588
+      "street": "Lochsstraat"
     }
-  ], 
-  "name": "Lochsstraat"
+  ]
 }

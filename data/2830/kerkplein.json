@@ -1,23 +1,21 @@
 {
-  "pcode": 2830, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2830, 
-      "street": "Kerkplein", 
-      "housenumber": "1"
+      "street": "Kerkplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2830, 
-      "street": "Kerkplein", 
-      "housenumber": "2"
+      "street": "Kerkplein"
     }, 
     {
-      "lat": 51.034334487641296, 
       "housenumber": "4", 
+      "lat": 51.034334487641296, 
+      "lon": 4.359196506861581, 
       "pcode": 2830, 
-      "street": "Kerkplein", 
-      "lon": 4.359196506861581
+      "street": "Kerkplein"
     }
-  ], 
-  "name": "Kerkplein"
+  ]
 }

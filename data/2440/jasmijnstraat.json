@@ -1,34 +1,32 @@
 {
-  "pcode": 2440, 
   "addresses": [
     {
+      "housenumber": "3", 
       "lat": 51.16299881196346, 
-      "housenumber": "3", 
+      "lon": 4.979317840762889, 
       "pcode": 2440, 
-      "street": "Jasmijnstraat", 
-      "lon": 4.979317840762889
+      "street": "Jasmijnstraat"
     }, 
     {
+      "housenumber": "3", 
       "lat": 51.162946377764115, 
-      "housenumber": "3", 
+      "lon": 4.979045530328947, 
       "pcode": 2440, 
-      "street": "Jasmijnstraat", 
-      "lon": 4.979045530328947
+      "street": "Jasmijnstraat"
     }, 
     {
-      "lat": 51.162975709955234, 
       "housenumber": "5", 
+      "lat": 51.162975709955234, 
+      "lon": 4.979179010004221, 
       "pcode": 2440, 
-      "street": "Jasmijnstraat", 
-      "lon": 4.979179010004221
+      "street": "Jasmijnstraat"
     }, 
     {
-      "lat": 51.16253381413588, 
       "housenumber": "6", 
+      "lat": 51.16253381413588, 
+      "lon": 4.979318328727005, 
       "pcode": 2440, 
-      "street": "Jasmijnstraat", 
-      "lon": 4.979318328727005
+      "street": "Jasmijnstraat"
     }
-  ], 
-  "name": "Jasmijnstraat"
+  ]
 }

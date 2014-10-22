@@ -1,20 +1,18 @@
 {
-  "pcode": 1730, 
   "addresses": [
     {
-      "lat": 50.905159179902434, 
       "housenumber": "1", 
+      "lat": 50.905159179902434, 
+      "lon": 4.250814544254904, 
       "pcode": 1730, 
-      "street": "Torenhof", 
-      "lon": 4.250814544254904
+      "street": "Torenhof"
     }, 
     {
-      "lat": 50.90471764814676, 
       "housenumber": "7", 
+      "lat": 50.90471764814676, 
+      "lon": 4.251654159631259, 
       "pcode": 1730, 
-      "street": "Torenhof", 
-      "lon": 4.251654159631259
+      "street": "Torenhof"
     }
-  ], 
-  "name": "Torenhof"
+  ]
 }

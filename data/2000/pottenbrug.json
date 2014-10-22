@@ -1,40 +1,38 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2000, 
-      "street": "Pottenbrug", 
-      "housenumber": "1"
+      "street": "Pottenbrug"
     }, 
     {
+      "housenumber": "164", 
       "pcode": 2000, 
-      "street": "Pottenbrug", 
-      "housenumber": "164"
+      "street": "Pottenbrug"
     }, 
     {
+      "housenumber": "180", 
       "pcode": 2000, 
-      "street": "Pottenbrug", 
-      "housenumber": "180"
+      "street": "Pottenbrug"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2000, 
-      "street": "Pottenbrug", 
-      "housenumber": "2"
+      "street": "Pottenbrug"
     }, 
     {
-      "lat": 51.2224514698237, 
       "housenumber": "3", 
+      "lat": 51.2224514698237, 
+      "lon": 4.403628007621779, 
       "pcode": 2000, 
-      "street": "Pottenbrug", 
-      "lon": 4.403628007621779
+      "street": "Pottenbrug"
     }, 
     {
-      "lat": 51.222547139156276, 
       "housenumber": "4", 
+      "lat": 51.222547139156276, 
+      "lon": 4.403518293857055, 
       "pcode": 2000, 
-      "street": "Pottenbrug", 
-      "lon": 4.403518293857055
+      "street": "Pottenbrug"
     }
-  ], 
-  "name": "Pottenbrug"
+  ]
 }

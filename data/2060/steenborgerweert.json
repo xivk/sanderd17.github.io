@@ -1,32 +1,30 @@
 {
-  "pcode": 2060, 
   "addresses": [
     {
-      "lat": 51.237861144365496, 
       "housenumber": "18", 
+      "lat": 51.237861144365496, 
+      "lon": 4.4228253991983015, 
       "pcode": 2060, 
-      "street": "Steenborgerweert", 
-      "lon": 4.4228253991983015
+      "street": "Steenborgerweert"
     }, 
     {
-      "lat": 51.237829843443734, 
       "housenumber": "19", 
+      "lat": 51.237829843443734, 
+      "lon": 4.422871897488294, 
       "pcode": 2060, 
-      "street": "Steenborgerweert", 
-      "lon": 4.422871897488294
+      "street": "Steenborgerweert"
     }, 
     {
-      "lat": 51.23762632436856, 
       "housenumber": "20", 
+      "lat": 51.23762632436856, 
+      "lon": 4.422728044403725, 
       "pcode": 2060, 
-      "street": "Steenborgerweert", 
-      "lon": 4.422728044403725
+      "street": "Steenborgerweert"
     }, 
     {
+      "housenumber": "20A", 
       "pcode": 2060, 
-      "street": "Steenborgerweert", 
-      "housenumber": "20A"
+      "street": "Steenborgerweert"
     }
-  ], 
-  "name": "Steenborgerweert"
+  ]
 }

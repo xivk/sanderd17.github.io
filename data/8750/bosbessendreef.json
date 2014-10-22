@@ -1,20 +1,18 @@
 {
-  "pcode": 8750, 
   "addresses": [
     {
-      "lat": 51.09589322477837, 
       "housenumber": "19", 
+      "lat": 51.09589322477837, 
+      "lon": 3.291783286983851, 
       "pcode": 8750, 
-      "street": "Bosbessendreef", 
-      "lon": 3.291783286983851
+      "street": "Bosbessendreef"
     }, 
     {
-      "lat": 51.097023691460585, 
       "housenumber": "3", 
+      "lat": 51.097023691460585, 
+      "lon": 3.2916460452174525, 
       "pcode": 8750, 
-      "street": "Bosbessendreef", 
-      "lon": 3.2916460452174525
+      "street": "Bosbessendreef"
     }
-  ], 
-  "name": "Bosbessendreef"
+  ]
 }

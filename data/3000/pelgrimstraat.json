@@ -1,34 +1,32 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.88037117448279, 
       "housenumber": "1", 
+      "lat": 50.88037117448279, 
+      "lon": 4.691690681917204, 
       "pcode": 3000, 
-      "street": "Pelgrimstraat", 
-      "lon": 4.691690681917204
+      "street": "Pelgrimstraat"
     }, 
     {
-      "lat": 50.88027294569851, 
       "housenumber": "3", 
+      "lat": 50.88027294569851, 
+      "lon": 4.691615830963087, 
       "pcode": 3000, 
-      "street": "Pelgrimstraat", 
-      "lon": 4.691615830963087
+      "street": "Pelgrimstraat"
     }, 
     {
-      "lat": 50.880223156695166, 
       "housenumber": "7", 
+      "lat": 50.880223156695166, 
+      "lon": 4.691578543053447, 
       "pcode": 3000, 
-      "street": "Pelgrimstraat", 
-      "lon": 4.691578543053447
+      "street": "Pelgrimstraat"
     }, 
     {
-      "lat": 50.88013022293189, 
       "housenumber": "9", 
+      "lat": 50.88013022293189, 
+      "lon": 4.691506855135562, 
       "pcode": 3000, 
-      "street": "Pelgrimstraat", 
-      "lon": 4.691506855135562
+      "street": "Pelgrimstraat"
     }
-  ], 
-  "name": "Pelgrimstraat"
+  ]
 }

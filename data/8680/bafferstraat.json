@@ -1,20 +1,18 @@
 {
-  "pcode": 8680, 
   "addresses": [
     {
-      "lat": 51.06517958201605, 
       "housenumber": "1", 
+      "lat": 51.06517958201605, 
+      "lon": 2.9451533526642986, 
       "pcode": 8680, 
-      "street": "Bafferstraat", 
-      "lon": 2.9451533526642986
+      "street": "Bafferstraat"
     }, 
     {
-      "lat": 51.06167328423524, 
       "housenumber": "2", 
+      "lat": 51.06167328423524, 
+      "lon": 2.947017283367899, 
       "pcode": 8680, 
-      "street": "Bafferstraat", 
-      "lon": 2.947017283367899
+      "street": "Bafferstraat"
     }
-  ], 
-  "name": "Bafferstraat"
+  ]
 }

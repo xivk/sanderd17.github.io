@@ -1,51 +1,49 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3000, 
-      "street": "Wingerdstraat", 
-      "housenumber": "10"
+      "street": "Wingerdstraat"
     }, 
     {
-      "lat": 50.89003102875509, 
       "housenumber": "12", 
+      "lat": 50.89003102875509, 
+      "lon": 4.688047625049236, 
       "pcode": 3000, 
-      "street": "Wingerdstraat", 
-      "lon": 4.688047625049236
+      "street": "Wingerdstraat"
     }, 
     {
+      "housenumber": "14", 
       "pcode": 3000, 
-      "street": "Wingerdstraat", 
-      "housenumber": "14"
+      "street": "Wingerdstraat"
     }, 
     {
-      "lat": 50.88995173567194, 
       "housenumber": "2", 
+      "lat": 50.88995173567194, 
+      "lon": 4.689234827072804, 
       "pcode": 3000, 
-      "street": "Wingerdstraat", 
-      "lon": 4.689234827072804
+      "street": "Wingerdstraat"
     }, 
     {
-      "lat": 50.88987303552555, 
       "housenumber": "4", 
+      "lat": 50.88987303552555, 
+      "lon": 4.689085910157184, 
       "pcode": 3000, 
-      "street": "Wingerdstraat", 
-      "lon": 4.689085910157184
+      "street": "Wingerdstraat"
     }, 
     {
-      "lat": 50.88979734780546, 
       "housenumber": "6", 
+      "lat": 50.88979734780546, 
+      "lon": 4.688985905314341, 
       "pcode": 3000, 
-      "street": "Wingerdstraat", 
-      "lon": 4.688985905314341
+      "street": "Wingerdstraat"
     }, 
     {
-      "lat": 50.88971226665736, 
       "housenumber": "8", 
+      "lat": 50.88971226665736, 
+      "lon": 4.688869208034411, 
       "pcode": 3000, 
-      "street": "Wingerdstraat", 
-      "lon": 4.688869208034411
+      "street": "Wingerdstraat"
     }
-  ], 
-  "name": "Wingerdstraat"
+  ]
 }

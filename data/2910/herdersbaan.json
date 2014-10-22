@@ -1,32 +1,30 @@
 {
-  "pcode": 2910, 
   "addresses": [
     {
-      "lat": 51.437127465865814, 
       "housenumber": "1", 
+      "lat": 51.437127465865814, 
+      "lon": 4.458840803963736, 
       "pcode": 2910, 
-      "street": "Herdersbaan", 
-      "lon": 4.458840803963736
+      "street": "Herdersbaan"
     }, 
     {
-      "lat": 51.436353863157315, 
       "housenumber": "2", 
+      "lat": 51.436353863157315, 
+      "lon": 4.459131486899313, 
       "pcode": 2910, 
-      "street": "Herdersbaan", 
-      "lon": 4.459131486899313
+      "street": "Herdersbaan"
     }, 
     {
-      "lat": 51.43718132692513, 
       "housenumber": "3", 
+      "lat": 51.43718132692513, 
+      "lon": 4.459510585650775, 
       "pcode": 2910, 
-      "street": "Herdersbaan", 
-      "lon": 4.459510585650775
+      "street": "Herdersbaan"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2910, 
-      "street": "Herdersbaan", 
-      "housenumber": "5"
+      "street": "Herdersbaan"
     }
-  ], 
-  "name": "Herdersbaan"
+  ]
 }

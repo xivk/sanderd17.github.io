@@ -1,32 +1,30 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.98117647726645, 
       "housenumber": "1", 
+      "lat": 50.98117647726645, 
+      "lon": 5.516348991989822, 
       "pcode": 3600, 
-      "street": "Braambesstraat", 
-      "lon": 5.516348991989822
+      "street": "Braambesstraat"
     }, 
     {
-      "lat": 50.9810529529614, 
       "housenumber": "3", 
+      "lat": 50.9810529529614, 
+      "lon": 5.516514587762887, 
       "pcode": 3600, 
-      "street": "Braambesstraat", 
-      "lon": 5.516514587762887
+      "street": "Braambesstraat"
     }, 
     {
+      "housenumber": "3A", 
       "pcode": 3600, 
-      "street": "Braambesstraat", 
-      "housenumber": "3A"
+      "street": "Braambesstraat"
     }, 
     {
-      "lat": 50.977638366042804, 
       "housenumber": "6", 
+      "lat": 50.977638366042804, 
+      "lon": 5.5203663421240625, 
       "pcode": 3600, 
-      "street": "Braambesstraat", 
-      "lon": 5.5203663421240625
+      "street": "Braambesstraat"
     }
-  ], 
-  "name": "Braambesstraat"
+  ]
 }

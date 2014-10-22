@@ -1,42 +1,40 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8400, 
-      "street": "Kraaienestpad", 
-      "housenumber": "1"
+      "street": "Kraaienestpad"
     }, 
     {
-      "lat": 51.2401861423558, 
       "housenumber": "2", 
+      "lat": 51.2401861423558, 
+      "lon": 2.9431680176547528, 
       "pcode": 8400, 
-      "street": "Kraaienestpad", 
-      "lon": 2.9431680176547528
+      "street": "Kraaienestpad"
     }, 
     {
+      "housenumber": "287", 
       "pcode": 8400, 
-      "street": "Kraaienestpad", 
-      "housenumber": "287"
+      "street": "Kraaienestpad"
     }, 
     {
+      "housenumber": "289", 
       "pcode": 8400, 
-      "street": "Kraaienestpad", 
-      "housenumber": "289"
+      "street": "Kraaienestpad"
     }, 
     {
-      "lat": 51.240188059766474, 
       "housenumber": "4", 
+      "lat": 51.240188059766474, 
+      "lon": 2.943274943188952, 
       "pcode": 8400, 
-      "street": "Kraaienestpad", 
-      "lon": 2.943274943188952
+      "street": "Kraaienestpad"
     }, 
     {
-      "lat": 51.240190362414495, 
       "housenumber": "6", 
+      "lat": 51.240190362414495, 
+      "lon": 2.943384005228357, 
       "pcode": 8400, 
-      "street": "Kraaienestpad", 
-      "lon": 2.943384005228357
+      "street": "Kraaienestpad"
     }
-  ], 
-  "name": "Kraaienestpad"
+  ]
 }

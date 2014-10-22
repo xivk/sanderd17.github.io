@@ -1,23 +1,21 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "16", 
       "pcode": 2000, 
-      "street": "Houten Brug", 
-      "housenumber": "16"
+      "street": "Houten Brug"
     }, 
     {
-      "lat": 51.224398355583844, 
       "housenumber": "2", 
+      "lat": 51.224398355583844, 
+      "lon": 4.4039156368398915, 
       "pcode": 2000, 
-      "street": "Houten Brug", 
-      "lon": 4.4039156368398915
+      "street": "Houten Brug"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2000, 
-      "street": "Houten Brug", 
-      "housenumber": "8"
+      "street": "Houten Brug"
     }
-  ], 
-  "name": "Houten Brug"
+  ]
 }

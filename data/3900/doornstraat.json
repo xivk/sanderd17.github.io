@@ -1,20 +1,18 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
-      "lat": 51.198041160804095, 
       "housenumber": "1", 
+      "lat": 51.198041160804095, 
+      "lon": 5.402848273968069, 
       "pcode": 3900, 
-      "street": "Doornstraat", 
-      "lon": 5.402848273968069
+      "street": "Doornstraat"
     }, 
     {
-      "lat": 51.19825933748439, 
       "housenumber": "3", 
+      "lat": 51.19825933748439, 
+      "lon": 5.402714185775286, 
       "pcode": 3900, 
-      "street": "Doornstraat", 
-      "lon": 5.402714185775286
+      "street": "Doornstraat"
     }
-  ], 
-  "name": "Doornstraat"
+  ]
 }

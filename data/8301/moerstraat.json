@@ -1,20 +1,18 @@
 {
-  "pcode": 8301, 
   "addresses": [
     {
-      "lat": 51.325777176041655, 
       "housenumber": "144", 
+      "lat": 51.325777176041655, 
+      "lon": 3.231824795825107, 
       "pcode": 8301, 
-      "street": "Moerstraat", 
-      "lon": 3.231824795825107
+      "street": "Moerstraat"
     }, 
     {
-      "lat": 51.326221556774335, 
       "housenumber": "156", 
+      "lat": 51.326221556774335, 
+      "lon": 3.23124908554119, 
       "pcode": 8301, 
-      "street": "Moerstraat", 
-      "lon": 3.23124908554119
+      "street": "Moerstraat"
     }
-  ], 
-  "name": "Moerstraat"
+  ]
 }

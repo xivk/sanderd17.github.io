@@ -1,20 +1,18 @@
 {
-  "pcode": 3960, 
   "addresses": [
     {
-      "lat": 51.13643873089755, 
       "housenumber": "2", 
+      "lat": 51.13643873089755, 
+      "lon": 5.606686424159267, 
       "pcode": 3960, 
-      "street": "Leliestraat", 
-      "lon": 5.606686424159267
+      "street": "Leliestraat"
     }, 
     {
-      "lat": 51.13632720756629, 
       "housenumber": "4", 
+      "lat": 51.13632720756629, 
+      "lon": 5.606331234322136, 
       "pcode": 3960, 
-      "street": "Leliestraat", 
-      "lon": 5.606331234322136
+      "street": "Leliestraat"
     }
-  ], 
-  "name": "Leliestraat"
+  ]
 }

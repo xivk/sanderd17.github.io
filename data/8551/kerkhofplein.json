@@ -1,20 +1,18 @@
 {
-  "pcode": 8551, 
   "addresses": [
     {
-      "lat": 50.78068593124251, 
       "housenumber": "1", 
+      "lat": 50.78068593124251, 
+      "lon": 3.411502016557083, 
       "pcode": 8551, 
-      "street": "Kerkhofplein", 
-      "lon": 3.411502016557083
+      "street": "Kerkhofplein"
     }, 
     {
-      "lat": 50.780706292071166, 
       "housenumber": "4", 
+      "lat": 50.780706292071166, 
+      "lon": 3.4133250867842357, 
       "pcode": 8551, 
-      "street": "Kerkhofplein", 
-      "lon": 3.4133250867842357
+      "street": "Kerkhofplein"
     }
-  ], 
-  "name": "Kerkhofplein"
+  ]
 }

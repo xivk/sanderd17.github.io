@@ -1,18 +1,16 @@
 {
-  "pcode": 8958, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8958, 
-      "street": "Petruswegel", 
-      "housenumber": "1"
+      "street": "Petruswegel"
     }, 
     {
-      "lat": 50.78266441676428, 
       "housenumber": "2", 
+      "lat": 50.78266441676428, 
+      "lon": 2.7726073304188152, 
       "pcode": 8958, 
-      "street": "Petruswegel", 
-      "lon": 2.7726073304188152
+      "street": "Petruswegel"
     }
-  ], 
-  "name": "Petruswegel"
+  ]
 }

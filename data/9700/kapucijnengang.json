@@ -1,18 +1,16 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9700, 
-      "street": "Kapucijnengang", 
-      "housenumber": "1"
+      "street": "Kapucijnengang"
     }, 
     {
-      "lat": 50.84563770335352, 
       "housenumber": "6", 
+      "lat": 50.84563770335352, 
+      "lon": 3.603961375270026, 
       "pcode": 9700, 
-      "street": "Kapucijnengang", 
-      "lon": 3.603961375270026
+      "street": "Kapucijnengang"
     }
-  ], 
-  "name": "Kapucijnengang"
+  ]
 }

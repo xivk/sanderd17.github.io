@@ -1,20 +1,18 @@
 {
-  "pcode": 3665, 
   "addresses": [
     {
-      "lat": 51.012375630480825, 
       "housenumber": "12A", 
+      "lat": 51.012375630480825, 
+      "lon": 5.601015817022831, 
       "pcode": 3665, 
-      "street": "Krimstraat", 
-      "lon": 5.601015817022831
+      "street": "Krimstraat"
     }, 
     {
-      "lat": 51.01229872146528, 
       "housenumber": "12B", 
+      "lat": 51.01229872146528, 
+      "lon": 5.600968330122494, 
       "pcode": 3665, 
-      "street": "Krimstraat", 
-      "lon": 5.600968330122494
+      "street": "Krimstraat"
     }
-  ], 
-  "name": "Krimstraat"
+  ]
 }

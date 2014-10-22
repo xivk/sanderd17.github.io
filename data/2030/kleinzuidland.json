@@ -1,25 +1,23 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.27282296056546, 
       "housenumber": "1", 
+      "lat": 51.27282296056546, 
+      "lon": 4.369996781444696, 
       "pcode": 2030, 
-      "street": "Klein Zuidland", 
-      "lon": 4.369996781444696
+      "street": "Klein Zuidland"
     }, 
     {
-      "lat": 51.271465905826744, 
       "housenumber": "4", 
+      "lat": 51.271465905826744, 
+      "lon": 4.373426900912476, 
       "pcode": 2030, 
-      "street": "Klein Zuidland", 
-      "lon": 4.373426900912476
+      "street": "Klein Zuidland"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2030, 
-      "street": "Klein Zuidland", 
-      "housenumber": "5"
+      "street": "Klein Zuidland"
     }
-  ], 
-  "name": "Klein Zuidland"
+  ]
 }

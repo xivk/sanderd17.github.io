@@ -1,25 +1,23 @@
 {
-  "pcode": 1770, 
   "addresses": [
     {
-      "lat": 50.8571407718953, 
       "housenumber": "3", 
+      "lat": 50.8571407718953, 
+      "lon": 4.12106082840275, 
       "pcode": 1770, 
-      "street": "Beukenplein", 
-      "lon": 4.12106082840275
+      "street": "Beukenplein"
     }, 
     {
-      "lat": 50.857441575363865, 
       "housenumber": "4", 
+      "lat": 50.857441575363865, 
+      "lon": 4.120598087122727, 
       "pcode": 1770, 
-      "street": "Beukenplein", 
-      "lon": 4.120598087122727
+      "street": "Beukenplein"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 1770, 
-      "street": "Beukenplein", 
-      "housenumber": "7"
+      "street": "Beukenplein"
     }
-  ], 
-  "name": "Beukenplein"
+  ]
 }

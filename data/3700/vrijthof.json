@@ -1,32 +1,30 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.780365448016006, 
       "housenumber": "1", 
+      "lat": 50.780365448016006, 
+      "lon": 5.465044341376958, 
       "pcode": 3700, 
-      "street": "Vrijthof", 
-      "lon": 5.465044341376958
+      "street": "Vrijthof"
     }, 
     {
-      "lat": 50.780734629418255, 
       "housenumber": "2", 
+      "lat": 50.780734629418255, 
+      "lon": 5.465540629010904, 
       "pcode": 3700, 
-      "street": "Vrijthof", 
-      "lon": 5.465540629010904
+      "street": "Vrijthof"
     }, 
     {
-      "lat": 50.780259674864624, 
       "housenumber": "5", 
+      "lat": 50.780259674864624, 
+      "lon": 5.4652216894707415, 
       "pcode": 3700, 
-      "street": "Vrijthof", 
-      "lon": 5.4652216894707415
+      "street": "Vrijthof"
     }, 
     {
+      "housenumber": "5b", 
       "pcode": 3700, 
-      "street": "Vrijthof", 
-      "housenumber": "5b"
+      "street": "Vrijthof"
     }
-  ], 
-  "name": "Vrijthof"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.22526040593431, 
       "housenumber": "1", 
+      "lat": 51.22526040593431, 
+      "lon": 4.407385734324157, 
       "pcode": 2000, 
-      "street": "Boterhamstraat", 
-      "lon": 4.407385734324157
+      "street": "Boterhamstraat"
     }, 
     {
-      "lat": 51.225249617309835, 
       "housenumber": "2", 
+      "lat": 51.225249617309835, 
+      "lon": 4.407122336269721, 
       "pcode": 2000, 
-      "street": "Boterhamstraat", 
-      "lon": 4.407122336269721
+      "street": "Boterhamstraat"
     }
-  ], 
-  "name": "Boterhamstraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 8850, 
   "addresses": [
     {
-      "lat": 50.977277738963, 
       "housenumber": "1", 
+      "lat": 50.977277738963, 
+      "lon": 3.238785481339975, 
       "pcode": 8850, 
-      "street": "Nijverheidsstraat", 
-      "lon": 3.238785481339975
+      "street": "Nijverheidsstraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 8850, 
-      "street": "Nijverheidsstraat", 
-      "housenumber": "1A"
+      "street": "Nijverheidsstraat"
     }
-  ], 
-  "name": "Nijverheidsstraat"
+  ]
 }

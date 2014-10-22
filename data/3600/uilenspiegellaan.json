@@ -1,39 +1,37 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 51.010158132907215, 
       "housenumber": "11", 
+      "lat": 51.010158132907215, 
+      "lon": 5.508647809799754, 
       "pcode": 3600, 
-      "street": "Uilenspiegellaan", 
-      "lon": 5.508647809799754
+      "street": "Uilenspiegellaan"
     }, 
     {
-      "lat": 51.01013048839922, 
       "housenumber": "13", 
+      "lat": 51.01013048839922, 
+      "lon": 5.508735917570762, 
       "pcode": 3600, 
-      "street": "Uilenspiegellaan", 
-      "lon": 5.508735917570762
+      "street": "Uilenspiegellaan"
     }, 
     {
+      "housenumber": "15", 
       "pcode": 3600, 
-      "street": "Uilenspiegellaan", 
-      "housenumber": "15"
+      "street": "Uilenspiegellaan"
     }, 
     {
-      "lat": 51.010330674811165, 
       "housenumber": "5", 
+      "lat": 51.010330674811165, 
+      "lon": 5.507986792789627, 
       "pcode": 3600, 
-      "street": "Uilenspiegellaan", 
-      "lon": 5.507986792789627
+      "street": "Uilenspiegellaan"
     }, 
     {
-      "lat": 51.01016738783355, 
       "housenumber": "9", 
+      "lat": 51.01016738783355, 
+      "lon": 5.508555549003133, 
       "pcode": 3600, 
-      "street": "Uilenspiegellaan", 
-      "lon": 5.508555549003133
+      "street": "Uilenspiegellaan"
     }
-  ], 
-  "name": "Uilenspiegellaan"
+  ]
 }

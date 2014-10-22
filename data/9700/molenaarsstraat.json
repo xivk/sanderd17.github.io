@@ -1,20 +1,18 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.857242088011716, 
       "housenumber": "2", 
+      "lat": 50.857242088011716, 
+      "lon": 3.5889054088789516, 
       "pcode": 9700, 
-      "street": "Molenaarsstraat", 
-      "lon": 3.5889054088789516
+      "street": "Molenaarsstraat"
     }, 
     {
-      "lat": 50.85770342594184, 
       "housenumber": "3", 
+      "lat": 50.85770342594184, 
+      "lon": 3.588305902665875, 
       "pcode": 9700, 
-      "street": "Molenaarsstraat", 
-      "lon": 3.588305902665875
+      "street": "Molenaarsstraat"
     }
-  ], 
-  "name": "Molenaarsstraat"
+  ]
 }

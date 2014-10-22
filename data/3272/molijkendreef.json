@@ -1,37 +1,35 @@
 {
-  "pcode": 3272, 
   "addresses": [
     {
-      "lat": 50.98965564463475, 
       "housenumber": "10", 
+      "lat": 50.98965564463475, 
+      "lon": 4.923559561141526, 
       "pcode": 3272, 
-      "street": "Molijkendreef", 
-      "lon": 4.923559561141526
+      "street": "Molijkendreef"
     }, 
     {
+      "housenumber": "19", 
       "pcode": 3272, 
-      "street": "Molijkendreef", 
-      "housenumber": "19"
+      "street": "Molijkendreef"
     }, 
     {
-      "lat": 50.98956443283103, 
       "housenumber": "2", 
+      "lat": 50.98956443283103, 
+      "lon": 4.922466895027384, 
       "pcode": 3272, 
-      "street": "Molijkendreef", 
-      "lon": 4.922466895027384
+      "street": "Molijkendreef"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3272, 
-      "street": "Molijkendreef", 
-      "housenumber": "3"
+      "street": "Molijkendreef"
     }, 
     {
-      "lat": 50.990393057002706, 
       "housenumber": "7", 
+      "lat": 50.990393057002706, 
+      "lon": 4.923918259597075, 
       "pcode": 3272, 
-      "street": "Molijkendreef", 
-      "lon": 4.923918259597075
+      "street": "Molijkendreef"
     }
-  ], 
-  "name": "Molijkendreef"
+  ]
 }

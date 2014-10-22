@@ -1,43 +1,41 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 2000, 
-      "street": "Gramayestraat", 
-      "housenumber": "2"
+      "street": "Gramayestraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2000, 
-      "street": "Gramayestraat", 
-      "housenumber": "4"
+      "street": "Gramayestraat"
     }, 
     {
-      "lat": 51.21876249866063, 
       "housenumber": "5", 
+      "lat": 51.21876249866063, 
+      "lon": 4.407190325579462, 
       "pcode": 2000, 
-      "street": "Gramayestraat", 
-      "lon": 4.407190325579462
+      "street": "Gramayestraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2000, 
-      "street": "Gramayestraat", 
-      "housenumber": "6"
+      "street": "Gramayestraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2000, 
-      "street": "Gramayestraat", 
-      "housenumber": "7"
+      "street": "Gramayestraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2000, 
-      "street": "Gramayestraat", 
-      "housenumber": "8"
+      "street": "Gramayestraat"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 2000, 
-      "street": "Gramayestraat", 
-      "housenumber": "9"
+      "street": "Gramayestraat"
     }
-  ], 
-  "name": "Gramayestraat"
+  ]
 }

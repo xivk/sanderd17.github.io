@@ -1,32 +1,30 @@
 {
-  "pcode": 8670, 
   "addresses": [
     {
-      "lat": 51.127178540861905, 
       "housenumber": "1", 
+      "lat": 51.127178540861905, 
+      "lon": 2.6566563143474773, 
       "pcode": 8670, 
-      "street": "Cesar Gezellestraat", 
-      "lon": 2.6566563143474773
+      "street": "Cesar Gezellestraat"
     }, 
     {
-      "lat": 51.12771594901816, 
       "housenumber": "2", 
+      "lat": 51.12771594901816, 
+      "lon": 2.6566756339756137, 
       "pcode": 8670, 
-      "street": "Cesar Gezellestraat", 
-      "lon": 2.6566756339756137
+      "street": "Cesar Gezellestraat"
     }, 
     {
-      "lat": 51.12749700177099, 
       "housenumber": "4", 
+      "lat": 51.12749700177099, 
+      "lon": 2.656426748440448, 
       "pcode": 8670, 
-      "street": "Cesar Gezellestraat", 
-      "lon": 2.656426748440448
+      "street": "Cesar Gezellestraat"
     }, 
     {
+      "housenumber": "4I", 
       "pcode": 8670, 
-      "street": "Cesar Gezellestraat", 
-      "housenumber": "4I"
+      "street": "Cesar Gezellestraat"
     }
-  ], 
-  "name": "Cesar Gezellestraat"
+  ]
 }

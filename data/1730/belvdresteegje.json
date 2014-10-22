@@ -1,25 +1,23 @@
 {
-  "pcode": 1730, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 1730, 
-      "street": "Belv\u0082d\u008aresteegje", 
-      "housenumber": "10"
+      "street": "Belv\u00e9d\u00e8resteegje"
     }, 
     {
-      "lat": 50.90694866857264, 
       "housenumber": "48", 
+      "lat": 50.90694866857264, 
+      "lon": 4.205516694734573, 
       "pcode": 1730, 
-      "street": "Belv\u0082d\u008aresteegje", 
-      "lon": 4.205516694734573
+      "street": "Belv\u00e9d\u00e8resteegje"
     }, 
     {
-      "lat": 50.90687109021963, 
       "housenumber": "50", 
+      "lat": 50.90687109021963, 
+      "lon": 4.205646627555647, 
       "pcode": 1730, 
-      "street": "Belv\u0082d\u008aresteegje", 
-      "lon": 4.205646627555647
+      "street": "Belv\u00e9d\u00e8resteegje"
     }
-  ], 
-  "name": "Belv\u0082d\u008aresteegje"
+  ]
 }

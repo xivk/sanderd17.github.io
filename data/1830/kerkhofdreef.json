@@ -1,18 +1,16 @@
 {
-  "pcode": 1830, 
   "addresses": [
     {
-      "lat": 50.91409319861247, 
       "housenumber": "1", 
+      "lat": 50.91409319861247, 
+      "lon": 4.440377575657909, 
       "pcode": 1830, 
-      "street": "Kerkhofdreef", 
-      "lon": 4.440377575657909
+      "street": "Kerkhofdreef"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 1830, 
-      "street": "Kerkhofdreef", 
-      "housenumber": "2"
+      "street": "Kerkhofdreef"
     }
-  ], 
-  "name": "Kerkhofdreef"
+  ]
 }

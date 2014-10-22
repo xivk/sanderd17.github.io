@@ -1,25 +1,23 @@
 {
-  "pcode": 3220, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 3220, 
-      "street": "Oude Houwaartseweg", 
-      "housenumber": "2"
+      "street": "Oude Houwaartseweg"
     }, 
     {
-      "lat": 50.90012033405716, 
       "housenumber": "2A", 
+      "lat": 50.90012033405716, 
+      "lon": 4.8023093267439405, 
       "pcode": 3220, 
-      "street": "Oude Houwaartseweg", 
-      "lon": 4.8023093267439405
+      "street": "Oude Houwaartseweg"
     }, 
     {
-      "lat": 50.89992644806442, 
       "housenumber": "2B", 
+      "lat": 50.89992644806442, 
+      "lon": 4.802401641368684, 
       "pcode": 3220, 
-      "street": "Oude Houwaartseweg", 
-      "lon": 4.802401641368684
+      "street": "Oude Houwaartseweg"
     }
-  ], 
-  "name": "Oude Houwaartseweg"
+  ]
 }

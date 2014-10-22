@@ -1,39 +1,37 @@
 {
-  "pcode": 2300, 
   "addresses": [
     {
-      "lat": 51.291282344649936, 
       "housenumber": "12", 
+      "lat": 51.291282344649936, 
+      "lon": 4.939748503577612, 
       "pcode": 2300, 
-      "street": "Industriedijk", 
-      "lon": 4.939748503577612
+      "street": "Industriedijk"
     }, 
     {
-      "lat": 51.29294009185839, 
       "housenumber": "14", 
+      "lat": 51.29294009185839, 
+      "lon": 4.938384017805403, 
       "pcode": 2300, 
-      "street": "Industriedijk", 
-      "lon": 4.938384017805403
+      "street": "Industriedijk"
     }, 
     {
-      "lat": 51.296149113978494, 
       "housenumber": "36", 
+      "lat": 51.296149113978494, 
+      "lon": 4.939840243787028, 
       "pcode": 2300, 
-      "street": "Industriedijk", 
-      "lon": 4.939840243787028
+      "street": "Industriedijk"
     }, 
     {
-      "lat": 51.29688119508609, 
       "housenumber": "45", 
+      "lat": 51.29688119508609, 
+      "lon": 4.939900706177197, 
       "pcode": 2300, 
-      "street": "Industriedijk", 
-      "lon": 4.939900706177197
+      "street": "Industriedijk"
     }, 
     {
+      "housenumber": "47", 
       "pcode": 2300, 
-      "street": "Industriedijk", 
-      "housenumber": "47"
+      "street": "Industriedijk"
     }
-  ], 
-  "name": "Industriedijk"
+  ]
 }

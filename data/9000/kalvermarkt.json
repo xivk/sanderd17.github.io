@@ -1,46 +1,44 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05565498495349, 
       "housenumber": "1", 
+      "lat": 51.05565498495349, 
+      "lon": 3.7313934973756355, 
       "pcode": 9000, 
-      "street": "Kalvermarkt", 
-      "lon": 3.7313934973756355
+      "street": "Kalvermarkt"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9000, 
-      "street": "Kalvermarkt", 
-      "housenumber": "2"
+      "street": "Kalvermarkt"
     }, 
     {
-      "lat": 51.05503884345776, 
       "housenumber": "3", 
+      "lat": 51.05503884345776, 
+      "lon": 3.7315566344774687, 
       "pcode": 9000, 
-      "street": "Kalvermarkt", 
-      "lon": 3.7315566344774687
+      "street": "Kalvermarkt"
     }, 
     {
-      "lat": 51.05499904359301, 
       "housenumber": "4", 
+      "lat": 51.05499904359301, 
+      "lon": 3.7314443550126244, 
       "pcode": 9000, 
-      "street": "Kalvermarkt", 
-      "lon": 3.7314443550126244
+      "street": "Kalvermarkt"
     }, 
     {
-      "lat": 51.054951910262616, 
       "housenumber": "5", 
+      "lat": 51.054951910262616, 
+      "lon": 3.7313557095477385, 
       "pcode": 9000, 
-      "street": "Kalvermarkt", 
-      "lon": 3.7313557095477385
+      "street": "Kalvermarkt"
     }, 
     {
-      "lat": 51.05496173454335, 
       "housenumber": "6", 
+      "lat": 51.05496173454335, 
+      "lon": 3.731260726596047, 
       "pcode": 9000, 
-      "street": "Kalvermarkt", 
-      "lon": 3.731260726596047
+      "street": "Kalvermarkt"
     }
-  ], 
-  "name": "Kalvermarkt"
+  ]
 }

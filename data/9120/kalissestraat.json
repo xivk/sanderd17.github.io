@@ -1,20 +1,18 @@
 {
-  "pcode": 9120, 
   "addresses": [
     {
-      "lat": 51.215117133265665, 
       "housenumber": "1", 
+      "lat": 51.215117133265665, 
+      "lon": 4.162230422460601, 
       "pcode": 9120, 
-      "street": "Kalissestraat", 
-      "lon": 4.162230422460601
+      "street": "Kalissestraat"
     }, 
     {
-      "lat": 51.215561563504, 
       "housenumber": "3", 
+      "lat": 51.215561563504, 
+      "lon": 4.162409360702412, 
       "pcode": 9120, 
-      "street": "Kalissestraat", 
-      "lon": 4.162409360702412
+      "street": "Kalissestraat"
     }
-  ], 
-  "name": "Kalissestraat"
+  ]
 }

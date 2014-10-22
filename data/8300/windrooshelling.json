@@ -1,23 +1,21 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.35843895140533, 
       "housenumber": "1", 
+      "lat": 51.35843895140533, 
+      "lon": 3.313379003191723, 
       "pcode": 8300, 
-      "street": "Windrooshelling", 
-      "lon": 3.313379003191723
+      "street": "Windrooshelling"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8300, 
-      "street": "Windrooshelling", 
-      "housenumber": "3"
+      "street": "Windrooshelling"
     }, 
     {
+      "housenumber": "3A", 
       "pcode": 8300, 
-      "street": "Windrooshelling", 
-      "housenumber": "3A"
+      "street": "Windrooshelling"
     }
-  ], 
-  "name": "Windrooshelling"
+  ]
 }

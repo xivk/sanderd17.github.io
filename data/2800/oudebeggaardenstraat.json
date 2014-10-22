@@ -1,23 +1,21 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
+      "housenumber": "3", 
       "pcode": 2800, 
-      "street": "Oude Beggaardenstraat", 
-      "housenumber": "3"
+      "street": "Oude Beggaardenstraat"
     }, 
     {
-      "lat": 51.02985864650562, 
       "housenumber": "5", 
+      "lat": 51.02985864650562, 
+      "lon": 4.47801607765053, 
       "pcode": 2800, 
-      "street": "Oude Beggaardenstraat", 
-      "lon": 4.47801607765053
+      "street": "Oude Beggaardenstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2800, 
-      "street": "Oude Beggaardenstraat", 
-      "housenumber": "7"
+      "street": "Oude Beggaardenstraat"
     }
-  ], 
-  "name": "Oude Beggaardenstraat"
+  ]
 }

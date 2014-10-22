@@ -1,20 +1,18 @@
 {
-  "pcode": 2310, 
   "addresses": [
     {
-      "lat": 51.36266377506056, 
       "housenumber": "5", 
+      "lat": 51.36266377506056, 
+      "lon": 4.733084458577014, 
       "pcode": 2310, 
-      "street": "Korenblokweg", 
-      "lon": 4.733084458577014
+      "street": "Korenblokweg"
     }, 
     {
-      "lat": 51.36638498567741, 
       "housenumber": "6", 
+      "lat": 51.36638498567741, 
+      "lon": 4.721927315967543, 
       "pcode": 2310, 
-      "street": "Korenblokweg", 
-      "lon": 4.721927315967543
+      "street": "Korenblokweg"
     }
-  ], 
-  "name": "Korenblokweg"
+  ]
 }

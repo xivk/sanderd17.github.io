@@ -1,20 +1,18 @@
 {
-  "pcode": 3211, 
   "addresses": [
     {
-      "lat": 50.87738383778681, 
       "housenumber": "3", 
+      "lat": 50.87738383778681, 
+      "lon": 4.900771797069926, 
       "pcode": 3211, 
-      "street": "Krekeldries", 
-      "lon": 4.900771797069926
+      "street": "Krekeldries"
     }, 
     {
-      "lat": 50.87817527652699, 
       "housenumber": "5", 
+      "lat": 50.87817527652699, 
+      "lon": 4.901249391970102, 
       "pcode": 3211, 
-      "street": "Krekeldries", 
-      "lon": 4.901249391970102
+      "street": "Krekeldries"
     }
-  ], 
-  "name": "Krekeldries"
+  ]
 }

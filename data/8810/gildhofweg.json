@@ -1,20 +1,18 @@
 {
-  "pcode": 8810, 
   "addresses": [
     {
-      "lat": 51.026000007548554, 
       "housenumber": "5", 
+      "lat": 51.026000007548554, 
+      "lon": 3.1420073117096017, 
       "pcode": 8810, 
-      "street": "Gildhofweg", 
-      "lon": 3.1420073117096017
+      "street": "Gildhofweg"
     }, 
     {
-      "lat": 51.025904061895496, 
       "housenumber": "7", 
+      "lat": 51.025904061895496, 
+      "lon": 3.1420658486592554, 
       "pcode": 8810, 
-      "street": "Gildhofweg", 
-      "lon": 3.1420658486592554
+      "street": "Gildhofweg"
     }
-  ], 
-  "name": "Gildhofweg"
+  ]
 }

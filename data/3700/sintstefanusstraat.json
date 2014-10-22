@@ -1,27 +1,25 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.8062457267614, 
       "housenumber": "40", 
+      "lat": 50.8062457267614, 
+      "lon": 5.496984292927522, 
       "pcode": 3700, 
-      "street": "Sint-Stefanusstraat", 
-      "lon": 5.496984292927522
+      "street": "Sint-Stefanusstraat"
     }, 
     {
-      "lat": 50.806564625470685, 
       "housenumber": "40B", 
+      "lat": 50.806564625470685, 
+      "lon": 5.497170866905579, 
       "pcode": 3700, 
-      "street": "Sint-Stefanusstraat", 
-      "lon": 5.497170866905579
+      "street": "Sint-Stefanusstraat"
     }, 
     {
-      "lat": 50.80731080304041, 
       "housenumber": "45", 
+      "lat": 50.80731080304041, 
+      "lon": 5.496625043435723, 
       "pcode": 3700, 
-      "street": "Sint-Stefanusstraat", 
-      "lon": 5.496625043435723
+      "street": "Sint-Stefanusstraat"
     }
-  ], 
-  "name": "Sint-Stefanusstraat"
+  ]
 }

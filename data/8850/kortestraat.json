@@ -1,18 +1,16 @@
 {
-  "pcode": 8850, 
   "addresses": [
     {
-      "lat": 50.982067335776314, 
       "housenumber": "1", 
+      "lat": 50.982067335776314, 
+      "lon": 3.2006705817123686, 
       "pcode": 8850, 
-      "street": "Kortestraat", 
-      "lon": 3.2006705817123686
+      "street": "Kortestraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8850, 
-      "street": "Kortestraat", 
-      "housenumber": "2"
+      "street": "Kortestraat"
     }
-  ], 
-  "name": "Kortestraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 8430, 
   "addresses": [
     {
-      "lat": 51.17146497746727, 
       "housenumber": "2", 
+      "lat": 51.17146497746727, 
+      "lon": 2.779237393561911, 
       "pcode": 8430, 
-      "street": "Zwaluwenlaan", 
-      "lon": 2.779237393561911
+      "street": "Zwaluwenlaan"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 8430, 
-      "street": "Zwaluwenlaan", 
-      "housenumber": "8"
+      "street": "Zwaluwenlaan"
     }
-  ], 
-  "name": "Zwaluwenlaan"
+  ]
 }

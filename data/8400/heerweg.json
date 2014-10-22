@@ -1,27 +1,25 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.18997130840647, 
       "housenumber": "11", 
+      "lat": 51.18997130840647, 
+      "lon": 2.898427132722311, 
       "pcode": 8400, 
-      "street": "Heerweg", 
-      "lon": 2.898427132722311
+      "street": "Heerweg"
     }, 
     {
-      "lat": 51.19111672301287, 
       "housenumber": "7", 
+      "lat": 51.19111672301287, 
+      "lon": 2.8994872483446406, 
       "pcode": 8400, 
-      "street": "Heerweg", 
-      "lon": 2.8994872483446406
+      "street": "Heerweg"
     }, 
     {
-      "lat": 51.19207937583111, 
       "housenumber": "8", 
+      "lat": 51.19207937583111, 
+      "lon": 2.8999628482795012, 
       "pcode": 8400, 
-      "street": "Heerweg", 
-      "lon": 2.8999628482795012
+      "street": "Heerweg"
     }
-  ], 
-  "name": "Heerweg"
+  ]
 }

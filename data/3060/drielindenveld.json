@@ -1,43 +1,41 @@
 {
-  "pcode": 3060, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 3060, 
-      "street": "Drielindenveld", 
-      "housenumber": "11"
+      "street": "Drielindenveld"
     }, 
     {
+      "housenumber": "13", 
       "pcode": 3060, 
-      "street": "Drielindenveld", 
-      "housenumber": "13"
+      "street": "Drielindenveld"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3060, 
-      "street": "Drielindenveld", 
-      "housenumber": "2"
+      "street": "Drielindenveld"
     }, 
     {
-      "lat": 50.870219916068635, 
       "housenumber": "4", 
+      "lat": 50.870219916068635, 
+      "lon": 4.631384260894824, 
       "pcode": 3060, 
-      "street": "Drielindenveld", 
-      "lon": 4.631384260894824
+      "street": "Drielindenveld"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3060, 
-      "street": "Drielindenveld", 
-      "housenumber": "6"
+      "street": "Drielindenveld"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3060, 
-      "street": "Drielindenveld", 
-      "housenumber": "7"
+      "street": "Drielindenveld"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 3060, 
-      "street": "Drielindenveld", 
-      "housenumber": "9"
+      "street": "Drielindenveld"
     }
-  ], 
-  "name": "Drielindenveld"
+  ]
 }

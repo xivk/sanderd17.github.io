@@ -1,27 +1,25 @@
 {
-  "pcode": 9200, 
   "addresses": [
     {
-      "lat": 51.0307246316539, 
       "housenumber": "1", 
+      "lat": 51.0307246316539, 
+      "lon": 4.09756584548101, 
       "pcode": 9200, 
-      "street": "Guldenhoofdstraat", 
-      "lon": 4.09756584548101
+      "street": "Guldenhoofdstraat"
     }, 
     {
-      "lat": 51.030765906653166, 
       "housenumber": "2", 
+      "lat": 51.030765906653166, 
+      "lon": 4.0973768675286415, 
       "pcode": 9200, 
-      "street": "Guldenhoofdstraat", 
-      "lon": 4.0973768675286415
+      "street": "Guldenhoofdstraat"
     }, 
     {
-      "lat": 51.03070062857907, 
       "housenumber": "4", 
+      "lat": 51.03070062857907, 
+      "lon": 4.097134763461747, 
       "pcode": 9200, 
-      "street": "Guldenhoofdstraat", 
-      "lon": 4.097134763461747
+      "street": "Guldenhoofdstraat"
     }
-  ], 
-  "name": "Guldenhoofdstraat"
+  ]
 }

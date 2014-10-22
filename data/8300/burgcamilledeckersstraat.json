@@ -1,51 +1,49 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8300, 
-      "street": "Burg. Camille Deckersstraat", 
-      "housenumber": "1"
+      "street": "Burg. Camille Deckersstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8300, 
-      "street": "Burg. Camille Deckersstraat", 
-      "housenumber": "2"
+      "street": "Burg. Camille Deckersstraat"
     }, 
     {
-      "lat": 51.34123856157662, 
       "housenumber": "3", 
+      "lat": 51.34123856157662, 
+      "lon": 3.289184193071364, 
       "pcode": 8300, 
-      "street": "Burg. Camille Deckersstraat", 
-      "lon": 3.289184193071364
+      "street": "Burg. Camille Deckersstraat"
     }, 
     {
-      "lat": 51.34121744889652, 
       "housenumber": "4", 
+      "lat": 51.34121744889652, 
+      "lon": 3.2894224926500994, 
       "pcode": 8300, 
-      "street": "Burg. Camille Deckersstraat", 
-      "lon": 3.2894224926500994
+      "street": "Burg. Camille Deckersstraat"
     }, 
     {
-      "lat": 51.3412845029246, 
       "housenumber": "5", 
+      "lat": 51.3412845029246, 
+      "lon": 3.289165330920125, 
       "pcode": 8300, 
-      "street": "Burg. Camille Deckersstraat", 
-      "lon": 3.289165330920125
+      "street": "Burg. Camille Deckersstraat"
     }, 
     {
-      "lat": 51.34133456792516, 
       "housenumber": "6", 
+      "lat": 51.34133456792516, 
+      "lon": 3.2893724148866474, 
       "pcode": 8300, 
-      "street": "Burg. Camille Deckersstraat", 
-      "lon": 3.2893724148866474
+      "street": "Burg. Camille Deckersstraat"
     }, 
     {
-      "lat": 51.3413461218821, 
       "housenumber": "7", 
+      "lat": 51.3413461218821, 
+      "lon": 3.289140651281256, 
       "pcode": 8300, 
-      "street": "Burg. Camille Deckersstraat", 
-      "lon": 3.289140651281256
+      "street": "Burg. Camille Deckersstraat"
     }
-  ], 
-  "name": "Burg. Camille Deckersstraat"
+  ]
 }

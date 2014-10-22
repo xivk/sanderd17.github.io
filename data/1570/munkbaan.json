@@ -1,20 +1,18 @@
 {
-  "pcode": 1570, 
   "addresses": [
     {
-      "lat": 50.75056526009748, 
       "housenumber": "1", 
+      "lat": 50.75056526009748, 
+      "lon": 3.9792501986141104, 
       "pcode": 1570, 
-      "street": "Munkbaan", 
-      "lon": 3.9792501986141104
+      "street": "Munkbaan"
     }, 
     {
-      "lat": 50.750189995696076, 
       "housenumber": "2", 
+      "lat": 50.750189995696076, 
+      "lon": 3.9804344020529694, 
       "pcode": 1570, 
-      "street": "Munkbaan", 
-      "lon": 3.9804344020529694
+      "street": "Munkbaan"
     }
-  ], 
-  "name": "Munkbaan"
+  ]
 }

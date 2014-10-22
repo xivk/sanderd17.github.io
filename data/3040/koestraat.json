@@ -1,20 +1,18 @@
 {
-  "pcode": 3040, 
   "addresses": [
     {
-      "lat": 50.789676975282056, 
       "housenumber": "1", 
+      "lat": 50.789676975282056, 
+      "lon": 4.620105091619366, 
       "pcode": 3040, 
-      "street": "Koestraat", 
-      "lon": 4.620105091619366
+      "street": "Koestraat"
     }, 
     {
-      "lat": 50.79092508999401, 
       "housenumber": "2", 
+      "lat": 50.79092508999401, 
+      "lon": 4.625076958698706, 
       "pcode": 3040, 
-      "street": "Koestraat", 
-      "lon": 4.625076958698706
+      "street": "Koestraat"
     }
-  ], 
-  "name": "Koestraat"
+  ]
 }

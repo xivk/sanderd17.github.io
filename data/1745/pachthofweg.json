@@ -1,39 +1,37 @@
 {
-  "pcode": 1745, 
   "addresses": [
     {
-      "lat": 50.97703083378961, 
       "housenumber": "1", 
+      "lat": 50.97703083378961, 
+      "lon": 4.174687627302177, 
       "pcode": 1745, 
-      "street": "Pachthofweg", 
-      "lon": 4.174687627302177
+      "street": "Pachthofweg"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 1745, 
-      "street": "Pachthofweg", 
-      "housenumber": "12"
+      "street": "Pachthofweg"
     }, 
     {
-      "lat": 50.977057679535484, 
       "housenumber": "3", 
+      "lat": 50.977057679535484, 
+      "lon": 4.174504262303419, 
       "pcode": 1745, 
-      "street": "Pachthofweg", 
-      "lon": 4.174504262303419
+      "street": "Pachthofweg"
     }, 
     {
-      "lat": 50.976854033116396, 
       "housenumber": "7", 
+      "lat": 50.976854033116396, 
+      "lon": 4.174151838357537, 
       "pcode": 1745, 
-      "street": "Pachthofweg", 
-      "lon": 4.174151838357537
+      "street": "Pachthofweg"
     }, 
     {
-      "lat": 50.97683786049038, 
       "housenumber": "9", 
+      "lat": 50.97683786049038, 
+      "lon": 4.173884215756203, 
       "pcode": 1745, 
-      "street": "Pachthofweg", 
-      "lon": 4.173884215756203
+      "street": "Pachthofweg"
     }
-  ], 
-  "name": "Pachthofweg"
+  ]
 }

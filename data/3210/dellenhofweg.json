@@ -1,20 +1,18 @@
 {
-  "pcode": 3210, 
   "addresses": [
     {
-      "lat": 50.8737888417518, 
       "housenumber": "1", 
+      "lat": 50.8737888417518, 
+      "lon": 4.824154343657116, 
       "pcode": 3210, 
-      "street": "Dellenhofweg", 
-      "lon": 4.824154343657116
+      "street": "Dellenhofweg"
     }, 
     {
-      "lat": 50.87480063500381, 
       "housenumber": "3", 
+      "lat": 50.87480063500381, 
+      "lon": 4.822529098998653, 
       "pcode": 3210, 
-      "street": "Dellenhofweg", 
-      "lon": 4.822529098998653
+      "street": "Dellenhofweg"
     }
-  ], 
-  "name": "Dellenhofweg"
+  ]
 }

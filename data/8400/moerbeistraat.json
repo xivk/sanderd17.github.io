@@ -1,20 +1,18 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.203551404540875, 
       "housenumber": "31", 
+      "lat": 51.203551404540875, 
+      "lon": 2.9725992116776316, 
       "pcode": 8400, 
-      "street": "Moerbeistraat", 
-      "lon": 2.9725992116776316
+      "street": "Moerbeistraat"
     }, 
     {
-      "lat": 51.20381761429953, 
       "housenumber": "33", 
+      "lat": 51.20381761429953, 
+      "lon": 2.9720295569376267, 
       "pcode": 8400, 
-      "street": "Moerbeistraat", 
-      "lon": 2.9720295569376267
+      "street": "Moerbeistraat"
     }
-  ], 
-  "name": "Moerbeistraat"
+  ]
 }

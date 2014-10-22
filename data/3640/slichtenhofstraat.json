@@ -1,20 +1,18 @@
 {
-  "pcode": 3640, 
   "addresses": [
     {
-      "lat": 51.1360780870579, 
       "housenumber": "1", 
+      "lat": 51.1360780870579, 
+      "lon": 5.736108499633639, 
       "pcode": 3640, 
-      "street": "Slichtenhofstraat", 
-      "lon": 5.736108499633639
+      "street": "Slichtenhofstraat"
     }, 
     {
-      "lat": 51.13619696402456, 
       "housenumber": "3", 
+      "lat": 51.13619696402456, 
+      "lon": 5.735834760252524, 
       "pcode": 3640, 
-      "street": "Slichtenhofstraat", 
-      "lon": 5.735834760252524
+      "street": "Slichtenhofstraat"
     }
-  ], 
-  "name": "Slichtenhofstraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 3294, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3294, 
-      "street": "Hellestraat", 
-      "housenumber": "10"
+      "street": "Hellestraat"
     }, 
     {
-      "lat": 50.995118309034225, 
       "housenumber": "2", 
+      "lat": 50.995118309034225, 
+      "lon": 5.030000697592482, 
       "pcode": 3294, 
-      "street": "Hellestraat", 
-      "lon": 5.030000697592482
+      "street": "Hellestraat"
     }
-  ], 
-  "name": "Hellestraat"
+  ]
 }

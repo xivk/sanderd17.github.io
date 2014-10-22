@@ -1,18 +1,16 @@
 {
-  "pcode": 8370, 
   "addresses": [
     {
-      "lat": 51.312361539630196, 
       "housenumber": "1", 
+      "lat": 51.312361539630196, 
+      "lon": 3.1206124462199836, 
       "pcode": 8370, 
-      "street": "Havenplein", 
-      "lon": 3.1206124462199836
+      "street": "Havenplein"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8370, 
-      "street": "Havenplein", 
-      "housenumber": "3"
+      "street": "Havenplein"
     }
-  ], 
-  "name": "Havenplein"
+  ]
 }

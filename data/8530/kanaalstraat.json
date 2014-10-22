@@ -1,27 +1,25 @@
 {
-  "pcode": 8530, 
   "addresses": [
     {
-      "lat": 50.82734815112123, 
       "housenumber": "1", 
+      "lat": 50.82734815112123, 
+      "lon": 3.3058167415921593, 
       "pcode": 8530, 
-      "street": "Kanaalstraat", 
-      "lon": 3.3058167415921593
+      "street": "Kanaalstraat"
     }, 
     {
-      "lat": 50.82698113155061, 
       "housenumber": "5", 
+      "lat": 50.82698113155061, 
+      "lon": 3.3108957087748743, 
       "pcode": 8530, 
-      "street": "Kanaalstraat", 
-      "lon": 3.3108957087748743
+      "street": "Kanaalstraat"
     }, 
     {
-      "lat": 50.82617554485797, 
       "housenumber": "7", 
+      "lat": 50.82617554485797, 
+      "lon": 3.313546344642736, 
       "pcode": 8530, 
-      "street": "Kanaalstraat", 
-      "lon": 3.313546344642736
+      "street": "Kanaalstraat"
     }
-  ], 
-  "name": "Kanaalstraat"
+  ]
 }

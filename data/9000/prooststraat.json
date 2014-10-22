@@ -1,39 +1,37 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9000, 
-      "street": "Prooststraat", 
-      "housenumber": "1"
+      "street": "Prooststraat"
     }, 
     {
-      "lat": 51.05477138027916, 
       "housenumber": "3", 
+      "lat": 51.05477138027916, 
+      "lon": 3.7360923367997905, 
       "pcode": 9000, 
-      "street": "Prooststraat", 
-      "lon": 3.7360923367997905
+      "street": "Prooststraat"
     }, 
     {
-      "lat": 51.05477757935886, 
       "housenumber": "5", 
+      "lat": 51.05477757935886, 
+      "lon": 3.73609168256331, 
       "pcode": 9000, 
-      "street": "Prooststraat", 
-      "lon": 3.73609168256331
+      "street": "Prooststraat"
     }, 
     {
-      "lat": 51.05478017000115, 
       "housenumber": "7", 
+      "lat": 51.05478017000115, 
+      "lon": 3.736122170368904, 
       "pcode": 9000, 
-      "street": "Prooststraat", 
-      "lon": 3.736122170368904
+      "street": "Prooststraat"
     }, 
     {
-      "lat": 51.054750477366355, 
       "housenumber": "9", 
+      "lat": 51.054750477366355, 
+      "lon": 3.736200732458691, 
       "pcode": 9000, 
-      "street": "Prooststraat", 
-      "lon": 3.736200732458691
+      "street": "Prooststraat"
     }
-  ], 
-  "name": "Prooststraat"
+  ]
 }

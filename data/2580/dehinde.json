@@ -1,45 +1,43 @@
 {
-  "pcode": 2580, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2580, 
-      "street": "De Hinde", 
-      "housenumber": "1"
+      "street": "De Hinde"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2580, 
-      "street": "De Hinde", 
-      "housenumber": "2"
+      "street": "De Hinde"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2580, 
-      "street": "De Hinde", 
-      "housenumber": "3"
+      "street": "De Hinde"
     }, 
     {
-      "lat": 51.06392367905408, 
       "housenumber": "4", 
+      "lat": 51.06392367905408, 
+      "lon": 4.655856740815831, 
       "pcode": 2580, 
-      "street": "De Hinde", 
-      "lon": 4.655856740815831
+      "street": "De Hinde"
     }, 
     {
-      "lat": 51.06380593847171, 
       "housenumber": "5", 
+      "lat": 51.06380593847171, 
+      "lon": 4.655961009390554, 
       "pcode": 2580, 
-      "street": "De Hinde", 
-      "lon": 4.655961009390554
+      "street": "De Hinde"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2580, 
-      "street": "De Hinde", 
-      "housenumber": "6"
+      "street": "De Hinde"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2580, 
-      "street": "De Hinde", 
-      "housenumber": "7"
+      "street": "De Hinde"
     }
-  ], 
-  "name": "De Hinde"
+  ]
 }

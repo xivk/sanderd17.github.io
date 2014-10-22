@@ -1,20 +1,18 @@
 {
-  "pcode": 9140, 
   "addresses": [
     {
-      "lat": 51.11628059793721, 
       "housenumber": "1", 
+      "lat": 51.11628059793721, 
+      "lon": 4.193917606453654, 
       "pcode": 9140, 
-      "street": "Afschrijverslaan", 
-      "lon": 4.193917606453654
+      "street": "Afschrijverslaan"
     }, 
     {
-      "lat": 51.11720489857633, 
       "housenumber": "2", 
+      "lat": 51.11720489857633, 
+      "lon": 4.19384732455248, 
       "pcode": 9140, 
-      "street": "Afschrijverslaan", 
-      "lon": 4.19384732455248
+      "street": "Afschrijverslaan"
     }
-  ], 
-  "name": "Afschrijverslaan"
+  ]
 }

@@ -1,34 +1,32 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.217685995979345, 
       "housenumber": "1", 
+      "lat": 51.217685995979345, 
+      "lon": 4.39518770437121, 
       "pcode": 2000, 
-      "street": "Rijkenhoek", 
-      "lon": 4.39518770437121
+      "street": "Rijkenhoek"
     }, 
     {
-      "lat": 51.21751696657804, 
       "housenumber": "2", 
+      "lat": 51.21751696657804, 
+      "lon": 4.395002405618885, 
       "pcode": 2000, 
-      "street": "Rijkenhoek", 
-      "lon": 4.395002405618885
+      "street": "Rijkenhoek"
     }, 
     {
-      "lat": 51.21770083507172, 
       "housenumber": "3", 
+      "lat": 51.21770083507172, 
+      "lon": 4.395151789134276, 
       "pcode": 2000, 
-      "street": "Rijkenhoek", 
-      "lon": 4.395151789134276
+      "street": "Rijkenhoek"
     }, 
     {
-      "lat": 51.217533597493905, 
       "housenumber": "4", 
+      "lat": 51.217533597493905, 
+      "lon": 4.394991967287567, 
       "pcode": 2000, 
-      "street": "Rijkenhoek", 
-      "lon": 4.394991967287567
+      "street": "Rijkenhoek"
     }
-  ], 
-  "name": "Rijkenhoek"
+  ]
 }

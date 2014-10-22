@@ -1,20 +1,18 @@
 {
-  "pcode": 9230, 
   "addresses": [
     {
-      "lat": 50.97941499054961, 
       "housenumber": "1", 
+      "lat": 50.97941499054961, 
+      "lon": 3.851617608695724, 
       "pcode": 9230, 
-      "street": "Vurststraat", 
-      "lon": 3.851617608695724
+      "street": "Vurststraat"
     }, 
     {
-      "lat": 50.97852193577501, 
       "housenumber": "6", 
+      "lat": 50.97852193577501, 
+      "lon": 3.8518928745033203, 
       "pcode": 9230, 
-      "street": "Vurststraat", 
-      "lon": 3.8518928745033203
+      "street": "Vurststraat"
     }
-  ], 
-  "name": "Vurststraat"
+  ]
 }

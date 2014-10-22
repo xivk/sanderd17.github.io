@@ -1,20 +1,18 @@
 {
-  "pcode": 9620, 
   "addresses": [
     {
-      "lat": 50.845139975470154, 
       "housenumber": "1", 
+      "lat": 50.845139975470154, 
+      "lon": 3.8356246310508855, 
       "pcode": 9620, 
-      "street": "Pachtersveldweg", 
-      "lon": 3.8356246310508855
+      "street": "Pachtersveldweg"
     }, 
     {
-      "lat": 50.84510016465743, 
       "housenumber": "2", 
+      "lat": 50.84510016465743, 
+      "lon": 3.8360832907015214, 
       "pcode": 9620, 
-      "street": "Pachtersveldweg", 
-      "lon": 3.8360832907015214
+      "street": "Pachtersveldweg"
     }
-  ], 
-  "name": "Pachtersveldweg"
+  ]
 }

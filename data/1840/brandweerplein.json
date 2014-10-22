@@ -1,20 +1,18 @@
 {
-  "pcode": 1840, 
   "addresses": [
     {
-      "lat": 51.00451553000779, 
       "housenumber": "1", 
+      "lat": 51.00451553000779, 
+      "lon": 4.306619839697449, 
       "pcode": 1840, 
-      "street": "Brandweerplein", 
-      "lon": 4.306619839697449
+      "street": "Brandweerplein"
     }, 
     {
-      "lat": 51.00422271777019, 
       "housenumber": "2A", 
+      "lat": 51.00422271777019, 
+      "lon": 4.306204778794562, 
       "pcode": 1840, 
-      "street": "Brandweerplein", 
-      "lon": 4.306204778794562
+      "street": "Brandweerplein"
     }
-  ], 
-  "name": "Brandweerplein"
+  ]
 }

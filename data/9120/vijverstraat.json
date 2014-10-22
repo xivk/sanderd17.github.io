@@ -1,37 +1,35 @@
 {
-  "pcode": 9120, 
   "addresses": [
     {
-      "lat": 51.21916201049703, 
       "housenumber": "1", 
+      "lat": 51.21916201049703, 
+      "lon": 4.155669756177817, 
       "pcode": 9120, 
-      "street": "Vijverstraat", 
-      "lon": 4.155669756177817
+      "street": "Vijverstraat"
     }, 
     {
+      "housenumber": "15", 
       "pcode": 9120, 
-      "street": "Vijverstraat", 
-      "housenumber": "15"
+      "street": "Vijverstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9120, 
-      "street": "Vijverstraat", 
-      "housenumber": "3"
+      "street": "Vijverstraat"
     }, 
     {
-      "lat": 51.21881042397168, 
       "housenumber": "5", 
+      "lat": 51.21881042397168, 
+      "lon": 4.157602712870249, 
       "pcode": 9120, 
-      "street": "Vijverstraat", 
-      "lon": 4.157602712870249
+      "street": "Vijverstraat"
     }, 
     {
-      "lat": 51.2187831184521, 
       "housenumber": "7", 
+      "lat": 51.2187831184521, 
+      "lon": 4.15822042858185, 
       "pcode": 9120, 
-      "street": "Vijverstraat", 
-      "lon": 4.15822042858185
+      "street": "Vijverstraat"
     }
-  ], 
-  "name": "Vijverstraat"
+  ]
 }

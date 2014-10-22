@@ -1,20 +1,18 @@
 {
-  "pcode": 3200, 
   "addresses": [
     {
-      "lat": 50.9996934466555, 
       "housenumber": "2", 
+      "lat": 50.9996934466555, 
+      "lon": 4.848992959023126, 
       "pcode": 3200, 
-      "street": "Korteweg", 
-      "lon": 4.848992959023126
+      "street": "Korteweg"
     }, 
     {
-      "lat": 50.99982918157763, 
       "housenumber": "6", 
+      "lat": 50.99982918157763, 
+      "lon": 4.8480911534471, 
       "pcode": 3200, 
-      "street": "Korteweg", 
-      "lon": 4.8480911534471
+      "street": "Korteweg"
     }
-  ], 
-  "name": "Korteweg"
+  ]
 }

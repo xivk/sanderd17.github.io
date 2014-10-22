@@ -1,25 +1,23 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
-      "lat": 50.91530570151436, 
       "housenumber": "20", 
+      "lat": 50.91530570151436, 
+      "lon": 4.401011260603114, 
       "pcode": 1800, 
-      "street": "Twee Leeuwenweg", 
-      "lon": 4.401011260603114
+      "street": "Twee Leeuwenweg"
     }, 
     {
+      "housenumber": "20O", 
       "pcode": 1800, 
-      "street": "Twee Leeuwenweg", 
-      "housenumber": "20O"
+      "street": "Twee Leeuwenweg"
     }, 
     {
-      "lat": 50.914955164001206, 
       "housenumber": "22", 
+      "lat": 50.914955164001206, 
+      "lon": 4.401165301367336, 
       "pcode": 1800, 
-      "street": "Twee Leeuwenweg", 
-      "lon": 4.401165301367336
+      "street": "Twee Leeuwenweg"
     }
-  ], 
-  "name": "Twee Leeuwenweg"
+  ]
 }

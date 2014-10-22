@@ -1,27 +1,25 @@
 {
-  "pcode": 8200, 
   "addresses": [
     {
-      "lat": 51.18917320036957, 
       "housenumber": "2", 
+      "lat": 51.18917320036957, 
+      "lon": 3.1701725845833666, 
       "pcode": 8200, 
-      "street": "Jan van Hesestraat", 
-      "lon": 3.1701725845833666
+      "street": "Jan van Hesestraat"
     }, 
     {
-      "lat": 51.189732934550726, 
       "housenumber": "5", 
+      "lat": 51.189732934550726, 
+      "lon": 3.1707261450244264, 
       "pcode": 8200, 
-      "street": "Jan van Hesestraat", 
-      "lon": 3.1707261450244264
+      "street": "Jan van Hesestraat"
     }, 
     {
-      "lat": 51.18982464859982, 
       "housenumber": "7", 
+      "lat": 51.18982464859982, 
+      "lon": 3.171198308373707, 
       "pcode": 8200, 
-      "street": "Jan van Hesestraat", 
-      "lon": 3.171198308373707
+      "street": "Jan van Hesestraat"
     }
-  ], 
-  "name": "Jan van Hesestraat"
+  ]
 }

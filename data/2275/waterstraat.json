@@ -1,35 +1,33 @@
 {
-  "pcode": 2275, 
   "addresses": [
     {
+      "housenumber": "3", 
       "pcode": 2275, 
-      "street": "Waterstraat", 
-      "housenumber": "3"
+      "street": "Waterstraat"
     }, 
     {
-      "lat": 51.242808866453494, 
       "housenumber": "30", 
+      "lat": 51.242808866453494, 
+      "lon": 4.865348659456986, 
       "pcode": 2275, 
-      "street": "Waterstraat", 
-      "lon": 4.865348659456986
+      "street": "Waterstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2275, 
-      "street": "Waterstraat", 
-      "housenumber": "4"
+      "street": "Waterstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2275, 
-      "street": "Waterstraat", 
-      "housenumber": "5"
+      "street": "Waterstraat"
     }, 
     {
-      "lat": 51.24755875550545, 
       "housenumber": "8", 
+      "lat": 51.24755875550545, 
+      "lon": 4.873092155448627, 
       "pcode": 2275, 
-      "street": "Waterstraat", 
-      "lon": 4.873092155448627
+      "street": "Waterstraat"
     }
-  ], 
-  "name": "Waterstraat"
+  ]
 }

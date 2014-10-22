@@ -1,28 +1,26 @@
 {
-  "pcode": 9052, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9052, 
-      "street": "Geizegemstraat", 
-      "housenumber": "1"
+      "street": "Geizegemstraat"
     }, 
     {
-      "lat": 51.00645587443639, 
       "housenumber": "2", 
+      "lat": 51.00645587443639, 
+      "lon": 3.7349216510005077, 
       "pcode": 9052, 
-      "street": "Geizegemstraat", 
-      "lon": 3.7349216510005077
+      "street": "Geizegemstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9052, 
-      "street": "Geizegemstraat", 
-      "housenumber": "3"
+      "street": "Geizegemstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9052, 
-      "street": "Geizegemstraat", 
-      "housenumber": "4"
+      "street": "Geizegemstraat"
     }
-  ], 
-  "name": "Geizegemstraat"
+  ]
 }

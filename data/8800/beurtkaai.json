@@ -1,20 +1,18 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.94629776729565, 
       "housenumber": "2", 
+      "lat": 50.94629776729565, 
+      "lon": 3.1510492179753546, 
       "pcode": 8800, 
-      "street": "Beurtkaai", 
-      "lon": 3.1510492179753546
+      "street": "Beurtkaai"
     }, 
     {
-      "lat": 50.94518101526897, 
       "housenumber": "4", 
+      "lat": 50.94518101526897, 
+      "lon": 3.148399623520001, 
       "pcode": 8800, 
-      "street": "Beurtkaai", 
-      "lon": 3.148399623520001
+      "street": "Beurtkaai"
     }
-  ], 
-  "name": "Beurtkaai"
+  ]
 }

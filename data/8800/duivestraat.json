@@ -1,20 +1,18 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.949931338183, 
       "housenumber": "4", 
+      "lat": 50.949931338183, 
+      "lon": 3.1241937641606325, 
       "pcode": 8800, 
-      "street": "Duivestraat", 
-      "lon": 3.1241937641606325
+      "street": "Duivestraat"
     }, 
     {
-      "lat": 50.95147167594511, 
       "housenumber": "5", 
+      "lat": 50.95147167594511, 
+      "lon": 3.1214099149648726, 
       "pcode": 8800, 
-      "street": "Duivestraat", 
-      "lon": 3.1214099149648726
+      "street": "Duivestraat"
     }
-  ], 
-  "name": "Duivestraat"
+  ]
 }

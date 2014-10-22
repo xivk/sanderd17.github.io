@@ -1,27 +1,25 @@
 {
-  "pcode": 3010, 
   "addresses": [
     {
-      "lat": 50.884049928621764, 
       "housenumber": "2", 
+      "lat": 50.884049928621764, 
+      "lon": 4.724675931123532, 
       "pcode": 3010, 
-      "street": "Atelierstraat", 
-      "lon": 4.724675931123532
+      "street": "Atelierstraat"
     }, 
     {
-      "lat": 50.88387711503567, 
       "housenumber": "4", 
+      "lat": 50.88387711503567, 
+      "lon": 4.723561349967884, 
       "pcode": 3010, 
-      "street": "Atelierstraat", 
-      "lon": 4.723561349967884
+      "street": "Atelierstraat"
     }, 
     {
-      "lat": 50.883921525415815, 
       "housenumber": "6", 
+      "lat": 50.883921525415815, 
+      "lon": 4.7232042857481185, 
       "pcode": 3010, 
-      "street": "Atelierstraat", 
-      "lon": 4.7232042857481185
+      "street": "Atelierstraat"
     }
-  ], 
-  "name": "Atelierstraat"
+  ]
 }

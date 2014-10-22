@@ -1,42 +1,40 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
+      "housenumber": "15", 
       "pcode": 8400, 
-      "street": "Vicognedijk", 
-      "housenumber": "15"
+      "street": "Vicognedijk"
     }, 
     {
+      "housenumber": "16", 
       "pcode": 8400, 
-      "street": "Vicognedijk", 
-      "housenumber": "16"
+      "street": "Vicognedijk"
     }, 
     {
+      "housenumber": "25", 
       "pcode": 8400, 
-      "street": "Vicognedijk", 
-      "housenumber": "25"
+      "street": "Vicognedijk"
     }, 
     {
-      "lat": 51.224564300275254, 
       "housenumber": "29", 
+      "lat": 51.224564300275254, 
+      "lon": 2.943757027039286, 
       "pcode": 8400, 
-      "street": "Vicognedijk", 
-      "lon": 2.943757027039286
+      "street": "Vicognedijk"
     }, 
     {
-      "lat": 51.224494442891114, 
       "housenumber": "30", 
+      "lat": 51.224494442891114, 
+      "lon": 2.945459163825267, 
       "pcode": 8400, 
-      "street": "Vicognedijk", 
-      "lon": 2.945459163825267
+      "street": "Vicognedijk"
     }, 
     {
-      "lat": 51.224461417799624, 
       "housenumber": "31", 
+      "lat": 51.224461417799624, 
+      "lon": 2.946002070124301, 
       "pcode": 8400, 
-      "street": "Vicognedijk", 
-      "lon": 2.946002070124301
+      "street": "Vicognedijk"
     }
-  ], 
-  "name": "Vicognedijk"
+  ]
 }

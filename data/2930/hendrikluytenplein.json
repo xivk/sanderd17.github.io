@@ -1,27 +1,25 @@
 {
-  "pcode": 2930, 
   "addresses": [
     {
-      "lat": 51.30042999100866, 
       "housenumber": "1", 
-      "pcode": 2930, 
-      "street": "Hendrik Luytenplein", 
-      "lon": 4.482016834841035
-    }, 
-    {
       "lat": 51.30042999100866, 
-      "housenumber": "3", 
+      "lon": 4.482016834841035, 
       "pcode": 2930, 
-      "street": "Hendrik Luytenplein", 
-      "lon": 4.482016834841035
+      "street": "Hendrik Luytenplein"
     }, 
     {
-      "lat": 51.29995002977356, 
-      "housenumber": "6", 
+      "housenumber": "3", 
+      "lat": 51.30042999100866, 
+      "lon": 4.482016834841035, 
       "pcode": 2930, 
-      "street": "Hendrik Luytenplein", 
-      "lon": 4.482199611244148
+      "street": "Hendrik Luytenplein"
+    }, 
+    {
+      "housenumber": "6", 
+      "lat": 51.29995002977356, 
+      "lon": 4.482199611244148, 
+      "pcode": 2930, 
+      "street": "Hendrik Luytenplein"
     }
-  ], 
-  "name": "Hendrik Luytenplein"
+  ]
 }

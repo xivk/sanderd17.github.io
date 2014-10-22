@@ -1,25 +1,23 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.21819160643298, 
       "housenumber": "2", 
+      "lat": 51.21819160643298, 
+      "lon": 4.3981073088523255, 
       "pcode": 2000, 
-      "street": "Vrijdagmarktstraatje", 
-      "lon": 4.3981073088523255
+      "street": "Vrijdagmarktstraatje"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2000, 
-      "street": "Vrijdagmarktstraatje", 
-      "housenumber": "3"
+      "street": "Vrijdagmarktstraatje"
     }, 
     {
-      "lat": 51.2180923779323, 
       "housenumber": "4", 
+      "lat": 51.2180923779323, 
+      "lon": 4.398093934360681, 
       "pcode": 2000, 
-      "street": "Vrijdagmarktstraatje", 
-      "lon": 4.398093934360681
+      "street": "Vrijdagmarktstraatje"
     }
-  ], 
-  "name": "Vrijdagmarktstraatje"
+  ]
 }

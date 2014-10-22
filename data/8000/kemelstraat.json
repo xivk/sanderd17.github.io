@@ -1,80 +1,78 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8000, 
-      "street": "Kemelstraat", 
-      "housenumber": "1"
+      "street": "Kemelstraat"
     }, 
     {
-      "lat": 51.20695664330576, 
       "housenumber": "10", 
+      "lat": 51.20695664330576, 
+      "lon": 3.2217674479034195, 
       "pcode": 8000, 
-      "street": "Kemelstraat", 
-      "lon": 3.2217674479034195
+      "street": "Kemelstraat"
     }, 
     {
-      "lat": 51.20692250850667, 
       "housenumber": "11", 
+      "lat": 51.20692250850667, 
+      "lon": 3.2214734864954346, 
       "pcode": 8000, 
-      "street": "Kemelstraat", 
-      "lon": 3.2214734864954346
+      "street": "Kemelstraat"
     }, 
     {
-      "lat": 51.206968589414316, 
       "housenumber": "13", 
+      "lat": 51.206968589414316, 
+      "lon": 3.2214142521283953, 
       "pcode": 8000, 
-      "street": "Kemelstraat", 
-      "lon": 3.2214142521283953
+      "street": "Kemelstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8000, 
-      "street": "Kemelstraat", 
-      "housenumber": "2"
+      "street": "Kemelstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8000, 
-      "street": "Kemelstraat", 
-      "housenumber": "3"
+      "street": "Kemelstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8000, 
-      "street": "Kemelstraat", 
-      "housenumber": "4"
+      "street": "Kemelstraat"
     }, 
     {
-      "lat": 51.206784865643876, 
       "housenumber": "5", 
+      "lat": 51.206784865643876, 
+      "lon": 3.221611104309045, 
       "pcode": 8000, 
-      "street": "Kemelstraat", 
-      "lon": 3.221611104309045
+      "street": "Kemelstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 8000, 
-      "street": "Kemelstraat", 
-      "housenumber": "6"
+      "street": "Kemelstraat"
     }, 
     {
-      "lat": 51.20685222958136, 
       "housenumber": "7", 
+      "lat": 51.20685222958136, 
+      "lon": 3.2216144571432523, 
       "pcode": 8000, 
-      "street": "Kemelstraat", 
-      "lon": 3.2216144571432523
+      "street": "Kemelstraat"
     }, 
     {
-      "lat": 51.206957756478864, 
       "housenumber": "8", 
+      "lat": 51.206957756478864, 
+      "lon": 3.221770998220768, 
       "pcode": 8000, 
-      "street": "Kemelstraat", 
-      "lon": 3.221770998220768
+      "street": "Kemelstraat"
     }, 
     {
-      "lat": 51.206879866394935, 
       "housenumber": "9", 
+      "lat": 51.206879866394935, 
+      "lon": 3.2214980043502104, 
       "pcode": 8000, 
-      "street": "Kemelstraat", 
-      "lon": 3.2214980043502104
+      "street": "Kemelstraat"
     }
-  ], 
-  "name": "Kemelstraat"
+  ]
 }

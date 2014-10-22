@@ -1,18 +1,16 @@
 {
-  "pcode": 3090, 
   "addresses": [
     {
+      "housenumber": "34", 
       "pcode": 3090, 
-      "street": "Kausdelle", 
-      "housenumber": "34"
+      "street": "Kausdelle"
     }, 
     {
-      "lat": 50.78067293020412, 
       "housenumber": "70", 
+      "lat": 50.78067293020412, 
+      "lon": 4.5803044051864275, 
       "pcode": 3090, 
-      "street": "Kausdelle", 
-      "lon": 4.5803044051864275
+      "street": "Kausdelle"
     }
-  ], 
-  "name": "Kausdelle"
+  ]
 }

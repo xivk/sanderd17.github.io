@@ -1,18 +1,16 @@
 {
-  "pcode": 2870, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2870, 
-      "street": "Schuttershofweg", 
-      "housenumber": "1"
+      "street": "Schuttershofweg"
     }, 
     {
-      "lat": 51.07736296444665, 
       "housenumber": "3", 
+      "lat": 51.07736296444665, 
+      "lon": 4.2791859068198494, 
       "pcode": 2870, 
-      "street": "Schuttershofweg", 
-      "lon": 4.2791859068198494
+      "street": "Schuttershofweg"
     }
-  ], 
-  "name": "Schuttershofweg"
+  ]
 }

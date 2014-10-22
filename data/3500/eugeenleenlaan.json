@@ -1,30 +1,28 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.91844509232281, 
       "housenumber": "1", 
+      "lat": 50.91844509232281, 
+      "lon": 5.3440594222740705, 
       "pcode": 3500, 
-      "street": "Eugeen Leenlaan", 
-      "lon": 5.3440594222740705
+      "street": "Eugeen Leenlaan"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3500, 
-      "street": "Eugeen Leenlaan", 
-      "housenumber": "2"
+      "street": "Eugeen Leenlaan"
     }, 
     {
-      "lat": 50.91850101727134, 
       "housenumber": "3", 
+      "lat": 50.91850101727134, 
+      "lon": 5.344166825730488, 
       "pcode": 3500, 
-      "street": "Eugeen Leenlaan", 
-      "lon": 5.344166825730488
+      "street": "Eugeen Leenlaan"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3500, 
-      "street": "Eugeen Leenlaan", 
-      "housenumber": "6"
+      "street": "Eugeen Leenlaan"
     }
-  ], 
-  "name": "Eugeen Leenlaan"
+  ]
 }

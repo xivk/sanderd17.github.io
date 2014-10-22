@@ -1,34 +1,32 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.081623512641784, 
       "housenumber": "1", 
+      "lat": 51.081623512641784, 
+      "lon": 3.7281754747908136, 
       "pcode": 9000, 
-      "street": "Hamburgstraat", 
-      "lon": 3.7281754747908136
+      "street": "Hamburgstraat"
     }, 
     {
-      "lat": 51.08163926343196, 
       "housenumber": "1A", 
+      "lat": 51.08163926343196, 
+      "lon": 3.7281956670926157, 
       "pcode": 9000, 
-      "street": "Hamburgstraat", 
-      "lon": 3.7281956670926157
+      "street": "Hamburgstraat"
     }, 
     {
-      "lat": 51.08160586972956, 
       "housenumber": "3", 
+      "lat": 51.08160586972956, 
+      "lon": 3.7280385701331733, 
       "pcode": 9000, 
-      "street": "Hamburgstraat", 
-      "lon": 3.7280385701331733
+      "street": "Hamburgstraat"
     }, 
     {
-      "lat": 51.08180547440996, 
       "housenumber": "4", 
+      "lat": 51.08180547440996, 
+      "lon": 3.727848171734768, 
       "pcode": 9000, 
-      "street": "Hamburgstraat", 
-      "lon": 3.727848171734768
+      "street": "Hamburgstraat"
     }
-  ], 
-  "name": "Hamburgstraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
-      "lat": 51.21284870173817, 
       "housenumber": "1", 
+      "lat": 51.21284870173817, 
+      "lon": 5.382459984464391, 
       "pcode": 3900, 
-      "street": "Tijmstraat", 
-      "lon": 5.382459984464391
+      "street": "Tijmstraat"
     }, 
     {
-      "lat": 51.21281458212809, 
       "housenumber": "3", 
+      "lat": 51.21281458212809, 
+      "lon": 5.382298230786314, 
       "pcode": 3900, 
-      "street": "Tijmstraat", 
-      "lon": 5.382298230786314
+      "street": "Tijmstraat"
     }, 
     {
-      "lat": 51.21337972979838, 
       "housenumber": "8", 
+      "lat": 51.21337972979838, 
+      "lon": 5.382969317883444, 
       "pcode": 3900, 
-      "street": "Tijmstraat", 
-      "lon": 5.382969317883444
+      "street": "Tijmstraat"
     }
-  ], 
-  "name": "Tijmstraat"
+  ]
 }

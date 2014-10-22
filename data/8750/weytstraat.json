@@ -1,20 +1,18 @@
 {
-  "pcode": 8750, 
   "addresses": [
     {
-      "lat": 51.06577674214184, 
       "housenumber": "1", 
+      "lat": 51.06577674214184, 
+      "lon": 3.299197049067336, 
       "pcode": 8750, 
-      "street": "Weytstraat", 
-      "lon": 3.299197049067336
+      "street": "Weytstraat"
     }, 
     {
-      "lat": 51.06708073991685, 
       "housenumber": "2", 
+      "lat": 51.06708073991685, 
+      "lon": 3.299843972190174, 
       "pcode": 8750, 
-      "street": "Weytstraat", 
-      "lon": 3.299843972190174
+      "street": "Weytstraat"
     }
-  ], 
-  "name": "Weytstraat"
+  ]
 }

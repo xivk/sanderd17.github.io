@@ -1,25 +1,23 @@
 {
-  "pcode": 8510, 
   "addresses": [
     {
-      "lat": 50.746668925372276, 
       "housenumber": "1", 
+      "lat": 50.746668925372276, 
+      "lon": 3.332859314589971, 
       "pcode": 8510, 
-      "street": "Tontestraat", 
-      "lon": 3.332859314589971
+      "street": "Tontestraat"
     }, 
     {
-      "lat": 50.74471151191119, 
       "housenumber": "2", 
+      "lat": 50.74471151191119, 
+      "lon": 3.339867858186055, 
       "pcode": 8510, 
-      "street": "Tontestraat", 
-      "lon": 3.339867858186055
+      "street": "Tontestraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 8510, 
-      "street": "Tontestraat", 
-      "housenumber": "6"
+      "street": "Tontestraat"
     }
-  ], 
-  "name": "Tontestraat"
+  ]
 }

@@ -1,51 +1,49 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
-      "lat": 51.02778273531131, 
       "housenumber": "1", 
+      "lat": 51.02778273531131, 
+      "lon": 4.479721001605204, 
       "pcode": 2800, 
-      "street": "Schoenmarkt", 
-      "lon": 4.479721001605204
+      "street": "Schoenmarkt"
     }, 
     {
-      "lat": 51.02774994206818, 
       "housenumber": "2", 
+      "lat": 51.02774994206818, 
+      "lon": 4.479703390675152, 
       "pcode": 2800, 
-      "street": "Schoenmarkt", 
-      "lon": 4.479703390675152
+      "street": "Schoenmarkt"
     }, 
     {
-      "lat": 51.0277167961535, 
       "housenumber": "3", 
+      "lat": 51.0277167961535, 
+      "lon": 4.479678509265725, 
       "pcode": 2800, 
-      "street": "Schoenmarkt", 
-      "lon": 4.479678509265725
+      "street": "Schoenmarkt"
     }, 
     {
+      "housenumber": "31", 
       "pcode": 2800, 
-      "street": "Schoenmarkt", 
-      "housenumber": "31"
+      "street": "Schoenmarkt"
     }, 
     {
-      "lat": 51.027619570670765, 
       "housenumber": "4", 
+      "lat": 51.027619570670765, 
+      "lon": 4.479735579439525, 
       "pcode": 2800, 
-      "street": "Schoenmarkt", 
-      "lon": 4.479735579439525
+      "street": "Schoenmarkt"
     }, 
     {
-      "lat": 51.02773296285065, 
       "housenumber": "5", 
+      "lat": 51.02773296285065, 
+      "lon": 4.479408002200811, 
       "pcode": 2800, 
-      "street": "Schoenmarkt", 
-      "lon": 4.479408002200811
+      "street": "Schoenmarkt"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2800, 
-      "street": "Schoenmarkt", 
-      "housenumber": "6"
+      "street": "Schoenmarkt"
     }
-  ], 
-  "name": "Schoenmarkt"
+  ]
 }

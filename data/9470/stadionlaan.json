@@ -1,23 +1,21 @@
 {
-  "pcode": 9470, 
   "addresses": [
     {
-      "lat": 50.8844150299596, 
       "housenumber": "1", 
+      "lat": 50.8844150299596, 
+      "lon": 4.073420111833443, 
       "pcode": 9470, 
-      "street": "Stadionlaan", 
-      "lon": 4.073420111833443
+      "street": "Stadionlaan"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9470, 
-      "street": "Stadionlaan", 
-      "housenumber": "3"
+      "street": "Stadionlaan"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9470, 
-      "street": "Stadionlaan", 
-      "housenumber": "5"
+      "street": "Stadionlaan"
     }
-  ], 
-  "name": "Stadionlaan"
+  ]
 }

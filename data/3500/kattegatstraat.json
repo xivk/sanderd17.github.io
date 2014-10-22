@@ -1,37 +1,35 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.93375959443558, 
       "housenumber": "1", 
+      "lat": 50.93375959443558, 
+      "lon": 5.337523480653132, 
       "pcode": 3500, 
-      "street": "Kattegatstraat", 
-      "lon": 5.337523480653132
+      "street": "Kattegatstraat"
     }, 
     {
-      "lat": 50.93347791975136, 
       "housenumber": "4", 
+      "lat": 50.93347791975136, 
+      "lon": 5.337111342795332, 
       "pcode": 3500, 
-      "street": "Kattegatstraat", 
-      "lon": 5.337111342795332
+      "street": "Kattegatstraat"
     }, 
     {
-      "lat": 50.93349076969113, 
       "housenumber": "6", 
+      "lat": 50.93349076969113, 
+      "lon": 5.3370575463239325, 
       "pcode": 3500, 
-      "street": "Kattegatstraat", 
-      "lon": 5.3370575463239325
+      "street": "Kattegatstraat"
     }, 
     {
+      "housenumber": "68", 
       "pcode": 3500, 
-      "street": "Kattegatstraat", 
-      "housenumber": "68"
+      "street": "Kattegatstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3500, 
-      "street": "Kattegatstraat", 
-      "housenumber": "8"
+      "street": "Kattegatstraat"
     }
-  ], 
-  "name": "Kattegatstraat"
+  ]
 }

@@ -1,48 +1,46 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 8800, 
-      "street": "Louis Tantstraat", 
-      "housenumber": "10"
+      "street": "Louis Tantstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8800, 
-      "street": "Louis Tantstraat", 
-      "housenumber": "2"
+      "street": "Louis Tantstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8800, 
-      "street": "Louis Tantstraat", 
-      "housenumber": "3"
+      "street": "Louis Tantstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8800, 
-      "street": "Louis Tantstraat", 
-      "housenumber": "4"
+      "street": "Louis Tantstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8800, 
-      "street": "Louis Tantstraat", 
-      "housenumber": "5"
+      "street": "Louis Tantstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 8800, 
-      "street": "Louis Tantstraat", 
-      "housenumber": "6"
+      "street": "Louis Tantstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8800, 
-      "street": "Louis Tantstraat", 
-      "housenumber": "7"
+      "street": "Louis Tantstraat"
     }, 
     {
-      "lat": 50.95104954924054, 
       "housenumber": "8", 
+      "lat": 50.95104954924054, 
+      "lon": 3.125466133798661, 
       "pcode": 8800, 
-      "street": "Louis Tantstraat", 
-      "lon": 3.125466133798661
+      "street": "Louis Tantstraat"
     }
-  ], 
-  "name": "Louis Tantstraat"
+  ]
 }

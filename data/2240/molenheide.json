@@ -1,20 +1,18 @@
 {
-  "pcode": 2240, 
   "addresses": [
     {
-      "lat": 51.22687378288317, 
       "housenumber": "95", 
+      "lat": 51.22687378288317, 
+      "lon": 4.69817050965111, 
       "pcode": 2240, 
-      "street": "Molenheide", 
-      "lon": 4.69817050965111
+      "street": "Molenheide"
     }, 
     {
-      "lat": 51.22721156248354, 
       "housenumber": "97_1", 
+      "lat": 51.22721156248354, 
+      "lon": 4.69855898658715, 
       "pcode": 2240, 
-      "street": "Molenheide", 
-      "lon": 4.69855898658715
+      "street": "Molenheide"
     }
-  ], 
-  "name": "Molenheide"
+  ]
 }

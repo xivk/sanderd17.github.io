@@ -1,20 +1,18 @@
 {
-  "pcode": 2350, 
   "addresses": [
     {
-      "lat": 51.31163368429586, 
       "housenumber": "1", 
+      "lat": 51.31163368429586, 
+      "lon": 4.872144286447963, 
       "pcode": 2350, 
-      "street": "Krekelweg", 
-      "lon": 4.872144286447963
+      "street": "Krekelweg"
     }, 
     {
-      "lat": 51.31208797155012, 
       "housenumber": "2", 
+      "lat": 51.31208797155012, 
+      "lon": 4.872477344635168, 
       "pcode": 2350, 
-      "street": "Krekelweg", 
-      "lon": 4.872477344635168
+      "street": "Krekelweg"
     }
-  ], 
-  "name": "Krekelweg"
+  ]
 }

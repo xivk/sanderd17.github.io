@@ -1,25 +1,23 @@
 {
-  "pcode": 2540, 
   "addresses": [
     {
-      "lat": 51.14778859522884, 
       "housenumber": "25", 
+      "lat": 51.14778859522884, 
+      "lon": 4.487612813222822, 
       "pcode": 2540, 
-      "street": "Lauwhoevestraat", 
-      "lon": 4.487612813222822
+      "street": "Lauwhoevestraat"
     }, 
     {
+      "housenumber": "25A", 
       "pcode": 2540, 
-      "street": "Lauwhoevestraat", 
-      "housenumber": "25A"
+      "street": "Lauwhoevestraat"
     }, 
     {
-      "lat": 51.14712682423676, 
       "housenumber": "5", 
+      "lat": 51.14712682423676, 
+      "lon": 4.485760903800658, 
       "pcode": 2540, 
-      "street": "Lauwhoevestraat", 
-      "lon": 4.485760903800658
+      "street": "Lauwhoevestraat"
     }
-  ], 
-  "name": "Lauwhoevestraat"
+  ]
 }

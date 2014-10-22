@@ -1,20 +1,18 @@
 {
-  "pcode": 1980, 
   "addresses": [
     {
-      "lat": 50.961715367527596, 
       "housenumber": "10", 
+      "lat": 50.961715367527596, 
+      "lon": 4.475099128766945, 
       "pcode": 1980, 
-      "street": "Steenvaartdreef", 
-      "lon": 4.475099128766945
+      "street": "Steenvaartdreef"
     }, 
     {
-      "lat": 50.96524789631336, 
       "housenumber": "126", 
+      "lat": 50.96524789631336, 
+      "lon": 4.471439338682068, 
       "pcode": 1980, 
-      "street": "Steenvaartdreef", 
-      "lon": 4.471439338682068
+      "street": "Steenvaartdreef"
     }
-  ], 
-  "name": "Steenvaartdreef"
+  ]
 }

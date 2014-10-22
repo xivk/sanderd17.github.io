@@ -1,34 +1,32 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.335439717002664, 
       "housenumber": "1", 
+      "lat": 51.335439717002664, 
+      "lon": 3.294548582454035, 
       "pcode": 8300, 
-      "street": "Hof ter Smisse", 
-      "lon": 3.294548582454035
+      "street": "Hof ter Smisse"
     }, 
     {
-      "lat": 51.335443982877834, 
       "housenumber": "2", 
+      "lat": 51.335443982877834, 
+      "lon": 3.2942058052674983, 
       "pcode": 8300, 
-      "street": "Hof ter Smisse", 
-      "lon": 3.2942058052674983
+      "street": "Hof ter Smisse"
     }, 
     {
-      "lat": 51.33535853390911, 
       "housenumber": "4", 
+      "lat": 51.33535853390911, 
+      "lon": 3.2942394917485407, 
       "pcode": 8300, 
-      "street": "Hof ter Smisse", 
-      "lon": 3.2942394917485407
+      "street": "Hof ter Smisse"
     }, 
     {
-      "lat": 51.33523596368412, 
       "housenumber": "6", 
+      "lat": 51.33523596368412, 
+      "lon": 3.294253658207472, 
       "pcode": 8300, 
-      "street": "Hof ter Smisse", 
-      "lon": 3.294253658207472
+      "street": "Hof ter Smisse"
     }
-  ], 
-  "name": "Hof ter Smisse"
+  ]
 }

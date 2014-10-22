@@ -1,37 +1,35 @@
 {
-  "pcode": 3724, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3724, 
-      "street": "Brullenstraat", 
-      "housenumber": "1"
+      "street": "Brullenstraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 3724, 
-      "street": "Brullenstraat", 
-      "housenumber": "1A"
+      "street": "Brullenstraat"
     }, 
     {
-      "lat": 50.83273973797891, 
       "housenumber": "2", 
+      "lat": 50.83273973797891, 
+      "lon": 5.437351980521283, 
       "pcode": 3724, 
-      "street": "Brullenstraat", 
-      "lon": 5.437351980521283
+      "street": "Brullenstraat"
     }, 
     {
-      "lat": 50.83226663266594, 
       "housenumber": "4", 
+      "lat": 50.83226663266594, 
+      "lon": 5.437374583124431, 
       "pcode": 3724, 
-      "street": "Brullenstraat", 
-      "lon": 5.437374583124431
+      "street": "Brullenstraat"
     }, 
     {
-      "lat": 50.83222372717061, 
       "housenumber": "6", 
+      "lat": 50.83222372717061, 
+      "lon": 5.4372191501757134, 
       "pcode": 3724, 
-      "street": "Brullenstraat", 
-      "lon": 5.4372191501757134
+      "street": "Brullenstraat"
     }
-  ], 
-  "name": "Brullenstraat"
+  ]
 }

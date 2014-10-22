@@ -1,32 +1,30 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.058484344216915, 
       "housenumber": "1", 
+      "lat": 51.058484344216915, 
+      "lon": 3.719786360437059, 
       "pcode": 9000, 
-      "street": "Augustijnenkaai", 
-      "lon": 3.719786360437059
+      "street": "Augustijnenkaai"
     }, 
     {
-      "lat": 51.05864408772041, 
       "housenumber": "2", 
+      "lat": 51.05864408772041, 
+      "lon": 3.7199668715815415, 
       "pcode": 9000, 
-      "street": "Augustijnenkaai", 
-      "lon": 3.7199668715815415
+      "street": "Augustijnenkaai"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9000, 
-      "street": "Augustijnenkaai", 
-      "housenumber": "3"
+      "street": "Augustijnenkaai"
     }, 
     {
-      "lat": 51.05876911945404, 
       "housenumber": "4", 
+      "lat": 51.05876911945404, 
+      "lon": 3.719573158790087, 
       "pcode": 9000, 
-      "street": "Augustijnenkaai", 
-      "lon": 3.719573158790087
+      "street": "Augustijnenkaai"
     }
-  ], 
-  "name": "Augustijnenkaai"
+  ]
 }

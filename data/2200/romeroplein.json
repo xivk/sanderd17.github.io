@@ -1,69 +1,67 @@
 {
-  "pcode": 2200, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2200, 
-      "street": "Romeroplein", 
-      "housenumber": "1"
+      "street": "Romeroplein"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 2200, 
-      "street": "Romeroplein", 
-      "housenumber": "10"
+      "street": "Romeroplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2200, 
-      "street": "Romeroplein", 
-      "housenumber": "2"
+      "street": "Romeroplein"
     }, 
     {
-      "lat": 51.17942512943034, 
       "housenumber": "3", 
+      "lat": 51.17942512943034, 
+      "lon": 4.830847588750121, 
       "pcode": 2200, 
-      "street": "Romeroplein", 
-      "lon": 4.830847588750121
+      "street": "Romeroplein"
     }, 
     {
-      "lat": 51.17903280598586, 
       "housenumber": "301", 
+      "lat": 51.17903280598586, 
+      "lon": 4.830770192729149, 
       "pcode": 2200, 
-      "street": "Romeroplein", 
-      "lon": 4.830770192729149
+      "street": "Romeroplein"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2200, 
-      "street": "Romeroplein", 
-      "housenumber": "4"
+      "street": "Romeroplein"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2200, 
-      "street": "Romeroplein", 
-      "housenumber": "5"
+      "street": "Romeroplein"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2200, 
-      "street": "Romeroplein", 
-      "housenumber": "6"
+      "street": "Romeroplein"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2200, 
-      "street": "Romeroplein", 
-      "housenumber": "7"
+      "street": "Romeroplein"
     }, 
     {
-      "lat": 51.17907105813964, 
       "housenumber": "8", 
+      "lat": 51.17907105813964, 
+      "lon": 4.830344124268539, 
       "pcode": 2200, 
-      "street": "Romeroplein", 
-      "lon": 4.830344124268539
+      "street": "Romeroplein"
     }, 
     {
-      "lat": 51.17911346483876, 
       "housenumber": "9", 
+      "lat": 51.17911346483876, 
+      "lon": 4.831267085149047, 
       "pcode": 2200, 
-      "street": "Romeroplein", 
-      "lon": 4.831267085149047
+      "street": "Romeroplein"
     }
-  ], 
-  "name": "Romeroplein"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3940, 
   "addresses": [
     {
-      "lat": 51.16218213954752, 
       "housenumber": "1", 
+      "lat": 51.16218213954752, 
+      "lon": 5.362009921751749, 
       "pcode": 3940, 
-      "street": "Zandstraat", 
-      "lon": 5.362009921751749
+      "street": "Zandstraat"
     }, 
     {
-      "lat": 51.16315032552527, 
       "housenumber": "3A", 
+      "lat": 51.16315032552527, 
+      "lon": 5.362604411114925, 
       "pcode": 3940, 
-      "street": "Zandstraat", 
-      "lon": 5.362604411114925
+      "street": "Zandstraat"
     }
-  ], 
-  "name": "Zandstraat"
+  ]
 }

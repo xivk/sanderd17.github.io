@@ -1,39 +1,37 @@
 {
-  "pcode": 3920, 
   "addresses": [
     {
-      "lat": 51.2242962753784, 
       "housenumber": "1", 
+      "lat": 51.2242962753784, 
+      "lon": 5.222711343723319, 
       "pcode": 3920, 
-      "street": "Nieuwstraat", 
-      "lon": 5.222711343723319
+      "street": "Nieuwstraat"
     }, 
     {
+      "housenumber": "40", 
       "pcode": 3920, 
-      "street": "Nieuwstraat", 
-      "housenumber": "40"
+      "street": "Nieuwstraat"
     }, 
     {
-      "lat": 51.22717275245273, 
       "housenumber": "5", 
+      "lat": 51.22717275245273, 
+      "lon": 5.221801744793734, 
       "pcode": 3920, 
-      "street": "Nieuwstraat", 
-      "lon": 5.221801744793734
+      "street": "Nieuwstraat"
     }, 
     {
-      "lat": 51.227318288321776, 
       "housenumber": "6", 
+      "lat": 51.227318288321776, 
+      "lon": 5.221751296904201, 
       "pcode": 3920, 
-      "street": "Nieuwstraat", 
-      "lon": 5.221751296904201
+      "street": "Nieuwstraat"
     }, 
     {
-      "lat": 51.227439033059746, 
       "housenumber": "7", 
+      "lat": 51.227439033059746, 
+      "lon": 5.221847708784097, 
       "pcode": 3920, 
-      "street": "Nieuwstraat", 
-      "lon": 5.221847708784097
+      "street": "Nieuwstraat"
     }
-  ], 
-  "name": "Nieuwstraat"
+  ]
 }

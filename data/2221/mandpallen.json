@@ -1,20 +1,18 @@
 {
-  "pcode": 2221, 
   "addresses": [
     {
-      "lat": 51.06082853384976, 
       "housenumber": "1", 
+      "lat": 51.06082853384976, 
+      "lon": 4.773361095799096, 
       "pcode": 2221, 
-      "street": "Mandpallen", 
-      "lon": 4.773361095799096
+      "street": "Mandpallen"
     }, 
     {
-      "lat": 51.060421698685374, 
       "housenumber": "2", 
+      "lat": 51.060421698685374, 
+      "lon": 4.774454504274247, 
       "pcode": 2221, 
-      "street": "Mandpallen", 
-      "lon": 4.774454504274247
+      "street": "Mandpallen"
     }
-  ], 
-  "name": "Mandpallen"
+  ]
 }

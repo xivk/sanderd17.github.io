@@ -1,65 +1,63 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.224830597425786, 
       "housenumber": "1", 
+      "lat": 51.224830597425786, 
+      "lon": 4.407608820949266, 
       "pcode": 2000, 
-      "street": "Varkensmarkt", 
-      "lon": 4.407608820949266
+      "street": "Varkensmarkt"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2000, 
-      "street": "Varkensmarkt", 
-      "housenumber": "2"
+      "street": "Varkensmarkt"
     }, 
     {
-      "lat": 51.22491296993945, 
       "housenumber": "2A", 
+      "lat": 51.22491296993945, 
+      "lon": 4.407221540082294, 
       "pcode": 2000, 
-      "street": "Varkensmarkt", 
-      "lon": 4.407221540082294
+      "street": "Varkensmarkt"
     }, 
     {
-      "lat": 51.22472625726914, 
       "housenumber": "3", 
+      "lat": 51.22472625726914, 
+      "lon": 4.407564357625306, 
       "pcode": 2000, 
-      "street": "Varkensmarkt", 
-      "lon": 4.407564357625306
+      "street": "Varkensmarkt"
     }, 
     {
-      "lat": 51.22485259020757, 
       "housenumber": "4", 
+      "lat": 51.22485259020757, 
+      "lon": 4.407154640672671, 
       "pcode": 2000, 
-      "street": "Varkensmarkt", 
-      "lon": 4.407154640672671
+      "street": "Varkensmarkt"
     }, 
     {
-      "lat": 51.224726562214, 
       "housenumber": "5", 
+      "lat": 51.224726562214, 
+      "lon": 4.407458574050044, 
       "pcode": 2000, 
-      "street": "Varkensmarkt", 
-      "lon": 4.407458574050044
+      "street": "Varkensmarkt"
     }, 
     {
+      "housenumber": "5_1", 
       "pcode": 2000, 
-      "street": "Varkensmarkt", 
-      "housenumber": "5_1"
+      "street": "Varkensmarkt"
     }, 
     {
-      "lat": 51.22477647365064, 
       "housenumber": "6", 
+      "lat": 51.22477647365064, 
+      "lon": 4.407109343115495, 
       "pcode": 2000, 
-      "street": "Varkensmarkt", 
-      "lon": 4.407109343115495
+      "street": "Varkensmarkt"
     }, 
     {
-      "lat": 51.22470229128696, 
       "housenumber": "8", 
+      "lat": 51.22470229128696, 
+      "lon": 4.407194881388457, 
       "pcode": 2000, 
-      "street": "Varkensmarkt", 
-      "lon": 4.407194881388457
+      "street": "Varkensmarkt"
     }
-  ], 
-  "name": "Varkensmarkt"
+  ]
 }

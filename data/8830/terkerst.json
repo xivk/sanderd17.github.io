@@ -1,20 +1,18 @@
 {
-  "pcode": 8830, 
   "addresses": [
     {
-      "lat": 50.99131784304144, 
       "housenumber": "1", 
+      "lat": 50.99131784304144, 
+      "lon": 3.1260982909434074, 
       "pcode": 8830, 
-      "street": "Ter Kerst", 
-      "lon": 3.1260982909434074
+      "street": "Ter Kerst"
     }, 
     {
-      "lat": 50.99310125554844, 
       "housenumber": "2", 
+      "lat": 50.99310125554844, 
+      "lon": 3.124148791780657, 
       "pcode": 8830, 
-      "street": "Ter Kerst", 
-      "lon": 3.124148791780657
+      "street": "Ter Kerst"
     }
-  ], 
-  "name": "Ter Kerst"
+  ]
 }

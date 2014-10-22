@@ -1,20 +1,18 @@
 {
-  "pcode": 3220, 
   "addresses": [
     {
-      "lat": 50.92016875900851, 
       "housenumber": "1", 
+      "lat": 50.92016875900851, 
+      "lon": 4.751685816576989, 
       "pcode": 3220, 
-      "street": "Zichtstraat", 
-      "lon": 4.751685816576989
+      "street": "Zichtstraat"
     }, 
     {
-      "lat": 50.92112034426706, 
       "housenumber": "2", 
+      "lat": 50.92112034426706, 
+      "lon": 4.750815241658897, 
       "pcode": 3220, 
-      "street": "Zichtstraat", 
-      "lon": 4.750815241658897
+      "street": "Zichtstraat"
     }
-  ], 
-  "name": "Zichtstraat"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2030, 
-      "street": "Moerstraat", 
-      "housenumber": "1"
+      "street": "Moerstraat"
     }, 
     {
-      "lat": 51.300573931615666, 
       "housenumber": "2", 
+      "lat": 51.300573931615666, 
+      "lon": 4.335931229311476, 
       "pcode": 2030, 
-      "street": "Moerstraat", 
-      "lon": 4.335931229311476
+      "street": "Moerstraat"
     }, 
     {
-      "lat": 51.30355858432245, 
       "housenumber": "26", 
+      "lat": 51.30355858432245, 
+      "lon": 4.340864836470052, 
       "pcode": 2030, 
-      "street": "Moerstraat", 
-      "lon": 4.340864836470052
+      "street": "Moerstraat"
     }, 
     {
-      "lat": 51.30638024738954, 
       "housenumber": "99", 
+      "lat": 51.30638024738954, 
+      "lon": 4.342225303498304, 
       "pcode": 2030, 
-      "street": "Moerstraat", 
-      "lon": 4.342225303498304
+      "street": "Moerstraat"
     }
-  ], 
-  "name": "Moerstraat"
+  ]
 }

@@ -1,37 +1,35 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
+      "housenumber": "1002F", 
       "pcode": 3800, 
-      "street": "Speelhoflaan", 
-      "housenumber": "1002F"
+      "street": "Speelhoflaan"
     }, 
     {
-      "lat": 50.82004684022549, 
       "housenumber": "2", 
+      "lat": 50.82004684022549, 
+      "lon": 5.191729652185268, 
       "pcode": 3800, 
-      "street": "Speelhoflaan", 
-      "lon": 5.191729652185268
+      "street": "Speelhoflaan"
     }, 
     {
-      "lat": 50.823381263092735, 
       "housenumber": "5", 
+      "lat": 50.823381263092735, 
+      "lon": 5.1913862415624905, 
       "pcode": 3800, 
-      "street": "Speelhoflaan", 
-      "lon": 5.1913862415624905
+      "street": "Speelhoflaan"
     }, 
     {
-      "lat": 50.823574001579736, 
       "housenumber": "9", 
+      "lat": 50.823574001579736, 
+      "lon": 5.188566867877307, 
       "pcode": 3800, 
-      "street": "Speelhoflaan", 
-      "lon": 5.188566867877307
+      "street": "Speelhoflaan"
     }, 
     {
+      "housenumber": "9A", 
       "pcode": 3800, 
-      "street": "Speelhoflaan", 
-      "housenumber": "9A"
+      "street": "Speelhoflaan"
     }
-  ], 
-  "name": "Speelhoflaan"
+  ]
 }

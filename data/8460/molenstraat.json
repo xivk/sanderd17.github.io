@@ -1,37 +1,35 @@
 {
-  "pcode": 8460, 
   "addresses": [
     {
-      "lat": 51.16264249675682, 
       "housenumber": "1", 
+      "lat": 51.16264249675682, 
+      "lon": 3.0018451168885987, 
       "pcode": 8460, 
-      "street": "Molenstraat", 
-      "lon": 3.0018451168885987
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 51.16232512330725, 
       "housenumber": "2", 
+      "lat": 51.16232512330725, 
+      "lon": 3.00417607220859, 
       "pcode": 8460, 
-      "street": "Molenstraat", 
-      "lon": 3.00417607220859
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 51.161794097930525, 
       "housenumber": "3", 
+      "lat": 51.161794097930525, 
+      "lon": 3.0029720033518434, 
       "pcode": 8460, 
-      "street": "Molenstraat", 
-      "lon": 3.0029720033518434
+      "street": "Molenstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8460, 
-      "street": "Molenstraat", 
-      "housenumber": "5"
+      "street": "Molenstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8460, 
-      "street": "Molenstraat", 
-      "housenumber": "7"
+      "street": "Molenstraat"
     }
-  ], 
-  "name": "Molenstraat"
+  ]
 }

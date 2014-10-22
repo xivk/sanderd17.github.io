@@ -1,27 +1,25 @@
 {
-  "pcode": 3140, 
   "addresses": [
     {
-      "lat": 51.00278678382912, 
       "housenumber": "1", 
-      "pcode": 3140, 
-      "street": "Rattenbergstraat", 
-      "lon": 4.605022963916695
-    }, 
-    {
       "lat": 51.00278678382912, 
-      "housenumber": "1A", 
+      "lon": 4.605022963916695, 
       "pcode": 3140, 
-      "street": "Rattenbergstraat", 
-      "lon": 4.605022963916695
+      "street": "Rattenbergstraat"
     }, 
     {
-      "lat": 51.003699351706715, 
-      "housenumber": "3", 
+      "housenumber": "1A", 
+      "lat": 51.00278678382912, 
+      "lon": 4.605022963916695, 
       "pcode": 3140, 
-      "street": "Rattenbergstraat", 
-      "lon": 4.604938108585606
+      "street": "Rattenbergstraat"
+    }, 
+    {
+      "housenumber": "3", 
+      "lat": 51.003699351706715, 
+      "lon": 4.604938108585606, 
+      "pcode": 3140, 
+      "street": "Rattenbergstraat"
     }
-  ], 
-  "name": "Rattenbergstraat"
+  ]
 }

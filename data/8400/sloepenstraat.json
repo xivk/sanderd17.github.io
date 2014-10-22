@@ -1,25 +1,23 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.21690721613598, 
       "housenumber": "1", 
+      "lat": 51.21690721613598, 
+      "lon": 2.9472163130076523, 
       "pcode": 8400, 
-      "street": "Sloepenstraat", 
-      "lon": 2.9472163130076523
+      "street": "Sloepenstraat"
     }, 
     {
+      "housenumber": "1D", 
       "pcode": 8400, 
-      "street": "Sloepenstraat", 
-      "housenumber": "1D"
+      "street": "Sloepenstraat"
     }, 
     {
-      "lat": 51.21702493343143, 
       "housenumber": "3", 
+      "lat": 51.21702493343143, 
+      "lon": 2.944999670523369, 
       "pcode": 8400, 
-      "street": "Sloepenstraat", 
-      "lon": 2.944999670523369
+      "street": "Sloepenstraat"
     }
-  ], 
-  "name": "Sloepenstraat"
+  ]
 }

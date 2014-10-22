@@ -1,76 +1,76 @@
 {
   "streets": [
     {
-      "latmax": 50.84010261404908, 
+      "b": 50.84010261404908, 
+      "l": 5.453337520919771, 
       "name": "Geerstraat", 
-      "lonmin": 5.453337520919771, 
-      "sanName": "geerstraat", 
       "numOfAddr": 1, 
-      "lonmax": 5.453337520919771, 
-      "latmin": 50.84010261404908
+      "r": 5.453337520919771, 
+      "sanName": "geerstraat", 
+      "t": 50.84010261404908
     }, 
     {
-      "latmax": 50.841984590592894, 
+      "b": 50.84127347716389, 
+      "l": 5.446555451093377, 
       "name": "Grootveldstraat", 
-      "lonmin": 5.446555451093377, 
+      "numOfAddr": 3, 
+      "r": 5.448866101181524, 
       "sanName": "grootveldstraat", 
-      "numOfAddr": 3, 
-      "lonmax": 5.448866101181524, 
-      "latmin": 50.84127347716389
+      "t": 50.841984590592894
     }, 
     {
-      "latmax": 50.84143511999924, 
+      "b": 50.83681212189182, 
+      "l": 5.444794470331023, 
       "name": "Hertstraat", 
-      "lonmin": 5.444794470331023, 
-      "sanName": "hertstraat", 
       "numOfAddr": 38, 
-      "lonmax": 5.449217841044622, 
-      "latmin": 50.83681212189182
+      "r": 5.449217841044622, 
+      "sanName": "hertstraat", 
+      "t": 50.84143511999924
     }, 
     {
-      "latmax": 50.836621793620324, 
+      "b": 50.83515028624874, 
+      "l": 5.443169639486241, 
       "name": "Klikstraat", 
-      "lonmin": 5.443169639486241, 
-      "sanName": "klikstraat", 
       "numOfAddr": 2, 
-      "lonmax": 5.444987949792483, 
-      "latmin": 50.83515028624874
+      "r": 5.444987949792483, 
+      "sanName": "klikstraat", 
+      "t": 50.836621793620324
     }, 
     {
-      "latmax": 50.83729095197566, 
+      "b": 50.83600823927173, 
+      "l": 5.44676027944547, 
       "name": "Lindenhofstraat", 
-      "lonmin": 5.44676027944547, 
-      "sanName": "lindenhofstraat", 
       "numOfAddr": 3, 
-      "lonmax": 5.448789313816138, 
-      "latmin": 50.83600823927173
+      "r": 5.448789313816138, 
+      "sanName": "lindenhofstraat", 
+      "t": 50.83729095197566
     }, 
     {
-      "latmax": 50.84363420091861, 
+      "b": 50.84141851929783, 
+      "l": 5.449830745782842, 
       "name": "Plasstraat", 
-      "lonmin": 5.449830745782842, 
-      "sanName": "plasstraat", 
       "numOfAddr": 20, 
-      "lonmax": 5.456004708126092, 
-      "latmin": 50.84141851929783
+      "r": 5.456004708126092, 
+      "sanName": "plasstraat", 
+      "t": 50.84363420091861
     }, 
     {
-      "latmax": 50.84543589113324, 
+      "b": 50.83685583837787, 
+      "l": 5.446131647638067, 
       "name": "Schalkhovenstraat", 
-      "lonmin": 5.446131647638067, 
-      "sanName": "schalkhovenstraat", 
       "numOfAddr": 54, 
-      "lonmax": 5.4514672451489945, 
-      "latmin": 50.83685583837787
+      "r": 5.4514672451489945, 
+      "sanName": "schalkhovenstraat", 
+      "t": 50.84543589113324
     }, 
     {
-      "latmax": 50.842457931404226, 
+      "b": 50.84208888730121, 
+      "l": 5.449765766234164, 
       "name": "Teugelveldstraat", 
-      "lonmin": 5.449765766234164, 
-      "sanName": "teugelveldstraat", 
       "numOfAddr": 4, 
-      "lonmax": 5.450800192106125, 
-      "latmin": 50.84208888730121
+      "r": 5.450800192106125, 
+      "sanName": "teugelveldstraat", 
+      "t": 50.842457931404226
     }
   ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 1731, 
   "addresses": [
     {
-      "lat": 50.894064627834915, 
       "housenumber": "1", 
+      "lat": 50.894064627834915, 
+      "lon": 4.269352709361429, 
       "pcode": 1731, 
-      "street": "Oude Merchtemsebaan", 
-      "lon": 4.269352709361429
+      "street": "Oude Merchtemsebaan"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 1731, 
-      "street": "Oude Merchtemsebaan", 
-      "housenumber": "1A"
+      "street": "Oude Merchtemsebaan"
     }
-  ], 
-  "name": "Oude Merchtemsebaan"
+  ]
 }

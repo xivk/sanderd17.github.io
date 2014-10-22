@@ -1,20 +1,18 @@
 {
-  "pcode": 2990, 
   "addresses": [
     {
-      "lat": 51.38674128130147, 
       "housenumber": "1", 
+      "lat": 51.38674128130147, 
+      "lon": 4.589073744349467, 
       "pcode": 2990, 
-      "street": "Schutsdijk", 
-      "lon": 4.589073744349467
+      "street": "Schutsdijk"
     }, 
     {
-      "lat": 51.38437645461491, 
       "housenumber": "16", 
+      "lat": 51.38437645461491, 
+      "lon": 4.589242328410656, 
       "pcode": 2990, 
-      "street": "Schutsdijk", 
-      "lon": 4.589242328410656
+      "street": "Schutsdijk"
     }
-  ], 
-  "name": "Schutsdijk"
+  ]
 }

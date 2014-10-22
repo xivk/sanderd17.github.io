@@ -1,39 +1,37 @@
 {
-  "pcode": 3391, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3391, 
-      "street": "Nijselrodestraat", 
-      "housenumber": "1"
+      "street": "Nijselrodestraat"
     }, 
     {
-      "lat": 50.88333936801303, 
       "housenumber": "2", 
+      "lat": 50.88333936801303, 
+      "lon": 4.910941076127274, 
       "pcode": 3391, 
-      "street": "Nijselrodestraat", 
-      "lon": 4.910941076127274
+      "street": "Nijselrodestraat"
     }, 
     {
-      "lat": 50.883083490199326, 
       "housenumber": "4", 
+      "lat": 50.883083490199326, 
+      "lon": 4.911880146909743, 
       "pcode": 3391, 
-      "street": "Nijselrodestraat", 
-      "lon": 4.911880146909743
+      "street": "Nijselrodestraat"
     }, 
     {
-      "lat": 50.88276618917345, 
       "housenumber": "6", 
+      "lat": 50.88276618917345, 
+      "lon": 4.912260728388507, 
       "pcode": 3391, 
-      "street": "Nijselrodestraat", 
-      "lon": 4.912260728388507
+      "street": "Nijselrodestraat"
     }, 
     {
-      "lat": 50.881895920712104, 
       "housenumber": "8", 
+      "lat": 50.881895920712104, 
+      "lon": 4.91142189788694, 
       "pcode": 3391, 
-      "street": "Nijselrodestraat", 
-      "lon": 4.91142189788694
+      "street": "Nijselrodestraat"
     }
-  ], 
-  "name": "Nijselrodestraat"
+  ]
 }

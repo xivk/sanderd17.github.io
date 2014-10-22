@@ -1,20 +1,18 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.901504875051636, 
       "housenumber": "2", 
+      "lat": 50.901504875051636, 
+      "lon": 3.111039213464919, 
       "pcode": 8800, 
-      "street": "Moorsleedsesteenweg", 
-      "lon": 3.111039213464919
+      "street": "Moorsleedsesteenweg"
     }, 
     {
-      "lat": 50.9015938389788, 
       "housenumber": "4", 
+      "lat": 50.9015938389788, 
+      "lon": 3.1105313824393206, 
       "pcode": 8800, 
-      "street": "Moorsleedsesteenweg", 
-      "lon": 3.1105313824393206
+      "street": "Moorsleedsesteenweg"
     }
-  ], 
-  "name": "Moorsleedsesteenweg"
+  ]
 }

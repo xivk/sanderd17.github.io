@@ -1,20 +1,18 @@
 {
-  "pcode": 3530, 
   "addresses": [
     {
-      "lat": 51.07548140395764, 
       "housenumber": "1", 
+      "lat": 51.07548140395764, 
+      "lon": 5.411292887766765, 
       "pcode": 3530, 
-      "street": "Kanonstraat", 
-      "lon": 5.411292887766765
+      "street": "Kanonstraat"
     }, 
     {
-      "lat": 51.07778187281128, 
       "housenumber": "2", 
+      "lat": 51.07778187281128, 
+      "lon": 5.4140325512709495, 
       "pcode": 3530, 
-      "street": "Kanonstraat", 
-      "lon": 5.4140325512709495
+      "street": "Kanonstraat"
     }
-  ], 
-  "name": "Kanonstraat"
+  ]
 }

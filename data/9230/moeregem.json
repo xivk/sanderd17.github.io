@@ -1,20 +1,18 @@
 {
-  "pcode": 9230, 
   "addresses": [
     {
-      "lat": 50.995389570563354, 
       "housenumber": "12", 
+      "lat": 50.995389570563354, 
+      "lon": 3.8626425992990328, 
       "pcode": 9230, 
-      "street": "Moeregem", 
-      "lon": 3.8626425992990328
+      "street": "Moeregem"
     }, 
     {
-      "lat": 50.996098398284666, 
       "housenumber": "6", 
+      "lat": 50.996098398284666, 
+      "lon": 3.861330544379616, 
       "pcode": 9230, 
-      "street": "Moeregem", 
-      "lon": 3.861330544379616
+      "street": "Moeregem"
     }
-  ], 
-  "name": "Moeregem"
+  ]
 }

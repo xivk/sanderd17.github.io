@@ -1,25 +1,23 @@
 {
-  "pcode": 1755, 
   "addresses": [
     {
-      "lat": 50.77527996456457, 
       "housenumber": "1", 
+      "lat": 50.77527996456457, 
+      "lon": 4.060739733236076, 
       "pcode": 1755, 
-      "street": "Kouterweg", 
-      "lon": 4.060739733236076
+      "street": "Kouterweg"
     }, 
     {
-      "lat": 50.77802399818086, 
       "housenumber": "11", 
+      "lat": 50.77802399818086, 
+      "lon": 4.054499902938488, 
       "pcode": 1755, 
-      "street": "Kouterweg", 
-      "lon": 4.054499902938488
+      "street": "Kouterweg"
     }, 
     {
+      "housenumber": "20B", 
       "pcode": 1755, 
-      "street": "Kouterweg", 
-      "housenumber": "20B"
+      "street": "Kouterweg"
     }
-  ], 
-  "name": "Kouterweg"
+  ]
 }

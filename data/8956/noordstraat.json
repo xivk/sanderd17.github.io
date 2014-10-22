@@ -1,32 +1,30 @@
 {
-  "pcode": 8956, 
   "addresses": [
     {
-      "lat": 50.79106823002329, 
       "housenumber": "2", 
+      "lat": 50.79106823002329, 
+      "lon": 2.806874938971115, 
       "pcode": 8956, 
-      "street": "Noordstraat", 
-      "lon": 2.806874938971115
+      "street": "Noordstraat"
     }, 
     {
-      "lat": 50.790103816666885, 
       "housenumber": "4", 
+      "lat": 50.790103816666885, 
+      "lon": 2.8050973021414083, 
       "pcode": 8956, 
-      "street": "Noordstraat", 
-      "lon": 2.8050973021414083
+      "street": "Noordstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8956, 
-      "street": "Noordstraat", 
-      "housenumber": "5"
+      "street": "Noordstraat"
     }, 
     {
-      "lat": 50.788978643230685, 
       "housenumber": "6", 
+      "lat": 50.788978643230685, 
+      "lon": 2.8028582517753957, 
       "pcode": 8956, 
-      "street": "Noordstraat", 
-      "lon": 2.8028582517753957
+      "street": "Noordstraat"
     }
-  ], 
-  "name": "Noordstraat"
+  ]
 }

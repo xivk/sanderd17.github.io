@@ -1,59 +1,57 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 9000, 
-      "street": "Oranjeberg", 
-      "housenumber": "11"
+      "street": "Oranjeberg"
     }, 
     {
-      "lat": 51.05169226273288, 
       "housenumber": "13", 
+      "lat": 51.05169226273288, 
+      "lon": 3.726541687438654, 
       "pcode": 9000, 
-      "street": "Oranjeberg", 
-      "lon": 3.726541687438654
+      "street": "Oranjeberg"
     }, 
     {
+      "housenumber": "15", 
       "pcode": 9000, 
-      "street": "Oranjeberg", 
-      "housenumber": "15"
+      "street": "Oranjeberg"
     }, 
     {
-      "lat": 51.05168943452822, 
       "housenumber": "17", 
+      "lat": 51.05168943452822, 
+      "lon": 3.72655056868505, 
       "pcode": 9000, 
-      "street": "Oranjeberg", 
-      "lon": 3.72655056868505
+      "street": "Oranjeberg"
     }, 
     {
+      "housenumber": "19", 
       "pcode": 9000, 
-      "street": "Oranjeberg", 
-      "housenumber": "19"
+      "street": "Oranjeberg"
     }, 
     {
+      "housenumber": "21", 
       "pcode": 9000, 
-      "street": "Oranjeberg", 
-      "housenumber": "21"
+      "street": "Oranjeberg"
     }, 
     {
-      "lat": 51.051770717126814, 
       "housenumber": "5", 
+      "lat": 51.051770717126814, 
+      "lon": 3.726207592289838, 
       "pcode": 9000, 
-      "street": "Oranjeberg", 
-      "lon": 3.726207592289838
+      "street": "Oranjeberg"
     }, 
     {
-      "lat": 51.051749664607314, 
       "housenumber": "7", 
+      "lat": 51.051749664607314, 
+      "lon": 3.726220859519429, 
       "pcode": 9000, 
-      "street": "Oranjeberg", 
-      "lon": 3.726220859519429
+      "street": "Oranjeberg"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 9000, 
-      "street": "Oranjeberg", 
-      "housenumber": "9"
+      "street": "Oranjeberg"
     }
-  ], 
-  "name": "Oranjeberg"
+  ]
 }

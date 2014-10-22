@@ -1,18 +1,16 @@
 {
-  "pcode": 2050, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2050, 
-      "street": "Lepelaarstraat", 
-      "housenumber": "1"
+      "street": "Lepelaarstraat"
     }, 
     {
-      "lat": 51.21702158413019, 
       "housenumber": "3", 
+      "lat": 51.21702158413019, 
+      "lon": 4.371350103038226, 
       "pcode": 2050, 
-      "street": "Lepelaarstraat", 
-      "lon": 4.371350103038226
+      "street": "Lepelaarstraat"
     }
-  ], 
-  "name": "Lepelaarstraat"
+  ]
 }

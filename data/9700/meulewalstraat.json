@@ -1,20 +1,18 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.862837510949824, 
       "housenumber": "10", 
+      "lat": 50.862837510949824, 
+      "lon": 3.6067435716503304, 
       "pcode": 9700, 
-      "street": "Meulewalstraat", 
-      "lon": 3.6067435716503304
+      "street": "Meulewalstraat"
     }, 
     {
-      "lat": 50.86285891776495, 
       "housenumber": "12", 
+      "lat": 50.86285891776495, 
+      "lon": 3.606385117637103, 
       "pcode": 9700, 
-      "street": "Meulewalstraat", 
-      "lon": 3.606385117637103
+      "street": "Meulewalstraat"
     }
-  ], 
-  "name": "Meulewalstraat"
+  ]
 }

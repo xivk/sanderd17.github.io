@@ -1,27 +1,25 @@
 {
-  "pcode": 9850, 
   "addresses": [
     {
-      "lat": 51.06478251322406, 
       "housenumber": "1", 
+      "lat": 51.06478251322406, 
+      "lon": 3.5553799972129365, 
       "pcode": 9850, 
-      "street": "Gaverstraat", 
-      "lon": 3.5553799972129365
+      "street": "Gaverstraat"
     }, 
     {
-      "lat": 51.06299442054363, 
       "housenumber": "2", 
+      "lat": 51.06299442054363, 
+      "lon": 3.55558823767677, 
       "pcode": 9850, 
-      "street": "Gaverstraat", 
-      "lon": 3.55558823767677
+      "street": "Gaverstraat"
     }, 
     {
-      "lat": 51.06177216072864, 
       "housenumber": "4", 
+      "lat": 51.06177216072864, 
+      "lon": 3.5531981717219625, 
       "pcode": 9850, 
-      "street": "Gaverstraat", 
-      "lon": 3.5531981717219625
+      "street": "Gaverstraat"
     }
-  ], 
-  "name": "Gaverstraat"
+  ]
 }

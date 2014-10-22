@@ -1,35 +1,33 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.22192749034129, 
       "housenumber": "1", 
+      "lat": 51.22192749034129, 
+      "lon": 4.400344784505984, 
       "pcode": 2000, 
-      "street": "Spanjepandsteeg", 
-      "lon": 4.400344784505984
+      "street": "Spanjepandsteeg"
     }, 
     {
+      "housenumber": "15", 
       "pcode": 2000, 
-      "street": "Spanjepandsteeg", 
-      "housenumber": "15"
+      "street": "Spanjepandsteeg"
     }, 
     {
-      "lat": 51.22187594866282, 
       "housenumber": "3", 
+      "lat": 51.22187594866282, 
+      "lon": 4.400155093872452, 
       "pcode": 2000, 
-      "street": "Spanjepandsteeg", 
-      "lon": 4.400155093872452
+      "street": "Spanjepandsteeg"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2000, 
-      "street": "Spanjepandsteeg", 
-      "housenumber": "5"
+      "street": "Spanjepandsteeg"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2000, 
-      "street": "Spanjepandsteeg", 
-      "housenumber": "8"
+      "street": "Spanjepandsteeg"
     }
-  ], 
-  "name": "Spanjepandsteeg"
+  ]
 }

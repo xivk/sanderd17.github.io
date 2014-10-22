@@ -1,20 +1,18 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.76036768677893, 
       "housenumber": "19", 
+      "lat": 50.76036768677893, 
+      "lon": 5.526106382894515, 
       "pcode": 3700, 
-      "street": "Sluizermolenweg", 
-      "lon": 5.526106382894515
+      "street": "Sluizermolenweg"
     }, 
     {
-      "lat": 50.76061737140424, 
       "housenumber": "27", 
+      "lat": 50.76061737140424, 
+      "lon": 5.526950271611551, 
       "pcode": 3700, 
-      "street": "Sluizermolenweg", 
-      "lon": 5.526950271611551
+      "street": "Sluizermolenweg"
     }
-  ], 
-  "name": "Sluizermolenweg"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2960, 
   "addresses": [
     {
-      "lat": 51.34848463405013, 
       "housenumber": "1", 
+      "lat": 51.34848463405013, 
+      "lon": 4.639853787478758, 
       "pcode": 2960, 
-      "street": "Gemeentepark", 
-      "lon": 4.639853787478758
+      "street": "Gemeentepark"
     }, 
     {
-      "lat": 51.34882169011139, 
       "housenumber": "2", 
+      "lat": 51.34882169011139, 
+      "lon": 4.638947372031639, 
       "pcode": 2960, 
-      "street": "Gemeentepark", 
-      "lon": 4.638947372031639
+      "street": "Gemeentepark"
     }
-  ], 
-  "name": "Gemeentepark"
+  ]
 }

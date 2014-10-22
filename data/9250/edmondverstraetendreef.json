@@ -1,20 +1,18 @@
 {
-  "pcode": 9250, 
   "addresses": [
     {
-      "lat": 51.11333956674174, 
       "housenumber": "1", 
+      "lat": 51.11333956674174, 
+      "lon": 4.110960009979399, 
       "pcode": 9250, 
-      "street": "Edmond Verstraetendreef", 
-      "lon": 4.110960009979399
+      "street": "Edmond Verstraetendreef"
     }, 
     {
-      "lat": 51.11354252973746, 
       "housenumber": "2", 
+      "lat": 51.11354252973746, 
+      "lon": 4.111742892210896, 
       "pcode": 9250, 
-      "street": "Edmond Verstraetendreef", 
-      "lon": 4.111742892210896
+      "street": "Edmond Verstraetendreef"
     }
-  ], 
-  "name": "Edmond Verstraetendreef"
+  ]
 }

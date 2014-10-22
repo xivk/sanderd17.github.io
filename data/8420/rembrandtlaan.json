@@ -1,58 +1,56 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8420, 
-      "street": "Rembrandtlaan", 
-      "housenumber": "1"
+      "street": "Rembrandtlaan"
     }, 
     {
-      "lat": 51.273632551144175, 
       "housenumber": "2", 
+      "lat": 51.273632551144175, 
+      "lon": 3.0348528048329264, 
       "pcode": 8420, 
-      "street": "Rembrandtlaan", 
-      "lon": 3.0348528048329264
+      "street": "Rembrandtlaan"
     }, 
     {
-      "lat": 51.273729658819704, 
       "housenumber": "4", 
+      "lat": 51.273729658819704, 
+      "lon": 3.0352616348605204, 
       "pcode": 8420, 
-      "street": "Rembrandtlaan", 
-      "lon": 3.0352616348605204
+      "street": "Rembrandtlaan"
     }, 
     {
-      "lat": 51.27377384770719, 
       "housenumber": "5", 
+      "lat": 51.27377384770719, 
+      "lon": 3.0353379054422556, 
       "pcode": 8420, 
-      "street": "Rembrandtlaan", 
-      "lon": 3.0353379054422556
+      "street": "Rembrandtlaan"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 8420, 
-      "street": "Rembrandtlaan", 
-      "housenumber": "6"
+      "street": "Rembrandtlaan"
     }, 
     {
-      "lat": 51.27380688327266, 
       "housenumber": "7", 
+      "lat": 51.27380688327266, 
+      "lon": 3.0355813180570665, 
       "pcode": 8420, 
-      "street": "Rembrandtlaan", 
-      "lon": 3.0355813180570665
+      "street": "Rembrandtlaan"
     }, 
     {
-      "lat": 51.27394192923953, 
       "housenumber": "8", 
+      "lat": 51.27394192923953, 
+      "lon": 3.035822815957433, 
       "pcode": 8420, 
-      "street": "Rembrandtlaan", 
-      "lon": 3.035822815957433
+      "street": "Rembrandtlaan"
     }, 
     {
-      "lat": 51.273964695434074, 
       "housenumber": "9", 
+      "lat": 51.273964695434074, 
+      "lon": 3.03589669052955, 
       "pcode": 8420, 
-      "street": "Rembrandtlaan", 
-      "lon": 3.03589669052955
+      "street": "Rembrandtlaan"
     }
-  ], 
-  "name": "Rembrandtlaan"
+  ]
 }

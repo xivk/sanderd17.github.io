@@ -1,53 +1,51 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8000, 
-      "street": "Sint-Salvatorskoorstraat", 
-      "housenumber": "1"
+      "street": "Sint-Salvatorskoorstraat"
     }, 
     {
-      "lat": 51.20591993434516, 
       "housenumber": "10", 
+      "lat": 51.20591993434516, 
+      "lon": 3.222189897909893, 
       "pcode": 8000, 
-      "street": "Sint-Salvatorskoorstraat", 
-      "lon": 3.222189897909893
+      "street": "Sint-Salvatorskoorstraat"
     }, 
     {
-      "lat": 51.205995784468186, 
       "housenumber": "3", 
+      "lat": 51.205995784468186, 
+      "lon": 3.22265140549635, 
       "pcode": 8000, 
-      "street": "Sint-Salvatorskoorstraat", 
-      "lon": 3.22265140549635
+      "street": "Sint-Salvatorskoorstraat"
     }, 
     {
-      "lat": 51.2058954947485, 
       "housenumber": "5", 
+      "lat": 51.2058954947485, 
+      "lon": 3.2225899010753585, 
       "pcode": 8000, 
-      "street": "Sint-Salvatorskoorstraat", 
-      "lon": 3.2225899010753585
+      "street": "Sint-Salvatorskoorstraat"
     }, 
     {
-      "lat": 51.20608892236222, 
       "housenumber": "6", 
+      "lat": 51.20608892236222, 
+      "lon": 3.222438754689216, 
       "pcode": 8000, 
-      "street": "Sint-Salvatorskoorstraat", 
-      "lon": 3.222438754689216
+      "street": "Sint-Salvatorskoorstraat"
     }, 
     {
-      "lat": 51.205800628603185, 
       "housenumber": "7", 
+      "lat": 51.205800628603185, 
+      "lon": 3.2224572843668455, 
       "pcode": 8000, 
-      "street": "Sint-Salvatorskoorstraat", 
-      "lon": 3.2224572843668455
+      "street": "Sint-Salvatorskoorstraat"
     }, 
     {
-      "lat": 51.2060392100798, 
       "housenumber": "8", 
+      "lat": 51.2060392100798, 
+      "lon": 3.222355258070999, 
       "pcode": 8000, 
-      "street": "Sint-Salvatorskoorstraat", 
-      "lon": 3.222355258070999
+      "street": "Sint-Salvatorskoorstraat"
     }
-  ], 
-  "name": "Sint-Salvatorskoorstraat"
+  ]
 }

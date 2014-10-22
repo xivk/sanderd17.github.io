@@ -1,27 +1,25 @@
 {
-  "pcode": 8810, 
   "addresses": [
     {
-      "lat": 51.03179665384337, 
       "housenumber": "1", 
+      "lat": 51.03179665384337, 
+      "lon": 3.166108727142144, 
       "pcode": 8810, 
-      "street": "Moerplasstraat", 
-      "lon": 3.166108727142144
+      "street": "Moerplasstraat"
     }, 
     {
-      "lat": 51.03150835919876, 
       "housenumber": "3", 
+      "lat": 51.03150835919876, 
+      "lon": 3.1664366316669943, 
       "pcode": 8810, 
-      "street": "Moerplasstraat", 
-      "lon": 3.1664366316669943
+      "street": "Moerplasstraat"
     }, 
     {
-      "lat": 51.03024792945756, 
       "housenumber": "7", 
+      "lat": 51.03024792945756, 
+      "lon": 3.1676523013574944, 
       "pcode": 8810, 
-      "street": "Moerplasstraat", 
-      "lon": 3.1676523013574944
+      "street": "Moerplasstraat"
     }
-  ], 
-  "name": "Moerplasstraat"
+  ]
 }

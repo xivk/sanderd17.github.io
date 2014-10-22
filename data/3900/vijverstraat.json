@@ -1,27 +1,25 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
-      "lat": 51.19383149338709, 
       "housenumber": "17", 
+      "lat": 51.19383149338709, 
+      "lon": 5.375822238167698, 
       "pcode": 3900, 
-      "street": "Vijverstraat", 
-      "lon": 5.375822238167698
+      "street": "Vijverstraat"
     }, 
     {
-      "lat": 51.194659762383544, 
       "housenumber": "19", 
+      "lat": 51.194659762383544, 
+      "lon": 5.375643701322042, 
       "pcode": 3900, 
-      "street": "Vijverstraat", 
-      "lon": 5.375643701322042
+      "street": "Vijverstraat"
     }, 
     {
-      "lat": 51.194842854967604, 
       "housenumber": "21", 
+      "lat": 51.194842854967604, 
+      "lon": 5.375624908253653, 
       "pcode": 3900, 
-      "street": "Vijverstraat", 
-      "lon": 5.375624908253653
+      "street": "Vijverstraat"
     }
-  ], 
-  "name": "Vijverstraat"
+  ]
 }

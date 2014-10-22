@@ -1,38 +1,36 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "21", 
       "pcode": 2000, 
-      "street": "Portostraat", 
-      "housenumber": "21"
+      "street": "Portostraat"
     }, 
     {
-      "lat": 51.23521423253817, 
       "housenumber": "23", 
+      "lat": 51.23521423253817, 
+      "lon": 4.411406088557446, 
       "pcode": 2000, 
-      "street": "Portostraat", 
-      "lon": 4.411406088557446
+      "street": "Portostraat"
     }, 
     {
+      "housenumber": "25", 
       "pcode": 2000, 
-      "street": "Portostraat", 
-      "housenumber": "25"
+      "street": "Portostraat"
     }, 
     {
+      "housenumber": "27", 
       "pcode": 2000, 
-      "street": "Portostraat", 
-      "housenumber": "27"
+      "street": "Portostraat"
     }, 
     {
+      "housenumber": "29", 
       "pcode": 2000, 
-      "street": "Portostraat", 
-      "housenumber": "29"
+      "street": "Portostraat"
     }, 
     {
+      "housenumber": "31", 
       "pcode": 2000, 
-      "street": "Portostraat", 
-      "housenumber": "31"
+      "street": "Portostraat"
     }
-  ], 
-  "name": "Portostraat"
+  ]
 }

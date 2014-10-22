@@ -1,32 +1,30 @@
 {
-  "pcode": 8740, 
   "addresses": [
     {
-      "lat": 50.971359117661784, 
       "housenumber": "1", 
+      "lat": 50.971359117661784, 
+      "lon": 3.26923640133457, 
       "pcode": 8740, 
-      "street": "Blekerijstraat", 
-      "lon": 3.26923640133457
+      "street": "Blekerijstraat"
     }, 
     {
-      "lat": 50.97054575627739, 
       "housenumber": "2", 
+      "lat": 50.97054575627739, 
+      "lon": 3.2692630124677784, 
       "pcode": 8740, 
-      "street": "Blekerijstraat", 
-      "lon": 3.2692630124677784
+      "street": "Blekerijstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8740, 
-      "street": "Blekerijstraat", 
-      "housenumber": "3"
+      "street": "Blekerijstraat"
     }, 
     {
-      "lat": 50.96949428284686, 
       "housenumber": "4", 
+      "lat": 50.96949428284686, 
+      "lon": 3.268591557311047, 
       "pcode": 8740, 
-      "street": "Blekerijstraat", 
-      "lon": 3.268591557311047
+      "street": "Blekerijstraat"
     }
-  ], 
-  "name": "Blekerijstraat"
+  ]
 }

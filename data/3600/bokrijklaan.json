@@ -1,44 +1,42 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3600, 
-      "street": "Bokrijklaan", 
-      "housenumber": "1"
+      "street": "Bokrijklaan"
     }, 
     {
-      "lat": 50.967535967499515, 
       "housenumber": "10", 
+      "lat": 50.967535967499515, 
+      "lon": 5.401526878050876, 
       "pcode": 3600, 
-      "street": "Bokrijklaan", 
-      "lon": 5.401526878050876
+      "street": "Bokrijklaan"
     }, 
     {
-      "lat": 50.954085009932314, 
       "housenumber": "2", 
+      "lat": 50.954085009932314, 
+      "lon": 5.4093708690177635, 
       "pcode": 3600, 
-      "street": "Bokrijklaan", 
-      "lon": 5.4093708690177635
+      "street": "Bokrijklaan"
     }, 
     {
-      "lat": 50.956605670839835, 
       "housenumber": "4", 
+      "lat": 50.956605670839835, 
+      "lon": 5.408821042658429, 
       "pcode": 3600, 
-      "street": "Bokrijklaan", 
-      "lon": 5.408821042658429
+      "street": "Bokrijklaan"
     }, 
     {
-      "lat": 50.96943393367192, 
       "housenumber": "6", 
+      "lat": 50.96943393367192, 
+      "lon": 5.40929377184143, 
       "pcode": 3600, 
-      "street": "Bokrijklaan", 
-      "lon": 5.40929377184143
+      "street": "Bokrijklaan"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3600, 
-      "street": "Bokrijklaan", 
-      "housenumber": "8"
+      "street": "Bokrijklaan"
     }
-  ], 
-  "name": "Bokrijklaan"
+  ]
 }

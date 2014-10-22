@@ -1,20 +1,18 @@
 {
-  "pcode": 8730, 
   "addresses": [
     {
-      "lat": 51.12780751908105, 
       "housenumber": "1", 
+      "lat": 51.12780751908105, 
+      "lon": 3.324452550213924, 
       "pcode": 8730, 
-      "street": "Handboogstraat", 
-      "lon": 3.324452550213924
+      "street": "Handboogstraat"
     }, 
     {
-      "lat": 51.12800796557315, 
       "housenumber": "5", 
+      "lat": 51.12800796557315, 
+      "lon": 3.324490788548766, 
       "pcode": 8730, 
-      "street": "Handboogstraat", 
-      "lon": 3.324490788548766
+      "street": "Handboogstraat"
     }
-  ], 
-  "name": "Handboogstraat"
+  ]
 }

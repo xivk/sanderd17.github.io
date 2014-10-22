@@ -1,23 +1,21 @@
 {
-  "pcode": 1860, 
   "addresses": [
     {
+      "housenumber": "20B", 
       "pcode": 1860, 
-      "street": "Robbeekstraat", 
-      "housenumber": "20B"
+      "street": "Robbeekstraat"
     }, 
     {
+      "housenumber": "22A", 
       "pcode": 1860, 
-      "street": "Robbeekstraat", 
-      "housenumber": "22A"
+      "street": "Robbeekstraat"
     }, 
     {
-      "lat": 50.97850406401745, 
       "housenumber": "22B", 
+      "lat": 50.97850406401745, 
+      "lon": 4.274784031388072, 
       "pcode": 1860, 
-      "street": "Robbeekstraat", 
-      "lon": 4.274784031388072
+      "street": "Robbeekstraat"
     }
-  ], 
-  "name": "Robbeekstraat"
+  ]
 }

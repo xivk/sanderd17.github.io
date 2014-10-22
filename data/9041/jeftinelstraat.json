@@ -1,39 +1,37 @@
 {
-  "pcode": 9041, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9041, 
-      "street": "Jef Tinelstraat", 
-      "housenumber": "1"
+      "street": "Jef Tinelstraat"
     }, 
     {
-      "lat": 51.07319773912535, 
       "housenumber": "3", 
+      "lat": 51.07319773912535, 
+      "lon": 3.8077775563374505, 
       "pcode": 9041, 
-      "street": "Jef Tinelstraat", 
-      "lon": 3.8077775563374505
+      "street": "Jef Tinelstraat"
     }, 
     {
-      "lat": 51.07355514227748, 
       "housenumber": "5", 
+      "lat": 51.07355514227748, 
+      "lon": 3.8083819739546887, 
       "pcode": 9041, 
-      "street": "Jef Tinelstraat", 
-      "lon": 3.8083819739546887
+      "street": "Jef Tinelstraat"
     }, 
     {
-      "lat": 51.073607345671974, 
       "housenumber": "7", 
+      "lat": 51.073607345671974, 
+      "lon": 3.8088315241674056, 
       "pcode": 9041, 
-      "street": "Jef Tinelstraat", 
-      "lon": 3.8088315241674056
+      "street": "Jef Tinelstraat"
     }, 
     {
-      "lat": 51.07396718082944, 
       "housenumber": "9", 
+      "lat": 51.07396718082944, 
+      "lon": 3.808717923805396, 
       "pcode": 9041, 
-      "street": "Jef Tinelstraat", 
-      "lon": 3.808717923805396
+      "street": "Jef Tinelstraat"
     }
-  ], 
-  "name": "Jef Tinelstraat"
+  ]
 }

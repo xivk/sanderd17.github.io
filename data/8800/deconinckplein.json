@@ -1,20 +1,18 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.948638810436584, 
       "housenumber": "1", 
+      "lat": 50.948638810436584, 
+      "lon": 3.1271144739165, 
       "pcode": 8800, 
-      "street": "de Coninckplein", 
-      "lon": 3.1271144739165
+      "street": "de Coninckplein"
     }, 
     {
-      "lat": 50.94907410997289, 
       "housenumber": "5", 
+      "lat": 50.94907410997289, 
+      "lon": 3.1267038820089708, 
       "pcode": 8800, 
-      "street": "de Coninckplein", 
-      "lon": 3.1267038820089708
+      "street": "de Coninckplein"
     }
-  ], 
-  "name": "de Coninckplein"
+  ]
 }

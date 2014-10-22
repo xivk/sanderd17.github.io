@@ -1,62 +1,60 @@
 {
-  "pcode": 8670, 
   "addresses": [
     {
-      "lat": 51.10888548429123, 
       "housenumber": "10", 
+      "lat": 51.10888548429123, 
+      "lon": 2.6240380404900057, 
       "pcode": 8670, 
-      "street": "Pioenrooslaan", 
-      "lon": 2.6240380404900057
+      "street": "Pioenrooslaan"
     }, 
     {
-      "lat": 51.108787092684324, 
       "housenumber": "11", 
-      "pcode": 8670, 
-      "street": "Pioenrooslaan", 
-      "lon": 2.623610654640455
-    }, 
-    {
-      "lat": 51.108350904564176, 
-      "housenumber": "4", 
-      "pcode": 8670, 
-      "street": "Pioenrooslaan", 
-      "lon": 2.624527178465965
-    }, 
-    {
-      "lat": 51.108371469528464, 
-      "housenumber": "5", 
-      "pcode": 8670, 
-      "street": "Pioenrooslaan", 
-      "lon": 2.6238809731933253
-    }, 
-    {
-      "lat": 51.10848635753448, 
-      "housenumber": "6", 
-      "pcode": 8670, 
-      "street": "Pioenrooslaan", 
-      "lon": 2.624323451333833
-    }, 
-    {
-      "lat": 51.108584104198556, 
-      "housenumber": "7", 
-      "pcode": 8670, 
-      "street": "Pioenrooslaan", 
-      "lon": 2.6236676502506504
-    }, 
-    {
-      "lat": 51.10864686715005, 
-      "housenumber": "8", 
-      "pcode": 8670, 
-      "street": "Pioenrooslaan", 
-      "lon": 2.624202913950609
-    }, 
-    {
       "lat": 51.108787092684324, 
-      "housenumber": "9", 
+      "lon": 2.623610654640455, 
       "pcode": 8670, 
-      "street": "Pioenrooslaan", 
-      "lon": 2.623610654640455
+      "street": "Pioenrooslaan"
+    }, 
+    {
+      "housenumber": "4", 
+      "lat": 51.108350904564176, 
+      "lon": 2.624527178465965, 
+      "pcode": 8670, 
+      "street": "Pioenrooslaan"
+    }, 
+    {
+      "housenumber": "5", 
+      "lat": 51.108371469528464, 
+      "lon": 2.6238809731933253, 
+      "pcode": 8670, 
+      "street": "Pioenrooslaan"
+    }, 
+    {
+      "housenumber": "6", 
+      "lat": 51.10848635753448, 
+      "lon": 2.624323451333833, 
+      "pcode": 8670, 
+      "street": "Pioenrooslaan"
+    }, 
+    {
+      "housenumber": "7", 
+      "lat": 51.108584104198556, 
+      "lon": 2.6236676502506504, 
+      "pcode": 8670, 
+      "street": "Pioenrooslaan"
+    }, 
+    {
+      "housenumber": "8", 
+      "lat": 51.10864686715005, 
+      "lon": 2.624202913950609, 
+      "pcode": 8670, 
+      "street": "Pioenrooslaan"
+    }, 
+    {
+      "housenumber": "9", 
+      "lat": 51.108787092684324, 
+      "lon": 2.623610654640455, 
+      "pcode": 8670, 
+      "street": "Pioenrooslaan"
     }
-  ], 
-  "name": "Pioenrooslaan"
+  ]
 }

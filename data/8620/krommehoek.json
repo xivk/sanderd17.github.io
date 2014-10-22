@@ -1,23 +1,21 @@
 {
-  "pcode": 8620, 
   "addresses": [
     {
-      "lat": 51.140941782470094, 
       "housenumber": "1", 
+      "lat": 51.140941782470094, 
+      "lon": 2.7419130175131956, 
       "pcode": 8620, 
-      "street": "Kromme Hoek", 
-      "lon": 2.7419130175131956
+      "street": "Kromme Hoek"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 8620, 
-      "street": "Kromme Hoek", 
-      "housenumber": "1B"
+      "street": "Kromme Hoek"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8620, 
-      "street": "Kromme Hoek", 
-      "housenumber": "2"
+      "street": "Kromme Hoek"
     }
-  ], 
-  "name": "Kromme Hoek"
+  ]
 }

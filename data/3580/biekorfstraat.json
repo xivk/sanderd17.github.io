@@ -1,20 +1,18 @@
 {
-  "pcode": 3580, 
   "addresses": [
     {
-      "lat": 51.04859437766416, 
       "housenumber": "3", 
+      "lat": 51.04859437766416, 
+      "lon": 5.2287444626709885, 
       "pcode": 3580, 
-      "street": "Biekorfstraat", 
-      "lon": 5.2287444626709885
+      "street": "Biekorfstraat"
     }, 
     {
-      "lat": 51.04845097377099, 
       "housenumber": "5", 
+      "lat": 51.04845097377099, 
+      "lon": 5.228931788605742, 
       "pcode": 3580, 
-      "street": "Biekorfstraat", 
-      "lon": 5.228931788605742
+      "street": "Biekorfstraat"
     }
-  ], 
-  "name": "Biekorfstraat"
+  ]
 }

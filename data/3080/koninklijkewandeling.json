@@ -1,20 +1,18 @@
 {
-  "pcode": 3080, 
   "addresses": [
     {
-      "lat": 50.81120511661729, 
       "housenumber": "1", 
+      "lat": 50.81120511661729, 
+      "lon": 4.490080547128561, 
       "pcode": 3080, 
-      "street": "Koninklijke Wandeling", 
-      "lon": 4.490080547128561
+      "street": "Koninklijke Wandeling"
     }, 
     {
-      "lat": 50.81118662086692, 
       "housenumber": "2", 
+      "lat": 50.81118662086692, 
+      "lon": 4.4895393446247205, 
       "pcode": 3080, 
-      "street": "Koninklijke Wandeling", 
-      "lon": 4.4895393446247205
+      "street": "Koninklijke Wandeling"
     }
-  ], 
-  "name": "Koninklijke Wandeling"
+  ]
 }

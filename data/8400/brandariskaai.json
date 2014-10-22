@@ -1,18 +1,16 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8400, 
-      "street": "Brandariskaai", 
-      "housenumber": "1"
+      "street": "Brandariskaai"
     }, 
     {
-      "lat": 51.227430822160514, 
       "housenumber": "2", 
+      "lat": 51.227430822160514, 
+      "lon": 2.925732195946689, 
       "pcode": 8400, 
-      "street": "Brandariskaai", 
-      "lon": 2.925732195946689
+      "street": "Brandariskaai"
     }
-  ], 
-  "name": "Brandariskaai"
+  ]
 }

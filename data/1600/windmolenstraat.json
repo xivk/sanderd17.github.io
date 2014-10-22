@@ -1,20 +1,18 @@
 {
-  "pcode": 1600, 
   "addresses": [
     {
-      "lat": 50.77288416762102, 
       "housenumber": "1", 
+      "lat": 50.77288416762102, 
+      "lon": 4.185886604096219, 
       "pcode": 1600, 
-      "street": "Windmolenstraat", 
-      "lon": 4.185886604096219
+      "street": "Windmolenstraat"
     }, 
     {
-      "lat": 50.772495743714295, 
       "housenumber": "2", 
+      "lat": 50.772495743714295, 
+      "lon": 4.185785040226459, 
       "pcode": 1600, 
-      "street": "Windmolenstraat", 
-      "lon": 4.185785040226459
+      "street": "Windmolenstraat"
     }
-  ], 
-  "name": "Windmolenstraat"
+  ]
 }

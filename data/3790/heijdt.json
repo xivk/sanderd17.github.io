@@ -1,20 +1,18 @@
 {
-  "pcode": 3790, 
   "addresses": [
     {
-      "lat": 50.732223228187586, 
       "housenumber": "1", 
+      "lat": 50.732223228187586, 
+      "lon": 5.801917199570392, 
       "pcode": 3790, 
-      "street": "Heijdt", 
-      "lon": 5.801917199570392
+      "street": "Heijdt"
     }, 
     {
-      "lat": 50.732109977517965, 
       "housenumber": "13", 
+      "lat": 50.732109977517965, 
+      "lon": 5.801957814011642, 
       "pcode": 3790, 
-      "street": "Heijdt", 
-      "lon": 5.801957814011642
+      "street": "Heijdt"
     }
-  ], 
-  "name": "Heijdt"
+  ]
 }

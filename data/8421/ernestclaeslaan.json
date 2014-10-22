@@ -1,32 +1,30 @@
 {
-  "pcode": 8421, 
   "addresses": [
     {
-      "lat": 51.27215283110808, 
       "housenumber": "1", 
+      "lat": 51.27215283110808, 
+      "lon": 3.039167336261207, 
       "pcode": 8421, 
-      "street": "Ernest Claeslaan", 
-      "lon": 3.039167336261207
+      "street": "Ernest Claeslaan"
     }, 
     {
-      "lat": 51.27223861473959, 
       "housenumber": "11", 
+      "lat": 51.27223861473959, 
+      "lon": 3.0399382082171935, 
       "pcode": 8421, 
-      "street": "Ernest Claeslaan", 
-      "lon": 3.0399382082171935
+      "street": "Ernest Claeslaan"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8421, 
-      "street": "Ernest Claeslaan", 
-      "housenumber": "7"
+      "street": "Ernest Claeslaan"
     }, 
     {
-      "lat": 51.27218591264664, 
       "housenumber": "9", 
+      "lat": 51.27218591264664, 
+      "lon": 3.03965580743381, 
       "pcode": 8421, 
-      "street": "Ernest Claeslaan", 
-      "lon": 3.03965580743381
+      "street": "Ernest Claeslaan"
     }
-  ], 
-  "name": "Ernest Claeslaan"
+  ]
 }

@@ -1,25 +1,23 @@
 {
-  "pcode": 9860, 
   "addresses": [
     {
-      "lat": 50.92308765706852, 
       "housenumber": "1", 
+      "lat": 50.92308765706852, 
+      "lon": 3.8062796935606347, 
       "pcode": 9860, 
-      "street": "Kapelweg", 
-      "lon": 3.8062796935606347
+      "street": "Kapelweg"
     }, 
     {
-      "lat": 50.923525324871676, 
       "housenumber": "3", 
+      "lat": 50.923525324871676, 
+      "lon": 3.8080234548926426, 
       "pcode": 9860, 
-      "street": "Kapelweg", 
-      "lon": 3.8080234548926426
+      "street": "Kapelweg"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9860, 
-      "street": "Kapelweg", 
-      "housenumber": "5"
+      "street": "Kapelweg"
     }
-  ], 
-  "name": "Kapelweg"
+  ]
 }

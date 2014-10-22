@@ -1,23 +1,21 @@
 {
-  "pcode": 9120, 
   "addresses": [
     {
-      "lat": 51.18183288382793, 
       "housenumber": "36", 
+      "lat": 51.18183288382793, 
+      "lon": 4.206763583264558, 
       "pcode": 9120, 
-      "street": "Jagersdreef", 
-      "lon": 4.206763583264558
+      "street": "Jagersdreef"
     }, 
     {
+      "housenumber": "39", 
       "pcode": 9120, 
-      "street": "Jagersdreef", 
-      "housenumber": "39"
+      "street": "Jagersdreef"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 9120, 
-      "street": "Jagersdreef", 
-      "housenumber": "9"
+      "street": "Jagersdreef"
     }
-  ], 
-  "name": "Jagersdreef"
+  ]
 }

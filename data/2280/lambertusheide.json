@@ -1,23 +1,21 @@
 {
-  "pcode": 2280, 
   "addresses": [
     {
+      "housenumber": "12", 
       "pcode": 2280, 
-      "street": "Lambertusheide", 
-      "housenumber": "12"
+      "street": "Lambertusheide"
     }, 
     {
+      "housenumber": "22", 
       "pcode": 2280, 
-      "street": "Lambertusheide", 
-      "housenumber": "22"
+      "street": "Lambertusheide"
     }, 
     {
-      "lat": 51.173378989935735, 
       "housenumber": "24", 
+      "lat": 51.173378989935735, 
+      "lon": 4.750692133752365, 
       "pcode": 2280, 
-      "street": "Lambertusheide", 
-      "lon": 4.750692133752365
+      "street": "Lambertusheide"
     }
-  ], 
-  "name": "Lambertusheide"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9840, 
   "addresses": [
     {
-      "lat": 50.96264773953145, 
       "housenumber": "1", 
+      "lat": 50.96264773953145, 
+      "lon": 3.686612390485774, 
       "pcode": 9840, 
-      "street": "Trekweg", 
-      "lon": 3.686612390485774
+      "street": "Trekweg"
     }, 
     {
-      "lat": 50.966246539234405, 
       "housenumber": "2", 
+      "lat": 50.966246539234405, 
+      "lon": 3.688834449770595, 
       "pcode": 9840, 
-      "street": "Trekweg", 
-      "lon": 3.688834449770595
+      "street": "Trekweg"
     }
-  ], 
-  "name": "Trekweg"
+  ]
 }

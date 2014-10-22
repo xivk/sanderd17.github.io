@@ -1,20 +1,18 @@
 {
-  "pcode": 1750, 
   "addresses": [
     {
-      "lat": 50.82084840974011, 
       "housenumber": "1", 
+      "lat": 50.82084840974011, 
+      "lon": 4.1445379946520005, 
       "pcode": 1750, 
-      "street": "Sint-Barbarastraat", 
-      "lon": 4.1445379946520005
+      "street": "Sint-Barbarastraat"
     }, 
     {
-      "lat": 50.82018383290444, 
       "housenumber": "2", 
+      "lat": 50.82018383290444, 
+      "lon": 4.144362909024522, 
       "pcode": 1750, 
-      "street": "Sint-Barbarastraat", 
-      "lon": 4.144362909024522
+      "street": "Sint-Barbarastraat"
     }
-  ], 
-  "name": "Sint-Barbarastraat"
+  ]
 }

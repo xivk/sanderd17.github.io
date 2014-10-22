@@ -1,20 +1,18 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
-      "lat": 50.798296661243484, 
       "housenumber": "22", 
+      "lat": 50.798296661243484, 
+      "lon": 5.213653271745994, 
       "pcode": 3800, 
-      "street": "Kraaibeekstraat", 
-      "lon": 5.213653271745994
+      "street": "Kraaibeekstraat"
     }, 
     {
-      "lat": 50.798907402398186, 
       "housenumber": "4", 
+      "lat": 50.798907402398186, 
+      "lon": 5.212202113450663, 
       "pcode": 3800, 
-      "street": "Kraaibeekstraat", 
-      "lon": 5.212202113450663
+      "street": "Kraaibeekstraat"
     }
-  ], 
-  "name": "Kraaibeekstraat"
+  ]
 }

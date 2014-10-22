@@ -1,27 +1,25 @@
 {
-  "pcode": 2801, 
   "addresses": [
     {
-      "lat": 51.0497940022053, 
       "housenumber": "1", 
+      "lat": 51.0497940022053, 
+      "lon": 4.404470526944771, 
       "pcode": 2801, 
-      "street": "Heffenveldweg", 
-      "lon": 4.404470526944771
+      "street": "Heffenveldweg"
     }, 
     {
-      "lat": 51.048687347953255, 
       "housenumber": "2", 
+      "lat": 51.048687347953255, 
+      "lon": 4.41473545476828, 
       "pcode": 2801, 
-      "street": "Heffenveldweg", 
-      "lon": 4.41473545476828
+      "street": "Heffenveldweg"
     }, 
     {
-      "lat": 51.04975662986839, 
       "housenumber": "3", 
+      "lat": 51.04975662986839, 
+      "lon": 4.404107699557516, 
       "pcode": 2801, 
-      "street": "Heffenveldweg", 
-      "lon": 4.404107699557516
+      "street": "Heffenveldweg"
     }
-  ], 
-  "name": "Heffenveldweg"
+  ]
 }

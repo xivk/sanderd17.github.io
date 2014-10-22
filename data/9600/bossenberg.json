@@ -1,34 +1,32 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.74647623566013, 
       "housenumber": "1", 
+      "lat": 50.74647623566013, 
+      "lon": 3.646200402027966, 
       "pcode": 9600, 
-      "street": "Bossenberg", 
-      "lon": 3.646200402027966
+      "street": "Bossenberg"
     }, 
     {
-      "lat": 50.74634284630573, 
       "housenumber": "2", 
+      "lat": 50.74634284630573, 
+      "lon": 3.645709055074515, 
       "pcode": 9600, 
-      "street": "Bossenberg", 
-      "lon": 3.645709055074515
+      "street": "Bossenberg"
     }, 
     {
-      "lat": 50.74616105316123, 
       "housenumber": "3", 
+      "lat": 50.74616105316123, 
+      "lon": 3.6460859228131595, 
       "pcode": 9600, 
-      "street": "Bossenberg", 
-      "lon": 3.6460859228131595
+      "street": "Bossenberg"
     }, 
     {
-      "lat": 50.74576058718767, 
       "housenumber": "4", 
+      "lat": 50.74576058718767, 
+      "lon": 3.646064287865769, 
       "pcode": 9600, 
-      "street": "Bossenberg", 
-      "lon": 3.646064287865769
+      "street": "Bossenberg"
     }
-  ], 
-  "name": "Bossenberg"
+  ]
 }

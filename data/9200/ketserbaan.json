@@ -1,32 +1,30 @@
 {
-  "pcode": 9200, 
   "addresses": [
     {
-      "lat": 51.0253629950718, 
       "housenumber": "1", 
+      "lat": 51.0253629950718, 
+      "lon": 4.1327990570172295, 
       "pcode": 9200, 
-      "street": "Ketserbaan", 
-      "lon": 4.1327990570172295
+      "street": "Ketserbaan"
     }, 
     {
-      "lat": 51.02544557442603, 
       "housenumber": "3", 
+      "lat": 51.02544557442603, 
+      "lon": 4.132918942568427, 
       "pcode": 9200, 
-      "street": "Ketserbaan", 
-      "lon": 4.132918942568427
+      "street": "Ketserbaan"
     }, 
     {
-      "lat": 51.02546596245005, 
       "housenumber": "5", 
+      "lat": 51.02546596245005, 
+      "lon": 4.133135495098609, 
       "pcode": 9200, 
-      "street": "Ketserbaan", 
-      "lon": 4.133135495098609
+      "street": "Ketserbaan"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 9200, 
-      "street": "Ketserbaan", 
-      "housenumber": "7"
+      "street": "Ketserbaan"
     }
-  ], 
-  "name": "Ketserbaan"
+  ]
 }

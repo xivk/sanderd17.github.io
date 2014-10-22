@@ -1,27 +1,25 @@
 {
-  "pcode": 8020, 
   "addresses": [
     {
-      "lat": 51.10247238136312, 
       "housenumber": "2", 
+      "lat": 51.10247238136312, 
+      "lon": 3.257071955939099, 
       "pcode": 8020, 
-      "street": "Sterredreef", 
-      "lon": 3.257071955939099
+      "street": "Sterredreef"
     }, 
     {
-      "lat": 51.0972965677378, 
       "housenumber": "23", 
+      "lat": 51.0972965677378, 
+      "lon": 3.2511313506533304, 
       "pcode": 8020, 
-      "street": "Sterredreef", 
-      "lon": 3.2511313506533304
+      "street": "Sterredreef"
     }, 
     {
-      "lat": 51.09787906228639, 
       "housenumber": "30", 
+      "lat": 51.09787906228639, 
+      "lon": 3.251211949197362, 
       "pcode": 8020, 
-      "street": "Sterredreef", 
-      "lon": 3.251211949197362
+      "street": "Sterredreef"
     }
-  ], 
-  "name": "Sterredreef"
+  ]
 }

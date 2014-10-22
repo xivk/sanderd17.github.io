@@ -1,32 +1,30 @@
 {
-  "pcode": 1755, 
   "addresses": [
     {
-      "lat": 50.76177353680825, 
       "housenumber": "1", 
+      "lat": 50.76177353680825, 
+      "lon": 4.127462572397679, 
       "pcode": 1755, 
-      "street": "Ter Mollekenstraat", 
-      "lon": 4.127462572397679
+      "street": "Ter Mollekenstraat"
     }, 
     {
-      "lat": 50.75892162732083, 
       "housenumber": "6", 
+      "lat": 50.75892162732083, 
+      "lon": 4.13479278971154, 
       "pcode": 1755, 
-      "street": "Ter Mollekenstraat", 
-      "lon": 4.13479278971154
+      "street": "Ter Mollekenstraat"
     }, 
     {
-      "lat": 50.75587841741901, 
       "housenumber": "8", 
+      "lat": 50.75587841741901, 
+      "lon": 4.133446638755273, 
       "pcode": 1755, 
-      "street": "Ter Mollekenstraat", 
-      "lon": 4.133446638755273
+      "street": "Ter Mollekenstraat"
     }, 
     {
+      "housenumber": "8A", 
       "pcode": 1755, 
-      "street": "Ter Mollekenstraat", 
-      "housenumber": "8A"
+      "street": "Ter Mollekenstraat"
     }
-  ], 
-  "name": "Ter Mollekenstraat"
+  ]
 }

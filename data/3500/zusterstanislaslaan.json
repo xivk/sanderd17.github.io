@@ -1,27 +1,25 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.91667345067354, 
       "housenumber": "1", 
+      "lat": 50.91667345067354, 
+      "lon": 5.34022822501089, 
       "pcode": 3500, 
-      "street": "Zuster Stanislaslaan", 
-      "lon": 5.34022822501089
+      "street": "Zuster Stanislaslaan"
     }, 
     {
-      "lat": 50.91694756452613, 
       "housenumber": "2", 
+      "lat": 50.91694756452613, 
+      "lon": 5.3413022447933285, 
       "pcode": 3500, 
-      "street": "Zuster Stanislaslaan", 
-      "lon": 5.3413022447933285
+      "street": "Zuster Stanislaslaan"
     }, 
     {
-      "lat": 50.916701691044146, 
       "housenumber": "4", 
+      "lat": 50.916701691044146, 
+      "lon": 5.341659516072777, 
       "pcode": 3500, 
-      "street": "Zuster Stanislaslaan", 
-      "lon": 5.341659516072777
+      "street": "Zuster Stanislaslaan"
     }
-  ], 
-  "name": "Zuster Stanislaslaan"
+  ]
 }

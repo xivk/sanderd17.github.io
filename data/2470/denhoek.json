@@ -1,30 +1,28 @@
 {
-  "pcode": 2470, 
   "addresses": [
     {
-      "lat": 51.29229984271683, 
       "housenumber": "2", 
+      "lat": 51.29229984271683, 
+      "lon": 5.055943055422456, 
       "pcode": 2470, 
-      "street": "Den Hoek", 
-      "lon": 5.055943055422456
+      "street": "Den Hoek"
     }, 
     {
-      "lat": 51.29335690675198, 
       "housenumber": "4", 
+      "lat": 51.29335690675198, 
+      "lon": 5.056775550058864, 
       "pcode": 2470, 
-      "street": "Den Hoek", 
-      "lon": 5.056775550058864
+      "street": "Den Hoek"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2470, 
-      "street": "Den Hoek", 
-      "housenumber": "6"
+      "street": "Den Hoek"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2470, 
-      "street": "Den Hoek", 
-      "housenumber": "8"
+      "street": "Den Hoek"
     }
-  ], 
-  "name": "Den Hoek"
+  ]
 }

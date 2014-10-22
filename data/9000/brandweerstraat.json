@@ -1,25 +1,23 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05984358673976, 
       "housenumber": "1", 
+      "lat": 51.05984358673976, 
+      "lon": 3.7188187927324505, 
       "pcode": 9000, 
-      "street": "Brandweerstraat", 
-      "lon": 3.7188187927324505
+      "street": "Brandweerstraat"
     }, 
     {
-      "lat": 51.05984248132274, 
       "housenumber": "3", 
+      "lat": 51.05984248132274, 
+      "lon": 3.719336183591365, 
       "pcode": 9000, 
-      "street": "Brandweerstraat", 
-      "lon": 3.719336183591365
+      "street": "Brandweerstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9000, 
-      "street": "Brandweerstraat", 
-      "housenumber": "6"
+      "street": "Brandweerstraat"
     }
-  ], 
-  "name": "Brandweerstraat"
+  ]
 }

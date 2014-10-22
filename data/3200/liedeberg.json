@@ -1,27 +1,25 @@
 {
-  "pcode": 3200, 
   "addresses": [
     {
-      "lat": 50.97584572479773, 
       "housenumber": "1", 
+      "lat": 50.97584572479773, 
+      "lon": 4.818232553274777, 
       "pcode": 3200, 
-      "street": "Liedeberg", 
-      "lon": 4.818232553274777
+      "street": "Liedeberg"
     }, 
     {
-      "lat": 50.974862967186986, 
       "housenumber": "2", 
+      "lat": 50.974862967186986, 
+      "lon": 4.815346101861267, 
       "pcode": 3200, 
-      "street": "Liedeberg", 
-      "lon": 4.815346101861267
+      "street": "Liedeberg"
     }, 
     {
-      "lat": 50.974113969646275, 
       "housenumber": "3", 
+      "lat": 50.974113969646275, 
+      "lon": 4.814661787360518, 
       "pcode": 3200, 
-      "street": "Liedeberg", 
-      "lon": 4.814661787360518
+      "street": "Liedeberg"
     }
-  ], 
-  "name": "Liedeberg"
+  ]
 }

@@ -1,23 +1,21 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.2214147012007, 
       "housenumber": "1", 
+      "lat": 51.2214147012007, 
+      "lon": 4.403188796087221, 
       "pcode": 2000, 
-      "street": "Moriaanstraatje", 
-      "lon": 4.403188796087221
+      "street": "Moriaanstraatje"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 2000, 
-      "street": "Moriaanstraatje", 
-      "housenumber": "10"
+      "street": "Moriaanstraatje"
     }, 
     {
+      "housenumber": "17", 
       "pcode": 2000, 
-      "street": "Moriaanstraatje", 
-      "housenumber": "17"
+      "street": "Moriaanstraatje"
     }
-  ], 
-  "name": "Moriaanstraatje"
+  ]
 }

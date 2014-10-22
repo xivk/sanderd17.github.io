@@ -1,46 +1,44 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 8500, 
-      "street": "Dumolinlaan", 
-      "housenumber": "11"
+      "street": "Dumolinlaan"
     }, 
     {
-      "lat": 50.81251559874608, 
       "housenumber": "11A", 
+      "lat": 50.81251559874608, 
+      "lon": 3.2449327852712346, 
       "pcode": 8500, 
-      "street": "Dumolinlaan", 
-      "lon": 3.2449327852712346
+      "street": "Dumolinlaan"
     }, 
     {
-      "lat": 50.81296344978489, 
       "housenumber": "3", 
+      "lat": 50.81296344978489, 
+      "lon": 3.2471330146133237, 
       "pcode": 8500, 
-      "street": "Dumolinlaan", 
-      "lon": 3.2471330146133237
+      "street": "Dumolinlaan"
     }, 
     {
-      "lat": 50.81307917744898, 
       "housenumber": "5", 
+      "lat": 50.81307917744898, 
+      "lon": 3.24585734141674, 
       "pcode": 8500, 
-      "street": "Dumolinlaan", 
-      "lon": 3.24585734141674
+      "street": "Dumolinlaan"
     }, 
     {
-      "lat": 50.81289289587421, 
       "housenumber": "7", 
+      "lat": 50.81289289587421, 
+      "lon": 3.245566759773728, 
       "pcode": 8500, 
-      "street": "Dumolinlaan", 
-      "lon": 3.245566759773728
+      "street": "Dumolinlaan"
     }, 
     {
-      "lat": 50.81274545676155, 
       "housenumber": "9", 
+      "lat": 50.81274545676155, 
+      "lon": 3.2452577986997952, 
       "pcode": 8500, 
-      "street": "Dumolinlaan", 
-      "lon": 3.2452577986997952
+      "street": "Dumolinlaan"
     }
-  ], 
-  "name": "Dumolinlaan"
+  ]
 }

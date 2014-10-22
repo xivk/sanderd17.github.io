@@ -1,20 +1,18 @@
 {
-  "pcode": 8691, 
   "addresses": [
     {
-      "lat": 50.98927517592037, 
       "housenumber": "1", 
+      "lat": 50.98927517592037, 
+      "lon": 2.6133492064473733, 
       "pcode": 8691, 
-      "street": "Houtemstraat", 
-      "lon": 2.6133492064473733
+      "street": "Houtemstraat"
     }, 
     {
-      "lat": 50.9880997790398, 
       "housenumber": "2", 
+      "lat": 50.9880997790398, 
+      "lon": 2.617826482060881, 
       "pcode": 8691, 
-      "street": "Houtemstraat", 
-      "lon": 2.617826482060881
+      "street": "Houtemstraat"
     }
-  ], 
-  "name": "Houtemstraat"
+  ]
 }

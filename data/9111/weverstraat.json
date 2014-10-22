@@ -1,20 +1,18 @@
 {
-  "pcode": 9111, 
   "addresses": [
     {
-      "lat": 51.14700108285212, 
       "housenumber": "4", 
+      "lat": 51.14700108285212, 
+      "lon": 4.1189255575699235, 
       "pcode": 9111, 
-      "street": "Weverstraat", 
-      "lon": 4.1189255575699235
+      "street": "Weverstraat"
     }, 
     {
-      "lat": 51.1466301053297, 
       "housenumber": "8", 
+      "lat": 51.1466301053297, 
+      "lon": 4.118791061281415, 
       "pcode": 9111, 
-      "street": "Weverstraat", 
-      "lon": 4.118791061281415
+      "street": "Weverstraat"
     }
-  ], 
-  "name": "Weverstraat"
+  ]
 }

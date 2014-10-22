@@ -1,39 +1,37 @@
 {
-  "pcode": 2380, 
   "addresses": [
     {
-      "lat": 51.3710035194386, 
       "housenumber": "2", 
+      "lat": 51.3710035194386, 
+      "lon": 4.9946969565885775, 
       "pcode": 2380, 
-      "street": "St.-Servaasstraat", 
-      "lon": 4.9946969565885775
+      "street": "St.-Servaasstraat"
     }, 
     {
-      "lat": 51.37086912239712, 
       "housenumber": "2A", 
+      "lat": 51.37086912239712, 
+      "lon": 4.994786617476151, 
       "pcode": 2380, 
-      "street": "St.-Servaasstraat", 
-      "lon": 4.994786617476151
+      "street": "St.-Servaasstraat"
     }, 
     {
-      "lat": 51.37076697076542, 
       "housenumber": "4", 
+      "lat": 51.37076697076542, 
+      "lon": 4.994846413271643, 
       "pcode": 2380, 
-      "street": "St.-Servaasstraat", 
-      "lon": 4.994846413271643
+      "street": "St.-Servaasstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2380, 
-      "street": "St.-Servaasstraat", 
-      "housenumber": "6"
+      "street": "St.-Servaasstraat"
     }, 
     {
-      "lat": 51.37075519455575, 
       "housenumber": "8", 
+      "lat": 51.37075519455575, 
+      "lon": 4.994795707456982, 
       "pcode": 2380, 
-      "street": "St.-Servaasstraat", 
-      "lon": 4.994795707456982
+      "street": "St.-Servaasstraat"
     }
-  ], 
-  "name": "St.-Servaasstraat"
+  ]
 }

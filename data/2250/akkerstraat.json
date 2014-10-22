@@ -1,32 +1,30 @@
 {
-  "pcode": 2250, 
   "addresses": [
     {
-      "lat": 51.16876152541103, 
       "housenumber": "1", 
+      "lat": 51.16876152541103, 
+      "lon": 4.905881569116895, 
       "pcode": 2250, 
-      "street": "Akkerstraat", 
-      "lon": 4.905881569116895
+      "street": "Akkerstraat"
     }, 
     {
+      "housenumber": "23", 
       "pcode": 2250, 
-      "street": "Akkerstraat", 
-      "housenumber": "23"
+      "street": "Akkerstraat"
     }, 
     {
-      "lat": 51.17004637686993, 
       "housenumber": "3", 
+      "lat": 51.17004637686993, 
+      "lon": 4.90538950652581, 
       "pcode": 2250, 
-      "street": "Akkerstraat", 
-      "lon": 4.90538950652581
+      "street": "Akkerstraat"
     }, 
     {
-      "lat": 51.168939520415734, 
       "housenumber": "5", 
+      "lat": 51.168939520415734, 
+      "lon": 4.905897631637922, 
       "pcode": 2250, 
-      "street": "Akkerstraat", 
-      "lon": 4.905897631637922
+      "street": "Akkerstraat"
     }
-  ], 
-  "name": "Akkerstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 1500, 
   "addresses": [
     {
-      "lat": 50.735044882611945, 
       "housenumber": "1", 
+      "lat": 50.735044882611945, 
+      "lon": 4.238731077389549, 
       "pcode": 1500, 
-      "street": "Kolveniersstraat", 
-      "lon": 4.238731077389549
+      "street": "Kolveniersstraat"
     }, 
     {
-      "lat": 50.735025791590445, 
       "housenumber": "3", 
+      "lat": 50.735025791590445, 
+      "lon": 4.238701523465811, 
       "pcode": 1500, 
-      "street": "Kolveniersstraat", 
-      "lon": 4.238701523465811
+      "street": "Kolveniersstraat"
     }
-  ], 
-  "name": "Kolveniersstraat"
+  ]
 }

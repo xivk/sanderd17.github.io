@@ -1,27 +1,25 @@
 {
-  "pcode": 9750, 
   "addresses": [
     {
-      "lat": 50.89878380063442, 
       "housenumber": "1", 
+      "lat": 50.89878380063442, 
+      "lon": 3.660493311592329, 
       "pcode": 9750, 
-      "street": "Vlasstraat", 
-      "lon": 3.660493311592329
+      "street": "Vlasstraat"
     }, 
     {
-      "lat": 50.89897078020279, 
       "housenumber": "2", 
+      "lat": 50.89897078020279, 
+      "lon": 3.660223521404209, 
       "pcode": 9750, 
-      "street": "Vlasstraat", 
-      "lon": 3.660223521404209
+      "street": "Vlasstraat"
     }, 
     {
-      "lat": 50.898741474120065, 
       "housenumber": "6", 
+      "lat": 50.898741474120065, 
+      "lon": 3.660093208307387, 
       "pcode": 9750, 
-      "street": "Vlasstraat", 
-      "lon": 3.660093208307387
+      "street": "Vlasstraat"
     }
-  ], 
-  "name": "Vlasstraat"
+  ]
 }

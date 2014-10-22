@@ -1,20 +1,18 @@
 {
-  "pcode": 3212, 
   "addresses": [
     {
-      "lat": 50.86528375672349, 
       "housenumber": "1", 
+      "lat": 50.86528375672349, 
+      "lon": 4.791039162444643, 
       "pcode": 3212, 
-      "street": "Varenberg", 
-      "lon": 4.791039162444643
+      "street": "Varenberg"
     }, 
     {
-      "lat": 50.86529701841189, 
       "housenumber": "3", 
+      "lat": 50.86529701841189, 
+      "lon": 4.791051072124456, 
       "pcode": 3212, 
-      "street": "Varenberg", 
-      "lon": 4.791051072124456
+      "street": "Varenberg"
     }
-  ], 
-  "name": "Varenberg"
+  ]
 }

@@ -1,42 +1,40 @@
 {
-  "pcode": 8501, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 8501, 
-      "street": "Noordlaan", 
-      "housenumber": "11"
+      "street": "Noordlaan"
     }, 
     {
-      "lat": 50.85179953178388, 
       "housenumber": "20", 
+      "lat": 50.85179953178388, 
+      "lon": 3.255238287357865, 
       "pcode": 8501, 
-      "street": "Noordlaan", 
-      "lon": 3.255238287357865
+      "street": "Noordlaan"
     }, 
     {
+      "housenumber": "29", 
       "pcode": 8501, 
-      "street": "Noordlaan", 
-      "housenumber": "29"
+      "street": "Noordlaan"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8501, 
-      "street": "Noordlaan", 
-      "housenumber": "4"
+      "street": "Noordlaan"
     }, 
     {
-      "lat": 50.85385404222669, 
       "housenumber": "5", 
+      "lat": 50.85385404222669, 
+      "lon": 3.254736135055627, 
       "pcode": 8501, 
-      "street": "Noordlaan", 
-      "lon": 3.254736135055627
+      "street": "Noordlaan"
     }, 
     {
-      "lat": 50.855452775632735, 
       "housenumber": "7", 
+      "lat": 50.855452775632735, 
+      "lon": 3.2564468633541703, 
       "pcode": 8501, 
-      "street": "Noordlaan", 
-      "lon": 3.2564468633541703
+      "street": "Noordlaan"
     }
-  ], 
-  "name": "Noordlaan"
+  ]
 }

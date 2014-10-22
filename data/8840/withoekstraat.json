@@ -1,20 +1,18 @@
 {
-  "pcode": 8840, 
   "addresses": [
     {
-      "lat": 50.9402856881686, 
       "housenumber": "11", 
+      "lat": 50.9402856881686, 
+      "lon": 3.085150885569363, 
       "pcode": 8840, 
-      "street": "Withoekstraat", 
-      "lon": 3.085150885569363
+      "street": "Withoekstraat"
     }, 
     {
-      "lat": 50.939323301609605, 
       "housenumber": "13", 
+      "lat": 50.939323301609605, 
+      "lon": 3.0863426008574213, 
       "pcode": 8840, 
-      "street": "Withoekstraat", 
-      "lon": 3.0863426008574213
+      "street": "Withoekstraat"
     }
-  ], 
-  "name": "Withoekstraat"
+  ]
 }

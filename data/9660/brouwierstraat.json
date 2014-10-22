@@ -1,20 +1,18 @@
 {
-  "pcode": 9660, 
   "addresses": [
     {
-      "lat": 50.775968464052035, 
       "housenumber": "2", 
+      "lat": 50.775968464052035, 
+      "lon": 3.803930197269228, 
       "pcode": 9660, 
-      "street": "Brouwierstraat", 
-      "lon": 3.803930197269228
+      "street": "Brouwierstraat"
     }, 
     {
-      "lat": 50.77563015587083, 
       "housenumber": "4", 
+      "lat": 50.77563015587083, 
+      "lon": 3.8044494908734476, 
       "pcode": 9660, 
-      "street": "Brouwierstraat", 
-      "lon": 3.8044494908734476
+      "street": "Brouwierstraat"
     }
-  ], 
-  "name": "Brouwierstraat"
+  ]
 }

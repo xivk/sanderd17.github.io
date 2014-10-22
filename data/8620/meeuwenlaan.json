@@ -1,20 +1,18 @@
 {
-  "pcode": 8620, 
   "addresses": [
     {
-      "lat": 51.144564688445456, 
       "housenumber": "1", 
+      "lat": 51.144564688445456, 
+      "lon": 2.706363689403575, 
       "pcode": 8620, 
-      "street": "Meeuwenlaan", 
-      "lon": 2.706363689403575
+      "street": "Meeuwenlaan"
     }, 
     {
-      "lat": 51.144788983965476, 
       "housenumber": "2", 
+      "lat": 51.144788983965476, 
+      "lon": 2.706808813141009, 
       "pcode": 8620, 
-      "street": "Meeuwenlaan", 
-      "lon": 2.706808813141009
+      "street": "Meeuwenlaan"
     }
-  ], 
-  "name": "Meeuwenlaan"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9042, 
   "addresses": [
     {
-      "lat": 51.13013005131951, 
       "housenumber": "2", 
+      "lat": 51.13013005131951, 
+      "lon": 3.7960549575255085, 
       "pcode": 9042, 
-      "street": "Braamtweg", 
-      "lon": 3.7960549575255085
+      "street": "Braamtweg"
     }, 
     {
-      "lat": 51.132160045109046, 
       "housenumber": "3", 
+      "lat": 51.132160045109046, 
+      "lon": 3.7982137963194145, 
       "pcode": 9042, 
-      "street": "Braamtweg", 
-      "lon": 3.7982137963194145
+      "street": "Braamtweg"
     }
-  ], 
-  "name": "Braamtweg"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 9820, 
   "addresses": [
     {
-      "lat": 50.96046018052892, 
       "housenumber": "1", 
+      "lat": 50.96046018052892, 
+      "lon": 3.7199290803214726, 
       "pcode": 9820, 
-      "street": "Patrijzenstraat", 
-      "lon": 3.7199290803214726
+      "street": "Patrijzenstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9820, 
-      "street": "Patrijzenstraat", 
-      "housenumber": "2"
+      "street": "Patrijzenstraat"
     }
-  ], 
-  "name": "Patrijzenstraat"
+  ]
 }

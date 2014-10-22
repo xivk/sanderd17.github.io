@@ -1,13 +1,11 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.22104936128242, 
       "housenumber": "1", 
+      "lat": 51.22104936128242, 
+      "lon": 3.2215074322524537, 
       "pcode": 8000, 
-      "street": "IJzerstraat", 
-      "lon": 3.2215074322524537
+      "street": "IJzerstraat"
     }
-  ], 
-  "name": "IJzerstraat"
+  ]
 }

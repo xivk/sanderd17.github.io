@@ -1,23 +1,21 @@
 {
-  "pcode": 8450, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 8450, 
-      "street": "Gerard Davidstraat", 
-      "housenumber": "2"
+      "street": "Gerard Davidstraat"
     }, 
     {
-      "lat": 51.22632434725337, 
       "housenumber": "26", 
+      "lat": 51.22632434725337, 
+      "lon": 2.9656032194773254, 
       "pcode": 8450, 
-      "street": "Gerard Davidstraat", 
-      "lon": 2.9656032194773254
+      "street": "Gerard Davidstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 8450, 
-      "street": "Gerard Davidstraat", 
-      "housenumber": "8"
+      "street": "Gerard Davidstraat"
     }
-  ], 
-  "name": "Gerard Davidstraat"
+  ]
 }

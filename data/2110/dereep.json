@@ -1,32 +1,30 @@
 {
-  "pcode": 2110, 
   "addresses": [
     {
+      "housenumber": "4", 
       "pcode": 2110, 
-      "street": "De Reep", 
-      "housenumber": "4"
+      "street": "De Reep"
     }, 
     {
-      "lat": 51.225637322178436, 
       "housenumber": "5", 
+      "lat": 51.225637322178436, 
+      "lon": 4.515769870320415, 
       "pcode": 2110, 
-      "street": "De Reep", 
-      "lon": 4.515769870320415
+      "street": "De Reep"
     }, 
     {
-      "lat": 51.22552506501475, 
       "housenumber": "6", 
+      "lat": 51.22552506501475, 
+      "lon": 4.515619639469787, 
       "pcode": 2110, 
-      "street": "De Reep", 
-      "lon": 4.515619639469787
+      "street": "De Reep"
     }, 
     {
-      "lat": 51.22571547296779, 
       "housenumber": "7", 
+      "lat": 51.22571547296779, 
+      "lon": 4.515736478169326, 
       "pcode": 2110, 
-      "street": "De Reep", 
-      "lon": 4.515736478169326
+      "street": "De Reep"
     }
-  ], 
-  "name": "De Reep"
+  ]
 }

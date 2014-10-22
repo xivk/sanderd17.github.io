@@ -1,45 +1,43 @@
 {
-  "pcode": 9120, 
   "addresses": [
     {
-      "lat": 51.212239765522256, 
       "housenumber": "1", 
+      "lat": 51.212239765522256, 
+      "lon": 4.26872010852604, 
       "pcode": 9120, 
-      "street": "Essendreef", 
-      "lon": 4.26872010852604
+      "street": "Essendreef"
     }, 
     {
-      "lat": 51.21377277129039, 
       "housenumber": "2", 
+      "lat": 51.21377277129039, 
+      "lon": 4.26497591999419, 
       "pcode": 9120, 
-      "street": "Essendreef", 
-      "lon": 4.26497591999419
+      "street": "Essendreef"
     }, 
     {
+      "housenumber": "33", 
       "pcode": 9120, 
-      "street": "Essendreef", 
-      "housenumber": "33"
+      "street": "Essendreef"
     }, 
     {
+      "housenumber": "35", 
       "pcode": 9120, 
-      "street": "Essendreef", 
-      "housenumber": "35"
+      "street": "Essendreef"
     }, 
     {
+      "housenumber": "37", 
       "pcode": 9120, 
-      "street": "Essendreef", 
-      "housenumber": "37"
+      "street": "Essendreef"
     }, 
     {
+      "housenumber": "39", 
       "pcode": 9120, 
-      "street": "Essendreef", 
-      "housenumber": "39"
+      "street": "Essendreef"
     }, 
     {
+      "housenumber": "41", 
       "pcode": 9120, 
-      "street": "Essendreef", 
-      "housenumber": "41"
+      "street": "Essendreef"
     }
-  ], 
-  "name": "Essendreef"
+  ]
 }

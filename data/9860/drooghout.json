@@ -1,32 +1,30 @@
 {
-  "pcode": 9860, 
   "addresses": [
     {
-      "lat": 50.94501936347489, 
       "housenumber": "1", 
+      "lat": 50.94501936347489, 
+      "lon": 3.7704856094760224, 
       "pcode": 9860, 
-      "street": "Drooghout", 
-      "lon": 3.7704856094760224
+      "street": "Drooghout"
     }, 
     {
-      "lat": 50.94752953297143, 
       "housenumber": "2", 
+      "lat": 50.94752953297143, 
+      "lon": 3.7687415796897694, 
       "pcode": 9860, 
-      "street": "Drooghout", 
-      "lon": 3.7687415796897694
+      "street": "Drooghout"
     }, 
     {
-      "lat": 50.947460710344, 
       "housenumber": "3", 
+      "lat": 50.947460710344, 
+      "lon": 3.76830829256217, 
       "pcode": 9860, 
-      "street": "Drooghout", 
-      "lon": 3.76830829256217
+      "street": "Drooghout"
     }, 
     {
+      "housenumber": "91", 
       "pcode": 9860, 
-      "street": "Drooghout", 
-      "housenumber": "91"
+      "street": "Drooghout"
     }
-  ], 
-  "name": "Drooghout"
+  ]
 }

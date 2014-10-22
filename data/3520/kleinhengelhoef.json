@@ -1,18 +1,16 @@
 {
-  "pcode": 3520, 
   "addresses": [
     {
-      "lat": 51.00253263387604, 
       "housenumber": "14", 
+      "lat": 51.00253263387604, 
+      "lon": 5.448772207352033, 
       "pcode": 3520, 
-      "street": "Klein Hengelhoef", 
-      "lon": 5.448772207352033
+      "street": "Klein Hengelhoef"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3520, 
-      "street": "Klein Hengelhoef", 
-      "housenumber": "7"
+      "street": "Klein Hengelhoef"
     }
-  ], 
-  "name": "Klein Hengelhoef"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 9910, 
   "addresses": [
     {
-      "lat": 51.12798971800754, 
       "housenumber": "1", 
+      "lat": 51.12798971800754, 
+      "lon": 3.486885109983573, 
       "pcode": 9910, 
-      "street": "Sint-Joriswegel", 
-      "lon": 3.486885109983573
+      "street": "Sint-Joriswegel"
     }, 
     {
-      "lat": 51.12798632233628, 
       "housenumber": "2", 
+      "lat": 51.12798632233628, 
+      "lon": 3.4871286044459535, 
       "pcode": 9910, 
-      "street": "Sint-Joriswegel", 
-      "lon": 3.4871286044459535
+      "street": "Sint-Joriswegel"
     }, 
     {
-      "lat": 51.127979469768256, 
       "housenumber": "3", 
+      "lat": 51.127979469768256, 
+      "lon": 3.487342592379478, 
       "pcode": 9910, 
-      "street": "Sint-Joriswegel", 
-      "lon": 3.487342592379478
+      "street": "Sint-Joriswegel"
     }
-  ], 
-  "name": "Sint-Joriswegel"
+  ]
 }

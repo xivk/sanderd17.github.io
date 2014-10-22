@@ -1,46 +1,44 @@
 {
-  "pcode": 1970, 
   "addresses": [
     {
-      "lat": 50.8318807360355, 
       "housenumber": "1", 
+      "lat": 50.8318807360355, 
+      "lon": 4.499299972875139, 
       "pcode": 1970, 
-      "street": "Hermelijnlaan", 
-      "lon": 4.499299972875139
+      "street": "Hermelijnlaan"
     }, 
     {
-      "lat": 50.832048839970376, 
       "housenumber": "2", 
+      "lat": 50.832048839970376, 
+      "lon": 4.498898583490403, 
       "pcode": 1970, 
-      "street": "Hermelijnlaan", 
-      "lon": 4.498898583490403
+      "street": "Hermelijnlaan"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 1970, 
-      "street": "Hermelijnlaan", 
-      "housenumber": "3"
+      "street": "Hermelijnlaan"
     }, 
     {
-      "lat": 50.83144025612365, 
       "housenumber": "4", 
+      "lat": 50.83144025612365, 
+      "lon": 4.499051045185995, 
       "pcode": 1970, 
-      "street": "Hermelijnlaan", 
-      "lon": 4.499051045185995
+      "street": "Hermelijnlaan"
     }, 
     {
-      "lat": 50.83161817499418, 
       "housenumber": "6", 
+      "lat": 50.83161817499418, 
+      "lon": 4.498795608500782, 
       "pcode": 1970, 
-      "street": "Hermelijnlaan", 
-      "lon": 4.498795608500782
+      "street": "Hermelijnlaan"
     }, 
     {
-      "lat": 50.83179901679947, 
       "housenumber": "8", 
+      "lat": 50.83179901679947, 
+      "lon": 4.498255429161465, 
       "pcode": 1970, 
-      "street": "Hermelijnlaan", 
-      "lon": 4.498255429161465
+      "street": "Hermelijnlaan"
     }
-  ], 
-  "name": "Hermelijnlaan"
+  ]
 }

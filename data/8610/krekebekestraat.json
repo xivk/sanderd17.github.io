@@ -1,25 +1,23 @@
 {
-  "pcode": 8610, 
   "addresses": [
     {
-      "lat": 51.027134362366425, 
       "housenumber": "1", 
+      "lat": 51.027134362366425, 
+      "lon": 3.023653246565247, 
       "pcode": 8610, 
-      "street": "Krekebekestraat", 
-      "lon": 3.023653246565247
+      "street": "Krekebekestraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8610, 
-      "street": "Krekebekestraat", 
-      "housenumber": "3"
+      "street": "Krekebekestraat"
     }, 
     {
-      "lat": 51.024028758331205, 
       "housenumber": "5", 
+      "lat": 51.024028758331205, 
+      "lon": 3.0270964348750344, 
       "pcode": 8610, 
-      "street": "Krekebekestraat", 
-      "lon": 3.0270964348750344
+      "street": "Krekebekestraat"
     }
-  ], 
-  "name": "Krekebekestraat"
+  ]
 }

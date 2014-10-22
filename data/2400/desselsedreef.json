@@ -1,20 +1,18 @@
 {
-  "pcode": 2400, 
   "addresses": [
     {
-      "lat": 51.27983320911036, 
       "housenumber": "49", 
+      "lat": 51.27983320911036, 
+      "lon": 5.180870041847536, 
       "pcode": 2400, 
-      "street": "Desselsedreef", 
-      "lon": 5.180870041847536
+      "street": "Desselsedreef"
     }, 
     {
-      "lat": 51.28011879857948, 
       "housenumber": "50", 
+      "lat": 51.28011879857948, 
+      "lon": 5.180133901628584, 
       "pcode": 2400, 
-      "street": "Desselsedreef", 
-      "lon": 5.180133901628584
+      "street": "Desselsedreef"
     }
-  ], 
-  "name": "Desselsedreef"
+  ]
 }

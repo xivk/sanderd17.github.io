@@ -1,27 +1,25 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.94656314791985, 
       "housenumber": "1", 
+      "lat": 50.94656314791985, 
+      "lon": 3.133797021246823, 
       "pcode": 8800, 
-      "street": "Fortuinstraat", 
-      "lon": 3.133797021246823
+      "street": "Fortuinstraat"
     }, 
     {
-      "lat": 50.94670147589754, 
       "housenumber": "3", 
+      "lat": 50.94670147589754, 
+      "lon": 3.133810743593063, 
       "pcode": 8800, 
-      "street": "Fortuinstraat", 
-      "lon": 3.133810743593063
+      "street": "Fortuinstraat"
     }, 
     {
-      "lat": 50.94682523199342, 
       "housenumber": "5", 
+      "lat": 50.94682523199342, 
+      "lon": 3.1339093852522732, 
       "pcode": 8800, 
-      "street": "Fortuinstraat", 
-      "lon": 3.1339093852522732
+      "street": "Fortuinstraat"
     }
-  ], 
-  "name": "Fortuinstraat"
+  ]
 }

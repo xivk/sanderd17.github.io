@@ -1,39 +1,37 @@
 {
-  "pcode": 9160, 
   "addresses": [
     {
-      "lat": 51.082882748546666, 
       "housenumber": "1", 
+      "lat": 51.082882748546666, 
+      "lon": 3.9964575994254776, 
       "pcode": 9160, 
-      "street": "Maesbossen", 
-      "lon": 3.9964575994254776
+      "street": "Maesbossen"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 9160, 
-      "street": "Maesbossen", 
-      "housenumber": "1A"
+      "street": "Maesbossen"
     }, 
     {
-      "lat": 51.08367028648118, 
       "housenumber": "2", 
+      "lat": 51.08367028648118, 
+      "lon": 3.9975476752631134, 
       "pcode": 9160, 
-      "street": "Maesbossen", 
-      "lon": 3.9975476752631134
+      "street": "Maesbossen"
     }, 
     {
-      "lat": 51.08231933851369, 
       "housenumber": "3", 
+      "lat": 51.08231933851369, 
+      "lon": 3.997034059559699, 
       "pcode": 9160, 
-      "street": "Maesbossen", 
-      "lon": 3.997034059559699
+      "street": "Maesbossen"
     }, 
     {
-      "lat": 51.081850284353344, 
       "housenumber": "5", 
+      "lat": 51.081850284353344, 
+      "lon": 3.9975452539286045, 
       "pcode": 9160, 
-      "street": "Maesbossen", 
-      "lon": 3.9975452539286045
+      "street": "Maesbossen"
     }
-  ], 
-  "name": "Maesbossen"
+  ]
 }

@@ -1,103 +1,103 @@
 {
   "streets": [
     {
-      "latmax": 50.823638534221224, 
+      "b": 50.823638534221224, 
+      "l": 4.6958673026807265, 
       "name": "Diewegstraat", 
-      "lonmin": 4.6958673026807265, 
+      "numOfAddr": 1, 
+      "r": 4.6958673026807265, 
       "sanName": "diewegstraat", 
-      "numOfAddr": 1, 
-      "lonmax": 4.6958673026807265, 
-      "latmin": 50.823638534221224
+      "t": 50.823638534221224
     }, 
     {
-      "latmax": 50.82767279661058, 
+      "b": 50.826932673718, 
+      "l": 4.689843208136761, 
       "name": "Gemeentestraat", 
-      "lonmin": 4.689843208136761, 
-      "sanName": "gemeentestraat", 
       "numOfAddr": 9, 
-      "lonmax": 4.692158913568963, 
-      "latmin": 50.826932673718
+      "r": 4.692158913568963, 
+      "sanName": "gemeentestraat", 
+      "t": 50.82767279661058
     }, 
     {
-      "latmax": 50.82931546729411, 
+      "b": 50.822827947970666, 
+      "l": 4.686999662644131, 
       "name": "Grezstraat", 
-      "lonmin": 4.686999662644131, 
-      "sanName": "grezstraat", 
       "numOfAddr": 43, 
-      "lonmax": 4.691295020200446, 
-      "latmin": 50.822827947970666
+      "r": 4.691295020200446, 
+      "sanName": "grezstraat", 
+      "t": 50.82931546729411
     }, 
     {
-      "latmax": 50.824963910832075, 
+      "b": 50.824963910832075, 
+      "l": 4.690736295173376, 
       "name": "Groenendaalstraat", 
-      "lonmin": 4.690736295173376, 
-      "sanName": "groenendaalstraat", 
       "numOfAddr": 1, 
-      "lonmax": 4.690736295173376, 
-      "latmin": 50.824963910832075
+      "r": 4.690736295173376, 
+      "sanName": "groenendaalstraat", 
+      "t": 50.824963910832075
     }, 
     {
-      "latmax": 50.82546993559809, 
-      "name": "Maurits No\u0089straat", 
-      "lonmin": 4.673678535085324, 
-      "sanName": "mauritsnostraat", 
+      "b": 50.82367835885749, 
+      "l": 4.673678535085324, 
+      "name": "Maurits No\u00ebstraat", 
       "numOfAddr": 52, 
-      "lonmax": 4.688542115059156, 
-      "latmin": 50.82367835885749
+      "r": 4.688542115059156, 
+      "sanName": "mauritsnostraat", 
+      "t": 50.82546993559809
     }, 
     {
-      "latmax": 50.82369688832025, 
+      "b": 50.817117596523616, 
+      "l": 4.673772654240703, 
       "name": "Monarkenweg", 
-      "lonmin": 4.673772654240703, 
-      "sanName": "monarkenweg", 
       "numOfAddr": 4, 
-      "lonmax": 4.681713485050438, 
-      "latmin": 50.817117596523616
+      "r": 4.681713485050438, 
+      "sanName": "monarkenweg", 
+      "t": 50.82369688832025
     }, 
     {
-      "latmax": 50.829029896820956, 
+      "b": 50.82522783528666, 
+      "l": 4.689431499766474, 
       "name": "O.-L.-Vrouwstraat", 
-      "lonmin": 4.689431499766474, 
-      "sanName": "olvrouwstraat", 
       "numOfAddr": 37, 
-      "lonmax": 4.694965800211751, 
-      "latmin": 50.82522783528666
+      "r": 4.694965800211751, 
+      "sanName": "olvrouwstraat", 
+      "t": 50.829029896820956
     }, 
     {
-      "latmax": 50.82805765887042, 
+      "b": 50.827640462875365, 
+      "l": 4.687440627988054, 
       "name": "Oud-Heverleestraat", 
-      "lonmin": 4.687440627988054, 
-      "sanName": "oudheverleestraat", 
       "numOfAddr": 6, 
-      "lonmax": 4.6890803787857065, 
-      "latmin": 50.827640462875365
+      "r": 4.6890803787857065, 
+      "sanName": "oudheverleestraat", 
+      "t": 50.82805765887042
     }, 
     {
-      "latmax": 50.83288006623393, 
+      "b": 50.82101257328971, 
+      "l": 4.693156121340038, 
       "name": "Prosperdreef", 
-      "lonmin": 4.693156121340038, 
-      "sanName": "prosperdreef", 
       "numOfAddr": 7, 
-      "lonmax": 4.69713798512341, 
-      "latmin": 50.82101257328971
+      "r": 4.69713798512341, 
+      "sanName": "prosperdreef", 
+      "t": 50.83288006623393
     }, 
     {
-      "latmax": 50.824370773206134, 
+      "b": 50.8239017672769, 
+      "l": 4.680858635336283, 
       "name": "St.-Joris-Weertstraat", 
-      "lonmin": 4.680858635336283, 
-      "sanName": "stjorisweertstraat", 
       "numOfAddr": 5, 
-      "lonmax": 4.682767659847707, 
-      "latmin": 50.8239017672769
+      "r": 4.682767659847707, 
+      "sanName": "stjorisweertstraat", 
+      "t": 50.824370773206134
     }, 
     {
-      "latmax": 50.827193623958934, 
+      "b": 50.82678147904016, 
+      "l": 4.688681282853831, 
       "name": "St.-Magdalenaweg", 
-      "lonmin": 4.688681282853831, 
-      "sanName": "stmagdalenaweg", 
       "numOfAddr": 3, 
-      "lonmax": 4.688963770872918, 
-      "latmin": 50.82678147904016
+      "r": 4.688963770872918, 
+      "sanName": "stmagdalenaweg", 
+      "t": 50.827193623958934
     }
   ]
 }

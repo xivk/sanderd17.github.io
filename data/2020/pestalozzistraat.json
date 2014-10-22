@@ -1,32 +1,30 @@
 {
-  "pcode": 2020, 
   "addresses": [
     {
-      "lat": 51.186623962812746, 
       "housenumber": "1", 
+      "lat": 51.186623962812746, 
+      "lon": 4.391897744623759, 
       "pcode": 2020, 
-      "street": "Pestalozzistraat", 
-      "lon": 4.391897744623759
+      "street": "Pestalozzistraat"
     }, 
     {
-      "lat": 51.18658749618799, 
       "housenumber": "3", 
+      "lat": 51.18658749618799, 
+      "lon": 4.391764996422633, 
       "pcode": 2020, 
-      "street": "Pestalozzistraat", 
-      "lon": 4.391764996422633
+      "street": "Pestalozzistraat"
     }, 
     {
-      "lat": 51.186190438806264, 
       "housenumber": "5", 
+      "lat": 51.186190438806264, 
+      "lon": 4.391032356832387, 
       "pcode": 2020, 
-      "street": "Pestalozzistraat", 
-      "lon": 4.391032356832387
+      "street": "Pestalozzistraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2020, 
-      "street": "Pestalozzistraat", 
-      "housenumber": "7"
+      "street": "Pestalozzistraat"
     }
-  ], 
-  "name": "Pestalozzistraat"
+  ]
 }

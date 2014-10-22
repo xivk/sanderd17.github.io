@@ -1,20 +1,18 @@
 {
-  "pcode": 3890, 
   "addresses": [
     {
-      "lat": 50.70406561826649, 
       "housenumber": "1", 
+      "lat": 50.70406561826649, 
+      "lon": 5.148248020043848, 
       "pcode": 3890, 
-      "street": "Driesstraat", 
-      "lon": 5.148248020043848
+      "street": "Driesstraat"
     }, 
     {
-      "lat": 50.7044964381177, 
       "housenumber": "2", 
+      "lat": 50.7044964381177, 
+      "lon": 5.14700704196869, 
       "pcode": 3890, 
-      "street": "Driesstraat", 
-      "lon": 5.14700704196869
+      "street": "Driesstraat"
     }
-  ], 
-  "name": "Driesstraat"
+  ]
 }

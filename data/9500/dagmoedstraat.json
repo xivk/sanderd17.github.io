@@ -1,18 +1,16 @@
 {
-  "pcode": 9500, 
   "addresses": [
     {
+      "housenumber": "117B", 
       "pcode": 9500, 
-      "street": "Dagmoedstraat", 
-      "housenumber": "117B"
+      "street": "Dagmoedstraat"
     }, 
     {
-      "lat": 50.79640062697898, 
       "housenumber": "86", 
+      "lat": 50.79640062697898, 
+      "lon": 3.883590733181498, 
       "pcode": 9500, 
-      "street": "Dagmoedstraat", 
-      "lon": 3.883590733181498
+      "street": "Dagmoedstraat"
     }
-  ], 
-  "name": "Dagmoedstraat"
+  ]
 }

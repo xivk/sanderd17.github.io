@@ -1,25 +1,23 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
-      "lat": 51.276237452722036, 
       "housenumber": "1", 
+      "lat": 51.276237452722036, 
+      "lon": 3.0311043497903474, 
       "pcode": 8420, 
-      "street": "Clementinalaan", 
-      "lon": 3.0311043497903474
+      "street": "Clementinalaan"
     }, 
     {
+      "housenumber": "15", 
       "pcode": 8420, 
-      "street": "Clementinalaan", 
-      "housenumber": "15"
+      "street": "Clementinalaan"
     }, 
     {
-      "lat": 51.276281591998924, 
       "housenumber": "3", 
+      "lat": 51.276281591998924, 
+      "lon": 3.031430726342066, 
       "pcode": 8420, 
-      "street": "Clementinalaan", 
-      "lon": 3.031430726342066
+      "street": "Clementinalaan"
     }
-  ], 
-  "name": "Clementinalaan"
+  ]
 }

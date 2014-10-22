@@ -1,20 +1,18 @@
 {
-  "pcode": 2260, 
   "addresses": [
     {
-      "lat": 51.102262766000706, 
       "housenumber": "2", 
+      "lat": 51.102262766000706, 
+      "lon": 4.826028399539475, 
       "pcode": 2260, 
-      "street": "Spoorwegstraat", 
-      "lon": 4.826028399539475
+      "street": "Spoorwegstraat"
     }, 
     {
-      "lat": 51.101258865229234, 
       "housenumber": "9", 
+      "lat": 51.101258865229234, 
+      "lon": 4.821963206705931, 
       "pcode": 2260, 
-      "street": "Spoorwegstraat", 
-      "lon": 4.821963206705931
+      "street": "Spoorwegstraat"
     }
-  ], 
-  "name": "Spoorwegstraat"
+  ]
 }

@@ -1,50 +1,48 @@
 {
-  "pcode": 2020, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 2020, 
-      "street": "August Leyweg", 
-      "housenumber": "10"
+      "street": "August Leyweg"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 2020, 
-      "street": "August Leyweg", 
-      "housenumber": "12"
+      "street": "August Leyweg"
     }, 
     {
+      "housenumber": "14", 
       "pcode": 2020, 
-      "street": "August Leyweg", 
-      "housenumber": "14"
+      "street": "August Leyweg"
     }, 
     {
-      "lat": 51.19460642536482, 
       "housenumber": "2", 
+      "lat": 51.19460642536482, 
+      "lon": 4.378537177548341, 
       "pcode": 2020, 
-      "street": "August Leyweg", 
-      "lon": 4.378537177548341
+      "street": "August Leyweg"
     }, 
     {
-      "lat": 51.19444095543012, 
       "housenumber": "3", 
+      "lat": 51.19444095543012, 
+      "lon": 4.3761476060355, 
       "pcode": 2020, 
-      "street": "August Leyweg", 
-      "lon": 4.3761476060355
+      "street": "August Leyweg"
     }, 
     {
+      "housenumber": "3A", 
       "pcode": 2020, 
-      "street": "August Leyweg", 
-      "housenumber": "3A"
+      "street": "August Leyweg"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2020, 
-      "street": "August Leyweg", 
-      "housenumber": "4"
+      "street": "August Leyweg"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2020, 
-      "street": "August Leyweg", 
-      "housenumber": "8"
+      "street": "August Leyweg"
     }
-  ], 
-  "name": "August Leyweg"
+  ]
 }

@@ -1,70 +1,68 @@
 {
-  "pcode": 1500, 
   "addresses": [
     {
-      "lat": 50.73927299684934, 
       "housenumber": "1", 
-      "pcode": 1500, 
-      "street": "Nikkenberg", 
-      "lon": 4.226792571201502
-    }, 
-    {
-      "pcode": 1500, 
-      "street": "Nikkenberg", 
-      "housenumber": "10"
-    }, 
-    {
-      "lat": 50.73938270864767, 
-      "housenumber": "2", 
-      "pcode": 1500, 
-      "street": "Nikkenberg", 
-      "lon": 4.226525193943322
-    }, 
-    {
-      "lat": 50.73941229078604, 
-      "housenumber": "3", 
-      "pcode": 1500, 
-      "street": "Nikkenberg", 
-      "lon": 4.226604298763405
-    }, 
-    {
-      "lat": 50.7394261339699, 
-      "housenumber": "4", 
-      "pcode": 1500, 
-      "street": "Nikkenberg", 
-      "lon": 4.226603407179598
-    }, 
-    {
-      "lat": 50.73946630153208, 
-      "housenumber": "5", 
-      "pcode": 1500, 
-      "street": "Nikkenberg", 
-      "lon": 4.226663921530477
-    }, 
-    {
-      "pcode": 1500, 
-      "street": "Nikkenberg", 
-      "housenumber": "6"
-    }, 
-    {
-      "pcode": 1500, 
-      "street": "Nikkenberg", 
-      "housenumber": "7"
-    }, 
-    {
       "lat": 50.73927299684934, 
-      "housenumber": "8", 
+      "lon": 4.226792571201502, 
       "pcode": 1500, 
-      "street": "Nikkenberg", 
-      "lon": 4.226792571201502
+      "street": "Nikkenberg"
     }, 
     {
-      "lat": 50.73929619724079, 
-      "housenumber": "9", 
+      "housenumber": "10", 
       "pcode": 1500, 
-      "street": "Nikkenberg", 
-      "lon": 4.226798168436141
+      "street": "Nikkenberg"
+    }, 
+    {
+      "housenumber": "2", 
+      "lat": 50.73938270864767, 
+      "lon": 4.226525193943322, 
+      "pcode": 1500, 
+      "street": "Nikkenberg"
+    }, 
+    {
+      "housenumber": "3", 
+      "lat": 50.73941229078604, 
+      "lon": 4.226604298763405, 
+      "pcode": 1500, 
+      "street": "Nikkenberg"
+    }, 
+    {
+      "housenumber": "4", 
+      "lat": 50.7394261339699, 
+      "lon": 4.226603407179598, 
+      "pcode": 1500, 
+      "street": "Nikkenberg"
+    }, 
+    {
+      "housenumber": "5", 
+      "lat": 50.73946630153208, 
+      "lon": 4.226663921530477, 
+      "pcode": 1500, 
+      "street": "Nikkenberg"
+    }, 
+    {
+      "housenumber": "6", 
+      "pcode": 1500, 
+      "street": "Nikkenberg"
+    }, 
+    {
+      "housenumber": "7", 
+      "pcode": 1500, 
+      "street": "Nikkenberg"
+    }, 
+    {
+      "housenumber": "8", 
+      "lat": 50.73927299684934, 
+      "lon": 4.226792571201502, 
+      "pcode": 1500, 
+      "street": "Nikkenberg"
+    }, 
+    {
+      "housenumber": "9", 
+      "lat": 50.73929619724079, 
+      "lon": 4.226798168436141, 
+      "pcode": 1500, 
+      "street": "Nikkenberg"
     }
-  ], 
-  "name": "Nikkenberg"
+  ]
 }

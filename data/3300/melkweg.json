@@ -1,30 +1,28 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.820310600054626, 
       "housenumber": "1", 
+      "lat": 50.820310600054626, 
+      "lon": 4.991411849857242, 
       "pcode": 3300, 
-      "street": "Melkweg", 
-      "lon": 4.991411849857242
+      "street": "Melkweg"
     }, 
     {
+      "housenumber": "59", 
       "pcode": 3300, 
-      "street": "Melkweg", 
-      "housenumber": "59"
+      "street": "Melkweg"
     }, 
     {
+      "housenumber": "60", 
       "pcode": 3300, 
-      "street": "Melkweg", 
-      "housenumber": "60"
+      "street": "Melkweg"
     }, 
     {
-      "lat": 50.820397166685, 
       "housenumber": "61", 
+      "lat": 50.820397166685, 
+      "lon": 4.991176276361152, 
       "pcode": 3300, 
-      "street": "Melkweg", 
-      "lon": 4.991176276361152
+      "street": "Melkweg"
     }
-  ], 
-  "name": "Melkweg"
+  ]
 }

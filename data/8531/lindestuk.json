@@ -1,20 +1,18 @@
 {
-  "pcode": 8531, 
   "addresses": [
     {
-      "lat": 50.88505514571746, 
       "housenumber": "1", 
+      "lat": 50.88505514571746, 
+      "lon": 3.285447611049157, 
       "pcode": 8531, 
-      "street": "Lindestuk", 
-      "lon": 3.285447611049157
+      "street": "Lindestuk"
     }, 
     {
-      "lat": 50.88494025774707, 
       "housenumber": "3", 
+      "lat": 50.88494025774707, 
+      "lon": 3.2852926437259975, 
       "pcode": 8531, 
-      "street": "Lindestuk", 
-      "lon": 3.2852926437259975
+      "street": "Lindestuk"
     }
-  ], 
-  "name": "Lindestuk"
+  ]
 }

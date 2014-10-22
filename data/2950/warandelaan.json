@@ -1,20 +1,18 @@
 {
-  "pcode": 2950, 
   "addresses": [
     {
-      "lat": 51.353597135529036, 
       "housenumber": "2", 
+      "lat": 51.353597135529036, 
+      "lon": 4.4016482825508, 
       "pcode": 2950, 
-      "street": "Warandelaan", 
-      "lon": 4.4016482825508
+      "street": "Warandelaan"
     }, 
     {
-      "lat": 51.35411837071089, 
       "housenumber": "5", 
+      "lat": 51.35411837071089, 
+      "lon": 4.400909556598331, 
       "pcode": 2950, 
-      "street": "Warandelaan", 
-      "lon": 4.400909556598331
+      "street": "Warandelaan"
     }
-  ], 
-  "name": "Warandelaan"
+  ]
 }

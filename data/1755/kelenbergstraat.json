@@ -1,20 +1,18 @@
 {
-  "pcode": 1755, 
   "addresses": [
     {
-      "lat": 50.80213449967478, 
       "housenumber": "2", 
+      "lat": 50.80213449967478, 
+      "lon": 4.080229962465438, 
       "pcode": 1755, 
-      "street": "Kelenbergstraat", 
-      "lon": 4.080229962465438
+      "street": "Kelenbergstraat"
     }, 
     {
-      "lat": 50.80184651369109, 
       "housenumber": "4", 
+      "lat": 50.80184651369109, 
+      "lon": 4.079845441887666, 
       "pcode": 1755, 
-      "street": "Kelenbergstraat", 
-      "lon": 4.079845441887666
+      "street": "Kelenbergstraat"
     }
-  ], 
-  "name": "Kelenbergstraat"
+  ]
 }

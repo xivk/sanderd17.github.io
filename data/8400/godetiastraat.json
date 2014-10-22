@@ -1,30 +1,28 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.22290423711357, 
       "housenumber": "10", 
+      "lat": 51.22290423711357, 
+      "lon": 2.937438313899402, 
       "pcode": 8400, 
-      "street": "Godetiastraat", 
-      "lon": 2.937438313899402
+      "street": "Godetiastraat"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 8400, 
-      "street": "Godetiastraat", 
-      "housenumber": "12"
+      "street": "Godetiastraat"
     }, 
     {
-      "lat": 51.223125288540835, 
       "housenumber": "2", 
+      "lat": 51.223125288540835, 
+      "lon": 2.9362786127793834, 
       "pcode": 8400, 
-      "street": "Godetiastraat", 
-      "lon": 2.9362786127793834
+      "street": "Godetiastraat"
     }, 
     {
+      "housenumber": "ZN", 
       "pcode": 8400, 
-      "street": "Godetiastraat", 
-      "housenumber": "ZN"
+      "street": "Godetiastraat"
     }
-  ], 
-  "name": "Godetiastraat"
+  ]
 }

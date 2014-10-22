@@ -1,67 +1,65 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3600, 
-      "street": "Gasthofstraat", 
-      "housenumber": "1"
+      "street": "Gasthofstraat"
     }, 
     {
-      "lat": 50.98396282619281, 
       "housenumber": "10", 
+      "lat": 50.98396282619281, 
+      "lon": 5.517958456913821, 
       "pcode": 3600, 
-      "street": "Gasthofstraat", 
-      "lon": 5.517958456913821
+      "street": "Gasthofstraat"
     }, 
     {
-      "lat": 50.98419399068356, 
       "housenumber": "11", 
+      "lat": 50.98419399068356, 
+      "lon": 5.518259237499345, 
       "pcode": 3600, 
-      "street": "Gasthofstraat", 
-      "lon": 5.518259237499345
+      "street": "Gasthofstraat"
     }, 
     {
-      "lat": 50.98449292648004, 
       "housenumber": "2", 
+      "lat": 50.98449292648004, 
+      "lon": 5.5171267241407165, 
       "pcode": 3600, 
-      "street": "Gasthofstraat", 
-      "lon": 5.5171267241407165
+      "street": "Gasthofstraat"
     }, 
     {
-      "lat": 50.98446700047858, 
       "housenumber": "3", 
+      "lat": 50.98446700047858, 
+      "lon": 5.518004155676713, 
       "pcode": 3600, 
-      "street": "Gasthofstraat", 
-      "lon": 5.518004155676713
+      "street": "Gasthofstraat"
     }, 
     {
-      "lat": 50.984344201265976, 
       "housenumber": "4", 
+      "lat": 50.984344201265976, 
+      "lon": 5.517387137975574, 
       "pcode": 3600, 
-      "street": "Gasthofstraat", 
-      "lon": 5.517387137975574
+      "street": "Gasthofstraat"
     }, 
     {
-      "lat": 50.98419305018, 
       "housenumber": "6", 
+      "lat": 50.98419305018, 
+      "lon": 5.517601344337464, 
       "pcode": 3600, 
-      "street": "Gasthofstraat", 
-      "lon": 5.517601344337464
+      "street": "Gasthofstraat"
     }, 
     {
-      "lat": 50.98444951409989, 
       "housenumber": "7", 
+      "lat": 50.98444951409989, 
+      "lon": 5.518431721956231, 
       "pcode": 3600, 
-      "street": "Gasthofstraat", 
-      "lon": 5.518431721956231
+      "street": "Gasthofstraat"
     }, 
     {
-      "lat": 50.98408669421805, 
       "housenumber": "8", 
+      "lat": 50.98408669421805, 
+      "lon": 5.517767083831999, 
       "pcode": 3600, 
-      "street": "Gasthofstraat", 
-      "lon": 5.517767083831999
+      "street": "Gasthofstraat"
     }
-  ], 
-  "name": "Gasthofstraat"
+  ]
 }

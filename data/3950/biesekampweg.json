@@ -1,27 +1,25 @@
 {
-  "pcode": 3950, 
   "addresses": [
     {
-      "lat": 51.19964327981318, 
       "housenumber": "1", 
+      "lat": 51.19964327981318, 
+      "lon": 5.499897529826704, 
       "pcode": 3950, 
-      "street": "Biesekampweg", 
-      "lon": 5.499897529826704
+      "street": "Biesekampweg"
     }, 
     {
-      "lat": 51.19923544441695, 
       "housenumber": "2", 
+      "lat": 51.19923544441695, 
+      "lon": 5.49920083603622, 
       "pcode": 3950, 
-      "street": "Biesekampweg", 
-      "lon": 5.49920083603622
+      "street": "Biesekampweg"
     }, 
     {
-      "lat": 51.19915074205659, 
       "housenumber": "3", 
+      "lat": 51.19915074205659, 
+      "lon": 5.497624157746866, 
       "pcode": 3950, 
-      "street": "Biesekampweg", 
-      "lon": 5.497624157746866
+      "street": "Biesekampweg"
     }
-  ], 
-  "name": "Biesekampweg"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.0596680362087, 
       "housenumber": "2", 
+      "lat": 51.0596680362087, 
+      "lon": 3.722961072284008, 
       "pcode": 9000, 
-      "street": "Lange Schipgracht", 
-      "lon": 3.722961072284008
+      "street": "Lange Schipgracht"
     }, 
     {
-      "lat": 51.059858445929606, 
       "housenumber": "4", 
+      "lat": 51.059858445929606, 
+      "lon": 3.7230463167926433, 
       "pcode": 9000, 
-      "street": "Lange Schipgracht", 
-      "lon": 3.7230463167926433
+      "street": "Lange Schipgracht"
     }, 
     {
-      "lat": 51.05989936014784, 
       "housenumber": "6", 
+      "lat": 51.05989936014784, 
+      "lon": 3.7229337759212995, 
       "pcode": 9000, 
-      "street": "Lange Schipgracht", 
-      "lon": 3.7229337759212995
+      "street": "Lange Schipgracht"
     }
-  ], 
-  "name": "Lange Schipgracht"
+  ]
 }

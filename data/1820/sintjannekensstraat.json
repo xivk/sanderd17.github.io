@@ -1,20 +1,18 @@
 {
-  "pcode": 1820, 
   "addresses": [
     {
-      "lat": 50.93118312650129, 
       "housenumber": "1", 
+      "lat": 50.93118312650129, 
+      "lon": 4.499502314308671, 
       "pcode": 1820, 
-      "street": "Sint-Jannekensstraat", 
-      "lon": 4.499502314308671
+      "street": "Sint-Jannekensstraat"
     }, 
     {
-      "lat": 50.93122536401513, 
       "housenumber": "3", 
+      "lat": 50.93122536401513, 
+      "lon": 4.499754071728583, 
       "pcode": 1820, 
-      "street": "Sint-Jannekensstraat", 
-      "lon": 4.499754071728583
+      "street": "Sint-Jannekensstraat"
     }
-  ], 
-  "name": "Sint-Jannekensstraat"
+  ]
 }

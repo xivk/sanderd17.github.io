@@ -1,18 +1,16 @@
 {
-  "pcode": 3061, 
   "addresses": [
     {
+      "housenumber": "7", 
       "pcode": 3061, 
-      "street": "Diepeweg", 
-      "housenumber": "7"
+      "street": "Diepeweg"
     }, 
     {
-      "lat": 50.85988916414154, 
       "housenumber": "9", 
+      "lat": 50.85988916414154, 
+      "lon": 4.566573267911388, 
       "pcode": 3061, 
-      "street": "Diepeweg", 
-      "lon": 4.566573267911388
+      "street": "Diepeweg"
     }
-  ], 
-  "name": "Diepeweg"
+  ]
 }

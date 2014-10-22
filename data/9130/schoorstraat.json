@@ -1,37 +1,35 @@
 {
-  "pcode": 9130, 
   "addresses": [
     {
-      "lat": 51.239574709847915, 
       "housenumber": "2", 
+      "lat": 51.239574709847915, 
+      "lon": 4.186352420662337, 
       "pcode": 9130, 
-      "street": "Schoorstraat", 
-      "lon": 4.186352420662337
+      "street": "Schoorstraat"
     }, 
     {
-      "lat": 51.239587948899555, 
       "housenumber": "2A", 
+      "lat": 51.239587948899555, 
+      "lon": 4.188725467080971, 
       "pcode": 9130, 
-      "street": "Schoorstraat", 
-      "lon": 4.188725467080971
+      "street": "Schoorstraat"
     }, 
     {
+      "housenumber": "2B", 
       "pcode": 9130, 
-      "street": "Schoorstraat", 
-      "housenumber": "2B"
+      "street": "Schoorstraat"
     }, 
     {
-      "lat": 51.23972880011427, 
       "housenumber": "4", 
+      "lat": 51.23972880011427, 
+      "lon": 4.184103863536722, 
       "pcode": 9130, 
-      "street": "Schoorstraat", 
-      "lon": 4.184103863536722
+      "street": "Schoorstraat"
     }, 
     {
+      "housenumber": "52C", 
       "pcode": 9130, 
-      "street": "Schoorstraat", 
-      "housenumber": "52C"
+      "street": "Schoorstraat"
     }
-  ], 
-  "name": "Schoorstraat"
+  ]
 }

@@ -1,91 +1,89 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 8000, 
-      "street": "Sint-Niklaasstraat", 
-      "housenumber": "11"
+      "street": "Sint-Niklaasstraat"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 8000, 
-      "street": "Sint-Niklaasstraat", 
-      "housenumber": "12"
+      "street": "Sint-Niklaasstraat"
     }, 
     {
-      "lat": 51.207348212692835, 
       "housenumber": "13", 
+      "lat": 51.207348212692835, 
+      "lon": 3.224578057847668, 
       "pcode": 8000, 
-      "street": "Sint-Niklaasstraat", 
-      "lon": 3.224578057847668
+      "street": "Sint-Niklaasstraat"
     }, 
     {
-      "lat": 51.207260831088874, 
       "housenumber": "14", 
+      "lat": 51.207260831088874, 
+      "lon": 3.2241689080662534, 
       "pcode": 8000, 
-      "street": "Sint-Niklaasstraat", 
-      "lon": 3.2241689080662534
+      "street": "Sint-Niklaasstraat"
     }, 
     {
-      "lat": 51.20721703930558, 
       "housenumber": "16", 
+      "lat": 51.20721703930558, 
+      "lon": 3.2242883322928906, 
       "pcode": 8000, 
-      "street": "Sint-Niklaasstraat", 
-      "lon": 3.2242883322928906
+      "street": "Sint-Niklaasstraat"
     }, 
     {
-      "lat": 51.20719039621342, 
       "housenumber": "18", 
+      "lat": 51.20719039621342, 
+      "lon": 3.2243684104786032, 
       "pcode": 8000, 
-      "street": "Sint-Niklaasstraat", 
-      "lon": 3.2243684104786032
+      "street": "Sint-Niklaasstraat"
     }, 
     {
-      "lat": 51.20752423776775, 
       "housenumber": "1A", 
+      "lat": 51.20752423776775, 
+      "lon": 3.2242168288294573, 
       "pcode": 8000, 
-      "street": "Sint-Niklaasstraat", 
-      "lon": 3.2242168288294573
+      "street": "Sint-Niklaasstraat"
     }, 
     {
-      "lat": 51.20756860438346, 
       "housenumber": "1B", 
+      "lat": 51.20756860438346, 
+      "lon": 3.224277563734049, 
       "pcode": 8000, 
-      "street": "Sint-Niklaasstraat", 
-      "lon": 3.224277563734049
+      "street": "Sint-Niklaasstraat"
     }, 
     {
-      "lat": 51.20753748722831, 
       "housenumber": "3", 
+      "lat": 51.20753748722831, 
+      "lon": 3.2243783599117704, 
       "pcode": 8000, 
-      "street": "Sint-Niklaasstraat", 
-      "lon": 3.2243783599117704
+      "street": "Sint-Niklaasstraat"
     }, 
     {
-      "lat": 51.2075188080238, 
       "housenumber": "4", 
+      "lat": 51.2075188080238, 
+      "lon": 3.223850889849437, 
       "pcode": 8000, 
-      "street": "Sint-Niklaasstraat", 
-      "lon": 3.223850889849437
+      "street": "Sint-Niklaasstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 8000, 
-      "street": "Sint-Niklaasstraat", 
-      "housenumber": "6"
+      "street": "Sint-Niklaasstraat"
     }, 
     {
-      "lat": 51.20741972501759, 
       "housenumber": "7", 
+      "lat": 51.20741972501759, 
+      "lon": 3.2243783855553954, 
       "pcode": 8000, 
-      "street": "Sint-Niklaasstraat", 
-      "lon": 3.2243783855553954
+      "street": "Sint-Niklaasstraat"
     }, 
     {
-      "lat": 51.20739032537705, 
       "housenumber": "9", 
+      "lat": 51.20739032537705, 
+      "lon": 3.224508047110625, 
       "pcode": 8000, 
-      "street": "Sint-Niklaasstraat", 
-      "lon": 3.224508047110625
+      "street": "Sint-Niklaasstraat"
     }
-  ], 
-  "name": "Sint-Niklaasstraat"
+  ]
 }

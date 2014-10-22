@@ -1,20 +1,18 @@
 {
-  "pcode": 8630, 
   "addresses": [
     {
-      "lat": 51.025562931468905, 
       "housenumber": "1", 
+      "lat": 51.025562931468905, 
+      "lon": 2.6671377901622817, 
       "pcode": 8630, 
-      "street": "Lobbestraat", 
-      "lon": 2.6671377901622817
+      "street": "Lobbestraat"
     }, 
     {
-      "lat": 51.02484514585325, 
       "housenumber": "2", 
+      "lat": 51.02484514585325, 
+      "lon": 2.6703764165107358, 
       "pcode": 8630, 
-      "street": "Lobbestraat", 
-      "lon": 2.6703764165107358
+      "street": "Lobbestraat"
     }
-  ], 
-  "name": "Lobbestraat"
+  ]
 }

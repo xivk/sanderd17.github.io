@@ -1,39 +1,37 @@
 {
-  "pcode": 3272, 
   "addresses": [
     {
-      "lat": 50.98809332455975, 
       "housenumber": "1", 
+      "lat": 50.98809332455975, 
+      "lon": 4.919712497329753, 
       "pcode": 3272, 
-      "street": "Voetweg", 
-      "lon": 4.919712497329753
+      "street": "Voetweg"
     }, 
     {
-      "lat": 50.988374204384925, 
       "housenumber": "3", 
+      "lat": 50.988374204384925, 
+      "lon": 4.919816499223403, 
       "pcode": 3272, 
-      "street": "Voetweg", 
-      "lon": 4.919816499223403
+      "street": "Voetweg"
     }, 
     {
-      "lat": 50.9883556240085, 
       "housenumber": "4", 
+      "lat": 50.9883556240085, 
+      "lon": 4.919292863232176, 
       "pcode": 3272, 
-      "street": "Voetweg", 
-      "lon": 4.919292863232176
+      "street": "Voetweg"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3272, 
-      "street": "Voetweg", 
-      "housenumber": "5"
+      "street": "Voetweg"
     }, 
     {
-      "lat": 50.98864819064456, 
       "housenumber": "7", 
+      "lat": 50.98864819064456, 
+      "lon": 4.919876126280698, 
       "pcode": 3272, 
-      "street": "Voetweg", 
-      "lon": 4.919876126280698
+      "street": "Voetweg"
     }
-  ], 
-  "name": "Voetweg"
+  ]
 }

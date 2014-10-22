@@ -1,39 +1,37 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
+      "housenumber": "3", 
       "pcode": 3600, 
-      "street": "Regenbooglaan", 
-      "housenumber": "3"
+      "street": "Regenbooglaan"
     }, 
     {
-      "lat": 51.01156261753386, 
       "housenumber": "4", 
+      "lat": 51.01156261753386, 
+      "lon": 5.503287017761792, 
       "pcode": 3600, 
-      "street": "Regenbooglaan", 
-      "lon": 5.503287017761792
+      "street": "Regenbooglaan"
     }, 
     {
-      "lat": 51.012703089168994, 
       "housenumber": "5", 
+      "lat": 51.012703089168994, 
+      "lon": 5.502309372671169, 
       "pcode": 3600, 
-      "street": "Regenbooglaan", 
-      "lon": 5.502309372671169
+      "street": "Regenbooglaan"
     }, 
     {
-      "lat": 51.011868640503764, 
       "housenumber": "6", 
+      "lat": 51.011868640503764, 
+      "lon": 5.503492097376602, 
       "pcode": 3600, 
-      "street": "Regenbooglaan", 
-      "lon": 5.503492097376602
+      "street": "Regenbooglaan"
     }, 
     {
-      "lat": 51.012373485415154, 
       "housenumber": "8", 
+      "lat": 51.012373485415154, 
+      "lon": 5.503738483601877, 
       "pcode": 3600, 
-      "street": "Regenbooglaan", 
-      "lon": 5.503738483601877
+      "street": "Regenbooglaan"
     }
-  ], 
-  "name": "Regenbooglaan"
+  ]
 }

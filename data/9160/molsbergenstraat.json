@@ -1,51 +1,49 @@
 {
-  "pcode": 9160, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9160, 
-      "street": "Molsbergenstraat", 
-      "housenumber": "1"
+      "street": "Molsbergenstraat"
     }, 
     {
-      "lat": 51.1056034450676, 
       "housenumber": "2", 
+      "lat": 51.1056034450676, 
+      "lon": 4.022145406408839, 
       "pcode": 9160, 
-      "street": "Molsbergenstraat", 
-      "lon": 4.022145406408839
+      "street": "Molsbergenstraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 9160, 
-      "street": "Molsbergenstraat", 
-      "housenumber": "2A"
+      "street": "Molsbergenstraat"
     }, 
     {
-      "lat": 51.10536659495102, 
       "housenumber": "4", 
+      "lat": 51.10536659495102, 
+      "lon": 4.022208983089181, 
       "pcode": 9160, 
-      "street": "Molsbergenstraat", 
-      "lon": 4.022208983089181
+      "street": "Molsbergenstraat"
     }, 
     {
-      "lat": 51.104986082828034, 
       "housenumber": "6", 
+      "lat": 51.104986082828034, 
+      "lon": 4.023678999639528, 
       "pcode": 9160, 
-      "street": "Molsbergenstraat", 
-      "lon": 4.023678999639528
+      "street": "Molsbergenstraat"
     }, 
     {
-      "lat": 51.10437658446886, 
       "housenumber": "6A", 
+      "lat": 51.10437658446886, 
+      "lon": 4.022155912732402, 
       "pcode": 9160, 
-      "street": "Molsbergenstraat", 
-      "lon": 4.022155912732402
+      "street": "Molsbergenstraat"
     }, 
     {
-      "lat": 51.10231405372965, 
       "housenumber": "8", 
+      "lat": 51.10231405372965, 
+      "lon": 4.0183957301611555, 
       "pcode": 9160, 
-      "street": "Molsbergenstraat", 
-      "lon": 4.0183957301611555
+      "street": "Molsbergenstraat"
     }
-  ], 
-  "name": "Molsbergenstraat"
+  ]
 }

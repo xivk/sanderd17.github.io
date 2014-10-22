@@ -1,27 +1,25 @@
 {
-  "pcode": 3012, 
   "addresses": [
     {
-      "lat": 50.90026123558539, 
       "housenumber": "10", 
+      "lat": 50.90026123558539, 
+      "lon": 4.696380483802451, 
       "pcode": 3012, 
-      "street": "Watervloedstraat", 
-      "lon": 4.696380483802451
+      "street": "Watervloedstraat"
     }, 
     {
-      "lat": 50.900757316552685, 
       "housenumber": "18", 
+      "lat": 50.900757316552685, 
+      "lon": 4.695624969962745, 
       "pcode": 3012, 
-      "street": "Watervloedstraat", 
-      "lon": 4.695624969962745
+      "street": "Watervloedstraat"
     }, 
     {
-      "lat": 50.90088264685459, 
       "housenumber": "20", 
+      "lat": 50.90088264685459, 
+      "lon": 4.695554338548192, 
       "pcode": 3012, 
-      "street": "Watervloedstraat", 
-      "lon": 4.695554338548192
+      "street": "Watervloedstraat"
     }
-  ], 
-  "name": "Watervloedstraat"
+  ]
 }

@@ -1,38 +1,36 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
+      "housenumber": "116", 
       "pcode": 8400, 
-      "street": "Oostendsesteenweg", 
-      "housenumber": "116"
+      "street": "Oostendsesteenweg"
     }, 
     {
-      "lat": 51.18653939736215, 
       "housenumber": "25", 
+      "lat": 51.18653939736215, 
+      "lon": 2.898003353048849, 
       "pcode": 8400, 
-      "street": "Oostendsesteenweg", 
-      "lon": 2.898003353048849
+      "street": "Oostendsesteenweg"
     }, 
     {
+      "housenumber": "255", 
       "pcode": 8400, 
-      "street": "Oostendsesteenweg", 
-      "housenumber": "255"
+      "street": "Oostendsesteenweg"
     }, 
     {
+      "housenumber": "268", 
       "pcode": 8400, 
-      "street": "Oostendsesteenweg", 
-      "housenumber": "268"
+      "street": "Oostendsesteenweg"
     }, 
     {
+      "housenumber": "300", 
       "pcode": 8400, 
-      "street": "Oostendsesteenweg", 
-      "housenumber": "300"
+      "street": "Oostendsesteenweg"
     }, 
     {
+      "housenumber": "84", 
       "pcode": 8400, 
-      "street": "Oostendsesteenweg", 
-      "housenumber": "84"
+      "street": "Oostendsesteenweg"
     }
-  ], 
-  "name": "Oostendsesteenweg"
+  ]
 }

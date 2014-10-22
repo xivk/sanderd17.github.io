@@ -1,34 +1,32 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.02018034630752, 
       "housenumber": "1", 
+      "lat": 51.02018034630752, 
+      "lon": 3.7253695280420853, 
       "pcode": 9000, 
-      "street": "Porfierstraat", 
-      "lon": 3.7253695280420853
+      "street": "Porfierstraat"
     }, 
     {
-      "lat": 51.02011978377176, 
       "housenumber": "3", 
+      "lat": 51.02011978377176, 
+      "lon": 3.7254236633343973, 
       "pcode": 9000, 
-      "street": "Porfierstraat", 
-      "lon": 3.7254236633343973
+      "street": "Porfierstraat"
     }, 
     {
-      "lat": 51.0200699073003, 
       "housenumber": "5", 
+      "lat": 51.0200699073003, 
+      "lon": 3.7254592662213755, 
       "pcode": 9000, 
-      "street": "Porfierstraat", 
-      "lon": 3.7254592662213755
+      "street": "Porfierstraat"
     }, 
     {
-      "lat": 51.01997770137658, 
       "housenumber": "7", 
+      "lat": 51.01997770137658, 
+      "lon": 3.7255132653355134, 
       "pcode": 9000, 
-      "street": "Porfierstraat", 
-      "lon": 3.7255132653355134
+      "street": "Porfierstraat"
     }
-  ], 
-  "name": "Porfierstraat"
+  ]
 }

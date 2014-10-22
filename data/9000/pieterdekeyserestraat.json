@@ -1,46 +1,44 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05343040720167, 
       "housenumber": "10", 
+      "lat": 51.05343040720167, 
+      "lon": 3.7335420408359616, 
       "pcode": 9000, 
-      "street": "Pieter de Keyserestraat", 
-      "lon": 3.7335420408359616
+      "street": "Pieter de Keyserestraat"
     }, 
     {
-      "lat": 51.05340110202827, 
       "housenumber": "12", 
+      "lat": 51.05340110202827, 
+      "lon": 3.7335420103032813, 
       "pcode": 9000, 
-      "street": "Pieter de Keyserestraat", 
-      "lon": 3.7335420103032813
+      "street": "Pieter de Keyserestraat"
     }, 
     {
-      "lat": 51.05357340519978, 
       "housenumber": "2", 
+      "lat": 51.05357340519978, 
+      "lon": 3.7335714797113067, 
       "pcode": 9000, 
-      "street": "Pieter de Keyserestraat", 
-      "lon": 3.7335714797113067
+      "street": "Pieter de Keyserestraat"
     }, 
     {
-      "lat": 51.05352554279717, 
       "housenumber": "4", 
+      "lat": 51.05352554279717, 
+      "lon": 3.7335474543293015, 
       "pcode": 9000, 
-      "street": "Pieter de Keyserestraat", 
-      "lon": 3.7335474543293015
+      "street": "Pieter de Keyserestraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9000, 
-      "street": "Pieter de Keyserestraat", 
-      "housenumber": "6"
+      "street": "Pieter de Keyserestraat"
     }, 
     {
-      "lat": 51.053472967124144, 
       "housenumber": "8", 
+      "lat": 51.053472967124144, 
+      "lon": 3.733532906215954, 
       "pcode": 9000, 
-      "street": "Pieter de Keyserestraat", 
-      "lon": 3.733532906215954
+      "street": "Pieter de Keyserestraat"
     }
-  ], 
-  "name": "Pieter de Keyserestraat"
+  ]
 }

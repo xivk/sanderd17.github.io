@@ -1,20 +1,18 @@
 {
-  "pcode": 9960, 
   "addresses": [
     {
-      "lat": 51.19932217300489, 
       "housenumber": "1", 
+      "lat": 51.19932217300489, 
+      "lon": 3.770625367626142, 
       "pcode": 9960, 
-      "street": "Heideveld", 
-      "lon": 3.770625367626142
+      "street": "Heideveld"
     }, 
     {
-      "lat": 51.199547286460465, 
       "housenumber": "3", 
+      "lat": 51.199547286460465, 
+      "lon": 3.7708279358713606, 
       "pcode": 9960, 
-      "street": "Heideveld", 
-      "lon": 3.7708279358713606
+      "street": "Heideveld"
     }
-  ], 
-  "name": "Heideveld"
+  ]
 }

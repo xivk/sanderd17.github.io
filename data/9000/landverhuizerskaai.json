@@ -1,39 +1,37 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.11132700119296, 
       "housenumber": "1", 
+      "lat": 51.11132700119296, 
+      "lon": 3.7397902108741525, 
       "pcode": 9000, 
-      "street": "Landverhuizerskaai", 
-      "lon": 3.7397902108741525
+      "street": "Landverhuizerskaai"
     }, 
     {
-      "lat": 51.111345477712234, 
       "housenumber": "2", 
+      "lat": 51.111345477712234, 
+      "lon": 3.7396981405525382, 
       "pcode": 9000, 
-      "street": "Landverhuizerskaai", 
-      "lon": 3.7396981405525382
+      "street": "Landverhuizerskaai"
     }, 
     {
-      "lat": 51.11117716563163, 
       "housenumber": "3", 
+      "lat": 51.11117716563163, 
+      "lon": 3.7387302071594752, 
       "pcode": 9000, 
-      "street": "Landverhuizerskaai", 
-      "lon": 3.7387302071594752
+      "street": "Landverhuizerskaai"
     }, 
     {
+      "housenumber": "3A", 
       "pcode": 9000, 
-      "street": "Landverhuizerskaai", 
-      "housenumber": "3A"
+      "street": "Landverhuizerskaai"
     }, 
     {
-      "lat": 51.11104016034115, 
       "housenumber": "3B", 
+      "lat": 51.11104016034115, 
+      "lon": 3.738576398270731, 
       "pcode": 9000, 
-      "street": "Landverhuizerskaai", 
-      "lon": 3.738576398270731
+      "street": "Landverhuizerskaai"
     }
-  ], 
-  "name": "Landverhuizerskaai"
+  ]
 }

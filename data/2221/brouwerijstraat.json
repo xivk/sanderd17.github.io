@@ -1,20 +1,18 @@
 {
-  "pcode": 2221, 
   "addresses": [
     {
-      "lat": 51.05244368947747, 
       "housenumber": "1", 
+      "lat": 51.05244368947747, 
+      "lon": 4.777088296155487, 
       "pcode": 2221, 
-      "street": "Brouwerijstraat", 
-      "lon": 4.777088296155487
+      "street": "Brouwerijstraat"
     }, 
     {
-      "lat": 51.05280527142864, 
       "housenumber": "4", 
+      "lat": 51.05280527142864, 
+      "lon": 4.77692102454472, 
       "pcode": 2221, 
-      "street": "Brouwerijstraat", 
-      "lon": 4.77692102454472
+      "street": "Brouwerijstraat"
     }
-  ], 
-  "name": "Brouwerijstraat"
+  ]
 }

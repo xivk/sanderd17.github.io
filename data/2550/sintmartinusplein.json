@@ -1,51 +1,49 @@
 {
-  "pcode": 2550, 
   "addresses": [
     {
-      "lat": 51.134433777111816, 
       "housenumber": "1", 
+      "lat": 51.134433777111816, 
+      "lon": 4.444662661591965, 
       "pcode": 2550, 
-      "street": "Sint-Martinusplein", 
-      "lon": 4.444662661591965
+      "street": "Sint-Martinusplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2550, 
-      "street": "Sint-Martinusplein", 
-      "housenumber": "2"
+      "street": "Sint-Martinusplein"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 2550, 
-      "street": "Sint-Martinusplein", 
-      "housenumber": "2A"
+      "street": "Sint-Martinusplein"
     }, 
     {
-      "lat": 51.1343172895006, 
       "housenumber": "3", 
+      "lat": 51.1343172895006, 
+      "lon": 4.444515174096219, 
       "pcode": 2550, 
-      "street": "Sint-Martinusplein", 
-      "lon": 4.444515174096219
+      "street": "Sint-Martinusplein"
     }, 
     {
-      "lat": 51.1341804479597, 
       "housenumber": "4", 
+      "lat": 51.1341804479597, 
+      "lon": 4.444567239528158, 
       "pcode": 2550, 
-      "street": "Sint-Martinusplein", 
-      "lon": 4.444567239528158
+      "street": "Sint-Martinusplein"
     }, 
     {
-      "lat": 51.13427566231514, 
       "housenumber": "5", 
+      "lat": 51.13427566231514, 
+      "lon": 4.444391097012078, 
       "pcode": 2550, 
-      "street": "Sint-Martinusplein", 
-      "lon": 4.444391097012078
+      "street": "Sint-Martinusplein"
     }, 
     {
-      "lat": 51.13422211613207, 
       "housenumber": "6", 
+      "lat": 51.13422211613207, 
+      "lon": 4.444350292341185, 
       "pcode": 2550, 
-      "street": "Sint-Martinusplein", 
-      "lon": 4.444350292341185
+      "street": "Sint-Martinusplein"
     }
-  ], 
-  "name": "Sint-Martinusplein"
+  ]
 }

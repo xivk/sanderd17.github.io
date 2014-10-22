@@ -1,27 +1,25 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
-      "lat": 51.206975801706314, 
       "housenumber": "1", 
+      "lat": 51.206975801706314, 
+      "lon": 5.434714505536012, 
       "pcode": 3900, 
-      "street": "Koksakker", 
-      "lon": 5.434714505536012
+      "street": "Koksakker"
     }, 
     {
-      "lat": 51.20695911852917, 
       "housenumber": "3", 
+      "lat": 51.20695911852917, 
+      "lon": 5.434909605100415, 
       "pcode": 3900, 
-      "street": "Koksakker", 
-      "lon": 5.434909605100415
+      "street": "Koksakker"
     }, 
     {
-      "lat": 51.206943881321074, 
       "housenumber": "5", 
+      "lat": 51.206943881321074, 
+      "lon": 5.435093861655045, 
       "pcode": 3900, 
-      "street": "Koksakker", 
-      "lon": 5.435093861655045
+      "street": "Koksakker"
     }
-  ], 
-  "name": "Koksakker"
+  ]
 }

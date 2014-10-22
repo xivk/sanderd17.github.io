@@ -1,20 +1,18 @@
 {
-  "pcode": 9420, 
   "addresses": [
     {
-      "lat": 50.917082040907005, 
       "housenumber": "2", 
+      "lat": 50.917082040907005, 
+      "lon": 3.9615047911150048, 
       "pcode": 9420, 
-      "street": "Kortestraat", 
-      "lon": 3.9615047911150048
+      "street": "Kortestraat"
     }, 
     {
-      "lat": 50.91705818902261, 
       "housenumber": "4", 
+      "lat": 50.91705818902261, 
+      "lon": 3.961366344592144, 
       "pcode": 9420, 
-      "street": "Kortestraat", 
-      "lon": 3.961366344592144
+      "street": "Kortestraat"
     }
-  ], 
-  "name": "Kortestraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8540, 
   "addresses": [
     {
-      "lat": 50.85936555521654, 
       "housenumber": "10", 
+      "lat": 50.85936555521654, 
+      "lon": 3.3534403283654366, 
       "pcode": 8540, 
-      "street": "Astridlaan", 
-      "lon": 3.3534403283654366
+      "street": "Astridlaan"
     }, 
     {
-      "lat": 50.8594288706588, 
       "housenumber": "12", 
+      "lat": 50.8594288706588, 
+      "lon": 3.3534534499072417, 
       "pcode": 8540, 
-      "street": "Astridlaan", 
-      "lon": 3.3534534499072417
+      "street": "Astridlaan"
     }
-  ], 
-  "name": "Astridlaan"
+  ]
 }

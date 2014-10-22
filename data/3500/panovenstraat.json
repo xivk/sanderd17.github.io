@@ -1,53 +1,51 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.90257878770556, 
       "housenumber": "1", 
+      "lat": 50.90257878770556, 
+      "lon": 5.313156014459837, 
       "pcode": 3500, 
-      "street": "Panovenstraat", 
-      "lon": 5.313156014459837
+      "street": "Panovenstraat"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 3500, 
-      "street": "Panovenstraat", 
-      "housenumber": "11"
+      "street": "Panovenstraat"
     }, 
     {
-      "lat": 50.90239648295509, 
       "housenumber": "3", 
+      "lat": 50.90239648295509, 
+      "lon": 5.313310583519489, 
       "pcode": 3500, 
-      "street": "Panovenstraat", 
-      "lon": 5.313310583519489
+      "street": "Panovenstraat"
     }, 
     {
-      "lat": 50.901521729260786, 
       "housenumber": "4", 
+      "lat": 50.901521729260786, 
+      "lon": 5.31409410372181, 
       "pcode": 3500, 
-      "street": "Panovenstraat", 
-      "lon": 5.31409410372181
+      "street": "Panovenstraat"
     }, 
     {
-      "lat": 50.90221456684038, 
       "housenumber": "5", 
+      "lat": 50.90221456684038, 
+      "lon": 5.313495015485808, 
       "pcode": 3500, 
-      "street": "Panovenstraat", 
-      "lon": 5.313495015485808
+      "street": "Panovenstraat"
     }, 
     {
-      "lat": 50.90203388131896, 
       "housenumber": "7", 
+      "lat": 50.90203388131896, 
+      "lon": 5.313660561911295, 
       "pcode": 3500, 
-      "street": "Panovenstraat", 
-      "lon": 5.313660561911295
+      "street": "Panovenstraat"
     }, 
     {
-      "lat": 50.901861072919786, 
       "housenumber": "9", 
+      "lat": 50.901861072919786, 
+      "lon": 5.313819157161208, 
       "pcode": 3500, 
-      "street": "Panovenstraat", 
-      "lon": 5.313819157161208
+      "street": "Panovenstraat"
     }
-  ], 
-  "name": "Panovenstraat"
+  ]
 }

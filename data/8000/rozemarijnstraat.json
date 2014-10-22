@@ -1,27 +1,25 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.20952977833489, 
       "housenumber": "1", 
+      "lat": 51.20952977833489, 
+      "lon": 3.223537217776964, 
       "pcode": 8000, 
-      "street": "Rozemarijnstraat", 
-      "lon": 3.223537217776964
+      "street": "Rozemarijnstraat"
     }, 
     {
-      "lat": 51.209567542753526, 
       "housenumber": "3", 
+      "lat": 51.209567542753526, 
+      "lon": 3.223658797449291, 
       "pcode": 8000, 
-      "street": "Rozemarijnstraat", 
-      "lon": 3.223658797449291
+      "street": "Rozemarijnstraat"
     }, 
     {
-      "lat": 51.209632162789994, 
       "housenumber": "7", 
+      "lat": 51.209632162789994, 
+      "lon": 3.223787303482172, 
       "pcode": 8000, 
-      "street": "Rozemarijnstraat", 
-      "lon": 3.223787303482172
+      "street": "Rozemarijnstraat"
     }
-  ], 
-  "name": "Rozemarijnstraat"
+  ]
 }

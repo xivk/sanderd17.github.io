@@ -1,20 +1,18 @@
 {
-  "pcode": 8890, 
   "addresses": [
     {
-      "lat": 50.89815389131615, 
       "housenumber": "2", 
+      "lat": 50.89815389131615, 
+      "lon": 3.0862782273033122, 
       "pcode": 8890, 
-      "street": "Koekuitweg", 
-      "lon": 3.0862782273033122
+      "street": "Koekuitweg"
     }, 
     {
-      "lat": 50.89851628626085, 
       "housenumber": "4", 
+      "lat": 50.89851628626085, 
+      "lon": 3.085576528441031, 
       "pcode": 8890, 
-      "street": "Koekuitweg", 
-      "lon": 3.085576528441031
+      "street": "Koekuitweg"
     }
-  ], 
-  "name": "Koekuitweg"
+  ]
 }

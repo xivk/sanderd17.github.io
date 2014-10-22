@@ -1,34 +1,32 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 50.98075853321639, 
       "housenumber": "1", 
+      "lat": 50.98075853321639, 
+      "lon": 3.4720846732321746, 
       "pcode": 9800, 
-      "street": "Kerkweg", 
-      "lon": 3.4720846732321746
+      "street": "Kerkweg"
     }, 
     {
-      "lat": 50.981196541889204, 
       "housenumber": "3", 
+      "lat": 50.981196541889204, 
+      "lon": 3.4716986256651863, 
       "pcode": 9800, 
-      "street": "Kerkweg", 
-      "lon": 3.4716986256651863
+      "street": "Kerkweg"
     }, 
     {
-      "lat": 50.98279284604729, 
       "housenumber": "4", 
+      "lat": 50.98279284604729, 
+      "lon": 3.4706590782735414, 
       "pcode": 9800, 
-      "street": "Kerkweg", 
-      "lon": 3.4706590782735414
+      "street": "Kerkweg"
     }, 
     {
-      "lat": 50.98255026619721, 
       "housenumber": "5", 
+      "lat": 50.98255026619721, 
+      "lon": 3.4712674215162576, 
       "pcode": 9800, 
-      "street": "Kerkweg", 
-      "lon": 3.4712674215162576
+      "street": "Kerkweg"
     }
-  ], 
-  "name": "Kerkweg"
+  ]
 }

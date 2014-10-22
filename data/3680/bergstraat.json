@@ -1,27 +1,25 @@
 {
-  "pcode": 3680, 
   "addresses": [
     {
-      "lat": 49.293335165093566, 
       "housenumber": "1", 
+      "lat": 49.293335165093566, 
+      "lon": 2.306689562140502, 
       "pcode": 3680, 
-      "street": "Bergstraat", 
-      "lon": 2.306689562140502
+      "street": "Bergstraat"
     }, 
     {
-      "lat": 51.04739151247816, 
       "housenumber": "2", 
+      "lat": 51.04739151247816, 
+      "lon": 5.626732041982672, 
       "pcode": 3680, 
-      "street": "Bergstraat", 
-      "lon": 5.626732041982672
+      "street": "Bergstraat"
     }, 
     {
-      "lat": 51.047107532593486, 
       "housenumber": "3", 
+      "lat": 51.047107532593486, 
+      "lon": 5.626788869551425, 
       "pcode": 3680, 
-      "street": "Bergstraat", 
-      "lon": 5.626788869551425
+      "street": "Bergstraat"
     }
-  ], 
-  "name": "Bergstraat"
+  ]
 }

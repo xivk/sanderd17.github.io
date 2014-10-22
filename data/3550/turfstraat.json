@@ -1,20 +1,18 @@
 {
-  "pcode": 3550, 
   "addresses": [
     {
-      "lat": 51.011204377562976, 
       "housenumber": "10", 
+      "lat": 51.011204377562976, 
+      "lon": 5.261041331306598, 
       "pcode": 3550, 
-      "street": "Turfstraat", 
-      "lon": 5.261041331306598
+      "street": "Turfstraat"
     }, 
     {
-      "lat": 51.01109283048629, 
       "housenumber": "8", 
+      "lat": 51.01109283048629, 
+      "lon": 5.261228874800192, 
       "pcode": 3550, 
-      "street": "Turfstraat", 
-      "lon": 5.261228874800192
+      "street": "Turfstraat"
     }
-  ], 
-  "name": "Turfstraat"
+  ]
 }

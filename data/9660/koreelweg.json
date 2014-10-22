@@ -1,20 +1,18 @@
 {
-  "pcode": 9660, 
   "addresses": [
     {
-      "lat": 50.76790818682805, 
       "housenumber": "2", 
+      "lat": 50.76790818682805, 
+      "lon": 3.8064032265610184, 
       "pcode": 9660, 
-      "street": "Koreelweg", 
-      "lon": 3.8064032265610184
+      "street": "Koreelweg"
     }, 
     {
-      "lat": 50.767932652057645, 
       "housenumber": "4", 
+      "lat": 50.767932652057645, 
+      "lon": 3.806537039590542, 
       "pcode": 9660, 
-      "street": "Koreelweg", 
-      "lon": 3.806537039590542
+      "street": "Koreelweg"
     }
-  ], 
-  "name": "Koreelweg"
+  ]
 }

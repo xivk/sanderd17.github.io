@@ -1,32 +1,30 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.22074060047906, 
       "housenumber": "1", 
+      "lat": 51.22074060047906, 
+      "lon": 4.397124773661195, 
       "pcode": 2000, 
-      "street": "Haverstraat", 
-      "lon": 4.397124773661195
+      "street": "Haverstraat"
     }, 
     {
+      "housenumber": "30", 
       "pcode": 2000, 
-      "street": "Haverstraat", 
-      "housenumber": "30"
+      "street": "Haverstraat"
     }, 
     {
-      "lat": 51.220548874254945, 
       "housenumber": "4", 
+      "lat": 51.220548874254945, 
+      "lon": 4.3971406849018795, 
       "pcode": 2000, 
-      "street": "Haverstraat", 
-      "lon": 4.3971406849018795
+      "street": "Haverstraat"
     }, 
     {
-      "lat": 51.22050086386647, 
       "housenumber": "6", 
+      "lat": 51.22050086386647, 
+      "lon": 4.397191037275542, 
       "pcode": 2000, 
-      "street": "Haverstraat", 
-      "lon": 4.397191037275542
+      "street": "Haverstraat"
     }
-  ], 
-  "name": "Haverstraat"
+  ]
 }

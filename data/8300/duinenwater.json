@@ -1,27 +1,25 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.33780458131942, 
       "housenumber": "41", 
+      "lat": 51.33780458131942, 
+      "lon": 3.273122369075796, 
       "pcode": 8300, 
-      "street": "Duinenwater", 
-      "lon": 3.273122369075796
+      "street": "Duinenwater"
     }, 
     {
-      "lat": 51.33839664291096, 
       "housenumber": "43", 
+      "lat": 51.33839664291096, 
+      "lon": 3.2741890596049936, 
       "pcode": 8300, 
-      "street": "Duinenwater", 
-      "lon": 3.2741890596049936
+      "street": "Duinenwater"
     }, 
     {
-      "lat": 51.33872907267503, 
       "housenumber": "45", 
+      "lat": 51.33872907267503, 
+      "lon": 3.2738307864107727, 
       "pcode": 8300, 
-      "street": "Duinenwater", 
-      "lon": 3.2738307864107727
+      "street": "Duinenwater"
     }
-  ], 
-  "name": "Duinenwater"
+  ]
 }

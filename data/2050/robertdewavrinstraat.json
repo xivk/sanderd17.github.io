@@ -1,35 +1,33 @@
 {
-  "pcode": 2050, 
   "addresses": [
     {
-      "lat": 51.218398108871504, 
       "housenumber": "1", 
+      "lat": 51.218398108871504, 
+      "lon": 4.367055301633223, 
       "pcode": 2050, 
-      "street": "Robert de Wavrinstraat", 
-      "lon": 4.367055301633223
+      "street": "Robert de Wavrinstraat"
     }, 
     {
-      "lat": 51.218387773718774, 
       "housenumber": "2", 
+      "lat": 51.218387773718774, 
+      "lon": 4.3672513832248985, 
       "pcode": 2050, 
-      "street": "Robert de Wavrinstraat", 
-      "lon": 4.3672513832248985
+      "street": "Robert de Wavrinstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2050, 
-      "street": "Robert de Wavrinstraat", 
-      "housenumber": "3"
+      "street": "Robert de Wavrinstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2050, 
-      "street": "Robert de Wavrinstraat", 
-      "housenumber": "4"
+      "street": "Robert de Wavrinstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2050, 
-      "street": "Robert de Wavrinstraat", 
-      "housenumber": "5"
+      "street": "Robert de Wavrinstraat"
     }
-  ], 
-  "name": "Robert de Wavrinstraat"
+  ]
 }

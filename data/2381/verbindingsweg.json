@@ -1,27 +1,25 @@
 {
-  "pcode": 2381, 
   "addresses": [
     {
-      "lat": 51.43123111149787, 
       "housenumber": "10", 
+      "lat": 51.43123111149787, 
+      "lon": 5.027033349368414, 
       "pcode": 2381, 
-      "street": "Verbindingsweg", 
-      "lon": 5.027033349368414
+      "street": "Verbindingsweg"
     }, 
     {
-      "lat": 51.43202341832661, 
       "housenumber": "2", 
+      "lat": 51.43202341832661, 
+      "lon": 5.02446487183843, 
       "pcode": 2381, 
-      "street": "Verbindingsweg", 
-      "lon": 5.02446487183843
+      "street": "Verbindingsweg"
     }, 
     {
-      "lat": 51.43214356918831, 
       "housenumber": "4", 
+      "lat": 51.43214356918831, 
+      "lon": 5.024077619668265, 
       "pcode": 2381, 
-      "street": "Verbindingsweg", 
-      "lon": 5.024077619668265
+      "street": "Verbindingsweg"
     }
-  ], 
-  "name": "Verbindingsweg"
+  ]
 }

@@ -1,39 +1,37 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.21495880368697, 
       "housenumber": "11", 
+      "lat": 51.21495880368697, 
+      "lon": 2.989729866631201, 
       "pcode": 8400, 
-      "street": "Bargestraat", 
-      "lon": 2.989729866631201
+      "street": "Bargestraat"
     }, 
     {
-      "lat": 51.21561353300691, 
       "housenumber": "15", 
+      "lat": 51.21561353300691, 
+      "lon": 2.9880261693399244, 
       "pcode": 8400, 
-      "street": "Bargestraat", 
-      "lon": 2.9880261693399244
+      "street": "Bargestraat"
     }, 
     {
-      "lat": 51.21212545565209, 
       "housenumber": "2", 
+      "lat": 51.21212545565209, 
+      "lon": 2.999379160100144, 
       "pcode": 8400, 
-      "street": "Bargestraat", 
-      "lon": 2.999379160100144
+      "street": "Bargestraat"
     }, 
     {
-      "lat": 51.21546362963703, 
       "housenumber": "7", 
+      "lat": 51.21546362963703, 
+      "lon": 2.9916313125260827, 
       "pcode": 8400, 
-      "street": "Bargestraat", 
-      "lon": 2.9916313125260827
+      "street": "Bargestraat"
     }, 
     {
+      "housenumber": "ZN", 
       "pcode": 8400, 
-      "street": "Bargestraat", 
-      "housenumber": "ZN"
+      "street": "Bargestraat"
     }
-  ], 
-  "name": "Bargestraat"
+  ]
 }

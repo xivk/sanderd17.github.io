@@ -1,20 +1,18 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.31844676667926, 
       "housenumber": "1", 
+      "lat": 51.31844676667926, 
+      "lon": 3.3613008115757235, 
       "pcode": 8300, 
-      "street": "Nederenheerweg", 
-      "lon": 3.3613008115757235
+      "street": "Nederenheerweg"
     }, 
     {
-      "lat": 51.32265588479095, 
       "housenumber": "14", 
+      "lat": 51.32265588479095, 
+      "lon": 3.3574465046891016, 
       "pcode": 8300, 
-      "street": "Nederenheerweg", 
-      "lon": 3.3574465046891016
+      "street": "Nederenheerweg"
     }
-  ], 
-  "name": "Nederenheerweg"
+  ]
 }

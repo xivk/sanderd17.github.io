@@ -1,20 +1,18 @@
 {
-  "pcode": 8430, 
   "addresses": [
     {
-      "lat": 51.176371632859876, 
       "housenumber": "1", 
+      "lat": 51.176371632859876, 
+      "lon": 2.7988423286861366, 
       "pcode": 8430, 
-      "street": "Klaprozenweg", 
-      "lon": 2.7988423286861366
+      "street": "Klaprozenweg"
     }, 
     {
-      "lat": 51.176552616649325, 
       "housenumber": "2", 
+      "lat": 51.176552616649325, 
+      "lon": 2.7985178608365024, 
       "pcode": 8430, 
-      "street": "Klaprozenweg", 
-      "lon": 2.7985178608365024
+      "street": "Klaprozenweg"
     }
-  ], 
-  "name": "Klaprozenweg"
+  ]
 }

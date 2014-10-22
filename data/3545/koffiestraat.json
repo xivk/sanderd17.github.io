@@ -1,27 +1,25 @@
 {
-  "pcode": 3545, 
   "addresses": [
     {
-      "lat": 50.930128292899425, 
       "housenumber": "1", 
+      "lat": 50.930128292899425, 
+      "lon": 5.115676624495618, 
       "pcode": 3545, 
-      "street": "Koffiestraat", 
-      "lon": 5.115676624495618
+      "street": "Koffiestraat"
     }, 
     {
-      "lat": 50.92949938490975, 
       "housenumber": "2", 
+      "lat": 50.92949938490975, 
+      "lon": 5.115815541075197, 
       "pcode": 3545, 
-      "street": "Koffiestraat", 
-      "lon": 5.115815541075197
+      "street": "Koffiestraat"
     }, 
     {
-      "lat": 50.92955406043665, 
       "housenumber": "3", 
+      "lat": 50.92955406043665, 
+      "lon": 5.11533233133461, 
       "pcode": 3545, 
-      "street": "Koffiestraat", 
-      "lon": 5.11533233133461
+      "street": "Koffiestraat"
     }
-  ], 
-  "name": "Koffiestraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 3350, 
   "addresses": [
     {
-      "lat": 50.7945736527643, 
       "housenumber": "1", 
+      "lat": 50.7945736527643, 
+      "lon": 5.051109916926301, 
       "pcode": 3350, 
-      "street": "Melkerijstraat", 
-      "lon": 5.051109916926301
+      "street": "Melkerijstraat"
     }, 
     {
+      "housenumber": "115", 
       "pcode": 3350, 
-      "street": "Melkerijstraat", 
-      "housenumber": "115"
+      "street": "Melkerijstraat"
     }
-  ], 
-  "name": "Melkerijstraat"
+  ]
 }

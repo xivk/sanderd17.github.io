@@ -1,20 +1,18 @@
 {
-  "pcode": 3798, 
   "addresses": [
     {
-      "lat": 50.75297979813509, 
       "housenumber": "1", 
+      "lat": 50.75297979813509, 
+      "lon": 5.7786525779947135, 
       "pcode": 3798, 
-      "street": "Steenbos", 
-      "lon": 5.7786525779947135
+      "street": "Steenbos"
     }, 
     {
-      "lat": 50.75275267829648, 
       "housenumber": "3", 
+      "lat": 50.75275267829648, 
+      "lon": 5.779636791801606, 
       "pcode": 3798, 
-      "street": "Steenbos", 
-      "lon": 5.779636791801606
+      "street": "Steenbos"
     }
-  ], 
-  "name": "Steenbos"
+  ]
 }

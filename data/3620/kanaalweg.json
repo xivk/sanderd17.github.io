@@ -1,20 +1,18 @@
 {
-  "pcode": 3620, 
   "addresses": [
     {
-      "lat": 50.87701284259514, 
       "housenumber": "25", 
+      "lat": 50.87701284259514, 
+      "lon": 5.614452778205951, 
       "pcode": 3620, 
-      "street": "Kanaalweg", 
-      "lon": 5.614452778205951
+      "street": "Kanaalweg"
     }, 
     {
-      "lat": 50.87710794064978, 
       "housenumber": "27", 
+      "lat": 50.87710794064978, 
+      "lon": 5.615817096482726, 
       "pcode": 3620, 
-      "street": "Kanaalweg", 
-      "lon": 5.615817096482726
+      "street": "Kanaalweg"
     }
-  ], 
-  "name": "Kanaalweg"
+  ]
 }

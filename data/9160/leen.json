@@ -1,25 +1,23 @@
 {
-  "pcode": 9160, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9160, 
-      "street": "Leen", 
-      "housenumber": "1"
+      "street": "Leen"
     }, 
     {
-      "lat": 51.16188054589588, 
       "housenumber": "2", 
+      "lat": 51.16188054589588, 
+      "lon": 3.9876453141377697, 
       "pcode": 9160, 
-      "street": "Leen", 
-      "lon": 3.9876453141377697
+      "street": "Leen"
     }, 
     {
-      "lat": 51.16155605855698, 
       "housenumber": "4", 
+      "lat": 51.16155605855698, 
+      "lon": 3.986365528897454, 
       "pcode": 9160, 
-      "street": "Leen", 
-      "lon": 3.986365528897454
+      "street": "Leen"
     }
-  ], 
-  "name": "Leen"
+  ]
 }

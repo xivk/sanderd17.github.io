@@ -1,20 +1,18 @@
 {
-  "pcode": 8501, 
   "addresses": [
     {
-      "lat": 50.830781338952214, 
       "housenumber": "10", 
+      "lat": 50.830781338952214, 
+      "lon": 3.212351039582205, 
       "pcode": 8501, 
-      "street": "Dappaardstraat", 
-      "lon": 3.212351039582205
+      "street": "Dappaardstraat"
     }, 
     {
-      "lat": 50.828864237310675, 
       "housenumber": "5", 
+      "lat": 50.828864237310675, 
+      "lon": 3.2087880554954626, 
       "pcode": 8501, 
-      "street": "Dappaardstraat", 
-      "lon": 3.2087880554954626
+      "street": "Dappaardstraat"
     }
-  ], 
-  "name": "Dappaardstraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.046733149078534, 
       "housenumber": "1", 
+      "lat": 51.046733149078534, 
+      "lon": 3.715010262577073, 
       "pcode": 9000, 
-      "street": "Bijlokestraat", 
-      "lon": 3.715010262577073
+      "street": "Bijlokestraat"
     }, 
     {
-      "lat": 51.046785532689086, 
       "housenumber": "2", 
+      "lat": 51.046785532689086, 
+      "lon": 3.7146979378739853, 
       "pcode": 9000, 
-      "street": "Bijlokestraat", 
-      "lon": 3.7146979378739853
+      "street": "Bijlokestraat"
     }, 
     {
-      "lat": 51.04674448981158, 
       "housenumber": "3", 
+      "lat": 51.04674448981158, 
+      "lon": 3.7149641852959197, 
       "pcode": 9000, 
-      "street": "Bijlokestraat", 
-      "lon": 3.7149641852959197
+      "street": "Bijlokestraat"
     }
-  ], 
-  "name": "Bijlokestraat"
+  ]
 }

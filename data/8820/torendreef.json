@@ -1,20 +1,18 @@
 {
-  "pcode": 8820, 
   "addresses": [
     {
-      "lat": 51.07450949721036, 
       "housenumber": "1", 
+      "lat": 51.07450949721036, 
+      "lon": 3.1561876044425587, 
       "pcode": 8820, 
-      "street": "Torendreef", 
-      "lon": 3.1561876044425587
+      "street": "Torendreef"
     }, 
     {
-      "lat": 51.07250219131114, 
       "housenumber": "3", 
+      "lat": 51.07250219131114, 
+      "lon": 3.1420029197737245, 
       "pcode": 8820, 
-      "street": "Torendreef", 
-      "lon": 3.1420029197737245
+      "street": "Torendreef"
     }
-  ], 
-  "name": "Torendreef"
+  ]
 }

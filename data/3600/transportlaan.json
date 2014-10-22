@@ -1,56 +1,54 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.996407285801475, 
       "housenumber": "1", 
+      "lat": 50.996407285801475, 
+      "lon": 5.469400367044314, 
       "pcode": 3600, 
-      "street": "Transportlaan", 
-      "lon": 5.469400367044314
+      "street": "Transportlaan"
     }, 
     {
-      "lat": 50.99518002360574, 
       "housenumber": "12", 
+      "lat": 50.99518002360574, 
+      "lon": 5.4613640516450275, 
       "pcode": 3600, 
-      "street": "Transportlaan", 
-      "lon": 5.4613640516450275
+      "street": "Transportlaan"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3600, 
-      "street": "Transportlaan", 
-      "housenumber": "2"
+      "street": "Transportlaan"
     }, 
     {
-      "lat": 50.99799801380123, 
       "housenumber": "3", 
+      "lat": 50.99799801380123, 
+      "lon": 5.468427665918899, 
       "pcode": 3600, 
-      "street": "Transportlaan", 
-      "lon": 5.468427665918899
+      "street": "Transportlaan"
     }, 
     {
-      "lat": 50.994140195378165, 
       "housenumber": "4", 
+      "lat": 50.994140195378165, 
+      "lon": 5.465751069044338, 
       "pcode": 3600, 
-      "street": "Transportlaan", 
-      "lon": 5.465751069044338
+      "street": "Transportlaan"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3600, 
-      "street": "Transportlaan", 
-      "housenumber": "5"
+      "street": "Transportlaan"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3600, 
-      "street": "Transportlaan", 
-      "housenumber": "6"
+      "street": "Transportlaan"
     }, 
     {
-      "lat": 50.99564945841229, 
       "housenumber": "9", 
+      "lat": 50.99564945841229, 
+      "lon": 5.460612131638516, 
       "pcode": 3600, 
-      "street": "Transportlaan", 
-      "lon": 5.460612131638516
+      "street": "Transportlaan"
     }
-  ], 
-  "name": "Transportlaan"
+  ]
 }

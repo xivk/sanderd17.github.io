@@ -1,39 +1,37 @@
 {
-  "pcode": 3950, 
   "addresses": [
     {
-      "lat": 51.1784236824014, 
       "housenumber": "1", 
+      "lat": 51.1784236824014, 
+      "lon": 5.613790411718643, 
       "pcode": 3950, 
-      "street": "Watermolenweg", 
-      "lon": 5.613790411718643
+      "street": "Watermolenweg"
     }, 
     {
-      "lat": 51.18004863565884, 
       "housenumber": "2", 
+      "lat": 51.18004863565884, 
+      "lon": 5.6147317172949, 
       "pcode": 3950, 
-      "street": "Watermolenweg", 
-      "lon": 5.6147317172949
+      "street": "Watermolenweg"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 3950, 
-      "street": "Watermolenweg", 
-      "housenumber": "2A"
+      "street": "Watermolenweg"
     }, 
     {
-      "lat": 51.18026931547036, 
       "housenumber": "3", 
+      "lat": 51.18026931547036, 
+      "lon": 5.615048699438546, 
       "pcode": 3950, 
-      "street": "Watermolenweg", 
-      "lon": 5.615048699438546
+      "street": "Watermolenweg"
     }, 
     {
-      "lat": 51.18167977483804, 
       "housenumber": "4", 
+      "lat": 51.18167977483804, 
+      "lon": 5.619481357722298, 
       "pcode": 3950, 
-      "street": "Watermolenweg", 
-      "lon": 5.619481357722298
+      "street": "Watermolenweg"
     }
-  ], 
-  "name": "Watermolenweg"
+  ]
 }

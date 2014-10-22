@@ -1,25 +1,23 @@
 {
-  "pcode": 8600, 
   "addresses": [
     {
-      "lat": 51.03204399728778, 
       "housenumber": "1", 
+      "lat": 51.03204399728778, 
+      "lon": 2.8620352875686086, 
       "pcode": 8600, 
-      "street": "Heilig Hartplein", 
-      "lon": 2.8620352875686086
+      "street": "Heilig Hartplein"
     }, 
     {
+      "housenumber": "1_3", 
       "pcode": 8600, 
-      "street": "Heilig Hartplein", 
-      "housenumber": "1_3"
+      "street": "Heilig Hartplein"
     }, 
     {
-      "lat": 51.03222775284663, 
       "housenumber": "2", 
+      "lat": 51.03222775284663, 
+      "lon": 2.8618933496087893, 
       "pcode": 8600, 
-      "street": "Heilig Hartplein", 
-      "lon": 2.8618933496087893
+      "street": "Heilig Hartplein"
     }
-  ], 
-  "name": "Heilig Hartplein"
+  ]
 }

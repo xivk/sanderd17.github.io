@@ -1,20 +1,18 @@
 {
-  "pcode": 3920, 
   "addresses": [
     {
-      "lat": 51.247440464034455, 
       "housenumber": "1", 
+      "lat": 51.247440464034455, 
+      "lon": 5.261588660990253, 
       "pcode": 3920, 
-      "street": "Nijverheidsweg", 
-      "lon": 5.261588660990253
+      "street": "Nijverheidsweg"
     }, 
     {
-      "lat": 51.1782747990001, 
       "housenumber": "84", 
+      "lat": 51.1782747990001, 
+      "lon": 5.287838535429716, 
       "pcode": 3920, 
-      "street": "Nijverheidsweg", 
-      "lon": 5.287838535429716
+      "street": "Nijverheidsweg"
     }
-  ], 
-  "name": "Nijverheidsweg"
+  ]
 }

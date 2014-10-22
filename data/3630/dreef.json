@@ -1,39 +1,37 @@
 {
-  "pcode": 3630, 
   "addresses": [
     {
-      "lat": 50.995021451048274, 
       "housenumber": "148", 
+      "lat": 50.995021451048274, 
+      "lon": 5.743845792542733, 
       "pcode": 3630, 
-      "street": "Dreef", 
-      "lon": 5.743845792542733
+      "street": "Dreef"
     }, 
     {
+      "housenumber": "148B", 
       "pcode": 3630, 
-      "street": "Dreef", 
-      "housenumber": "148B"
+      "street": "Dreef"
     }, 
     {
-      "lat": 50.99290324518871, 
       "housenumber": "149", 
+      "lat": 50.99290324518871, 
+      "lon": 5.740860301635774, 
       "pcode": 3630, 
-      "street": "Dreef", 
-      "lon": 5.740860301635774
+      "street": "Dreef"
     }, 
     {
-      "lat": 50.99246881156434, 
       "housenumber": "150", 
+      "lat": 50.99246881156434, 
+      "lon": 5.738400834388355, 
       "pcode": 3630, 
-      "street": "Dreef", 
-      "lon": 5.738400834388355
+      "street": "Dreef"
     }, 
     {
-      "lat": 50.991834855595236, 
       "housenumber": "151", 
+      "lat": 50.991834855595236, 
+      "lon": 5.7374147235486, 
       "pcode": 3630, 
-      "street": "Dreef", 
-      "lon": 5.7374147235486
+      "street": "Dreef"
     }
-  ], 
-  "name": "Dreef"
+  ]
 }

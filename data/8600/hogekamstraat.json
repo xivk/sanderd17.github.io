@@ -1,20 +1,18 @@
 {
-  "pcode": 8600, 
   "addresses": [
     {
-      "lat": 51.01535377767756, 
       "housenumber": "1", 
+      "lat": 51.01535377767756, 
+      "lon": 2.9044027982305836, 
       "pcode": 8600, 
-      "street": "Hoge-Kamstraat", 
-      "lon": 2.9044027982305836
+      "street": "Hoge-Kamstraat"
     }, 
     {
-      "lat": 51.01308234228124, 
       "housenumber": "3", 
+      "lat": 51.01308234228124, 
+      "lon": 2.905104318612081, 
       "pcode": 8600, 
-      "street": "Hoge-Kamstraat", 
-      "lon": 2.905104318612081
+      "street": "Hoge-Kamstraat"
     }
-  ], 
-  "name": "Hoge-Kamstraat"
+  ]
 }

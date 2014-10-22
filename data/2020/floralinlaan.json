@@ -1,40 +1,38 @@
 {
-  "pcode": 2020, 
   "addresses": [
     {
+      "housenumber": "111", 
       "pcode": 2020, 
-      "street": "Florali\u0089nlaan", 
-      "housenumber": "111"
+      "street": "Florali\u00ebnlaan"
     }, 
     {
+      "housenumber": "115", 
       "pcode": 2020, 
-      "street": "Florali\u0089nlaan", 
-      "housenumber": "115"
+      "street": "Florali\u00ebnlaan"
     }, 
     {
-      "lat": 51.18709895797331, 
       "housenumber": "93", 
+      "lat": 51.18709895797331, 
+      "lon": 4.416676497391949, 
       "pcode": 2020, 
-      "street": "Florali\u0089nlaan", 
-      "lon": 4.416676497391949
+      "street": "Florali\u00ebnlaan"
     }, 
     {
+      "housenumber": "93BIS", 
       "pcode": 2020, 
-      "street": "Florali\u0089nlaan", 
-      "housenumber": "93BIS"
+      "street": "Florali\u00ebnlaan"
     }, 
     {
-      "lat": 51.18564217148213, 
       "housenumber": "95", 
+      "lat": 51.18564217148213, 
+      "lon": 4.412621660234424, 
       "pcode": 2020, 
-      "street": "Florali\u0089nlaan", 
-      "lon": 4.412621660234424
+      "street": "Florali\u00ebnlaan"
     }, 
     {
+      "housenumber": "99", 
       "pcode": 2020, 
-      "street": "Florali\u0089nlaan", 
-      "housenumber": "99"
+      "street": "Florali\u00ebnlaan"
     }
-  ], 
-  "name": "Florali\u0089nlaan"
+  ]
 }

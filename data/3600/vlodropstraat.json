@@ -1,18 +1,16 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
+      "housenumber": "32", 
       "pcode": 3600, 
-      "street": "Vlodropstraat", 
-      "housenumber": "32"
+      "street": "Vlodropstraat"
     }, 
     {
-      "lat": 50.98735775436457, 
       "housenumber": "37", 
+      "lat": 50.98735775436457, 
+      "lon": 5.510943155556798, 
       "pcode": 3600, 
-      "street": "Vlodropstraat", 
-      "lon": 5.510943155556798
+      "street": "Vlodropstraat"
     }
-  ], 
-  "name": "Vlodropstraat"
+  ]
 }

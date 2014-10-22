@@ -1,27 +1,25 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.95316106237912, 
       "housenumber": "2", 
+      "lat": 50.95316106237912, 
+      "lon": 5.523609597136421, 
       "pcode": 3600, 
-      "street": "Droegwijerstraat", 
-      "lon": 5.523609597136421
+      "street": "Droegwijerstraat"
     }, 
     {
-      "lat": 50.95312066696087, 
       "housenumber": "4", 
+      "lat": 50.95312066696087, 
+      "lon": 5.5238502828069675, 
       "pcode": 3600, 
-      "street": "Droegwijerstraat", 
-      "lon": 5.5238502828069675
+      "street": "Droegwijerstraat"
     }, 
     {
-      "lat": 50.953050888470926, 
       "housenumber": "8", 
+      "lat": 50.953050888470926, 
+      "lon": 5.524436681228465, 
       "pcode": 3600, 
-      "street": "Droegwijerstraat", 
-      "lon": 5.524436681228465
+      "street": "Droegwijerstraat"
     }
-  ], 
-  "name": "Droegwijerstraat"
+  ]
 }

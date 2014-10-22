@@ -1,20 +1,18 @@
 {
-  "pcode": 9400, 
   "addresses": [
     {
-      "lat": 50.8322455864645, 
       "housenumber": "18", 
+      "lat": 50.8322455864645, 
+      "lon": 4.02767425320073, 
       "pcode": 9400, 
-      "street": "Meerbekeweg", 
-      "lon": 4.02767425320073
+      "street": "Meerbekeweg"
     }, 
     {
-      "lat": 50.83264556598866, 
       "housenumber": "20", 
+      "lat": 50.83264556598866, 
+      "lon": 4.026973235833931, 
       "pcode": 9400, 
-      "street": "Meerbekeweg", 
-      "lon": 4.026973235833931
+      "street": "Meerbekeweg"
     }
-  ], 
-  "name": "Meerbekeweg"
+  ]
 }

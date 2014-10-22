@@ -1,32 +1,30 @@
 {
-  "pcode": 3720, 
   "addresses": [
     {
-      "lat": 50.87331187074205, 
       "housenumber": "13", 
+      "lat": 50.87331187074205, 
+      "lon": 5.385414388337994, 
       "pcode": 3720, 
-      "street": "Valikstraat", 
-      "lon": 5.385414388337994
+      "street": "Valikstraat"
     }, 
     {
-      "lat": 50.875420457579835, 
       "housenumber": "2", 
+      "lat": 50.875420457579835, 
+      "lon": 5.387692626664148, 
       "pcode": 3720, 
-      "street": "Valikstraat", 
-      "lon": 5.387692626664148
+      "street": "Valikstraat"
     }, 
     {
-      "lat": 50.87400533450122, 
       "housenumber": "41", 
+      "lat": 50.87400533450122, 
+      "lon": 5.3861765111044155, 
       "pcode": 3720, 
-      "street": "Valikstraat", 
-      "lon": 5.3861765111044155
+      "street": "Valikstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3720, 
-      "street": "Valikstraat", 
-      "housenumber": "8"
+      "street": "Valikstraat"
     }
-  ], 
-  "name": "Valikstraat"
+  ]
 }

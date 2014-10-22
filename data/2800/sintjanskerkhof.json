@@ -1,25 +1,23 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2800, 
-      "street": "Sint-Janskerkhof", 
-      "housenumber": "1"
+      "street": "Sint-Janskerkhof"
     }, 
     {
-      "lat": 51.0306028131685, 
       "housenumber": "3", 
+      "lat": 51.0306028131685, 
+      "lon": 4.480432642611292, 
       "pcode": 2800, 
-      "street": "Sint-Janskerkhof", 
-      "lon": 4.480432642611292
+      "street": "Sint-Janskerkhof"
     }, 
     {
-      "lat": 51.030687278576686, 
       "housenumber": "5", 
+      "lat": 51.030687278576686, 
+      "lon": 4.480465489613052, 
       "pcode": 2800, 
-      "street": "Sint-Janskerkhof", 
-      "lon": 4.480465489613052
+      "street": "Sint-Janskerkhof"
     }
-  ], 
-  "name": "Sint-Janskerkhof"
+  ]
 }

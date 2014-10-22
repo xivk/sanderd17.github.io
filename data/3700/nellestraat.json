@@ -1,20 +1,18 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.79311223021664, 
       "housenumber": "27", 
+      "lat": 50.79311223021664, 
+      "lon": 5.4976769144797935, 
       "pcode": 3700, 
-      "street": "Nellestraat", 
-      "lon": 5.4976769144797935
+      "street": "Nellestraat"
     }, 
     {
-      "lat": 50.793740369188235, 
       "housenumber": "28", 
+      "lat": 50.793740369188235, 
+      "lon": 5.498314855898924, 
       "pcode": 3700, 
-      "street": "Nellestraat", 
-      "lon": 5.498314855898924
+      "street": "Nellestraat"
     }
-  ], 
-  "name": "Nellestraat"
+  ]
 }

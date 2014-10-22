@@ -1,18 +1,16 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
+      "housenumber": "420", 
       "pcode": 2030, 
-      "street": "Churchilldok-Zuidkaai", 
-      "housenumber": "420"
+      "street": "Churchilldok-Zuidkaai"
     }, 
     {
-      "lat": 51.2776141267433, 
       "housenumber": "426", 
+      "lat": 51.2776141267433, 
+      "lon": 4.379407958563958, 
       "pcode": 2030, 
-      "street": "Churchilldok-Zuidkaai", 
-      "lon": 4.379407958563958
+      "street": "Churchilldok-Zuidkaai"
     }
-  ], 
-  "name": "Churchilldok-Zuidkaai"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 9030, 
   "addresses": [
     {
-      "lat": 51.09045025967299, 
       "housenumber": "10", 
+      "lat": 51.09045025967299, 
+      "lon": 3.6786343702255597, 
       "pcode": 9030, 
-      "street": "Waalkens", 
-      "lon": 3.6786343702255597
+      "street": "Waalkens"
     }, 
     {
-      "lat": 51.089244103088625, 
       "housenumber": "11", 
+      "lat": 51.089244103088625, 
+      "lon": 3.6797447971941586, 
       "pcode": 9030, 
-      "street": "Waalkens", 
-      "lon": 3.6797447971941586
+      "street": "Waalkens"
     }, 
     {
-      "lat": 51.08967233250398, 
       "housenumber": "9", 
+      "lat": 51.08967233250398, 
+      "lon": 3.678127132567869, 
       "pcode": 9030, 
-      "street": "Waalkens", 
-      "lon": 3.678127132567869
+      "street": "Waalkens"
     }
-  ], 
-  "name": "Waalkens"
+  ]
 }

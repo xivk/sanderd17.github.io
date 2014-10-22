@@ -1,18 +1,16 @@
 {
-  "pcode": 9111, 
   "addresses": [
     {
-      "lat": 51.14875904327367, 
       "housenumber": "1", 
+      "lat": 51.14875904327367, 
+      "lon": 4.119500262922309, 
       "pcode": 9111, 
-      "street": "Kleiweg", 
-      "lon": 4.119500262922309
+      "street": "Kleiweg"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 9111, 
-      "street": "Kleiweg", 
-      "housenumber": "1B"
+      "street": "Kleiweg"
     }
-  ], 
-  "name": "Kleiweg"
+  ]
 }

@@ -1,25 +1,23 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.87150759586125, 
       "housenumber": "1", 
+      "lat": 50.87150759586125, 
+      "lon": 4.703533933377381, 
       "pcode": 3000, 
-      "street": "Hoornplein", 
-      "lon": 4.703533933377381
+      "street": "Hoornplein"
     }, 
     {
-      "lat": 50.87151169887961, 
       "housenumber": "3", 
+      "lat": 50.87151169887961, 
+      "lon": 4.703545186186846, 
       "pcode": 3000, 
-      "street": "Hoornplein", 
-      "lon": 4.703545186186846
+      "street": "Hoornplein"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3000, 
-      "street": "Hoornplein", 
-      "housenumber": "5"
+      "street": "Hoornplein"
     }
-  ], 
-  "name": "Hoornplein"
+  ]
 }

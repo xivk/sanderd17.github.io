@@ -1,18 +1,16 @@
 {
-  "pcode": 9940, 
   "addresses": [
     {
-      "lat": 51.09803953056255, 
       "housenumber": "1", 
+      "lat": 51.09803953056255, 
+      "lon": 3.65363485837963, 
       "pcode": 9940, 
-      "street": "Lievestraat", 
-      "lon": 3.65363485837963
+      "street": "Lievestraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9940, 
-      "street": "Lievestraat", 
-      "housenumber": "4"
+      "street": "Lievestraat"
     }
-  ], 
-  "name": "Lievestraat"
+  ]
 }

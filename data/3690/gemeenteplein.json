@@ -1,20 +1,18 @@
 {
-  "pcode": 3690, 
   "addresses": [
     {
-      "lat": 50.933990881066975, 
       "housenumber": "1", 
+      "lat": 50.933990881066975, 
+      "lon": 5.5723628893087955, 
       "pcode": 3690, 
-      "street": "Gemeenteplein", 
-      "lon": 5.5723628893087955
+      "street": "Gemeenteplein"
     }, 
     {
-      "lat": 50.93399889600284, 
       "housenumber": "2", 
+      "lat": 50.93399889600284, 
+      "lon": 5.57237035113616, 
       "pcode": 3690, 
-      "street": "Gemeenteplein", 
-      "lon": 5.57237035113616
+      "street": "Gemeenteplein"
     }
-  ], 
-  "name": "Gemeenteplein"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9042, 
   "addresses": [
     {
-      "lat": 51.149778599979065, 
       "housenumber": "1", 
+      "lat": 51.149778599979065, 
+      "lon": 3.8090227196148057, 
       "pcode": 9042, 
-      "street": "Schuitstraat", 
-      "lon": 3.8090227196148057
+      "street": "Schuitstraat"
     }, 
     {
-      "lat": 51.149260744113654, 
       "housenumber": "3", 
+      "lat": 51.149260744113654, 
+      "lon": 3.8073534992228684, 
       "pcode": 9042, 
-      "street": "Schuitstraat", 
-      "lon": 3.8073534992228684
+      "street": "Schuitstraat"
     }
-  ], 
-  "name": "Schuitstraat"
+  ]
 }

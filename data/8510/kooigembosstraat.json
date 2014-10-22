@@ -1,20 +1,18 @@
 {
-  "pcode": 8510, 
   "addresses": [
     {
-      "lat": 50.74166637481676, 
       "housenumber": "1", 
+      "lat": 50.74166637481676, 
+      "lon": 3.342417016014426, 
       "pcode": 8510, 
-      "street": "Kooigembosstraat", 
-      "lon": 3.342417016014426
+      "street": "Kooigembosstraat"
     }, 
     {
-      "lat": 50.744870297478315, 
       "housenumber": "2", 
+      "lat": 50.744870297478315, 
+      "lon": 3.3494605934890664, 
       "pcode": 8510, 
-      "street": "Kooigembosstraat", 
-      "lon": 3.3494605934890664
+      "street": "Kooigembosstraat"
     }
-  ], 
-  "name": "Kooigembosstraat"
+  ]
 }

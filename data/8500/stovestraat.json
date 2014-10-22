@@ -1,37 +1,35 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.82901278394068, 
       "housenumber": "1", 
+      "lat": 50.82901278394068, 
+      "lon": 3.2636563836341455, 
       "pcode": 8500, 
-      "street": "Stovestraat", 
-      "lon": 3.2636563836341455
+      "street": "Stovestraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8500, 
-      "street": "Stovestraat", 
-      "housenumber": "2"
+      "street": "Stovestraat"
     }, 
     {
-      "lat": 50.82906735636365, 
       "housenumber": "3", 
+      "lat": 50.82906735636365, 
+      "lon": 3.2638663321729964, 
       "pcode": 8500, 
-      "street": "Stovestraat", 
-      "lon": 3.2638663321729964
+      "street": "Stovestraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8500, 
-      "street": "Stovestraat", 
-      "housenumber": "5"
+      "street": "Stovestraat"
     }, 
     {
-      "lat": 50.82905967095441, 
       "housenumber": "7", 
+      "lat": 50.82905967095441, 
+      "lon": 3.2638521751081093, 
       "pcode": 8500, 
-      "street": "Stovestraat", 
-      "lon": 3.2638521751081093
+      "street": "Stovestraat"
     }
-  ], 
-  "name": "Stovestraat"
+  ]
 }

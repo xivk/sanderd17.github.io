@@ -1,20 +1,18 @@
 {
-  "pcode": 2450, 
   "addresses": [
     {
-      "lat": 51.11825695290767, 
       "housenumber": "1", 
+      "lat": 51.11825695290767, 
+      "lon": 5.093425007272909, 
       "pcode": 2450, 
-      "street": "Vlessenstraat", 
-      "lon": 5.093425007272909
+      "street": "Vlessenstraat"
     }, 
     {
-      "lat": 51.118146318385996, 
       "housenumber": "2", 
+      "lat": 51.118146318385996, 
+      "lon": 5.094020583680675, 
       "pcode": 2450, 
-      "street": "Vlessenstraat", 
-      "lon": 5.094020583680675
+      "street": "Vlessenstraat"
     }
-  ], 
-  "name": "Vlessenstraat"
+  ]
 }

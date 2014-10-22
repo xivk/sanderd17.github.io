@@ -1,20 +1,18 @@
 {
-  "pcode": 3120, 
   "addresses": [
     {
-      "lat": 50.99668396591061, 
       "housenumber": "4", 
+      "lat": 50.99668396591061, 
+      "lon": 4.725965352268841, 
       "pcode": 3120, 
-      "street": "Gezonde Luchtstraat", 
-      "lon": 4.725965352268841
+      "street": "Gezonde Luchtstraat"
     }, 
     {
-      "lat": 50.99637018924602, 
       "housenumber": "8", 
+      "lat": 50.99637018924602, 
+      "lon": 4.726012385174342, 
       "pcode": 3120, 
-      "street": "Gezonde Luchtstraat", 
-      "lon": 4.726012385174342
+      "street": "Gezonde Luchtstraat"
     }
-  ], 
-  "name": "Gezonde Luchtstraat"
+  ]
 }

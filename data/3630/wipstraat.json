@@ -1,27 +1,25 @@
 {
-  "pcode": 3630, 
   "addresses": [
     {
-      "lat": 50.99178660958793, 
       "housenumber": "10", 
+      "lat": 50.99178660958793, 
+      "lon": 5.70238481366256, 
       "pcode": 3630, 
-      "street": "Wipstraat", 
-      "lon": 5.70238481366256
+      "street": "Wipstraat"
     }, 
     {
-      "lat": 50.99102459004982, 
       "housenumber": "2", 
+      "lat": 50.99102459004982, 
+      "lon": 5.701907262344816, 
       "pcode": 3630, 
-      "street": "Wipstraat", 
-      "lon": 5.701907262344816
+      "street": "Wipstraat"
     }, 
     {
-      "lat": 50.99291215591023, 
       "housenumber": "5", 
+      "lat": 50.99291215591023, 
+      "lon": 5.701511110133108, 
       "pcode": 3630, 
-      "street": "Wipstraat", 
-      "lon": 5.701511110133108
+      "street": "Wipstraat"
     }
-  ], 
-  "name": "Wipstraat"
+  ]
 }

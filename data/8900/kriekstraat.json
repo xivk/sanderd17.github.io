@@ -1,20 +1,18 @@
 {
-  "pcode": 8900, 
   "addresses": [
     {
-      "lat": 50.8163590460729, 
       "housenumber": "14", 
+      "lat": 50.8163590460729, 
+      "lon": 2.8531494190755913, 
       "pcode": 8900, 
-      "street": "Kriekstraat", 
-      "lon": 2.8531494190755913
+      "street": "Kriekstraat"
     }, 
     {
-      "lat": 50.81327800277679, 
       "housenumber": "18", 
+      "lat": 50.81327800277679, 
+      "lon": 2.84879258251879, 
       "pcode": 8900, 
-      "street": "Kriekstraat", 
-      "lon": 2.84879258251879
+      "street": "Kriekstraat"
     }
-  ], 
-  "name": "Kriekstraat"
+  ]
 }

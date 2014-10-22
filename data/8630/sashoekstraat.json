@@ -1,20 +1,18 @@
 {
-  "pcode": 8630, 
   "addresses": [
     {
-      "lat": 51.02536640690808, 
       "housenumber": "1", 
+      "lat": 51.02536640690808, 
+      "lon": 2.616687115034749, 
       "pcode": 8630, 
-      "street": "Sashoekstraat", 
-      "lon": 2.616687115034749
+      "street": "Sashoekstraat"
     }, 
     {
-      "lat": 51.02413052073951, 
       "housenumber": "2", 
+      "lat": 51.02413052073951, 
+      "lon": 2.6224316191860315, 
       "pcode": 8630, 
-      "street": "Sashoekstraat", 
-      "lon": 2.6224316191860315
+      "street": "Sashoekstraat"
     }
-  ], 
-  "name": "Sashoekstraat"
+  ]
 }

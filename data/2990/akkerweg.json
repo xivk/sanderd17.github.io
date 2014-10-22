@@ -1,20 +1,18 @@
 {
-  "pcode": 2990, 
   "addresses": [
     {
-      "lat": 51.39197124562145, 
       "housenumber": "10", 
+      "lat": 51.39197124562145, 
+      "lon": 4.640611897507179, 
       "pcode": 2990, 
-      "street": "Akkerweg", 
-      "lon": 4.640611897507179
+      "street": "Akkerweg"
     }, 
     {
-      "lat": 51.391705166849924, 
       "housenumber": "7", 
+      "lat": 51.391705166849924, 
+      "lon": 4.641488817419508, 
       "pcode": 2990, 
-      "street": "Akkerweg", 
-      "lon": 4.641488817419508
+      "street": "Akkerweg"
     }
-  ], 
-  "name": "Akkerweg"
+  ]
 }

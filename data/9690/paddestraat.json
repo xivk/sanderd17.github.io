@@ -1,37 +1,35 @@
 {
-  "pcode": 9690, 
   "addresses": [
     {
-      "lat": 50.78496780556837, 
       "housenumber": "1", 
+      "lat": 50.78496780556837, 
+      "lon": 3.517639963314602, 
       "pcode": 9690, 
-      "street": "Paddestraat", 
-      "lon": 3.517639963314602
+      "street": "Paddestraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 9690, 
-      "street": "Paddestraat", 
-      "housenumber": "1A"
+      "street": "Paddestraat"
     }, 
     {
-      "lat": 50.78504034865415, 
       "housenumber": "2", 
+      "lat": 50.78504034865415, 
+      "lon": 3.517973198115464, 
       "pcode": 9690, 
-      "street": "Paddestraat", 
-      "lon": 3.517973198115464
+      "street": "Paddestraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9690, 
-      "street": "Paddestraat", 
-      "housenumber": "3"
+      "street": "Paddestraat"
     }, 
     {
-      "lat": 50.78581862798409, 
       "housenumber": "4", 
+      "lat": 50.78581862798409, 
+      "lon": 3.5233153593226874, 
       "pcode": 9690, 
-      "street": "Paddestraat", 
-      "lon": 3.5233153593226874
+      "street": "Paddestraat"
     }
-  ], 
-  "name": "Paddestraat"
+  ]
 }

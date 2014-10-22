@@ -1,20 +1,18 @@
 {
-  "pcode": 3060, 
   "addresses": [
     {
-      "lat": 50.868931313087565, 
       "housenumber": "1", 
+      "lat": 50.868931313087565, 
+      "lon": 4.630763333828283, 
       "pcode": 3060, 
-      "street": "Vuikelaan", 
-      "lon": 4.630763333828283
+      "street": "Vuikelaan"
     }, 
     {
-      "lat": 50.86860045119763, 
       "housenumber": "2", 
+      "lat": 50.86860045119763, 
+      "lon": 4.630985371183267, 
       "pcode": 3060, 
-      "street": "Vuikelaan", 
-      "lon": 4.630985371183267
+      "street": "Vuikelaan"
     }
-  ], 
-  "name": "Vuikelaan"
+  ]
 }

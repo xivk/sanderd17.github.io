@@ -1,27 +1,25 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.21061070553243, 
       "housenumber": "2", 
+      "lat": 51.21061070553243, 
+      "lon": 3.221675770203534, 
       "pcode": 8000, 
-      "street": "Boterhuis", 
-      "lon": 3.221675770203534
+      "street": "Boterhuis"
     }, 
     {
-      "lat": 51.21056303403618, 
       "housenumber": "4", 
+      "lat": 51.21056303403618, 
+      "lon": 3.2216822374377925, 
       "pcode": 8000, 
-      "street": "Boterhuis", 
-      "lon": 3.2216822374377925
+      "street": "Boterhuis"
     }, 
     {
-      "lat": 51.21048174477305, 
       "housenumber": "6", 
+      "lat": 51.21048174477305, 
+      "lon": 3.2216241261613705, 
       "pcode": 8000, 
-      "street": "Boterhuis", 
-      "lon": 3.2216241261613705
+      "street": "Boterhuis"
     }
-  ], 
-  "name": "Boterhuis"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 9070, 
   "addresses": [
     {
-      "lat": 51.05785250772804, 
       "housenumber": "1", 
+      "lat": 51.05785250772804, 
+      "lon": 3.800075828293943, 
       "pcode": 9070, 
-      "street": "Burgemeester Libbrechthof", 
-      "lon": 3.800075828293943
+      "street": "Burgemeester Libbrechthof"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9070, 
-      "street": "Burgemeester Libbrechthof", 
-      "housenumber": "2"
+      "street": "Burgemeester Libbrechthof"
     }, 
     {
-      "lat": 51.057979268087, 
       "housenumber": "3", 
+      "lat": 51.057979268087, 
+      "lon": 3.800656825769361, 
       "pcode": 9070, 
-      "street": "Burgemeester Libbrechthof", 
-      "lon": 3.800656825769361
+      "street": "Burgemeester Libbrechthof"
     }, 
     {
-      "lat": 51.05804783638507, 
       "housenumber": "4", 
+      "lat": 51.05804783638507, 
+      "lon": 3.800783513428735, 
       "pcode": 9070, 
-      "street": "Burgemeester Libbrechthof", 
-      "lon": 3.800783513428735
+      "street": "Burgemeester Libbrechthof"
     }
-  ], 
-  "name": "Burgemeester Libbrechthof"
+  ]
 }

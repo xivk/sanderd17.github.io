@@ -1,20 +1,18 @@
 {
-  "pcode": 2240, 
   "addresses": [
     {
-      "lat": 51.226100281242054, 
       "housenumber": "1", 
+      "lat": 51.226100281242054, 
+      "lon": 4.650730569268877, 
       "pcode": 2240, 
-      "street": "Vredeberg", 
-      "lon": 4.650730569268877
+      "street": "Vredeberg"
     }, 
     {
-      "lat": 51.2262289883368, 
       "housenumber": "2", 
+      "lat": 51.2262289883368, 
+      "lon": 4.649867438232447, 
       "pcode": 2240, 
-      "street": "Vredeberg", 
-      "lon": 4.649867438232447
+      "street": "Vredeberg"
     }
-  ], 
-  "name": "Vredeberg"
+  ]
 }

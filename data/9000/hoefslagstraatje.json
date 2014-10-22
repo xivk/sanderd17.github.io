@@ -1,34 +1,32 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.056684475402335, 
       "housenumber": "1", 
+      "lat": 51.056684475402335, 
+      "lon": 3.723055121421191, 
       "pcode": 9000, 
-      "street": "Hoefslagstraatje", 
-      "lon": 3.723055121421191
+      "street": "Hoefslagstraatje"
     }, 
     {
-      "lat": 51.05674063699514, 
       "housenumber": "2", 
+      "lat": 51.05674063699514, 
+      "lon": 3.7232811386227196, 
       "pcode": 9000, 
-      "street": "Hoefslagstraatje", 
-      "lon": 3.7232811386227196
+      "street": "Hoefslagstraatje"
     }, 
     {
-      "lat": 51.05676827447028, 
       "housenumber": "4", 
+      "lat": 51.05676827447028, 
+      "lon": 3.723239250685815, 
       "pcode": 9000, 
-      "street": "Hoefslagstraatje", 
-      "lon": 3.723239250685815
+      "street": "Hoefslagstraatje"
     }, 
     {
-      "lat": 51.05682863507791, 
       "housenumber": "6", 
+      "lat": 51.05682863507791, 
+      "lon": 3.7231977675617247, 
       "pcode": 9000, 
-      "street": "Hoefslagstraatje", 
-      "lon": 3.7231977675617247
+      "street": "Hoefslagstraatje"
     }
-  ], 
-  "name": "Hoefslagstraatje"
+  ]
 }

@@ -1,25 +1,23 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
-      "lat": 51.02196574459442, 
       "housenumber": "1", 
+      "lat": 51.02196574459442, 
+      "lon": 4.482813177411431, 
       "pcode": 2800, 
-      "street": "Potterijstraat", 
-      "lon": 4.482813177411431
+      "street": "Potterijstraat"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 2800, 
-      "street": "Potterijstraat", 
-      "housenumber": "1B"
+      "street": "Potterijstraat"
     }, 
     {
-      "lat": 51.02214634916312, 
       "housenumber": "3", 
+      "lat": 51.02214634916312, 
+      "lon": 4.482890298665533, 
       "pcode": 2800, 
-      "street": "Potterijstraat", 
-      "lon": 4.482890298665533
+      "street": "Potterijstraat"
     }
-  ], 
-  "name": "Potterijstraat"
+  ]
 }

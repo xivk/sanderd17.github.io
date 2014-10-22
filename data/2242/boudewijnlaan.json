@@ -1,18 +1,16 @@
 {
-  "pcode": 2242, 
   "addresses": [
     {
-      "lat": 51.199426918289355, 
       "housenumber": "113", 
+      "lat": 51.199426918289355, 
+      "lon": 4.716251984398061, 
       "pcode": 2242, 
-      "street": "Boudewijnlaan", 
-      "lon": 4.716251984398061
+      "street": "Boudewijnlaan"
     }, 
     {
+      "housenumber": "69", 
       "pcode": 2242, 
-      "street": "Boudewijnlaan", 
-      "housenumber": "69"
+      "street": "Boudewijnlaan"
     }
-  ], 
-  "name": "Boudewijnlaan"
+  ]
 }

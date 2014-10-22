@@ -1,25 +1,23 @@
 {
-  "pcode": 2870, 
   "addresses": [
     {
-      "lat": 51.08332085916289, 
       "housenumber": "2", 
+      "lat": 51.08332085916289, 
+      "lon": 4.289957176570935, 
       "pcode": 2870, 
-      "street": "Grote Amer", 
-      "lon": 4.289957176570935
+      "street": "Grote Amer"
     }, 
     {
-      "lat": 51.08294956531837, 
       "housenumber": "3", 
+      "lat": 51.08294956531837, 
+      "lon": 4.290282891552258, 
       "pcode": 2870, 
-      "street": "Grote Amer", 
-      "lon": 4.290282891552258
+      "street": "Grote Amer"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2870, 
-      "street": "Grote Amer", 
-      "housenumber": "4"
+      "street": "Grote Amer"
     }
-  ], 
-  "name": "Grote Amer"
+  ]
 }

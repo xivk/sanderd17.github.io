@@ -1,25 +1,23 @@
 {
-  "pcode": 3740, 
   "addresses": [
     {
-      "lat": 50.840131320288734, 
       "housenumber": "1", 
+      "lat": 50.840131320288734, 
+      "lon": 5.529181864068591, 
       "pcode": 3740, 
-      "street": "Keiberg", 
-      "lon": 5.529181864068591
+      "street": "Keiberg"
     }, 
     {
-      "lat": 50.839738970674304, 
       "housenumber": "5", 
+      "lat": 50.839738970674304, 
+      "lon": 5.529227123571617, 
       "pcode": 3740, 
-      "street": "Keiberg", 
-      "lon": 5.529227123571617
+      "street": "Keiberg"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3740, 
-      "street": "Keiberg", 
-      "housenumber": "7"
+      "street": "Keiberg"
     }
-  ], 
-  "name": "Keiberg"
+  ]
 }

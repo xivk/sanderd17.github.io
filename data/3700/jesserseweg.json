@@ -1,20 +1,18 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.802807104360035, 
       "housenumber": "1", 
+      "lat": 50.802807104360035, 
+      "lon": 5.421209415807787, 
       "pcode": 3700, 
-      "street": "Jesserseweg", 
-      "lon": 5.421209415807787
+      "street": "Jesserseweg"
     }, 
     {
-      "lat": 50.8029907007768, 
       "housenumber": "5", 
+      "lat": 50.8029907007768, 
+      "lon": 5.420948217852169, 
       "pcode": 3700, 
-      "street": "Jesserseweg", 
-      "lon": 5.420948217852169
+      "street": "Jesserseweg"
     }
-  ], 
-  "name": "Jesserseweg"
+  ]
 }

@@ -1,39 +1,37 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
-      "lat": 51.0302701723642, 
       "housenumber": "1", 
+      "lat": 51.0302701723642, 
+      "lon": 4.47626011304248, 
       "pcode": 2800, 
-      "street": "Stadsheimelijkheid", 
-      "lon": 4.47626011304248
+      "street": "Stadsheimelijkheid"
     }, 
     {
-      "lat": 51.030259573205186, 
       "housenumber": "3", 
+      "lat": 51.030259573205186, 
+      "lon": 4.476251535540359, 
       "pcode": 2800, 
-      "street": "Stadsheimelijkheid", 
-      "lon": 4.476251535540359
+      "street": "Stadsheimelijkheid"
     }, 
     {
+      "housenumber": "41", 
       "pcode": 2800, 
-      "street": "Stadsheimelijkheid", 
-      "housenumber": "41"
+      "street": "Stadsheimelijkheid"
     }, 
     {
-      "lat": 51.03079273269782, 
       "housenumber": "5", 
+      "lat": 51.03079273269782, 
+      "lon": 4.475443073450872, 
       "pcode": 2800, 
-      "street": "Stadsheimelijkheid", 
-      "lon": 4.475443073450872
+      "street": "Stadsheimelijkheid"
     }, 
     {
-      "lat": 51.03026568009183, 
       "housenumber": "5A", 
+      "lat": 51.03026568009183, 
+      "lon": 4.476257679308617, 
       "pcode": 2800, 
-      "street": "Stadsheimelijkheid", 
-      "lon": 4.476257679308617
+      "street": "Stadsheimelijkheid"
     }
-  ], 
-  "name": "Stadsheimelijkheid"
+  ]
 }

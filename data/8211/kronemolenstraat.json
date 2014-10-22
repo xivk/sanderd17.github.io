@@ -1,23 +1,21 @@
 {
-  "pcode": 8211, 
   "addresses": [
     {
-      "lat": 51.104672280258434, 
       "housenumber": "33", 
+      "lat": 51.104672280258434, 
+      "lon": 3.1269101320895336, 
       "pcode": 8211, 
-      "street": "Kronemolenstraat", 
-      "lon": 3.1269101320895336
+      "street": "Kronemolenstraat"
     }, 
     {
+      "housenumber": "35", 
       "pcode": 8211, 
-      "street": "Kronemolenstraat", 
-      "housenumber": "35"
+      "street": "Kronemolenstraat"
     }, 
     {
+      "housenumber": "37", 
       "pcode": 8211, 
-      "street": "Kronemolenstraat", 
-      "housenumber": "37"
+      "street": "Kronemolenstraat"
     }
-  ], 
-  "name": "Kronemolenstraat"
+  ]
 }

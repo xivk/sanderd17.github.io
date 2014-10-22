@@ -1,18 +1,16 @@
 {
-  "pcode": 3910, 
   "addresses": [
     {
-      "lat": 51.230102935307855, 
       "housenumber": "1", 
+      "lat": 51.230102935307855, 
+      "lon": 5.431166480877482, 
       "pcode": 3910, 
-      "street": "Kloosterhof", 
-      "lon": 5.431166480877482
+      "street": "Kloosterhof"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3910, 
-      "street": "Kloosterhof", 
-      "housenumber": "3"
+      "street": "Kloosterhof"
     }
-  ], 
-  "name": "Kloosterhof"
+  ]
 }

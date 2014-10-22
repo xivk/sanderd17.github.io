@@ -1,27 +1,25 @@
 {
-  "pcode": 9620, 
   "addresses": [
     {
-      "lat": 50.870559305273204, 
       "housenumber": "1", 
+      "lat": 50.870559305273204, 
+      "lon": 3.7876807881456127, 
       "pcode": 9620, 
-      "street": "Vollander", 
-      "lon": 3.7876807881456127
+      "street": "Vollander"
     }, 
     {
-      "lat": 50.870239768394384, 
       "housenumber": "2", 
+      "lat": 50.870239768394384, 
+      "lon": 3.787854081411952, 
       "pcode": 9620, 
-      "street": "Vollander", 
-      "lon": 3.787854081411952
+      "street": "Vollander"
     }, 
     {
-      "lat": 50.870536428573025, 
       "housenumber": "3", 
+      "lat": 50.870536428573025, 
+      "lon": 3.7874904131544627, 
       "pcode": 9620, 
-      "street": "Vollander", 
-      "lon": 3.7874904131544627
+      "street": "Vollander"
     }
-  ], 
-  "name": "Vollander"
+  ]
 }

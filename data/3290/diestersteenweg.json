@@ -1,23 +1,21 @@
 {
-  "pcode": 3290, 
   "addresses": [
     {
+      "housenumber": "181", 
       "pcode": 3290, 
-      "street": "Diestersteenweg", 
-      "housenumber": "181"
+      "street": "Diestersteenweg"
     }, 
     {
-      "lat": 50.97925823015452, 
       "housenumber": "218", 
+      "lat": 50.97925823015452, 
+      "lon": 5.022387416240566, 
       "pcode": 3290, 
-      "street": "Diestersteenweg", 
-      "lon": 5.022387416240566
+      "street": "Diestersteenweg"
     }, 
     {
+      "housenumber": "224", 
       "pcode": 3290, 
-      "street": "Diestersteenweg", 
-      "housenumber": "224"
+      "street": "Diestersteenweg"
     }
-  ], 
-  "name": "Diestersteenweg"
+  ]
 }

@@ -1,67 +1,65 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9000, 
-      "street": "Basseveldestraat", 
-      "housenumber": "1"
+      "street": "Basseveldestraat"
     }, 
     {
-      "lat": 51.05886891575515, 
       "housenumber": "2", 
+      "lat": 51.05886891575515, 
+      "lon": 3.7135609568714174, 
       "pcode": 9000, 
-      "street": "Basseveldestraat", 
-      "lon": 3.7135609568714174
+      "street": "Basseveldestraat"
     }, 
     {
-      "lat": 51.05860167227186, 
       "housenumber": "3", 
+      "lat": 51.05860167227186, 
+      "lon": 3.7135137717629285, 
       "pcode": 9000, 
-      "street": "Basseveldestraat", 
-      "lon": 3.7135137717629285
+      "street": "Basseveldestraat"
     }, 
     {
-      "lat": 51.058855752626506, 
       "housenumber": "4", 
+      "lat": 51.058855752626506, 
+      "lon": 3.713489249086808, 
       "pcode": 9000, 
-      "street": "Basseveldestraat", 
-      "lon": 3.713489249086808
+      "street": "Basseveldestraat"
     }, 
     {
-      "lat": 51.05858492557112, 
       "housenumber": "5", 
+      "lat": 51.05858492557112, 
+      "lon": 3.7134442541623547, 
       "pcode": 9000, 
-      "street": "Basseveldestraat", 
-      "lon": 3.7134442541623547
+      "street": "Basseveldestraat"
     }, 
     {
-      "lat": 51.058841061728664, 
       "housenumber": "6", 
+      "lat": 51.058841061728664, 
+      "lon": 3.7134014440998198, 
       "pcode": 9000, 
-      "street": "Basseveldestraat", 
-      "lon": 3.7134014440998198
+      "street": "Basseveldestraat"
     }, 
     {
-      "lat": 51.058557066285736, 
       "housenumber": "7", 
+      "lat": 51.058557066285736, 
+      "lon": 3.713380883045271, 
       "pcode": 9000, 
-      "street": "Basseveldestraat", 
-      "lon": 3.713380883045271
+      "street": "Basseveldestraat"
     }, 
     {
-      "lat": 51.058829667970016, 
       "housenumber": "8", 
+      "lat": 51.058829667970016, 
+      "lon": 3.7133893362460775, 
       "pcode": 9000, 
-      "street": "Basseveldestraat", 
-      "lon": 3.7133893362460775
+      "street": "Basseveldestraat"
     }, 
     {
-      "lat": 51.05855280537741, 
       "housenumber": "9", 
+      "lat": 51.05855280537741, 
+      "lon": 3.7133258829468625, 
       "pcode": 9000, 
-      "street": "Basseveldestraat", 
-      "lon": 3.7133258829468625
+      "street": "Basseveldestraat"
     }
-  ], 
-  "name": "Basseveldestraat"
+  ]
 }

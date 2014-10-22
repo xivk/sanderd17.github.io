@@ -1,39 +1,37 @@
 {
-  "pcode": 8530, 
   "addresses": [
     {
-      "lat": 50.86311990045054, 
       "housenumber": "1", 
+      "lat": 50.86311990045054, 
+      "lon": 3.320178939529681, 
       "pcode": 8530, 
-      "street": "Gravin Adelahof", 
-      "lon": 3.320178939529681
+      "street": "Gravin Adelahof"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8530, 
-      "street": "Gravin Adelahof", 
-      "housenumber": "2"
+      "street": "Gravin Adelahof"
     }, 
     {
-      "lat": 50.86314384132929, 
       "housenumber": "3", 
+      "lat": 50.86314384132929, 
+      "lon": 3.3198397412530394, 
       "pcode": 8530, 
-      "street": "Gravin Adelahof", 
-      "lon": 3.3198397412530394
+      "street": "Gravin Adelahof"
     }, 
     {
-      "lat": 50.862606516469725, 
       "housenumber": "4", 
+      "lat": 50.862606516469725, 
+      "lon": 3.319551280248625, 
       "pcode": 8530, 
-      "street": "Gravin Adelahof", 
-      "lon": 3.319551280248625
+      "street": "Gravin Adelahof"
     }, 
     {
-      "lat": 50.86292337375586, 
       "housenumber": "5", 
+      "lat": 50.86292337375586, 
+      "lon": 3.3196459223388737, 
       "pcode": 8530, 
-      "street": "Gravin Adelahof", 
-      "lon": 3.3196459223388737
+      "street": "Gravin Adelahof"
     }
-  ], 
-  "name": "Gravin Adelahof"
+  ]
 }

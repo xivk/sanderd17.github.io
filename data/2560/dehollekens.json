@@ -1,27 +1,25 @@
 {
-  "pcode": 2560, 
   "addresses": [
     {
-      "lat": 51.142855061965655, 
       "housenumber": "10", 
+      "lat": 51.142855061965655, 
+      "lon": 4.632916369856849, 
       "pcode": 2560, 
-      "street": "De Hollekens", 
-      "lon": 4.632916369856849
+      "street": "De Hollekens"
     }, 
     {
-      "lat": 51.143161515471235, 
       "housenumber": "6", 
+      "lat": 51.143161515471235, 
+      "lon": 4.6339033719391125, 
       "pcode": 2560, 
-      "street": "De Hollekens", 
-      "lon": 4.6339033719391125
+      "street": "De Hollekens"
     }, 
     {
-      "lat": 51.143144734566995, 
       "housenumber": "8", 
+      "lat": 51.143144734566995, 
+      "lon": 4.633811108875718, 
       "pcode": 2560, 
-      "street": "De Hollekens", 
-      "lon": 4.633811108875718
+      "street": "De Hollekens"
     }
-  ], 
-  "name": "De Hollekens"
+  ]
 }

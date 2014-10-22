@@ -1,20 +1,18 @@
 {
-  "pcode": 3520, 
   "addresses": [
     {
-      "lat": 51.0017280347714, 
       "housenumber": "1", 
+      "lat": 51.0017280347714, 
+      "lon": 5.319685294932236, 
       "pcode": 3520, 
-      "street": "Vrunstraat", 
-      "lon": 5.319685294932236
+      "street": "Vrunstraat"
     }, 
     {
-      "lat": 51.001594413766654, 
       "housenumber": "2", 
+      "lat": 51.001594413766654, 
+      "lon": 5.319022069121561, 
       "pcode": 3520, 
-      "street": "Vrunstraat", 
-      "lon": 5.319022069121561
+      "street": "Vrunstraat"
     }
-  ], 
-  "name": "Vrunstraat"
+  ]
 }

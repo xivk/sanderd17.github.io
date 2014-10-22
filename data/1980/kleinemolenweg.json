@@ -1,20 +1,18 @@
 {
-  "pcode": 1980, 
   "addresses": [
     {
-      "lat": 50.99433802612407, 
       "housenumber": "2", 
+      "lat": 50.99433802612407, 
+      "lon": 4.446779349476682, 
       "pcode": 1980, 
-      "street": "Kleine Molenweg", 
-      "lon": 4.446779349476682
+      "street": "Kleine Molenweg"
     }, 
     {
-      "lat": 50.99150243027445, 
       "housenumber": "4", 
+      "lat": 50.99150243027445, 
+      "lon": 4.439117147749061, 
       "pcode": 1980, 
-      "street": "Kleine Molenweg", 
-      "lon": 4.439117147749061
+      "street": "Kleine Molenweg"
     }
-  ], 
-  "name": "Kleine Molenweg"
+  ]
 }

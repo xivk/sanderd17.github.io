@@ -1,27 +1,25 @@
 {
-  "pcode": 8450, 
   "addresses": [
     {
-      "lat": 51.21732906426611, 
       "housenumber": "1", 
+      "lat": 51.21732906426611, 
+      "lon": 3.0019952886079473, 
       "pcode": 8450, 
-      "street": "Kwadeweg", 
-      "lon": 3.0019952886079473
+      "street": "Kwadeweg"
     }, 
     {
-      "lat": 51.21735598198058, 
       "housenumber": "3", 
+      "lat": 51.21735598198058, 
+      "lon": 3.007463109229791, 
       "pcode": 8450, 
-      "street": "Kwadeweg", 
-      "lon": 3.007463109229791
+      "street": "Kwadeweg"
     }, 
     {
-      "lat": 51.2183207186195, 
       "housenumber": "5", 
+      "lat": 51.2183207186195, 
+      "lon": 3.010632902876386, 
       "pcode": 8450, 
-      "street": "Kwadeweg", 
-      "lon": 3.010632902876386
+      "street": "Kwadeweg"
     }
-  ], 
-  "name": "Kwadeweg"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9420, 
   "addresses": [
     {
-      "lat": 50.93206508741978, 
       "housenumber": "1", 
+      "lat": 50.93206508741978, 
+      "lon": 3.945198565564736, 
       "pcode": 9420, 
-      "street": "Seskenskouter", 
-      "lon": 3.945198565564736
+      "street": "Seskenskouter"
     }, 
     {
-      "lat": 50.93250351894521, 
       "housenumber": "2", 
+      "lat": 50.93250351894521, 
+      "lon": 3.9441803338277386, 
       "pcode": 9420, 
-      "street": "Seskenskouter", 
-      "lon": 3.9441803338277386
+      "street": "Seskenskouter"
     }
-  ], 
-  "name": "Seskenskouter"
+  ]
 }

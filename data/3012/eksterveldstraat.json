@@ -1,27 +1,25 @@
 {
-  "pcode": 3012, 
   "addresses": [
     {
-      "lat": 50.91397540058676, 
       "housenumber": "1", 
+      "lat": 50.91397540058676, 
+      "lon": 4.700199725884412, 
       "pcode": 3012, 
-      "street": "Eksterveldstraat", 
-      "lon": 4.700199725884412
+      "street": "Eksterveldstraat"
     }, 
     {
-      "lat": 50.9135802591329, 
       "housenumber": "2", 
+      "lat": 50.9135802591329, 
+      "lon": 4.701076703289925, 
       "pcode": 3012, 
-      "street": "Eksterveldstraat", 
-      "lon": 4.701076703289925
+      "street": "Eksterveldstraat"
     }, 
     {
-      "lat": 50.91386474327653, 
       "housenumber": "3", 
+      "lat": 50.91386474327653, 
+      "lon": 4.700548323231702, 
       "pcode": 3012, 
-      "street": "Eksterveldstraat", 
-      "lon": 4.700548323231702
+      "street": "Eksterveldstraat"
     }
-  ], 
-  "name": "Eksterveldstraat"
+  ]
 }

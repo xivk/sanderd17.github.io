@@ -1,32 +1,30 @@
 {
-  "pcode": 8570, 
   "addresses": [
     {
-      "lat": 50.826690884980614, 
       "housenumber": "2", 
+      "lat": 50.826690884980614, 
+      "lon": 3.392066680041744, 
       "pcode": 8570, 
-      "street": "Diesveltstraat", 
-      "lon": 3.392066680041744
+      "street": "Diesveltstraat"
     }, 
     {
-      "lat": 50.82770463454033, 
       "housenumber": "4", 
+      "lat": 50.82770463454033, 
+      "lon": 3.3915807591034004, 
       "pcode": 8570, 
-      "street": "Diesveltstraat", 
-      "lon": 3.3915807591034004
+      "street": "Diesveltstraat"
     }, 
     {
-      "lat": 50.827946569160645, 
       "housenumber": "6", 
+      "lat": 50.827946569160645, 
+      "lon": 3.3920995270753314, 
       "pcode": 8570, 
-      "street": "Diesveltstraat", 
-      "lon": 3.3920995270753314
+      "street": "Diesveltstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8570, 
-      "street": "Diesveltstraat", 
-      "housenumber": "7"
+      "street": "Diesveltstraat"
     }
-  ], 
-  "name": "Diesveltstraat"
+  ]
 }

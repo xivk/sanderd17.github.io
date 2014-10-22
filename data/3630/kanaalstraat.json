@@ -1,28 +1,26 @@
 {
-  "pcode": 3630, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3630, 
-      "street": "Kanaalstraat", 
-      "housenumber": "10"
+      "street": "Kanaalstraat"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 3630, 
-      "street": "Kanaalstraat", 
-      "housenumber": "11"
+      "street": "Kanaalstraat"
     }, 
     {
-      "lat": 50.98476959557617, 
       "housenumber": "13", 
+      "lat": 50.98476959557617, 
+      "lon": 5.704447736653363, 
       "pcode": 3630, 
-      "street": "Kanaalstraat", 
-      "lon": 5.704447736653363
+      "street": "Kanaalstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3630, 
-      "street": "Kanaalstraat", 
-      "housenumber": "2"
+      "street": "Kanaalstraat"
     }
-  ], 
-  "name": "Kanaalstraat"
+  ]
 }

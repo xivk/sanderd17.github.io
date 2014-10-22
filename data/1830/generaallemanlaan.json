@@ -1,25 +1,23 @@
 {
-  "pcode": 1830, 
   "addresses": [
     {
+      "housenumber": "15", 
       "pcode": 1830, 
-      "street": "Generaal Lemanlaan", 
-      "housenumber": "15"
+      "street": "Generaal Lemanlaan"
     }, 
     {
-      "lat": 50.90633355771721, 
       "housenumber": "2", 
+      "lat": 50.90633355771721, 
+      "lon": 4.419031455626311, 
       "pcode": 1830, 
-      "street": "Generaal Lemanlaan", 
-      "lon": 4.419031455626311
+      "street": "Generaal Lemanlaan"
     }, 
     {
-      "lat": 50.90748190100699, 
       "housenumber": "5", 
+      "lat": 50.90748190100699, 
+      "lon": 4.417459227073638, 
       "pcode": 1830, 
-      "street": "Generaal Lemanlaan", 
-      "lon": 4.417459227073638
+      "street": "Generaal Lemanlaan"
     }
-  ], 
-  "name": "Generaal Lemanlaan"
+  ]
 }

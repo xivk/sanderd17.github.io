@@ -1,72 +1,70 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.20549275475002, 
       "housenumber": "10", 
+      "lat": 51.20549275475002, 
+      "lon": 3.2246498791469795, 
       "pcode": 8000, 
-      "street": "Nieuwstraat", 
-      "lon": 3.2246498791469795
+      "street": "Nieuwstraat"
     }, 
     {
-      "lat": 51.20572796881603, 
       "housenumber": "11", 
+      "lat": 51.20572796881603, 
+      "lon": 3.224868641670183, 
       "pcode": 8000, 
-      "street": "Nieuwstraat", 
-      "lon": 3.224868641670183
+      "street": "Nieuwstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8000, 
-      "street": "Nieuwstraat", 
-      "housenumber": "2"
+      "street": "Nieuwstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8000, 
-      "street": "Nieuwstraat", 
-      "housenumber": "3"
+      "street": "Nieuwstraat"
     }, 
     {
-      "lat": 51.20570806297179, 
       "housenumber": "4", 
+      "lat": 51.20570806297179, 
+      "lon": 3.224372132292973, 
       "pcode": 8000, 
-      "street": "Nieuwstraat", 
-      "lon": 3.224372132292973
+      "street": "Nieuwstraat"
     }, 
     {
-      "lat": 51.20610118263213, 
       "housenumber": "5", 
+      "lat": 51.20610118263213, 
+      "lon": 3.225042094923379, 
       "pcode": 8000, 
-      "street": "Nieuwstraat", 
-      "lon": 3.225042094923379
+      "street": "Nieuwstraat"
     }, 
     {
-      "lat": 51.20560039266116, 
       "housenumber": "6", 
+      "lat": 51.20560039266116, 
+      "lon": 3.224476804861588, 
       "pcode": 8000, 
-      "street": "Nieuwstraat", 
-      "lon": 3.224476804861588
+      "street": "Nieuwstraat"
     }, 
     {
-      "lat": 51.20589000363885, 
       "housenumber": "7", 
+      "lat": 51.20589000363885, 
+      "lon": 3.22464085580832, 
       "pcode": 8000, 
-      "street": "Nieuwstraat", 
-      "lon": 3.22464085580832
+      "street": "Nieuwstraat"
     }, 
     {
-      "lat": 51.205543495091874, 
       "housenumber": "8", 
+      "lat": 51.205543495091874, 
+      "lon": 3.2245517547177425, 
       "pcode": 8000, 
-      "street": "Nieuwstraat", 
-      "lon": 3.2245517547177425
+      "street": "Nieuwstraat"
     }, 
     {
-      "lat": 51.20586026858439, 
       "housenumber": "9", 
+      "lat": 51.20586026858439, 
+      "lon": 3.2248752730138164, 
       "pcode": 8000, 
-      "street": "Nieuwstraat", 
-      "lon": 3.2248752730138164
+      "street": "Nieuwstraat"
     }
-  ], 
-  "name": "Nieuwstraat"
+  ]
 }

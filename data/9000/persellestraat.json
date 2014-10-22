@@ -1,68 +1,66 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9000, 
-      "street": "Persellestraat", 
-      "housenumber": "1"
+      "street": "Persellestraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 9000, 
-      "street": "Persellestraat", 
-      "housenumber": "1A"
+      "street": "Persellestraat"
     }, 
     {
-      "lat": 51.04229491295755, 
       "housenumber": "1B", 
+      "lat": 51.04229491295755, 
+      "lon": 3.7190537830627566, 
       "pcode": 9000, 
-      "street": "Persellestraat", 
-      "lon": 3.7190537830627566
+      "street": "Persellestraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9000, 
-      "street": "Persellestraat", 
-      "housenumber": "2"
+      "street": "Persellestraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 9000, 
-      "street": "Persellestraat", 
-      "housenumber": "2A"
+      "street": "Persellestraat"
     }, 
     {
-      "lat": 51.04245135784004, 
       "housenumber": "3", 
+      "lat": 51.04245135784004, 
+      "lon": 3.719043058373226, 
       "pcode": 9000, 
-      "street": "Persellestraat", 
-      "lon": 3.719043058373226
+      "street": "Persellestraat"
     }, 
     {
-      "lat": 51.042503201011314, 
       "housenumber": "4", 
+      "lat": 51.042503201011314, 
+      "lon": 3.7190384895422413, 
       "pcode": 9000, 
-      "street": "Persellestraat", 
-      "lon": 3.7190384895422413
+      "street": "Persellestraat"
     }, 
     {
-      "lat": 51.04253146678976, 
       "housenumber": "5", 
+      "lat": 51.04253146678976, 
+      "lon": 3.719013001284763, 
       "pcode": 9000, 
-      "street": "Persellestraat", 
-      "lon": 3.719013001284763
+      "street": "Persellestraat"
     }, 
     {
-      "lat": 51.04259987981978, 
       "housenumber": "6", 
+      "lat": 51.04259987981978, 
+      "lon": 3.7189648543685756, 
       "pcode": 9000, 
-      "street": "Persellestraat", 
-      "lon": 3.7189648543685756
+      "street": "Persellestraat"
     }, 
     {
-      "lat": 51.04263968389517, 
       "housenumber": "7", 
+      "lat": 51.04263968389517, 
+      "lon": 3.71899410437072, 
       "pcode": 9000, 
-      "street": "Persellestraat", 
-      "lon": 3.71899410437072
+      "street": "Persellestraat"
     }
-  ], 
-  "name": "Persellestraat"
+  ]
 }

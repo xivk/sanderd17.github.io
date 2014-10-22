@@ -1,25 +1,23 @@
 {
-  "pcode": 3740, 
   "addresses": [
     {
-      "lat": 50.86994459678479, 
       "housenumber": "1", 
+      "lat": 50.86994459678479, 
+      "lon": 5.517967845972025, 
       "pcode": 3740, 
-      "street": "Zoemerik", 
-      "lon": 5.517967845972025
+      "street": "Zoemerik"
     }, 
     {
-      "lat": 50.87011560362395, 
       "housenumber": "2", 
+      "lat": 50.87011560362395, 
+      "lon": 5.518187284474216, 
       "pcode": 3740, 
-      "street": "Zoemerik", 
-      "lon": 5.518187284474216
+      "street": "Zoemerik"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3740, 
-      "street": "Zoemerik", 
-      "housenumber": "4"
+      "street": "Zoemerik"
     }
-  ], 
-  "name": "Zoemerik"
+  ]
 }

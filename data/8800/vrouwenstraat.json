@@ -1,39 +1,37 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.94444045806479, 
       "housenumber": "2", 
+      "lat": 50.94444045806479, 
+      "lon": 3.122274043364527, 
       "pcode": 8800, 
-      "street": "Vrouwenstraat", 
-      "lon": 3.122274043364527
+      "street": "Vrouwenstraat"
     }, 
     {
-      "lat": 50.9445494675169, 
       "housenumber": "3", 
+      "lat": 50.9445494675169, 
+      "lon": 3.1229059910750974, 
       "pcode": 8800, 
-      "street": "Vrouwenstraat", 
-      "lon": 3.1229059910750974
+      "street": "Vrouwenstraat"
     }, 
     {
-      "lat": 50.94458421825342, 
       "housenumber": "5", 
+      "lat": 50.94458421825342, 
+      "lon": 3.1228171211866664, 
       "pcode": 8800, 
-      "street": "Vrouwenstraat", 
-      "lon": 3.1228171211866664
+      "street": "Vrouwenstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 8800, 
-      "street": "Vrouwenstraat", 
-      "housenumber": "6"
+      "street": "Vrouwenstraat"
     }, 
     {
-      "lat": 50.94461374253545, 
       "housenumber": "7", 
+      "lat": 50.94461374253545, 
+      "lon": 3.1227525825887743, 
       "pcode": 8800, 
-      "street": "Vrouwenstraat", 
-      "lon": 3.1227525825887743
+      "street": "Vrouwenstraat"
     }
-  ], 
-  "name": "Vrouwenstraat"
+  ]
 }

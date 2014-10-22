@@ -1,27 +1,25 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
-      "lat": 51.25617622039634, 
       "housenumber": "1", 
+      "lat": 51.25617622039634, 
+      "lon": 3.0009389950540766, 
       "pcode": 8420, 
-      "street": "Doornput", 
-      "lon": 3.0009389950540766
+      "street": "Doornput"
     }, 
     {
-      "lat": 51.256785076901274, 
       "housenumber": "3", 
+      "lat": 51.256785076901274, 
+      "lon": 3.0010460567213513, 
       "pcode": 8420, 
-      "street": "Doornput", 
-      "lon": 3.0010460567213513
+      "street": "Doornput"
     }, 
     {
-      "lat": 51.256755919132104, 
       "housenumber": "5", 
+      "lat": 51.256755919132104, 
+      "lon": 3.0007788592839373, 
       "pcode": 8420, 
-      "street": "Doornput", 
-      "lon": 3.0007788592839373
+      "street": "Doornput"
     }
-  ], 
-  "name": "Doornput"
+  ]
 }

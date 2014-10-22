@@ -1,18 +1,16 @@
 {
-  "pcode": 3665, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 3665, 
-      "street": "Hofstede", 
-      "housenumber": "2"
+      "street": "Hofstede"
     }, 
     {
-      "lat": 51.00661326416283, 
       "housenumber": "4", 
+      "lat": 51.00661326416283, 
+      "lon": 5.581523402402799, 
       "pcode": 3665, 
-      "street": "Hofstede", 
-      "lon": 5.581523402402799
+      "street": "Hofstede"
     }
-  ], 
-  "name": "Hofstede"
+  ]
 }

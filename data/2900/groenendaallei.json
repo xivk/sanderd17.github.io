@@ -1,27 +1,25 @@
 {
-  "pcode": 2900, 
   "addresses": [
     {
-      "lat": 51.265514765971524, 
       "housenumber": "1", 
+      "lat": 51.265514765971524, 
+      "lon": 4.533779878337728, 
       "pcode": 2900, 
-      "street": "Groenendaallei", 
-      "lon": 4.533779878337728
+      "street": "Groenendaallei"
     }, 
     {
-      "lat": 51.26530945333485, 
       "housenumber": "2", 
+      "lat": 51.26530945333485, 
+      "lon": 4.534818712200635, 
       "pcode": 2900, 
-      "street": "Groenendaallei", 
-      "lon": 4.534818712200635
+      "street": "Groenendaallei"
     }, 
     {
-      "lat": 51.26563611490912, 
       "housenumber": "4", 
+      "lat": 51.26563611490912, 
+      "lon": 4.535053412718321, 
       "pcode": 2900, 
-      "street": "Groenendaallei", 
-      "lon": 4.535053412718321
+      "street": "Groenendaallei"
     }
-  ], 
-  "name": "Groenendaallei"
+  ]
 }

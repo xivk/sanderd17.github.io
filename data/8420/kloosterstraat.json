@@ -1,30 +1,28 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
+      "housenumber": "14", 
       "pcode": 8420, 
-      "street": "Kloosterstraat", 
-      "housenumber": "14"
+      "street": "Kloosterstraat"
     }, 
     {
+      "housenumber": "47", 
       "pcode": 8420, 
-      "street": "Kloosterstraat", 
-      "housenumber": "47"
+      "street": "Kloosterstraat"
     }, 
     {
-      "lat": 51.25348445726107, 
       "housenumber": "8A", 
+      "lat": 51.25348445726107, 
+      "lon": 3.055713067800753, 
       "pcode": 8420, 
-      "street": "Kloosterstraat", 
-      "lon": 3.055713067800753
+      "street": "Kloosterstraat"
     }, 
     {
-      "lat": 51.254170699657166, 
       "housenumber": "9A", 
+      "lat": 51.254170699657166, 
+      "lon": 3.054811128602168, 
       "pcode": 8420, 
-      "street": "Kloosterstraat", 
-      "lon": 3.054811128602168
+      "street": "Kloosterstraat"
     }
-  ], 
-  "name": "Kloosterstraat"
+  ]
 }

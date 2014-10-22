@@ -1,33 +1,31 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8420, 
-      "street": "Vanden Berghehelling", 
-      "housenumber": "1"
+      "street": "Vanden Berghehelling"
     }, 
     {
-      "lat": 51.301605658561506, 
       "housenumber": "3", 
+      "lat": 51.301605658561506, 
+      "lon": 3.079647881864391, 
       "pcode": 8420, 
-      "street": "Vanden Berghehelling", 
-      "lon": 3.079647881864391
+      "street": "Vanden Berghehelling"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8420, 
-      "street": "Vanden Berghehelling", 
-      "housenumber": "4"
+      "street": "Vanden Berghehelling"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8420, 
-      "street": "Vanden Berghehelling", 
-      "housenumber": "5"
+      "street": "Vanden Berghehelling"
     }, 
     {
+      "housenumber": "5B", 
       "pcode": 8420, 
-      "street": "Vanden Berghehelling", 
-      "housenumber": "5B"
+      "street": "Vanden Berghehelling"
     }
-  ], 
-  "name": "Vanden Berghehelling"
+  ]
 }

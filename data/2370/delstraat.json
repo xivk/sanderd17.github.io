@@ -1,32 +1,30 @@
 {
-  "pcode": 2370, 
   "addresses": [
     {
-      "lat": 51.3137911882902, 
       "housenumber": "6", 
+      "lat": 51.3137911882902, 
+      "lon": 5.04161352973594, 
       "pcode": 2370, 
-      "street": "Delstraat", 
-      "lon": 5.04161352973594
+      "street": "Delstraat"
     }, 
     {
-      "lat": 51.31431504943644, 
       "housenumber": "7", 
+      "lat": 51.31431504943644, 
+      "lon": 5.04077217414613, 
       "pcode": 2370, 
-      "street": "Delstraat", 
-      "lon": 5.04077217414613
+      "street": "Delstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2370, 
-      "street": "Delstraat", 
-      "housenumber": "8"
+      "street": "Delstraat"
     }, 
     {
-      "lat": 51.31517208278116, 
       "housenumber": "9", 
+      "lat": 51.31517208278116, 
+      "lon": 5.039538313167435, 
       "pcode": 2370, 
-      "street": "Delstraat", 
-      "lon": 5.039538313167435
+      "street": "Delstraat"
     }
-  ], 
-  "name": "Delstraat"
+  ]
 }

@@ -1,39 +1,37 @@
 {
-  "pcode": 8950, 
   "addresses": [
     {
-      "lat": 50.728666433382166, 
       "housenumber": "1", 
+      "lat": 50.728666433382166, 
+      "lon": 2.8301370361130918, 
       "pcode": 8950, 
-      "street": "Spiervelden", 
-      "lon": 2.8301370361130918
+      "street": "Spiervelden"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8950, 
-      "street": "Spiervelden", 
-      "housenumber": "2"
+      "street": "Spiervelden"
     }, 
     {
-      "lat": 50.72967491114704, 
       "housenumber": "4", 
+      "lat": 50.72967491114704, 
+      "lon": 2.8263503998878834, 
       "pcode": 8950, 
-      "street": "Spiervelden", 
-      "lon": 2.8263503998878834
+      "street": "Spiervelden"
     }, 
     {
-      "lat": 50.72828154508621, 
       "housenumber": "5", 
+      "lat": 50.72828154508621, 
+      "lon": 2.818857022823409, 
       "pcode": 8950, 
-      "street": "Spiervelden", 
-      "lon": 2.818857022823409
+      "street": "Spiervelden"
     }, 
     {
-      "lat": 50.72917087879068, 
       "housenumber": "6", 
+      "lat": 50.72917087879068, 
+      "lon": 2.822170629471139, 
       "pcode": 8950, 
-      "street": "Spiervelden", 
-      "lon": 2.822170629471139
+      "street": "Spiervelden"
     }
-  ], 
-  "name": "Spiervelden"
+  ]
 }

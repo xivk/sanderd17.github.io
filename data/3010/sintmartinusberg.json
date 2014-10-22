@@ -1,27 +1,25 @@
 {
-  "pcode": 3010, 
   "addresses": [
     {
-      "lat": 50.87118022214691, 
       "housenumber": "13", 
+      "lat": 50.87118022214691, 
+      "lon": 4.7523862834413135, 
       "pcode": 3010, 
-      "street": "Sint-Martinusberg", 
-      "lon": 4.7523862834413135
+      "street": "Sint-Martinusberg"
     }, 
     {
-      "lat": 50.87037031838179, 
       "housenumber": "19", 
+      "lat": 50.87037031838179, 
+      "lon": 4.744240654858399, 
       "pcode": 3010, 
-      "street": "Sint-Martinusberg", 
-      "lon": 4.744240654858399
+      "street": "Sint-Martinusberg"
     }, 
     {
-      "lat": 50.871138787457056, 
       "housenumber": "21", 
+      "lat": 50.871138787457056, 
+      "lon": 4.743273208728311, 
       "pcode": 3010, 
-      "street": "Sint-Martinusberg", 
-      "lon": 4.743273208728311
+      "street": "Sint-Martinusberg"
     }
-  ], 
-  "name": "Sint-Martinusberg"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2310, 
   "addresses": [
     {
-      "lat": 51.323652344623774, 
       "housenumber": "1", 
+      "lat": 51.323652344623774, 
+      "lon": 4.7407078895470125, 
       "pcode": 2310, 
-      "street": "Brandgravenweg", 
-      "lon": 4.7407078895470125
+      "street": "Brandgravenweg"
     }, 
     {
-      "lat": 51.326105630234366, 
       "housenumber": "7", 
+      "lat": 51.326105630234366, 
+      "lon": 4.738938186396127, 
       "pcode": 2310, 
-      "street": "Brandgravenweg", 
-      "lon": 4.738938186396127
+      "street": "Brandgravenweg"
     }
-  ], 
-  "name": "Brandgravenweg"
+  ]
 }

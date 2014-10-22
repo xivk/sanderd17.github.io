@@ -1,27 +1,25 @@
 {
-  "pcode": 3220, 
   "addresses": [
     {
-      "lat": 50.917025676171164, 
       "housenumber": "1", 
+      "lat": 50.917025676171164, 
+      "lon": 4.787304605175578, 
       "pcode": 3220, 
-      "street": "Sint-Martensberg", 
-      "lon": 4.787304605175578
+      "street": "Sint-Martensberg"
     }, 
     {
-      "lat": 50.91663331366088, 
       "housenumber": "2", 
+      "lat": 50.91663331366088, 
+      "lon": 4.787473029042425, 
       "pcode": 3220, 
-      "street": "Sint-Martensberg", 
-      "lon": 4.787473029042425
+      "street": "Sint-Martensberg"
     }, 
     {
-      "lat": 50.91677784939786, 
       "housenumber": "4", 
+      "lat": 50.91677784939786, 
+      "lon": 4.78810614898167, 
       "pcode": 3220, 
-      "street": "Sint-Martensberg", 
-      "lon": 4.78810614898167
+      "street": "Sint-Martensberg"
     }
-  ], 
-  "name": "Sint-Martensberg"
+  ]
 }

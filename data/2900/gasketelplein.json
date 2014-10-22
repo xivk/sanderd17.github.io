@@ -1,20 +1,18 @@
 {
-  "pcode": 2900, 
   "addresses": [
     {
-      "lat": 51.25651400295826, 
       "housenumber": "10", 
+      "lat": 51.25651400295826, 
+      "lon": 4.505738797517472, 
       "pcode": 2900, 
-      "street": "Gasketelplein", 
-      "lon": 4.505738797517472
+      "street": "Gasketelplein"
     }, 
     {
-      "lat": 51.257087808822476, 
       "housenumber": "12", 
+      "lat": 51.257087808822476, 
+      "lon": 4.50527924678875, 
       "pcode": 2900, 
-      "street": "Gasketelplein", 
-      "lon": 4.50527924678875
+      "street": "Gasketelplein"
     }
-  ], 
-  "name": "Gasketelplein"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8450, 
   "addresses": [
     {
-      "lat": 51.23850261102027, 
       "housenumber": "22", 
+      "lat": 51.23850261102027, 
+      "lon": 2.9746794453441696, 
       "pcode": 8450, 
-      "street": "Vloedstraat", 
-      "lon": 2.9746794453441696
+      "street": "Vloedstraat"
     }, 
     {
-      "lat": 51.23844024593249, 
       "housenumber": "6", 
+      "lat": 51.23844024593249, 
+      "lon": 2.9714955599860384, 
       "pcode": 8450, 
-      "street": "Vloedstraat", 
-      "lon": 2.9714955599860384
+      "street": "Vloedstraat"
     }
-  ], 
-  "name": "Vloedstraat"
+  ]
 }

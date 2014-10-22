@@ -1,20 +1,18 @@
 {
-  "pcode": 3930, 
   "addresses": [
     {
-      "lat": 51.2615567520109, 
       "housenumber": "2", 
+      "lat": 51.2615567520109, 
+      "lon": 5.519122758771299, 
       "pcode": 3930, 
-      "street": "Nobelstraat", 
-      "lon": 5.519122758771299
+      "street": "Nobelstraat"
     }, 
     {
-      "lat": 51.26195106290693, 
       "housenumber": "4", 
+      "lat": 51.26195106290693, 
+      "lon": 5.5194421219708465, 
       "pcode": 3930, 
-      "street": "Nobelstraat", 
-      "lon": 5.5194421219708465
+      "street": "Nobelstraat"
     }
-  ], 
-  "name": "Nobelstraat"
+  ]
 }

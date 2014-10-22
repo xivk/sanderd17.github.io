@@ -1,25 +1,23 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2800, 
-      "street": "Kerkstraatje", 
-      "housenumber": "1"
+      "street": "Kerkstraatje"
     }, 
     {
-      "lat": 51.031624681028596, 
       "housenumber": "6", 
+      "lat": 51.031624681028596, 
+      "lon": 4.4768953290078555, 
       "pcode": 2800, 
-      "street": "Kerkstraatje", 
-      "lon": 4.4768953290078555
+      "street": "Kerkstraatje"
     }, 
     {
-      "lat": 51.03172929862732, 
       "housenumber": "8", 
+      "lat": 51.03172929862732, 
+      "lon": 4.476813745836205, 
       "pcode": 2800, 
-      "street": "Kerkstraatje", 
-      "lon": 4.476813745836205
+      "street": "Kerkstraatje"
     }
-  ], 
-  "name": "Kerkstraatje"
+  ]
 }

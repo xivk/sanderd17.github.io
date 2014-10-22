@@ -1,25 +1,23 @@
 {
-  "pcode": 8210, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8210, 
-      "street": "Boutensdreef", 
-      "housenumber": "1"
+      "street": "Boutensdreef"
     }, 
     {
-      "lat": 51.094000533244206, 
       "housenumber": "2", 
+      "lat": 51.094000533244206, 
+      "lon": 3.1355555598724263, 
       "pcode": 8210, 
-      "street": "Boutensdreef", 
-      "lon": 3.1355555598724263
+      "street": "Boutensdreef"
     }, 
     {
-      "lat": 51.094703576189595, 
       "housenumber": "3", 
+      "lat": 51.094703576189595, 
+      "lon": 3.138381640739067, 
       "pcode": 8210, 
-      "street": "Boutensdreef", 
-      "lon": 3.138381640739067
+      "street": "Boutensdreef"
     }
-  ], 
-  "name": "Boutensdreef"
+  ]
 }

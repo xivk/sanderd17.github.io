@@ -1,23 +1,21 @@
 {
-  "pcode": 2340, 
   "addresses": [
     {
-      "lat": 51.29445625583416, 
       "housenumber": "1", 
+      "lat": 51.29445625583416, 
+      "lon": 4.772716331899987, 
       "pcode": 2340, 
-      "street": "d'Aeste Beemden", 
-      "lon": 4.772716331899987
+      "street": "d'Aeste Beemden"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 2340, 
-      "street": "d'Aeste Beemden", 
-      "housenumber": "11"
+      "street": "d'Aeste Beemden"
     }, 
     {
+      "housenumber": "15", 
       "pcode": 2340, 
-      "street": "d'Aeste Beemden", 
-      "housenumber": "15"
+      "street": "d'Aeste Beemden"
     }
-  ], 
-  "name": "d'Aeste Beemden"
+  ]
 }

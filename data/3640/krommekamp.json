@@ -1,20 +1,18 @@
 {
-  "pcode": 3640, 
   "addresses": [
     {
-      "lat": 51.13901083593769, 
       "housenumber": "1", 
+      "lat": 51.13901083593769, 
+      "lon": 5.792941535504365, 
       "pcode": 3640, 
-      "street": "Krommekamp", 
-      "lon": 5.792941535504365
+      "street": "Krommekamp"
     }, 
     {
-      "lat": 51.139632083031074, 
       "housenumber": "8", 
+      "lat": 51.139632083031074, 
+      "lon": 5.79340179482796, 
       "pcode": 3640, 
-      "street": "Krommekamp", 
-      "lon": 5.79340179482796
+      "street": "Krommekamp"
     }
-  ], 
-  "name": "Krommekamp"
+  ]
 }

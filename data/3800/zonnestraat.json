@@ -1,39 +1,37 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
-      "lat": 50.766429749047404, 
       "housenumber": "1", 
+      "lat": 50.766429749047404, 
+      "lon": 5.248579770510426, 
       "pcode": 3800, 
-      "street": "Zonnestraat", 
-      "lon": 5.248579770510426
+      "street": "Zonnestraat"
     }, 
     {
-      "lat": 50.765135354459, 
       "housenumber": "2", 
+      "lat": 50.765135354459, 
+      "lon": 5.250569230060689, 
       "pcode": 3800, 
-      "street": "Zonnestraat", 
-      "lon": 5.250569230060689
+      "street": "Zonnestraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 3800, 
-      "street": "Zonnestraat", 
-      "housenumber": "2A"
+      "street": "Zonnestraat"
     }, 
     {
-      "lat": 50.76633552408847, 
       "housenumber": "3", 
+      "lat": 50.76633552408847, 
+      "lon": 5.2484610557409175, 
       "pcode": 3800, 
-      "street": "Zonnestraat", 
-      "lon": 5.2484610557409175
+      "street": "Zonnestraat"
     }, 
     {
-      "lat": 50.765579421193046, 
       "housenumber": "5", 
+      "lat": 50.765579421193046, 
+      "lon": 5.2500636771464855, 
       "pcode": 3800, 
-      "street": "Zonnestraat", 
-      "lon": 5.2500636771464855
+      "street": "Zonnestraat"
     }
-  ], 
-  "name": "Zonnestraat"
+  ]
 }

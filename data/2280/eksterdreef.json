@@ -1,54 +1,52 @@
 {
-  "pcode": 2280, 
   "addresses": [
     {
+      "housenumber": "1A", 
       "pcode": 2280, 
-      "street": "Eksterdreef", 
-      "housenumber": "1A"
+      "street": "Eksterdreef"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 2280, 
-      "street": "Eksterdreef", 
-      "housenumber": "1B"
+      "street": "Eksterdreef"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2280, 
-      "street": "Eksterdreef", 
-      "housenumber": "2"
+      "street": "Eksterdreef"
     }, 
     {
-      "lat": 51.17569950164639, 
       "housenumber": "2A", 
+      "lat": 51.17569950164639, 
+      "lon": 4.7783571879667255, 
       "pcode": 2280, 
-      "street": "Eksterdreef", 
-      "lon": 4.7783571879667255
+      "street": "Eksterdreef"
     }, 
     {
+      "housenumber": "2B", 
       "pcode": 2280, 
-      "street": "Eksterdreef", 
-      "housenumber": "2B"
+      "street": "Eksterdreef"
     }, 
     {
-      "lat": 51.1755663967657, 
       "housenumber": "4", 
+      "lat": 51.1755663967657, 
+      "lon": 4.779127767054115, 
       "pcode": 2280, 
-      "street": "Eksterdreef", 
-      "lon": 4.779127767054115
+      "street": "Eksterdreef"
     }, 
     {
-      "lat": 51.175474109361794, 
       "housenumber": "6", 
+      "lat": 51.175474109361794, 
+      "lon": 4.779455844320557, 
       "pcode": 2280, 
-      "street": "Eksterdreef", 
-      "lon": 4.779455844320557
+      "street": "Eksterdreef"
     }, 
     {
-      "lat": 51.17538963894804, 
       "housenumber": "8", 
+      "lat": 51.17538963894804, 
+      "lon": 4.779861921761138, 
       "pcode": 2280, 
-      "street": "Eksterdreef", 
-      "lon": 4.779861921761138
+      "street": "Eksterdreef"
     }
-  ], 
-  "name": "Eksterdreef"
+  ]
 }

@@ -1,25 +1,23 @@
 {
-  "pcode": 3440, 
   "addresses": [
     {
-      "lat": 50.833249775711515, 
       "housenumber": "1", 
+      "lat": 50.833249775711515, 
+      "lon": 5.102161803661774, 
       "pcode": 3440, 
-      "street": "Groenplaats", 
-      "lon": 5.102161803661774
+      "street": "Groenplaats"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3440, 
-      "street": "Groenplaats", 
-      "housenumber": "2"
+      "street": "Groenplaats"
     }, 
     {
-      "lat": 50.83352263932307, 
       "housenumber": "3", 
+      "lat": 50.83352263932307, 
+      "lon": 5.102359981756336, 
       "pcode": 3440, 
-      "street": "Groenplaats", 
-      "lon": 5.102359981756336
+      "street": "Groenplaats"
     }
-  ], 
-  "name": "Groenplaats"
+  ]
 }

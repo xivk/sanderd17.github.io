@@ -1,20 +1,18 @@
 {
-  "pcode": 8587, 
   "addresses": [
     {
-      "lat": 50.74566490644916, 
       "housenumber": "1", 
+      "lat": 50.74566490644916, 
+      "lon": 3.385486373546639, 
       "pcode": 8587, 
-      "street": "Herdersstraat", 
-      "lon": 3.385486373546639
+      "street": "Herdersstraat"
     }, 
     {
-      "lat": 50.746098713974376, 
       "housenumber": "2", 
+      "lat": 50.746098713974376, 
+      "lon": 3.3830924706841965, 
       "pcode": 8587, 
-      "street": "Herdersstraat", 
-      "lon": 3.3830924706841965
+      "street": "Herdersstraat"
     }
-  ], 
-  "name": "Herdersstraat"
+  ]
 }

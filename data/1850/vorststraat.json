@@ -1,20 +1,18 @@
 {
-  "pcode": 1850, 
   "addresses": [
     {
-      "lat": 50.939554417965894, 
       "housenumber": "18", 
+      "lat": 50.939554417965894, 
+      "lon": 4.371536659483103, 
       "pcode": 1850, 
-      "street": "Vorststraat", 
-      "lon": 4.371536659483103
+      "street": "Vorststraat"
     }, 
     {
-      "lat": 50.936813011049864, 
       "housenumber": "8", 
+      "lat": 50.936813011049864, 
+      "lon": 4.372655948189239, 
       "pcode": 1850, 
-      "street": "Vorststraat", 
-      "lon": 4.372655948189239
+      "street": "Vorststraat"
     }
-  ], 
-  "name": "Vorststraat"
+  ]
 }

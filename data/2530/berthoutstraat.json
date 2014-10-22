@@ -1,20 +1,18 @@
 {
-  "pcode": 2530, 
   "addresses": [
     {
-      "lat": 51.17296323518765, 
       "housenumber": "12", 
+      "lat": 51.17296323518765, 
+      "lon": 4.526907660738283, 
       "pcode": 2530, 
-      "street": "Berthoutstraat", 
-      "lon": 4.526907660738283
+      "street": "Berthoutstraat"
     }, 
     {
-      "lat": 51.17300518170513, 
       "housenumber": "14", 
+      "lat": 51.17300518170513, 
+      "lon": 4.527263839263732, 
       "pcode": 2530, 
-      "street": "Berthoutstraat", 
-      "lon": 4.527263839263732
+      "street": "Berthoutstraat"
     }
-  ], 
-  "name": "Berthoutstraat"
+  ]
 }

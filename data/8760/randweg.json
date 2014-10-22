@@ -1,41 +1,39 @@
 {
-  "pcode": 8760, 
   "addresses": [
     {
-      "lat": 50.949752692444015, 
       "housenumber": "1", 
+      "lat": 50.949752692444015, 
+      "lon": 3.2763931280683027, 
       "pcode": 8760, 
-      "street": "Randweg", 
-      "lon": 3.2763931280683027
+      "street": "Randweg"
     }, 
     {
-      "lat": 50.953824046764886, 
       "housenumber": "2", 
+      "lat": 50.953824046764886, 
+      "lon": 3.2840533652143953, 
       "pcode": 8760, 
-      "street": "Randweg", 
-      "lon": 3.2840533652143953
+      "street": "Randweg"
     }, 
     {
-      "lat": 50.95007167830394, 
       "housenumber": "3", 
+      "lat": 50.95007167830394, 
+      "lon": 3.2762880705179684, 
       "pcode": 8760, 
-      "street": "Randweg", 
-      "lon": 3.2762880705179684
+      "street": "Randweg"
     }, 
     {
-      "lat": 50.9546849134664, 
       "housenumber": "4", 
+      "lat": 50.9546849134664, 
+      "lon": 3.2856790060023453, 
       "pcode": 8760, 
-      "street": "Randweg", 
-      "lon": 3.2856790060023453
+      "street": "Randweg"
     }, 
     {
-      "lat": 50.950721802047894, 
       "housenumber": "5", 
+      "lat": 50.950721802047894, 
+      "lon": 3.27648613708712, 
       "pcode": 8760, 
-      "street": "Randweg", 
-      "lon": 3.27648613708712
+      "street": "Randweg"
     }
-  ], 
-  "name": "Randweg"
+  ]
 }

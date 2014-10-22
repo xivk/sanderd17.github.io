@@ -1,39 +1,37 @@
 {
-  "pcode": 1630, 
   "addresses": [
     {
-      "lat": 50.75906561086543, 
       "housenumber": "125", 
+      "lat": 50.75906561086543, 
+      "lon": 4.350435044751476, 
       "pcode": 1630, 
-      "street": "Rodestraat", 
-      "lon": 4.350435044751476
+      "street": "Rodestraat"
     }, 
     {
-      "lat": 50.75878834771663, 
       "housenumber": "125A", 
+      "lat": 50.75878834771663, 
+      "lon": 4.348071829019043, 
       "pcode": 1630, 
-      "street": "Rodestraat", 
-      "lon": 4.348071829019043
+      "street": "Rodestraat"
     }, 
     {
+      "housenumber": "125B", 
       "pcode": 1630, 
-      "street": "Rodestraat", 
-      "housenumber": "125B"
+      "street": "Rodestraat"
     }, 
     {
-      "lat": 50.76489472772434, 
       "housenumber": "2", 
+      "lat": 50.76489472772434, 
+      "lon": 4.347705372807911, 
       "pcode": 1630, 
-      "street": "Rodestraat", 
-      "lon": 4.347705372807911
+      "street": "Rodestraat"
     }, 
     {
-      "lat": 50.763898987264724, 
       "housenumber": "25", 
+      "lat": 50.763898987264724, 
+      "lon": 4.348523664371877, 
       "pcode": 1630, 
-      "street": "Rodestraat", 
-      "lon": 4.348523664371877
+      "street": "Rodestraat"
     }
-  ], 
-  "name": "Rodestraat"
+  ]
 }

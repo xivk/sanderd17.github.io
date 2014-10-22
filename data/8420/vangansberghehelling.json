@@ -1,32 +1,30 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
-      "lat": 51.30293365292832, 
       "housenumber": "1", 
+      "lat": 51.30293365292832, 
+      "lon": 3.083942427194308, 
       "pcode": 8420, 
-      "street": "Van Gansberghehelling", 
-      "lon": 3.083942427194308
+      "street": "Van Gansberghehelling"
     }, 
     {
+      "housenumber": "100", 
       "pcode": 8420, 
-      "street": "Van Gansberghehelling", 
-      "housenumber": "100"
+      "street": "Van Gansberghehelling"
     }, 
     {
-      "lat": 51.30272332915989, 
       "housenumber": "2", 
+      "lat": 51.30272332915989, 
+      "lon": 3.0834394262707785, 
       "pcode": 8420, 
-      "street": "Van Gansberghehelling", 
-      "lon": 3.0834394262707785
+      "street": "Van Gansberghehelling"
     }, 
     {
-      "lat": 51.302899575302796, 
       "housenumber": "4", 
+      "lat": 51.302899575302796, 
+      "lon": 3.0833697417310995, 
       "pcode": 8420, 
-      "street": "Van Gansberghehelling", 
-      "lon": 3.0833697417310995
+      "street": "Van Gansberghehelling"
     }
-  ], 
-  "name": "Van Gansberghehelling"
+  ]
 }

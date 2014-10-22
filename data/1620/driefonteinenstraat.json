@@ -1,33 +1,31 @@
 {
-  "pcode": 1620, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 1620, 
-      "street": "Drie Fonteinenstraat", 
-      "housenumber": "10"
+      "street": "Drie Fonteinenstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 1620, 
-      "street": "Drie Fonteinenstraat", 
-      "housenumber": "3"
+      "street": "Drie Fonteinenstraat"
     }, 
     {
+      "housenumber": "38", 
       "pcode": 1620, 
-      "street": "Drie Fonteinenstraat", 
-      "housenumber": "38"
+      "street": "Drie Fonteinenstraat"
     }, 
     {
-      "lat": 50.80577160265481, 
       "housenumber": "39", 
+      "lat": 50.80577160265481, 
+      "lon": 4.300018987414317, 
       "pcode": 1620, 
-      "street": "Drie Fonteinenstraat", 
-      "lon": 4.300018987414317
+      "street": "Drie Fonteinenstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 1620, 
-      "street": "Drie Fonteinenstraat", 
-      "housenumber": "7"
+      "street": "Drie Fonteinenstraat"
     }
-  ], 
-  "name": "Drie Fonteinenstraat"
+  ]
 }

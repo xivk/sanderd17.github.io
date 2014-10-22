@@ -1,20 +1,18 @@
 {
-  "pcode": 2240, 
   "addresses": [
     {
-      "lat": 51.23181358872289, 
       "housenumber": "1", 
+      "lat": 51.23181358872289, 
+      "lon": 4.686523867657738, 
       "pcode": 2240, 
-      "street": "Sorbenlaan", 
-      "lon": 4.686523867657738
+      "street": "Sorbenlaan"
     }, 
     {
-      "lat": 51.23259580566044, 
       "housenumber": "2", 
+      "lat": 51.23259580566044, 
+      "lon": 4.6865409514533845, 
       "pcode": 2240, 
-      "street": "Sorbenlaan", 
-      "lon": 4.6865409514533845
+      "street": "Sorbenlaan"
     }
-  ], 
-  "name": "Sorbenlaan"
+  ]
 }

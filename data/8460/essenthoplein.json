@@ -1,25 +1,23 @@
 {
-  "pcode": 8460, 
   "addresses": [
     {
-      "lat": 51.178440711607266, 
       "housenumber": "1", 
+      "lat": 51.178440711607266, 
+      "lon": 3.0321146624511193, 
       "pcode": 8460, 
-      "street": "Essenthoplein", 
-      "lon": 3.0321146624511193
+      "street": "Essenthoplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8460, 
-      "street": "Essenthoplein", 
-      "housenumber": "2"
+      "street": "Essenthoplein"
     }, 
     {
-      "lat": 51.17847321181186, 
       "housenumber": "3", 
+      "lat": 51.17847321181186, 
+      "lon": 3.0320472250271693, 
       "pcode": 8460, 
-      "street": "Essenthoplein", 
-      "lon": 3.0320472250271693
+      "street": "Essenthoplein"
     }
-  ], 
-  "name": "Essenthoplein"
+  ]
 }

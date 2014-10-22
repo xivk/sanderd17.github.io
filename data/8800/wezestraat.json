@@ -1,34 +1,32 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.92247410736488, 
       "housenumber": "1", 
+      "lat": 50.92247410736488, 
+      "lon": 3.119479214598584, 
       "pcode": 8800, 
-      "street": "Wezestraat", 
-      "lon": 3.119479214598584
+      "street": "Wezestraat"
     }, 
     {
-      "lat": 50.922163689196466, 
       "housenumber": "2", 
+      "lat": 50.922163689196466, 
+      "lon": 3.1202770579369874, 
       "pcode": 8800, 
-      "street": "Wezestraat", 
-      "lon": 3.1202770579369874
+      "street": "Wezestraat"
     }, 
     {
-      "lat": 50.92229802417725, 
       "housenumber": "4", 
+      "lat": 50.92229802417725, 
+      "lon": 3.120117730810458, 
       "pcode": 8800, 
-      "street": "Wezestraat", 
-      "lon": 3.120117730810458
+      "street": "Wezestraat"
     }, 
     {
-      "lat": 50.922667734058024, 
       "housenumber": "6", 
+      "lat": 50.922667734058024, 
+      "lon": 3.1199923973969232, 
       "pcode": 8800, 
-      "street": "Wezestraat", 
-      "lon": 3.1199923973969232
+      "street": "Wezestraat"
     }
-  ], 
-  "name": "Wezestraat"
+  ]
 }

@@ -1,25 +1,23 @@
 {
-  "pcode": 1731, 
   "addresses": [
     {
+      "housenumber": "129", 
       "pcode": 1731, 
-      "street": "Frans Schachtstraat", 
-      "housenumber": "129"
+      "street": "Frans Schachtstraat"
     }, 
     {
-      "lat": 50.88010236612958, 
       "housenumber": "29", 
+      "lat": 50.88010236612958, 
+      "lon": 4.27738864428333, 
       "pcode": 1731, 
-      "street": "Frans Schachtstraat", 
-      "lon": 4.27738864428333
+      "street": "Frans Schachtstraat"
     }, 
     {
-      "lat": 50.8799722287907, 
       "housenumber": "3", 
+      "lat": 50.8799722287907, 
+      "lon": 4.2781282107245575, 
       "pcode": 1731, 
-      "street": "Frans Schachtstraat", 
-      "lon": 4.2781282107245575
+      "street": "Frans Schachtstraat"
     }
-  ], 
-  "name": "Frans Schachtstraat"
+  ]
 }

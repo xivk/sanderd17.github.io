@@ -1,42 +1,40 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.8502805367657, 
       "housenumber": "1", 
+      "lat": 50.8502805367657, 
+      "lon": 3.59234090693957, 
       "pcode": 9700, 
-      "street": "Den Osse", 
-      "lon": 3.59234090693957
+      "street": "Den Osse"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9700, 
-      "street": "Den Osse", 
-      "housenumber": "2"
+      "street": "Den Osse"
     }, 
     {
-      "lat": 50.85040186924012, 
       "housenumber": "3", 
+      "lat": 50.85040186924012, 
+      "lon": 3.5927302903685026, 
       "pcode": 9700, 
-      "street": "Den Osse", 
-      "lon": 3.5927302903685026
+      "street": "Den Osse"
     }, 
     {
-      "lat": 50.85033834321835, 
       "housenumber": "4", 
+      "lat": 50.85033834321835, 
+      "lon": 3.5922730652168076, 
       "pcode": 9700, 
-      "street": "Den Osse", 
-      "lon": 3.5922730652168076
+      "street": "Den Osse"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9700, 
-      "street": "Den Osse", 
-      "housenumber": "5"
+      "street": "Den Osse"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9700, 
-      "street": "Den Osse", 
-      "housenumber": "6"
+      "street": "Den Osse"
     }
-  ], 
-  "name": "Den Osse"
+  ]
 }

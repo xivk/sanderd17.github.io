@@ -1,27 +1,25 @@
 {
-  "pcode": 2900, 
   "addresses": [
     {
-      "lat": 51.238528218478876, 
       "housenumber": "1", 
+      "lat": 51.238528218478876, 
+      "lon": 4.502696064704382, 
       "pcode": 2900, 
-      "street": "Hoogmolendijk", 
-      "lon": 4.502696064704382
+      "street": "Hoogmolendijk"
     }, 
     {
-      "lat": 51.240718593662216, 
       "housenumber": "2", 
+      "lat": 51.240718593662216, 
+      "lon": 4.49981531690212, 
       "pcode": 2900, 
-      "street": "Hoogmolendijk", 
-      "lon": 4.49981531690212
+      "street": "Hoogmolendijk"
     }, 
     {
-      "lat": 51.2402278808133, 
       "housenumber": "4", 
+      "lat": 51.2402278808133, 
+      "lon": 4.497982356060823, 
       "pcode": 2900, 
-      "street": "Hoogmolendijk", 
-      "lon": 4.497982356060823
+      "street": "Hoogmolendijk"
     }
-  ], 
-  "name": "Hoogmolendijk"
+  ]
 }

@@ -1,51 +1,49 @@
 {
-  "pcode": 8570, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8570, 
-      "street": "Louis Isebaertplantsoen", 
-      "housenumber": "1"
+      "street": "Louis Isebaertplantsoen"
     }, 
     {
-      "lat": 50.83891255008154, 
       "housenumber": "3", 
+      "lat": 50.83891255008154, 
+      "lon": 3.402583428285645, 
       "pcode": 8570, 
-      "street": "Louis Isebaertplantsoen", 
-      "lon": 3.402583428285645
+      "street": "Louis Isebaertplantsoen"
     }, 
     {
-      "pcode": 8570, 
-      "street": "Louis Isebaertplantsoen", 
-      "housenumber": "4"
-    }, 
-    {
-      "lat": 50.83891270180431, 
       "housenumber": "4", 
       "pcode": 8570, 
-      "street": "Louis Isebaertplantsoen", 
-      "lon": 3.402580017605479
+      "street": "Louis Isebaertplantsoen"
     }, 
     {
-      "lat": 50.83923455443816, 
+      "housenumber": "4", 
+      "lat": 50.83891270180431, 
+      "lon": 3.402580017605479, 
+      "pcode": 8570, 
+      "street": "Louis Isebaertplantsoen"
+    }, 
+    {
       "housenumber": "5", 
-      "pcode": 8570, 
-      "street": "Louis Isebaertplantsoen", 
-      "lon": 3.403104281632415
-    }, 
-    {
       "lat": 50.83923455443816, 
-      "housenumber": "6", 
+      "lon": 3.403104281632415, 
       "pcode": 8570, 
-      "street": "Louis Isebaertplantsoen", 
-      "lon": 3.403104281632415
+      "street": "Louis Isebaertplantsoen"
     }, 
     {
-      "lat": 50.839284602170295, 
-      "housenumber": "7", 
+      "housenumber": "6", 
+      "lat": 50.83923455443816, 
+      "lon": 3.403104281632415, 
       "pcode": 8570, 
-      "street": "Louis Isebaertplantsoen", 
-      "lon": 3.4031227060515556
+      "street": "Louis Isebaertplantsoen"
+    }, 
+    {
+      "housenumber": "7", 
+      "lat": 50.839284602170295, 
+      "lon": 3.4031227060515556, 
+      "pcode": 8570, 
+      "street": "Louis Isebaertplantsoen"
     }
-  ], 
-  "name": "Louis Isebaertplantsoen"
+  ]
 }

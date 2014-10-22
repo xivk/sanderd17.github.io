@@ -1,20 +1,18 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.949317392552196, 
       "housenumber": "5", 
+      "lat": 50.949317392552196, 
+      "lon": 5.362465804760885, 
       "pcode": 3500, 
-      "street": "Heksenbergstraat", 
-      "lon": 5.362465804760885
+      "street": "Heksenbergstraat"
     }, 
     {
-      "lat": 50.94921038000391, 
       "housenumber": "7", 
+      "lat": 50.94921038000391, 
+      "lon": 5.362129376936703, 
       "pcode": 3500, 
-      "street": "Heksenbergstraat", 
-      "lon": 5.362129376936703
+      "street": "Heksenbergstraat"
     }
-  ], 
-  "name": "Heksenbergstraat"
+  ]
 }

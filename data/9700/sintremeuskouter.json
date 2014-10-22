@@ -1,20 +1,18 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.82956434036196, 
       "housenumber": "3", 
+      "lat": 50.82956434036196, 
+      "lon": 3.606332628957424, 
       "pcode": 9700, 
-      "street": "Sint-Remeuskouter", 
-      "lon": 3.606332628957424
+      "street": "Sint-Remeuskouter"
     }, 
     {
-      "lat": 50.82948544256727, 
       "housenumber": "4", 
+      "lat": 50.82948544256727, 
+      "lon": 3.6061719433632207, 
       "pcode": 9700, 
-      "street": "Sint-Remeuskouter", 
-      "lon": 3.6061719433632207
+      "street": "Sint-Remeuskouter"
     }
-  ], 
-  "name": "Sint-Remeuskouter"
+  ]
 }

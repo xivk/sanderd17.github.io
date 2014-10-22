@@ -1,23 +1,21 @@
 {
-  "pcode": 9400, 
   "addresses": [
     {
+      "housenumber": "129", 
       "pcode": 9400, 
-      "street": "Melkbos", 
-      "housenumber": "129"
+      "street": "Melkbos"
     }, 
     {
+      "housenumber": "146", 
       "pcode": 9400, 
-      "street": "Melkbos", 
-      "housenumber": "146"
+      "street": "Melkbos"
     }, 
     {
-      "lat": 50.84157871023721, 
       "housenumber": "7", 
+      "lat": 50.84157871023721, 
+      "lon": 3.95846057519182, 
       "pcode": 9400, 
-      "street": "Melkbos", 
-      "lon": 3.95846057519182
+      "street": "Melkbos"
     }
-  ], 
-  "name": "Melkbos"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8630, 
   "addresses": [
     {
-      "lat": 51.01420241965695, 
       "housenumber": "1", 
+      "lat": 51.01420241965695, 
+      "lon": 2.6144409749781046, 
       "pcode": 8630, 
-      "street": "Oostmolenstraat", 
-      "lon": 2.6144409749781046
+      "street": "Oostmolenstraat"
     }, 
     {
-      "lat": 51.014566764511635, 
       "housenumber": "2", 
+      "lat": 51.014566764511635, 
+      "lon": 2.6116316535068487, 
       "pcode": 8630, 
-      "street": "Oostmolenstraat", 
-      "lon": 2.6116316535068487
+      "street": "Oostmolenstraat"
     }
-  ], 
-  "name": "Oostmolenstraat"
+  ]
 }

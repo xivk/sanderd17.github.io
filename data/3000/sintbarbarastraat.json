@@ -1,39 +1,37 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.878435134978325, 
       "housenumber": "10", 
+      "lat": 50.878435134978325, 
+      "lon": 4.697975085640561, 
       "pcode": 3000, 
-      "street": "Sint-Barbarastraat", 
-      "lon": 4.697975085640561
+      "street": "Sint-Barbarastraat"
     }, 
     {
-      "lat": 50.87796075866884, 
       "housenumber": "2", 
+      "lat": 50.87796075866884, 
+      "lon": 4.698581885310884, 
       "pcode": 3000, 
-      "street": "Sint-Barbarastraat", 
-      "lon": 4.698581885310884
+      "street": "Sint-Barbarastraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3000, 
-      "street": "Sint-Barbarastraat", 
-      "housenumber": "3"
+      "street": "Sint-Barbarastraat"
     }, 
     {
-      "lat": 50.87800780222403, 
       "housenumber": "4", 
+      "lat": 50.87800780222403, 
+      "lon": 4.698444105422596, 
       "pcode": 3000, 
-      "street": "Sint-Barbarastraat", 
-      "lon": 4.698444105422596
+      "street": "Sint-Barbarastraat"
     }, 
     {
-      "lat": 50.8780558540353, 
       "housenumber": "8", 
+      "lat": 50.8780558540353, 
+      "lon": 4.698299369960712, 
       "pcode": 3000, 
-      "street": "Sint-Barbarastraat", 
-      "lon": 4.698299369960712
+      "street": "Sint-Barbarastraat"
     }
-  ], 
-  "name": "Sint-Barbarastraat"
+  ]
 }

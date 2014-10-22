@@ -1,20 +1,18 @@
 {
-  "pcode": 1785, 
   "addresses": [
     {
-      "lat": 50.935059008042906, 
       "housenumber": "1", 
+      "lat": 50.935059008042906, 
+      "lon": 4.248720147520343, 
       "pcode": 1785, 
-      "street": "Groenweg", 
-      "lon": 4.248720147520343
+      "street": "Groenweg"
     }, 
     {
-      "lat": 50.936124707863335, 
       "housenumber": "3", 
+      "lat": 50.936124707863335, 
+      "lon": 4.249271555686855, 
       "pcode": 1785, 
-      "street": "Groenweg", 
-      "lon": 4.249271555686855
+      "street": "Groenweg"
     }
-  ], 
-  "name": "Groenweg"
+  ]
 }

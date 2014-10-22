@@ -1,23 +1,21 @@
 {
-  "pcode": 2870, 
   "addresses": [
     {
-      "lat": 51.07448750420636, 
       "housenumber": "1", 
+      "lat": 51.07448750420636, 
+      "lon": 4.27498173781219, 
       "pcode": 2870, 
-      "street": "Kloosterhof", 
-      "lon": 4.27498173781219
+      "street": "Kloosterhof"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2870, 
-      "street": "Kloosterhof", 
-      "housenumber": "2"
+      "street": "Kloosterhof"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2870, 
-      "street": "Kloosterhof", 
-      "housenumber": "3"
+      "street": "Kloosterhof"
     }
-  ], 
-  "name": "Kloosterhof"
+  ]
 }

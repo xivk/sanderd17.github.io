@@ -1,25 +1,23 @@
 {
-  "pcode": 2430, 
   "addresses": [
     {
-      "lat": 51.10226993279363, 
       "housenumber": "2", 
+      "lat": 51.10226993279363, 
+      "lon": 4.997294616997586, 
       "pcode": 2430, 
-      "street": "Maalderstraat", 
-      "lon": 4.997294616997586
+      "street": "Maalderstraat"
     }, 
     {
-      "lat": 51.10228920659474, 
       "housenumber": "6", 
+      "lat": 51.10228920659474, 
+      "lon": 4.996630259981069, 
       "pcode": 2430, 
-      "street": "Maalderstraat", 
-      "lon": 4.996630259981069
+      "street": "Maalderstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2430, 
-      "street": "Maalderstraat", 
-      "housenumber": "8"
+      "street": "Maalderstraat"
     }
-  ], 
-  "name": "Maalderstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9810, 
   "addresses": [
     {
-      "lat": 50.970676716940325, 
       "housenumber": "1", 
+      "lat": 50.970676716940325, 
+      "lon": 3.602887460301189, 
       "pcode": 9810, 
-      "street": "Dennenbosdreef", 
-      "lon": 3.602887460301189
+      "street": "Dennenbosdreef"
     }, 
     {
-      "lat": 50.969881970916816, 
       "housenumber": "3", 
+      "lat": 50.969881970916816, 
+      "lon": 3.602822980217449, 
       "pcode": 9810, 
-      "street": "Dennenbosdreef", 
-      "lon": 3.602822980217449
+      "street": "Dennenbosdreef"
     }
-  ], 
-  "name": "Dennenbosdreef"
+  ]
 }

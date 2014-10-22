@@ -1,27 +1,25 @@
 {
-  "pcode": 3090, 
   "addresses": [
     {
-      "lat": 50.772199339944116, 
       "housenumber": "2", 
+      "lat": 50.772199339944116, 
+      "lon": 4.540377332949632, 
       "pcode": 3090, 
-      "street": "IJseweg", 
-      "lon": 4.540377332949632
+      "street": "IJseweg"
     }, 
     {
-      "lat": 50.77193157091753, 
       "housenumber": "4", 
+      "lat": 50.77193157091753, 
+      "lon": 4.539189043973316, 
       "pcode": 3090, 
-      "street": "IJseweg", 
-      "lon": 4.539189043973316
+      "street": "IJseweg"
     }, 
     {
-      "lat": 50.771884363491196, 
       "housenumber": "6", 
+      "lat": 50.771884363491196, 
+      "lon": 4.539012229351854, 
       "pcode": 3090, 
-      "street": "IJseweg", 
-      "lon": 4.539012229351854
+      "street": "IJseweg"
     }
-  ], 
-  "name": "IJseweg"
+  ]
 }

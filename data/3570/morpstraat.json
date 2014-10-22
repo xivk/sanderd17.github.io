@@ -1,20 +1,18 @@
 {
-  "pcode": 3570, 
   "addresses": [
     {
-      "lat": 50.8848398684805, 
       "housenumber": "20", 
+      "lat": 50.8848398684805, 
+      "lon": 5.2882619296076, 
       "pcode": 3570, 
-      "street": "Morpstraat", 
-      "lon": 5.2882619296076
+      "street": "Morpstraat"
     }, 
     {
-      "lat": 50.88474147779774, 
       "housenumber": "22", 
+      "lat": 50.88474147779774, 
+      "lon": 5.288393025524232, 
       "pcode": 3570, 
-      "street": "Morpstraat", 
-      "lon": 5.288393025524232
+      "street": "Morpstraat"
     }
-  ], 
-  "name": "Morpstraat"
+  ]
 }

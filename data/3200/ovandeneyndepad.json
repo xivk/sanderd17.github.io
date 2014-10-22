@@ -1,33 +1,31 @@
 {
-  "pcode": 3200, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3200, 
-      "street": "O. Vanden Eyndepad", 
-      "housenumber": "1"
+      "street": "O. Vanden Eyndepad"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 3200, 
-      "street": "O. Vanden Eyndepad", 
-      "housenumber": "10"
+      "street": "O. Vanden Eyndepad"
     }, 
     {
-      "lat": 50.96386861952431, 
       "housenumber": "3", 
+      "lat": 50.96386861952431, 
+      "lon": 4.796028444635401, 
       "pcode": 3200, 
-      "street": "O. Vanden Eyndepad", 
-      "lon": 4.796028444635401
+      "street": "O. Vanden Eyndepad"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3200, 
-      "street": "O. Vanden Eyndepad", 
-      "housenumber": "6"
+      "street": "O. Vanden Eyndepad"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3200, 
-      "street": "O. Vanden Eyndepad", 
-      "housenumber": "8"
+      "street": "O. Vanden Eyndepad"
     }
-  ], 
-  "name": "O. Vanden Eyndepad"
+  ]
 }

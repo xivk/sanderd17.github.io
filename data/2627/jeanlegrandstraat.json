@@ -1,32 +1,30 @@
 {
-  "pcode": 2627, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2627, 
-      "street": "Jean Legrandstraat", 
-      "housenumber": "1"
+      "street": "Jean Legrandstraat"
     }, 
     {
-      "lat": 51.12276912653027, 
       "housenumber": "3", 
+      "lat": 51.12276912653027, 
+      "lon": 4.342941423165698, 
       "pcode": 2627, 
-      "street": "Jean Legrandstraat", 
-      "lon": 4.342941423165698
+      "street": "Jean Legrandstraat"
     }, 
     {
-      "lat": 51.122770426547056, 
       "housenumber": "5", 
+      "lat": 51.122770426547056, 
+      "lon": 4.3427156047265685, 
       "pcode": 2627, 
-      "street": "Jean Legrandstraat", 
-      "lon": 4.3427156047265685
+      "street": "Jean Legrandstraat"
     }, 
     {
-      "lat": 51.12279793493864, 
       "housenumber": "7", 
+      "lat": 51.12279793493864, 
+      "lon": 4.342729158875485, 
       "pcode": 2627, 
-      "street": "Jean Legrandstraat", 
-      "lon": 4.342729158875485
+      "street": "Jean Legrandstraat"
     }
-  ], 
-  "name": "Jean Legrandstraat"
+  ]
 }

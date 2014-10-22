@@ -1,20 +1,18 @@
 {
-  "pcode": 1750, 
   "addresses": [
     {
-      "lat": 50.83234956866614, 
       "housenumber": "4", 
+      "lat": 50.83234956866614, 
+      "lon": 4.140586493200083, 
       "pcode": 1750, 
-      "street": "Kerkweg", 
-      "lon": 4.140586493200083
+      "street": "Kerkweg"
     }, 
     {
-      "lat": 50.83203665482046, 
       "housenumber": "5", 
+      "lat": 50.83203665482046, 
+      "lon": 4.139945826308183, 
       "pcode": 1750, 
-      "street": "Kerkweg", 
-      "lon": 4.139945826308183
+      "street": "Kerkweg"
     }
-  ], 
-  "name": "Kerkweg"
+  ]
 }

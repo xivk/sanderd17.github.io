@@ -1,20 +1,18 @@
 {
-  "pcode": 2240, 
   "addresses": [
     {
-      "lat": 51.20804400285563, 
       "housenumber": "1", 
+      "lat": 51.20804400285563, 
+      "lon": 4.652184872734033, 
       "pcode": 2240, 
-      "street": "Galgeweg", 
-      "lon": 4.652184872734033
+      "street": "Galgeweg"
     }, 
     {
-      "lat": 51.20843725448271, 
       "housenumber": "4", 
+      "lat": 51.20843725448271, 
+      "lon": 4.653004344217343, 
       "pcode": 2240, 
-      "street": "Galgeweg", 
-      "lon": 4.653004344217343
+      "street": "Galgeweg"
     }
-  ], 
-  "name": "Galgeweg"
+  ]
 }

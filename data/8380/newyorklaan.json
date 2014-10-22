@@ -1,20 +1,18 @@
 {
-  "pcode": 8380, 
   "addresses": [
     {
-      "lat": 51.3316398822037, 
       "housenumber": "11", 
+      "lat": 51.3316398822037, 
+      "lon": 3.1898137728697566, 
       "pcode": 8380, 
-      "street": "New Yorklaan", 
-      "lon": 3.1898137728697566
+      "street": "New Yorklaan"
     }, 
     {
-      "lat": 51.33347249924037, 
       "housenumber": "12", 
+      "lat": 51.33347249924037, 
+      "lon": 3.1914342107011144, 
       "pcode": 8380, 
-      "street": "New Yorklaan", 
-      "lon": 3.1914342107011144
+      "street": "New Yorklaan"
     }
-  ], 
-  "name": "New Yorklaan"
+  ]
 }

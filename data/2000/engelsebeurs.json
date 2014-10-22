@@ -1,46 +1,44 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.22228065258308, 
       "housenumber": "1", 
+      "lat": 51.22228065258308, 
+      "lon": 4.404050561030043, 
       "pcode": 2000, 
-      "street": "Engelse Beurs", 
-      "lon": 4.404050561030043
+      "street": "Engelse Beurs"
     }, 
     {
-      "lat": 51.22221791843598, 
       "housenumber": "3", 
+      "lat": 51.22221791843598, 
+      "lon": 4.404034910686964, 
       "pcode": 2000, 
-      "street": "Engelse Beurs", 
-      "lon": 4.404034910686964
+      "street": "Engelse Beurs"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2000, 
-      "street": "Engelse Beurs", 
-      "housenumber": "4"
+      "street": "Engelse Beurs"
     }, 
     {
-      "lat": 51.222167498410364, 
       "housenumber": "5", 
+      "lat": 51.222167498410364, 
+      "lon": 4.4040191267464515, 
       "pcode": 2000, 
-      "street": "Engelse Beurs", 
-      "lon": 4.4040191267464515
+      "street": "Engelse Beurs"
     }, 
     {
-      "lat": 51.222132186429896, 
       "housenumber": "7", 
+      "lat": 51.222132186429896, 
+      "lon": 4.403978448718971, 
       "pcode": 2000, 
-      "street": "Engelse Beurs", 
-      "lon": 4.403978448718971
+      "street": "Engelse Beurs"
     }, 
     {
-      "lat": 51.222367047300175, 
       "housenumber": "8", 
+      "lat": 51.222367047300175, 
+      "lon": 4.40369979815328, 
       "pcode": 2000, 
-      "street": "Engelse Beurs", 
-      "lon": 4.40369979815328
+      "street": "Engelse Beurs"
     }
-  ], 
-  "name": "Engelse Beurs"
+  ]
 }

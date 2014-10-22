@@ -1,53 +1,51 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.2034812892634, 
       "housenumber": "1", 
+      "lat": 51.2034812892634, 
+      "lon": 4.392448487325171, 
       "pcode": 2000, 
-      "street": "Troonplaats", 
-      "lon": 4.392448487325171
+      "street": "Troonplaats"
     }, 
     {
-      "lat": 51.20369421154975, 
       "housenumber": "10", 
+      "lat": 51.20369421154975, 
+      "lon": 4.391631611803657, 
       "pcode": 2000, 
-      "street": "Troonplaats", 
-      "lon": 4.391631611803657
+      "street": "Troonplaats"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2000, 
-      "street": "Troonplaats", 
-      "housenumber": "2"
+      "street": "Troonplaats"
     }, 
     {
-      "lat": 51.20311361620894, 
       "housenumber": "4", 
+      "lat": 51.20311361620894, 
+      "lon": 4.392232533114665, 
       "pcode": 2000, 
-      "street": "Troonplaats", 
-      "lon": 4.392232533114665
+      "street": "Troonplaats"
     }, 
     {
-      "lat": 51.203131710798374, 
       "housenumber": "5", 
+      "lat": 51.203131710798374, 
+      "lon": 4.3920961888874315, 
       "pcode": 2000, 
-      "street": "Troonplaats", 
-      "lon": 4.3920961888874315
+      "street": "Troonplaats"
     }, 
     {
-      "lat": 51.203355210575516, 
       "housenumber": "7", 
+      "lat": 51.203355210575516, 
+      "lon": 4.391413674298067, 
       "pcode": 2000, 
-      "street": "Troonplaats", 
-      "lon": 4.391413674298067
+      "street": "Troonplaats"
     }, 
     {
-      "lat": 51.20371110163127, 
       "housenumber": "9", 
+      "lat": 51.20371110163127, 
+      "lon": 4.391672684316569, 
       "pcode": 2000, 
-      "street": "Troonplaats", 
-      "lon": 4.391672684316569
+      "street": "Troonplaats"
     }
-  ], 
-  "name": "Troonplaats"
+  ]
 }

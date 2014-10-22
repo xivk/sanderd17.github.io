@@ -1,20 +1,18 @@
 {
-  "pcode": 8700, 
   "addresses": [
     {
-      "lat": 51.00205044913833, 
       "housenumber": "1", 
+      "lat": 51.00205044913833, 
+      "lon": 3.3419546504224433, 
       "pcode": 8700, 
-      "street": "Robert Tavernierlaan", 
-      "lon": 3.3419546504224433
+      "street": "Robert Tavernierlaan"
     }, 
     {
-      "lat": 51.00066922672108, 
       "housenumber": "2", 
+      "lat": 51.00066922672108, 
+      "lon": 3.343790612430875, 
       "pcode": 8700, 
-      "street": "Robert Tavernierlaan", 
-      "lon": 3.343790612430875
+      "street": "Robert Tavernierlaan"
     }
-  ], 
-  "name": "Robert Tavernierlaan"
+  ]
 }

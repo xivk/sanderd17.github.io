@@ -1,20 +1,18 @@
 {
-  "pcode": 8900, 
   "addresses": [
     {
-      "lat": 50.84936473736227, 
       "housenumber": "1", 
+      "lat": 50.84936473736227, 
+      "lon": 2.8798265228144193, 
       "pcode": 8900, 
-      "street": "App\u008alstraat", 
-      "lon": 2.8798265228144193
+      "street": "App\u00e8lstraat"
     }, 
     {
-      "lat": 50.84956608430349, 
       "housenumber": "3", 
+      "lat": 50.84956608430349, 
+      "lon": 2.8798502575883487, 
       "pcode": 8900, 
-      "street": "App\u008alstraat", 
-      "lon": 2.8798502575883487
+      "street": "App\u00e8lstraat"
     }
-  ], 
-  "name": "App\u008alstraat"
+  ]
 }

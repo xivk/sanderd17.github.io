@@ -1,18 +1,16 @@
 {
-  "pcode": 3290, 
   "addresses": [
     {
-      "lat": 51.04120753250266, 
       "housenumber": "214", 
+      "lat": 51.04120753250266, 
+      "lon": 5.09714097375006, 
       "pcode": 3290, 
-      "street": "Hoevestraat", 
-      "lon": 5.09714097375006
+      "street": "Hoevestraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3290, 
-      "street": "Hoevestraat", 
-      "housenumber": "8"
+      "street": "Hoevestraat"
     }
-  ], 
-  "name": "Hoevestraat"
+  ]
 }

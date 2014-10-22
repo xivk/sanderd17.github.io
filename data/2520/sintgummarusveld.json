@@ -1,20 +1,18 @@
 {
-  "pcode": 2520, 
   "addresses": [
     {
-      "lat": 51.16065165165649, 
       "housenumber": "1", 
+      "lat": 51.16065165165649, 
+      "lon": 4.600476438471955, 
       "pcode": 2520, 
-      "street": "Sint-Gummarusveld", 
-      "lon": 4.600476438471955
+      "street": "Sint-Gummarusveld"
     }, 
     {
-      "lat": 51.15927457928503, 
       "housenumber": "3", 
+      "lat": 51.15927457928503, 
+      "lon": 4.600300194360816, 
       "pcode": 2520, 
-      "street": "Sint-Gummarusveld", 
-      "lon": 4.600300194360816
+      "street": "Sint-Gummarusveld"
     }
-  ], 
-  "name": "Sint-Gummarusveld"
+  ]
 }

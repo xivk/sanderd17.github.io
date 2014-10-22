@@ -1,25 +1,23 @@
 {
-  "pcode": 2450, 
   "addresses": [
     {
-      "lat": 51.10410778480695, 
       "housenumber": "26", 
+      "lat": 51.10410778480695, 
+      "lon": 5.031184626711935, 
       "pcode": 2450, 
-      "street": "Vogelspoel", 
-      "lon": 5.031184626711935
+      "street": "Vogelspoel"
     }, 
     {
+      "housenumber": "27", 
       "pcode": 2450, 
-      "street": "Vogelspoel", 
-      "housenumber": "27"
+      "street": "Vogelspoel"
     }, 
     {
-      "lat": 51.09970943608083, 
       "housenumber": "28", 
+      "lat": 51.09970943608083, 
+      "lon": 5.039407180080429, 
       "pcode": 2450, 
-      "street": "Vogelspoel", 
-      "lon": 5.039407180080429
+      "street": "Vogelspoel"
     }
-  ], 
-  "name": "Vogelspoel"
+  ]
 }

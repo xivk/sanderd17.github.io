@@ -1,20 +1,18 @@
 {
-  "pcode": 8510, 
   "addresses": [
     {
-      "lat": 50.79640192126995, 
       "housenumber": "5", 
+      "lat": 50.79640192126995, 
+      "lon": 3.2742341703866193, 
       "pcode": 8510, 
-      "street": "Manpad", 
-      "lon": 3.2742341703866193
+      "street": "Manpad"
     }, 
     {
-      "lat": 50.788593152058695, 
       "housenumber": "7", 
+      "lat": 50.788593152058695, 
+      "lon": 3.2837718347441243, 
       "pcode": 8510, 
-      "street": "Manpad", 
-      "lon": 3.2837718347441243
+      "street": "Manpad"
     }
-  ], 
-  "name": "Manpad"
+  ]
 }

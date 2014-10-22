@@ -1,20 +1,18 @@
 {
-  "pcode": 9100, 
   "addresses": [
     {
-      "lat": 51.16319014109198, 
       "housenumber": "1", 
+      "lat": 51.16319014109198, 
+      "lon": 4.187930890499416, 
       "pcode": 9100, 
-      "street": "Kletterbosstraat", 
-      "lon": 4.187930890499416
+      "street": "Kletterbosstraat"
     }, 
     {
-      "lat": 51.162649256924354, 
       "housenumber": "3", 
+      "lat": 51.162649256924354, 
+      "lon": 4.1873755971988444, 
       "pcode": 9100, 
-      "street": "Kletterbosstraat", 
-      "lon": 4.1873755971988444
+      "street": "Kletterbosstraat"
     }
-  ], 
-  "name": "Kletterbosstraat"
+  ]
 }

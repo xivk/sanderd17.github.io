@@ -1,35 +1,33 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
+      "housenumber": "12", 
       "pcode": 8400, 
-      "street": "Bredensesteenweg", 
-      "housenumber": "12"
+      "street": "Bredensesteenweg"
     }, 
     {
+      "housenumber": "14", 
       "pcode": 8400, 
-      "street": "Bredensesteenweg", 
-      "housenumber": "14"
+      "street": "Bredensesteenweg"
     }, 
     {
-      "lat": 51.22385680220921, 
       "housenumber": "20", 
+      "lat": 51.22385680220921, 
+      "lon": 2.9439301142811996, 
       "pcode": 8400, 
-      "street": "Bredensesteenweg", 
-      "lon": 2.9439301142811996
+      "street": "Bredensesteenweg"
     }, 
     {
-      "lat": 51.22386762638034, 
       "housenumber": "21", 
+      "lat": 51.22386762638034, 
+      "lon": 2.9439181869955515, 
       "pcode": 8400, 
-      "street": "Bredensesteenweg", 
-      "lon": 2.9439181869955515
+      "street": "Bredensesteenweg"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8400, 
-      "street": "Bredensesteenweg", 
-      "housenumber": "7"
+      "street": "Bredensesteenweg"
     }
-  ], 
-  "name": "Bredensesteenweg"
+  ]
 }

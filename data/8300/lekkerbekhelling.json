@@ -1,20 +1,18 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.35861318621497, 
       "housenumber": "1", 
+      "lat": 51.35861318621497, 
+      "lon": 3.3149402640423116, 
       "pcode": 8300, 
-      "street": "Lekkerbekhelling", 
-      "lon": 3.3149402640423116
+      "street": "Lekkerbekhelling"
     }, 
     {
-      "lat": 51.35909872280108, 
       "housenumber": "2", 
+      "lat": 51.35909872280108, 
+      "lon": 3.3150879119161396, 
       "pcode": 8300, 
-      "street": "Lekkerbekhelling", 
-      "lon": 3.3150879119161396
+      "street": "Lekkerbekhelling"
     }
-  ], 
-  "name": "Lekkerbekhelling"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9620, 
   "addresses": [
     {
-      "lat": 50.89797327180118, 
       "housenumber": "1", 
+      "lat": 50.89797327180118, 
+      "lon": 3.8386364933032033, 
       "pcode": 9620, 
-      "street": "Kerkendries", 
-      "lon": 3.8386364933032033
+      "street": "Kerkendries"
     }, 
     {
-      "lat": 50.89820719464848, 
       "housenumber": "3", 
+      "lat": 50.89820719464848, 
+      "lon": 3.8385397506886543, 
       "pcode": 9620, 
-      "street": "Kerkendries", 
-      "lon": 3.8385397506886543
+      "street": "Kerkendries"
     }
-  ], 
-  "name": "Kerkendries"
+  ]
 }

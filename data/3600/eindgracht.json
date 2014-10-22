@@ -1,35 +1,33 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.964075756337785, 
       "housenumber": "1", 
+      "lat": 50.964075756337785, 
+      "lon": 5.494969845267261, 
       "pcode": 3600, 
-      "street": "Eindgracht", 
-      "lon": 5.494969845267261
+      "street": "Eindgracht"
     }, 
     {
-      "lat": 50.964101757841725, 
       "housenumber": "2", 
+      "lat": 50.964101757841725, 
+      "lon": 5.4944142492325545, 
       "pcode": 3600, 
-      "street": "Eindgracht", 
-      "lon": 5.4944142492325545
+      "street": "Eindgracht"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3600, 
-      "street": "Eindgracht", 
-      "housenumber": "3"
+      "street": "Eindgracht"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3600, 
-      "street": "Eindgracht", 
-      "housenumber": "4"
+      "street": "Eindgracht"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3600, 
-      "street": "Eindgracht", 
-      "housenumber": "6"
+      "street": "Eindgracht"
     }
-  ], 
-  "name": "Eindgracht"
+  ]
 }

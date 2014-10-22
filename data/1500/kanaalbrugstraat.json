@@ -1,28 +1,26 @@
 {
-  "pcode": 1500, 
   "addresses": [
     {
+      "housenumber": "3", 
       "pcode": 1500, 
-      "street": "Kanaalbrugstraat", 
-      "housenumber": "3"
+      "street": "Kanaalbrugstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 1500, 
-      "street": "Kanaalbrugstraat", 
-      "housenumber": "5"
+      "street": "Kanaalbrugstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 1500, 
-      "street": "Kanaalbrugstraat", 
-      "housenumber": "7"
+      "street": "Kanaalbrugstraat"
     }, 
     {
-      "lat": 50.74047269146875, 
       "housenumber": "9", 
+      "lat": 50.74047269146875, 
+      "lon": 4.243161748085489, 
       "pcode": 1500, 
-      "street": "Kanaalbrugstraat", 
-      "lon": 4.243161748085489
+      "street": "Kanaalbrugstraat"
     }
-  ], 
-  "name": "Kanaalbrugstraat"
+  ]
 }

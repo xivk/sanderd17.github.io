@@ -1,45 +1,43 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9000, 
-      "street": "Brioolstraat", 
-      "housenumber": "1"
+      "street": "Brioolstraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 9000, 
-      "street": "Brioolstraat", 
-      "housenumber": "1A"
+      "street": "Brioolstraat"
     }, 
     {
-      "lat": 51.04986896107484, 
       "housenumber": "1B", 
+      "lat": 51.04986896107484, 
+      "lon": 3.712531207706047, 
       "pcode": 9000, 
-      "street": "Brioolstraat", 
-      "lon": 3.712531207706047
+      "street": "Brioolstraat"
     }, 
     {
+      "housenumber": "1C", 
       "pcode": 9000, 
-      "street": "Brioolstraat", 
-      "housenumber": "1C"
+      "street": "Brioolstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9000, 
-      "street": "Brioolstraat", 
-      "housenumber": "2"
+      "street": "Brioolstraat"
     }, 
     {
-      "lat": 51.04979578825228, 
       "housenumber": "3", 
+      "lat": 51.04979578825228, 
+      "lon": 3.7122728158026277, 
       "pcode": 9000, 
-      "street": "Brioolstraat", 
-      "lon": 3.7122728158026277
+      "street": "Brioolstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9000, 
-      "street": "Brioolstraat", 
-      "housenumber": "4"
+      "street": "Brioolstraat"
     }
-  ], 
-  "name": "Brioolstraat"
+  ]
 }

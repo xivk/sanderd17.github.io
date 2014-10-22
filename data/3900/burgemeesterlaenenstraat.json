@@ -1,37 +1,35 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
-      "lat": 51.21239690829807, 
       "housenumber": "1", 
+      "lat": 51.21239690829807, 
+      "lon": 5.420696548022444, 
       "pcode": 3900, 
-      "street": "Burgemeester Laenenstraat", 
-      "lon": 5.420696548022444
+      "street": "Burgemeester Laenenstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3900, 
-      "street": "Burgemeester Laenenstraat", 
-      "housenumber": "3"
+      "street": "Burgemeester Laenenstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3900, 
-      "street": "Burgemeester Laenenstraat", 
-      "housenumber": "5"
+      "street": "Burgemeester Laenenstraat"
     }, 
     {
-      "lat": 51.21263728369905, 
       "housenumber": "7", 
+      "lat": 51.21263728369905, 
+      "lon": 5.420231961930682, 
       "pcode": 3900, 
-      "street": "Burgemeester Laenenstraat", 
-      "lon": 5.420231961930682
+      "street": "Burgemeester Laenenstraat"
     }, 
     {
-      "lat": 51.212660334143024, 
       "housenumber": "7A", 
+      "lat": 51.212660334143024, 
+      "lon": 5.420197417153168, 
       "pcode": 3900, 
-      "street": "Burgemeester Laenenstraat", 
-      "lon": 5.420197417153168
+      "street": "Burgemeester Laenenstraat"
     }
-  ], 
-  "name": "Burgemeester Laenenstraat"
+  ]
 }

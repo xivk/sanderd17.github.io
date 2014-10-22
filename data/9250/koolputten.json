@@ -1,20 +1,18 @@
 {
-  "pcode": 9250, 
   "addresses": [
     {
-      "lat": 51.10578943091576, 
       "housenumber": "1", 
+      "lat": 51.10578943091576, 
+      "lon": 4.13984888520078, 
       "pcode": 9250, 
-      "street": "Koolputten", 
-      "lon": 4.13984888520078
+      "street": "Koolputten"
     }, 
     {
-      "lat": 51.10562970898063, 
       "housenumber": "6", 
+      "lat": 51.10562970898063, 
+      "lon": 4.140086109497872, 
       "pcode": 9250, 
-      "street": "Koolputten", 
-      "lon": 4.140086109497872
+      "street": "Koolputten"
     }
-  ], 
-  "name": "Koolputten"
+  ]
 }

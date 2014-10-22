@@ -1,53 +1,51 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.88177409059633, 
       "housenumber": "1", 
+      "lat": 50.88177409059633, 
+      "lon": 4.712103465586829, 
       "pcode": 3000, 
-      "street": "Oppendorpgang", 
-      "lon": 4.712103465586829
+      "street": "Oppendorpgang"
     }, 
     {
-      "lat": 50.88173298088223, 
       "housenumber": "2", 
+      "lat": 50.88173298088223, 
+      "lon": 4.712174214871653, 
       "pcode": 3000, 
-      "street": "Oppendorpgang", 
-      "lon": 4.712174214871653
+      "street": "Oppendorpgang"
     }, 
     {
-      "lat": 50.88169387656954, 
       "housenumber": "3", 
+      "lat": 50.88169387656954, 
+      "lon": 4.712143518861118, 
       "pcode": 3000, 
-      "street": "Oppendorpgang", 
-      "lon": 4.712143518861118
+      "street": "Oppendorpgang"
     }, 
     {
-      "lat": 50.881644008851126, 
       "housenumber": "4", 
+      "lat": 50.881644008851126, 
+      "lon": 4.7122272770695455, 
       "pcode": 3000, 
-      "street": "Oppendorpgang", 
-      "lon": 4.7122272770695455
+      "street": "Oppendorpgang"
     }, 
     {
-      "lat": 50.88151130759566, 
       "housenumber": "5", 
+      "lat": 50.88151130759566, 
+      "lon": 4.712110066896795, 
       "pcode": 3000, 
-      "street": "Oppendorpgang", 
-      "lon": 4.712110066896795
+      "street": "Oppendorpgang"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3000, 
-      "street": "Oppendorpgang", 
-      "housenumber": "6"
+      "street": "Oppendorpgang"
     }, 
     {
-      "lat": 50.88153403676494, 
       "housenumber": "7", 
+      "lat": 50.88153403676494, 
+      "lon": 4.712145616316823, 
       "pcode": 3000, 
-      "street": "Oppendorpgang", 
-      "lon": 4.712145616316823
+      "street": "Oppendorpgang"
     }
-  ], 
-  "name": "Oppendorpgang"
+  ]
 }

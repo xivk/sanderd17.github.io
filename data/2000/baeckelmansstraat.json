@@ -1,18 +1,16 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2000, 
-      "street": "Baeckelmansstraat", 
-      "housenumber": "1"
+      "street": "Baeckelmansstraat"
     }, 
     {
-      "lat": 51.21517467713434, 
       "housenumber": "2", 
+      "lat": 51.21517467713434, 
+      "lon": 4.412319427741698, 
       "pcode": 2000, 
-      "street": "Baeckelmansstraat", 
-      "lon": 4.412319427741698
+      "street": "Baeckelmansstraat"
     }
-  ], 
-  "name": "Baeckelmansstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 1853, 
   "addresses": [
     {
-      "lat": 50.90692100115952, 
       "housenumber": "1", 
+      "lat": 50.90692100115952, 
+      "lon": 4.349588035864963, 
       "pcode": 1853, 
-      "street": "Hazelaarlaan", 
-      "lon": 4.349588035864963
+      "street": "Hazelaarlaan"
     }, 
     {
-      "lat": 50.906952080130694, 
       "housenumber": "2", 
+      "lat": 50.906952080130694, 
+      "lon": 4.3500104273045155, 
       "pcode": 1853, 
-      "street": "Hazelaarlaan", 
-      "lon": 4.3500104273045155
+      "street": "Hazelaarlaan"
     }
-  ], 
-  "name": "Hazelaarlaan"
+  ]
 }

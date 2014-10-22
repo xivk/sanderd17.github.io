@@ -1,23 +1,21 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
-      "lat": 51.02156139795106, 
       "housenumber": "1", 
+      "lat": 51.02156139795106, 
+      "lon": 4.4826485694225155, 
       "pcode": 2800, 
-      "street": "Faid'Herbestraat", 
-      "lon": 4.4826485694225155
+      "street": "Faid'Herbestraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2800, 
-      "street": "Faid'Herbestraat", 
-      "housenumber": "3"
+      "street": "Faid'Herbestraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2800, 
-      "street": "Faid'Herbestraat", 
-      "housenumber": "5"
+      "street": "Faid'Herbestraat"
     }
-  ], 
-  "name": "Faid'Herbestraat"
+  ]
 }

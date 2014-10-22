@@ -1,20 +1,18 @@
 {
-  "pcode": 1910, 
   "addresses": [
     {
-      "lat": 50.94338514533102, 
       "housenumber": "3", 
+      "lat": 50.94338514533102, 
+      "lon": 4.565512836690815, 
       "pcode": 1910, 
-      "street": "Dorpelweg", 
-      "lon": 4.565512836690815
+      "street": "Dorpelweg"
     }, 
     {
-      "lat": 50.94329813318212, 
       "housenumber": "5", 
+      "lat": 50.94329813318212, 
+      "lon": 4.5658845489653945, 
       "pcode": 1910, 
-      "street": "Dorpelweg", 
-      "lon": 4.5658845489653945
+      "street": "Dorpelweg"
     }
-  ], 
-  "name": "Dorpelweg"
+  ]
 }

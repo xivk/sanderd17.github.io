@@ -1,20 +1,18 @@
 {
-  "pcode": 3990, 
   "addresses": [
     {
-      "lat": 51.15926285144059, 
       "housenumber": "1", 
+      "lat": 51.15926285144059, 
+      "lon": 5.51990964609818, 
       "pcode": 3990, 
-      "street": "Aardstraat", 
-      "lon": 5.51990964609818
+      "street": "Aardstraat"
     }, 
     {
-      "lat": 51.15848039278836, 
       "housenumber": "2", 
+      "lat": 51.15848039278836, 
+      "lon": 5.519273332443205, 
       "pcode": 3990, 
-      "street": "Aardstraat", 
-      "lon": 5.519273332443205
+      "street": "Aardstraat"
     }
-  ], 
-  "name": "Aardstraat"
+  ]
 }

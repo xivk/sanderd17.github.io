@@ -1,35 +1,33 @@
 {
-  "pcode": 2321, 
   "addresses": [
     {
-      "lat": 51.47122233980625, 
       "housenumber": "1", 
+      "lat": 51.47122233980625, 
+      "lon": 4.722257028581833, 
       "pcode": 2321, 
-      "street": "Seoelstraat", 
-      "lon": 4.722257028581833
+      "street": "Seoelstraat"
     }, 
     {
-      "lat": 51.472209866881215, 
       "housenumber": "2", 
+      "lat": 51.472209866881215, 
+      "lon": 4.722836902089677, 
       "pcode": 2321, 
-      "street": "Seoelstraat", 
-      "lon": 4.722836902089677
+      "street": "Seoelstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2321, 
-      "street": "Seoelstraat", 
-      "housenumber": "4"
+      "street": "Seoelstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2321, 
-      "street": "Seoelstraat", 
-      "housenumber": "6"
+      "street": "Seoelstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2321, 
-      "street": "Seoelstraat", 
-      "housenumber": "8"
+      "street": "Seoelstraat"
     }
-  ], 
-  "name": "Seoelstraat"
+  ]
 }

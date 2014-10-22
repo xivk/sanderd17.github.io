@@ -1,25 +1,23 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.191552602483654, 
       "housenumber": "1", 
+      "lat": 51.191552602483654, 
+      "lon": 2.891591177679816, 
       "pcode": 8400, 
-      "street": "Leemstraat", 
-      "lon": 2.891591177679816
+      "street": "Leemstraat"
     }, 
     {
-      "lat": 51.19218013120905, 
       "housenumber": "2", 
+      "lat": 51.19218013120905, 
+      "lon": 2.888415411430799, 
       "pcode": 8400, 
-      "street": "Leemstraat", 
-      "lon": 2.888415411430799
+      "street": "Leemstraat"
     }, 
     {
+      "housenumber": "731", 
       "pcode": 8400, 
-      "street": "Leemstraat", 
-      "housenumber": "731"
+      "street": "Leemstraat"
     }
-  ], 
-  "name": "Leemstraat"
+  ]
 }

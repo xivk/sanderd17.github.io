@@ -1,23 +1,21 @@
 {
-  "pcode": 1750, 
   "addresses": [
     {
+      "housenumber": "13", 
       "pcode": 1750, 
-      "street": "Ter Heidestraat", 
-      "housenumber": "13"
+      "street": "Ter Heidestraat"
     }, 
     {
+      "housenumber": "17", 
       "pcode": 1750, 
-      "street": "Ter Heidestraat", 
-      "housenumber": "17"
+      "street": "Ter Heidestraat"
     }, 
     {
-      "lat": 50.81893461625472, 
       "housenumber": "5", 
+      "lat": 50.81893461625472, 
+      "lon": 4.133186041731079, 
       "pcode": 1750, 
-      "street": "Ter Heidestraat", 
-      "lon": 4.133186041731079
+      "street": "Ter Heidestraat"
     }
-  ], 
-  "name": "Ter Heidestraat"
+  ]
 }

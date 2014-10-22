@@ -1,32 +1,30 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
-      "lat": 50.81344991707377, 
       "housenumber": "2", 
+      "lat": 50.81344991707377, 
+      "lon": 5.172032443615034, 
       "pcode": 3800, 
-      "street": "Jan Frans Willemstraat", 
-      "lon": 5.172032443615034
+      "street": "Jan Frans Willemstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3800, 
-      "street": "Jan Frans Willemstraat", 
-      "housenumber": "4"
+      "street": "Jan Frans Willemstraat"
     }, 
     {
-      "lat": 50.813460064129885, 
       "housenumber": "6", 
+      "lat": 50.813460064129885, 
+      "lon": 5.172191404621386, 
       "pcode": 3800, 
-      "street": "Jan Frans Willemstraat", 
-      "lon": 5.172191404621386
+      "street": "Jan Frans Willemstraat"
     }, 
     {
-      "lat": 50.813453401444804, 
       "housenumber": "8", 
+      "lat": 50.813453401444804, 
+      "lon": 5.172074931656424, 
       "pcode": 3800, 
-      "street": "Jan Frans Willemstraat", 
-      "lon": 5.172074931656424
+      "street": "Jan Frans Willemstraat"
     }
-  ], 
-  "name": "Jan Frans Willemstraat"
+  ]
 }

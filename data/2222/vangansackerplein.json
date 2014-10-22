@@ -1,20 +1,18 @@
 {
-  "pcode": 2222, 
   "addresses": [
     {
-      "lat": 51.1051314004742, 
       "housenumber": "2", 
+      "lat": 51.1051314004742, 
+      "lon": 4.723659923788959, 
       "pcode": 2222, 
-      "street": "Van Gansackerplein", 
-      "lon": 4.723659923788959
+      "street": "Van Gansackerplein"
     }, 
     {
-      "lat": 51.10512875592419, 
       "housenumber": "4", 
+      "lat": 51.10512875592419, 
+      "lon": 4.723404042022141, 
       "pcode": 2222, 
-      "street": "Van Gansackerplein", 
-      "lon": 4.723404042022141
+      "street": "Van Gansackerplein"
     }
-  ], 
-  "name": "Van Gansackerplein"
+  ]
 }

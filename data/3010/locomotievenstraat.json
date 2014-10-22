@@ -1,27 +1,25 @@
 {
-  "pcode": 3010, 
   "addresses": [
     {
-      "lat": 50.88298544479297, 
       "housenumber": "1", 
+      "lat": 50.88298544479297, 
+      "lon": 4.717151792946258, 
       "pcode": 3010, 
-      "street": "Locomotievenstraat", 
-      "lon": 4.717151792946258
+      "street": "Locomotievenstraat"
     }, 
     {
-      "lat": 50.882649464592824, 
       "housenumber": "50", 
+      "lat": 50.882649464592824, 
+      "lon": 4.72478978142681, 
       "pcode": 3010, 
-      "street": "Locomotievenstraat", 
-      "lon": 4.72478978142681
+      "street": "Locomotievenstraat"
     }, 
     {
-      "lat": 50.88257647761235, 
       "housenumber": "52", 
+      "lat": 50.88257647761235, 
+      "lon": 4.724935025250926, 
       "pcode": 3010, 
-      "street": "Locomotievenstraat", 
-      "lon": 4.724935025250926
+      "street": "Locomotievenstraat"
     }
-  ], 
-  "name": "Locomotievenstraat"
+  ]
 }

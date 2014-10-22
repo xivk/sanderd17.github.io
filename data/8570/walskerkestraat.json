@@ -1,20 +1,18 @@
 {
-  "pcode": 8570, 
   "addresses": [
     {
-      "lat": 50.86102777666604, 
       "housenumber": "1", 
+      "lat": 50.86102777666604, 
+      "lon": 3.4471869982061443, 
       "pcode": 8570, 
-      "street": "Walskerkestraat", 
-      "lon": 3.4471869982061443
+      "street": "Walskerkestraat"
     }, 
     {
-      "lat": 50.85900647644364, 
       "housenumber": "2", 
+      "lat": 50.85900647644364, 
+      "lon": 3.442498329092972, 
       "pcode": 8570, 
-      "street": "Walskerkestraat", 
-      "lon": 3.442498329092972
+      "street": "Walskerkestraat"
     }
-  ], 
-  "name": "Walskerkestraat"
+  ]
 }

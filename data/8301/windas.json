@@ -1,20 +1,18 @@
 {
-  "pcode": 8301, 
   "addresses": [
     {
-      "lat": 51.33053684619078, 
       "housenumber": "3", 
+      "lat": 51.33053684619078, 
+      "lon": 3.244048101436921, 
       "pcode": 8301, 
-      "street": "Windas", 
-      "lon": 3.244048101436921
+      "street": "Windas"
     }, 
     {
-      "lat": 51.330501890742, 
       "housenumber": "5", 
+      "lat": 51.330501890742, 
+      "lon": 3.2442389222708674, 
       "pcode": 8301, 
-      "street": "Windas", 
-      "lon": 3.2442389222708674
+      "street": "Windas"
     }
-  ], 
-  "name": "Windas"
+  ]
 }

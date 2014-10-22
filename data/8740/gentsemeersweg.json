@@ -1,20 +1,18 @@
 {
-  "pcode": 8740, 
   "addresses": [
     {
-      "lat": 50.989373913444865, 
       "housenumber": "2", 
+      "lat": 50.989373913444865, 
+      "lon": 3.2755193904848148, 
       "pcode": 8740, 
-      "street": "Gentsemeersweg", 
-      "lon": 3.2755193904848148
+      "street": "Gentsemeersweg"
     }, 
     {
-      "lat": 50.99029878290668, 
       "housenumber": "3", 
+      "lat": 50.99029878290668, 
+      "lon": 3.278006547757845, 
       "pcode": 8740, 
-      "street": "Gentsemeersweg", 
-      "lon": 3.278006547757845
+      "street": "Gentsemeersweg"
     }
-  ], 
-  "name": "Gentsemeersweg"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.98366849858399, 
       "housenumber": "10", 
+      "lat": 50.98366849858399, 
+      "lon": 3.1288980411966953, 
       "pcode": 8800, 
-      "street": "Dwarsweg", 
-      "lon": 3.1288980411966953
+      "street": "Dwarsweg"
     }, 
     {
-      "lat": 50.98302109192074, 
       "housenumber": "15", 
+      "lat": 50.98302109192074, 
+      "lon": 3.127848102067627, 
       "pcode": 8800, 
-      "street": "Dwarsweg", 
-      "lon": 3.127848102067627
+      "street": "Dwarsweg"
     }, 
     {
-      "lat": 50.98236087512974, 
       "housenumber": "25", 
+      "lat": 50.98236087512974, 
+      "lon": 3.124003881644662, 
       "pcode": 8800, 
-      "street": "Dwarsweg", 
-      "lon": 3.124003881644662
+      "street": "Dwarsweg"
     }
-  ], 
-  "name": "Dwarsweg"
+  ]
 }

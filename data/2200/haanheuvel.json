@@ -1,37 +1,35 @@
 {
-  "pcode": 2200, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2200, 
-      "street": "Haanheuvel", 
-      "housenumber": "1"
+      "street": "Haanheuvel"
     }, 
     {
-      "lat": 51.19128272719863, 
       "housenumber": "3", 
+      "lat": 51.19128272719863, 
+      "lon": 4.815492636968029, 
       "pcode": 2200, 
-      "street": "Haanheuvel", 
-      "lon": 4.815492636968029
+      "street": "Haanheuvel"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2200, 
-      "street": "Haanheuvel", 
-      "housenumber": "4"
+      "street": "Haanheuvel"
     }, 
     {
-      "lat": 51.19191614805649, 
       "housenumber": "5", 
+      "lat": 51.19191614805649, 
+      "lon": 4.815305169486064, 
       "pcode": 2200, 
-      "street": "Haanheuvel", 
-      "lon": 4.815305169486064
+      "street": "Haanheuvel"
     }, 
     {
-      "lat": 51.19249170285565, 
       "housenumber": "7", 
+      "lat": 51.19249170285565, 
+      "lon": 4.813493545101492, 
       "pcode": 2200, 
-      "street": "Haanheuvel", 
-      "lon": 4.813493545101492
+      "street": "Haanheuvel"
     }
-  ], 
-  "name": "Haanheuvel"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.22090845100731, 
       "housenumber": "3", 
+      "lat": 51.22090845100731, 
+      "lon": 4.411633824991476, 
       "pcode": 2000, 
-      "street": "Zwanengang", 
-      "lon": 4.411633824991476
+      "street": "Zwanengang"
     }, 
     {
-      "lat": 51.22136826806613, 
       "housenumber": "4", 
+      "lat": 51.22136826806613, 
+      "lon": 4.411954732313575, 
       "pcode": 2000, 
-      "street": "Zwanengang", 
-      "lon": 4.411954732313575
+      "street": "Zwanengang"
     }
-  ], 
-  "name": "Zwanengang"
+  ]
 }

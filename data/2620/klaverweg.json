@@ -1,50 +1,48 @@
 {
-  "pcode": 2620, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2620, 
-      "street": "Klaverweg", 
-      "housenumber": "1"
+      "street": "Klaverweg"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 2620, 
-      "street": "Klaverweg", 
-      "housenumber": "10"
+      "street": "Klaverweg"
     }, 
     {
-      "lat": 51.15159069674681, 
       "housenumber": "2", 
+      "lat": 51.15159069674681, 
+      "lon": 4.347728759630806, 
       "pcode": 2620, 
-      "street": "Klaverweg", 
-      "lon": 4.347728759630806
+      "street": "Klaverweg"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2620, 
-      "street": "Klaverweg", 
-      "housenumber": "3"
+      "street": "Klaverweg"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2620, 
-      "street": "Klaverweg", 
-      "housenumber": "4"
+      "street": "Klaverweg"
     }, 
     {
-      "lat": 51.15205958963471, 
       "housenumber": "5", 
+      "lat": 51.15205958963471, 
+      "lon": 4.3474771560420935, 
       "pcode": 2620, 
-      "street": "Klaverweg", 
-      "lon": 4.3474771560420935
+      "street": "Klaverweg"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2620, 
-      "street": "Klaverweg", 
-      "housenumber": "6"
+      "street": "Klaverweg"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2620, 
-      "street": "Klaverweg", 
-      "housenumber": "8"
+      "street": "Klaverweg"
     }
-  ], 
-  "name": "Klaverweg"
+  ]
 }

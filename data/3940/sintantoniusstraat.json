@@ -1,18 +1,16 @@
 {
-  "pcode": 3940, 
   "addresses": [
     {
-      "lat": 51.16171501151168, 
       "housenumber": "6", 
+      "lat": 51.16171501151168, 
+      "lon": 5.417867648981514, 
       "pcode": 3940, 
-      "street": "Sint Antoniusstraat", 
-      "lon": 5.417867648981514
+      "street": "Sint Antoniusstraat"
     }, 
     {
+      "housenumber": "ZN", 
       "pcode": 3940, 
-      "street": "Sint Antoniusstraat", 
-      "housenumber": "ZN"
+      "street": "Sint Antoniusstraat"
     }
-  ], 
-  "name": "Sint Antoniusstraat"
+  ]
 }

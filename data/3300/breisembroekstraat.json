@@ -1,30 +1,28 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.84384021322551, 
       "housenumber": "40", 
+      "lat": 50.84384021322551, 
+      "lon": 4.893110101565569, 
       "pcode": 3300, 
-      "street": "Breisembroekstraat", 
-      "lon": 4.893110101565569
+      "street": "Breisembroekstraat"
     }, 
     {
+      "housenumber": "45", 
       "pcode": 3300, 
-      "street": "Breisembroekstraat", 
-      "housenumber": "45"
+      "street": "Breisembroekstraat"
     }, 
     {
+      "housenumber": "46", 
       "pcode": 3300, 
-      "street": "Breisembroekstraat", 
-      "housenumber": "46"
+      "street": "Breisembroekstraat"
     }, 
     {
-      "lat": 50.846160191822975, 
       "housenumber": "5", 
+      "lat": 50.846160191822975, 
+      "lon": 4.8928699149953045, 
       "pcode": 3300, 
-      "street": "Breisembroekstraat", 
-      "lon": 4.8928699149953045
+      "street": "Breisembroekstraat"
     }
-  ], 
-  "name": "Breisembroekstraat"
+  ]
 }

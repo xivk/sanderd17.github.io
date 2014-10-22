@@ -1,18 +1,16 @@
 {
-  "pcode": 9170, 
   "addresses": [
     {
-      "lat": 51.28568090998688, 
       "housenumber": "2", 
+      "lat": 51.28568090998688, 
+      "lon": 4.150624469900133, 
       "pcode": 9170, 
-      "street": "Hoekstraat", 
-      "lon": 4.150624469900133
+      "street": "Hoekstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9170, 
-      "street": "Hoekstraat", 
-      "housenumber": "3"
+      "street": "Hoekstraat"
     }
-  ], 
-  "name": "Hoekstraat"
+  ]
 }

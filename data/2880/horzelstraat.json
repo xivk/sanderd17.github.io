@@ -1,20 +1,18 @@
 {
-  "pcode": 2880, 
   "addresses": [
     {
-      "lat": 51.0978280068914, 
       "housenumber": "5", 
+      "lat": 51.0978280068914, 
+      "lon": 4.249786060949595, 
       "pcode": 2880, 
-      "street": "Horzelstraat", 
-      "lon": 4.249786060949595
+      "street": "Horzelstraat"
     }, 
     {
-      "lat": 51.097688029317574, 
       "housenumber": "8", 
+      "lat": 51.097688029317574, 
+      "lon": 4.250303190931616, 
       "pcode": 2880, 
-      "street": "Horzelstraat", 
-      "lon": 4.250303190931616
+      "street": "Horzelstraat"
     }
-  ], 
-  "name": "Horzelstraat"
+  ]
 }

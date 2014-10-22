@@ -1,27 +1,25 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.20593147114354, 
       "housenumber": "1", 
+      "lat": 51.20593147114354, 
+      "lon": 2.86649931744373, 
       "pcode": 8400, 
-      "street": "Kinkhoornlaan", 
-      "lon": 2.86649931744373
+      "street": "Kinkhoornlaan"
     }, 
     {
-      "lat": 51.20606980245171, 
       "housenumber": "2", 
+      "lat": 51.20606980245171, 
+      "lon": 2.8670278297006915, 
       "pcode": 8400, 
-      "street": "Kinkhoornlaan", 
-      "lon": 2.8670278297006915
+      "street": "Kinkhoornlaan"
     }, 
     {
-      "lat": 51.20626320829962, 
       "housenumber": "4", 
+      "lat": 51.20626320829962, 
+      "lon": 2.8668245324982484, 
       "pcode": 8400, 
-      "street": "Kinkhoornlaan", 
-      "lon": 2.8668245324982484
+      "street": "Kinkhoornlaan"
     }
-  ], 
-  "name": "Kinkhoornlaan"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.96050889363027, 
       "housenumber": "1", 
+      "lat": 50.96050889363027, 
+      "lon": 5.49746970387768, 
       "pcode": 3600, 
-      "street": "Neel Doffstraat", 
-      "lon": 5.49746970387768
+      "street": "Neel Doffstraat"
     }, 
     {
-      "lat": 50.960330543306185, 
       "housenumber": "3", 
+      "lat": 50.960330543306185, 
+      "lon": 5.497514804812631, 
       "pcode": 3600, 
-      "street": "Neel Doffstraat", 
-      "lon": 5.497514804812631
+      "street": "Neel Doffstraat"
     }, 
     {
-      "lat": 50.96000922353208, 
       "housenumber": "5", 
+      "lat": 50.96000922353208, 
+      "lon": 5.4977028002826245, 
       "pcode": 3600, 
-      "street": "Neel Doffstraat", 
-      "lon": 5.4977028002826245
+      "street": "Neel Doffstraat"
     }
-  ], 
-  "name": "Neel Doffstraat"
+  ]
 }

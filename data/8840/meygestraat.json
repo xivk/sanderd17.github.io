@@ -1,32 +1,30 @@
 {
-  "pcode": 8840, 
   "addresses": [
     {
-      "lat": 50.92675909964578, 
       "housenumber": "2", 
+      "lat": 50.92675909964578, 
+      "lon": 2.9936778492975944, 
       "pcode": 8840, 
-      "street": "Meygestraat", 
-      "lon": 2.9936778492975944
+      "street": "Meygestraat"
     }, 
     {
+      "housenumber": "2a", 
       "pcode": 8840, 
-      "street": "Meygestraat", 
-      "housenumber": "2a"
+      "street": "Meygestraat"
     }, 
     {
-      "lat": 50.92739703271784, 
       "housenumber": "6", 
+      "lat": 50.92739703271784, 
+      "lon": 2.993988072875279, 
       "pcode": 8840, 
-      "street": "Meygestraat", 
-      "lon": 2.993988072875279
+      "street": "Meygestraat"
     }, 
     {
-      "lat": 50.92757695938702, 
       "housenumber": "8", 
+      "lat": 50.92757695938702, 
+      "lon": 2.9923918824433047, 
       "pcode": 8840, 
-      "street": "Meygestraat", 
-      "lon": 2.9923918824433047
+      "street": "Meygestraat"
     }
-  ], 
-  "name": "Meygestraat"
+  ]
 }

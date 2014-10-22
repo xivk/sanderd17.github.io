@@ -1,20 +1,18 @@
 {
-  "pcode": 8630, 
   "addresses": [
     {
-      "lat": 51.028062145787096, 
       "housenumber": "1", 
+      "lat": 51.028062145787096, 
+      "lon": 2.668380831272078, 
       "pcode": 8630, 
-      "street": "Katjeshillestraat", 
-      "lon": 2.668380831272078
+      "street": "Katjeshillestraat"
     }, 
     {
-      "lat": 51.029480732836, 
       "housenumber": "2", 
+      "lat": 51.029480732836, 
+      "lon": 2.666315741081982, 
       "pcode": 8630, 
-      "street": "Katjeshillestraat", 
-      "lon": 2.666315741081982
+      "street": "Katjeshillestraat"
     }
-  ], 
-  "name": "Katjeshillestraat"
+  ]
 }

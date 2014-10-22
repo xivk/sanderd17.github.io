@@ -1,20 +1,18 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.9887266297877, 
       "housenumber": "1", 
+      "lat": 50.9887266297877, 
+      "lon": 5.561520261941724, 
       "pcode": 3600, 
-      "street": "Damstraat", 
-      "lon": 5.561520261941724
+      "street": "Damstraat"
     }, 
     {
-      "lat": 50.98645744476915, 
       "housenumber": "5", 
+      "lat": 50.98645744476915, 
+      "lon": 5.559066713433187, 
       "pcode": 3600, 
-      "street": "Damstraat", 
-      "lon": 5.559066713433187
+      "street": "Damstraat"
     }
-  ], 
-  "name": "Damstraat"
+  ]
 }

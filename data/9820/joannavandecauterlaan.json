@@ -1,23 +1,21 @@
 {
-  "pcode": 9820, 
   "addresses": [
     {
+      "housenumber": "28", 
       "pcode": 9820, 
-      "street": "Joanna Van de Cauterlaan", 
-      "housenumber": "28"
+      "street": "Joanna Van de Cauterlaan"
     }, 
     {
-      "lat": 51.01012417631837, 
       "housenumber": "4", 
+      "lat": 51.01012417631837, 
+      "lon": 3.7536809593214495, 
       "pcode": 9820, 
-      "street": "Joanna Van de Cauterlaan", 
-      "lon": 3.7536809593214495
+      "street": "Joanna Van de Cauterlaan"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 9820, 
-      "street": "Joanna Van de Cauterlaan", 
-      "housenumber": "8"
+      "street": "Joanna Van de Cauterlaan"
     }
-  ], 
-  "name": "Joanna Van de Cauterlaan"
+  ]
 }

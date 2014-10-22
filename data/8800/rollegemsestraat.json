@@ -1,20 +1,18 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.88996314911816, 
       "housenumber": "2", 
+      "lat": 50.88996314911816, 
+      "lon": 3.1632141248787757, 
       "pcode": 8800, 
-      "street": "Rollegemsestraat", 
-      "lon": 3.1632141248787757
+      "street": "Rollegemsestraat"
     }, 
     {
-      "lat": 50.88819100333591, 
       "housenumber": "4", 
+      "lat": 50.88819100333591, 
+      "lon": 3.161208972262082, 
       "pcode": 8800, 
-      "street": "Rollegemsestraat", 
-      "lon": 3.161208972262082
+      "street": "Rollegemsestraat"
     }
-  ], 
-  "name": "Rollegemsestraat"
+  ]
 }

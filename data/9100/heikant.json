@@ -1,51 +1,49 @@
 {
-  "pcode": 9100, 
   "addresses": [
     {
+      "housenumber": "141", 
       "pcode": 9100, 
-      "street": "Heikant", 
-      "housenumber": "141"
+      "street": "Heikant"
     }, 
     {
-      "lat": 51.16927780995338, 
       "housenumber": "18", 
+      "lat": 51.16927780995338, 
+      "lon": 4.204521797808598, 
       "pcode": 9100, 
-      "street": "Heikant", 
-      "lon": 4.204521797808598
+      "street": "Heikant"
     }, 
     {
-      "lat": 51.16940009389947, 
       "housenumber": "24", 
+      "lat": 51.16940009389947, 
+      "lon": 4.206115829201819, 
       "pcode": 9100, 
-      "street": "Heikant", 
-      "lon": 4.206115829201819
+      "street": "Heikant"
     }, 
     {
-      "lat": 51.16902045010964, 
       "housenumber": "39", 
+      "lat": 51.16902045010964, 
+      "lon": 4.2083854297376275, 
       "pcode": 9100, 
-      "street": "Heikant", 
-      "lon": 4.2083854297376275
+      "street": "Heikant"
     }, 
     {
+      "housenumber": "48", 
       "pcode": 9100, 
-      "street": "Heikant", 
-      "housenumber": "48"
+      "street": "Heikant"
     }, 
     {
-      "lat": 51.170240747770535, 
       "housenumber": "50", 
+      "lat": 51.170240747770535, 
+      "lon": 4.209124025184595, 
       "pcode": 9100, 
-      "street": "Heikant", 
-      "lon": 4.209124025184595
+      "street": "Heikant"
     }, 
     {
-      "lat": 51.170220489895634, 
       "housenumber": "54", 
+      "lat": 51.170220489895634, 
+      "lon": 4.2097683518021665, 
       "pcode": 9100, 
-      "street": "Heikant", 
-      "lon": 4.2097683518021665
+      "street": "Heikant"
     }
-  ], 
-  "name": "Heikant"
+  ]
 }

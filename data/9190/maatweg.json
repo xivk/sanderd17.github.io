@@ -1,18 +1,16 @@
 {
-  "pcode": 9190, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9190, 
-      "street": "Maatweg", 
-      "housenumber": "1"
+      "street": "Maatweg"
     }, 
     {
-      "lat": 51.229410197841574, 
       "housenumber": "1W", 
+      "lat": 51.229410197841574, 
+      "lon": 4.069911157123119, 
       "pcode": 9190, 
-      "street": "Maatweg", 
-      "lon": 4.069911157123119
+      "street": "Maatweg"
     }
-  ], 
-  "name": "Maatweg"
+  ]
 }

@@ -1,44 +1,42 @@
 {
-  "pcode": 2370, 
   "addresses": [
     {
-      "lat": 51.341039766779495, 
       "housenumber": "1", 
+      "lat": 51.341039766779495, 
+      "lon": 5.0676567758945135, 
       "pcode": 2370, 
-      "street": "De Zeshonderd", 
-      "lon": 5.0676567758945135
+      "street": "De Zeshonderd"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2370, 
-      "street": "De Zeshonderd", 
-      "housenumber": "2"
+      "street": "De Zeshonderd"
     }, 
     {
+      "housenumber": "2B", 
       "pcode": 2370, 
-      "street": "De Zeshonderd", 
-      "housenumber": "2B"
+      "street": "De Zeshonderd"
     }, 
     {
-      "lat": 51.344223082354844, 
       "housenumber": "3", 
+      "lat": 51.344223082354844, 
+      "lon": 5.061320957538364, 
       "pcode": 2370, 
-      "street": "De Zeshonderd", 
-      "lon": 5.061320957538364
+      "street": "De Zeshonderd"
     }, 
     {
-      "lat": 51.343645296956566, 
       "housenumber": "4", 
+      "lat": 51.343645296956566, 
+      "lon": 5.054154588349174, 
       "pcode": 2370, 
-      "street": "De Zeshonderd", 
-      "lon": 5.054154588349174
+      "street": "De Zeshonderd"
     }, 
     {
-      "lat": 51.343650391424646, 
       "housenumber": "5", 
+      "lat": 51.343650391424646, 
+      "lon": 5.054656397986872, 
       "pcode": 2370, 
-      "street": "De Zeshonderd", 
-      "lon": 5.054656397986872
+      "street": "De Zeshonderd"
     }
-  ], 
-  "name": "De Zeshonderd"
+  ]
 }

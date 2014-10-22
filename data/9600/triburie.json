@@ -1,20 +1,18 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.73969453465489, 
       "housenumber": "3", 
+      "lat": 50.73969453465489, 
+      "lon": 3.5511424048512734, 
       "pcode": 9600, 
-      "street": "Triburie", 
-      "lon": 3.5511424048512734
+      "street": "Triburie"
     }, 
     {
-      "lat": 50.739523828859404, 
       "housenumber": "5", 
+      "lat": 50.739523828859404, 
+      "lon": 3.549267410096498, 
       "pcode": 9600, 
-      "street": "Triburie", 
-      "lon": 3.549267410096498
+      "street": "Triburie"
     }
-  ], 
-  "name": "Triburie"
+  ]
 }

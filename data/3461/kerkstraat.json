@@ -1,18 +1,16 @@
 {
-  "pcode": 3461, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3461, 
-      "street": "Kerkstraat", 
-      "housenumber": "1"
+      "street": "Kerkstraat"
     }, 
     {
-      "lat": 50.919251825629004, 
       "housenumber": "3", 
+      "lat": 50.919251825629004, 
+      "lon": 4.9416526415193704, 
       "pcode": 3461, 
-      "street": "Kerkstraat", 
-      "lon": 4.9416526415193704
+      "street": "Kerkstraat"
     }
-  ], 
-  "name": "Kerkstraat"
+  ]
 }

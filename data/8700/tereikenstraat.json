@@ -1,27 +1,25 @@
 {
-  "pcode": 8700, 
   "addresses": [
     {
-      "lat": 51.03056222933294, 
       "housenumber": "1", 
+      "lat": 51.03056222933294, 
+      "lon": 3.429336886816465, 
       "pcode": 8700, 
-      "street": "Tereikenstraat", 
-      "lon": 3.429336886816465
+      "street": "Tereikenstraat"
     }, 
     {
-      "lat": 51.03328470617907, 
       "housenumber": "3", 
+      "lat": 51.03328470617907, 
+      "lon": 3.4296789294900067, 
       "pcode": 8700, 
-      "street": "Tereikenstraat", 
-      "lon": 3.4296789294900067
+      "street": "Tereikenstraat"
     }, 
     {
-      "lat": 51.03466918735084, 
       "housenumber": "5", 
+      "lat": 51.03466918735084, 
+      "lon": 3.426646127956126, 
       "pcode": 8700, 
-      "street": "Tereikenstraat", 
-      "lon": 3.426646127956126
+      "street": "Tereikenstraat"
     }
-  ], 
-  "name": "Tereikenstraat"
+  ]
 }

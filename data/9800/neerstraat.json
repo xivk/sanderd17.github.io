@@ -1,27 +1,25 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 50.99118205762855, 
       "housenumber": "13", 
+      "lat": 50.99118205762855, 
+      "lon": 3.5470654131053756, 
       "pcode": 9800, 
-      "street": "Neerstraat", 
-      "lon": 3.5470654131053756
+      "street": "Neerstraat"
     }, 
     {
-      "lat": 50.99097182588731, 
       "housenumber": "15", 
+      "lat": 50.99097182588731, 
+      "lon": 3.547379898748858, 
       "pcode": 9800, 
-      "street": "Neerstraat", 
-      "lon": 3.547379898748858
+      "street": "Neerstraat"
     }, 
     {
-      "lat": 50.99122086063593, 
       "housenumber": "7", 
+      "lat": 50.99122086063593, 
+      "lon": 3.5478598331030744, 
       "pcode": 9800, 
-      "street": "Neerstraat", 
-      "lon": 3.5478598331030744
+      "street": "Neerstraat"
     }
-  ], 
-  "name": "Neerstraat"
+  ]
 }

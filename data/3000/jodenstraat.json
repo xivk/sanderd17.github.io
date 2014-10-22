@@ -1,18 +1,16 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 3000, 
-      "street": "Jodenstraat", 
-      "housenumber": "2"
+      "street": "Jodenstraat"
     }, 
     {
-      "lat": 50.88039467323893, 
       "housenumber": "4", 
+      "lat": 50.88039467323893, 
+      "lon": 4.700649465050695, 
       "pcode": 3000, 
-      "street": "Jodenstraat", 
-      "lon": 4.700649465050695
+      "street": "Jodenstraat"
     }
-  ], 
-  "name": "Jodenstraat"
+  ]
 }

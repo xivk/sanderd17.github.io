@@ -1,20 +1,18 @@
 {
-  "pcode": 9402, 
   "addresses": [
     {
-      "lat": 50.817919544576675, 
       "housenumber": "1", 
+      "lat": 50.817919544576675, 
+      "lon": 3.9636101308968468, 
       "pcode": 9402, 
-      "street": "Molenveldweg", 
-      "lon": 3.9636101308968468
+      "street": "Molenveldweg"
     }, 
     {
-      "lat": 50.82542531561309, 
       "housenumber": "1A", 
+      "lat": 50.82542531561309, 
+      "lon": 4.025513047499067, 
       "pcode": 9402, 
-      "street": "Molenveldweg", 
-      "lon": 4.025513047499067
+      "street": "Molenveldweg"
     }
-  ], 
-  "name": "Molenveldweg"
+  ]
 }

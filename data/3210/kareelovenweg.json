@@ -1,27 +1,25 @@
 {
-  "pcode": 3210, 
   "addresses": [
     {
-      "lat": 50.89440685921265, 
       "housenumber": "1", 
+      "lat": 50.89440685921265, 
+      "lon": 4.842250211779092, 
       "pcode": 3210, 
-      "street": "Kareelovenweg", 
-      "lon": 4.842250211779092
+      "street": "Kareelovenweg"
     }, 
     {
-      "lat": 50.89455148314939, 
       "housenumber": "2", 
+      "lat": 50.89455148314939, 
+      "lon": 4.843410689374853, 
       "pcode": 3210, 
-      "street": "Kareelovenweg", 
-      "lon": 4.843410689374853
+      "street": "Kareelovenweg"
     }, 
     {
-      "lat": 50.89953647730134, 
       "housenumber": "3", 
+      "lat": 50.89953647730134, 
+      "lon": 4.847212369918184, 
       "pcode": 3210, 
-      "street": "Kareelovenweg", 
-      "lon": 4.847212369918184
+      "street": "Kareelovenweg"
     }
-  ], 
-  "name": "Kareelovenweg"
+  ]
 }

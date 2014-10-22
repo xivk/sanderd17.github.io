@@ -1,51 +1,49 @@
 {
-  "pcode": 9150, 
   "addresses": [
     {
-      "lat": 51.1849151733255, 
       "housenumber": "1", 
+      "lat": 51.1849151733255, 
+      "lon": 4.319816284071243, 
       "pcode": 9150, 
-      "street": "Haagstraat", 
-      "lon": 4.319816284071243
+      "street": "Haagstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9150, 
-      "street": "Haagstraat", 
-      "housenumber": "2"
+      "street": "Haagstraat"
     }, 
     {
-      "lat": 51.18393780610821, 
       "housenumber": "2A", 
+      "lat": 51.18393780610821, 
+      "lon": 4.319266526534159, 
       "pcode": 9150, 
-      "street": "Haagstraat", 
-      "lon": 4.319266526534159
+      "street": "Haagstraat"
     }, 
     {
-      "lat": 51.1843018872955, 
       "housenumber": "2B", 
+      "lat": 51.1843018872955, 
+      "lon": 4.319597381507314, 
       "pcode": 9150, 
-      "street": "Haagstraat", 
-      "lon": 4.319597381507314
+      "street": "Haagstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9150, 
-      "street": "Haagstraat", 
-      "housenumber": "3"
+      "street": "Haagstraat"
     }, 
     {
-      "lat": 51.18563585363953, 
       "housenumber": "33", 
+      "lat": 51.18563585363953, 
+      "lon": 4.311280398896681, 
       "pcode": 9150, 
-      "street": "Haagstraat", 
-      "lon": 4.311280398896681
+      "street": "Haagstraat"
     }, 
     {
-      "lat": 51.184999779213975, 
       "housenumber": "5", 
+      "lat": 51.184999779213975, 
+      "lon": 4.3196551530289, 
       "pcode": 9150, 
-      "street": "Haagstraat", 
-      "lon": 4.3196551530289
+      "street": "Haagstraat"
     }
-  ], 
-  "name": "Haagstraat"
+  ]
 }

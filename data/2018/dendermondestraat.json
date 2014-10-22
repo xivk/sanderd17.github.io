@@ -1,35 +1,33 @@
 {
-  "pcode": 2018, 
   "addresses": [
     {
-      "lat": 51.20439174550823, 
       "housenumber": "16", 
+      "lat": 51.20439174550823, 
+      "lon": 4.3940576359875525, 
       "pcode": 2018, 
-      "street": "Dendermondestraat", 
-      "lon": 4.3940576359875525
+      "street": "Dendermondestraat"
     }, 
     {
-      "lat": 51.204371787007815, 
       "housenumber": "16A", 
+      "lat": 51.204371787007815, 
+      "lon": 4.394076511698918, 
       "pcode": 2018, 
-      "street": "Dendermondestraat", 
-      "lon": 4.394076511698918
+      "street": "Dendermondestraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2018, 
-      "street": "Dendermondestraat", 
-      "housenumber": "3"
+      "street": "Dendermondestraat"
     }, 
     {
+      "housenumber": "62A", 
       "pcode": 2018, 
-      "street": "Dendermondestraat", 
-      "housenumber": "62A"
+      "street": "Dendermondestraat"
     }, 
     {
+      "housenumber": "62B", 
       "pcode": 2018, 
-      "street": "Dendermondestraat", 
-      "housenumber": "62B"
+      "street": "Dendermondestraat"
     }
-  ], 
-  "name": "Dendermondestraat"
+  ]
 }

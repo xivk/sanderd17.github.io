@@ -1,20 +1,18 @@
 {
-  "pcode": 9970, 
   "addresses": [
     {
-      "lat": 51.21774928220942, 
       "housenumber": "1", 
+      "lat": 51.21774928220942, 
+      "lon": 3.5859915834932266, 
       "pcode": 9970, 
-      "street": "Vlottestraat", 
-      "lon": 3.5859915834932266
+      "street": "Vlottestraat"
     }, 
     {
-      "lat": 51.21723454505126, 
       "housenumber": "3", 
+      "lat": 51.21723454505126, 
+      "lon": 3.5847103333572363, 
       "pcode": 9970, 
-      "street": "Vlottestraat", 
-      "lon": 3.5847103333572363
+      "street": "Vlottestraat"
     }
-  ], 
-  "name": "Vlottestraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 9120, 
   "addresses": [
     {
-      "lat": 51.22823375682957, 
       "housenumber": "1", 
+      "lat": 51.22823375682957, 
+      "lon": 4.183584757421929, 
       "pcode": 9120, 
-      "street": "Braderik", 
-      "lon": 4.183584757421929
+      "street": "Braderik"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9120, 
-      "street": "Braderik", 
-      "housenumber": "2"
+      "street": "Braderik"
     }
-  ], 
-  "name": "Braderik"
+  ]
 }

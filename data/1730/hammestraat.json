@@ -1,32 +1,30 @@
 {
-  "pcode": 1730, 
   "addresses": [
     {
-      "lat": 50.909954149173565, 
       "housenumber": "15", 
+      "lat": 50.909954149173565, 
+      "lon": 4.256864761336576, 
       "pcode": 1730, 
-      "street": "Hammestraat", 
-      "lon": 4.256864761336576
+      "street": "Hammestraat"
     }, 
     {
+      "housenumber": "22", 
       "pcode": 1730, 
-      "street": "Hammestraat", 
-      "housenumber": "22"
+      "street": "Hammestraat"
     }, 
     {
-      "lat": 50.91039806897569, 
       "housenumber": "35", 
+      "lat": 50.91039806897569, 
+      "lon": 4.25746274017548, 
       "pcode": 1730, 
-      "street": "Hammestraat", 
-      "lon": 4.25746274017548
+      "street": "Hammestraat"
     }, 
     {
-      "lat": 50.90960987944481, 
       "housenumber": "6", 
+      "lat": 50.90960987944481, 
+      "lon": 4.255567154396061, 
       "pcode": 1730, 
-      "street": "Hammestraat", 
-      "lon": 4.255567154396061
+      "street": "Hammestraat"
     }
-  ], 
-  "name": "Hammestraat"
+  ]
 }

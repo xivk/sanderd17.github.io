@@ -1,39 +1,37 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.9486026626148, 
       "housenumber": "100", 
+      "lat": 50.9486026626148, 
+      "lon": 5.341179928057658, 
       "pcode": 3500, 
-      "street": "Oude-Heidestraat", 
-      "lon": 5.341179928057658
+      "street": "Oude-Heidestraat"
     }, 
     {
+      "housenumber": "72", 
       "pcode": 3500, 
-      "street": "Oude-Heidestraat", 
-      "housenumber": "72"
+      "street": "Oude-Heidestraat"
     }, 
     {
-      "lat": 50.9488941524386, 
       "housenumber": "94", 
+      "lat": 50.9488941524386, 
+      "lon": 5.340860928592392, 
       "pcode": 3500, 
-      "street": "Oude-Heidestraat", 
-      "lon": 5.340860928592392
+      "street": "Oude-Heidestraat"
     }, 
     {
-      "lat": 50.948563009264305, 
       "housenumber": "96", 
+      "lat": 50.948563009264305, 
+      "lon": 5.340387840013131, 
       "pcode": 3500, 
-      "street": "Oude-Heidestraat", 
-      "lon": 5.340387840013131
+      "street": "Oude-Heidestraat"
     }, 
     {
-      "lat": 50.94874293799639, 
       "housenumber": "98", 
+      "lat": 50.94874293799639, 
+      "lon": 5.341208739703248, 
       "pcode": 3500, 
-      "street": "Oude-Heidestraat", 
-      "lon": 5.341208739703248
+      "street": "Oude-Heidestraat"
     }
-  ], 
-  "name": "Oude-Heidestraat"
+  ]
 }

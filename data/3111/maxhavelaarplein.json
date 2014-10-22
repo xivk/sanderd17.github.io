@@ -1,30 +1,28 @@
 {
-  "pcode": 3111, 
   "addresses": [
     {
-      "lat": 50.947538568802116, 
       "housenumber": "10", 
+      "lat": 50.947538568802116, 
+      "lon": 4.7505420132368235, 
       "pcode": 3111, 
-      "street": "Max Havelaarplein", 
-      "lon": 4.7505420132368235
+      "street": "Max Havelaarplein"
     }, 
     {
+      "housenumber": "13", 
       "pcode": 3111, 
-      "street": "Max Havelaarplein", 
-      "housenumber": "13"
+      "street": "Max Havelaarplein"
     }, 
     {
+      "housenumber": "18", 
       "pcode": 3111, 
-      "street": "Max Havelaarplein", 
-      "housenumber": "18"
+      "street": "Max Havelaarplein"
     }, 
     {
-      "lat": 50.94753969642619, 
       "housenumber": "9", 
+      "lat": 50.94753969642619, 
+      "lon": 4.750830750125162, 
       "pcode": 3111, 
-      "street": "Max Havelaarplein", 
-      "lon": 4.750830750125162
+      "street": "Max Havelaarplein"
     }
-  ], 
-  "name": "Max Havelaarplein"
+  ]
 }

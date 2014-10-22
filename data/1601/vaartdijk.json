@@ -1,18 +1,16 @@
 {
-  "pcode": 1601, 
   "addresses": [
     {
-      "lat": 50.784848591724185, 
       "housenumber": "1", 
+      "lat": 50.784848591724185, 
+      "lon": 4.289557229173943, 
       "pcode": 1601, 
-      "street": "Vaartdijk", 
-      "lon": 4.289557229173943
+      "street": "Vaartdijk"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 1601, 
-      "street": "Vaartdijk", 
-      "housenumber": "11"
+      "street": "Vaartdijk"
     }
-  ], 
-  "name": "Vaartdijk"
+  ]
 }

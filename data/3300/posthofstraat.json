@@ -1,20 +1,18 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.83337061518431, 
       "housenumber": "1", 
+      "lat": 50.83337061518431, 
+      "lon": 4.914041127531602, 
       "pcode": 3300, 
-      "street": "Posthofstraat", 
-      "lon": 4.914041127531602
+      "street": "Posthofstraat"
     }, 
     {
-      "lat": 50.834332270650386, 
       "housenumber": "20", 
+      "lat": 50.834332270650386, 
+      "lon": 4.914712549110891, 
       "pcode": 3300, 
-      "street": "Posthofstraat", 
-      "lon": 4.914712549110891
+      "street": "Posthofstraat"
     }
-  ], 
-  "name": "Posthofstraat"
+  ]
 }

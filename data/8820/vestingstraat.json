@@ -1,49 +1,47 @@
 {
-  "pcode": 8820, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8820, 
-      "street": "Vestingstraat", 
-      "housenumber": "1"
+      "street": "Vestingstraat"
     }, 
     {
-      "lat": 51.06811691242788, 
       "housenumber": "10", 
+      "lat": 51.06811691242788, 
+      "lon": 3.1017019120908644, 
       "pcode": 8820, 
-      "street": "Vestingstraat", 
-      "lon": 3.1017019120908644
+      "street": "Vestingstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8820, 
-      "street": "Vestingstraat", 
-      "housenumber": "2"
+      "street": "Vestingstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8820, 
-      "street": "Vestingstraat", 
-      "housenumber": "3"
+      "street": "Vestingstraat"
     }, 
     {
-      "lat": 51.06796822885835, 
       "housenumber": "4", 
+      "lat": 51.06796822885835, 
+      "lon": 3.1021466931036454, 
       "pcode": 8820, 
-      "street": "Vestingstraat", 
-      "lon": 3.1021466931036454
+      "street": "Vestingstraat"
     }, 
     {
-      "lat": 51.06802264860327, 
       "housenumber": "6", 
+      "lat": 51.06802264860327, 
+      "lon": 3.101990406307813, 
       "pcode": 8820, 
-      "street": "Vestingstraat", 
-      "lon": 3.101990406307813
+      "street": "Vestingstraat"
     }, 
     {
-      "lat": 51.06807801246938, 
       "housenumber": "8", 
+      "lat": 51.06807801246938, 
+      "lon": 3.101855068428634, 
       "pcode": 8820, 
-      "street": "Vestingstraat", 
-      "lon": 3.101855068428634
+      "street": "Vestingstraat"
     }
-  ], 
-  "name": "Vestingstraat"
+  ]
 }

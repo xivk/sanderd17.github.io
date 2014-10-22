@@ -1,39 +1,37 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.81883080031741, 
       "housenumber": "1", 
+      "lat": 50.81883080031741, 
+      "lon": 4.884213562597886, 
       "pcode": 3300, 
-      "street": "Druysstraat", 
-      "lon": 4.884213562597886
+      "street": "Druysstraat"
     }, 
     {
-      "lat": 50.81890521446123, 
       "housenumber": "2", 
+      "lat": 50.81890521446123, 
+      "lon": 4.884728529505537, 
       "pcode": 3300, 
-      "street": "Druysstraat", 
-      "lon": 4.884728529505537
+      "street": "Druysstraat"
     }, 
     {
+      "housenumber": "25", 
       "pcode": 3300, 
-      "street": "Druysstraat", 
-      "housenumber": "25"
+      "street": "Druysstraat"
     }, 
     {
-      "lat": 50.81864113492921, 
       "housenumber": "3", 
+      "lat": 50.81864113492921, 
+      "lon": 4.884168340030353, 
       "pcode": 3300, 
-      "street": "Druysstraat", 
-      "lon": 4.884168340030353
+      "street": "Druysstraat"
     }, 
     {
-      "lat": 50.818652593538175, 
       "housenumber": "4", 
+      "lat": 50.818652593538175, 
+      "lon": 4.884709860438907, 
       "pcode": 3300, 
-      "street": "Druysstraat", 
-      "lon": 4.884709860438907
+      "street": "Druysstraat"
     }
-  ], 
-  "name": "Druysstraat"
+  ]
 }

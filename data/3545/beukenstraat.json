@@ -1,20 +1,18 @@
 {
-  "pcode": 3545, 
   "addresses": [
     {
-      "lat": 50.978633153983985, 
       "housenumber": "3", 
+      "lat": 50.978633153983985, 
+      "lon": 5.12934803209459, 
       "pcode": 3545, 
-      "street": "Beukenstraat", 
-      "lon": 5.12934803209459
+      "street": "Beukenstraat"
     }, 
     {
-      "lat": 50.97873632027225, 
       "housenumber": "5", 
+      "lat": 50.97873632027225, 
+      "lon": 5.129742164247428, 
       "pcode": 3545, 
-      "street": "Beukenstraat", 
-      "lon": 5.129742164247428
+      "street": "Beukenstraat"
     }
-  ], 
-  "name": "Beukenstraat"
+  ]
 }

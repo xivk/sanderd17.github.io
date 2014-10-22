@@ -1,20 +1,18 @@
 {
-  "pcode": 3945, 
   "addresses": [
     {
-      "lat": 51.10698554561349, 
       "housenumber": "5", 
+      "lat": 51.10698554561349, 
+      "lon": 5.170344239051311, 
       "pcode": 3945, 
-      "street": "Abeelstraat", 
-      "lon": 5.170344239051311
+      "street": "Abeelstraat"
     }, 
     {
-      "lat": 51.10711863280642, 
       "housenumber": "6", 
+      "lat": 51.10711863280642, 
+      "lon": 5.170984806803859, 
       "pcode": 3945, 
-      "street": "Abeelstraat", 
-      "lon": 5.170984806803859
+      "street": "Abeelstraat"
     }
-  ], 
-  "name": "Abeelstraat"
+  ]
 }

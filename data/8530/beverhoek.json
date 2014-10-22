@@ -1,20 +1,18 @@
 {
-  "pcode": 8530, 
   "addresses": [
     {
-      "lat": 50.867530087401164, 
       "housenumber": "1", 
+      "lat": 50.867530087401164, 
+      "lon": 3.319410290711651, 
       "pcode": 8530, 
-      "street": "Beverhoek", 
-      "lon": 3.319410290711651
+      "street": "Beverhoek"
     }, 
     {
-      "lat": 50.86797440589184, 
       "housenumber": "2", 
+      "lat": 50.86797440589184, 
+      "lon": 3.3235644972467995, 
       "pcode": 8530, 
-      "street": "Beverhoek", 
-      "lon": 3.3235644972467995
+      "street": "Beverhoek"
     }
-  ], 
-  "name": "Beverhoek"
+  ]
 }

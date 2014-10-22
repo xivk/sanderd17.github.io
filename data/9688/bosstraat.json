@@ -1,20 +1,18 @@
 {
-  "pcode": 9688, 
   "addresses": [
     {
-      "lat": 50.776315136516175, 
       "housenumber": "2", 
+      "lat": 50.776315136516175, 
+      "lon": 3.6915823036602506, 
       "pcode": 9688, 
-      "street": "Bosstraat", 
-      "lon": 3.6915823036602506
+      "street": "Bosstraat"
     }, 
     {
-      "lat": 50.776275030231936, 
       "housenumber": "4", 
+      "lat": 50.776275030231936, 
+      "lon": 3.6906473703477123, 
       "pcode": 9688, 
-      "street": "Bosstraat", 
-      "lon": 3.6906473703477123
+      "street": "Bosstraat"
     }
-  ], 
-  "name": "Bosstraat"
+  ]
 }

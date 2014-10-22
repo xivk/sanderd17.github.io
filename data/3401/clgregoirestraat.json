@@ -1,32 +1,30 @@
 {
-  "pcode": 3401, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 3401, 
-      "street": "Cl. Gregoirestraat", 
-      "housenumber": "2"
+      "street": "Cl. Gregoirestraat"
     }, 
     {
-      "lat": 50.732522299120454, 
       "housenumber": "4", 
+      "lat": 50.732522299120454, 
+      "lon": 5.093750036222842, 
       "pcode": 3401, 
-      "street": "Cl. Gregoirestraat", 
-      "lon": 5.093750036222842
+      "street": "Cl. Gregoirestraat"
     }, 
     {
-      "lat": 50.73186391313991, 
       "housenumber": "6", 
+      "lat": 50.73186391313991, 
+      "lon": 5.093407435078302, 
       "pcode": 3401, 
-      "street": "Cl. Gregoirestraat", 
-      "lon": 5.093407435078302
+      "street": "Cl. Gregoirestraat"
     }, 
     {
-      "lat": 50.73368022108688, 
       "housenumber": "7", 
+      "lat": 50.73368022108688, 
+      "lon": 5.0927083970773825, 
       "pcode": 3401, 
-      "street": "Cl. Gregoirestraat", 
-      "lon": 5.0927083970773825
+      "street": "Cl. Gregoirestraat"
     }
-  ], 
-  "name": "Cl. Gregoirestraat"
+  ]
 }

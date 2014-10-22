@@ -1,46 +1,44 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2030, 
-      "street": "Romeynsweel", 
-      "housenumber": "1"
+      "street": "Romeynsweel"
     }, 
     {
-      "lat": 51.26781262735543, 
       "housenumber": "14", 
+      "lat": 51.26781262735543, 
+      "lon": 4.385054837290135, 
       "pcode": 2030, 
-      "street": "Romeynsweel", 
-      "lon": 4.385054837290135
+      "street": "Romeynsweel"
     }, 
     {
-      "lat": 51.26602694102429, 
       "housenumber": "1A", 
+      "lat": 51.26602694102429, 
+      "lon": 4.395165999152087, 
       "pcode": 2030, 
-      "street": "Romeynsweel", 
-      "lon": 4.395165999152087
+      "street": "Romeynsweel"
     }, 
     {
-      "lat": 51.2662064658615, 
       "housenumber": "3", 
+      "lat": 51.2662064658615, 
+      "lon": 4.391670123102077, 
       "pcode": 2030, 
-      "street": "Romeynsweel", 
-      "lon": 4.391670123102077
+      "street": "Romeynsweel"
     }, 
     {
-      "lat": 51.26828732298894, 
       "housenumber": "6", 
+      "lat": 51.26828732298894, 
+      "lon": 4.392144856365414, 
       "pcode": 2030, 
-      "street": "Romeynsweel", 
-      "lon": 4.392144856365414
+      "street": "Romeynsweel"
     }, 
     {
-      "lat": 51.269011040892515, 
       "housenumber": "8", 
+      "lat": 51.269011040892515, 
+      "lon": 4.389403555498831, 
       "pcode": 2030, 
-      "street": "Romeynsweel", 
-      "lon": 4.389403555498831
+      "street": "Romeynsweel"
     }
-  ], 
-  "name": "Romeynsweel"
+  ]
 }

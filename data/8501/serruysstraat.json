@@ -1,43 +1,41 @@
 {
-  "pcode": 8501, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8501, 
-      "street": "Serruysstraat", 
-      "housenumber": "1"
+      "street": "Serruysstraat"
     }, 
     {
-      "lat": 50.83823872995692, 
       "housenumber": "10", 
+      "lat": 50.83823872995692, 
+      "lon": 3.2586695731375945, 
       "pcode": 8501, 
-      "street": "Serruysstraat", 
-      "lon": 3.2586695731375945
+      "street": "Serruysstraat"
     }, 
     {
+      "housenumber": "16", 
       "pcode": 8501, 
-      "street": "Serruysstraat", 
-      "housenumber": "16"
+      "street": "Serruysstraat"
     }, 
     {
+      "housenumber": "17", 
       "pcode": 8501, 
-      "street": "Serruysstraat", 
-      "housenumber": "17"
+      "street": "Serruysstraat"
     }, 
     {
+      "housenumber": "18", 
       "pcode": 8501, 
-      "street": "Serruysstraat", 
-      "housenumber": "18"
+      "street": "Serruysstraat"
     }, 
     {
+      "housenumber": "19", 
       "pcode": 8501, 
-      "street": "Serruysstraat", 
-      "housenumber": "19"
+      "street": "Serruysstraat"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 8501, 
-      "street": "Serruysstraat", 
-      "housenumber": "9"
+      "street": "Serruysstraat"
     }
-  ], 
-  "name": "Serruysstraat"
+  ]
 }

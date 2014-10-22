@@ -1,39 +1,37 @@
 {
-  "pcode": 2260, 
   "addresses": [
     {
-      "lat": 51.1031453551278, 
       "housenumber": "1", 
+      "lat": 51.1031453551278, 
+      "lon": 4.869273809437908, 
       "pcode": 2260, 
-      "street": "Putstraat", 
-      "lon": 4.869273809437908
+      "street": "Putstraat"
     }, 
     {
+      "housenumber": "25", 
       "pcode": 2260, 
-      "street": "Putstraat", 
-      "housenumber": "25"
+      "street": "Putstraat"
     }, 
     {
-      "lat": 51.10313702707237, 
       "housenumber": "3", 
+      "lat": 51.10313702707237, 
+      "lon": 4.868334828698958, 
       "pcode": 2260, 
-      "street": "Putstraat", 
-      "lon": 4.868334828698958
+      "street": "Putstraat"
     }, 
     {
-      "lat": 51.10329939536028, 
       "housenumber": "7", 
+      "lat": 51.10329939536028, 
+      "lon": 4.867543731479495, 
       "pcode": 2260, 
-      "street": "Putstraat", 
-      "lon": 4.867543731479495
+      "street": "Putstraat"
     }, 
     {
-      "lat": 51.1035250085232, 
       "housenumber": "9", 
+      "lat": 51.1035250085232, 
+      "lon": 4.866696478417833, 
       "pcode": 2260, 
-      "street": "Putstraat", 
-      "lon": 4.866696478417833
+      "street": "Putstraat"
     }
-  ], 
-  "name": "Putstraat"
+  ]
 }

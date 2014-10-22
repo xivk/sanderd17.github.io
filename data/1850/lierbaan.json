@@ -1,25 +1,23 @@
 {
-  "pcode": 1850, 
   "addresses": [
     {
-      "lat": 50.935676092637735, 
       "housenumber": "16", 
+      "lat": 50.935676092637735, 
+      "lon": 4.375320273577344, 
       "pcode": 1850, 
-      "street": "Lierbaan", 
-      "lon": 4.375320273577344
+      "street": "Lierbaan"
     }, 
     {
+      "housenumber": "18", 
       "pcode": 1850, 
-      "street": "Lierbaan", 
-      "housenumber": "18"
+      "street": "Lierbaan"
     }, 
     {
-      "lat": 50.93612115618197, 
       "housenumber": "20", 
+      "lat": 50.93612115618197, 
+      "lon": 4.3752493527041105, 
       "pcode": 1850, 
-      "street": "Lierbaan", 
-      "lon": 4.3752493527041105
+      "street": "Lierbaan"
     }
-  ], 
-  "name": "Lierbaan"
+  ]
 }

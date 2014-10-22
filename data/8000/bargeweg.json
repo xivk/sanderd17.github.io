@@ -1,38 +1,36 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8000, 
-      "street": "Bargeweg", 
-      "housenumber": "1"
+      "street": "Bargeweg"
     }, 
     {
+      "housenumber": "13", 
       "pcode": 8000, 
-      "street": "Bargeweg", 
-      "housenumber": "13"
+      "street": "Bargeweg"
     }, 
     {
+      "housenumber": "15", 
       "pcode": 8000, 
-      "street": "Bargeweg", 
-      "housenumber": "15"
+      "street": "Bargeweg"
     }, 
     {
+      "housenumber": "17", 
       "pcode": 8000, 
-      "street": "Bargeweg", 
-      "housenumber": "17"
+      "street": "Bargeweg"
     }, 
     {
-      "lat": 51.19933354835765, 
       "housenumber": "2", 
+      "lat": 51.19933354835765, 
+      "lon": 3.228787878331404, 
       "pcode": 8000, 
-      "street": "Bargeweg", 
-      "lon": 3.228787878331404
+      "street": "Bargeweg"
     }, 
     {
+      "housenumber": "501", 
       "pcode": 8000, 
-      "street": "Bargeweg", 
-      "housenumber": "501"
+      "street": "Bargeweg"
     }
-  ], 
-  "name": "Bargeweg"
+  ]
 }

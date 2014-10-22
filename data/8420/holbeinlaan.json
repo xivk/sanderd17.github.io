@@ -1,37 +1,35 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
-      "lat": 51.27661736389445, 
       "housenumber": "2", 
+      "lat": 51.27661736389445, 
+      "lon": 3.0304048979040275, 
       "pcode": 8420, 
-      "street": "Holbeinlaan", 
-      "lon": 3.0304048979040275
+      "street": "Holbeinlaan"
     }, 
     {
+      "housenumber": "20", 
       "pcode": 8420, 
-      "street": "Holbeinlaan", 
-      "housenumber": "20"
+      "street": "Holbeinlaan"
     }, 
     {
-      "lat": 51.2763495253608, 
       "housenumber": "3", 
+      "lat": 51.2763495253608, 
+      "lon": 3.030783520660666, 
       "pcode": 8420, 
-      "street": "Holbeinlaan", 
-      "lon": 3.030783520660666
+      "street": "Holbeinlaan"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8420, 
-      "street": "Holbeinlaan", 
-      "housenumber": "4"
+      "street": "Holbeinlaan"
     }, 
     {
-      "lat": 51.276476283176805, 
       "housenumber": "5", 
+      "lat": 51.276476283176805, 
+      "lon": 3.030879349336548, 
       "pcode": 8420, 
-      "street": "Holbeinlaan", 
-      "lon": 3.030879349336548
+      "street": "Holbeinlaan"
     }
-  ], 
-  "name": "Holbeinlaan"
+  ]
 }

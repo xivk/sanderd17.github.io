@@ -1,25 +1,23 @@
 {
-  "pcode": 1850, 
   "addresses": [
     {
-      "lat": 50.94371171988223, 
       "housenumber": "15", 
+      "lat": 50.94371171988223, 
+      "lon": 4.4109756518388465, 
       "pcode": 1850, 
-      "street": "Industrieweg", 
-      "lon": 4.4109756518388465
+      "street": "Industrieweg"
     }, 
     {
-      "lat": 50.94292216613851, 
       "housenumber": "16", 
+      "lat": 50.94292216613851, 
+      "lon": 4.412261467123122, 
       "pcode": 1850, 
-      "street": "Industrieweg", 
-      "lon": 4.412261467123122
+      "street": "Industrieweg"
     }, 
     {
+      "housenumber": "17", 
       "pcode": 1850, 
-      "street": "Industrieweg", 
-      "housenumber": "17"
+      "street": "Industrieweg"
     }
-  ], 
-  "name": "Industrieweg"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3200, 
   "addresses": [
     {
-      "lat": 51.00467968767697, 
       "housenumber": "6", 
+      "lat": 51.00467968767697, 
+      "lon": 4.835840555651073, 
       "pcode": 3200, 
-      "street": "Ourodenbergstraat", 
-      "lon": 4.835840555651073
+      "street": "Ourodenbergstraat"
     }, 
     {
-      "lat": 51.00453764783771, 
       "housenumber": "8", 
+      "lat": 51.00453764783771, 
+      "lon": 4.835820330722536, 
       "pcode": 3200, 
-      "street": "Ourodenbergstraat", 
-      "lon": 4.835820330722536
+      "street": "Ourodenbergstraat"
     }
-  ], 
-  "name": "Ourodenbergstraat"
+  ]
 }

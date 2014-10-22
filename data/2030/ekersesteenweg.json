@@ -1,30 +1,28 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.27305965428153, 
       "housenumber": "2", 
+      "lat": 51.27305965428153, 
+      "lon": 4.416832141769621, 
       "pcode": 2030, 
-      "street": "Ekerse Steenweg", 
-      "lon": 4.416832141769621
+      "street": "Ekerse Steenweg"
     }, 
     {
-      "lat": 51.27179325194012, 
       "housenumber": "4", 
+      "lat": 51.27179325194012, 
+      "lon": 4.41696407459096, 
       "pcode": 2030, 
-      "street": "Ekerse Steenweg", 
-      "lon": 4.41696407459096
+      "street": "Ekerse Steenweg"
     }, 
     {
+      "housenumber": "4A", 
       "pcode": 2030, 
-      "street": "Ekerse Steenweg", 
-      "housenumber": "4A"
+      "street": "Ekerse Steenweg"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2030, 
-      "street": "Ekerse Steenweg", 
-      "housenumber": "6"
+      "street": "Ekerse Steenweg"
     }
-  ], 
-  "name": "Ekerse Steenweg"
+  ]
 }

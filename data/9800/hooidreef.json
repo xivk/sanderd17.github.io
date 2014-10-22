@@ -1,34 +1,32 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 50.99602289752278, 
       "housenumber": "1", 
+      "lat": 50.99602289752278, 
+      "lon": 3.5759678966482875, 
       "pcode": 9800, 
-      "street": "Hooidreef", 
-      "lon": 3.5759678966482875
+      "street": "Hooidreef"
     }, 
     {
-      "lat": 50.996364805978665, 
       "housenumber": "2", 
+      "lat": 50.996364805978665, 
+      "lon": 3.57717554815386, 
       "pcode": 9800, 
-      "street": "Hooidreef", 
-      "lon": 3.57717554815386
+      "street": "Hooidreef"
     }, 
     {
-      "lat": 50.99518118808479, 
       "housenumber": "3", 
+      "lat": 50.99518118808479, 
+      "lon": 3.5779449632317473, 
       "pcode": 9800, 
-      "street": "Hooidreef", 
-      "lon": 3.5779449632317473
+      "street": "Hooidreef"
     }, 
     {
-      "lat": 50.99563255669692, 
       "housenumber": "5", 
+      "lat": 50.99563255669692, 
+      "lon": 3.578293056331052, 
       "pcode": 9800, 
-      "street": "Hooidreef", 
-      "lon": 3.578293056331052
+      "street": "Hooidreef"
     }
-  ], 
-  "name": "Hooidreef"
+  ]
 }

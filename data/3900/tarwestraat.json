@@ -1,32 +1,30 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
-      "lat": 51.217940756199475, 
       "housenumber": "10", 
+      "lat": 51.217940756199475, 
+      "lon": 5.42239564801814, 
       "pcode": 3900, 
-      "street": "Tarwestraat", 
-      "lon": 5.42239564801814
+      "street": "Tarwestraat"
     }, 
     {
-      "lat": 51.21837764955915, 
       "housenumber": "4", 
+      "lat": 51.21837764955915, 
+      "lon": 5.42257557668466, 
       "pcode": 3900, 
-      "street": "Tarwestraat", 
-      "lon": 5.42257557668466
+      "street": "Tarwestraat"
     }, 
     {
-      "lat": 51.218295330576424, 
       "housenumber": "6", 
+      "lat": 51.218295330576424, 
+      "lon": 5.422260526375647, 
       "pcode": 3900, 
-      "street": "Tarwestraat", 
-      "lon": 5.422260526375647
+      "street": "Tarwestraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3900, 
-      "street": "Tarwestraat", 
-      "housenumber": "8"
+      "street": "Tarwestraat"
     }
-  ], 
-  "name": "Tarwestraat"
+  ]
 }

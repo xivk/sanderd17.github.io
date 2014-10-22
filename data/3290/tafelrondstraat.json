@@ -1,35 +1,33 @@
 {
-  "pcode": 3290, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3290, 
-      "street": "Tafelrondstraat", 
-      "housenumber": "1"
+      "street": "Tafelrondstraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 3290, 
-      "street": "Tafelrondstraat", 
-      "housenumber": "1A"
+      "street": "Tafelrondstraat"
     }, 
     {
-      "lat": 50.983536565886716, 
       "housenumber": "2", 
+      "lat": 50.983536565886716, 
+      "lon": 5.049948788291788, 
       "pcode": 3290, 
-      "street": "Tafelrondstraat", 
-      "lon": 5.049948788291788
+      "street": "Tafelrondstraat"
     }, 
     {
-      "lat": 50.98356632869675, 
       "housenumber": "4", 
+      "lat": 50.98356632869675, 
+      "lon": 5.049931989221161, 
       "pcode": 3290, 
-      "street": "Tafelrondstraat", 
-      "lon": 5.049931989221161
+      "street": "Tafelrondstraat"
     }, 
     {
+      "housenumber": "B1", 
       "pcode": 3290, 
-      "street": "Tafelrondstraat", 
-      "housenumber": "B1"
+      "street": "Tafelrondstraat"
     }
-  ], 
-  "name": "Tafelrondstraat"
+  ]
 }

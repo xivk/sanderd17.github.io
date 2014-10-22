@@ -1,18 +1,16 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.198460298709996, 
       "housenumber": "1", 
+      "lat": 51.198460298709996, 
+      "lon": 3.2234287920959015, 
       "pcode": 8000, 
-      "street": "Begijnenvest", 
-      "lon": 3.2234287920959015
+      "street": "Begijnenvest"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8000, 
-      "street": "Begijnenvest", 
-      "housenumber": "2"
+      "street": "Begijnenvest"
     }
-  ], 
-  "name": "Begijnenvest"
+  ]
 }

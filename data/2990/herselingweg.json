@@ -1,18 +1,16 @@
 {
-  "pcode": 2990, 
   "addresses": [
     {
+      "housenumber": "25", 
       "pcode": 2990, 
-      "street": "Herselingweg", 
-      "housenumber": "25"
+      "street": "Herselingweg"
     }, 
     {
-      "lat": 51.40723269903743, 
       "housenumber": "41", 
+      "lat": 51.40723269903743, 
+      "lon": 4.690291305612101, 
       "pcode": 2990, 
-      "street": "Herselingweg", 
-      "lon": 4.690291305612101
+      "street": "Herselingweg"
     }
-  ], 
-  "name": "Herselingweg"
+  ]
 }

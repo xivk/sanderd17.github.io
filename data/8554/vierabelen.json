@@ -1,49 +1,47 @@
 {
-  "pcode": 8554, 
   "addresses": [
     {
-      "lat": 50.74582491102278, 
       "housenumber": "1", 
+      "lat": 50.74582491102278, 
+      "lon": 3.3774851017386647, 
       "pcode": 8554, 
-      "street": "Vierabelen", 
-      "lon": 3.3774851017386647
+      "street": "Vierabelen"
     }, 
     {
+      "housenumber": "13", 
       "lat": 50.74728084255512, 
+      "lon": 3.3815190459168094, 
+      "pcode": 8554, 
+      "street": "Vierabelen"
+    }, 
+    {
       "housenumber": "13", 
       "pcode": 8554, 
-      "street": "Vierabelen", 
-      "lon": 3.3815190459168094
+      "street": "Vierabelen"
     }, 
     {
+      "housenumber": "13A", 
       "pcode": 8554, 
-      "street": "Vierabelen", 
-      "housenumber": "13"
+      "street": "Vierabelen"
     }, 
     {
-      "pcode": 8554, 
-      "street": "Vierabelen", 
-      "housenumber": "13A"
-    }, 
-    {
-      "lat": 50.746208759675916, 
       "housenumber": "3", 
+      "lat": 50.746208759675916, 
+      "lon": 3.3778087569919353, 
       "pcode": 8554, 
-      "street": "Vierabelen", 
-      "lon": 3.3778087569919353
+      "street": "Vierabelen"
     }, 
     {
+      "housenumber": "5", 
       "lat": 50.74636675222101, 
+      "lon": 3.3781628121028824, 
+      "pcode": 8554, 
+      "street": "Vierabelen"
+    }, 
+    {
       "housenumber": "5", 
       "pcode": 8554, 
-      "street": "Vierabelen", 
-      "lon": 3.3781628121028824
-    }, 
-    {
-      "pcode": 8554, 
-      "street": "Vierabelen", 
-      "housenumber": "5"
+      "street": "Vierabelen"
     }
-  ], 
-  "name": "Vierabelen"
+  ]
 }

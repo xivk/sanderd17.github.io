@@ -1,18 +1,16 @@
 {
-  "pcode": 2275, 
   "addresses": [
     {
-      "lat": 51.214302763498004, 
       "housenumber": "10", 
+      "lat": 51.214302763498004, 
+      "lon": 4.8529408142455, 
       "pcode": 2275, 
-      "street": "Hulzen", 
-      "lon": 4.8529408142455
+      "street": "Hulzen"
     }, 
     {
+      "housenumber": "32", 
       "pcode": 2275, 
-      "street": "Hulzen", 
-      "housenumber": "32"
+      "street": "Hulzen"
     }
-  ], 
-  "name": "Hulzen"
+  ]
 }

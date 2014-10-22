@@ -1,39 +1,37 @@
 {
-  "pcode": 8670, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8670, 
-      "street": "Kunstweg", 
-      "housenumber": "1"
+      "street": "Kunstweg"
     }, 
     {
-      "lat": 51.115682453786214, 
       "housenumber": "3", 
+      "lat": 51.115682453786214, 
+      "lon": 2.6396103761228593, 
       "pcode": 8670, 
-      "street": "Kunstweg", 
-      "lon": 2.6396103761228593
+      "street": "Kunstweg"
     }, 
     {
-      "lat": 51.1157331561569, 
       "housenumber": "5", 
+      "lat": 51.1157331561569, 
+      "lon": 2.639787776643293, 
       "pcode": 8670, 
-      "street": "Kunstweg", 
-      "lon": 2.639787776643293
+      "street": "Kunstweg"
     }, 
     {
-      "lat": 51.11581476177672, 
       "housenumber": "7", 
+      "lat": 51.11581476177672, 
+      "lon": 2.6400431733552203, 
       "pcode": 8670, 
-      "street": "Kunstweg", 
-      "lon": 2.6400431733552203
+      "street": "Kunstweg"
     }, 
     {
-      "lat": 51.11595067414868, 
       "housenumber": "9", 
+      "lat": 51.11595067414868, 
+      "lon": 2.6403661308711683, 
       "pcode": 8670, 
-      "street": "Kunstweg", 
-      "lon": 2.6403661308711683
+      "street": "Kunstweg"
     }
-  ], 
-  "name": "Kunstweg"
+  ]
 }

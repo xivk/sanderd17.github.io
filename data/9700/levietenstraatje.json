@@ -1,25 +1,23 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.84181849850846, 
       "housenumber": "3", 
+      "lat": 50.84181849850846, 
+      "lon": 3.6049024868804564, 
       "pcode": 9700, 
-      "street": "Levietenstraatje", 
-      "lon": 3.6049024868804564
+      "street": "Levietenstraatje"
     }, 
     {
-      "lat": 50.84175796616765, 
       "housenumber": "4", 
+      "lat": 50.84175796616765, 
+      "lon": 3.6048979320787717, 
       "pcode": 9700, 
-      "street": "Levietenstraatje", 
-      "lon": 3.6048979320787717
+      "street": "Levietenstraatje"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9700, 
-      "street": "Levietenstraatje", 
-      "housenumber": "5"
+      "street": "Levietenstraatje"
     }
-  ], 
-  "name": "Levietenstraatje"
+  ]
 }

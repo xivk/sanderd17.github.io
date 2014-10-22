@@ -1,32 +1,30 @@
 {
-  "pcode": 3530, 
   "addresses": [
     {
-      "lat": 51.02200528898763, 
       "housenumber": "2", 
+      "lat": 51.02200528898763, 
+      "lon": 5.494870384636814, 
       "pcode": 3530, 
-      "street": "Forelstraat", 
-      "lon": 5.494870384636814
+      "street": "Forelstraat"
     }, 
     {
-      "lat": 51.0255428306703, 
       "housenumber": "209", 
+      "lat": 51.0255428306703, 
+      "lon": 5.493427928715304, 
       "pcode": 3530, 
-      "street": "Forelstraat", 
-      "lon": 5.493427928715304
+      "street": "Forelstraat"
     }, 
     {
-      "lat": 51.0233556101535, 
       "housenumber": "6", 
+      "lat": 51.0233556101535, 
+      "lon": 5.493816540573452, 
       "pcode": 3530, 
-      "street": "Forelstraat", 
-      "lon": 5.493816540573452
+      "street": "Forelstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3530, 
-      "street": "Forelstraat", 
-      "housenumber": "7"
+      "street": "Forelstraat"
     }
-  ], 
-  "name": "Forelstraat"
+  ]
 }

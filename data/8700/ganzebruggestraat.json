@@ -1,20 +1,18 @@
 {
-  "pcode": 8700, 
   "addresses": [
     {
-      "lat": 51.01569640059022, 
       "housenumber": "3", 
+      "lat": 51.01569640059022, 
+      "lon": 3.3289048848527085, 
       "pcode": 8700, 
-      "street": "Ganzebruggestraat", 
-      "lon": 3.3289048848527085
+      "street": "Ganzebruggestraat"
     }, 
     {
-      "lat": 51.01733937771721, 
       "housenumber": "7", 
+      "lat": 51.01733937771721, 
+      "lon": 3.3265933074267044, 
       "pcode": 8700, 
-      "street": "Ganzebruggestraat", 
-      "lon": 3.3265933074267044
+      "street": "Ganzebruggestraat"
     }
-  ], 
-  "name": "Ganzebruggestraat"
+  ]
 }

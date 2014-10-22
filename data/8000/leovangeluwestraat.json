@@ -1,34 +1,32 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.22068865912418, 
       "housenumber": "2", 
+      "lat": 51.22068865912418, 
+      "lon": 3.2054122729104635, 
       "pcode": 8000, 
-      "street": "Leo Van Geluwestraat", 
-      "lon": 3.2054122729104635
+      "street": "Leo Van Geluwestraat"
     }, 
     {
-      "lat": 51.22061791712305, 
       "housenumber": "4", 
+      "lat": 51.22061791712305, 
+      "lon": 3.205376245487484, 
       "pcode": 8000, 
-      "street": "Leo Van Geluwestraat", 
-      "lon": 3.205376245487484
+      "street": "Leo Van Geluwestraat"
     }, 
     {
-      "lat": 51.22058923056553, 
       "housenumber": "6", 
+      "lat": 51.22058923056553, 
+      "lon": 3.2053020937037, 
       "pcode": 8000, 
-      "street": "Leo Van Geluwestraat", 
-      "lon": 3.2053020937037
+      "street": "Leo Van Geluwestraat"
     }, 
     {
-      "lat": 51.22055085739813, 
       "housenumber": "8", 
+      "lat": 51.22055085739813, 
+      "lon": 3.2052301876864173, 
       "pcode": 8000, 
-      "street": "Leo Van Geluwestraat", 
-      "lon": 3.2052301876864173
+      "street": "Leo Van Geluwestraat"
     }
-  ], 
-  "name": "Leo Van Geluwestraat"
+  ]
 }

@@ -1,28 +1,26 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3000, 
-      "street": "Baron D'Eynattenstraat", 
-      "housenumber": "1"
+      "street": "Baron D'Eynattenstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3000, 
-      "street": "Baron D'Eynattenstraat", 
-      "housenumber": "4"
+      "street": "Baron D'Eynattenstraat"
     }, 
     {
-      "lat": 50.88790829134983, 
       "housenumber": "6", 
+      "lat": 50.88790829134983, 
+      "lon": 4.703552733785805, 
       "pcode": 3000, 
-      "street": "Baron D'Eynattenstraat", 
-      "lon": 4.703552733785805
+      "street": "Baron D'Eynattenstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3000, 
-      "street": "Baron D'Eynattenstraat", 
-      "housenumber": "7"
+      "street": "Baron D'Eynattenstraat"
     }
-  ], 
-  "name": "Baron D'Eynattenstraat"
+  ]
 }

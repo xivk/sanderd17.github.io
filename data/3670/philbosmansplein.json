@@ -1,32 +1,30 @@
 {
-  "pcode": 3670, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3670, 
-      "street": "Phil Bosmansplein", 
-      "housenumber": "1"
+      "street": "Phil Bosmansplein"
     }, 
     {
-      "lat": 51.088679131736406, 
       "housenumber": "3", 
+      "lat": 51.088679131736406, 
+      "lon": 5.589474640697408, 
       "pcode": 3670, 
-      "street": "Phil Bosmansplein", 
-      "lon": 5.589474640697408
+      "street": "Phil Bosmansplein"
     }, 
     {
-      "lat": 51.08870043469679, 
       "housenumber": "5", 
+      "lat": 51.08870043469679, 
+      "lon": 5.589492326861964, 
       "pcode": 3670, 
-      "street": "Phil Bosmansplein", 
-      "lon": 5.589492326861964
+      "street": "Phil Bosmansplein"
     }, 
     {
-      "lat": 51.08856945450603, 
       "housenumber": "7", 
+      "lat": 51.08856945450603, 
+      "lon": 5.589274927573401, 
       "pcode": 3670, 
-      "street": "Phil Bosmansplein", 
-      "lon": 5.589274927573401
+      "street": "Phil Bosmansplein"
     }
-  ], 
-  "name": "Phil Bosmansplein"
+  ]
 }

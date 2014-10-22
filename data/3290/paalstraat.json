@@ -1,20 +1,18 @@
 {
-  "pcode": 3290, 
   "addresses": [
     {
-      "lat": 50.98583145686374, 
       "housenumber": "3", 
+      "lat": 50.98583145686374, 
+      "lon": 5.053868559870135, 
       "pcode": 3290, 
-      "street": "Paalstraat", 
-      "lon": 5.053868559870135
+      "street": "Paalstraat"
     }, 
     {
-      "lat": 50.98597562275139, 
       "housenumber": "4", 
+      "lat": 50.98597562275139, 
+      "lon": 5.053842185242204, 
       "pcode": 3290, 
-      "street": "Paalstraat", 
-      "lon": 5.053842185242204
+      "street": "Paalstraat"
     }
-  ], 
-  "name": "Paalstraat"
+  ]
 }

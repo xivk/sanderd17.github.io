@@ -1,581 +1,579 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.04609636971298, 
       "housenumber": "1", 
+      "lat": 51.04609636971298, 
+      "lon": 3.722565021746303, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.722565021746303
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04592636762295, 
       "housenumber": "10", 
-      "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.722365582872379
-    }, 
-    {
-      "lat": 51.045933297126, 
-      "housenumber": "11", 
-      "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7226950431176165
-    }, 
-    {
-      "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "12"
-    }, 
-    {
-      "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "13"
-    }, 
-    {
       "lat": 51.04592636762295, 
+      "lon": 3.722365582872379, 
+      "pcode": 9000, 
+      "street": "Sint-Kwintensberg"
+    }, 
+    {
+      "housenumber": "11", 
+      "lat": 51.045933297126, 
+      "lon": 3.7226950431176165, 
+      "pcode": 9000, 
+      "street": "Sint-Kwintensberg"
+    }, 
+    {
+      "housenumber": "12", 
+      "pcode": 9000, 
+      "street": "Sint-Kwintensberg"
+    }, 
+    {
+      "housenumber": "13", 
+      "pcode": 9000, 
+      "street": "Sint-Kwintensberg"
+    }, 
+    {
       "housenumber": "14", 
+      "lat": 51.04592636762295, 
+      "lon": 3.722365582872379, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.722365582872379
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.045944831073854, 
       "housenumber": "15", 
+      "lat": 51.045944831073854, 
+      "lon": 3.7228313553111265, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7228313553111265
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.045828182963895, 
       "housenumber": "16", 
+      "lat": 51.045828182963895, 
+      "lon": 3.7224272583620435, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7224272583620435
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.045838956824404, 
       "housenumber": "17", 
+      "lat": 51.045838956824404, 
+      "lon": 3.7228349538804197, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7228349538804197
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "17A", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "17A"
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.045826601319995, 
       "housenumber": "17B", 
+      "lat": 51.045826601319995, 
+      "lon": 3.7227291703225713, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7227291703225713
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04576778176102, 
       "housenumber": "18", 
+      "lat": 51.04576778176102, 
+      "lon": 3.722461317954332, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.722461317954332
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "19", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "19"
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "2"
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.045693559122775, 
       "housenumber": "20", 
+      "lat": 51.045693559122775, 
+      "lon": 3.722548616186114, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.722548616186114
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "20A", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "20A"
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.0457077148044, 
       "housenumber": "21", 
+      "lat": 51.0457077148044, 
+      "lon": 3.7229173334772905, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7229173334772905
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.045692585221914, 
       "housenumber": "22", 
+      "lat": 51.045692585221914, 
+      "lon": 3.72255133906323, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.72255133906323
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04562512826349, 
       "housenumber": "24", 
+      "lat": 51.04562512826349, 
+      "lon": 3.7226101658791824, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7226101658791824
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04562694864789, 
       "housenumber": "24A", 
+      "lat": 51.04562694864789, 
+      "lon": 3.722614276239591, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.722614276239591
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04557046718743, 
       "housenumber": "26", 
+      "lat": 51.04557046718743, 
+      "lon": 3.722658263534594, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.722658263534594
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "27", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "27"
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04552487846224, 
       "housenumber": "28", 
+      "lat": 51.04552487846224, 
+      "lon": 3.722655897521461, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.722655897521461
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04553173587258, 
       "housenumber": "29", 
+      "lat": 51.04553173587258, 
+      "lon": 3.7231529131995265, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7231529131995265
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.045491901862654, 
       "housenumber": "30", 
+      "lat": 51.045491901862654, 
+      "lon": 3.7226912896772864, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7226912896772864
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "31", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "31"
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04544044954133, 
       "housenumber": "32", 
+      "lat": 51.04544044954133, 
+      "lon": 3.7226359566793774, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7226359566793774
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "33", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "33"
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.0454259643024, 
       "housenumber": "34", 
+      "lat": 51.0454259643024, 
+      "lon": 3.7227485264728033, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7227485264728033
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "35", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "35"
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04538957434049, 
       "housenumber": "36", 
+      "lat": 51.04538957434049, 
+      "lon": 3.722784393350414, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.722784393350414
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "37", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "37"
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04535292993541, 
       "housenumber": "38", 
+      "lat": 51.04535292993541, 
+      "lon": 3.722691779853229, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.722691779853229
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "39", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "39"
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04605240288322, 
       "housenumber": "4", 
+      "lat": 51.04605240288322, 
+      "lon": 3.7222845566085994, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7222845566085994
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.045342900253914, 
       "housenumber": "40", 
+      "lat": 51.045342900253914, 
+      "lon": 3.7226659647031335, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7226659647031335
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.045543123518605, 
       "housenumber": "41", 
+      "lat": 51.045543123518605, 
+      "lon": 3.723114824180126, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.723114824180126
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "43", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "43"
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04527829657632, 
       "housenumber": "44", 
+      "lat": 51.04527829657632, 
+      "lon": 3.722835410053261, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.722835410053261
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "45", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "45"
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.045226593901724, 
       "housenumber": "46", 
+      "lat": 51.045226593901724, 
+      "lon": 3.7228656411869574, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7228656411869574
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "47", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "47"
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.045160818458754, 
       "housenumber": "48", 
+      "lat": 51.045160818458754, 
+      "lon": 3.723001733403898, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.723001733403898
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "49", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "49"
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "51", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "51"
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.045018451966655, 
       "housenumber": "52", 
+      "lat": 51.045018451966655, 
+      "lon": 3.7231374545563902, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7231374545563902
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "53", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "53"
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.044991025197284, 
       "housenumber": "54", 
+      "lat": 51.044991025197284, 
+      "lon": 3.7232178312022524, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7232178312022524
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "55", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "55"
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "56", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "56"
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "57", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "57"
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04478343798535, 
       "housenumber": "58", 
+      "lat": 51.04478343798535, 
+      "lon": 3.723509027534528, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.723509027534528
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.045512729158645, 
       "housenumber": "59", 
+      "lat": 51.045512729158645, 
+      "lon": 3.7230308227027633, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7230308227027633
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "6"
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04474268611039, 
       "housenumber": "60", 
+      "lat": 51.04474268611039, 
+      "lon": 3.723569195301448, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.723569195301448
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "61", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "61"
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04469511615151, 
       "housenumber": "62", 
+      "lat": 51.04469511615151, 
+      "lon": 3.7235497438022014, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7235497438022014
+      "street": "Sint-Kwintensberg"
     }, 
     {
+      "housenumber": "63", 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "housenumber": "63"
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04459650155648, 
       "housenumber": "64", 
+      "lat": 51.04459650155648, 
+      "lon": 3.723549390512336, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.723549390512336
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04539790052117, 
       "housenumber": "65", 
+      "lat": 51.04539790052117, 
+      "lon": 3.7231885537995524, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7231885537995524
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04539790130184, 
       "housenumber": "65A", 
+      "lat": 51.04539790130184, 
+      "lon": 3.723188696390286, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.723188696390286
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04456985806709, 
       "housenumber": "66", 
+      "lat": 51.04456985806709, 
+      "lon": 3.723592251877277, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.723592251877277
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04535588416617, 
       "housenumber": "67", 
+      "lat": 51.04535588416617, 
+      "lon": 3.7232475992468186, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7232475992468186
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.044500608639616, 
       "housenumber": "68", 
+      "lat": 51.044500608639616, 
+      "lon": 3.7236193009312704, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7236193009312704
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.045321633488065, 
       "housenumber": "69", 
+      "lat": 51.045321633488065, 
+      "lon": 3.7232637572370657, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7232637572370657
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04601640315423, 
       "housenumber": "7", 
+      "lat": 51.04601640315423, 
+      "lon": 3.722834504150384, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.722834504150384
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.045270559368646, 
       "housenumber": "71", 
+      "lat": 51.045270559368646, 
+      "lon": 3.7232610384110085, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7232610384110085
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04452650422898, 
       "housenumber": "72", 
+      "lat": 51.04452650422898, 
+      "lon": 3.723784786831092, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.723784786831092
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.045216955455146, 
       "housenumber": "73", 
+      "lat": 51.045216955455146, 
+      "lon": 3.7233216692582514, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7233216692582514
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04447915015499, 
       "housenumber": "74", 
+      "lat": 51.04447915015499, 
+      "lon": 3.7238212309146745, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7238212309146745
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04499653542272, 
       "housenumber": "75", 
+      "lat": 51.04499653542272, 
+      "lon": 3.723682632148408, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.723682632148408
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.044425098868025, 
       "housenumber": "76", 
+      "lat": 51.044425098868025, 
+      "lon": 3.7238165561276313, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7238165561276313
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.044970213028726, 
       "housenumber": "77", 
+      "lat": 51.044970213028726, 
+      "lon": 3.7237349009947796, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7237349009947796
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04436782609711, 
       "housenumber": "78", 
+      "lat": 51.04436782609711, 
+      "lon": 3.7238474326793543, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7238474326793543
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04493616682331, 
       "housenumber": "79", 
+      "lat": 51.04493616682331, 
+      "lon": 3.723772017890648, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.723772017890648
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04604161966528, 
       "housenumber": "8", 
+      "lat": 51.04604161966528, 
+      "lon": 3.7222852758008678, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7222852758008678
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.044367609780345, 
       "housenumber": "80", 
+      "lat": 51.044367609780345, 
+      "lon": 3.723955810395255, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.723955810395255
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.044893260469, 
       "housenumber": "81", 
+      "lat": 51.044893260469, 
+      "lon": 3.7237834460963284, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7237834460963284
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04431979608332, 
       "housenumber": "82", 
+      "lat": 51.04431979608332, 
+      "lon": 3.723990406729342, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.723990406729342
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04489486413328, 
       "housenumber": "83", 
+      "lat": 51.04489486413328, 
+      "lon": 3.72392873336852, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.72392873336852
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04424739305083, 
       "housenumber": "84", 
+      "lat": 51.04424739305083, 
+      "lon": 3.7239339360288644, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7239339360288644
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.044852642333524, 
       "housenumber": "85", 
+      "lat": 51.044852642333524, 
+      "lon": 3.724065354638476, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.724065354638476
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04421304224794, 
       "housenumber": "86", 
+      "lat": 51.04421304224794, 
+      "lon": 3.724063317217572, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.724063317217572
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04471059014927, 
       "housenumber": "87", 
+      "lat": 51.04471059014927, 
+      "lon": 3.7241108019135143, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7241108019135143
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04419214450881, 
       "housenumber": "88", 
+      "lat": 51.04419214450881, 
+      "lon": 3.7240884167601584, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7240884167601584
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.044722018957856, 
       "housenumber": "89", 
+      "lat": 51.044722018957856, 
+      "lon": 3.724113068868295, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.724113068868295
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04414461828488, 
       "housenumber": "90", 
+      "lat": 51.04414461828488, 
+      "lon": 3.724076949830215, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.724076949830215
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.044081967449564, 
       "housenumber": "92", 
+      "lat": 51.044081967449564, 
+      "lon": 3.7240284730776416, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.7240284730776416
+      "street": "Sint-Kwintensberg"
     }, 
     {
-      "lat": 51.04397745505074, 
       "housenumber": "96", 
+      "lat": 51.04397745505074, 
+      "lon": 3.723820863675408, 
       "pcode": 9000, 
-      "street": "Sint-Kwintensberg", 
-      "lon": 3.723820863675408
+      "street": "Sint-Kwintensberg"
     }
-  ], 
-  "name": "Sint-Kwintensberg"
+  ]
 }

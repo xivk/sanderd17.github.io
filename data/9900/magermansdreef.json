@@ -1,20 +1,18 @@
 {
-  "pcode": 9900, 
   "addresses": [
     {
-      "lat": 51.18044833937213, 
       "housenumber": "1", 
+      "lat": 51.18044833937213, 
+      "lon": 3.6003548539394985, 
       "pcode": 9900, 
-      "street": "Magermansdreef", 
-      "lon": 3.6003548539394985
+      "street": "Magermansdreef"
     }, 
     {
-      "lat": 51.180102560204276, 
       "housenumber": "3", 
+      "lat": 51.180102560204276, 
+      "lon": 3.600054918354486, 
       "pcode": 9900, 
-      "street": "Magermansdreef", 
-      "lon": 3.600054918354486
+      "street": "Magermansdreef"
     }
-  ], 
-  "name": "Magermansdreef"
+  ]
 }

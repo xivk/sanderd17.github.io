@@ -1,58 +1,56 @@
 {
-  "pcode": 8610, 
   "addresses": [
     {
-      "lat": 51.00877625720569, 
       "housenumber": "1", 
+      "lat": 51.00877625720569, 
+      "lon": 3.0021899979327475, 
       "pcode": 8610, 
-      "street": "Zuidstraat", 
-      "lon": 3.0021899979327475
+      "street": "Zuidstraat"
     }, 
     {
-      "lat": 51.00873621500577, 
       "housenumber": "2", 
+      "lat": 51.00873621500577, 
+      "lon": 3.0010178918706796, 
       "pcode": 8610, 
-      "street": "Zuidstraat", 
-      "lon": 3.0010178918706796
+      "street": "Zuidstraat"
     }, 
     {
-      "lat": 51.00841724273529, 
       "housenumber": "3", 
+      "lat": 51.00841724273529, 
+      "lon": 3.0022657356724034, 
       "pcode": 8610, 
-      "street": "Zuidstraat", 
-      "lon": 3.0022657356724034
+      "street": "Zuidstraat"
     }, 
     {
-      "lat": 51.00799353317278, 
       "housenumber": "3A", 
+      "lat": 51.00799353317278, 
+      "lon": 3.0021432796520036, 
       "pcode": 8610, 
-      "street": "Zuidstraat", 
-      "lon": 3.0021432796520036
+      "street": "Zuidstraat"
     }, 
     {
+      "housenumber": "3B", 
       "pcode": 8610, 
-      "street": "Zuidstraat", 
-      "housenumber": "3B"
+      "street": "Zuidstraat"
     }, 
     {
-      "lat": 51.00514659143455, 
       "housenumber": "4", 
+      "lat": 51.00514659143455, 
+      "lon": 3.0010844620645245, 
       "pcode": 8610, 
-      "street": "Zuidstraat", 
-      "lon": 3.0010844620645245
+      "street": "Zuidstraat"
     }, 
     {
+      "housenumber": "4A", 
       "pcode": 8610, 
-      "street": "Zuidstraat", 
-      "housenumber": "4A"
+      "street": "Zuidstraat"
     }, 
     {
-      "lat": 51.00260842680059, 
       "housenumber": "6", 
+      "lat": 51.00260842680059, 
+      "lon": 2.9996667997863136, 
       "pcode": 8610, 
-      "street": "Zuidstraat", 
-      "lon": 2.9996667997863136
+      "street": "Zuidstraat"
     }
-  ], 
-  "name": "Zuidstraat"
+  ]
 }

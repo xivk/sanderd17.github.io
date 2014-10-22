@@ -1,20 +1,18 @@
 {
-  "pcode": 2440, 
   "addresses": [
     {
-      "lat": 51.21885849770662, 
       "housenumber": "1", 
+      "lat": 51.21885849770662, 
+      "lon": 5.031397912354577, 
       "pcode": 2440, 
-      "street": "St.-Willebrordshoeve", 
-      "lon": 5.031397912354577
+      "street": "St.-Willebrordshoeve"
     }, 
     {
-      "lat": 51.21876757151662, 
       "housenumber": "2", 
+      "lat": 51.21876757151662, 
+      "lon": 5.031102339557791, 
       "pcode": 2440, 
-      "street": "St.-Willebrordshoeve", 
-      "lon": 5.031102339557791
+      "street": "St.-Willebrordshoeve"
     }
-  ], 
-  "name": "St.-Willebrordshoeve"
+  ]
 }

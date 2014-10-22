@@ -1,51 +1,49 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2800, 
-      "street": "Korte Maagdenstraat", 
-      "housenumber": "1"
+      "street": "Korte Maagdenstraat"
     }, 
     {
-      "lat": 51.02865798648221, 
       "housenumber": "2", 
+      "lat": 51.02865798648221, 
+      "lon": 4.485731230326437, 
       "pcode": 2800, 
-      "street": "Korte Maagdenstraat", 
-      "lon": 4.485731230326437
+      "street": "Korte Maagdenstraat"
     }, 
     {
-      "lat": 51.028578907571536, 
       "housenumber": "3", 
+      "lat": 51.028578907571536, 
+      "lon": 4.485616710459249, 
       "pcode": 2800, 
-      "street": "Korte Maagdenstraat", 
-      "lon": 4.485616710459249
+      "street": "Korte Maagdenstraat"
     }, 
     {
-      "lat": 51.028526030892806, 
       "housenumber": "4", 
+      "lat": 51.028526030892806, 
+      "lon": 4.485637959442049, 
       "pcode": 2800, 
-      "street": "Korte Maagdenstraat", 
-      "lon": 4.485637959442049
+      "street": "Korte Maagdenstraat"
     }, 
     {
-      "lat": 51.0284829030948, 
       "housenumber": "5", 
+      "lat": 51.0284829030948, 
+      "lon": 4.485708410806142, 
       "pcode": 2800, 
-      "street": "Korte Maagdenstraat", 
-      "lon": 4.485708410806142
+      "street": "Korte Maagdenstraat"
     }, 
     {
-      "lat": 51.02843728284274, 
       "housenumber": "6", 
+      "lat": 51.02843728284274, 
+      "lon": 4.485754338098156, 
       "pcode": 2800, 
-      "street": "Korte Maagdenstraat", 
-      "lon": 4.485754338098156
+      "street": "Korte Maagdenstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2800, 
-      "street": "Korte Maagdenstraat", 
-      "housenumber": "7"
+      "street": "Korte Maagdenstraat"
     }
-  ], 
-  "name": "Korte Maagdenstraat"
+  ]
 }

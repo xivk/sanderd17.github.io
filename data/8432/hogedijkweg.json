@@ -1,20 +1,18 @@
 {
-  "pcode": 8432, 
   "addresses": [
     {
-      "lat": 51.18742127970651, 
       "housenumber": "1", 
+      "lat": 51.18742127970651, 
+      "lon": 2.864827697854816, 
       "pcode": 8432, 
-      "street": "Hogedijkweg", 
-      "lon": 2.864827697854816
+      "street": "Hogedijkweg"
     }, 
     {
-      "lat": 51.19343430529178, 
       "housenumber": "2", 
+      "lat": 51.19343430529178, 
+      "lon": 2.866596820657283, 
       "pcode": 8432, 
-      "street": "Hogedijkweg", 
-      "lon": 2.866596820657283
+      "street": "Hogedijkweg"
     }
-  ], 
-  "name": "Hogedijkweg"
+  ]
 }

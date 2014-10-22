@@ -1,27 +1,25 @@
 {
-  "pcode": 3060, 
   "addresses": [
     {
-      "lat": 50.86322749570149, 
       "housenumber": "1", 
+      "lat": 50.86322749570149, 
+      "lon": 4.630869230016491, 
       "pcode": 3060, 
-      "street": "Voerstraat", 
-      "lon": 4.630869230016491
+      "street": "Voerstraat"
     }, 
     {
-      "lat": 50.863454455849364, 
       "housenumber": "2", 
+      "lat": 50.863454455849364, 
+      "lon": 4.631361690472223, 
       "pcode": 3060, 
-      "street": "Voerstraat", 
-      "lon": 4.631361690472223
+      "street": "Voerstraat"
     }, 
     {
-      "lat": 50.86328056881015, 
       "housenumber": "4", 
+      "lat": 50.86328056881015, 
+      "lon": 4.631134439526031, 
       "pcode": 3060, 
-      "street": "Voerstraat", 
-      "lon": 4.631134439526031
+      "street": "Voerstraat"
     }
-  ], 
-  "name": "Voerstraat"
+  ]
 }

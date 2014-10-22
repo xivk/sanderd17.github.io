@@ -1,20 +1,18 @@
 {
-  "pcode": 3640, 
   "addresses": [
     {
-      "lat": 51.13391444337117, 
       "housenumber": "1", 
+      "lat": 51.13391444337117, 
+      "lon": 5.799193095970203, 
       "pcode": 3640, 
-      "street": "Maasveldweg", 
-      "lon": 5.799193095970203
+      "street": "Maasveldweg"
     }, 
     {
-      "lat": 51.13262341123749, 
       "housenumber": "2", 
+      "lat": 51.13262341123749, 
+      "lon": 5.798593989593713, 
       "pcode": 3640, 
-      "street": "Maasveldweg", 
-      "lon": 5.798593989593713
+      "street": "Maasveldweg"
     }
-  ], 
-  "name": "Maasveldweg"
+  ]
 }

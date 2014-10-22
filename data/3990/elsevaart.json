@@ -1,20 +1,18 @@
 {
-  "pcode": 3990, 
   "addresses": [
     {
-      "lat": 51.10984229116492, 
       "housenumber": "1", 
+      "lat": 51.10984229116492, 
+      "lon": 5.42757982732987, 
       "pcode": 3990, 
-      "street": "Elsevaart", 
-      "lon": 5.42757982732987
+      "street": "Elsevaart"
     }, 
     {
-      "lat": 51.11547134657953, 
       "housenumber": "2", 
+      "lat": 51.11547134657953, 
+      "lon": 5.434075852344317, 
       "pcode": 3990, 
-      "street": "Elsevaart", 
-      "lon": 5.434075852344317
+      "street": "Elsevaart"
     }
-  ], 
-  "name": "Elsevaart"
+  ]
 }

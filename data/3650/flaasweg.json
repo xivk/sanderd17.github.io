@@ -1,20 +1,18 @@
 {
-  "pcode": 3650, 
   "addresses": [
     {
-      "lat": 51.017825107124764, 
       "housenumber": "18", 
+      "lat": 51.017825107124764, 
+      "lon": 5.720719740786784, 
       "pcode": 3650, 
-      "street": "Flaasweg", 
-      "lon": 5.720719740786784
+      "street": "Flaasweg"
     }, 
     {
-      "lat": 51.01813816067358, 
       "housenumber": "6", 
+      "lat": 51.01813816067358, 
+      "lon": 5.720961973432828, 
       "pcode": 3650, 
-      "street": "Flaasweg", 
-      "lon": 5.720961973432828
+      "street": "Flaasweg"
     }
-  ], 
-  "name": "Flaasweg"
+  ]
 }

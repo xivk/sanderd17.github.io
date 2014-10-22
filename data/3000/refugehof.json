@@ -1,47 +1,45 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.87721257796909, 
       "housenumber": "1", 
+      "lat": 50.87721257796909, 
+      "lon": 4.693622901579097, 
       "pcode": 3000, 
-      "street": "Refugehof", 
-      "lon": 4.693622901579097
+      "street": "Refugehof"
     }, 
     {
-      "lat": 50.87690079394583, 
       "housenumber": "3", 
+      "lat": 50.87690079394583, 
+      "lon": 4.693438302453136, 
       "pcode": 3000, 
-      "street": "Refugehof", 
-      "lon": 4.693438302453136
+      "street": "Refugehof"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3000, 
-      "street": "Refugehof", 
-      "housenumber": "4"
+      "street": "Refugehof"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3000, 
-      "street": "Refugehof", 
-      "housenumber": "5"
+      "street": "Refugehof"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3000, 
-      "street": "Refugehof", 
-      "housenumber": "6"
+      "street": "Refugehof"
     }, 
     {
-      "lat": 50.87692396082632, 
       "housenumber": "8", 
+      "lat": 50.87692396082632, 
+      "lon": 4.693123316027602, 
       "pcode": 3000, 
-      "street": "Refugehof", 
-      "lon": 4.693123316027602
+      "street": "Refugehof"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 3000, 
-      "street": "Refugehof", 
-      "housenumber": "9"
+      "street": "Refugehof"
     }
-  ], 
-  "name": "Refugehof"
+  ]
 }

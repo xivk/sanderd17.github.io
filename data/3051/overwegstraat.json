@@ -1,20 +1,18 @@
 {
-  "pcode": 3051, 
   "addresses": [
     {
-      "lat": 50.80516086206183, 
       "housenumber": "1", 
+      "lat": 50.80516086206183, 
+      "lon": 4.650472933323496, 
       "pcode": 3051, 
-      "street": "Overwegstraat", 
-      "lon": 4.650472933323496
+      "street": "Overwegstraat"
     }, 
     {
-      "lat": 50.805408260788326, 
       "housenumber": "14", 
+      "lat": 50.805408260788326, 
+      "lon": 4.649275618895639, 
       "pcode": 3051, 
-      "street": "Overwegstraat", 
-      "lon": 4.649275618895639
+      "street": "Overwegstraat"
     }
-  ], 
-  "name": "Overwegstraat"
+  ]
 }

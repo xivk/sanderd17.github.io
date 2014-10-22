@@ -1,20 +1,18 @@
 {
-  "pcode": 8700, 
   "addresses": [
     {
-      "lat": 50.99524909283694, 
       "housenumber": "5", 
+      "lat": 50.99524909283694, 
+      "lon": 3.417264878508599, 
       "pcode": 8700, 
-      "street": "Olmenlaan", 
-      "lon": 3.417264878508599
+      "street": "Olmenlaan"
     }, 
     {
-      "lat": 50.995360823840244, 
       "housenumber": "9", 
+      "lat": 50.995360823840244, 
+      "lon": 3.417608208311632, 
       "pcode": 8700, 
-      "street": "Olmenlaan", 
-      "lon": 3.417608208311632
+      "street": "Olmenlaan"
     }
-  ], 
-  "name": "Olmenlaan"
+  ]
 }

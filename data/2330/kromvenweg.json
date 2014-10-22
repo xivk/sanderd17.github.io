@@ -1,20 +1,18 @@
 {
-  "pcode": 2330, 
   "addresses": [
     {
-      "lat": 51.38462149756636, 
       "housenumber": "3", 
+      "lat": 51.38462149756636, 
+      "lon": 4.881297347627783, 
       "pcode": 2330, 
-      "street": "Kromvenweg", 
-      "lon": 4.881297347627783
+      "street": "Kromvenweg"
     }, 
     {
-      "lat": 51.38539404815957, 
       "housenumber": "7", 
+      "lat": 51.38539404815957, 
+      "lon": 4.881351991386327, 
       "pcode": 2330, 
-      "street": "Kromvenweg", 
-      "lon": 4.881351991386327
+      "street": "Kromvenweg"
     }
-  ], 
-  "name": "Kromvenweg"
+  ]
 }

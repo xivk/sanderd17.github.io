@@ -1,32 +1,30 @@
 {
-  "pcode": 2840, 
   "addresses": [
     {
-      "lat": 51.10388880329678, 
       "housenumber": "1", 
+      "lat": 51.10388880329678, 
+      "lon": 4.436773427046848, 
       "pcode": 2840, 
-      "street": "Balhoevestraat", 
-      "lon": 4.436773427046848
+      "street": "Balhoevestraat"
     }, 
     {
-      "lat": 51.10374005988522, 
       "housenumber": "2", 
+      "lat": 51.10374005988522, 
+      "lon": 4.4362727851006865, 
       "pcode": 2840, 
-      "street": "Balhoevestraat", 
-      "lon": 4.4362727851006865
+      "street": "Balhoevestraat"
     }, 
     {
-      "lat": 51.10259653800514, 
       "housenumber": "3", 
+      "lat": 51.10259653800514, 
+      "lon": 4.4363737686276625, 
       "pcode": 2840, 
-      "street": "Balhoevestraat", 
-      "lon": 4.4363737686276625
+      "street": "Balhoevestraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2840, 
-      "street": "Balhoevestraat", 
-      "housenumber": "8"
+      "street": "Balhoevestraat"
     }
-  ], 
-  "name": "Balhoevestraat"
+  ]
 }

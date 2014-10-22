@@ -1,39 +1,37 @@
 {
-  "pcode": 2221, 
   "addresses": [
     {
-      "lat": 51.034355284895945, 
       "housenumber": "1", 
+      "lat": 51.034355284895945, 
+      "lon": 4.755665197917563, 
       "pcode": 2221, 
-      "street": "Dophei", 
-      "lon": 4.755665197917563
+      "street": "Dophei"
     }, 
     {
-      "lat": 51.03456370682735, 
       "housenumber": "2", 
+      "lat": 51.03456370682735, 
+      "lon": 4.7562763890271285, 
       "pcode": 2221, 
-      "street": "Dophei", 
-      "lon": 4.7562763890271285
+      "street": "Dophei"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 2221, 
-      "street": "Dophei", 
-      "housenumber": "2A"
+      "street": "Dophei"
     }, 
     {
-      "lat": 51.03584172849034, 
       "housenumber": "3", 
+      "lat": 51.03584172849034, 
+      "lon": 4.753527993009548, 
       "pcode": 2221, 
-      "street": "Dophei", 
-      "lon": 4.753527993009548
+      "street": "Dophei"
     }, 
     {
-      "lat": 51.03469875781787, 
       "housenumber": "4", 
+      "lat": 51.03469875781787, 
+      "lon": 4.756102295945004, 
       "pcode": 2221, 
-      "street": "Dophei", 
-      "lon": 4.756102295945004
+      "street": "Dophei"
     }
-  ], 
-  "name": "Dophei"
+  ]
 }

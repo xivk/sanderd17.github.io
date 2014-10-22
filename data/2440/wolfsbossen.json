@@ -1,20 +1,18 @@
 {
-  "pcode": 2440, 
   "addresses": [
     {
-      "lat": 51.14344971772461, 
       "housenumber": "1", 
+      "lat": 51.14344971772461, 
+      "lon": 4.962810245015355, 
       "pcode": 2440, 
-      "street": "Wolfsbossen", 
-      "lon": 4.962810245015355
+      "street": "Wolfsbossen"
     }, 
     {
-      "lat": 51.13923623197594, 
       "housenumber": "2", 
+      "lat": 51.13923623197594, 
+      "lon": 4.963489178050742, 
       "pcode": 2440, 
-      "street": "Wolfsbossen", 
-      "lon": 4.963489178050742
+      "street": "Wolfsbossen"
     }
-  ], 
-  "name": "Wolfsbossen"
+  ]
 }

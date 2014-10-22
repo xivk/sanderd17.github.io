@@ -1,46 +1,44 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.87674048128854, 
       "housenumber": "1", 
+      "lat": 50.87674048128854, 
+      "lon": 4.690484939668382, 
       "pcode": 3000, 
-      "street": "Grasmushof", 
-      "lon": 4.690484939668382
+      "street": "Grasmushof"
     }, 
     {
-      "lat": 50.876590188650574, 
       "housenumber": "2", 
+      "lat": 50.876590188650574, 
+      "lon": 4.689234696636675, 
       "pcode": 3000, 
-      "street": "Grasmushof", 
-      "lon": 4.689234696636675
+      "street": "Grasmushof"
     }, 
     {
-      "lat": 50.87704991213597, 
       "housenumber": "3", 
+      "lat": 50.87704991213597, 
+      "lon": 4.689530395573933, 
       "pcode": 3000, 
-      "street": "Grasmushof", 
-      "lon": 4.689530395573933
+      "street": "Grasmushof"
     }, 
     {
-      "lat": 50.87664887395293, 
       "housenumber": "4", 
+      "lat": 50.87664887395293, 
+      "lon": 4.689240639173158, 
       "pcode": 3000, 
-      "street": "Grasmushof", 
-      "lon": 4.689240639173158
+      "street": "Grasmushof"
     }, 
     {
-      "lat": 50.8770308718402, 
       "housenumber": "5", 
+      "lat": 50.8770308718402, 
+      "lon": 4.689491191532975, 
       "pcode": 3000, 
-      "street": "Grasmushof", 
-      "lon": 4.689491191532975
+      "street": "Grasmushof"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3000, 
-      "street": "Grasmushof", 
-      "housenumber": "6"
+      "street": "Grasmushof"
     }
-  ], 
-  "name": "Grasmushof"
+  ]
 }

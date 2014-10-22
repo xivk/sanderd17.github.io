@@ -1,18 +1,16 @@
 {
-  "pcode": 3870, 
   "addresses": [
     {
-      "lat": 50.73464081787223, 
       "housenumber": "14", 
+      "lat": 50.73464081787223, 
+      "lon": 5.255761762512053, 
       "pcode": 3870, 
-      "street": "Elzenhoutlaan", 
-      "lon": 5.255761762512053
+      "street": "Elzenhoutlaan"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 3870, 
-      "street": "Elzenhoutlaan", 
-      "housenumber": "9"
+      "street": "Elzenhoutlaan"
     }
-  ], 
-  "name": "Elzenhoutlaan"
+  ]
 }

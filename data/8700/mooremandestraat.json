@@ -1,39 +1,37 @@
 {
-  "pcode": 8700, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8700, 
-      "street": "Mooremandestraat", 
-      "housenumber": "1"
+      "street": "Mooremandestraat"
     }, 
     {
-      "lat": 51.02581026077334, 
       "housenumber": "2", 
+      "lat": 51.02581026077334, 
+      "lon": 3.428300751437751, 
       "pcode": 8700, 
-      "street": "Mooremandestraat", 
-      "lon": 3.428300751437751
+      "street": "Mooremandestraat"
     }, 
     {
-      "lat": 51.02264149180661, 
       "housenumber": "3", 
+      "lat": 51.02264149180661, 
+      "lon": 3.4247633997763907, 
       "pcode": 8700, 
-      "street": "Mooremandestraat", 
-      "lon": 3.4247633997763907
+      "street": "Mooremandestraat"
     }, 
     {
-      "lat": 51.02782489556963, 
       "housenumber": "5", 
+      "lat": 51.02782489556963, 
+      "lon": 3.4297929139621357, 
       "pcode": 8700, 
-      "street": "Mooremandestraat", 
-      "lon": 3.4297929139621357
+      "street": "Mooremandestraat"
     }, 
     {
-      "lat": 51.02942142804684, 
       "housenumber": "7", 
+      "lat": 51.02942142804684, 
+      "lon": 3.4322385920749654, 
       "pcode": 8700, 
-      "street": "Mooremandestraat", 
-      "lon": 3.4322385920749654
+      "street": "Mooremandestraat"
     }
-  ], 
-  "name": "Mooremandestraat"
+  ]
 }

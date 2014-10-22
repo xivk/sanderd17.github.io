@@ -1,20 +1,18 @@
 {
-  "pcode": 3891, 
   "addresses": [
     {
-      "lat": 50.75249752202268, 
       "housenumber": "1", 
+      "lat": 50.75249752202268, 
+      "lon": 5.181139186980351, 
       "pcode": 3891, 
-      "street": "Gravelostraat", 
-      "lon": 5.181139186980351
+      "street": "Gravelostraat"
     }, 
     {
-      "lat": 50.751751893211896, 
       "housenumber": "2", 
+      "lat": 50.751751893211896, 
+      "lon": 5.181019179060308, 
       "pcode": 3891, 
-      "street": "Gravelostraat", 
-      "lon": 5.181019179060308
+      "street": "Gravelostraat"
     }
-  ], 
-  "name": "Gravelostraat"
+  ]
 }

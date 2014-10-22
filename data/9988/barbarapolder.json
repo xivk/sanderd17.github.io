@@ -1,20 +1,18 @@
 {
-  "pcode": 9988, 
   "addresses": [
     {
-      "lat": 51.28122416449611, 
       "housenumber": "1", 
+      "lat": 51.28122416449611, 
+      "lon": 3.677392555598818, 
       "pcode": 9988, 
-      "street": "Barbarapolder", 
-      "lon": 3.677392555598818
+      "street": "Barbarapolder"
     }, 
     {
-      "lat": 51.28684448316957, 
       "housenumber": "2", 
+      "lat": 51.28684448316957, 
+      "lon": 3.6651205407467393, 
       "pcode": 9988, 
-      "street": "Barbarapolder", 
-      "lon": 3.6651205407467393
+      "street": "Barbarapolder"
     }
-  ], 
-  "name": "Barbarapolder"
+  ]
 }

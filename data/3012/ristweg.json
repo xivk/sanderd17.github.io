@@ -1,18 +1,16 @@
 {
-  "pcode": 3012, 
   "addresses": [
     {
+      "housenumber": "3", 
       "pcode": 3012, 
-      "street": "Ristweg", 
-      "housenumber": "3"
+      "street": "Ristweg"
     }, 
     {
-      "lat": 50.92620419583341, 
       "housenumber": "5", 
+      "lat": 50.92620419583341, 
+      "lon": 4.727605582328488, 
       "pcode": 3012, 
-      "street": "Ristweg", 
-      "lon": 4.727605582328488
+      "street": "Ristweg"
     }
-  ], 
-  "name": "Ristweg"
+  ]
 }

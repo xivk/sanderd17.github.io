@@ -1,32 +1,30 @@
 {
-  "pcode": 8433, 
   "addresses": [
     {
-      "lat": 51.15540767580437, 
       "housenumber": "1", 
+      "lat": 51.15540767580437, 
+      "lon": 2.8024190917841025, 
       "pcode": 8433, 
-      "street": "Wateringstraat", 
-      "lon": 2.8024190917841025
+      "street": "Wateringstraat"
     }, 
     {
-      "lat": 51.1556731501599, 
       "housenumber": "2", 
+      "lat": 51.1556731501599, 
+      "lon": 2.8050162910781853, 
       "pcode": 8433, 
-      "street": "Wateringstraat", 
-      "lon": 2.8050162910781853
+      "street": "Wateringstraat"
     }, 
     {
-      "lat": 51.156900235839366, 
       "housenumber": "3", 
+      "lat": 51.156900235839366, 
+      "lon": 2.8087048211124617, 
       "pcode": 8433, 
-      "street": "Wateringstraat", 
-      "lon": 2.8087048211124617
+      "street": "Wateringstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8433, 
-      "street": "Wateringstraat", 
-      "housenumber": "4"
+      "street": "Wateringstraat"
     }
-  ], 
-  "name": "Wateringstraat"
+  ]
 }

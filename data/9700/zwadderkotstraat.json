@@ -1,20 +1,18 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.856155618772156, 
       "housenumber": "1", 
+      "lat": 50.856155618772156, 
+      "lon": 3.666125129663027, 
       "pcode": 9700, 
-      "street": "Zwadderkotstraat", 
-      "lon": 3.666125129663027
+      "street": "Zwadderkotstraat"
     }, 
     {
-      "lat": 50.85733640101281, 
       "housenumber": "2", 
+      "lat": 50.85733640101281, 
+      "lon": 3.668435963058617, 
       "pcode": 9700, 
-      "street": "Zwadderkotstraat", 
-      "lon": 3.668435963058617
+      "street": "Zwadderkotstraat"
     }
-  ], 
-  "name": "Zwadderkotstraat"
+  ]
 }

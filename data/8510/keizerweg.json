@@ -1,27 +1,25 @@
 {
-  "pcode": 8510, 
   "addresses": [
     {
-      "lat": 50.77328377838889, 
       "housenumber": "2", 
+      "lat": 50.77328377838889, 
+      "lon": 3.285963974105163, 
       "pcode": 8510, 
-      "street": "Keizerweg", 
-      "lon": 3.285963974105163
+      "street": "Keizerweg"
     }, 
     {
-      "lat": 50.77316805609764, 
       "housenumber": "4", 
+      "lat": 50.77316805609764, 
+      "lon": 3.286001513454571, 
       "pcode": 8510, 
-      "street": "Keizerweg", 
-      "lon": 3.286001513454571
+      "street": "Keizerweg"
     }, 
     {
-      "lat": 50.773052098072235, 
       "housenumber": "6", 
+      "lat": 50.773052098072235, 
+      "lon": 3.2861692178666666, 
       "pcode": 8510, 
-      "street": "Keizerweg", 
-      "lon": 3.2861692178666666
+      "street": "Keizerweg"
     }
-  ], 
-  "name": "Keizerweg"
+  ]
 }

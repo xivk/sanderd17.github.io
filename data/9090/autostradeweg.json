@@ -1,39 +1,37 @@
 {
-  "pcode": 9090, 
   "addresses": [
     {
-      "lat": 50.9903360650163, 
       "housenumber": "1", 
+      "lat": 50.9903360650163, 
+      "lon": 3.7966317258511233, 
       "pcode": 9090, 
-      "street": "Autostradeweg", 
-      "lon": 3.7966317258511233
+      "street": "Autostradeweg"
     }, 
     {
-      "lat": 50.99048148779123, 
       "housenumber": "2", 
+      "lat": 50.99048148779123, 
+      "lon": 3.7951477923103716, 
       "pcode": 9090, 
-      "street": "Autostradeweg", 
-      "lon": 3.7951477923103716
+      "street": "Autostradeweg"
     }, 
     {
-      "lat": 50.99097744209743, 
       "housenumber": "3", 
+      "lat": 50.99097744209743, 
+      "lon": 3.792038502369281, 
       "pcode": 9090, 
-      "street": "Autostradeweg", 
-      "lon": 3.792038502369281
+      "street": "Autostradeweg"
     }, 
     {
-      "lat": 50.99179576262522, 
       "housenumber": "4", 
+      "lat": 50.99179576262522, 
+      "lon": 3.792776666303091, 
       "pcode": 9090, 
-      "street": "Autostradeweg", 
-      "lon": 3.792776666303091
+      "street": "Autostradeweg"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9090, 
-      "street": "Autostradeweg", 
-      "housenumber": "5"
+      "street": "Autostradeweg"
     }
-  ], 
-  "name": "Autostradeweg"
+  ]
 }

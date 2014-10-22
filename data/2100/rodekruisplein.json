@@ -1,27 +1,25 @@
 {
-  "pcode": 2100, 
   "addresses": [
     {
-      "lat": 51.22021751960354, 
       "housenumber": "1", 
+      "lat": 51.22021751960354, 
+      "lon": 4.454834479589994, 
       "pcode": 2100, 
-      "street": "Rodekruisplein", 
-      "lon": 4.454834479589994
+      "street": "Rodekruisplein"
     }, 
     {
-      "lat": 51.220262094173286, 
       "housenumber": "3", 
+      "lat": 51.220262094173286, 
+      "lon": 4.454107314258012, 
       "pcode": 2100, 
-      "street": "Rodekruisplein", 
-      "lon": 4.454107314258012
+      "street": "Rodekruisplein"
     }, 
     {
-      "lat": 51.220631669435, 
       "housenumber": "5", 
+      "lat": 51.220631669435, 
+      "lon": 4.454268447326223, 
       "pcode": 2100, 
-      "street": "Rodekruisplein", 
-      "lon": 4.454268447326223
+      "street": "Rodekruisplein"
     }
-  ], 
-  "name": "Rodekruisplein"
+  ]
 }

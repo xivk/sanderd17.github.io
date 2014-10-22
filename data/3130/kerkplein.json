@@ -1,27 +1,25 @@
 {
-  "pcode": 3130, 
   "addresses": [
     {
-      "lat": 51.01960942517451, 
       "housenumber": "1", 
+      "lat": 51.01960942517451, 
+      "lon": 4.782854909447172, 
       "pcode": 3130, 
-      "street": "Kerkplein", 
-      "lon": 4.782854909447172
+      "street": "Kerkplein"
     }, 
     {
-      "lat": 51.019743387034424, 
       "housenumber": "3", 
+      "lat": 51.019743387034424, 
+      "lon": 4.781980024259749, 
       "pcode": 3130, 
-      "street": "Kerkplein", 
-      "lon": 4.781980024259749
+      "street": "Kerkplein"
     }, 
     {
-      "lat": 51.019968163195614, 
       "housenumber": "5", 
+      "lat": 51.019968163195614, 
+      "lon": 4.782120113651752, 
       "pcode": 3130, 
-      "street": "Kerkplein", 
-      "lon": 4.782120113651752
+      "street": "Kerkplein"
     }
-  ], 
-  "name": "Kerkplein"
+  ]
 }

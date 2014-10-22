@@ -1,32 +1,30 @@
 {
-  "pcode": 2018, 
   "addresses": [
     {
-      "lat": 51.203680426497996, 
       "housenumber": "11", 
+      "lat": 51.203680426497996, 
+      "lon": 4.391795145239117, 
       "pcode": 2018, 
-      "street": "Troonplaats", 
-      "lon": 4.391795145239117
+      "street": "Troonplaats"
     }, 
     {
-      "lat": 51.20317841805796, 
       "housenumber": "3", 
+      "lat": 51.20317841805796, 
+      "lon": 4.392256317715991, 
       "pcode": 2018, 
-      "street": "Troonplaats", 
-      "lon": 4.392256317715991
+      "street": "Troonplaats"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2018, 
-      "street": "Troonplaats", 
-      "housenumber": "6"
+      "street": "Troonplaats"
     }, 
     {
-      "lat": 51.203675514411955, 
       "housenumber": "8", 
+      "lat": 51.203675514411955, 
+      "lon": 4.391637468632961, 
       "pcode": 2018, 
-      "street": "Troonplaats", 
-      "lon": 4.391637468632961
+      "street": "Troonplaats"
     }
-  ], 
-  "name": "Troonplaats"
+  ]
 }

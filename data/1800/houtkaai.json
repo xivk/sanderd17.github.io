@@ -1,20 +1,18 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
-      "lat": 50.92699089830954, 
       "housenumber": "1", 
+      "lat": 50.92699089830954, 
+      "lon": 4.4168345788615815, 
       "pcode": 1800, 
-      "street": "Houtkaai", 
-      "lon": 4.4168345788615815
+      "street": "Houtkaai"
     }, 
     {
-      "lat": 50.928959634690585, 
       "housenumber": "10", 
+      "lat": 50.928959634690585, 
+      "lon": 4.414871832339893, 
       "pcode": 1800, 
-      "street": "Houtkaai", 
-      "lon": 4.414871832339893
+      "street": "Houtkaai"
     }
-  ], 
-  "name": "Houtkaai"
+  ]
 }

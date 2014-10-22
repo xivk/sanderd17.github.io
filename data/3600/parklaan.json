@@ -1,20 +1,18 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.99722497883734, 
       "housenumber": "1", 
+      "lat": 50.99722497883734, 
+      "lon": 5.531003100374587, 
       "pcode": 3600, 
-      "street": "Parklaan", 
-      "lon": 5.531003100374587
+      "street": "Parklaan"
     }, 
     {
-      "lat": 50.99791412205455, 
       "housenumber": "9", 
+      "lat": 50.99791412205455, 
+      "lon": 5.529806512685592, 
       "pcode": 3600, 
-      "street": "Parklaan", 
-      "lon": 5.529806512685592
+      "street": "Parklaan"
     }
-  ], 
-  "name": "Parklaan"
+  ]
 }

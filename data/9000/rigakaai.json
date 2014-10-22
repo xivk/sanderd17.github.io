@@ -1,20 +1,18 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.07457334699754, 
       "housenumber": "1", 
+      "lat": 51.07457334699754, 
+      "lon": 3.7388895021815136, 
       "pcode": 9000, 
-      "street": "Rigakaai", 
-      "lon": 3.7388895021815136
+      "street": "Rigakaai"
     }, 
     {
-      "lat": 51.076895789464515, 
       "housenumber": "39", 
+      "lat": 51.076895789464515, 
+      "lon": 3.7395456346886524, 
       "pcode": 9000, 
-      "street": "Rigakaai", 
-      "lon": 3.7395456346886524
+      "street": "Rigakaai"
     }
-  ], 
-  "name": "Rigakaai"
+  ]
 }

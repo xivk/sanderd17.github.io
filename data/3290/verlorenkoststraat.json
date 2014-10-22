@@ -1,32 +1,30 @@
 {
-  "pcode": 3290, 
   "addresses": [
     {
-      "lat": 51.006785158064346, 
       "housenumber": "2", 
+      "lat": 51.006785158064346, 
+      "lon": 5.081539117263449, 
       "pcode": 3290, 
-      "street": "Verlorenkoststraat", 
-      "lon": 5.081539117263449
+      "street": "Verlorenkoststraat"
     }, 
     {
-      "lat": 51.006434627925046, 
       "housenumber": "3", 
+      "lat": 51.006434627925046, 
+      "lon": 5.08204800347325, 
       "pcode": 3290, 
-      "street": "Verlorenkoststraat", 
-      "lon": 5.08204800347325
+      "street": "Verlorenkoststraat"
     }, 
     {
-      "lat": 51.00684985121589, 
       "housenumber": "4", 
+      "lat": 51.00684985121589, 
+      "lon": 5.081796291223326, 
       "pcode": 3290, 
-      "street": "Verlorenkoststraat", 
-      "lon": 5.081796291223326
+      "street": "Verlorenkoststraat"
     }, 
     {
+      "housenumber": "83", 
       "pcode": 3290, 
-      "street": "Verlorenkoststraat", 
-      "housenumber": "83"
+      "street": "Verlorenkoststraat"
     }
-  ], 
-  "name": "Verlorenkoststraat"
+  ]
 }

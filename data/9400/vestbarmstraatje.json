@@ -1,27 +1,25 @@
 {
-  "pcode": 9400, 
   "addresses": [
     {
-      "lat": 50.83801421029611, 
       "housenumber": "1", 
+      "lat": 50.83801421029611, 
+      "lon": 4.0235714770714965, 
       "pcode": 9400, 
-      "street": "Vestbarmstraatje", 
-      "lon": 4.0235714770714965
+      "street": "Vestbarmstraatje"
     }, 
     {
-      "lat": 50.83847045260612, 
       "housenumber": "14", 
+      "lat": 50.83847045260612, 
+      "lon": 4.02330250821839, 
       "pcode": 9400, 
-      "street": "Vestbarmstraatje", 
-      "lon": 4.02330250821839
+      "street": "Vestbarmstraatje"
     }, 
     {
-      "lat": 50.83807838147368, 
       "housenumber": "3", 
+      "lat": 50.83807838147368, 
+      "lon": 4.023382898166877, 
       "pcode": 9400, 
-      "street": "Vestbarmstraatje", 
-      "lon": 4.023382898166877
+      "street": "Vestbarmstraatje"
     }
-  ], 
-  "name": "Vestbarmstraatje"
+  ]
 }

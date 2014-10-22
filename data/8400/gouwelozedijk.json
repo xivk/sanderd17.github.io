@@ -1,20 +1,18 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.215747580807225, 
       "housenumber": "1", 
+      "lat": 51.215747580807225, 
+      "lon": 2.945757806665873, 
       "pcode": 8400, 
-      "street": "Gouwelozedijk", 
-      "lon": 2.945757806665873
+      "street": "Gouwelozedijk"
     }, 
     {
-      "lat": 51.2154260166507, 
       "housenumber": "4", 
+      "lat": 51.2154260166507, 
+      "lon": 2.946214505545141, 
       "pcode": 8400, 
-      "street": "Gouwelozedijk", 
-      "lon": 2.946214505545141
+      "street": "Gouwelozedijk"
     }
-  ], 
-  "name": "Gouwelozedijk"
+  ]
 }

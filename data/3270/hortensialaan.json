@@ -1,18 +1,16 @@
 {
-  "pcode": 3270, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3270, 
-      "street": "Hortensialaan", 
-      "housenumber": "1"
+      "street": "Hortensialaan"
     }, 
     {
-      "lat": 50.97939967670622, 
       "housenumber": "11", 
+      "lat": 50.97939967670622, 
+      "lon": 4.955919492626209, 
       "pcode": 3270, 
-      "street": "Hortensialaan", 
-      "lon": 4.955919492626209
+      "street": "Hortensialaan"
     }
-  ], 
-  "name": "Hortensialaan"
+  ]
 }

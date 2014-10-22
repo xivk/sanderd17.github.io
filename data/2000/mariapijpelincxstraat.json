@@ -1,35 +1,33 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2000, 
-      "street": "Maria Pijpelincxstraat", 
-      "housenumber": "1"
+      "street": "Maria Pijpelincxstraat"
     }, 
     {
-      "lat": 51.21628323547329, 
       "housenumber": "2", 
+      "lat": 51.21628323547329, 
+      "lon": 4.409027033516228, 
       "pcode": 2000, 
-      "street": "Maria Pijpelincxstraat", 
-      "lon": 4.409027033516228
+      "street": "Maria Pijpelincxstraat"
     }, 
     {
-      "lat": 51.21623316749977, 
       "housenumber": "4", 
+      "lat": 51.21623316749977, 
+      "lon": 4.40903443169194, 
       "pcode": 2000, 
-      "street": "Maria Pijpelincxstraat", 
-      "lon": 4.40903443169194
+      "street": "Maria Pijpelincxstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2000, 
-      "street": "Maria Pijpelincxstraat", 
-      "housenumber": "6"
+      "street": "Maria Pijpelincxstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2000, 
-      "street": "Maria Pijpelincxstraat", 
-      "housenumber": "8"
+      "street": "Maria Pijpelincxstraat"
     }
-  ], 
-  "name": "Maria Pijpelincxstraat"
+  ]
 }

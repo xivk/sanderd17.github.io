@@ -1,27 +1,25 @@
 {
-  "pcode": 2300, 
   "addresses": [
     {
-      "lat": 51.30043460070835, 
       "housenumber": "1", 
+      "lat": 51.30043460070835, 
+      "lon": 4.915914493762087, 
       "pcode": 2300, 
-      "street": "Zierenbosstraat", 
-      "lon": 4.915914493762087
+      "street": "Zierenbosstraat"
     }, 
     {
-      "lat": 51.29944762044242, 
       "housenumber": "2", 
+      "lat": 51.29944762044242, 
+      "lon": 4.917421682683654, 
       "pcode": 2300, 
-      "street": "Zierenbosstraat", 
-      "lon": 4.917421682683654
+      "street": "Zierenbosstraat"
     }, 
     {
-      "lat": 51.30029304886035, 
       "housenumber": "3", 
+      "lat": 51.30029304886035, 
+      "lon": 4.91581418167527, 
       "pcode": 2300, 
-      "street": "Zierenbosstraat", 
-      "lon": 4.91581418167527
+      "street": "Zierenbosstraat"
     }
-  ], 
-  "name": "Zierenbosstraat"
+  ]
 }

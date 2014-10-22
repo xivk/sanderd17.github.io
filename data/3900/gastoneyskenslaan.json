@@ -1,35 +1,33 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
+      "housenumber": "13", 
       "pcode": 3900, 
-      "street": "Gaston Eyskenslaan", 
-      "housenumber": "13"
+      "street": "Gaston Eyskenslaan"
     }, 
     {
-      "lat": 51.21913384573727, 
       "housenumber": "13B", 
+      "lat": 51.21913384573727, 
+      "lon": 5.381290992072517, 
       "pcode": 3900, 
-      "street": "Gaston Eyskenslaan", 
-      "lon": 5.381290992072517
+      "street": "Gaston Eyskenslaan"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3900, 
-      "street": "Gaston Eyskenslaan", 
-      "housenumber": "2"
+      "street": "Gaston Eyskenslaan"
     }, 
     {
-      "lat": 51.221282508507876, 
       "housenumber": "7", 
+      "lat": 51.221282508507876, 
+      "lon": 5.3826469111262645, 
       "pcode": 3900, 
-      "street": "Gaston Eyskenslaan", 
-      "lon": 5.3826469111262645
+      "street": "Gaston Eyskenslaan"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 3900, 
-      "street": "Gaston Eyskenslaan", 
-      "housenumber": "9"
+      "street": "Gaston Eyskenslaan"
     }
-  ], 
-  "name": "Gaston Eyskenslaan"
+  ]
 }

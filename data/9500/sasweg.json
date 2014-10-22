@@ -1,65 +1,63 @@
 {
-  "pcode": 9500, 
   "addresses": [
     {
-      "lat": 50.77126041955889, 
       "housenumber": "1", 
+      "lat": 50.77126041955889, 
+      "lon": 3.879504482826721, 
       "pcode": 9500, 
-      "street": "Sasweg", 
-      "lon": 3.879504482826721
+      "street": "Sasweg"
     }, 
     {
-      "lat": 50.770107967973665, 
       "housenumber": "10", 
+      "lat": 50.770107967973665, 
+      "lon": 3.8794092661028183, 
       "pcode": 9500, 
-      "street": "Sasweg", 
-      "lon": 3.8794092661028183
+      "street": "Sasweg"
     }, 
     {
-      "lat": 50.770065604995835, 
       "housenumber": "16", 
+      "lat": 50.770065604995835, 
+      "lon": 3.8801156970405133, 
       "pcode": 9500, 
-      "street": "Sasweg", 
-      "lon": 3.8801156970405133
+      "street": "Sasweg"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 9500, 
-      "street": "Sasweg", 
-      "housenumber": "1A"
+      "street": "Sasweg"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9500, 
-      "street": "Sasweg", 
-      "housenumber": "2"
+      "street": "Sasweg"
     }, 
     {
-      "lat": 50.77086408967621, 
       "housenumber": "3", 
+      "lat": 50.77086408967621, 
+      "lon": 3.879685096071101, 
       "pcode": 9500, 
-      "street": "Sasweg", 
-      "lon": 3.879685096071101
+      "street": "Sasweg"
     }, 
     {
-      "lat": 50.7708374535314, 
       "housenumber": "5", 
+      "lat": 50.7708374535314, 
+      "lon": 3.879441815537365, 
       "pcode": 9500, 
-      "street": "Sasweg", 
-      "lon": 3.879441815537365
+      "street": "Sasweg"
     }, 
     {
-      "lat": 50.7707735552923, 
       "housenumber": "7", 
+      "lat": 50.7707735552923, 
+      "lon": 3.8794034925964014, 
       "pcode": 9500, 
-      "street": "Sasweg", 
-      "lon": 3.8794034925964014
+      "street": "Sasweg"
     }, 
     {
-      "lat": 50.769995693215485, 
       "housenumber": "9", 
+      "lat": 50.769995693215485, 
+      "lon": 3.880705597301126, 
       "pcode": 9500, 
-      "street": "Sasweg", 
-      "lon": 3.880705597301126
+      "street": "Sasweg"
     }
-  ], 
-  "name": "Sasweg"
+  ]
 }

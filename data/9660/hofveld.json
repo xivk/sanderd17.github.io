@@ -1,27 +1,25 @@
 {
-  "pcode": 9660, 
   "addresses": [
     {
-      "lat": 50.789901860089806, 
       "housenumber": "1", 
+      "lat": 50.789901860089806, 
+      "lon": 3.731239280706119, 
       "pcode": 9660, 
-      "street": "Hofveld", 
-      "lon": 3.731239280706119
+      "street": "Hofveld"
     }, 
     {
-      "lat": 50.79062349871544, 
       "housenumber": "2", 
+      "lat": 50.79062349871544, 
+      "lon": 3.7344412421822226, 
       "pcode": 9660, 
-      "street": "Hofveld", 
-      "lon": 3.7344412421822226
+      "street": "Hofveld"
     }, 
     {
-      "lat": 50.79004344607518, 
       "housenumber": "4", 
+      "lat": 50.79004344607518, 
+      "lon": 3.7310232051716996, 
       "pcode": 9660, 
-      "street": "Hofveld", 
-      "lon": 3.7310232051716996
+      "street": "Hofveld"
     }
-  ], 
-  "name": "Hofveld"
+  ]
 }

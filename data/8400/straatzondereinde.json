@@ -1,30 +1,28 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8400, 
-      "street": "Straat zonder einde", 
-      "housenumber": "1"
+      "street": "Straat zonder einde"
     }, 
     {
-      "lat": 51.23198324606177, 
       "housenumber": "2", 
+      "lat": 51.23198324606177, 
+      "lon": 2.921591776268226, 
       "pcode": 8400, 
-      "street": "Straat zonder einde", 
-      "lon": 2.921591776268226
+      "street": "Straat zonder einde"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8400, 
-      "street": "Straat zonder einde", 
-      "housenumber": "3"
+      "street": "Straat zonder einde"
     }, 
     {
-      "lat": 51.23206468387202, 
       "housenumber": "4", 
+      "lat": 51.23206468387202, 
+      "lon": 2.921752490488312, 
       "pcode": 8400, 
-      "street": "Straat zonder einde", 
-      "lon": 2.921752490488312
+      "street": "Straat zonder einde"
     }
-  ], 
-  "name": "Straat zonder einde"
+  ]
 }

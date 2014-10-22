@@ -1,18 +1,16 @@
 {
-  "pcode": 9550, 
   "addresses": [
     {
-      "lat": 50.83289873356118, 
       "housenumber": "1", 
+      "lat": 50.83289873356118, 
+      "lon": 3.868455362705884, 
       "pcode": 9550, 
-      "street": "Ganzestraat", 
-      "lon": 3.868455362705884
+      "street": "Ganzestraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9550, 
-      "street": "Ganzestraat", 
-      "housenumber": "2"
+      "street": "Ganzestraat"
     }
-  ], 
-  "name": "Ganzestraat"
+  ]
 }

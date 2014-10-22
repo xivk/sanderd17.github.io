@@ -1,20 +1,18 @@
 {
-  "pcode": 9300, 
   "addresses": [
     {
-      "lat": 50.94403351657441, 
       "housenumber": "1", 
+      "lat": 50.94403351657441, 
+      "lon": 4.0358727220483495, 
       "pcode": 9300, 
-      "street": "Van Geemstraatje", 
-      "lon": 4.0358727220483495
+      "street": "Van Geemstraatje"
     }, 
     {
-      "lat": 50.944328068252894, 
       "housenumber": "2", 
+      "lat": 50.944328068252894, 
+      "lon": 4.035195184125145, 
       "pcode": 9300, 
-      "street": "Van Geemstraatje", 
-      "lon": 4.035195184125145
+      "street": "Van Geemstraatje"
     }
-  ], 
-  "name": "Van Geemstraatje"
+  ]
 }

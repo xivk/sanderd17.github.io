@@ -1,32 +1,30 @@
 {
-  "pcode": 1755, 
   "addresses": [
     {
-      "lat": 50.77136053819766, 
       "housenumber": "4", 
+      "lat": 50.77136053819766, 
+      "lon": 4.14253344232018, 
       "pcode": 1755, 
-      "street": "Putbeekstraat", 
-      "lon": 4.14253344232018
+      "street": "Putbeekstraat"
     }, 
     {
+      "housenumber": "4A", 
       "pcode": 1755, 
-      "street": "Putbeekstraat", 
-      "housenumber": "4A"
+      "street": "Putbeekstraat"
     }, 
     {
-      "lat": 50.77227594386938, 
       "housenumber": "6", 
+      "lat": 50.77227594386938, 
+      "lon": 4.142523670262078, 
       "pcode": 1755, 
-      "street": "Putbeekstraat", 
-      "lon": 4.142523670262078
+      "street": "Putbeekstraat"
     }, 
     {
-      "lat": 50.775180047157605, 
       "housenumber": "7", 
+      "lat": 50.775180047157605, 
+      "lon": 4.143772577392087, 
       "pcode": 1755, 
-      "street": "Putbeekstraat", 
-      "lon": 4.143772577392087
+      "street": "Putbeekstraat"
     }
-  ], 
-  "name": "Putbeekstraat"
+  ]
 }

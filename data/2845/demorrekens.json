@@ -1,18 +1,16 @@
 {
-  "pcode": 2845, 
   "addresses": [
     {
-      "lat": 51.099918828895, 
       "housenumber": "2", 
+      "lat": 51.099918828895, 
+      "lon": 4.335979613935286, 
       "pcode": 2845, 
-      "street": "De Morrekens", 
-      "lon": 4.335979613935286
+      "street": "De Morrekens"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2845, 
-      "street": "De Morrekens", 
-      "housenumber": "3"
+      "street": "De Morrekens"
     }
-  ], 
-  "name": "De Morrekens"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.81318639665115, 
       "housenumber": "1", 
+      "lat": 50.81318639665115, 
+      "lon": 3.281068947739045, 
       "pcode": 8500, 
-      "street": "Robert Deltourlaan", 
-      "lon": 3.281068947739045
+      "street": "Robert Deltourlaan"
     }, 
     {
-      "lat": 50.81305995773242, 
       "housenumber": "3", 
+      "lat": 50.81305995773242, 
+      "lon": 3.2814533156260164, 
       "pcode": 8500, 
-      "street": "Robert Deltourlaan", 
-      "lon": 3.2814533156260164
+      "street": "Robert Deltourlaan"
     }
-  ], 
-  "name": "Robert Deltourlaan"
+  ]
 }

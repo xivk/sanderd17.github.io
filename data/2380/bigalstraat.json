@@ -1,20 +1,18 @@
 {
-  "pcode": 2380, 
   "addresses": [
     {
-      "lat": 51.37991019629375, 
       "housenumber": "1", 
+      "lat": 51.37991019629375, 
+      "lon": 5.005298312080137, 
       "pcode": 2380, 
-      "street": "Bigalstraat", 
-      "lon": 5.005298312080137
+      "street": "Bigalstraat"
     }, 
     {
-      "lat": 51.37986462125391, 
       "housenumber": "3", 
+      "lat": 51.37986462125391, 
+      "lon": 5.003724245390472, 
       "pcode": 2380, 
-      "street": "Bigalstraat", 
-      "lon": 5.003724245390472
+      "street": "Bigalstraat"
     }
-  ], 
-  "name": "Bigalstraat"
+  ]
 }

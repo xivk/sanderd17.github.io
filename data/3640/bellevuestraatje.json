@@ -1,20 +1,18 @@
 {
-  "pcode": 3640, 
   "addresses": [
     {
-      "lat": 51.12618953107866, 
       "housenumber": "1", 
+      "lat": 51.12618953107866, 
+      "lon": 5.793142545194448, 
       "pcode": 3640, 
-      "street": "Bellevuestraatje", 
-      "lon": 5.793142545194448
+      "street": "Bellevuestraatje"
     }, 
     {
-      "lat": 51.12598983558187, 
       "housenumber": "2", 
+      "lat": 51.12598983558187, 
+      "lon": 5.792786855006941, 
       "pcode": 3640, 
-      "street": "Bellevuestraatje", 
-      "lon": 5.792786855006941
+      "street": "Bellevuestraatje"
     }
-  ], 
-  "name": "Bellevuestraatje"
+  ]
 }

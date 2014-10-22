@@ -1,20 +1,18 @@
 {
-  "pcode": 2940, 
   "addresses": [
     {
-      "lat": 51.32710075164225, 
       "housenumber": "1", 
+      "lat": 51.32710075164225, 
+      "lon": 4.355802573583385, 
       "pcode": 2940, 
-      "street": "Kommekensstraat", 
-      "lon": 4.355802573583385
+      "street": "Kommekensstraat"
     }, 
     {
-      "lat": 51.32690080442292, 
       "housenumber": "3", 
+      "lat": 51.32690080442292, 
+      "lon": 4.356152952976507, 
       "pcode": 2940, 
-      "street": "Kommekensstraat", 
-      "lon": 4.356152952976507
+      "street": "Kommekensstraat"
     }
-  ], 
-  "name": "Kommekensstraat"
+  ]
 }

@@ -1,51 +1,49 @@
 {
-  "pcode": 8501, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8501, 
-      "street": "Oogststraat", 
-      "housenumber": "1"
+      "street": "Oogststraat"
     }, 
     {
-      "lat": 50.83666225974605, 
       "housenumber": "31", 
+      "lat": 50.83666225974605, 
+      "lon": 3.2259913180962108, 
       "pcode": 8501, 
-      "street": "Oogststraat", 
-      "lon": 3.2259913180962108
+      "street": "Oogststraat"
     }, 
     {
-      "lat": 50.836643239954896, 
       "housenumber": "33", 
+      "lat": 50.836643239954896, 
+      "lon": 3.226087758458212, 
       "pcode": 8501, 
-      "street": "Oogststraat", 
-      "lon": 3.226087758458212
+      "street": "Oogststraat"
     }, 
     {
-      "lat": 50.83660364910101, 
       "housenumber": "35", 
+      "lat": 50.83660364910101, 
+      "lon": 3.2261213754328706, 
       "pcode": 8501, 
-      "street": "Oogststraat", 
-      "lon": 3.2261213754328706
+      "street": "Oogststraat"
     }, 
     {
+      "housenumber": "37", 
       "pcode": 8501, 
-      "street": "Oogststraat", 
-      "housenumber": "37"
+      "street": "Oogststraat"
     }, 
     {
-      "lat": 50.83650509944509, 
       "housenumber": "39", 
+      "lat": 50.83650509944509, 
+      "lon": 3.2261293062975454, 
       "pcode": 8501, 
-      "street": "Oogststraat", 
-      "lon": 3.2261293062975454
+      "street": "Oogststraat"
     }, 
     {
-      "lat": 50.837711391915654, 
       "housenumber": "7", 
+      "lat": 50.837711391915654, 
+      "lon": 3.2234853882702086, 
       "pcode": 8501, 
-      "street": "Oogststraat", 
-      "lon": 3.2234853882702086
+      "street": "Oogststraat"
     }
-  ], 
-  "name": "Oogststraat"
+  ]
 }

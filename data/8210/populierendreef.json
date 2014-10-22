@@ -1,30 +1,28 @@
 {
-  "pcode": 8210, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8210, 
-      "street": "Populierendreef", 
-      "housenumber": "1"
+      "street": "Populierendreef"
     }, 
     {
-      "lat": 51.136419795265, 
       "housenumber": "2", 
+      "lat": 51.136419795265, 
+      "lon": 3.1150868580580093, 
       "pcode": 8210, 
-      "street": "Populierendreef", 
-      "lon": 3.1150868580580093
+      "street": "Populierendreef"
     }, 
     {
-      "lat": 51.13693804199761, 
       "housenumber": "3", 
+      "lat": 51.13693804199761, 
+      "lon": 3.115364035025638, 
       "pcode": 8210, 
-      "street": "Populierendreef", 
-      "lon": 3.115364035025638
+      "street": "Populierendreef"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8210, 
-      "street": "Populierendreef", 
-      "housenumber": "4"
+      "street": "Populierendreef"
     }
-  ], 
-  "name": "Populierendreef"
+  ]
 }

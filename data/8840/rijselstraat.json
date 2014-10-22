@@ -1,20 +1,18 @@
 {
-  "pcode": 8840, 
   "addresses": [
     {
-      "lat": 50.952462819766176, 
       "housenumber": "2", 
+      "lat": 50.952462819766176, 
+      "lon": 3.0829454920876835, 
       "pcode": 8840, 
-      "street": "Rijselstraat", 
-      "lon": 3.0829454920876835
+      "street": "Rijselstraat"
     }, 
     {
-      "lat": 50.95329190105079, 
       "housenumber": "4", 
+      "lat": 50.95329190105079, 
+      "lon": 3.0830661058309965, 
       "pcode": 8840, 
-      "street": "Rijselstraat", 
-      "lon": 3.0830661058309965
+      "street": "Rijselstraat"
     }
-  ], 
-  "name": "Rijselstraat"
+  ]
 }

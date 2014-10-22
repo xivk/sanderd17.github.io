@@ -1,46 +1,44 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
+      "housenumber": "12", 
       "pcode": 9600, 
-      "street": "Ruddersveld", 
-      "housenumber": "12"
+      "street": "Ruddersveld"
     }, 
     {
-      "lat": 50.756155387855145, 
       "housenumber": "13", 
+      "lat": 50.756155387855145, 
+      "lon": 3.662042536611209, 
       "pcode": 9600, 
-      "street": "Ruddersveld", 
-      "lon": 3.662042536611209
+      "street": "Ruddersveld"
     }, 
     {
-      "lat": 50.756556230357326, 
       "housenumber": "3", 
+      "lat": 50.756556230357326, 
+      "lon": 3.657669461625433, 
       "pcode": 9600, 
-      "street": "Ruddersveld", 
-      "lon": 3.657669461625433
+      "street": "Ruddersveld"
     }, 
     {
-      "lat": 50.75726765921217, 
       "housenumber": "5", 
+      "lat": 50.75726765921217, 
+      "lon": 3.6579129947706335, 
       "pcode": 9600, 
-      "street": "Ruddersveld", 
-      "lon": 3.6579129947706335
+      "street": "Ruddersveld"
     }, 
     {
-      "lat": 50.75724255535688, 
       "housenumber": "7", 
+      "lat": 50.75724255535688, 
+      "lon": 3.6593780124561284, 
       "pcode": 9600, 
-      "street": "Ruddersveld", 
-      "lon": 3.6593780124561284
+      "street": "Ruddersveld"
     }, 
     {
-      "lat": 50.75653599394385, 
       "housenumber": "9", 
+      "lat": 50.75653599394385, 
+      "lon": 3.661113048373277, 
       "pcode": 9600, 
-      "street": "Ruddersveld", 
-      "lon": 3.661113048373277
+      "street": "Ruddersveld"
     }
-  ], 
-  "name": "Ruddersveld"
+  ]
 }

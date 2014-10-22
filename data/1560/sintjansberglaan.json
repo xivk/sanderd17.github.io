@@ -1,20 +1,18 @@
 {
-  "pcode": 1560, 
   "addresses": [
     {
-      "lat": 50.75752745554472, 
       "housenumber": "10", 
+      "lat": 50.75752745554472, 
+      "lon": 4.433415753374589, 
       "pcode": 1560, 
-      "street": "Sint Jansberglaan", 
-      "lon": 4.433415753374589
+      "street": "Sint Jansberglaan"
     }, 
     {
-      "lat": 50.736633586709864, 
       "housenumber": "8", 
+      "lat": 50.736633586709864, 
+      "lon": 4.423065869651324, 
       "pcode": 1560, 
-      "street": "Sint Jansberglaan", 
-      "lon": 4.423065869651324
+      "street": "Sint Jansberglaan"
     }
-  ], 
-  "name": "Sint Jansberglaan"
+  ]
 }

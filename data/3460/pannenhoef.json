@@ -1,25 +1,23 @@
 {
-  "pcode": 3460, 
   "addresses": [
     {
-      "lat": 50.94747155844045, 
       "housenumber": "7", 
+      "lat": 50.94747155844045, 
+      "lon": 5.00856045846461, 
       "pcode": 3460, 
-      "street": "Pannenhoef", 
-      "lon": 5.00856045846461
+      "street": "Pannenhoef"
     }, 
     {
-      "lat": 50.94657390310686, 
       "housenumber": "8", 
+      "lat": 50.94657390310686, 
+      "lon": 5.005973692397259, 
       "pcode": 3460, 
-      "street": "Pannenhoef", 
-      "lon": 5.005973692397259
+      "street": "Pannenhoef"
     }, 
     {
+      "housenumber": "8A", 
       "pcode": 3460, 
-      "street": "Pannenhoef", 
-      "housenumber": "8A"
+      "street": "Pannenhoef"
     }
-  ], 
-  "name": "Pannenhoef"
+  ]
 }

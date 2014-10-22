@@ -1,20 +1,18 @@
 {
-  "pcode": 2490, 
   "addresses": [
     {
-      "lat": 51.15617697495089, 
       "housenumber": "1", 
+      "lat": 51.15617697495089, 
+      "lon": 5.151235394150133, 
       "pcode": 2490, 
-      "street": "KMO-straat", 
-      "lon": 5.151235394150133
+      "street": "KMO-straat"
     }, 
     {
-      "lat": 51.15566017620846, 
       "housenumber": "5", 
+      "lat": 51.15566017620846, 
+      "lon": 5.1502884628613925, 
       "pcode": 2490, 
-      "street": "KMO-straat", 
-      "lon": 5.1502884628613925
+      "street": "KMO-straat"
     }
-  ], 
-  "name": "KMO-straat"
+  ]
 }

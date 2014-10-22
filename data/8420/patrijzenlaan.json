@@ -1,20 +1,18 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
-      "lat": 51.26560649783051, 
       "housenumber": "1", 
+      "lat": 51.26560649783051, 
+      "lon": 3.0276749849063975, 
       "pcode": 8420, 
-      "street": "Patrijzenlaan", 
-      "lon": 3.0276749849063975
+      "street": "Patrijzenlaan"
     }, 
     {
-      "lat": 51.26556724982098, 
       "housenumber": "4", 
+      "lat": 51.26556724982098, 
+      "lon": 3.0274957079543334, 
       "pcode": 8420, 
-      "street": "Patrijzenlaan", 
-      "lon": 3.0274957079543334
+      "street": "Patrijzenlaan"
     }
-  ], 
-  "name": "Patrijzenlaan"
+  ]
 }

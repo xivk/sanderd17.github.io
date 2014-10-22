@@ -1,27 +1,25 @@
 {
-  "pcode": 8750, 
   "addresses": [
     {
-      "lat": 51.039623780480966, 
       "housenumber": "1", 
+      "lat": 51.039623780480966, 
+      "lon": 3.195817697118032, 
       "pcode": 8750, 
-      "street": "Blindestraat", 
-      "lon": 3.195817697118032
+      "street": "Blindestraat"
     }, 
     {
-      "lat": 51.04058392901088, 
       "housenumber": "2", 
+      "lat": 51.04058392901088, 
+      "lon": 3.1979969514735407, 
       "pcode": 8750, 
-      "street": "Blindestraat", 
-      "lon": 3.1979969514735407
+      "street": "Blindestraat"
     }, 
     {
-      "lat": 51.03947468725745, 
       "housenumber": "2A", 
+      "lat": 51.03947468725745, 
+      "lon": 3.1962927101481586, 
       "pcode": 8750, 
-      "street": "Blindestraat", 
-      "lon": 3.1962927101481586
+      "street": "Blindestraat"
     }
-  ], 
-  "name": "Blindestraat"
+  ]
 }

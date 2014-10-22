@@ -1,25 +1,23 @@
 {
-  "pcode": 2070, 
   "addresses": [
     {
+      "housenumber": "4", 
       "pcode": 2070, 
-      "street": "Boereveldseweg", 
-      "housenumber": "4"
+      "street": "Boereveldseweg"
     }, 
     {
-      "lat": 51.24009536701447, 
       "housenumber": "6", 
+      "lat": 51.24009536701447, 
+      "lon": 4.30233917290723, 
       "pcode": 2070, 
-      "street": "Boereveldseweg", 
-      "lon": 4.30233917290723
+      "street": "Boereveldseweg"
     }, 
     {
-      "lat": 51.241079542938, 
       "housenumber": "8", 
+      "lat": 51.241079542938, 
+      "lon": 4.303563676068359, 
       "pcode": 2070, 
-      "street": "Boereveldseweg", 
-      "lon": 4.303563676068359
+      "street": "Boereveldseweg"
     }
-  ], 
-  "name": "Boereveldseweg"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 3200, 
   "addresses": [
     {
+      "housenumber": "102", 
       "pcode": 3200, 
-      "street": "Waterloosstraat", 
-      "housenumber": "102"
+      "street": "Waterloosstraat"
     }, 
     {
-      "lat": 50.96044895431655, 
       "housenumber": "21", 
+      "lat": 50.96044895431655, 
+      "lon": 4.79211547751346, 
       "pcode": 3200, 
-      "street": "Waterloosstraat", 
-      "lon": 4.79211547751346
+      "street": "Waterloosstraat"
     }
-  ], 
-  "name": "Waterloosstraat"
+  ]
 }

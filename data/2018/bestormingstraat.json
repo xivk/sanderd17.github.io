@@ -1,44 +1,42 @@
 {
-  "pcode": 2018, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2018, 
-      "street": "Bestormingstraat", 
-      "housenumber": "1"
+      "street": "Bestormingstraat"
     }, 
     {
+      "housenumber": "21_2", 
       "pcode": 2018, 
-      "street": "Bestormingstraat", 
-      "housenumber": "21_2"
+      "street": "Bestormingstraat"
     }, 
     {
-      "lat": 51.20517559059525, 
       "housenumber": "22", 
+      "lat": 51.20517559059525, 
+      "lon": 4.396182449280718, 
       "pcode": 2018, 
-      "street": "Bestormingstraat", 
-      "lon": 4.396182449280718
+      "street": "Bestormingstraat"
     }, 
     {
-      "lat": 51.20583444012654, 
       "housenumber": "5", 
+      "lat": 51.20583444012654, 
+      "lon": 4.396570897328864, 
       "pcode": 2018, 
-      "street": "Bestormingstraat", 
-      "lon": 4.396570897328864
+      "street": "Bestormingstraat"
     }, 
     {
-      "lat": 51.20551929699095, 
       "housenumber": "6", 
+      "lat": 51.20551929699095, 
+      "lon": 4.396231162537688, 
       "pcode": 2018, 
-      "street": "Bestormingstraat", 
-      "lon": 4.396231162537688
+      "street": "Bestormingstraat"
     }, 
     {
-      "lat": 51.20577286238235, 
       "housenumber": "7", 
+      "lat": 51.20577286238235, 
+      "lon": 4.396599620052078, 
       "pcode": 2018, 
-      "street": "Bestormingstraat", 
-      "lon": 4.396599620052078
+      "street": "Bestormingstraat"
     }
-  ], 
-  "name": "Bestormingstraat"
+  ]
 }

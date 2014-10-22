@@ -1,32 +1,30 @@
 {
-  "pcode": 2490, 
   "addresses": [
     {
-      "lat": 51.19562982343462, 
       "housenumber": "1", 
+      "lat": 51.19562982343462, 
+      "lon": 5.227349957105744, 
       "pcode": 2490, 
-      "street": "Kloosterplein", 
-      "lon": 5.227349957105744
+      "street": "Kloosterplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2490, 
-      "street": "Kloosterplein", 
-      "housenumber": "2"
+      "street": "Kloosterplein"
     }, 
     {
-      "lat": 51.195616011767314, 
       "housenumber": "3", 
+      "lat": 51.195616011767314, 
+      "lon": 5.228062308485884, 
       "pcode": 2490, 
-      "street": "Kloosterplein", 
-      "lon": 5.228062308485884
+      "street": "Kloosterplein"
     }, 
     {
-      "lat": 51.19538331894048, 
       "housenumber": "6", 
+      "lat": 51.19538331894048, 
+      "lon": 5.228711964948849, 
       "pcode": 2490, 
-      "street": "Kloosterplein", 
-      "lon": 5.228711964948849
+      "street": "Kloosterplein"
     }
-  ], 
-  "name": "Kloosterplein"
+  ]
 }

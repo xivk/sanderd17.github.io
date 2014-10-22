@@ -1,27 +1,25 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.04558477653943, 
       "housenumber": "1", 
+      "lat": 51.04558477653943, 
+      "lon": 3.7037758199350734, 
       "pcode": 9000, 
-      "street": "Yachtdreef", 
-      "lon": 3.7037758199350734
+      "street": "Yachtdreef"
     }, 
     {
-      "lat": 51.04568687607894, 
       "housenumber": "1A", 
+      "lat": 51.04568687607894, 
+      "lon": 3.703597115721282, 
       "pcode": 9000, 
-      "street": "Yachtdreef", 
-      "lon": 3.703597115721282
+      "street": "Yachtdreef"
     }, 
     {
-      "lat": 51.04600072951209, 
       "housenumber": "2", 
+      "lat": 51.04600072951209, 
+      "lon": 3.703332693628903, 
       "pcode": 9000, 
-      "street": "Yachtdreef", 
-      "lon": 3.703332693628903
+      "street": "Yachtdreef"
     }
-  ], 
-  "name": "Yachtdreef"
+  ]
 }

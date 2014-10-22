@@ -1,20 +1,18 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.31135993310526, 
       "housenumber": "5", 
+      "lat": 51.31135993310526, 
+      "lon": 3.308677638361508, 
       "pcode": 8300, 
-      "street": "Zuidwatergangdreef", 
-      "lon": 3.308677638361508
+      "street": "Zuidwatergangdreef"
     }, 
     {
-      "lat": 51.30763839883272, 
       "housenumber": "7", 
+      "lat": 51.30763839883272, 
+      "lon": 3.3089181048360414, 
       "pcode": 8300, 
-      "street": "Zuidwatergangdreef", 
-      "lon": 3.3089181048360414
+      "street": "Zuidwatergangdreef"
     }
-  ], 
-  "name": "Zuidwatergangdreef"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 1500, 
   "addresses": [
     {
-      "lat": 50.73644812637831, 
       "housenumber": "3", 
+      "lat": 50.73644812637831, 
+      "lon": 4.240064650320394, 
       "pcode": 1500, 
-      "street": "Leide", 
-      "lon": 4.240064650320394
+      "street": "Leide"
     }, 
     {
-      "lat": 50.735855263134745, 
       "housenumber": "4", 
+      "lat": 50.735855263134745, 
+      "lon": 4.240653156257472, 
       "pcode": 1500, 
-      "street": "Leide", 
-      "lon": 4.240653156257472
+      "street": "Leide"
     }, 
     {
-      "lat": 50.73578508083669, 
       "housenumber": "5", 
+      "lat": 50.73578508083669, 
+      "lon": 4.240596257319794, 
       "pcode": 1500, 
-      "street": "Leide", 
-      "lon": 4.240596257319794
+      "street": "Leide"
     }
-  ], 
-  "name": "Leide"
+  ]
 }

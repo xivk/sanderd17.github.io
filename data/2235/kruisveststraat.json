@@ -1,25 +1,23 @@
 {
-  "pcode": 2235, 
   "addresses": [
     {
-      "lat": 51.03340814902791, 
       "housenumber": "1", 
+      "lat": 51.03340814902791, 
+      "lon": 4.796634731546118, 
       "pcode": 2235, 
-      "street": "Kruisveststraat", 
-      "lon": 4.796634731546118
+      "street": "Kruisveststraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2235, 
-      "street": "Kruisveststraat", 
-      "housenumber": "2"
+      "street": "Kruisveststraat"
     }, 
     {
-      "lat": 51.034372255847046, 
       "housenumber": "3", 
+      "lat": 51.034372255847046, 
+      "lon": 4.796752476715343, 
       "pcode": 2235, 
-      "street": "Kruisveststraat", 
-      "lon": 4.796752476715343
+      "street": "Kruisveststraat"
     }
-  ], 
-  "name": "Kruisveststraat"
+  ]
 }

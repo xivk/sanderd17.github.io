@@ -1,45 +1,43 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2000, 
-      "street": "Beggaardenstraat", 
-      "housenumber": "1"
+      "street": "Beggaardenstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2000, 
-      "street": "Beggaardenstraat", 
-      "housenumber": "2"
+      "street": "Beggaardenstraat"
     }, 
     {
-      "lat": 51.21957394878066, 
       "housenumber": "21", 
+      "lat": 51.21957394878066, 
+      "lon": 4.405024323591196, 
       "pcode": 2000, 
-      "street": "Beggaardenstraat", 
-      "lon": 4.405024323591196
+      "street": "Beggaardenstraat"
     }, 
     {
+      "housenumber": "21_1", 
       "pcode": 2000, 
-      "street": "Beggaardenstraat", 
-      "housenumber": "21_1"
+      "street": "Beggaardenstraat"
     }, 
     {
-      "lat": 51.219523325157134, 
       "housenumber": "23", 
+      "lat": 51.219523325157134, 
+      "lon": 4.405084969981361, 
       "pcode": 2000, 
-      "street": "Beggaardenstraat", 
-      "lon": 4.405084969981361
+      "street": "Beggaardenstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2000, 
-      "street": "Beggaardenstraat", 
-      "housenumber": "3"
+      "street": "Beggaardenstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2000, 
-      "street": "Beggaardenstraat", 
-      "housenumber": "6"
+      "street": "Beggaardenstraat"
     }
-  ], 
-  "name": "Beggaardenstraat"
+  ]
 }

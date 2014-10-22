@@ -1,20 +1,18 @@
 {
-  "pcode": 2880, 
   "addresses": [
     {
-      "lat": 51.10590739157431, 
       "housenumber": "1", 
+      "lat": 51.10590739157431, 
+      "lon": 4.259002968766076, 
       "pcode": 2880, 
-      "street": "Zijdeweg", 
-      "lon": 4.259002968766076
+      "street": "Zijdeweg"
     }, 
     {
-      "lat": 51.105916584563005, 
       "housenumber": "2", 
+      "lat": 51.105916584563005, 
+      "lon": 4.258641140594347, 
       "pcode": 2880, 
-      "street": "Zijdeweg", 
-      "lon": 4.258641140594347
+      "street": "Zijdeweg"
     }
-  ], 
-  "name": "Zijdeweg"
+  ]
 }

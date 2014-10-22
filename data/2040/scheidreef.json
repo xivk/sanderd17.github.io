@@ -1,25 +1,23 @@
 {
-  "pcode": 2040, 
   "addresses": [
     {
-      "lat": 51.370035505196846, 
       "housenumber": "20", 
+      "lat": 51.370035505196846, 
+      "lon": 4.335824199190099, 
       "pcode": 2040, 
-      "street": "Scheidreef", 
-      "lon": 4.335824199190099
+      "street": "Scheidreef"
     }, 
     {
-      "lat": 51.36989555936952, 
       "housenumber": "22", 
+      "lat": 51.36989555936952, 
+      "lon": 4.334827770131643, 
       "pcode": 2040, 
-      "street": "Scheidreef", 
-      "lon": 4.334827770131643
+      "street": "Scheidreef"
     }, 
     {
+      "housenumber": "402", 
       "pcode": 2040, 
-      "street": "Scheidreef", 
-      "housenumber": "402"
+      "street": "Scheidreef"
     }
-  ], 
-  "name": "Scheidreef"
+  ]
 }

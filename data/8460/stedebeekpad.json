@@ -1,20 +1,18 @@
 {
-  "pcode": 8460, 
   "addresses": [
     {
-      "lat": 51.1823588414144, 
       "housenumber": "1", 
+      "lat": 51.1823588414144, 
+      "lon": 3.0054278432881496, 
       "pcode": 8460, 
-      "street": "Stedebeekpad", 
-      "lon": 3.0054278432881496
+      "street": "Stedebeekpad"
     }, 
     {
-      "lat": 51.18229934371838, 
       "housenumber": "2", 
+      "lat": 51.18229934371838, 
+      "lon": 3.0064505895081557, 
       "pcode": 8460, 
-      "street": "Stedebeekpad", 
-      "lon": 3.0064505895081557
+      "street": "Stedebeekpad"
     }
-  ], 
-  "name": "Stedebeekpad"
+  ]
 }

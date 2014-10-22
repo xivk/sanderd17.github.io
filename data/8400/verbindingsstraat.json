@@ -1,20 +1,18 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.21570475858819, 
       "housenumber": "2", 
+      "lat": 51.21570475858819, 
+      "lon": 2.9362974833276736, 
       "pcode": 8400, 
-      "street": "Verbindingsstraat", 
-      "lon": 2.9362974833276736
+      "street": "Verbindingsstraat"
     }, 
     {
-      "lat": 51.21570970835977, 
       "housenumber": "4", 
+      "lat": 51.21570970835977, 
+      "lon": 2.936201425192898, 
       "pcode": 8400, 
-      "street": "Verbindingsstraat", 
-      "lon": 2.936201425192898
+      "street": "Verbindingsstraat"
     }
-  ], 
-  "name": "Verbindingsstraat"
+  ]
 }

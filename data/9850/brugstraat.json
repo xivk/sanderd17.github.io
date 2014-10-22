@@ -1,27 +1,25 @@
 {
-  "pcode": 9850, 
   "addresses": [
     {
-      "lat": 51.03730320487457, 
       "housenumber": "1", 
+      "lat": 51.03730320487457, 
+      "lon": 3.552443678483329, 
       "pcode": 9850, 
-      "street": "Brugstraat", 
-      "lon": 3.552443678483329
+      "street": "Brugstraat"
     }, 
     {
-      "lat": 51.03658947615974, 
       "housenumber": "2", 
+      "lat": 51.03658947615974, 
+      "lon": 3.552008276344766, 
       "pcode": 9850, 
-      "street": "Brugstraat", 
-      "lon": 3.552008276344766
+      "street": "Brugstraat"
     }, 
     {
-      "lat": 51.037036271096525, 
       "housenumber": "3", 
+      "lat": 51.037036271096525, 
+      "lon": 3.552023443039727, 
       "pcode": 9850, 
-      "street": "Brugstraat", 
-      "lon": 3.552023443039727
+      "street": "Brugstraat"
     }
-  ], 
-  "name": "Brugstraat"
+  ]
 }

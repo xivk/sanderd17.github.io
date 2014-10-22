@@ -1,20 +1,18 @@
 {
-  "pcode": 9051, 
   "addresses": [
     {
-      "lat": 51.008363819117875, 
       "housenumber": "1", 
+      "lat": 51.008363819117875, 
+      "lon": 3.657156308278304, 
       "pcode": 9051, 
-      "street": "Keistraat", 
-      "lon": 3.657156308278304
+      "street": "Keistraat"
     }, 
     {
-      "lat": 51.008152429140694, 
       "housenumber": "2", 
+      "lat": 51.008152429140694, 
+      "lon": 3.656479130117635, 
       "pcode": 9051, 
-      "street": "Keistraat", 
-      "lon": 3.656479130117635
+      "street": "Keistraat"
     }
-  ], 
-  "name": "Keistraat"
+  ]
 }

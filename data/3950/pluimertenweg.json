@@ -1,20 +1,18 @@
 {
-  "pcode": 3950, 
   "addresses": [
     {
-      "lat": 51.198800629437336, 
       "housenumber": "1", 
+      "lat": 51.198800629437336, 
+      "lon": 5.576456258102479, 
       "pcode": 3950, 
-      "street": "Pluimertenweg", 
-      "lon": 5.576456258102479
+      "street": "Pluimertenweg"
     }, 
     {
-      "lat": 51.20039697755122, 
       "housenumber": "2", 
+      "lat": 51.20039697755122, 
+      "lon": 5.575747255853847, 
       "pcode": 3950, 
-      "street": "Pluimertenweg", 
-      "lon": 5.575747255853847
+      "street": "Pluimertenweg"
     }
-  ], 
-  "name": "Pluimertenweg"
+  ]
 }

@@ -1,38 +1,36 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "22", 
       "pcode": 2000, 
-      "street": "De Vest", 
-      "housenumber": "22"
+      "street": "De Vest"
     }, 
     {
+      "housenumber": "24", 
       "pcode": 2000, 
-      "street": "De Vest", 
-      "housenumber": "24"
+      "street": "De Vest"
     }, 
     {
+      "housenumber": "28", 
       "pcode": 2000, 
-      "street": "De Vest", 
-      "housenumber": "28"
+      "street": "De Vest"
     }, 
     {
+      "housenumber": "34", 
       "pcode": 2000, 
-      "street": "De Vest", 
-      "housenumber": "34"
+      "street": "De Vest"
     }, 
     {
+      "housenumber": "40", 
       "pcode": 2000, 
-      "street": "De Vest", 
-      "housenumber": "40"
+      "street": "De Vest"
     }, 
     {
-      "lat": 51.359229246539954, 
       "housenumber": "8", 
+      "lat": 51.359229246539954, 
+      "lon": 4.305160800089504, 
       "pcode": 2000, 
-      "street": "De Vest", 
-      "lon": 4.305160800089504
+      "street": "De Vest"
     }
-  ], 
-  "name": "De Vest"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8760, 
   "addresses": [
     {
-      "lat": 50.955522260603935, 
       "housenumber": "1", 
+      "lat": 50.955522260603935, 
+      "lon": 3.2426466696152674, 
       "pcode": 8760, 
-      "street": "Vennensdreef", 
-      "lon": 3.2426466696152674
+      "street": "Vennensdreef"
     }, 
     {
-      "lat": 50.9552899021786, 
       "housenumber": "2", 
+      "lat": 50.9552899021786, 
+      "lon": 3.2438628346357197, 
       "pcode": 8760, 
-      "street": "Vennensdreef", 
-      "lon": 3.2438628346357197
+      "street": "Vennensdreef"
     }
-  ], 
-  "name": "Vennensdreef"
+  ]
 }

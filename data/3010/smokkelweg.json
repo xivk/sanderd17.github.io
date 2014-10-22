@@ -1,27 +1,25 @@
 {
-  "pcode": 3010, 
   "addresses": [
     {
-      "lat": 50.908034042312316, 
       "housenumber": "33", 
+      "lat": 50.908034042312316, 
+      "lon": 4.743629227904239, 
       "pcode": 3010, 
-      "street": "Smokkelweg", 
-      "lon": 4.743629227904239
+      "street": "Smokkelweg"
     }, 
     {
-      "lat": 50.908190889471406, 
       "housenumber": "35", 
+      "lat": 50.908190889471406, 
+      "lon": 4.744337265191537, 
       "pcode": 3010, 
-      "street": "Smokkelweg", 
-      "lon": 4.744337265191537
+      "street": "Smokkelweg"
     }, 
     {
-      "lat": 50.907505368400315, 
       "housenumber": "39", 
+      "lat": 50.907505368400315, 
+      "lon": 4.743855044285534, 
       "pcode": 3010, 
-      "street": "Smokkelweg", 
-      "lon": 4.743855044285534
+      "street": "Smokkelweg"
     }
-  ], 
-  "name": "Smokkelweg"
+  ]
 }

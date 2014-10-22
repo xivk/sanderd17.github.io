@@ -1,20 +1,18 @@
 {
-  "pcode": 3550, 
   "addresses": [
     {
-      "lat": 50.98565597239421, 
       "housenumber": "31", 
+      "lat": 50.98565597239421, 
+      "lon": 5.256598965545382, 
       "pcode": 3550, 
-      "street": "Regenbooglaan", 
-      "lon": 5.256598965545382
+      "street": "Regenbooglaan"
     }, 
     {
-      "lat": 50.986023443438945, 
       "housenumber": "37", 
+      "lat": 50.986023443438945, 
+      "lon": 5.255531331336068, 
       "pcode": 3550, 
-      "street": "Regenbooglaan", 
-      "lon": 5.255531331336068
+      "street": "Regenbooglaan"
     }
-  ], 
-  "name": "Regenbooglaan"
+  ]
 }

@@ -1,30 +1,28 @@
 {
-  "pcode": 8510, 
   "addresses": [
     {
-      "lat": 50.75674019179969, 
       "housenumber": "1", 
+      "lat": 50.75674019179969, 
+      "lon": 3.3149981669699065, 
       "pcode": 8510, 
-      "street": "Verloren Hof", 
-      "lon": 3.3149981669699065
+      "street": "Verloren Hof"
     }, 
     {
-      "lat": 50.760693824608005, 
       "housenumber": "2", 
+      "lat": 50.760693824608005, 
+      "lon": 3.3201582686106743, 
       "pcode": 8510, 
-      "street": "Verloren Hof", 
-      "lon": 3.3201582686106743
+      "street": "Verloren Hof"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8510, 
-      "street": "Verloren Hof", 
-      "housenumber": "3"
+      "street": "Verloren Hof"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8510, 
-      "street": "Verloren Hof", 
-      "housenumber": "4"
+      "street": "Verloren Hof"
     }
-  ], 
-  "name": "Verloren Hof"
+  ]
 }

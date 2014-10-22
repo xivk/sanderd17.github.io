@@ -1,40 +1,40 @@
 {
   "streets": [
     {
-      "latmax": 50.72688768598677, 
-      "name": "Crisn\u0082estraat", 
-      "lonmin": 5.421749974604053, 
+      "b": 50.72688768598677, 
+      "l": 5.421749974604053, 
+      "name": "Crisn\u00e9estraat", 
+      "numOfAddr": 1, 
+      "r": 5.421749974604053, 
       "sanName": "crisnestraat", 
-      "numOfAddr": 1, 
-      "lonmax": 5.421749974604053, 
-      "latmin": 50.72688768598677
+      "t": 50.72688768598677
     }, 
     {
-      "latmax": 50.72836981222333, 
+      "b": 50.725906870605236, 
+      "l": 5.422217841269298, 
       "name": "Dorpsstraat", 
-      "lonmin": 5.422217841269298, 
-      "sanName": "dorpsstraat", 
       "numOfAddr": 24, 
-      "lonmax": 5.428756265166335, 
-      "latmin": 50.725906870605236
+      "r": 5.428756265166335, 
+      "sanName": "dorpsstraat", 
+      "t": 50.72836981222333
     }, 
     {
-      "latmax": 50.72781825299501, 
+      "b": 50.72679280173023, 
+      "l": 5.426291318009582, 
       "name": "Kerkstraat", 
-      "lonmin": 5.426291318009582, 
-      "sanName": "kerkstraat", 
       "numOfAddr": 5, 
-      "lonmax": 5.427737615880897, 
-      "latmin": 50.72679280173023
+      "r": 5.427737615880897, 
+      "sanName": "kerkstraat", 
+      "t": 50.72781825299501
     }, 
     {
-      "latmax": 50.72438193863072, 
-      "name": "Villers-l'Ev\u0088que straat", 
-      "lonmin": 5.425550077747022, 
-      "sanName": "villerslevquestraat", 
+      "b": 50.72438193863072, 
+      "l": 5.425550077747022, 
+      "name": "Villers-l'Ev\u00eaque straat", 
       "numOfAddr": 1, 
-      "lonmax": 5.425550077747022, 
-      "latmin": 50.72438193863072
+      "r": 5.425550077747022, 
+      "sanName": "villerslevquestraat", 
+      "t": 50.72438193863072
     }
   ]
 }

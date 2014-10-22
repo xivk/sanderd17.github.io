@@ -1,25 +1,23 @@
 {
-  "pcode": 1785, 
   "addresses": [
     {
+      "housenumber": "15", 
       "pcode": 1785, 
-      "street": "Hackestraat", 
-      "housenumber": "15"
+      "street": "Hackestraat"
     }, 
     {
-      "lat": 50.944653378012426, 
       "housenumber": "15A", 
+      "lat": 50.944653378012426, 
+      "lon": 4.252337936191936, 
       "pcode": 1785, 
-      "street": "Hackestraat", 
-      "lon": 4.252337936191936
+      "street": "Hackestraat"
     }, 
     {
-      "lat": 50.94524060774144, 
       "housenumber": "19", 
+      "lat": 50.94524060774144, 
+      "lon": 4.252664043214933, 
       "pcode": 1785, 
-      "street": "Hackestraat", 
-      "lon": 4.252664043214933
+      "street": "Hackestraat"
     }
-  ], 
-  "name": "Hackestraat"
+  ]
 }

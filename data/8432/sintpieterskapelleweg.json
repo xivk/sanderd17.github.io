@@ -1,32 +1,30 @@
 {
-  "pcode": 8432, 
   "addresses": [
     {
+      "housenumber": "35", 
       "pcode": 8432, 
-      "street": "Sint-Pieterskapelleweg", 
-      "housenumber": "35"
+      "street": "Sint-Pieterskapelleweg"
     }, 
     {
-      "lat": 51.138616859526564, 
       "housenumber": "4", 
+      "lat": 51.138616859526564, 
+      "lon": 2.8703386643506064, 
       "pcode": 8432, 
-      "street": "Sint-Pieterskapelleweg", 
-      "lon": 2.8703386643506064
+      "street": "Sint-Pieterskapelleweg"
     }, 
     {
-      "lat": 51.1396340540148, 
       "housenumber": "5", 
+      "lat": 51.1396340540148, 
+      "lon": 2.8675155271574972, 
       "pcode": 8432, 
-      "street": "Sint-Pieterskapelleweg", 
-      "lon": 2.8675155271574972
+      "street": "Sint-Pieterskapelleweg"
     }, 
     {
-      "lat": 51.14203272775607, 
       "housenumber": "6", 
+      "lat": 51.14203272775607, 
+      "lon": 2.8723394779071274, 
       "pcode": 8432, 
-      "street": "Sint-Pieterskapelleweg", 
-      "lon": 2.8723394779071274
+      "street": "Sint-Pieterskapelleweg"
     }
-  ], 
-  "name": "Sint-Pieterskapelleweg"
+  ]
 }

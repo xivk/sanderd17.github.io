@@ -1,34 +1,32 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.975758858323374, 
       "housenumber": "1", 
+      "lat": 50.975758858323374, 
+      "lon": 5.483953236596847, 
       "pcode": 3600, 
-      "street": "Haagdoornstraat", 
-      "lon": 5.483953236596847
+      "street": "Haagdoornstraat"
     }, 
     {
-      "lat": 50.975752870869215, 
       "housenumber": "3", 
+      "lat": 50.975752870869215, 
+      "lon": 5.48385469544332, 
       "pcode": 3600, 
-      "street": "Haagdoornstraat", 
-      "lon": 5.48385469544332
+      "street": "Haagdoornstraat"
     }, 
     {
-      "lat": 50.97573125439161, 
       "housenumber": "5", 
+      "lat": 50.97573125439161, 
+      "lon": 5.483612527674092, 
       "pcode": 3600, 
-      "street": "Haagdoornstraat", 
-      "lon": 5.483612527674092
+      "street": "Haagdoornstraat"
     }, 
     {
-      "lat": 50.975710600352, 
       "housenumber": "7", 
+      "lat": 50.975710600352, 
+      "lon": 5.4835058056005686, 
       "pcode": 3600, 
-      "street": "Haagdoornstraat", 
-      "lon": 5.4835058056005686
+      "street": "Haagdoornstraat"
     }
-  ], 
-  "name": "Haagdoornstraat"
+  ]
 }

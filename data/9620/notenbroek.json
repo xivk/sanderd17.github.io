@@ -1,20 +1,18 @@
 {
-  "pcode": 9620, 
   "addresses": [
     {
-      "lat": 50.85335329307719, 
       "housenumber": "1", 
+      "lat": 50.85335329307719, 
+      "lon": 3.8052634363170266, 
       "pcode": 9620, 
-      "street": "Notenbroek", 
-      "lon": 3.8052634363170266
+      "street": "Notenbroek"
     }, 
     {
-      "lat": 50.85313666505366, 
       "housenumber": "3", 
+      "lat": 50.85313666505366, 
+      "lon": 3.805156251226091, 
       "pcode": 9620, 
-      "street": "Notenbroek", 
-      "lon": 3.805156251226091
+      "street": "Notenbroek"
     }
-  ], 
-  "name": "Notenbroek"
+  ]
 }

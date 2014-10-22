@@ -1,20 +1,18 @@
 {
-  "pcode": 8700, 
   "addresses": [
     {
-      "lat": 51.025010268709316, 
       "housenumber": "1", 
+      "lat": 51.025010268709316, 
+      "lon": 3.375042906821614, 
       "pcode": 8700, 
-      "street": "Viggezelestraat", 
-      "lon": 3.375042906821614
+      "street": "Viggezelestraat"
     }, 
     {
-      "lat": 51.02717524158324, 
       "housenumber": "2", 
+      "lat": 51.02717524158324, 
+      "lon": 3.3698177400636853, 
       "pcode": 8700, 
-      "street": "Viggezelestraat", 
-      "lon": 3.3698177400636853
+      "street": "Viggezelestraat"
     }
-  ], 
-  "name": "Viggezelestraat"
+  ]
 }

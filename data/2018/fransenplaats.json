@@ -1,72 +1,70 @@
 {
-  "pcode": 2018, 
   "addresses": [
     {
-      "lat": 51.20048650082011, 
       "housenumber": "1", 
+      "lat": 51.20048650082011, 
+      "lon": 4.39834527556572, 
       "pcode": 2018, 
-      "street": "Fransenplaats", 
-      "lon": 4.39834527556572
+      "street": "Fransenplaats"
     }, 
     {
-      "lat": 51.20091050449357, 
       "housenumber": "10", 
-      "pcode": 2018, 
-      "street": "Fransenplaats", 
-      "lon": 4.398274444324643
-    }, 
-    {
       "lat": 51.20091050449357, 
+      "lon": 4.398274444324643, 
+      "pcode": 2018, 
+      "street": "Fransenplaats"
+    }, 
+    {
       "housenumber": "11", 
+      "lat": 51.20091050449357, 
+      "lon": 4.398274444324643, 
       "pcode": 2018, 
-      "street": "Fransenplaats", 
-      "lon": 4.398274444324643
+      "street": "Fransenplaats"
     }, 
     {
-      "lat": 51.20038568694529, 
       "housenumber": "2", 
+      "lat": 51.20038568694529, 
+      "lon": 4.398201997178151, 
       "pcode": 2018, 
-      "street": "Fransenplaats", 
-      "lon": 4.398201997178151
+      "street": "Fransenplaats"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2018, 
-      "street": "Fransenplaats", 
-      "housenumber": "3"
+      "street": "Fransenplaats"
     }, 
     {
-      "lat": 51.20072979105841, 
       "housenumber": "6", 
+      "lat": 51.20072979105841, 
+      "lon": 4.397744392581824, 
       "pcode": 2018, 
-      "street": "Fransenplaats", 
-      "lon": 4.397744392581824
+      "street": "Fransenplaats"
     }, 
     {
-      "lat": 51.200770400925876, 
       "housenumber": "7", 
+      "lat": 51.200770400925876, 
+      "lon": 4.397815810875901, 
       "pcode": 2018, 
-      "street": "Fransenplaats", 
-      "lon": 4.397815810875901
+      "street": "Fransenplaats"
     }, 
     {
-      "lat": 51.2008022089204, 
       "housenumber": "8", 
+      "lat": 51.2008022089204, 
+      "lon": 4.3978600401491, 
       "pcode": 2018, 
-      "street": "Fransenplaats", 
-      "lon": 4.3978600401491
+      "street": "Fransenplaats"
     }, 
     {
-      "lat": 51.20097649188903, 
       "housenumber": "9", 
+      "lat": 51.20097649188903, 
+      "lon": 4.398226987269526, 
       "pcode": 2018, 
-      "street": "Fransenplaats", 
-      "lon": 4.398226987269526
+      "street": "Fransenplaats"
     }, 
     {
+      "housenumber": "98", 
       "pcode": 2018, 
-      "street": "Fransenplaats", 
-      "housenumber": "98"
+      "street": "Fransenplaats"
     }
-  ], 
-  "name": "Fransenplaats"
+  ]
 }

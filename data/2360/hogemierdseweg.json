@@ -1,20 +1,18 @@
 {
-  "pcode": 2360, 
   "addresses": [
     {
-      "lat": 51.345065734387504, 
       "housenumber": "3", 
+      "lat": 51.345065734387504, 
+      "lon": 4.994187966780383, 
       "pcode": 2360, 
-      "street": "Hoge Mierdse Weg", 
-      "lon": 4.994187966780383
+      "street": "Hoge Mierdse Weg"
     }, 
     {
-      "lat": 51.34527029885091, 
       "housenumber": "5", 
+      "lat": 51.34527029885091, 
+      "lon": 4.994648839336992, 
       "pcode": 2360, 
-      "street": "Hoge Mierdse Weg", 
-      "lon": 4.994648839336992
+      "street": "Hoge Mierdse Weg"
     }
-  ], 
-  "name": "Hoge Mierdse Weg"
+  ]
 }

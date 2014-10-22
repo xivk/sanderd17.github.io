@@ -1,25 +1,23 @@
 {
-  "pcode": 1560, 
   "addresses": [
     {
-      "lat": 50.76924093925312, 
       "housenumber": "10", 
+      "lat": 50.76924093925312, 
+      "lon": 4.44033897433946, 
       "pcode": 1560, 
-      "street": "Tumulidreef", 
-      "lon": 4.44033897433946
+      "street": "Tumulidreef"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 1560, 
-      "street": "Tumulidreef", 
-      "housenumber": "7"
+      "street": "Tumulidreef"
     }, 
     {
-      "lat": 50.76902488403839, 
       "housenumber": "8", 
+      "lat": 50.76902488403839, 
+      "lon": 4.441690032980377, 
       "pcode": 1560, 
-      "street": "Tumulidreef", 
-      "lon": 4.441690032980377
+      "street": "Tumulidreef"
     }
-  ], 
-  "name": "Tumulidreef"
+  ]
 }

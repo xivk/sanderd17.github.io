@@ -1,20 +1,18 @@
 {
-  "pcode": 3665, 
   "addresses": [
     {
-      "lat": 51.0080113884664, 
       "housenumber": "2", 
+      "lat": 51.0080113884664, 
+      "lon": 5.586026898338278, 
       "pcode": 3665, 
-      "street": "Tiendenschuur", 
-      "lon": 5.586026898338278
+      "street": "Tiendenschuur"
     }, 
     {
-      "lat": 51.008914176295264, 
       "housenumber": "3", 
+      "lat": 51.008914176295264, 
+      "lon": 5.58548976200903, 
       "pcode": 3665, 
-      "street": "Tiendenschuur", 
-      "lon": 5.58548976200903
+      "street": "Tiendenschuur"
     }
-  ], 
-  "name": "Tiendenschuur"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3530, 
   "addresses": [
     {
-      "lat": 51.04234664907329, 
       "housenumber": "1", 
+      "lat": 51.04234664907329, 
+      "lon": 5.398296275449186, 
       "pcode": 3530, 
-      "street": "Enge Steeg", 
-      "lon": 5.398296275449186
+      "street": "Enge Steeg"
     }, 
     {
-      "lat": 51.042254323138344, 
       "housenumber": "1A", 
+      "lat": 51.042254323138344, 
+      "lon": 5.398810028406781, 
       "pcode": 3530, 
-      "street": "Enge Steeg", 
-      "lon": 5.398810028406781
+      "street": "Enge Steeg"
     }
-  ], 
-  "name": "Enge Steeg"
+  ]
 }

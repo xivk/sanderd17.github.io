@@ -1,27 +1,25 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.334060393920716, 
       "housenumber": "1", 
+      "lat": 51.334060393920716, 
+      "lon": 3.3547755084821587, 
       "pcode": 8300, 
-      "street": "De Vrede", 
-      "lon": 3.3547755084821587
+      "street": "De Vrede"
     }, 
     {
-      "lat": 51.33407735849, 
       "housenumber": "3", 
+      "lat": 51.33407735849, 
+      "lon": 3.3558562259221696, 
       "pcode": 8300, 
-      "street": "De Vrede", 
-      "lon": 3.3558562259221696
+      "street": "De Vrede"
     }, 
     {
-      "lat": 51.334214005006174, 
       "housenumber": "5", 
+      "lat": 51.334214005006174, 
+      "lon": 3.356110825286981, 
       "pcode": 8300, 
-      "street": "De Vrede", 
-      "lon": 3.356110825286981
+      "street": "De Vrede"
     }
-  ], 
-  "name": "De Vrede"
+  ]
 }

@@ -1,23 +1,21 @@
 {
-  "pcode": 9270, 
   "addresses": [
     {
-      "lat": 51.048925012359796, 
       "housenumber": "1", 
+      "lat": 51.048925012359796, 
+      "lon": 3.8391221824671082, 
       "pcode": 9270, 
-      "street": "Ertbuurwegel", 
-      "lon": 3.8391221824671082
+      "street": "Ertbuurwegel"
     }, 
     {
+      "housenumber": "28", 
       "pcode": 9270, 
-      "street": "Ertbuurwegel", 
-      "housenumber": "28"
+      "street": "Ertbuurwegel"
     }, 
     {
+      "housenumber": "32", 
       "pcode": 9270, 
-      "street": "Ertbuurwegel", 
-      "housenumber": "32"
+      "street": "Ertbuurwegel"
     }
-  ], 
-  "name": "Ertbuurwegel"
+  ]
 }

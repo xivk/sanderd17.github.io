@@ -1,30 +1,28 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.19688105526789, 
       "housenumber": "1", 
+      "lat": 51.19688105526789, 
+      "lon": 3.216207425045143, 
       "pcode": 8000, 
-      "street": "Koning Albert I-laan", 
-      "lon": 3.216207425045143
+      "street": "Koning Albert I-laan"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8000, 
-      "street": "Koning Albert I-laan", 
-      "housenumber": "2"
+      "street": "Koning Albert I-laan"
     }, 
     {
+      "housenumber": "292", 
       "pcode": 8000, 
-      "street": "Koning Albert I-laan", 
-      "housenumber": "292"
+      "street": "Koning Albert I-laan"
     }, 
     {
-      "lat": 51.20378527819704, 
       "housenumber": "4", 
+      "lat": 51.20378527819704, 
+      "lon": 3.217294891007828, 
       "pcode": 8000, 
-      "street": "Koning Albert I-laan", 
-      "lon": 3.217294891007828
+      "street": "Koning Albert I-laan"
     }
-  ], 
-  "name": "Koning Albert I-laan"
+  ]
 }

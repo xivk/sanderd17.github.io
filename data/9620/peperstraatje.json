@@ -1,45 +1,43 @@
 {
-  "pcode": 9620, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 9620, 
-      "street": "Peperstraatje", 
-      "housenumber": "10"
+      "street": "Peperstraatje"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 9620, 
-      "street": "Peperstraatje", 
-      "housenumber": "12"
+      "street": "Peperstraatje"
     }, 
     {
+      "housenumber": "14", 
       "pcode": 9620, 
-      "street": "Peperstraatje", 
-      "housenumber": "14"
+      "street": "Peperstraatje"
     }, 
     {
-      "lat": 50.88654233976115, 
       "housenumber": "2", 
+      "lat": 50.88654233976115, 
+      "lon": 3.8314315164002486, 
       "pcode": 9620, 
-      "street": "Peperstraatje", 
-      "lon": 3.8314315164002486
+      "street": "Peperstraatje"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9620, 
-      "street": "Peperstraatje", 
-      "housenumber": "4"
+      "street": "Peperstraatje"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9620, 
-      "street": "Peperstraatje", 
-      "housenumber": "6"
+      "street": "Peperstraatje"
     }, 
     {
-      "lat": 50.88654136028222, 
       "housenumber": "8", 
+      "lat": 50.88654136028222, 
+      "lon": 3.8314139050193576, 
       "pcode": 9620, 
-      "street": "Peperstraatje", 
-      "lon": 3.8314139050193576
+      "street": "Peperstraatje"
     }
-  ], 
-  "name": "Peperstraatje"
+  ]
 }

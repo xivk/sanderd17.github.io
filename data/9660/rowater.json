@@ -1,27 +1,25 @@
 {
-  "pcode": 9660, 
   "addresses": [
     {
-      "lat": 50.7865301042597, 
       "housenumber": "2", 
+      "lat": 50.7865301042597, 
+      "lon": 3.7221162806731107, 
       "pcode": 9660, 
-      "street": "Rowater", 
-      "lon": 3.7221162806731107
+      "street": "Rowater"
     }, 
     {
-      "lat": 50.78544474880998, 
       "housenumber": "4", 
+      "lat": 50.78544474880998, 
+      "lon": 3.72267205379339, 
       "pcode": 9660, 
-      "street": "Rowater", 
-      "lon": 3.72267205379339
+      "street": "Rowater"
     }, 
     {
-      "lat": 50.78546183558871, 
       "housenumber": "6", 
+      "lat": 50.78546183558871, 
+      "lon": 3.7219230416483273, 
       "pcode": 9660, 
-      "street": "Rowater", 
-      "lon": 3.7219230416483273
+      "street": "Rowater"
     }
-  ], 
-  "name": "Rowater"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 1500, 
   "addresses": [
     {
-      "lat": 50.766525204823466, 
       "housenumber": "3", 
+      "lat": 50.766525204823466, 
+      "lon": 4.192182314084075, 
       "pcode": 1500, 
-      "street": "Crispielsstraat", 
-      "lon": 4.192182314084075
+      "street": "Crispielsstraat"
     }, 
     {
-      "lat": 50.76560685084586, 
       "housenumber": "5", 
+      "lat": 50.76560685084586, 
+      "lon": 4.19036114807072, 
       "pcode": 1500, 
-      "street": "Crispielsstraat", 
-      "lon": 4.19036114807072
+      "street": "Crispielsstraat"
     }
-  ], 
-  "name": "Crispielsstraat"
+  ]
 }

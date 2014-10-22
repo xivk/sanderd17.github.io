@@ -1,18 +1,16 @@
 {
-  "pcode": 9200, 
   "addresses": [
     {
+      "housenumber": "5", 
       "pcode": 9200, 
-      "street": "Moesweide", 
-      "housenumber": "5"
+      "street": "Moesweide"
     }, 
     {
-      "lat": 51.01404730515872, 
       "housenumber": "7", 
+      "lat": 51.01404730515872, 
+      "lon": 4.106737656676391, 
       "pcode": 9200, 
-      "street": "Moesweide", 
-      "lon": 4.106737656676391
+      "street": "Moesweide"
     }
-  ], 
-  "name": "Moesweide"
+  ]
 }

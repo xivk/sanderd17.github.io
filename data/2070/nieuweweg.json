@@ -1,33 +1,31 @@
 {
-  "pcode": 2070, 
   "addresses": [
     {
-      "lat": 51.23419128569849, 
       "housenumber": "1", 
+      "lat": 51.23419128569849, 
+      "lon": 4.320540859143361, 
       "pcode": 2070, 
-      "street": "Nieuwe Weg", 
-      "lon": 4.320540859143361
+      "street": "Nieuwe Weg"
     }, 
     {
+      "housenumber": "13", 
       "pcode": 2070, 
-      "street": "Nieuwe Weg", 
-      "housenumber": "13"
+      "street": "Nieuwe Weg"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2070, 
-      "street": "Nieuwe Weg", 
-      "housenumber": "3"
+      "street": "Nieuwe Weg"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2070, 
-      "street": "Nieuwe Weg", 
-      "housenumber": "5"
+      "street": "Nieuwe Weg"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2070, 
-      "street": "Nieuwe Weg", 
-      "housenumber": "7"
+      "street": "Nieuwe Weg"
     }
-  ], 
-  "name": "Nieuwe Weg"
+  ]
 }

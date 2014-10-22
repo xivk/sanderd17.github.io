@@ -1,42 +1,40 @@
 {
-  "pcode": 3581, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3581, 
-      "street": "Randstraat", 
-      "housenumber": "10"
+      "street": "Randstraat"
     }, 
     {
-      "lat": 51.07485297501649, 
       "housenumber": "12", 
+      "lat": 51.07485297501649, 
+      "lon": 5.2246047320282045, 
       "pcode": 3581, 
-      "street": "Randstraat", 
-      "lon": 5.2246047320282045
+      "street": "Randstraat"
     }, 
     {
-      "lat": 51.07497089151862, 
       "housenumber": "14", 
+      "lat": 51.07497089151862, 
+      "lon": 5.22445977203526, 
       "pcode": 3581, 
-      "street": "Randstraat", 
-      "lon": 5.22445977203526
+      "street": "Randstraat"
     }, 
     {
+      "housenumber": "16", 
       "pcode": 3581, 
-      "street": "Randstraat", 
-      "housenumber": "16"
+      "street": "Randstraat"
     }, 
     {
+      "housenumber": "18", 
       "pcode": 3581, 
-      "street": "Randstraat", 
-      "housenumber": "18"
+      "street": "Randstraat"
     }, 
     {
-      "lat": 51.074966036166025, 
       "housenumber": "20", 
+      "lat": 51.074966036166025, 
+      "lon": 5.224360937702, 
       "pcode": 3581, 
-      "street": "Randstraat", 
-      "lon": 5.224360937702
+      "street": "Randstraat"
     }
-  ], 
-  "name": "Randstraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 1670, 
   "addresses": [
     {
-      "lat": 50.71586658299865, 
       "housenumber": "1", 
+      "lat": 50.71586658299865, 
+      "lon": 4.117852704001582, 
       "pcode": 1670, 
-      "street": "Neufke", 
-      "lon": 4.117852704001582
+      "street": "Neufke"
     }, 
     {
+      "housenumber": "1C", 
       "pcode": 1670, 
-      "street": "Neufke", 
-      "housenumber": "1C"
+      "street": "Neufke"
     }
-  ], 
-  "name": "Neufke"
+  ]
 }

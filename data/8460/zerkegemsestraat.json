@@ -1,32 +1,30 @@
 {
-  "pcode": 8460, 
   "addresses": [
     {
-      "lat": 51.17896921482581, 
       "housenumber": "1", 
+      "lat": 51.17896921482581, 
+      "lon": 3.0437928617450396, 
       "pcode": 8460, 
-      "street": "Zerkegemsestraat", 
-      "lon": 3.0437928617450396
+      "street": "Zerkegemsestraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8460, 
-      "street": "Zerkegemsestraat", 
-      "housenumber": "2"
+      "street": "Zerkegemsestraat"
     }, 
     {
-      "lat": 51.17861301973423, 
       "housenumber": "4", 
+      "lat": 51.17861301973423, 
+      "lon": 3.044866652931365, 
       "pcode": 8460, 
-      "street": "Zerkegemsestraat", 
-      "lon": 3.044866652931365
+      "street": "Zerkegemsestraat"
     }, 
     {
-      "lat": 51.17934451371724, 
       "housenumber": "5", 
+      "lat": 51.17934451371724, 
+      "lon": 3.045844390470255, 
       "pcode": 8460, 
-      "street": "Zerkegemsestraat", 
-      "lon": 3.045844390470255
+      "street": "Zerkegemsestraat"
     }
-  ], 
-  "name": "Zerkegemsestraat"
+  ]
 }

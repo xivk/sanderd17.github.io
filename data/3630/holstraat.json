@@ -1,20 +1,18 @@
 {
-  "pcode": 3630, 
   "addresses": [
     {
-      "lat": 50.9897511703985, 
       "housenumber": "2", 
+      "lat": 50.9897511703985, 
+      "lon": 5.739977493836084, 
       "pcode": 3630, 
-      "street": "Holstraat", 
-      "lon": 5.739977493836084
+      "street": "Holstraat"
     }, 
     {
-      "lat": 50.98986323426063, 
       "housenumber": "4", 
+      "lat": 50.98986323426063, 
+      "lon": 5.740197585936384, 
       "pcode": 3630, 
-      "street": "Holstraat", 
-      "lon": 5.740197585936384
+      "street": "Holstraat"
     }
-  ], 
-  "name": "Holstraat"
+  ]
 }

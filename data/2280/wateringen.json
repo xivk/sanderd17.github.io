@@ -1,18 +1,16 @@
 {
-  "pcode": 2280, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 2280, 
-      "street": "Wateringen", 
-      "housenumber": "11"
+      "street": "Wateringen"
     }, 
     {
-      "lat": 51.16569396246174, 
       "housenumber": "13", 
+      "lat": 51.16569396246174, 
+      "lon": 4.736003503396699, 
       "pcode": 2280, 
-      "street": "Wateringen", 
-      "lon": 4.736003503396699
+      "street": "Wateringen"
     }
-  ], 
-  "name": "Wateringen"
+  ]
 }

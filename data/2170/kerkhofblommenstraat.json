@@ -1,37 +1,35 @@
 {
-  "pcode": 2170, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2170, 
-      "street": "Kerkhofblommenstraat", 
-      "housenumber": "1"
+      "street": "Kerkhofblommenstraat"
     }, 
     {
-      "lat": 51.247662800073755, 
       "housenumber": "4", 
+      "lat": 51.247662800073755, 
+      "lon": 4.432805544787633, 
       "pcode": 2170, 
-      "street": "Kerkhofblommenstraat", 
-      "lon": 4.432805544787633
+      "street": "Kerkhofblommenstraat"
     }, 
     {
+      "housenumber": "46", 
       "pcode": 2170, 
-      "street": "Kerkhofblommenstraat", 
-      "housenumber": "46"
+      "street": "Kerkhofblommenstraat"
     }, 
     {
-      "lat": 51.2476590222497, 
       "housenumber": "6", 
+      "lat": 51.2476590222497, 
+      "lon": 4.432810552065155, 
       "pcode": 2170, 
-      "street": "Kerkhofblommenstraat", 
-      "lon": 4.432810552065155
+      "street": "Kerkhofblommenstraat"
     }, 
     {
-      "lat": 51.24774294640444, 
       "housenumber": "8", 
+      "lat": 51.24774294640444, 
+      "lon": 4.432694664286633, 
       "pcode": 2170, 
-      "street": "Kerkhofblommenstraat", 
-      "lon": 4.432694664286633
+      "street": "Kerkhofblommenstraat"
     }
-  ], 
-  "name": "Kerkhofblommenstraat"
+  ]
 }

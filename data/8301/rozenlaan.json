@@ -1,58 +1,56 @@
 {
-  "pcode": 8301, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8301, 
-      "street": "Rozenlaan", 
-      "housenumber": "1"
+      "street": "Rozenlaan"
     }, 
     {
-      "lat": 51.34598159631408, 
       "housenumber": "11", 
+      "lat": 51.34598159631408, 
+      "lon": 3.271835802319991, 
       "pcode": 8301, 
-      "street": "Rozenlaan", 
-      "lon": 3.271835802319991
+      "street": "Rozenlaan"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 8301, 
-      "street": "Rozenlaan", 
-      "housenumber": "12"
+      "street": "Rozenlaan"
     }, 
     {
-      "lat": 51.34657834217259, 
       "housenumber": "2", 
+      "lat": 51.34657834217259, 
+      "lon": 3.2718814439295483, 
       "pcode": 8301, 
-      "street": "Rozenlaan", 
-      "lon": 3.2718814439295483
+      "street": "Rozenlaan"
     }, 
     {
-      "lat": 51.34668428230771, 
       "housenumber": "3", 
+      "lat": 51.34668428230771, 
+      "lon": 3.271877223920816, 
       "pcode": 8301, 
-      "street": "Rozenlaan", 
-      "lon": 3.271877223920816
+      "street": "Rozenlaan"
     }, 
     {
-      "lat": 51.346566674573054, 
       "housenumber": "4", 
+      "lat": 51.346566674573054, 
+      "lon": 3.2712613595544875, 
       "pcode": 8301, 
-      "street": "Rozenlaan", 
-      "lon": 3.2712613595544875
+      "street": "Rozenlaan"
     }, 
     {
-      "lat": 51.346592871997665, 
       "housenumber": "5", 
+      "lat": 51.346592871997665, 
+      "lon": 3.2719557397617582, 
       "pcode": 8301, 
-      "street": "Rozenlaan", 
-      "lon": 3.2719557397617582
+      "street": "Rozenlaan"
     }, 
     {
-      "lat": 51.34641418330678, 
       "housenumber": "6", 
+      "lat": 51.34641418330678, 
+      "lon": 3.271295960128881, 
       "pcode": 8301, 
-      "street": "Rozenlaan", 
-      "lon": 3.271295960128881
+      "street": "Rozenlaan"
     }
-  ], 
-  "name": "Rozenlaan"
+  ]
 }

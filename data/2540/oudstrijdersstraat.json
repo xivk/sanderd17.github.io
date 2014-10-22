@@ -1,32 +1,30 @@
 {
-  "pcode": 2540, 
   "addresses": [
     {
-      "lat": 51.15743854681568, 
       "housenumber": "11", 
+      "lat": 51.15743854681568, 
+      "lon": 4.47581980091546, 
       "pcode": 2540, 
-      "street": "Oudstrijdersstraat", 
-      "lon": 4.47581980091546
+      "street": "Oudstrijdersstraat"
     }, 
     {
-      "lat": 51.157686632560825, 
       "housenumber": "5", 
+      "lat": 51.157686632560825, 
+      "lon": 4.476213027363126, 
       "pcode": 2540, 
-      "street": "Oudstrijdersstraat", 
-      "lon": 4.476213027363126
+      "street": "Oudstrijdersstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2540, 
-      "street": "Oudstrijdersstraat", 
-      "housenumber": "7"
+      "street": "Oudstrijdersstraat"
     }, 
     {
-      "lat": 51.15704222508759, 
       "housenumber": "9", 
+      "lat": 51.15704222508759, 
+      "lon": 4.476424082358587, 
       "pcode": 2540, 
-      "street": "Oudstrijdersstraat", 
-      "lon": 4.476424082358587
+      "street": "Oudstrijdersstraat"
     }
-  ], 
-  "name": "Oudstrijdersstraat"
+  ]
 }

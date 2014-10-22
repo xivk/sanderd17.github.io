@@ -1,44 +1,42 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.2379614603987, 
       "housenumber": "1", 
+      "lat": 51.2379614603987, 
+      "lon": 2.9349519519126317, 
       "pcode": 8400, 
-      "street": "Vuurtorenweg", 
-      "lon": 2.9349519519126317
+      "street": "Vuurtorenweg"
     }, 
     {
-      "lat": 51.23730020334016, 
       "housenumber": "10", 
+      "lat": 51.23730020334016, 
+      "lon": 2.930644481130236, 
       "pcode": 8400, 
-      "street": "Vuurtorenweg", 
-      "lon": 2.930644481130236
+      "street": "Vuurtorenweg"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 8400, 
-      "street": "Vuurtorenweg", 
-      "housenumber": "12"
+      "street": "Vuurtorenweg"
     }, 
     {
-      "lat": 51.238994026431044, 
       "housenumber": "13", 
+      "lat": 51.238994026431044, 
+      "lon": 2.9343416108512357, 
       "pcode": 8400, 
-      "street": "Vuurtorenweg", 
-      "lon": 2.9343416108512357
+      "street": "Vuurtorenweg"
     }, 
     {
-      "lat": 51.236850407108925, 
       "housenumber": "2", 
+      "lat": 51.236850407108925, 
+      "lon": 2.93015425922302, 
       "pcode": 8400, 
-      "street": "Vuurtorenweg", 
-      "lon": 2.93015425922302
+      "street": "Vuurtorenweg"
     }, 
     {
+      "housenumber": "ZN", 
       "pcode": 8400, 
-      "street": "Vuurtorenweg", 
-      "housenumber": "ZN"
+      "street": "Vuurtorenweg"
     }
-  ], 
-  "name": "Vuurtorenweg"
+  ]
 }

@@ -1,34 +1,32 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05671605411618, 
       "housenumber": "2", 
+      "lat": 51.05671605411618, 
+      "lon": 3.7111507065053857, 
       "pcode": 9000, 
-      "street": "Zwartekatstraat", 
-      "lon": 3.7111507065053857
+      "street": "Zwartekatstraat"
     }, 
     {
-      "lat": 51.0567247221937, 
       "housenumber": "4", 
+      "lat": 51.0567247221937, 
+      "lon": 3.7110931024266636, 
       "pcode": 9000, 
-      "street": "Zwartekatstraat", 
-      "lon": 3.7110931024266636
+      "street": "Zwartekatstraat"
     }, 
     {
-      "lat": 51.0566599535278, 
       "housenumber": "6", 
+      "lat": 51.0566599535278, 
+      "lon": 3.7111010009156837, 
       "pcode": 9000, 
-      "street": "Zwartekatstraat", 
-      "lon": 3.7111010009156837
+      "street": "Zwartekatstraat"
     }, 
     {
-      "lat": 51.056658841509595, 
       "housenumber": "8", 
+      "lat": 51.056658841509595, 
+      "lon": 3.711078907946056, 
       "pcode": 9000, 
-      "street": "Zwartekatstraat", 
-      "lon": 3.711078907946056
+      "street": "Zwartekatstraat"
     }
-  ], 
-  "name": "Zwartekatstraat"
+  ]
 }

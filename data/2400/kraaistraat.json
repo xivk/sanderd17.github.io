@@ -1,20 +1,18 @@
 {
-  "pcode": 2400, 
   "addresses": [
     {
-      "lat": 51.18195288761313, 
       "housenumber": "20", 
+      "lat": 51.18195288761313, 
+      "lon": 5.046632026380677, 
       "pcode": 2400, 
-      "street": "Kraaistraat", 
-      "lon": 5.046632026380677
+      "street": "Kraaistraat"
     }, 
     {
-      "lat": 51.182833159982216, 
       "housenumber": "30", 
+      "lat": 51.182833159982216, 
+      "lon": 5.044140940724925, 
       "pcode": 2400, 
-      "street": "Kraaistraat", 
-      "lon": 5.044140940724925
+      "street": "Kraaistraat"
     }
-  ], 
-  "name": "Kraaistraat"
+  ]
 }

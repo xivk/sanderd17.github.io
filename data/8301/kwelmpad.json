@@ -1,27 +1,25 @@
 {
-  "pcode": 8301, 
   "addresses": [
     {
-      "lat": 51.344275729104865, 
       "housenumber": "1", 
+      "lat": 51.344275729104865, 
+      "lon": 3.273407176902883, 
       "pcode": 8301, 
-      "street": "Kwelmpad", 
-      "lon": 3.273407176902883
+      "street": "Kwelmpad"
     }, 
     {
-      "lat": 51.3437014705431, 
       "housenumber": "2", 
+      "lat": 51.3437014705431, 
+      "lon": 3.2742883124118785, 
       "pcode": 8301, 
-      "street": "Kwelmpad", 
-      "lon": 3.2742883124118785
+      "street": "Kwelmpad"
     }, 
     {
-      "lat": 51.34398847060695, 
       "housenumber": "3", 
+      "lat": 51.34398847060695, 
+      "lon": 3.2742963448332403, 
       "pcode": 8301, 
-      "street": "Kwelmpad", 
-      "lon": 3.2742963448332403
+      "street": "Kwelmpad"
     }
-  ], 
-  "name": "Kwelmpad"
+  ]
 }

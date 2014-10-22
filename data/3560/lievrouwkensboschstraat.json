@@ -1,30 +1,28 @@
 {
-  "pcode": 3560, 
   "addresses": [
     {
+      "housenumber": "13", 
       "pcode": 3560, 
-      "street": "Lievrouwkensboschstraat", 
-      "housenumber": "13"
+      "street": "Lievrouwkensboschstraat"
     }, 
     {
-      "lat": 51.00186414976187, 
       "housenumber": "2", 
+      "lat": 51.00186414976187, 
+      "lon": 5.127861578695494, 
       "pcode": 3560, 
-      "street": "Lievrouwkensboschstraat", 
-      "lon": 5.127861578695494
+      "street": "Lievrouwkensboschstraat"
     }, 
     {
-      "lat": 50.999158308098714, 
       "housenumber": "4", 
+      "lat": 50.999158308098714, 
+      "lon": 5.126242201782304, 
       "pcode": 3560, 
-      "street": "Lievrouwkensboschstraat", 
-      "lon": 5.126242201782304
+      "street": "Lievrouwkensboschstraat"
     }, 
     {
+      "housenumber": "50", 
       "pcode": 3560, 
-      "street": "Lievrouwkensboschstraat", 
-      "housenumber": "50"
+      "street": "Lievrouwkensboschstraat"
     }
-  ], 
-  "name": "Lievrouwkensboschstraat"
+  ]
 }

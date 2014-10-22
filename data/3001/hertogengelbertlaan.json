@@ -1,20 +1,18 @@
 {
-  "pcode": 3001, 
   "addresses": [
     {
-      "lat": 50.86061446873632, 
       "housenumber": "1", 
+      "lat": 50.86061446873632, 
+      "lon": 4.687143816833498, 
       "pcode": 3001, 
-      "street": "Hertog Engelbertlaan", 
-      "lon": 4.687143816833498
+      "street": "Hertog Engelbertlaan"
     }, 
     {
-      "lat": 50.86035303766777, 
       "housenumber": "2", 
+      "lat": 50.86035303766777, 
+      "lon": 4.686189264917611, 
       "pcode": 3001, 
-      "street": "Hertog Engelbertlaan", 
-      "lon": 4.686189264917611
+      "street": "Hertog Engelbertlaan"
     }
-  ], 
-  "name": "Hertog Engelbertlaan"
+  ]
 }

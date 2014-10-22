@@ -1,27 +1,25 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.8274742058132, 
       "housenumber": "4", 
+      "lat": 50.8274742058132, 
+      "lon": 3.2690011998667363, 
       "pcode": 8500, 
-      "street": "Nedervijver", 
-      "lon": 3.2690011998667363
+      "street": "Nedervijver"
     }, 
     {
-      "lat": 49.293335165093566, 
       "housenumber": "5", 
+      "lat": 49.293335165093566, 
+      "lon": 2.306689562140502, 
       "pcode": 8500, 
-      "street": "Nedervijver", 
-      "lon": 2.306689562140502
+      "street": "Nedervijver"
     }, 
     {
-      "lat": 50.827465687361936, 
       "housenumber": "7", 
+      "lat": 50.827465687361936, 
+      "lon": 3.268994017518255, 
       "pcode": 8500, 
-      "street": "Nedervijver", 
-      "lon": 3.268994017518255
+      "street": "Nedervijver"
     }
-  ], 
-  "name": "Nedervijver"
+  ]
 }

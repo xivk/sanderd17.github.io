@@ -1,20 +1,18 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.883383931374205, 
       "housenumber": "1", 
+      "lat": 50.883383931374205, 
+      "lon": 4.696411582782754, 
       "pcode": 3000, 
-      "street": "Raoul Claesstraat", 
-      "lon": 4.696411582782754
+      "street": "Raoul Claesstraat"
     }, 
     {
-      "lat": 50.883387217673544, 
       "housenumber": "3", 
+      "lat": 50.883387217673544, 
+      "lon": 4.696425816319517, 
       "pcode": 3000, 
-      "street": "Raoul Claesstraat", 
-      "lon": 4.696425816319517
+      "street": "Raoul Claesstraat"
     }
-  ], 
-  "name": "Raoul Claesstraat"
+  ]
 }

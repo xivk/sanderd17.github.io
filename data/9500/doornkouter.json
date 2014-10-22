@@ -1,20 +1,18 @@
 {
-  "pcode": 9500, 
   "addresses": [
     {
-      "lat": 50.81418335040632, 
       "housenumber": "1", 
+      "lat": 50.81418335040632, 
+      "lon": 3.8802724883058644, 
       "pcode": 9500, 
-      "street": "Doornkouter", 
-      "lon": 3.8802724883058644
+      "street": "Doornkouter"
     }, 
     {
-      "lat": 50.8140425225482, 
       "housenumber": "3", 
+      "lat": 50.8140425225482, 
+      "lon": 3.8798723777295456, 
       "pcode": 9500, 
-      "street": "Doornkouter", 
-      "lon": 3.8798723777295456
+      "street": "Doornkouter"
     }
-  ], 
-  "name": "Doornkouter"
+  ]
 }

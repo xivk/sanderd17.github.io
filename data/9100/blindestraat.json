@@ -1,40 +1,38 @@
 {
-  "pcode": 9100, 
   "addresses": [
     {
-      "lat": 51.19318903637361, 
       "housenumber": "2", 
+      "lat": 51.19318903637361, 
+      "lon": 4.155138408601111, 
       "pcode": 9100, 
-      "street": "Blindestraat", 
-      "lon": 4.155138408601111
+      "street": "Blindestraat"
     }, 
     {
-      "lat": 51.19259375766732, 
       "housenumber": "4", 
+      "lat": 51.19259375766732, 
+      "lon": 4.154756902141073, 
       "pcode": 9100, 
-      "street": "Blindestraat", 
-      "lon": 4.154756902141073
+      "street": "Blindestraat"
     }, 
     {
+      "housenumber": "42B", 
       "pcode": 9100, 
-      "street": "Blindestraat", 
-      "housenumber": "42B"
+      "street": "Blindestraat"
     }, 
     {
+      "housenumber": "66", 
       "pcode": 9100, 
-      "street": "Blindestraat", 
-      "housenumber": "66"
+      "street": "Blindestraat"
     }, 
     {
+      "housenumber": "74", 
       "pcode": 9100, 
-      "street": "Blindestraat", 
-      "housenumber": "74"
+      "street": "Blindestraat"
     }, 
     {
+      "housenumber": "78", 
       "pcode": 9100, 
-      "street": "Blindestraat", 
-      "housenumber": "78"
+      "street": "Blindestraat"
     }
-  ], 
-  "name": "Blindestraat"
+  ]
 }

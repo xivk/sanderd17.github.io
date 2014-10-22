@@ -1,46 +1,44 @@
 {
-  "pcode": 9200, 
   "addresses": [
     {
-      "lat": 51.036911579952964, 
       "housenumber": "1", 
+      "lat": 51.036911579952964, 
+      "lon": 4.057709206330095, 
       "pcode": 9200, 
-      "street": "Maaistraat", 
-      "lon": 4.057709206330095
+      "street": "Maaistraat"
     }, 
     {
-      "lat": 51.039392213373986, 
       "housenumber": "2", 
+      "lat": 51.039392213373986, 
+      "lon": 4.057679500679958, 
       "pcode": 9200, 
-      "street": "Maaistraat", 
-      "lon": 4.057679500679958
+      "street": "Maaistraat"
     }, 
     {
-      "lat": 51.040974110849525, 
       "housenumber": "3", 
+      "lat": 51.040974110849525, 
+      "lon": 4.060283999978837, 
       "pcode": 9200, 
-      "street": "Maaistraat", 
-      "lon": 4.060283999978837
+      "street": "Maaistraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9200, 
-      "street": "Maaistraat", 
-      "housenumber": "4"
+      "street": "Maaistraat"
     }, 
     {
-      "lat": 51.0409157763859, 
       "housenumber": "5", 
+      "lat": 51.0409157763859, 
+      "lon": 4.062911202456467, 
       "pcode": 9200, 
-      "street": "Maaistraat", 
-      "lon": 4.062911202456467
+      "street": "Maaistraat"
     }, 
     {
-      "lat": 51.040842282205084, 
       "housenumber": "7", 
+      "lat": 51.040842282205084, 
+      "lon": 4.063446084252877, 
       "pcode": 9200, 
-      "street": "Maaistraat", 
-      "lon": 4.063446084252877
+      "street": "Maaistraat"
     }
-  ], 
-  "name": "Maaistraat"
+  ]
 }

@@ -1,23 +1,21 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 2030, 
-      "street": "Lubeckweg", 
-      "housenumber": "10"
+      "street": "Lubeckweg"
     }, 
     {
+      "housenumber": "230", 
       "pcode": 2030, 
-      "street": "Lubeckweg", 
-      "housenumber": "230"
+      "street": "Lubeckweg"
     }, 
     {
-      "lat": 51.2731123218755, 
       "housenumber": "232", 
+      "lat": 51.2731123218755, 
+      "lon": 4.345071934624056, 
       "pcode": 2030, 
-      "street": "Lubeckweg", 
-      "lon": 4.345071934624056
+      "street": "Lubeckweg"
     }
-  ], 
-  "name": "Lubeckweg"
+  ]
 }

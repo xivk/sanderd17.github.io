@@ -1,25 +1,23 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8000, 
-      "street": "Achiel Van Ackerplein", 
-      "housenumber": "1"
+      "street": "Achiel Van Ackerplein"
     }, 
     {
-      "lat": 51.213379963494674, 
       "housenumber": "2", 
+      "lat": 51.213379963494674, 
+      "lon": 3.2184314211502656, 
       "pcode": 8000, 
-      "street": "Achiel Van Ackerplein", 
-      "lon": 3.2184314211502656
+      "street": "Achiel Van Ackerplein"
     }, 
     {
-      "lat": 51.21361920925784, 
       "housenumber": "3", 
+      "lat": 51.21361920925784, 
+      "lon": 3.218629193565741, 
       "pcode": 8000, 
-      "street": "Achiel Van Ackerplein", 
-      "lon": 3.218629193565741
+      "street": "Achiel Van Ackerplein"
     }
-  ], 
-  "name": "Achiel Van Ackerplein"
+  ]
 }

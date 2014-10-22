@@ -1,37 +1,35 @@
 {
-  "pcode": 9790, 
   "addresses": [
     {
-      "lat": 50.85107395877692, 
       "housenumber": "1", 
+      "lat": 50.85107395877692, 
+      "lon": 3.567056885852792, 
       "pcode": 9790, 
-      "street": "Koestraat", 
-      "lon": 3.567056885852792
+      "street": "Koestraat"
     }, 
     {
-      "lat": 50.85127201928954, 
       "housenumber": "2", 
+      "lat": 50.85127201928954, 
+      "lon": 3.56989367662805, 
       "pcode": 9790, 
-      "street": "Koestraat", 
-      "lon": 3.56989367662805
+      "street": "Koestraat"
     }, 
     {
-      "lat": 50.85003954064081, 
       "housenumber": "3", 
+      "lat": 50.85003954064081, 
+      "lon": 3.5744589770764903, 
       "pcode": 9790, 
-      "street": "Koestraat", 
-      "lon": 3.5744589770764903
+      "street": "Koestraat"
     }, 
     {
+      "housenumber": "3A", 
       "pcode": 9790, 
-      "street": "Koestraat", 
-      "housenumber": "3A"
+      "street": "Koestraat"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 9790, 
-      "street": "Koestraat", 
-      "housenumber": "9"
+      "street": "Koestraat"
     }
-  ], 
-  "name": "Koestraat"
+  ]
 }

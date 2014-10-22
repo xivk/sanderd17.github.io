@@ -1,35 +1,33 @@
 {
-  "pcode": 1770, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 1770, 
-      "street": "Velodroomplein", 
-      "housenumber": "1"
+      "street": "Velodroomplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 1770, 
-      "street": "Velodroomplein", 
-      "housenumber": "2"
+      "street": "Velodroomplein"
     }, 
     {
-      "lat": 50.86878707427473, 
       "housenumber": "3", 
+      "lat": 50.86878707427473, 
+      "lon": 4.089176947242118, 
       "pcode": 1770, 
-      "street": "Velodroomplein", 
-      "lon": 4.089176947242118
+      "street": "Velodroomplein"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 1770, 
-      "street": "Velodroomplein", 
-      "housenumber": "4"
+      "street": "Velodroomplein"
     }, 
     {
-      "lat": 50.86871335351929, 
       "housenumber": "5", 
+      "lat": 50.86871335351929, 
+      "lon": 4.089704146555011, 
       "pcode": 1770, 
-      "street": "Velodroomplein", 
-      "lon": 4.089704146555011
+      "street": "Velodroomplein"
     }
-  ], 
-  "name": "Velodroomplein"
+  ]
 }

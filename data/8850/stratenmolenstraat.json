@@ -1,46 +1,44 @@
 {
-  "pcode": 8850, 
   "addresses": [
     {
-      "lat": 50.99196062755505, 
       "housenumber": "1", 
+      "lat": 50.99196062755505, 
+      "lon": 3.1802535490946213, 
       "pcode": 8850, 
-      "street": "Stratenmolenstraat", 
-      "lon": 3.1802535490946213
+      "street": "Stratenmolenstraat"
     }, 
     {
-      "lat": 50.992275475885826, 
       "housenumber": "2", 
+      "lat": 50.992275475885826, 
+      "lon": 3.1836875084976226, 
       "pcode": 8850, 
-      "street": "Stratenmolenstraat", 
-      "lon": 3.1836875084976226
+      "street": "Stratenmolenstraat"
     }, 
     {
-      "lat": 50.992625174299675, 
       "housenumber": "3", 
+      "lat": 50.992625174299675, 
+      "lon": 3.184551767622071, 
       "pcode": 8850, 
-      "street": "Stratenmolenstraat", 
-      "lon": 3.184551767622071
+      "street": "Stratenmolenstraat"
     }, 
     {
+      "housenumber": "3A", 
       "pcode": 8850, 
-      "street": "Stratenmolenstraat", 
-      "housenumber": "3A"
+      "street": "Stratenmolenstraat"
     }, 
     {
-      "lat": 50.99207577156431, 
       "housenumber": "4", 
+      "lat": 50.99207577156431, 
+      "lon": 3.1873424595922053, 
       "pcode": 8850, 
-      "street": "Stratenmolenstraat", 
-      "lon": 3.1873424595922053
+      "street": "Stratenmolenstraat"
     }, 
     {
-      "lat": 50.99235690517603, 
       "housenumber": "4A", 
+      "lat": 50.99235690517603, 
+      "lon": 3.188122854029104, 
       "pcode": 8850, 
-      "street": "Stratenmolenstraat", 
-      "lon": 3.188122854029104
+      "street": "Stratenmolenstraat"
     }
-  ], 
-  "name": "Stratenmolenstraat"
+  ]
 }

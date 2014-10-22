@@ -1,18 +1,16 @@
 {
-  "pcode": 1910, 
   "addresses": [
     {
+      "housenumber": "3", 
       "pcode": 1910, 
-      "street": "Mussenhoek", 
-      "housenumber": "3"
+      "street": "Mussenhoek"
     }, 
     {
-      "lat": 50.920888665384844, 
       "housenumber": "8", 
+      "lat": 50.920888665384844, 
+      "lon": 4.5615610896218275, 
       "pcode": 1910, 
-      "street": "Mussenhoek", 
-      "lon": 4.5615610896218275
+      "street": "Mussenhoek"
     }
-  ], 
-  "name": "Mussenhoek"
+  ]
 }

@@ -1,50 +1,48 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "12b", 
       "pcode": 2000, 
-      "street": "Indi\u0089straat", 
-      "housenumber": "12b"
+      "street": "Indi\u00ebstraat"
     }, 
     {
+      "housenumber": "13", 
       "pcode": 2000, 
-      "street": "Indi\u0089straat", 
-      "housenumber": "13"
+      "street": "Indi\u00ebstraat"
     }, 
     {
-      "lat": 51.23417683105757, 
       "housenumber": "16", 
+      "lat": 51.23417683105757, 
+      "lon": 4.410573428487753, 
       "pcode": 2000, 
-      "street": "Indi\u0089straat", 
-      "lon": 4.410573428487753
+      "street": "Indi\u00ebstraat"
     }, 
     {
+      "housenumber": "18", 
       "pcode": 2000, 
-      "street": "Indi\u0089straat", 
-      "housenumber": "18"
+      "street": "Indi\u00ebstraat"
     }, 
     {
+      "housenumber": "21A", 
       "pcode": 2000, 
-      "street": "Indi\u0089straat", 
-      "housenumber": "21A"
+      "street": "Indi\u00ebstraat"
     }, 
     {
+      "housenumber": "26", 
       "pcode": 2000, 
-      "street": "Indi\u0089straat", 
-      "housenumber": "26"
+      "street": "Indi\u00ebstraat"
     }, 
     {
-      "lat": 51.23435323427326, 
       "housenumber": "38", 
+      "lat": 51.23435323427326, 
+      "lon": 4.412629569901158, 
       "pcode": 2000, 
-      "street": "Indi\u0089straat", 
-      "lon": 4.412629569901158
+      "street": "Indi\u00ebstraat"
     }, 
     {
+      "housenumber": "44", 
       "pcode": 2000, 
-      "street": "Indi\u0089straat", 
-      "housenumber": "44"
+      "street": "Indi\u00ebstraat"
     }
-  ], 
-  "name": "Indi\u0089straat"
+  ]
 }

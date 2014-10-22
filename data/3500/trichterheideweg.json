@@ -1,59 +1,57 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3500, 
-      "street": "Trichterheideweg", 
-      "housenumber": "10"
+      "street": "Trichterheideweg"
     }, 
     {
-      "lat": 50.93708586378382, 
       "housenumber": "11", 
+      "lat": 50.93708586378382, 
+      "lon": 5.364875279698797, 
       "pcode": 3500, 
-      "street": "Trichterheideweg", 
-      "lon": 5.364875279698797
+      "street": "Trichterheideweg"
     }, 
     {
+      "housenumber": "140", 
       "pcode": 3500, 
-      "street": "Trichterheideweg", 
-      "housenumber": "140"
+      "street": "Trichterheideweg"
     }, 
     {
-      "lat": 50.938586865213885, 
       "housenumber": "2", 
+      "lat": 50.938586865213885, 
+      "lon": 5.363717392811241, 
       "pcode": 3500, 
-      "street": "Trichterheideweg", 
-      "lon": 5.363717392811241
+      "street": "Trichterheideweg"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 3500, 
-      "street": "Trichterheideweg", 
-      "housenumber": "2A"
+      "street": "Trichterheideweg"
     }, 
     {
+      "housenumber": "2C", 
       "pcode": 3500, 
-      "street": "Trichterheideweg", 
-      "housenumber": "2C"
+      "street": "Trichterheideweg"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3500, 
-      "street": "Trichterheideweg", 
-      "housenumber": "6"
+      "street": "Trichterheideweg"
     }, 
     {
-      "lat": 50.938089135559004, 
       "housenumber": "8", 
+      "lat": 50.938089135559004, 
+      "lon": 5.36656144813004, 
       "pcode": 3500, 
-      "street": "Trichterheideweg", 
-      "lon": 5.36656144813004
+      "street": "Trichterheideweg"
     }, 
     {
-      "lat": 50.93690811816039, 
       "housenumber": "9", 
+      "lat": 50.93690811816039, 
+      "lon": 5.363084050139938, 
       "pcode": 3500, 
-      "street": "Trichterheideweg", 
-      "lon": 5.363084050139938
+      "street": "Trichterheideweg"
     }
-  ], 
-  "name": "Trichterheideweg"
+  ]
 }

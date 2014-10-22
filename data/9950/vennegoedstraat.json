@@ -1,28 +1,26 @@
 {
-  "pcode": 9950, 
   "addresses": [
     {
-      "lat": 51.1537603408147, 
       "housenumber": "3", 
+      "lat": 51.1537603408147, 
+      "lon": 3.6141304209854894, 
       "pcode": 9950, 
-      "street": "Vennegoedstraat", 
-      "lon": 3.6141304209854894
+      "street": "Vennegoedstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9950, 
-      "street": "Vennegoedstraat", 
-      "housenumber": "4"
+      "street": "Vennegoedstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9950, 
-      "street": "Vennegoedstraat", 
-      "housenumber": "6"
+      "street": "Vennegoedstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 9950, 
-      "street": "Vennegoedstraat", 
-      "housenumber": "8"
+      "street": "Vennegoedstraat"
     }
-  ], 
-  "name": "Vennegoedstraat"
+  ]
 }

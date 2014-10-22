@@ -1,25 +1,23 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
+      "housenumber": "15", 
       "pcode": 3300, 
-      "street": "Denneboomweg", 
-      "housenumber": "15"
+      "street": "Denneboomweg"
     }, 
     {
-      "lat": 50.83816759154789, 
       "housenumber": "2", 
+      "lat": 50.83816759154789, 
+      "lon": 4.9039992631017295, 
       "pcode": 3300, 
-      "street": "Denneboomweg", 
-      "lon": 4.9039992631017295
+      "street": "Denneboomweg"
     }, 
     {
-      "lat": 50.84458430257294, 
       "housenumber": "6", 
+      "lat": 50.84458430257294, 
+      "lon": 4.892425072649589, 
       "pcode": 3300, 
-      "street": "Denneboomweg", 
-      "lon": 4.892425072649589
+      "street": "Denneboomweg"
     }
-  ], 
-  "name": "Denneboomweg"
+  ]
 }

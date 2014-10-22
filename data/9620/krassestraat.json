@@ -1,20 +1,18 @@
 {
-  "pcode": 9620, 
   "addresses": [
     {
-      "lat": 50.84901095101313, 
       "housenumber": "1", 
+      "lat": 50.84901095101313, 
+      "lon": 3.8248211355877, 
       "pcode": 9620, 
-      "street": "Krassestraat", 
-      "lon": 3.8248211355877
+      "street": "Krassestraat"
     }, 
     {
-      "lat": 50.84955669388915, 
       "housenumber": "2", 
+      "lat": 50.84955669388915, 
+      "lon": 3.825592735983684, 
       "pcode": 9620, 
-      "street": "Krassestraat", 
-      "lon": 3.825592735983684
+      "street": "Krassestraat"
     }
-  ], 
-  "name": "Krassestraat"
+  ]
 }

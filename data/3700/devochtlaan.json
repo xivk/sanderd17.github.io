@@ -1,58 +1,56 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3700, 
-      "street": "De Vochtlaan", 
-      "housenumber": "1"
+      "street": "De Vochtlaan"
     }, 
     {
-      "lat": 50.7893702760732, 
       "housenumber": "1B", 
+      "lat": 50.7893702760732, 
+      "lon": 5.450366028590714, 
       "pcode": 3700, 
-      "street": "De Vochtlaan", 
-      "lon": 5.450366028590714
+      "street": "De Vochtlaan"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3700, 
-      "street": "De Vochtlaan", 
-      "housenumber": "3"
+      "street": "De Vochtlaan"
     }, 
     {
-      "lat": 50.789157573808545, 
       "housenumber": "3B", 
+      "lat": 50.789157573808545, 
+      "lon": 5.450549210070134, 
       "pcode": 3700, 
-      "street": "De Vochtlaan", 
-      "lon": 5.450549210070134
+      "street": "De Vochtlaan"
     }, 
     {
-      "lat": 50.78902573720925, 
       "housenumber": "5", 
+      "lat": 50.78902573720925, 
+      "lon": 5.450659928943608, 
       "pcode": 3700, 
-      "street": "De Vochtlaan", 
-      "lon": 5.450659928943608
+      "street": "De Vochtlaan"
     }, 
     {
-      "lat": 50.789034621812334, 
       "housenumber": "5B", 
+      "lat": 50.789034621812334, 
+      "lon": 5.4506811248129745, 
       "pcode": 3700, 
-      "street": "De Vochtlaan", 
-      "lon": 5.4506811248129745
+      "street": "De Vochtlaan"
     }, 
     {
-      "lat": 50.78889539993294, 
       "housenumber": "7", 
+      "lat": 50.78889539993294, 
+      "lon": 5.450861313632895, 
       "pcode": 3700, 
-      "street": "De Vochtlaan", 
-      "lon": 5.450861313632895
+      "street": "De Vochtlaan"
     }, 
     {
-      "lat": 50.78890294912828, 
       "housenumber": "7B", 
+      "lat": 50.78890294912828, 
+      "lon": 5.450793548810225, 
       "pcode": 3700, 
-      "street": "De Vochtlaan", 
-      "lon": 5.450793548810225
+      "street": "De Vochtlaan"
     }
-  ], 
-  "name": "De Vochtlaan"
+  ]
 }

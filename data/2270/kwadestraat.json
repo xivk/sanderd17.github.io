@@ -1,20 +1,18 @@
 {
-  "pcode": 2270, 
   "addresses": [
     {
-      "lat": 51.14154356603909, 
       "housenumber": "1", 
+      "lat": 51.14154356603909, 
+      "lon": 4.746109014251947, 
       "pcode": 2270, 
-      "street": "Kwade straat", 
-      "lon": 4.746109014251947
+      "street": "Kwade straat"
     }, 
     {
-      "lat": 51.14400594391055, 
       "housenumber": "23", 
+      "lat": 51.14400594391055, 
+      "lon": 4.745267835962481, 
       "pcode": 2270, 
-      "street": "Kwade straat", 
-      "lon": 4.745267835962481
+      "street": "Kwade straat"
     }
-  ], 
-  "name": "Kwade straat"
+  ]
 }

@@ -1,23 +1,21 @@
 {
-  "pcode": 3510, 
   "addresses": [
     {
+      "housenumber": "14", 
       "pcode": 3510, 
-      "street": "Pelgrimlaan", 
-      "housenumber": "14"
+      "street": "Pelgrimlaan"
     }, 
     {
-      "lat": 50.94539880962154, 
       "housenumber": "17", 
+      "lat": 50.94539880962154, 
+      "lon": 5.278719187691498, 
       "pcode": 3510, 
-      "street": "Pelgrimlaan", 
-      "lon": 5.278719187691498
+      "street": "Pelgrimlaan"
     }, 
     {
+      "housenumber": "71", 
       "pcode": 3510, 
-      "street": "Pelgrimlaan", 
-      "housenumber": "71"
+      "street": "Pelgrimlaan"
     }
-  ], 
-  "name": "Pelgrimlaan"
+  ]
 }

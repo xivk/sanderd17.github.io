@@ -1,18 +1,16 @@
 {
-  "pcode": 2450, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2450, 
-      "street": "Grote hoeve", 
-      "housenumber": "1"
+      "street": "Grote hoeve"
     }, 
     {
-      "lat": 51.13793156924934, 
       "housenumber": "2", 
+      "lat": 51.13793156924934, 
+      "lon": 5.078391655047127, 
       "pcode": 2450, 
-      "street": "Grote hoeve", 
-      "lon": 5.078391655047127
+      "street": "Grote hoeve"
     }
-  ], 
-  "name": "Grote hoeve"
+  ]
 }

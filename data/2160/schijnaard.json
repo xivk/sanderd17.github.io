@@ -1,20 +1,18 @@
 {
-  "pcode": 2160, 
   "addresses": [
     {
-      "lat": 51.22001595324008, 
       "housenumber": "50", 
+      "lat": 51.22001595324008, 
+      "lon": 4.529142913025639, 
       "pcode": 2160, 
-      "street": "Schijnaard", 
-      "lon": 4.529142913025639
+      "street": "Schijnaard"
     }, 
     {
-      "lat": 51.22070513661052, 
       "housenumber": "52", 
+      "lat": 51.22070513661052, 
+      "lon": 4.530426473250082, 
       "pcode": 2160, 
-      "street": "Schijnaard", 
-      "lon": 4.530426473250082
+      "street": "Schijnaard"
     }
-  ], 
-  "name": "Schijnaard"
+  ]
 }

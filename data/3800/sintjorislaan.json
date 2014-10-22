@@ -1,27 +1,25 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
-      "lat": 50.814172344067686, 
       "housenumber": "1", 
+      "lat": 50.814172344067686, 
+      "lon": 5.2315204892662335, 
       "pcode": 3800, 
-      "street": "Sint-Jorislaan", 
-      "lon": 5.2315204892662335
+      "street": "Sint-Jorislaan"
     }, 
     {
-      "lat": 50.813965697193765, 
       "housenumber": "2", 
+      "lat": 50.813965697193765, 
+      "lon": 5.231027126832329, 
       "pcode": 3800, 
-      "street": "Sint-Jorislaan", 
-      "lon": 5.231027126832329
+      "street": "Sint-Jorislaan"
     }, 
     {
-      "lat": 50.813773732845654, 
       "housenumber": "6", 
+      "lat": 50.813773732845654, 
+      "lon": 5.2313599165286195, 
       "pcode": 3800, 
-      "street": "Sint-Jorislaan", 
-      "lon": 5.2313599165286195
+      "street": "Sint-Jorislaan"
     }
-  ], 
-  "name": "Sint-Jorislaan"
+  ]
 }

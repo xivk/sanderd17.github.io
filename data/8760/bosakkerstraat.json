@@ -1,20 +1,18 @@
 {
-  "pcode": 8760, 
   "addresses": [
     {
-      "lat": 50.9661345920239, 
       "housenumber": "1", 
+      "lat": 50.9661345920239, 
+      "lon": 3.330156589480449, 
       "pcode": 8760, 
-      "street": "Bosakkerstraat", 
-      "lon": 3.330156589480449
+      "street": "Bosakkerstraat"
     }, 
     {
-      "lat": 50.96618543367237, 
       "housenumber": "3", 
+      "lat": 50.96618543367237, 
+      "lon": 3.3305898321237724, 
       "pcode": 8760, 
-      "street": "Bosakkerstraat", 
-      "lon": 3.3305898321237724
+      "street": "Bosakkerstraat"
     }
-  ], 
-  "name": "Bosakkerstraat"
+  ]
 }

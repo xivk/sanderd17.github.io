@@ -1,20 +1,18 @@
 {
-  "pcode": 2480, 
   "addresses": [
     {
-      "lat": 51.23066345788061, 
       "housenumber": "11", 
+      "lat": 51.23066345788061, 
+      "lon": 5.110885775207471, 
       "pcode": 2480, 
-      "street": "Geelstraat", 
-      "lon": 5.110885775207471
+      "street": "Geelstraat"
     }, 
     {
-      "lat": 51.230937082550625, 
       "housenumber": "9", 
+      "lat": 51.230937082550625, 
+      "lon": 5.111757320784901, 
       "pcode": 2480, 
-      "street": "Geelstraat", 
-      "lon": 5.111757320784901
+      "street": "Geelstraat"
     }
-  ], 
-  "name": "Geelstraat"
+  ]
 }

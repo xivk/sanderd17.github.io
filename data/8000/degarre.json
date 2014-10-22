@@ -1,25 +1,23 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.20822291139399, 
       "housenumber": "1", 
+      "lat": 51.20822291139399, 
+      "lon": 3.225667867380298, 
       "pcode": 8000, 
-      "street": "De Garre", 
-      "lon": 3.225667867380298
+      "street": "De Garre"
     }, 
     {
-      "lat": 51.20822996169308, 
       "housenumber": "2", 
+      "lat": 51.20822996169308, 
+      "lon": 3.2259137022622633, 
       "pcode": 8000, 
-      "street": "De Garre", 
-      "lon": 3.2259137022622633
+      "street": "De Garre"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8000, 
-      "street": "De Garre", 
-      "housenumber": "3"
+      "street": "De Garre"
     }
-  ], 
-  "name": "De Garre"
+  ]
 }

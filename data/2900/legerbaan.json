@@ -1,33 +1,31 @@
 {
-  "pcode": 2900, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 2900, 
-      "street": "Legerbaan", 
-      "housenumber": "11"
+      "street": "Legerbaan"
     }, 
     {
-      "lat": 51.28425116333486, 
       "housenumber": "3", 
+      "lat": 51.28425116333486, 
+      "lon": 4.529540419030936, 
       "pcode": 2900, 
-      "street": "Legerbaan", 
-      "lon": 4.529540419030936
+      "street": "Legerbaan"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2900, 
-      "street": "Legerbaan", 
-      "housenumber": "5"
+      "street": "Legerbaan"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2900, 
-      "street": "Legerbaan", 
-      "housenumber": "7"
+      "street": "Legerbaan"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 2900, 
-      "street": "Legerbaan", 
-      "housenumber": "9"
+      "street": "Legerbaan"
     }
-  ], 
-  "name": "Legerbaan"
+  ]
 }

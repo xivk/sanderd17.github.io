@@ -1,18 +1,16 @@
 {
-  "pcode": 2370, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 2370, 
-      "street": "Zoenbraak", 
-      "housenumber": "2"
+      "street": "Zoenbraak"
     }, 
     {
-      "lat": 51.31209655764209, 
       "housenumber": "3", 
+      "lat": 51.31209655764209, 
+      "lon": 5.060440614040362, 
       "pcode": 2370, 
-      "street": "Zoenbraak", 
-      "lon": 5.060440614040362
+      "street": "Zoenbraak"
     }
-  ], 
-  "name": "Zoenbraak"
+  ]
 }

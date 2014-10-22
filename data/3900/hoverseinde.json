@@ -1,20 +1,18 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
-      "lat": 51.219627012005, 
       "housenumber": "2", 
+      "lat": 51.219627012005, 
+      "lon": 5.424082932727375, 
       "pcode": 3900, 
-      "street": "Hoverseinde", 
-      "lon": 5.424082932727375
+      "street": "Hoverseinde"
     }, 
     {
-      "lat": 51.21976782180059, 
       "housenumber": "4", 
+      "lat": 51.21976782180059, 
+      "lon": 5.4239982316098825, 
       "pcode": 3900, 
-      "street": "Hoverseinde", 
-      "lon": 5.4239982316098825
+      "street": "Hoverseinde"
     }
-  ], 
-  "name": "Hoverseinde"
+  ]
 }

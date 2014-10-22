@@ -1,23 +1,21 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.26786789368624, 
       "housenumber": "2", 
+      "lat": 51.26786789368624, 
+      "lon": 4.375640547563819, 
       "pcode": 2030, 
-      "street": "Goteborgweg", 
-      "lon": 4.375640547563819
+      "street": "Goteborgweg"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2030, 
-      "street": "Goteborgweg", 
-      "housenumber": "3"
+      "street": "Goteborgweg"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2030, 
-      "street": "Goteborgweg", 
-      "housenumber": "6"
+      "street": "Goteborgweg"
     }
-  ], 
-  "name": "Goteborgweg"
+  ]
 }

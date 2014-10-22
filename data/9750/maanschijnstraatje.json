@@ -1,18 +1,16 @@
 {
-  "pcode": 9750, 
   "addresses": [
     {
-      "lat": 50.925862132543315, 
       "housenumber": "1", 
+      "lat": 50.925862132543315, 
+      "lon": 3.619067775429117, 
       "pcode": 9750, 
-      "street": "Maanschijnstraatje", 
-      "lon": 3.619067775429117
+      "street": "Maanschijnstraatje"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 9750, 
-      "street": "Maanschijnstraatje", 
-      "housenumber": "1A"
+      "street": "Maanschijnstraatje"
     }
-  ], 
-  "name": "Maanschijnstraatje"
+  ]
 }

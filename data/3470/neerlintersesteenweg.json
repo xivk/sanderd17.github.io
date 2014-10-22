@@ -1,25 +1,23 @@
 {
-  "pcode": 3470, 
   "addresses": [
     {
-      "lat": 50.85558104029022, 
       "housenumber": "123", 
+      "lat": 50.85558104029022, 
+      "lon": 5.004930068405736, 
       "pcode": 3470, 
-      "street": "Neerlintersesteenweg", 
-      "lon": 5.004930068405736
+      "street": "Neerlintersesteenweg"
     }, 
     {
+      "housenumber": "136A", 
       "pcode": 3470, 
-      "street": "Neerlintersesteenweg", 
-      "housenumber": "136A"
+      "street": "Neerlintersesteenweg"
     }, 
     {
-      "lat": 50.85245559300022, 
       "housenumber": "144", 
+      "lat": 50.85245559300022, 
+      "lon": 5.011461497431334, 
       "pcode": 3470, 
-      "street": "Neerlintersesteenweg", 
-      "lon": 5.011461497431334
+      "street": "Neerlintersesteenweg"
     }
-  ], 
-  "name": "Neerlintersesteenweg"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.21351848182856, 
       "housenumber": "1", 
+      "lat": 51.21351848182856, 
+      "lon": 3.2257468159038307, 
       "pcode": 8000, 
-      "street": "Torenbrug", 
-      "lon": 3.2257468159038307
+      "street": "Torenbrug"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8000, 
-      "street": "Torenbrug", 
-      "housenumber": "2"
+      "street": "Torenbrug"
     }
-  ], 
-  "name": "Torenbrug"
+  ]
 }

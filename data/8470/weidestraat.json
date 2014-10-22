@@ -1,20 +1,18 @@
 {
-  "pcode": 8470, 
   "addresses": [
     {
-      "lat": 51.16251583543098, 
       "housenumber": "1", 
+      "lat": 51.16251583543098, 
+      "lon": 2.9289593852664724, 
       "pcode": 8470, 
-      "street": "Weidestraat", 
-      "lon": 2.9289593852664724
+      "street": "Weidestraat"
     }, 
     {
-      "lat": 51.160922690944844, 
       "housenumber": "3", 
+      "lat": 51.160922690944844, 
+      "lon": 2.926028594115352, 
       "pcode": 8470, 
-      "street": "Weidestraat", 
-      "lon": 2.926028594115352
+      "street": "Weidestraat"
     }
-  ], 
-  "name": "Weidestraat"
+  ]
 }

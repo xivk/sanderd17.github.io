@@ -1,46 +1,44 @@
 {
-  "pcode": 8650, 
   "addresses": [
     {
-      "lat": 50.9571785532169, 
       "housenumber": "1", 
+      "lat": 50.9571785532169, 
+      "lon": 2.849356117181463, 
       "pcode": 8650, 
-      "street": "Pinksterbloemstraat", 
-      "lon": 2.849356117181463
+      "street": "Pinksterbloemstraat"
     }, 
     {
-      "lat": 50.95748045347065, 
       "housenumber": "11", 
+      "lat": 50.95748045347065, 
+      "lon": 2.8506215867313167, 
       "pcode": 8650, 
-      "street": "Pinksterbloemstraat", 
-      "lon": 2.8506215867313167
+      "street": "Pinksterbloemstraat"
     }, 
     {
+      "housenumber": "11A", 
       "pcode": 8650, 
-      "street": "Pinksterbloemstraat", 
-      "housenumber": "11A"
+      "street": "Pinksterbloemstraat"
     }, 
     {
-      "lat": 50.956962055139435, 
       "housenumber": "5", 
+      "lat": 50.956962055139435, 
+      "lon": 2.849732545668026, 
       "pcode": 8650, 
-      "street": "Pinksterbloemstraat", 
-      "lon": 2.849732545668026
+      "street": "Pinksterbloemstraat"
     }, 
     {
-      "lat": 50.95681595025624, 
       "housenumber": "7", 
+      "lat": 50.95681595025624, 
+      "lon": 2.850018003714759, 
       "pcode": 8650, 
-      "street": "Pinksterbloemstraat", 
-      "lon": 2.850018003714759
+      "street": "Pinksterbloemstraat"
     }, 
     {
-      "lat": 50.95666137115087, 
       "housenumber": "9", 
+      "lat": 50.95666137115087, 
+      "lon": 2.8501555416110596, 
       "pcode": 8650, 
-      "street": "Pinksterbloemstraat", 
-      "lon": 2.8501555416110596
+      "street": "Pinksterbloemstraat"
     }
-  ], 
-  "name": "Pinksterbloemstraat"
+  ]
 }

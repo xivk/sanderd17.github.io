@@ -1,32 +1,30 @@
 {
-  "pcode": 2450, 
   "addresses": [
     {
-      "lat": 51.1410754157645, 
       "housenumber": "11", 
+      "lat": 51.1410754157645, 
+      "lon": 5.019276700839057, 
       "pcode": 2450, 
-      "street": "Hagelweg", 
-      "lon": 5.019276700839057
+      "street": "Hagelweg"
     }, 
     {
-      "lat": 51.138903009329965, 
       "housenumber": "5", 
+      "lat": 51.138903009329965, 
+      "lon": 5.026717979941547, 
       "pcode": 2450, 
-      "street": "Hagelweg", 
-      "lon": 5.026717979941547
+      "street": "Hagelweg"
     }, 
     {
-      "lat": 51.14099828555083, 
       "housenumber": "9", 
+      "lat": 51.14099828555083, 
+      "lon": 5.0191145845720335, 
       "pcode": 2450, 
-      "street": "Hagelweg", 
-      "lon": 5.0191145845720335
+      "street": "Hagelweg"
     }, 
     {
+      "housenumber": "96", 
       "pcode": 2450, 
-      "street": "Hagelweg", 
-      "housenumber": "96"
+      "street": "Hagelweg"
     }
-  ], 
-  "name": "Hagelweg"
+  ]
 }

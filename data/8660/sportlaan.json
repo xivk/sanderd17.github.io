@@ -1,41 +1,39 @@
 {
-  "pcode": 8660, 
   "addresses": [
     {
-      "lat": 51.09337474097771, 
       "housenumber": "1", 
+      "lat": 51.09337474097771, 
+      "lon": 2.6122690320061057, 
       "pcode": 8660, 
-      "street": "Sportlaan", 
-      "lon": 2.6122690320061057
+      "street": "Sportlaan"
     }, 
     {
-      "lat": 51.09285119498261, 
       "housenumber": "2", 
-      "pcode": 8660, 
-      "street": "Sportlaan", 
-      "lon": 2.6114193027984713
-    }, 
-    {
       "lat": 51.09285119498261, 
+      "lon": 2.6114193027984713, 
+      "pcode": 8660, 
+      "street": "Sportlaan"
+    }, 
+    {
       "housenumber": "3", 
+      "lat": 51.09285119498261, 
+      "lon": 2.6114193027984713, 
       "pcode": 8660, 
-      "street": "Sportlaan", 
-      "lon": 2.6114193027984713
+      "street": "Sportlaan"
     }, 
     {
-      "lat": 51.091242554245405, 
       "housenumber": "7", 
+      "lat": 51.091242554245405, 
+      "lon": 2.614293714709198, 
       "pcode": 8660, 
-      "street": "Sportlaan", 
-      "lon": 2.614293714709198
+      "street": "Sportlaan"
     }, 
     {
-      "lat": 51.09083929371597, 
       "housenumber": "9", 
+      "lat": 51.09083929371597, 
+      "lon": 2.6139915969287366, 
       "pcode": 8660, 
-      "street": "Sportlaan", 
-      "lon": 2.6139915969287366
+      "street": "Sportlaan"
     }
-  ], 
-  "name": "Sportlaan"
+  ]
 }

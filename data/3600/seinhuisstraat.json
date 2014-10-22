@@ -1,37 +1,35 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.99969304783596, 
       "housenumber": "1", 
+      "lat": 50.99969304783596, 
+      "lon": 5.478871124679115, 
       "pcode": 3600, 
-      "street": "Seinhuisstraat", 
-      "lon": 5.478871124679115
+      "street": "Seinhuisstraat"
     }, 
     {
-      "lat": 51.00047614144758, 
       "housenumber": "15", 
+      "lat": 51.00047614144758, 
+      "lon": 5.4800454520828, 
       "pcode": 3600, 
-      "street": "Seinhuisstraat", 
-      "lon": 5.4800454520828
+      "street": "Seinhuisstraat"
     }, 
     {
-      "lat": 51.001126176495546, 
       "housenumber": "3", 
+      "lat": 51.001126176495546, 
+      "lon": 5.48143763979793, 
       "pcode": 3600, 
-      "street": "Seinhuisstraat", 
-      "lon": 5.48143763979793
+      "street": "Seinhuisstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3600, 
-      "street": "Seinhuisstraat", 
-      "housenumber": "5"
+      "street": "Seinhuisstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3600, 
-      "street": "Seinhuisstraat", 
-      "housenumber": "7"
+      "street": "Seinhuisstraat"
     }
-  ], 
-  "name": "Seinhuisstraat"
+  ]
 }

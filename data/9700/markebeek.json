@@ -1,20 +1,18 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.82077473788101, 
       "housenumber": "1", 
+      "lat": 50.82077473788101, 
+      "lon": 3.621684240266152, 
       "pcode": 9700, 
-      "street": "Markebeek", 
-      "lon": 3.621684240266152
+      "street": "Markebeek"
     }, 
     {
-      "lat": 50.820470955767725, 
       "housenumber": "2", 
+      "lat": 50.820470955767725, 
+      "lon": 3.6218805129406344, 
       "pcode": 9700, 
-      "street": "Markebeek", 
-      "lon": 3.6218805129406344
+      "street": "Markebeek"
     }
-  ], 
-  "name": "Markebeek"
+  ]
 }

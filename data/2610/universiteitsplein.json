@@ -1,33 +1,31 @@
 {
-  "pcode": 2610, 
   "addresses": [
     {
-      "lat": 51.163677776487475, 
       "housenumber": "1", 
+      "lat": 51.163677776487475, 
+      "lon": 4.401064892094349, 
       "pcode": 2610, 
-      "street": "Universiteitsplein", 
-      "lon": 4.401064892094349
+      "street": "Universiteitsplein"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 2610, 
-      "street": "Universiteitsplein", 
-      "housenumber": "1A"
+      "street": "Universiteitsplein"
     }, 
     {
+      "housenumber": "1C", 
       "pcode": 2610, 
-      "street": "Universiteitsplein", 
-      "housenumber": "1C"
+      "street": "Universiteitsplein"
     }, 
     {
+      "housenumber": "1q", 
       "pcode": 2610, 
-      "street": "Universiteitsplein", 
-      "housenumber": "1q"
+      "street": "Universiteitsplein"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2610, 
-      "street": "Universiteitsplein", 
-      "housenumber": "5"
+      "street": "Universiteitsplein"
     }
-  ], 
-  "name": "Universiteitsplein"
+  ]
 }

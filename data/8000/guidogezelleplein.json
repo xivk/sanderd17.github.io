@@ -1,20 +1,18 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.205123328863586, 
       "housenumber": "1", 
+      "lat": 51.205123328863586, 
+      "lon": 3.223799755056174, 
       "pcode": 8000, 
-      "street": "Guido Gezelleplein", 
-      "lon": 3.223799755056174
+      "street": "Guido Gezelleplein"
     }, 
     {
-      "lat": 51.20546374065322, 
       "housenumber": "2", 
+      "lat": 51.20546374065322, 
+      "lon": 3.224280527587222, 
       "pcode": 8000, 
-      "street": "Guido Gezelleplein", 
-      "lon": 3.224280527587222
+      "street": "Guido Gezelleplein"
     }
-  ], 
-  "name": "Guido Gezelleplein"
+  ]
 }

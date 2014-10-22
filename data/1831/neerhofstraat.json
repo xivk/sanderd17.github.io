@@ -1,18 +1,16 @@
 {
-  "pcode": 1831, 
   "addresses": [
     {
+      "housenumber": "13", 
       "pcode": 1831, 
-      "street": "Neerhofstraat", 
-      "housenumber": "13"
+      "street": "Neerhofstraat"
     }, 
     {
-      "lat": 50.897088385532236, 
       "housenumber": "15", 
+      "lat": 50.897088385532236, 
+      "lon": 4.436154249390263, 
       "pcode": 1831, 
-      "street": "Neerhofstraat", 
-      "lon": 4.436154249390263
+      "street": "Neerhofstraat"
     }
-  ], 
-  "name": "Neerhofstraat"
+  ]
 }

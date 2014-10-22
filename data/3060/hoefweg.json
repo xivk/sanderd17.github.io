@@ -1,20 +1,18 @@
 {
-  "pcode": 3060, 
   "addresses": [
     {
-      "lat": 50.862273136103006, 
       "housenumber": "2", 
+      "lat": 50.862273136103006, 
+      "lon": 4.640266460179068, 
       "pcode": 3060, 
-      "street": "Hoefweg", 
-      "lon": 4.640266460179068
+      "street": "Hoefweg"
     }, 
     {
-      "lat": 50.86209808964919, 
       "housenumber": "4", 
+      "lat": 50.86209808964919, 
+      "lon": 4.6405462609404555, 
       "pcode": 3060, 
-      "street": "Hoefweg", 
-      "lon": 4.6405462609404555
+      "street": "Hoefweg"
     }
-  ], 
-  "name": "Hoefweg"
+  ]
 }

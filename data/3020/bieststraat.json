@@ -1,42 +1,40 @@
 {
-  "pcode": 3020, 
   "addresses": [
     {
+      "housenumber": "100", 
       "pcode": 3020, 
-      "street": "Bieststraat", 
-      "housenumber": "100"
+      "street": "Bieststraat"
     }, 
     {
+      "housenumber": "100A", 
       "pcode": 3020, 
-      "street": "Bieststraat", 
-      "housenumber": "100A"
+      "street": "Bieststraat"
     }, 
     {
-      "lat": 50.88967602902572, 
       "housenumber": "102", 
+      "lat": 50.88967602902572, 
+      "lon": 4.668277675574097, 
       "pcode": 3020, 
-      "street": "Bieststraat", 
-      "lon": 4.668277675574097
+      "street": "Bieststraat"
     }, 
     {
-      "lat": 50.88724698055643, 
       "housenumber": "2", 
+      "lat": 50.88724698055643, 
+      "lon": 4.6730210824435225, 
       "pcode": 3020, 
-      "street": "Bieststraat", 
-      "lon": 4.6730210824435225
+      "street": "Bieststraat"
     }, 
     {
-      "lat": 50.887267263927825, 
       "housenumber": "4", 
+      "lat": 50.887267263927825, 
+      "lon": 4.672687522989978, 
       "pcode": 3020, 
-      "street": "Bieststraat", 
-      "lon": 4.672687522989978
+      "street": "Bieststraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3020, 
-      "street": "Bieststraat", 
-      "housenumber": "6"
+      "street": "Bieststraat"
     }
-  ], 
-  "name": "Bieststraat"
+  ]
 }

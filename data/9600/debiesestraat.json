@@ -1,27 +1,25 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.74908704480327, 
       "housenumber": "1", 
+      "lat": 50.74908704480327, 
+      "lon": 3.603843372205194, 
       "pcode": 9600, 
-      "street": "De Biesestraat", 
-      "lon": 3.603843372205194
+      "street": "De Biesestraat"
     }, 
     {
-      "lat": 50.74933397758439, 
       "housenumber": "2", 
+      "lat": 50.74933397758439, 
+      "lon": 3.6020375565489964, 
       "pcode": 9600, 
-      "street": "De Biesestraat", 
-      "lon": 3.6020375565489964
+      "street": "De Biesestraat"
     }, 
     {
-      "lat": 50.749683983961134, 
       "housenumber": "4", 
+      "lat": 50.749683983961134, 
+      "lon": 3.6030572670385177, 
       "pcode": 9600, 
-      "street": "De Biesestraat", 
-      "lon": 3.6030572670385177
+      "street": "De Biesestraat"
     }
-  ], 
-  "name": "De Biesestraat"
+  ]
 }

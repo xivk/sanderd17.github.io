@@ -1,20 +1,18 @@
 {
-  "pcode": 1600, 
   "addresses": [
     {
-      "lat": 50.779475949344565, 
       "housenumber": "1", 
+      "lat": 50.779475949344565, 
+      "lon": 4.183867513225562, 
       "pcode": 1600, 
-      "street": "Bosstraat", 
-      "lon": 4.183867513225562
+      "street": "Bosstraat"
     }, 
     {
-      "lat": 50.778017720952725, 
       "housenumber": "3", 
+      "lat": 50.778017720952725, 
+      "lon": 4.183576459287403, 
       "pcode": 1600, 
-      "street": "Bosstraat", 
-      "lon": 4.183576459287403
+      "street": "Bosstraat"
     }
-  ], 
-  "name": "Bosstraat"
+  ]
 }

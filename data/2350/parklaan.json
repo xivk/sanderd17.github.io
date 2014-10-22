@@ -1,56 +1,54 @@
 {
-  "pcode": 2350, 
   "addresses": [
     {
-      "lat": 51.31360147806428, 
       "housenumber": "1", 
+      "lat": 51.31360147806428, 
+      "lon": 4.887604766385638, 
       "pcode": 2350, 
-      "street": "Parklaan", 
-      "lon": 4.887604766385638
+      "street": "Parklaan"
     }, 
     {
-      "lat": 51.31396846265201, 
       "housenumber": "2", 
+      "lat": 51.31396846265201, 
+      "lon": 4.887708685962636, 
       "pcode": 2350, 
-      "street": "Parklaan", 
-      "lon": 4.887708685962636
+      "street": "Parklaan"
     }, 
     {
+      "housenumber": "2_1", 
       "pcode": 2350, 
-      "street": "Parklaan", 
-      "housenumber": "2_1"
+      "street": "Parklaan"
     }, 
     {
-      "lat": 51.3137366616362, 
       "housenumber": "3", 
+      "lat": 51.3137366616362, 
+      "lon": 4.887399748268806, 
       "pcode": 2350, 
-      "street": "Parklaan", 
-      "lon": 4.887399748268806
+      "street": "Parklaan"
     }, 
     {
-      "lat": 51.31396327289444, 
       "housenumber": "4", 
+      "lat": 51.31396327289444, 
+      "lon": 4.887498370546312, 
       "pcode": 2350, 
-      "street": "Parklaan", 
-      "lon": 4.887498370546312
+      "street": "Parklaan"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2350, 
-      "street": "Parklaan", 
-      "housenumber": "5"
+      "street": "Parklaan"
     }, 
     {
-      "lat": 51.31397351603749, 
       "housenumber": "6", 
+      "lat": 51.31397351603749, 
+      "lon": 4.887355636000097, 
       "pcode": 2350, 
-      "street": "Parklaan", 
-      "lon": 4.887355636000097
+      "street": "Parklaan"
     }, 
     {
+      "housenumber": "6_1", 
       "pcode": 2350, 
-      "street": "Parklaan", 
-      "housenumber": "6_1"
+      "street": "Parklaan"
     }
-  ], 
-  "name": "Parklaan"
+  ]
 }

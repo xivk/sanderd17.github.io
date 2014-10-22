@@ -1,20 +1,18 @@
 {
-  "pcode": 3560, 
   "addresses": [
     {
-      "lat": 50.99396481079171, 
       "housenumber": "1", 
+      "lat": 50.99396481079171, 
+      "lon": 5.205410141706866, 
       "pcode": 3560, 
-      "street": "Dennenstraat", 
-      "lon": 5.205410141706866
+      "street": "Dennenstraat"
     }, 
     {
-      "lat": 50.9934810854427, 
       "housenumber": "2", 
+      "lat": 50.9934810854427, 
+      "lon": 5.207175249747697, 
       "pcode": 3560, 
-      "street": "Dennenstraat", 
-      "lon": 5.207175249747697
+      "street": "Dennenstraat"
     }
-  ], 
-  "name": "Dennenstraat"
+  ]
 }

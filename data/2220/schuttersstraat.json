@@ -1,20 +1,18 @@
 {
-  "pcode": 2220, 
   "addresses": [
     {
-      "lat": 51.08763076952819, 
       "housenumber": "1", 
+      "lat": 51.08763076952819, 
+      "lon": 4.733577934286835, 
       "pcode": 2220, 
-      "street": "Schuttersstraat", 
-      "lon": 4.733577934286835
+      "street": "Schuttersstraat"
     }, 
     {
-      "lat": 51.08715851399181, 
       "housenumber": "4", 
+      "lat": 51.08715851399181, 
+      "lon": 4.733135220421196, 
       "pcode": 2220, 
-      "street": "Schuttersstraat", 
-      "lon": 4.733135220421196
+      "street": "Schuttersstraat"
     }
-  ], 
-  "name": "Schuttersstraat"
+  ]
 }

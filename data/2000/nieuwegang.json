@@ -1,23 +1,21 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "3", 
       "pcode": 2000, 
-      "street": "Nieuwe Gang", 
-      "housenumber": "3"
+      "street": "Nieuwe Gang"
     }, 
     {
+      "housenumber": "38", 
       "pcode": 2000, 
-      "street": "Nieuwe Gang", 
-      "housenumber": "38"
+      "street": "Nieuwe Gang"
     }, 
     {
-      "lat": 51.22543397651293, 
       "housenumber": "9", 
+      "lat": 51.22543397651293, 
+      "lon": 4.410989027294056, 
       "pcode": 2000, 
-      "street": "Nieuwe Gang", 
-      "lon": 4.410989027294056
+      "street": "Nieuwe Gang"
     }
-  ], 
-  "name": "Nieuwe Gang"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 1850, 
   "addresses": [
     {
-      "lat": 50.93520953763124, 
       "housenumber": "1", 
+      "lat": 50.93520953763124, 
+      "lon": 4.36444276702059, 
       "pcode": 1850, 
-      "street": "Beekweg", 
-      "lon": 4.36444276702059
+      "street": "Beekweg"
     }, 
     {
-      "lat": 50.92796213336186, 
       "housenumber": "16", 
+      "lat": 50.92796213336186, 
+      "lon": 4.361135125815076, 
       "pcode": 1850, 
-      "street": "Beekweg", 
-      "lon": 4.361135125815076
+      "street": "Beekweg"
     }, 
     {
-      "lat": 50.935251083421484, 
       "housenumber": "3", 
+      "lat": 50.935251083421484, 
+      "lon": 4.364979800359335, 
       "pcode": 1850, 
-      "street": "Beekweg", 
-      "lon": 4.364979800359335
+      "street": "Beekweg"
     }
-  ], 
-  "name": "Beekweg"
+  ]
 }

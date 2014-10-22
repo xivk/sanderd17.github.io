@@ -1,25 +1,23 @@
 {
-  "pcode": 8200, 
   "addresses": [
     {
-      "lat": 51.16090983491864, 
       "housenumber": "1", 
+      "lat": 51.16090983491864, 
+      "lon": 3.161910133292319, 
       "pcode": 8200, 
-      "street": "Zevenkerken", 
-      "lon": 3.161910133292319
+      "street": "Zevenkerken"
     }, 
     {
-      "lat": 51.159398338741745, 
       "housenumber": "4", 
+      "lat": 51.159398338741745, 
+      "lon": 3.15881214158632, 
       "pcode": 8200, 
-      "street": "Zevenkerken", 
-      "lon": 3.15881214158632
+      "street": "Zevenkerken"
     }, 
     {
+      "housenumber": "4A", 
       "pcode": 8200, 
-      "street": "Zevenkerken", 
-      "housenumber": "4A"
+      "street": "Zevenkerken"
     }
-  ], 
-  "name": "Zevenkerken"
+  ]
 }

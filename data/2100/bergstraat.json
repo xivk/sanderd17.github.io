@@ -1,28 +1,26 @@
 {
-  "pcode": 2100, 
   "addresses": [
     {
+      "housenumber": "112", 
       "pcode": 2100, 
-      "street": "Bergstraat", 
-      "housenumber": "112"
+      "street": "Bergstraat"
     }, 
     {
-      "lat": 51.218373571619416, 
       "housenumber": "16", 
+      "lat": 51.218373571619416, 
+      "lon": 4.400011418722281, 
       "pcode": 2100, 
-      "street": "Bergstraat", 
-      "lon": 4.400011418722281
+      "street": "Bergstraat"
     }, 
     {
+      "housenumber": "59", 
       "pcode": 2100, 
-      "street": "Bergstraat", 
-      "housenumber": "59"
+      "street": "Bergstraat"
     }, 
     {
+      "housenumber": "70", 
       "pcode": 2100, 
-      "street": "Bergstraat", 
-      "housenumber": "70"
+      "street": "Bergstraat"
     }
-  ], 
-  "name": "Bergstraat"
+  ]
 }

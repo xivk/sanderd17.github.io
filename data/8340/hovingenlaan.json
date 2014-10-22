@@ -1,39 +1,37 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.21127758052702, 
       "housenumber": "1", 
+      "lat": 51.21127758052702, 
+      "lon": 3.313084233925078, 
       "pcode": 8340, 
-      "street": "Hovingenlaan", 
-      "lon": 3.313084233925078
+      "street": "Hovingenlaan"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 8340, 
-      "street": "Hovingenlaan", 
-      "housenumber": "1A"
+      "street": "Hovingenlaan"
     }, 
     {
-      "lat": 51.211128045549586, 
       "housenumber": "2", 
+      "lat": 51.211128045549586, 
+      "lon": 3.3147931449137022, 
       "pcode": 8340, 
-      "street": "Hovingenlaan", 
-      "lon": 3.3147931449137022
+      "street": "Hovingenlaan"
     }, 
     {
-      "lat": 51.21109813232313, 
       "housenumber": "4", 
+      "lat": 51.21109813232313, 
+      "lon": 3.314482826979524, 
       "pcode": 8340, 
-      "street": "Hovingenlaan", 
-      "lon": 3.314482826979524
+      "street": "Hovingenlaan"
     }, 
     {
-      "lat": 51.210949757923146, 
       "housenumber": "6", 
+      "lat": 51.210949757923146, 
+      "lon": 3.313731095360302, 
       "pcode": 8340, 
-      "street": "Hovingenlaan", 
-      "lon": 3.313731095360302
+      "street": "Hovingenlaan"
     }
-  ], 
-  "name": "Hovingenlaan"
+  ]
 }

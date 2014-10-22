@@ -1,68 +1,66 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8800, 
-      "street": "Kerkstukweg", 
-      "housenumber": "1"
+      "street": "Kerkstukweg"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 8800, 
-      "street": "Kerkstukweg", 
-      "housenumber": "11"
+      "street": "Kerkstukweg"
     }, 
     {
-      "lat": 50.96937935469831, 
       "housenumber": "2", 
+      "lat": 50.96937935469831, 
+      "lon": 3.1514764601419523, 
       "pcode": 8800, 
-      "street": "Kerkstukweg", 
-      "lon": 3.1514764601419523
+      "street": "Kerkstukweg"
     }, 
     {
-      "lat": 50.9686518122755, 
       "housenumber": "21", 
+      "lat": 50.9686518122755, 
+      "lon": 3.1536555568065303, 
       "pcode": 8800, 
-      "street": "Kerkstukweg", 
-      "lon": 3.1536555568065303
+      "street": "Kerkstukweg"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8800, 
-      "street": "Kerkstukweg", 
-      "housenumber": "3"
+      "street": "Kerkstukweg"
     }, 
     {
-      "lat": 50.96934504189373, 
       "housenumber": "5", 
+      "lat": 50.96934504189373, 
+      "lon": 3.1530879971850667, 
       "pcode": 8800, 
-      "street": "Kerkstukweg", 
-      "lon": 3.1530879971850667
+      "street": "Kerkstukweg"
     }, 
     {
-      "lat": 50.96531163150778, 
       "housenumber": "67", 
+      "lat": 50.96531163150778, 
+      "lon": 3.149079118841406, 
       "pcode": 8800, 
-      "street": "Kerkstukweg", 
-      "lon": 3.149079118841406
+      "street": "Kerkstukweg"
     }, 
     {
-      "lat": 50.96917632562051, 
       "housenumber": "7", 
+      "lat": 50.96917632562051, 
+      "lon": 3.1528389273860213, 
       "pcode": 8800, 
-      "street": "Kerkstukweg", 
-      "lon": 3.1528389273860213
+      "street": "Kerkstukweg"
     }, 
     {
-      "lat": 50.96893917325711, 
       "housenumber": "8", 
+      "lat": 50.96893917325711, 
+      "lon": 3.1519620176054644, 
       "pcode": 8800, 
-      "street": "Kerkstukweg", 
-      "lon": 3.1519620176054644
+      "street": "Kerkstukweg"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 8800, 
-      "street": "Kerkstukweg", 
-      "housenumber": "9"
+      "street": "Kerkstukweg"
     }
-  ], 
-  "name": "Kerkstukweg"
+  ]
 }

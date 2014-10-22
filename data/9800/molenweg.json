@@ -1,53 +1,51 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 50.963536877788115, 
       "housenumber": "1", 
+      "lat": 50.963536877788115, 
+      "lon": 3.450886991057639, 
       "pcode": 9800, 
-      "street": "Molenweg", 
-      "lon": 3.450886991057639
+      "street": "Molenweg"
     }, 
     {
-      "lat": 50.963417143069265, 
       "housenumber": "3", 
+      "lat": 50.963417143069265, 
+      "lon": 3.4514070880094794, 
       "pcode": 9800, 
-      "street": "Molenweg", 
-      "lon": 3.4514070880094794
+      "street": "Molenweg"
     }, 
     {
+      "housenumber": "3A", 
       "pcode": 9800, 
-      "street": "Molenweg", 
-      "housenumber": "3A"
+      "street": "Molenweg"
     }, 
     {
-      "lat": 50.96360936637871, 
       "housenumber": "3B", 
+      "lat": 50.96360936637871, 
+      "lon": 3.451340407671725, 
       "pcode": 9800, 
-      "street": "Molenweg", 
-      "lon": 3.451340407671725
+      "street": "Molenweg"
     }, 
     {
-      "lat": 50.96349810693745, 
       "housenumber": "5", 
+      "lat": 50.96349810693745, 
+      "lon": 3.4517601186671403, 
       "pcode": 9800, 
-      "street": "Molenweg", 
-      "lon": 3.4517601186671403
+      "street": "Molenweg"
     }, 
     {
-      "lat": 50.963582024202836, 
       "housenumber": "7", 
+      "lat": 50.963582024202836, 
+      "lon": 3.452030809825688, 
       "pcode": 9800, 
-      "street": "Molenweg", 
-      "lon": 3.452030809825688
+      "street": "Molenweg"
     }, 
     {
-      "lat": 50.96366482674436, 
       "housenumber": "9", 
+      "lat": 50.96366482674436, 
+      "lon": 3.452296968244482, 
       "pcode": 9800, 
-      "street": "Molenweg", 
-      "lon": 3.452296968244482
+      "street": "Molenweg"
     }
-  ], 
-  "name": "Molenweg"
+  ]
 }

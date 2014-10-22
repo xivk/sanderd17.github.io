@@ -1,35 +1,33 @@
 {
-  "pcode": 2530, 
   "addresses": [
     {
+      "housenumber": "206", 
       "pcode": 2530, 
-      "street": "Sneppenbosweg", 
-      "housenumber": "206"
+      "street": "Sneppenbosweg"
     }, 
     {
+      "housenumber": "208", 
       "pcode": 2530, 
-      "street": "Sneppenbosweg", 
-      "housenumber": "208"
+      "street": "Sneppenbosweg"
     }, 
     {
+      "housenumber": "222", 
       "pcode": 2530, 
-      "street": "Sneppenbosweg", 
-      "housenumber": "222"
+      "street": "Sneppenbosweg"
     }, 
     {
-      "lat": 51.16746824248751, 
       "housenumber": "3", 
+      "lat": 51.16746824248751, 
+      "lon": 4.515759233728675, 
       "pcode": 2530, 
-      "street": "Sneppenbosweg", 
-      "lon": 4.515759233728675
+      "street": "Sneppenbosweg"
     }, 
     {
-      "lat": 51.16794307641348, 
       "housenumber": "9", 
+      "lat": 51.16794307641348, 
+      "lon": 4.514123578574608, 
       "pcode": 2530, 
-      "street": "Sneppenbosweg", 
-      "lon": 4.514123578574608
+      "street": "Sneppenbosweg"
     }
-  ], 
-  "name": "Sneppenbosweg"
+  ]
 }

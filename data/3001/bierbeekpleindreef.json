@@ -1,20 +1,18 @@
 {
-  "pcode": 3001, 
   "addresses": [
     {
-      "lat": 50.84901376939946, 
       "housenumber": "2", 
+      "lat": 50.84901376939946, 
+      "lon": 4.709156847840561, 
       "pcode": 3001, 
-      "street": "Bierbeekpleindreef", 
-      "lon": 4.709156847840561
+      "street": "Bierbeekpleindreef"
     }, 
     {
-      "lat": 50.8483050976125, 
       "housenumber": "4", 
+      "lat": 50.8483050976125, 
+      "lon": 4.708947793920584, 
       "pcode": 3001, 
-      "street": "Bierbeekpleindreef", 
-      "lon": 4.708947793920584
+      "street": "Bierbeekpleindreef"
     }
-  ], 
-  "name": "Bierbeekpleindreef"
+  ]
 }

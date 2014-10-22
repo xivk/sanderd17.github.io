@@ -1,20 +1,18 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.986415622059695, 
       "housenumber": "1", 
+      "lat": 50.986415622059695, 
+      "lon": 3.1569270356178083, 
       "pcode": 8800, 
-      "street": "Hagedoornweg", 
-      "lon": 3.1569270356178083
+      "street": "Hagedoornweg"
     }, 
     {
-      "lat": 50.98599159194126, 
       "housenumber": "2", 
+      "lat": 50.98599159194126, 
+      "lon": 3.15622425593285, 
       "pcode": 8800, 
-      "street": "Hagedoornweg", 
-      "lon": 3.15622425593285
+      "street": "Hagedoornweg"
     }
-  ], 
-  "name": "Hagedoornweg"
+  ]
 }

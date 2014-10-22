@@ -1,27 +1,25 @@
 {
-  "pcode": 1700, 
   "addresses": [
     {
-      "lat": 50.85830320006878, 
       "housenumber": "1", 
+      "lat": 50.85830320006878, 
+      "lon": 4.243663839700805, 
       "pcode": 1700, 
-      "street": "Winterkoninkje", 
-      "lon": 4.243663839700805
+      "street": "Winterkoninkje"
     }, 
     {
-      "lat": 50.85828297084816, 
       "housenumber": "2", 
+      "lat": 50.85828297084816, 
+      "lon": 4.243576403662303, 
       "pcode": 1700, 
-      "street": "Winterkoninkje", 
-      "lon": 4.243576403662303
+      "street": "Winterkoninkje"
     }, 
     {
-      "lat": 50.85822346722823, 
       "housenumber": "3", 
+      "lat": 50.85822346722823, 
+      "lon": 4.2434981616195895, 
       "pcode": 1700, 
-      "street": "Winterkoninkje", 
-      "lon": 4.2434981616195895
+      "street": "Winterkoninkje"
     }
-  ], 
-  "name": "Winterkoninkje"
+  ]
 }

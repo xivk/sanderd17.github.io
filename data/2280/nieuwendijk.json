@@ -1,18 +1,16 @@
 {
-  "pcode": 2280, 
   "addresses": [
     {
-      "lat": 51.17325906774188, 
       "housenumber": "3", 
+      "lat": 51.17325906774188, 
+      "lon": 4.753598681166069, 
       "pcode": 2280, 
-      "street": "Nieuwendijk", 
-      "lon": 4.753598681166069
+      "street": "Nieuwendijk"
     }, 
     {
+      "housenumber": "30", 
       "pcode": 2280, 
-      "street": "Nieuwendijk", 
-      "housenumber": "30"
+      "street": "Nieuwendijk"
     }
-  ], 
-  "name": "Nieuwendijk"
+  ]
 }

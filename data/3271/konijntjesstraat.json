@@ -1,38 +1,36 @@
 {
-  "pcode": 3271, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3271, 
-      "street": "Konijntjesstraat", 
-      "housenumber": "1"
+      "street": "Konijntjesstraat"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 3271, 
-      "street": "Konijntjesstraat", 
-      "housenumber": "10"
+      "street": "Konijntjesstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3271, 
-      "street": "Konijntjesstraat", 
-      "housenumber": "3"
+      "street": "Konijntjesstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3271, 
-      "street": "Konijntjesstraat", 
-      "housenumber": "4"
+      "street": "Konijntjesstraat"
     }, 
     {
-      "lat": 50.99687989855088, 
       "housenumber": "5", 
+      "lat": 50.99687989855088, 
+      "lon": 4.956037663163418, 
       "pcode": 3271, 
-      "street": "Konijntjesstraat", 
-      "lon": 4.956037663163418
+      "street": "Konijntjesstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3271, 
-      "street": "Konijntjesstraat", 
-      "housenumber": "8"
+      "street": "Konijntjesstraat"
     }
-  ], 
-  "name": "Konijntjesstraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.35928569890697, 
       "housenumber": "1", 
+      "lat": 51.35928569890697, 
+      "lon": 3.3227602493718242, 
       "pcode": 8300, 
-      "street": "Appelzakstraat", 
-      "lon": 3.3227602493718242
+      "street": "Appelzakstraat"
     }, 
     {
-      "lat": 51.35926316453086, 
       "housenumber": "3", 
+      "lat": 51.35926316453086, 
+      "lon": 3.3227123719906557, 
       "pcode": 8300, 
-      "street": "Appelzakstraat", 
-      "lon": 3.3227123719906557
+      "street": "Appelzakstraat"
     }, 
     {
-      "lat": 51.359851295299954, 
       "housenumber": "5", 
+      "lat": 51.359851295299954, 
+      "lon": 3.3227221177749335, 
       "pcode": 8300, 
-      "street": "Appelzakstraat", 
-      "lon": 3.3227221177749335
+      "street": "Appelzakstraat"
     }
-  ], 
-  "name": "Appelzakstraat"
+  ]
 }

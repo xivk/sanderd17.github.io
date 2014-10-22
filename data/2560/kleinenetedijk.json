@@ -1,20 +1,18 @@
 {
-  "pcode": 2560, 
   "addresses": [
     {
-      "lat": 51.17377004624558, 
       "housenumber": "1", 
+      "lat": 51.17377004624558, 
+      "lon": 4.63668768430844, 
       "pcode": 2560, 
-      "street": "Kleine Netedijk", 
-      "lon": 4.63668768430844
+      "street": "Kleine Netedijk"
     }, 
     {
-      "lat": 51.172884299811, 
       "housenumber": "2", 
+      "lat": 51.172884299811, 
+      "lon": 4.634668336177621, 
       "pcode": 2560, 
-      "street": "Kleine Netedijk", 
-      "lon": 4.634668336177621
+      "street": "Kleine Netedijk"
     }
-  ], 
-  "name": "Kleine Netedijk"
+  ]
 }

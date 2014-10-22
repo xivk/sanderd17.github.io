@@ -1,20 +1,18 @@
 {
-  "pcode": 8600, 
   "addresses": [
     {
-      "lat": 51.10095325792236, 
       "housenumber": "2", 
+      "lat": 51.10095325792236, 
+      "lon": 2.8924736525729795, 
       "pcode": 8600, 
-      "street": "Toontjesstraat", 
-      "lon": 2.8924736525729795
+      "street": "Toontjesstraat"
     }, 
     {
-      "lat": 51.100918491832175, 
       "housenumber": "4", 
+      "lat": 51.100918491832175, 
+      "lon": 2.892181309050654, 
       "pcode": 8600, 
-      "street": "Toontjesstraat", 
-      "lon": 2.892181309050654
+      "street": "Toontjesstraat"
     }
-  ], 
-  "name": "Toontjesstraat"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 1600, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 1600, 
-      "street": "Olmenlaan", 
-      "housenumber": "1"
+      "street": "Olmenlaan"
     }, 
     {
-      "lat": 50.79106562974754, 
       "housenumber": "2", 
+      "lat": 50.79106562974754, 
+      "lon": 4.281842750941692, 
       "pcode": 1600, 
-      "street": "Olmenlaan", 
-      "lon": 4.281842750941692
+      "street": "Olmenlaan"
     }, 
     {
-      "lat": 50.791359573576884, 
       "housenumber": "3", 
+      "lat": 50.791359573576884, 
+      "lon": 4.282554323205453, 
       "pcode": 1600, 
-      "street": "Olmenlaan", 
-      "lon": 4.282554323205453
+      "street": "Olmenlaan"
     }, 
     {
-      "lat": 50.79111479696102, 
       "housenumber": "4", 
+      "lat": 50.79111479696102, 
+      "lon": 4.282078942559308, 
       "pcode": 1600, 
-      "street": "Olmenlaan", 
-      "lon": 4.282078942559308
+      "street": "Olmenlaan"
     }
-  ], 
-  "name": "Olmenlaan"
+  ]
 }

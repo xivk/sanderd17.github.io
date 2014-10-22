@@ -1,37 +1,35 @@
 {
-  "pcode": 2100, 
   "addresses": [
     {
+      "housenumber": "158", 
       "pcode": 2100, 
-      "street": "Deurnestraat", 
-      "housenumber": "158"
+      "street": "Deurnestraat"
     }, 
     {
-      "lat": 51.18674471684109, 
       "housenumber": "252", 
+      "lat": 51.18674471684109, 
+      "lon": 4.450157143912369, 
       "pcode": 2100, 
-      "street": "Deurnestraat", 
-      "lon": 4.450157143912369
+      "street": "Deurnestraat"
     }, 
     {
-      "lat": 51.18700224250418, 
       "housenumber": "280", 
+      "lat": 51.18700224250418, 
+      "lon": 4.450150159498369, 
       "pcode": 2100, 
-      "street": "Deurnestraat", 
-      "lon": 4.450150159498369
+      "street": "Deurnestraat"
     }, 
     {
+      "housenumber": "280B", 
       "pcode": 2100, 
-      "street": "Deurnestraat", 
-      "housenumber": "280B"
+      "street": "Deurnestraat"
     }, 
     {
-      "lat": 51.18796752350122, 
       "housenumber": "300", 
+      "lat": 51.18796752350122, 
+      "lon": 4.44936275090544, 
       "pcode": 2100, 
-      "street": "Deurnestraat", 
-      "lon": 4.44936275090544
+      "street": "Deurnestraat"
     }
-  ], 
-  "name": "Deurnestraat"
+  ]
 }

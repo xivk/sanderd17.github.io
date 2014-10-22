@@ -1,27 +1,25 @@
 {
-  "pcode": 8820, 
   "addresses": [
     {
-      "lat": 51.06586165346085, 
       "housenumber": "1", 
+      "lat": 51.06586165346085, 
+      "lon": 3.1120437019494966, 
       "pcode": 8820, 
-      "street": "Demerstraat", 
-      "lon": 3.1120437019494966
+      "street": "Demerstraat"
     }, 
     {
-      "lat": 51.06584293507581, 
       "housenumber": "2", 
+      "lat": 51.06584293507581, 
+      "lon": 3.1126408874121294, 
       "pcode": 8820, 
-      "street": "Demerstraat", 
-      "lon": 3.1126408874121294
+      "street": "Demerstraat"
     }, 
     {
-      "lat": 51.06565528287562, 
       "housenumber": "3", 
+      "lat": 51.06565528287562, 
+      "lon": 3.112182789557074, 
       "pcode": 8820, 
-      "street": "Demerstraat", 
-      "lon": 3.112182789557074
+      "street": "Demerstraat"
     }
-  ], 
-  "name": "Demerstraat"
+  ]
 }

@@ -1,47 +1,45 @@
 {
-  "pcode": 9050, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 9050, 
-      "street": "Gaston Crommenlaan", 
-      "housenumber": "10"
+      "street": "Gaston Crommenlaan"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 9050, 
-      "street": "Gaston Crommenlaan", 
-      "housenumber": "12"
+      "street": "Gaston Crommenlaan"
     }, 
     {
+      "housenumber": "14", 
       "pcode": 9050, 
-      "street": "Gaston Crommenlaan", 
-      "housenumber": "14"
+      "street": "Gaston Crommenlaan"
     }, 
     {
-      "lat": 51.03673284530401, 
       "housenumber": "2", 
+      "lat": 51.03673284530401, 
+      "lon": 3.734987374847898, 
       "pcode": 9050, 
-      "street": "Gaston Crommenlaan", 
-      "lon": 3.734987374847898
+      "street": "Gaston Crommenlaan"
     }, 
     {
-      "lat": 51.036656882551455, 
       "housenumber": "4", 
+      "lat": 51.036656882551455, 
+      "lon": 3.7350537012950253, 
       "pcode": 9050, 
-      "street": "Gaston Crommenlaan", 
-      "lon": 3.7350537012950253
+      "street": "Gaston Crommenlaan"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9050, 
-      "street": "Gaston Crommenlaan", 
-      "housenumber": "6"
+      "street": "Gaston Crommenlaan"
     }, 
     {
-      "lat": 51.03667995449339, 
       "housenumber": "8", 
+      "lat": 51.03667995449339, 
+      "lon": 3.7354829670045193, 
       "pcode": 9050, 
-      "street": "Gaston Crommenlaan", 
-      "lon": 3.7354829670045193
+      "street": "Gaston Crommenlaan"
     }
-  ], 
-  "name": "Gaston Crommenlaan"
+  ]
 }

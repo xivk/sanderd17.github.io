@@ -1,20 +1,18 @@
 {
-  "pcode": 1850, 
   "addresses": [
     {
-      "lat": 50.98248669177845, 
       "housenumber": "145", 
+      "lat": 50.98248669177845, 
+      "lon": 4.402674353514467, 
       "pcode": 1850, 
-      "street": "Steenstraat", 
-      "lon": 4.402674353514467
+      "street": "Steenstraat"
     }, 
     {
-      "lat": 50.980366323162585, 
       "housenumber": "98", 
+      "lat": 50.980366323162585, 
+      "lon": 4.397412025875206, 
       "pcode": 1850, 
-      "street": "Steenstraat", 
-      "lon": 4.397412025875206
+      "street": "Steenstraat"
     }
-  ], 
-  "name": "Steenstraat"
+  ]
 }

@@ -1,42 +1,40 @@
 {
-  "pcode": 8210, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8210, 
-      "street": "Klythoek", 
-      "housenumber": "1"
+      "street": "Klythoek"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8210, 
-      "street": "Klythoek", 
-      "housenumber": "2"
+      "street": "Klythoek"
     }, 
     {
-      "lat": 51.12820888162247, 
       "housenumber": "3", 
+      "lat": 51.12820888162247, 
+      "lon": 3.1227192643472894, 
       "pcode": 8210, 
-      "street": "Klythoek", 
-      "lon": 3.1227192643472894
+      "street": "Klythoek"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8210, 
-      "street": "Klythoek", 
-      "housenumber": "4"
+      "street": "Klythoek"
     }, 
     {
-      "lat": 51.12671190369937, 
       "housenumber": "6", 
+      "lat": 51.12671190369937, 
+      "lon": 3.11968529636316, 
       "pcode": 8210, 
-      "street": "Klythoek", 
-      "lon": 3.11968529636316
+      "street": "Klythoek"
     }, 
     {
-      "lat": 51.12932352126035, 
       "housenumber": "7", 
+      "lat": 51.12932352126035, 
+      "lon": 3.1244044478445896, 
       "pcode": 8210, 
-      "street": "Klythoek", 
-      "lon": 3.1244044478445896
+      "street": "Klythoek"
     }
-  ], 
-  "name": "Klythoek"
+  ]
 }

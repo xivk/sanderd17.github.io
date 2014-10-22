@@ -1,20 +1,18 @@
 {
-  "pcode": 9500, 
   "addresses": [
     {
-      "lat": 50.76541256750455, 
       "housenumber": "1", 
+      "lat": 50.76541256750455, 
+      "lon": 3.888370742857138, 
       "pcode": 9500, 
-      "street": "Doornweg", 
-      "lon": 3.888370742857138
+      "street": "Doornweg"
     }, 
     {
-      "lat": 50.76549473006786, 
       "housenumber": "2", 
+      "lat": 50.76549473006786, 
+      "lon": 3.889072142553694, 
       "pcode": 9500, 
-      "street": "Doornweg", 
-      "lon": 3.889072142553694
+      "street": "Doornweg"
     }
-  ], 
-  "name": "Doornweg"
+  ]
 }

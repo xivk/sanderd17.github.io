@@ -1,18 +1,16 @@
 {
-  "pcode": 3583, 
   "addresses": [
     {
+      "housenumber": "18A", 
       "pcode": 3583, 
-      "street": "Industrielaan", 
-      "housenumber": "18A"
+      "street": "Industrielaan"
     }, 
     {
-      "lat": 51.217655389770634, 
       "housenumber": "8", 
+      "lat": 51.217655389770634, 
+      "lon": 5.370482155355358, 
       "pcode": 3583, 
-      "street": "Industrielaan", 
-      "lon": 5.370482155355358
+      "street": "Industrielaan"
     }
-  ], 
-  "name": "Industrielaan"
+  ]
 }

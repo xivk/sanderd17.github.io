@@ -1,20 +1,18 @@
 {
-  "pcode": 9630, 
   "addresses": [
     {
-      "lat": 50.89620383552262, 
       "housenumber": "1", 
+      "lat": 50.89620383552262, 
+      "lon": 3.7168256099448542, 
       "pcode": 9630, 
-      "street": "Kapellestraat", 
-      "lon": 3.7168256099448542
+      "street": "Kapellestraat"
     }, 
     {
-      "lat": 50.89586362295705, 
       "housenumber": "2", 
+      "lat": 50.89586362295705, 
+      "lon": 3.7164941494505497, 
       "pcode": 9630, 
-      "street": "Kapellestraat", 
-      "lon": 3.7164941494505497
+      "street": "Kapellestraat"
     }
-  ], 
-  "name": "Kapellestraat"
+  ]
 }

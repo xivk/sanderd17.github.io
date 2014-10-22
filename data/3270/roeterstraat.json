@@ -1,23 +1,21 @@
 {
-  "pcode": 3270, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3270, 
-      "street": "Roeterstraat", 
-      "housenumber": "1"
+      "street": "Roeterstraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 3270, 
-      "street": "Roeterstraat", 
-      "housenumber": "1A"
+      "street": "Roeterstraat"
     }, 
     {
-      "lat": 50.96953878648879, 
       "housenumber": "2", 
+      "lat": 50.96953878648879, 
+      "lon": 4.996725555858964, 
       "pcode": 3270, 
-      "street": "Roeterstraat", 
-      "lon": 4.996725555858964
+      "street": "Roeterstraat"
     }
-  ], 
-  "name": "Roeterstraat"
+  ]
 }

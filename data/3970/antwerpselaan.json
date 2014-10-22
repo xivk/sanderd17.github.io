@@ -1,25 +1,23 @@
 {
-  "pcode": 3970, 
   "addresses": [
     {
-      "lat": 51.112532803148795, 
       "housenumber": "1", 
+      "lat": 51.112532803148795, 
+      "lon": 5.263413651956448, 
       "pcode": 3970, 
-      "street": "Antwerpselaan", 
-      "lon": 5.263413651956448
+      "street": "Antwerpselaan"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3970, 
-      "street": "Antwerpselaan", 
-      "housenumber": "2"
+      "street": "Antwerpselaan"
     }, 
     {
-      "lat": 51.11265196669397, 
       "housenumber": "3", 
+      "lat": 51.11265196669397, 
+      "lon": 5.263276265051417, 
       "pcode": 3970, 
-      "street": "Antwerpselaan", 
-      "lon": 5.263276265051417
+      "street": "Antwerpselaan"
     }
-  ], 
-  "name": "Antwerpselaan"
+  ]
 }

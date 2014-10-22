@@ -1,18 +1,16 @@
 {
-  "pcode": 3570, 
   "addresses": [
     {
-      "lat": 50.889809729772324, 
       "housenumber": "1", 
+      "lat": 50.889809729772324, 
+      "lon": 5.300695611720155, 
       "pcode": 3570, 
-      "street": "Nijverheidsstraat", 
-      "lon": 5.300695611720155
+      "street": "Nijverheidsstraat"
     }, 
     {
+      "housenumber": "1409", 
       "pcode": 3570, 
-      "street": "Nijverheidsstraat", 
-      "housenumber": "1409"
+      "street": "Nijverheidsstraat"
     }
-  ], 
-  "name": "Nijverheidsstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3020, 
   "addresses": [
     {
-      "lat": 50.92462995031594, 
       "housenumber": "1", 
+      "lat": 50.92462995031594, 
+      "lon": 4.669590482028886, 
       "pcode": 3020, 
-      "street": "Rozendaalstraat", 
-      "lon": 4.669590482028886
+      "street": "Rozendaalstraat"
     }, 
     {
-      "lat": 50.9273602398983, 
       "housenumber": "51", 
+      "lat": 50.9273602398983, 
+      "lon": 4.667679270636186, 
       "pcode": 3020, 
-      "street": "Rozendaalstraat", 
-      "lon": 4.667679270636186
+      "street": "Rozendaalstraat"
     }
-  ], 
-  "name": "Rozendaalstraat"
+  ]
 }

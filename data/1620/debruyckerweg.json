@@ -1,39 +1,37 @@
 {
-  "pcode": 1620, 
   "addresses": [
     {
-      "lat": 50.802558037278374, 
       "housenumber": "1", 
+      "lat": 50.802558037278374, 
+      "lon": 4.300717189184506, 
       "pcode": 1620, 
-      "street": "De Bruyckerweg", 
-      "lon": 4.300717189184506
+      "street": "De Bruyckerweg"
     }, 
     {
-      "lat": 50.80169443078955, 
       "housenumber": "20", 
+      "lat": 50.80169443078955, 
+      "lon": 4.3020276289805714, 
       "pcode": 1620, 
-      "street": "De Bruyckerweg", 
-      "lon": 4.3020276289805714
+      "street": "De Bruyckerweg"
     }, 
     {
-      "lat": 50.80242759182275, 
       "housenumber": "3", 
+      "lat": 50.80242759182275, 
+      "lon": 4.301493207166588, 
       "pcode": 1620, 
-      "street": "De Bruyckerweg", 
-      "lon": 4.301493207166588
+      "street": "De Bruyckerweg"
     }, 
     {
-      "lat": 50.801157528956615, 
       "housenumber": "35", 
+      "lat": 50.801157528956615, 
+      "lon": 4.297933993363209, 
       "pcode": 1620, 
-      "street": "De Bruyckerweg", 
-      "lon": 4.297933993363209
+      "street": "De Bruyckerweg"
     }, 
     {
+      "housenumber": "35D", 
       "pcode": 1620, 
-      "street": "De Bruyckerweg", 
-      "housenumber": "35D"
+      "street": "De Bruyckerweg"
     }
-  ], 
-  "name": "De Bruyckerweg"
+  ]
 }

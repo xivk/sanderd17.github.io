@@ -1,32 +1,30 @@
 {
-  "pcode": 9500, 
   "addresses": [
     {
-      "lat": 50.75737882125572, 
       "housenumber": "1", 
+      "lat": 50.75737882125572, 
+      "lon": 3.834527995467656, 
       "pcode": 9500, 
-      "street": "Molen-te-veel", 
-      "lon": 3.834527995467656
+      "street": "Molen-te-veel"
     }, 
     {
-      "lat": 50.757011803412155, 
       "housenumber": "3", 
+      "lat": 50.757011803412155, 
+      "lon": 3.8347542387221623, 
       "pcode": 9500, 
-      "street": "Molen-te-veel", 
-      "lon": 3.8347542387221623
+      "street": "Molen-te-veel"
     }, 
     {
+      "housenumber": "49", 
       "pcode": 9500, 
-      "street": "Molen-te-veel", 
-      "housenumber": "49"
+      "street": "Molen-te-veel"
     }, 
     {
-      "lat": 50.757873157650955, 
       "housenumber": "8", 
+      "lat": 50.757873157650955, 
+      "lon": 3.835589474643202, 
       "pcode": 9500, 
-      "street": "Molen-te-veel", 
-      "lon": 3.835589474643202
+      "street": "Molen-te-veel"
     }
-  ], 
-  "name": "Molen-te-veel"
+  ]
 }

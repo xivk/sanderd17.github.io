@@ -1,20 +1,18 @@
 {
-  "pcode": 8908, 
   "addresses": [
     {
-      "lat": 50.8316412431311, 
       "housenumber": "3", 
+      "lat": 50.8316412431311, 
+      "lon": 2.842899178115125, 
       "pcode": 8908, 
-      "street": "Veldstraat", 
-      "lon": 2.842899178115125
+      "street": "Veldstraat"
     }, 
     {
-      "lat": 50.83042350463137, 
       "housenumber": "4", 
+      "lat": 50.83042350463137, 
+      "lon": 2.8455186326225426, 
       "pcode": 8908, 
-      "street": "Veldstraat", 
-      "lon": 2.8455186326225426
+      "street": "Veldstraat"
     }
-  ], 
-  "name": "Veldstraat"
+  ]
 }

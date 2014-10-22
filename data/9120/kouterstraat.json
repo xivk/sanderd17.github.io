@@ -1,35 +1,33 @@
 {
-  "pcode": 9120, 
   "addresses": [
     {
+      "housenumber": "105B", 
       "pcode": 9120, 
-      "street": "Kouterstraat", 
-      "housenumber": "105B"
+      "street": "Kouterstraat"
     }, 
     {
-      "lat": 51.218131849647065, 
       "housenumber": "117", 
+      "lat": 51.218131849647065, 
+      "lon": 4.1809993837875465, 
       "pcode": 9120, 
-      "street": "Kouterstraat", 
-      "lon": 4.1809993837875465
+      "street": "Kouterstraat"
     }, 
     {
+      "housenumber": "137", 
       "pcode": 9120, 
-      "street": "Kouterstraat", 
-      "housenumber": "137"
+      "street": "Kouterstraat"
     }, 
     {
-      "lat": 51.218388419605, 
       "housenumber": "17", 
+      "lat": 51.218388419605, 
+      "lon": 4.188445032655216, 
       "pcode": 9120, 
-      "street": "Kouterstraat", 
-      "lon": 4.188445032655216
+      "street": "Kouterstraat"
     }, 
     {
+      "housenumber": "77A", 
       "pcode": 9120, 
-      "street": "Kouterstraat", 
-      "housenumber": "77A"
+      "street": "Kouterstraat"
     }
-  ], 
-  "name": "Kouterstraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 3200, 
   "addresses": [
     {
-      "lat": 50.99445425572357, 
       "housenumber": "24", 
+      "lat": 50.99445425572357, 
+      "lon": 4.823059551310327, 
       "pcode": 3200, 
-      "street": "Meetshovenstraat", 
-      "lon": 4.823059551310327
+      "street": "Meetshovenstraat"
     }, 
     {
-      "lat": 50.994409060171634, 
       "housenumber": "34", 
+      "lat": 50.994409060171634, 
+      "lon": 4.8217506255753655, 
       "pcode": 3200, 
-      "street": "Meetshovenstraat", 
-      "lon": 4.8217506255753655
+      "street": "Meetshovenstraat"
     }, 
     {
-      "lat": 50.99399984335993, 
       "housenumber": "40", 
+      "lat": 50.99399984335993, 
+      "lon": 4.8214072233707395, 
       "pcode": 3200, 
-      "street": "Meetshovenstraat", 
-      "lon": 4.8214072233707395
+      "street": "Meetshovenstraat"
     }
-  ], 
-  "name": "Meetshovenstraat"
+  ]
 }

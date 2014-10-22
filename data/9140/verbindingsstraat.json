@@ -1,20 +1,18 @@
 {
-  "pcode": 9140, 
   "addresses": [
     {
-      "lat": 51.130814750098786, 
       "housenumber": "1", 
+      "lat": 51.130814750098786, 
+      "lon": 4.217635004746507, 
       "pcode": 9140, 
-      "street": "Verbindingsstraat", 
-      "lon": 4.217635004746507
+      "street": "Verbindingsstraat"
     }, 
     {
-      "lat": 51.13051897363159, 
       "housenumber": "1A", 
+      "lat": 51.13051897363159, 
+      "lon": 4.21724538821801, 
       "pcode": 9140, 
-      "street": "Verbindingsstraat", 
-      "lon": 4.21724538821801
+      "street": "Verbindingsstraat"
     }
-  ], 
-  "name": "Verbindingsstraat"
+  ]
 }

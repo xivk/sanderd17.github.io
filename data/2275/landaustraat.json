@@ -1,39 +1,37 @@
 {
-  "pcode": 2275, 
   "addresses": [
     {
-      "lat": 51.265309281927294, 
       "housenumber": "1", 
+      "lat": 51.265309281927294, 
+      "lon": 4.873952108877418, 
       "pcode": 2275, 
-      "street": "Landaustraat", 
-      "lon": 4.873952108877418
+      "street": "Landaustraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2275, 
-      "street": "Landaustraat", 
-      "housenumber": "2"
+      "street": "Landaustraat"
     }, 
     {
-      "lat": 51.26535057308266, 
       "housenumber": "3", 
+      "lat": 51.26535057308266, 
+      "lon": 4.874595565187352, 
       "pcode": 2275, 
-      "street": "Landaustraat", 
-      "lon": 4.874595565187352
+      "street": "Landaustraat"
     }, 
     {
-      "lat": 51.26529858361062, 
       "housenumber": "4", 
+      "lat": 51.26529858361062, 
+      "lon": 4.874709044797025, 
       "pcode": 2275, 
-      "street": "Landaustraat", 
-      "lon": 4.874709044797025
+      "street": "Landaustraat"
     }, 
     {
-      "lat": 51.26478156255974, 
       "housenumber": "5", 
+      "lat": 51.26478156255974, 
+      "lon": 4.874941394546752, 
       "pcode": 2275, 
-      "street": "Landaustraat", 
-      "lon": 4.874941394546752
+      "street": "Landaustraat"
     }
-  ], 
-  "name": "Landaustraat"
+  ]
 }

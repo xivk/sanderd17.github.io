@@ -1,20 +1,18 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
-      "lat": 50.915282891401745, 
       "housenumber": "4", 
+      "lat": 50.915282891401745, 
+      "lon": 4.422852440568104, 
       "pcode": 1800, 
-      "street": "Broekstraat", 
-      "lon": 4.422852440568104
+      "street": "Broekstraat"
     }, 
     {
-      "lat": 50.914953248709864, 
       "housenumber": "5", 
+      "lat": 50.914953248709864, 
+      "lon": 4.423052699786738, 
       "pcode": 1800, 
-      "street": "Broekstraat", 
-      "lon": 4.423052699786738
+      "street": "Broekstraat"
     }
-  ], 
-  "name": "Broekstraat"
+  ]
 }

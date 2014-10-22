@@ -1,25 +1,23 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
-      "lat": 51.028738930717346, 
       "housenumber": "1", 
+      "lat": 51.028738930717346, 
+      "lon": 4.488533166563548, 
       "pcode": 2800, 
-      "street": "Hoogstratenplein", 
-      "lon": 4.488533166563548
+      "street": "Hoogstratenplein"
     }, 
     {
-      "lat": 51.02867730748726, 
       "housenumber": "2", 
+      "lat": 51.02867730748726, 
+      "lon": 4.488580475621363, 
       "pcode": 2800, 
-      "street": "Hoogstratenplein", 
-      "lon": 4.488580475621363
+      "street": "Hoogstratenplein"
     }, 
     {
+      "housenumber": "98", 
       "pcode": 2800, 
-      "street": "Hoogstratenplein", 
-      "housenumber": "98"
+      "street": "Hoogstratenplein"
     }
-  ], 
-  "name": "Hoogstratenplein"
+  ]
 }

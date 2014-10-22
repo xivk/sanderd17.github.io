@@ -1,18 +1,16 @@
 {
-  "pcode": 1755, 
   "addresses": [
     {
-      "lat": 50.79733582326777, 
       "housenumber": "2", 
+      "lat": 50.79733582326777, 
+      "lon": 4.123914053171593, 
       "pcode": 1755, 
-      "street": "Windmolenstraat", 
-      "lon": 4.123914053171593
+      "street": "Windmolenstraat"
     }, 
     {
+      "housenumber": "21", 
       "pcode": 1755, 
-      "street": "Windmolenstraat", 
-      "housenumber": "21"
+      "street": "Windmolenstraat"
     }
-  ], 
-  "name": "Windmolenstraat"
+  ]
 }

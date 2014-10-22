@@ -1,51 +1,49 @@
 {
-  "pcode": 9340, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9340, 
-      "street": "Wichelsestraat", 
-      "housenumber": "1"
+      "street": "Wichelsestraat"
     }, 
     {
-      "lat": 50.97682000033178, 
       "housenumber": "10", 
+      "lat": 50.97682000033178, 
+      "lon": 3.973408608128518, 
       "pcode": 9340, 
-      "street": "Wichelsestraat", 
-      "lon": 3.973408608128518
+      "street": "Wichelsestraat"
     }, 
     {
+      "housenumber": "164", 
       "pcode": 9340, 
-      "street": "Wichelsestraat", 
-      "housenumber": "164"
+      "street": "Wichelsestraat"
     }, 
     {
-      "lat": 50.977489493081045, 
       "housenumber": "20", 
+      "lat": 50.977489493081045, 
+      "lon": 3.971849052545774, 
       "pcode": 9340, 
-      "street": "Wichelsestraat", 
-      "lon": 3.971849052545774
+      "street": "Wichelsestraat"
     }, 
     {
-      "lat": 50.97739426533299, 
       "housenumber": "22", 
+      "lat": 50.97739426533299, 
+      "lon": 3.9718131205104563, 
       "pcode": 9340, 
-      "street": "Wichelsestraat", 
-      "lon": 3.9718131205104563
+      "street": "Wichelsestraat"
     }, 
     {
-      "lat": 50.977505327243016, 
       "housenumber": "28", 
+      "lat": 50.977505327243016, 
+      "lon": 3.970600713848251, 
       "pcode": 9340, 
-      "street": "Wichelsestraat", 
-      "lon": 3.970600713848251
+      "street": "Wichelsestraat"
     }, 
     {
-      "lat": 50.976592069515604, 
       "housenumber": "6", 
+      "lat": 50.976592069515604, 
+      "lon": 3.9739023380502925, 
       "pcode": 9340, 
-      "street": "Wichelsestraat", 
-      "lon": 3.9739023380502925
+      "street": "Wichelsestraat"
     }
-  ], 
-  "name": "Wichelsestraat"
+  ]
 }

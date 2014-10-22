@@ -1,27 +1,25 @@
 {
-  "pcode": 9140, 
   "addresses": [
     {
-      "lat": 51.125128839009356, 
       "housenumber": "1", 
+      "lat": 51.125128839009356, 
+      "lon": 4.173866908492301, 
       "pcode": 9140, 
-      "street": "Jagerstraat", 
-      "lon": 4.173866908492301
+      "street": "Jagerstraat"
     }, 
     {
-      "lat": 51.125116915488256, 
       "housenumber": "2", 
+      "lat": 51.125116915488256, 
+      "lon": 4.1773582500795845, 
       "pcode": 9140, 
-      "street": "Jagerstraat", 
-      "lon": 4.1773582500795845
+      "street": "Jagerstraat"
     }, 
     {
-      "lat": 51.12547002434792, 
       "housenumber": "3", 
+      "lat": 51.12547002434792, 
+      "lon": 4.180744567246053, 
       "pcode": 9140, 
-      "street": "Jagerstraat", 
-      "lon": 4.180744567246053
+      "street": "Jagerstraat"
     }
-  ], 
-  "name": "Jagerstraat"
+  ]
 }

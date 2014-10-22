@@ -1,20 +1,18 @@
 {
-  "pcode": 8970, 
   "addresses": [
     {
-      "lat": 50.822881678767004, 
       "housenumber": "1", 
+      "lat": 50.822881678767004, 
+      "lon": 2.6912489684189063, 
       "pcode": 8970, 
-      "street": "Lyssenthoek", 
-      "lon": 2.6912489684189063
+      "street": "Lyssenthoek"
     }, 
     {
-      "lat": 50.819439605646735, 
       "housenumber": "2", 
+      "lat": 50.819439605646735, 
+      "lon": 2.6947919159314404, 
       "pcode": 8970, 
-      "street": "Lyssenthoek", 
-      "lon": 2.6947919159314404
+      "street": "Lyssenthoek"
     }
-  ], 
-  "name": "Lyssenthoek"
+  ]
 }

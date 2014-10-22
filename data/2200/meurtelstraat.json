@@ -1,18 +1,16 @@
 {
-  "pcode": 2200, 
   "addresses": [
     {
-      "lat": 51.16652858315578, 
       "housenumber": "1", 
+      "lat": 51.16652858315578, 
+      "lon": 4.794700217414985, 
       "pcode": 2200, 
-      "street": "Meurtelstraat", 
-      "lon": 4.794700217414985
+      "street": "Meurtelstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2200, 
-      "street": "Meurtelstraat", 
-      "housenumber": "2"
+      "street": "Meurtelstraat"
     }
-  ], 
-  "name": "Meurtelstraat"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.21884486855279, 
       "housenumber": "1", 
+      "lat": 51.21884486855279, 
+      "lon": 4.400541309732377, 
       "pcode": 2000, 
-      "street": "Groenkerkhofstraat", 
-      "lon": 4.400541309732377
+      "street": "Groenkerkhofstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2000, 
-      "street": "Groenkerkhofstraat", 
-      "housenumber": "2"
+      "street": "Groenkerkhofstraat"
     }, 
     {
-      "lat": 51.21882040276739, 
       "housenumber": "3", 
+      "lat": 51.21882040276739, 
+      "lon": 4.400604411444379, 
       "pcode": 2000, 
-      "street": "Groenkerkhofstraat", 
-      "lon": 4.400604411444379
+      "street": "Groenkerkhofstraat"
     }, 
     {
-      "lat": 51.21883439778999, 
       "housenumber": "5", 
+      "lat": 51.21883439778999, 
+      "lon": 4.4007018903391035, 
       "pcode": 2000, 
-      "street": "Groenkerkhofstraat", 
-      "lon": 4.4007018903391035
+      "street": "Groenkerkhofstraat"
     }
-  ], 
-  "name": "Groenkerkhofstraat"
+  ]
 }

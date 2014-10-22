@@ -1,20 +1,18 @@
 {
-  "pcode": 2060, 
   "addresses": [
     {
-      "lat": 51.25455471611602, 
       "housenumber": "203", 
+      "lat": 51.25455471611602, 
+      "lon": 4.389396789590967, 
       "pcode": 2060, 
-      "street": "Oosterweelsteenweg", 
-      "lon": 4.389396789590967
+      "street": "Oosterweelsteenweg"
     }, 
     {
-      "lat": 51.253215574034144, 
       "housenumber": "58", 
+      "lat": 51.253215574034144, 
+      "lon": 4.388777986706593, 
       "pcode": 2060, 
-      "street": "Oosterweelsteenweg", 
-      "lon": 4.388777986706593
+      "street": "Oosterweelsteenweg"
     }
-  ], 
-  "name": "Oosterweelsteenweg"
+  ]
 }

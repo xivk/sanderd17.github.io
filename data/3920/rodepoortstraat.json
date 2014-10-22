@@ -1,18 +1,16 @@
 {
-  "pcode": 3920, 
   "addresses": [
     {
+      "housenumber": "14", 
       "pcode": 3920, 
-      "street": "Rode Poortstraat", 
-      "housenumber": "14"
+      "street": "Rode Poortstraat"
     }, 
     {
-      "lat": 51.23369603645087, 
       "housenumber": "15", 
+      "lat": 51.23369603645087, 
+      "lon": 5.349694464206792, 
       "pcode": 3920, 
-      "street": "Rode Poortstraat", 
-      "lon": 5.349694464206792
+      "street": "Rode Poortstraat"
     }
-  ], 
-  "name": "Rode Poortstraat"
+  ]
 }

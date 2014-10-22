@@ -1,20 +1,18 @@
 {
-  "pcode": 8630, 
   "addresses": [
     {
-      "lat": 51.02618596346231, 
       "housenumber": "1", 
+      "lat": 51.02618596346231, 
+      "lon": 2.673223491380756, 
       "pcode": 8630, 
-      "street": "Molendreef", 
-      "lon": 2.673223491380756
+      "street": "Molendreef"
     }, 
     {
-      "lat": 51.029256138841994, 
       "housenumber": "2", 
+      "lat": 51.029256138841994, 
+      "lon": 2.671873998788578, 
       "pcode": 8630, 
-      "street": "Molendreef", 
-      "lon": 2.671873998788578
+      "street": "Molendreef"
     }
-  ], 
-  "name": "Molendreef"
+  ]
 }

@@ -1,37 +1,35 @@
 {
-  "pcode": 8691, 
   "addresses": [
     {
-      "lat": 50.94017529575581, 
       "housenumber": "0", 
+      "lat": 50.94017529575581, 
+      "lon": 2.6414567564365283, 
       "pcode": 8691, 
-      "street": "Kallebeekweg", 
-      "lon": 2.6414567564365283
+      "street": "Kallebeekweg"
     }, 
     {
-      "lat": 50.939378845386614, 
       "housenumber": "1", 
+      "lat": 50.939378845386614, 
+      "lon": 2.642120075271913, 
       "pcode": 8691, 
-      "street": "Kallebeekweg", 
-      "lon": 2.642120075271913
+      "street": "Kallebeekweg"
     }, 
     {
-      "lat": 50.93967783106151, 
       "housenumber": "3", 
+      "lat": 50.93967783106151, 
+      "lon": 2.6421698415035193, 
       "pcode": 8691, 
-      "street": "Kallebeekweg", 
-      "lon": 2.6421698415035193
+      "street": "Kallebeekweg"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8691, 
-      "street": "Kallebeekweg", 
-      "housenumber": "4"
+      "street": "Kallebeekweg"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8691, 
-      "street": "Kallebeekweg", 
-      "housenumber": "5"
+      "street": "Kallebeekweg"
     }
-  ], 
-  "name": "Kallebeekweg"
+  ]
 }

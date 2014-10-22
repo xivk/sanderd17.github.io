@@ -1,18 +1,16 @@
 {
-  "pcode": 2850, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2850, 
-      "street": "Heldenplaats", 
-      "housenumber": "1"
+      "street": "Heldenplaats"
     }, 
     {
-      "lat": 51.084607759490424, 
       "housenumber": "2", 
+      "lat": 51.084607759490424, 
+      "lon": 4.366032762765783, 
       "pcode": 2850, 
-      "street": "Heldenplaats", 
-      "lon": 4.366032762765783
+      "street": "Heldenplaats"
     }
-  ], 
-  "name": "Heldenplaats"
+  ]
 }

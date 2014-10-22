@@ -1,44 +1,42 @@
 {
-  "pcode": 8020, 
   "addresses": [
     {
-      "lat": 51.096348629380394, 
       "housenumber": "10", 
+      "lat": 51.096348629380394, 
+      "lon": 3.2061281522534957, 
       "pcode": 8020, 
-      "street": "Sint-Elooisplein", 
-      "lon": 3.2061281522534957
+      "street": "Sint-Elooisplein"
     }, 
     {
-      "lat": 51.09626110953608, 
       "housenumber": "11", 
+      "lat": 51.09626110953608, 
+      "lon": 3.2061780121860948, 
       "pcode": 8020, 
-      "street": "Sint-Elooisplein", 
-      "lon": 3.2061780121860948
+      "street": "Sint-Elooisplein"
     }, 
     {
-      "lat": 51.096231277527764, 
       "housenumber": "12", 
+      "lat": 51.096231277527764, 
+      "lon": 3.2061886046206856, 
       "pcode": 8020, 
-      "street": "Sint-Elooisplein", 
-      "lon": 3.2061886046206856
+      "street": "Sint-Elooisplein"
     }, 
     {
-      "lat": 51.09691171501883, 
       "housenumber": "6", 
+      "lat": 51.09691171501883, 
+      "lon": 3.2058867236309494, 
       "pcode": 8020, 
-      "street": "Sint-Elooisplein", 
-      "lon": 3.2058867236309494
+      "street": "Sint-Elooisplein"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8020, 
-      "street": "Sint-Elooisplein", 
-      "housenumber": "7"
+      "street": "Sint-Elooisplein"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 8020, 
-      "street": "Sint-Elooisplein", 
-      "housenumber": "8"
+      "street": "Sint-Elooisplein"
     }
-  ], 
-  "name": "Sint-Elooisplein"
+  ]
 }

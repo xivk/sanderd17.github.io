@@ -1,56 +1,54 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3300, 
-      "street": "Croonestraat", 
-      "housenumber": "1"
+      "street": "Croonestraat"
     }, 
     {
-      "lat": 50.806303660966826, 
       "housenumber": "10", 
+      "lat": 50.806303660966826, 
+      "lon": 4.941307754735441, 
       "pcode": 3300, 
-      "street": "Croonestraat", 
-      "lon": 4.941307754735441
+      "street": "Croonestraat"
     }, 
     {
+      "housenumber": "20", 
       "pcode": 3300, 
-      "street": "Croonestraat", 
-      "housenumber": "20"
+      "street": "Croonestraat"
     }, 
     {
-      "lat": 50.8067622503608, 
       "housenumber": "3", 
+      "lat": 50.8067622503608, 
+      "lon": 4.941378038255627, 
       "pcode": 3300, 
-      "street": "Croonestraat", 
-      "lon": 4.941378038255627
+      "street": "Croonestraat"
     }, 
     {
+      "housenumber": "44", 
       "pcode": 3300, 
-      "street": "Croonestraat", 
-      "housenumber": "44"
+      "street": "Croonestraat"
     }, 
     {
-      "lat": 50.806726784469504, 
       "housenumber": "5", 
+      "lat": 50.806726784469504, 
+      "lon": 4.941424141709041, 
       "pcode": 3300, 
-      "street": "Croonestraat", 
-      "lon": 4.941424141709041
+      "street": "Croonestraat"
     }, 
     {
-      "lat": 50.806676845035255, 
       "housenumber": "7", 
+      "lat": 50.806676845035255, 
+      "lon": 4.941433464484072, 
       "pcode": 3300, 
-      "street": "Croonestraat", 
-      "lon": 4.941433464484072
+      "street": "Croonestraat"
     }, 
     {
-      "lat": 50.80662071440924, 
       "housenumber": "9", 
+      "lat": 50.80662071440924, 
+      "lon": 4.941421997801207, 
       "pcode": 3300, 
-      "street": "Croonestraat", 
-      "lon": 4.941421997801207
+      "street": "Croonestraat"
     }
-  ], 
-  "name": "Croonestraat"
+  ]
 }

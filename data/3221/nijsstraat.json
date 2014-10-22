@@ -1,20 +1,18 @@
 {
-  "pcode": 3221, 
   "addresses": [
     {
-      "lat": 50.95346268150061, 
       "housenumber": "2", 
+      "lat": 50.95346268150061, 
+      "lon": 4.8520283385497285, 
       "pcode": 3221, 
-      "street": "Nijsstraat", 
-      "lon": 4.8520283385497285
+      "street": "Nijsstraat"
     }, 
     {
-      "lat": 50.95363649116988, 
       "housenumber": "4", 
+      "lat": 50.95363649116988, 
+      "lon": 4.853282406949186, 
       "pcode": 3221, 
-      "street": "Nijsstraat", 
-      "lon": 4.853282406949186
+      "street": "Nijsstraat"
     }
-  ], 
-  "name": "Nijsstraat"
+  ]
 }

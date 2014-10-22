@@ -1,20 +1,18 @@
 {
-  "pcode": 3384, 
   "addresses": [
     {
-      "lat": 50.87823403006339, 
       "housenumber": "1", 
+      "lat": 50.87823403006339, 
+      "lon": 4.923680208971734, 
       "pcode": 3384, 
-      "street": "Meenselsevoetweg", 
-      "lon": 4.923680208971734
+      "street": "Meenselsevoetweg"
     }, 
     {
-      "lat": 50.87836454930248, 
       "housenumber": "1A", 
+      "lat": 50.87836454930248, 
+      "lon": 4.923986258105263, 
       "pcode": 3384, 
-      "street": "Meenselsevoetweg", 
-      "lon": 4.923986258105263
+      "street": "Meenselsevoetweg"
     }
-  ], 
-  "name": "Meenselsevoetweg"
+  ]
 }

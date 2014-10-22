@@ -1,35 +1,33 @@
 {
-  "pcode": 2250, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 2250, 
-      "street": "Vogelzang", 
-      "housenumber": "10"
+      "street": "Vogelzang"
     }, 
     {
-      "lat": 51.1409596756568, 
       "housenumber": "2", 
+      "lat": 51.1409596756568, 
+      "lon": 4.867114825461969, 
       "pcode": 2250, 
-      "street": "Vogelzang", 
-      "lon": 4.867114825461969
+      "street": "Vogelzang"
     }, 
     {
-      "lat": 51.14049910963767, 
       "housenumber": "7", 
+      "lat": 51.14049910963767, 
+      "lon": 4.867874078482214, 
       "pcode": 2250, 
-      "street": "Vogelzang", 
-      "lon": 4.867874078482214
+      "street": "Vogelzang"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2250, 
-      "street": "Vogelzang", 
-      "housenumber": "8"
+      "street": "Vogelzang"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 2250, 
-      "street": "Vogelzang", 
-      "housenumber": "9"
+      "street": "Vogelzang"
     }
-  ], 
-  "name": "Vogelzang"
+  ]
 }

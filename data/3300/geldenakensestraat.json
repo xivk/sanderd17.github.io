@@ -1,25 +1,23 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3300, 
-      "street": "Geldenakensestraat", 
-      "housenumber": "10"
+      "street": "Geldenakensestraat"
     }, 
     {
-      "lat": 50.76274212405191, 
       "housenumber": "19", 
+      "lat": 50.76274212405191, 
+      "lon": 4.94424328044552, 
       "pcode": 3300, 
-      "street": "Geldenakensestraat", 
-      "lon": 4.94424328044552
+      "street": "Geldenakensestraat"
     }, 
     {
-      "lat": 50.76306750781669, 
       "housenumber": "9", 
+      "lat": 50.76306750781669, 
+      "lon": 4.9445463444581454, 
       "pcode": 3300, 
-      "street": "Geldenakensestraat", 
-      "lon": 4.9445463444581454
+      "street": "Geldenakensestraat"
     }
-  ], 
-  "name": "Geldenakensestraat"
+  ]
 }

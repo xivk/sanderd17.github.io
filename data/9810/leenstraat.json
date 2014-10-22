@@ -1,27 +1,25 @@
 {
-  "pcode": 9810, 
   "addresses": [
     {
-      "lat": 50.92930696955326, 
       "housenumber": "1", 
+      "lat": 50.92930696955326, 
+      "lon": 3.6261886143736333, 
       "pcode": 9810, 
-      "street": "Leenstraat", 
-      "lon": 3.6261886143736333
+      "street": "Leenstraat"
     }, 
     {
-      "lat": 50.929590168299406, 
       "housenumber": "5", 
+      "lat": 50.929590168299406, 
+      "lon": 3.6254094363034826, 
       "pcode": 9810, 
-      "street": "Leenstraat", 
-      "lon": 3.6254094363034826
+      "street": "Leenstraat"
     }, 
     {
-      "lat": 50.92974662556202, 
       "housenumber": "7", 
+      "lat": 50.92974662556202, 
+      "lon": 3.6249174716483576, 
       "pcode": 9810, 
-      "street": "Leenstraat", 
-      "lon": 3.6249174716483576
+      "street": "Leenstraat"
     }
-  ], 
-  "name": "Leenstraat"
+  ]
 }

@@ -1,42 +1,40 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.236150329411316, 
       "housenumber": "1", 
+      "lat": 51.236150329411316, 
+      "lon": 2.9288809845094335, 
       "pcode": 8400, 
-      "street": "Slipwaykaai", 
-      "lon": 2.9288809845094335
+      "street": "Slipwaykaai"
     }, 
     {
-      "lat": 51.23614398729348, 
       "housenumber": "2", 
+      "lat": 51.23614398729348, 
+      "lon": 2.9282417631487023, 
       "pcode": 8400, 
-      "street": "Slipwaykaai", 
-      "lon": 2.9282417631487023
+      "street": "Slipwaykaai"
     }, 
     {
+      "housenumber": "2B", 
       "pcode": 8400, 
-      "street": "Slipwaykaai", 
-      "housenumber": "2B"
+      "street": "Slipwaykaai"
     }, 
     {
+      "housenumber": "2D", 
       "pcode": 8400, 
-      "street": "Slipwaykaai", 
-      "housenumber": "2D"
+      "street": "Slipwaykaai"
     }, 
     {
-      "lat": 51.23597032407198, 
       "housenumber": "3", 
+      "lat": 51.23597032407198, 
+      "lon": 2.928627769657447, 
       "pcode": 8400, 
-      "street": "Slipwaykaai", 
-      "lon": 2.928627769657447
+      "street": "Slipwaykaai"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8400, 
-      "street": "Slipwaykaai", 
-      "housenumber": "4"
+      "street": "Slipwaykaai"
     }
-  ], 
-  "name": "Slipwaykaai"
+  ]
 }

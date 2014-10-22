@@ -1,27 +1,25 @@
 {
-  "pcode": 8583, 
   "addresses": [
     {
-      "lat": 50.75411423719984, 
       "housenumber": "10", 
+      "lat": 50.75411423719984, 
+      "lon": 3.4071148519530525, 
       "pcode": 8583, 
-      "street": "Plein", 
-      "lon": 3.4071148519530525
+      "street": "Plein"
     }, 
     {
-      "lat": 50.75538268473151, 
       "housenumber": "4", 
+      "lat": 50.75538268473151, 
+      "lon": 3.4103263659341096, 
       "pcode": 8583, 
-      "street": "Plein", 
-      "lon": 3.4103263659341096
+      "street": "Plein"
     }, 
     {
-      "lat": 50.75516948706069, 
       "housenumber": "6", 
+      "lat": 50.75516948706069, 
+      "lon": 3.4102893163525816, 
       "pcode": 8583, 
-      "street": "Plein", 
-      "lon": 3.4102893163525816
+      "street": "Plein"
     }
-  ], 
-  "name": "Plein"
+  ]
 }

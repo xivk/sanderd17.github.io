@@ -1,112 +1,112 @@
 {
   "streets": [
     {
-      "latmax": 51.13036332006448, 
+      "b": 51.126578633926485, 
+      "l": 3.5512509266014516, 
       "name": "Burg. Henri Ryckaertstraat", 
-      "lonmin": 3.5512509266014516, 
+      "numOfAddr": 34, 
+      "r": 3.552890391110311, 
       "sanName": "burghenriryckaertstraat", 
-      "numOfAddr": 34, 
-      "lonmax": 3.552890391110311, 
-      "latmin": 51.126578633926485
+      "t": 51.13036332006448
     }, 
     {
-      "latmax": 51.128907860111845, 
+      "b": 51.128427350831544, 
+      "l": 3.5593065722721504, 
       "name": "Daalmen", 
-      "lonmin": 3.5593065722721504, 
-      "sanName": "daalmen", 
       "numOfAddr": 5, 
-      "lonmax": 3.5607321019931817, 
-      "latmin": 51.128427350831544
+      "r": 3.5607321019931817, 
+      "sanName": "daalmen", 
+      "t": 51.128907860111845
     }, 
     {
-      "latmax": 51.128000979376736, 
+      "b": 51.126388911896235, 
+      "l": 3.5529677760718794, 
       "name": "Daalmstraat", 
-      "lonmin": 3.5529677760718794, 
-      "sanName": "daalmstraat", 
       "numOfAddr": 15, 
-      "lonmax": 3.557224926647719, 
-      "latmin": 51.126388911896235
+      "r": 3.557224926647719, 
+      "sanName": "daalmstraat", 
+      "t": 51.128000979376736
     }, 
     {
-      "latmax": 51.137446375901376, 
+      "b": 51.137446375901376, 
+      "l": 3.538337783302296, 
       "name": "Diepenbeek", 
-      "lonmin": 3.538337783302296, 
-      "sanName": "diepenbeek", 
       "numOfAddr": 1, 
-      "lonmax": 3.538337783302296, 
-      "latmin": 51.137446375901376
+      "r": 3.538337783302296, 
+      "sanName": "diepenbeek", 
+      "t": 51.137446375901376
     }, 
     {
-      "latmax": 51.13214159783786, 
+      "b": 51.13089289257573, 
+      "l": 3.551998396046056, 
       "name": "Eikendreef", 
-      "lonmin": 3.551998396046056, 
-      "sanName": "eikendreef", 
       "numOfAddr": 34, 
-      "lonmax": 3.560659645761009, 
-      "latmin": 51.13089289257573
+      "r": 3.560659645761009, 
+      "sanName": "eikendreef", 
+      "t": 51.13214159783786
     }, 
     {
-      "latmax": 51.13969157194925, 
+      "b": 51.137248882691246, 
+      "l": 3.5487300620968485, 
       "name": "Hoekstraat", 
-      "lonmin": 3.5487300620968485, 
-      "sanName": "hoekstraat", 
       "numOfAddr": 27, 
-      "lonmax": 3.5577780306512827, 
-      "latmin": 51.137248882691246
+      "r": 3.5577780306512827, 
+      "sanName": "hoekstraat", 
+      "t": 51.13969157194925
     }, 
     {
-      "latmax": 51.13118667499016, 
+      "b": 51.130595249497134, 
+      "l": 3.5514593227538644, 
       "name": "Kerkplein", 
-      "lonmin": 3.5514593227538644, 
-      "sanName": "kerkplein", 
       "numOfAddr": 9, 
-      "lonmax": 3.552216323865506, 
-      "latmin": 51.130595249497134
+      "r": 3.552216323865506, 
+      "sanName": "kerkplein", 
+      "t": 51.13118667499016
     }, 
     {
-      "latmax": 51.13418782800883, 
+      "b": 51.131681699550874, 
+      "l": 3.5566696946859753, 
       "name": "Parklaan", 
-      "lonmin": 3.5566696946859753, 
-      "sanName": "parklaan", 
       "numOfAddr": 35, 
-      "lonmax": 3.5597275853436745, 
-      "latmin": 51.131681699550874
+      "r": 3.5597275853436745, 
+      "sanName": "parklaan", 
+      "t": 51.13418782800883
     }, 
     {
-      "latmax": 51.137750576941826, 
+      "b": 51.13714767060417, 
+      "l": 3.550743548404036, 
       "name": "Raymond Leersstraat", 
-      "lonmin": 3.550743548404036, 
-      "sanName": "raymondleersstraat", 
       "numOfAddr": 4, 
-      "lonmax": 3.5526228445625243, 
-      "latmin": 51.13714767060417
+      "r": 3.5526228445625243, 
+      "sanName": "raymondleersstraat", 
+      "t": 51.137750576941826
     }, 
     {
-      "latmax": 51.13062030521424, 
+      "b": 51.12892084350248, 
+      "l": 3.5522789109823028, 
       "name": "Ronselekouter", 
-      "lonmin": 3.5522789109823028, 
-      "sanName": "ronselekouter", 
       "numOfAddr": 21, 
-      "lonmax": 3.555022601384661, 
-      "latmin": 51.12892084350248
+      "r": 3.555022601384661, 
+      "sanName": "ronselekouter", 
+      "t": 51.13062030521424
     }, 
     {
-      "latmax": 51.13680384780337, 
+      "b": 51.131230123548214, 
+      "l": 3.5474051883524047, 
       "name": "Ronselestraat", 
-      "lonmin": 3.5474051883524047, 
-      "sanName": "ronselestraat", 
       "numOfAddr": 24, 
-      "lonmax": 3.551815512923142, 
-      "latmin": 51.131230123548214
+      "r": 3.551815512923142, 
+      "sanName": "ronselestraat", 
+      "t": 51.13680384780337
     }, 
     {
-      "latmax": 51.14031404381068, 
+      "b": 51.1290525953121, 
+      "l": 3.558075551849198, 
       "name": "Stoktevijver", 
-      "lonmin": 3.558075551849198, 
-      "sanName": "stoktevijver", 
       "numOfAddr": 39, 
-      "lonmax": 3.5610377912146394, 
-      "latmin": 51.1290525953121
+      "r": 3.5610377912146394, 
+      "sanName": "stoktevijver", 
+      "t": 51.14031404381068
     }
   ]
 }

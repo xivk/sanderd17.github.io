@@ -1,18 +1,16 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.87696050409088, 
       "housenumber": "2", 
+      "lat": 50.87696050409088, 
+      "lon": 4.682850741815628, 
       "pcode": 3000, 
-      "street": "Tervuursesteenweg", 
-      "lon": 4.682850741815628
+      "street": "Tervuursesteenweg"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 3000, 
-      "street": "Tervuursesteenweg", 
-      "housenumber": "2A"
+      "street": "Tervuursesteenweg"
     }
-  ], 
-  "name": "Tervuursesteenweg"
+  ]
 }

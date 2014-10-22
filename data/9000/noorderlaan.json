@@ -1,20 +1,18 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.051589117819454, 
       "housenumber": "10", 
+      "lat": 51.051589117819454, 
+      "lon": 3.6928536947060557, 
       "pcode": 9000, 
-      "street": "Noorderlaan", 
-      "lon": 3.6928536947060557
+      "street": "Noorderlaan"
     }, 
     {
-      "lat": 51.05145986848105, 
       "housenumber": "25", 
+      "lat": 51.05145986848105, 
+      "lon": 3.6845175340660643, 
       "pcode": 9000, 
-      "street": "Noorderlaan", 
-      "lon": 3.6845175340660643
+      "street": "Noorderlaan"
     }
-  ], 
-  "name": "Noorderlaan"
+  ]
 }

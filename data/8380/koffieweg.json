@@ -1,18 +1,16 @@
 {
-  "pcode": 8380, 
   "addresses": [
     {
-      "lat": 51.2952127126852, 
       "housenumber": "10", 
+      "lat": 51.2952127126852, 
+      "lon": 3.2239405000706025, 
       "pcode": 8380, 
-      "street": "Koffieweg", 
-      "lon": 3.2239405000706025
+      "street": "Koffieweg"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 8380, 
-      "street": "Koffieweg", 
-      "housenumber": "8"
+      "street": "Koffieweg"
     }
-  ], 
-  "name": "Koffieweg"
+  ]
 }

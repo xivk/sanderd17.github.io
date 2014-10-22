@@ -1,27 +1,25 @@
 {
-  "pcode": 1850, 
   "addresses": [
     {
-      "lat": 50.98575431486737, 
       "housenumber": "20", 
+      "lat": 50.98575431486737, 
+      "lon": 4.399210963908348, 
       "pcode": 1850, 
-      "street": "Putweg", 
-      "lon": 4.399210963908348
+      "street": "Putweg"
     }, 
     {
-      "lat": 50.98396798791879, 
       "housenumber": "6", 
+      "lat": 50.98396798791879, 
+      "lon": 4.400230281161, 
       "pcode": 1850, 
-      "street": "Putweg", 
-      "lon": 4.400230281161
+      "street": "Putweg"
     }, 
     {
-      "lat": 50.98412503349691, 
       "housenumber": "8", 
+      "lat": 50.98412503349691, 
+      "lon": 4.400211163640988, 
       "pcode": 1850, 
-      "street": "Putweg", 
-      "lon": 4.400211163640988
+      "street": "Putweg"
     }
-  ], 
-  "name": "Putweg"
+  ]
 }

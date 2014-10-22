@@ -1,20 +1,18 @@
 {
-  "pcode": 2330, 
   "addresses": [
     {
-      "lat": 51.35367798083212, 
       "housenumber": "1", 
+      "lat": 51.35367798083212, 
+      "lon": 4.825310966927462, 
       "pcode": 2330, 
-      "street": "Beukendreef", 
-      "lon": 4.825310966927462
+      "street": "Beukendreef"
     }, 
     {
-      "lat": 51.353696581074786, 
       "housenumber": "2", 
+      "lat": 51.353696581074786, 
+      "lon": 4.8254521103943535, 
       "pcode": 2330, 
-      "street": "Beukendreef", 
-      "lon": 4.8254521103943535
+      "street": "Beukendreef"
     }
-  ], 
-  "name": "Beukendreef"
+  ]
 }

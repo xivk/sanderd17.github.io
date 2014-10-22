@@ -1,27 +1,25 @@
 {
-  "pcode": 8760, 
   "addresses": [
     {
-      "lat": 50.949993011285315, 
       "housenumber": "1", 
+      "lat": 50.949993011285315, 
+      "lon": 3.3116851235101756, 
       "pcode": 8760, 
-      "street": "Papestraat", 
-      "lon": 3.3116851235101756
+      "street": "Papestraat"
     }, 
     {
-      "lat": 50.95285503692809, 
       "housenumber": "2", 
+      "lat": 50.95285503692809, 
+      "lon": 3.3122568669587844, 
       "pcode": 8760, 
-      "street": "Papestraat", 
-      "lon": 3.3122568669587844
+      "street": "Papestraat"
     }, 
     {
-      "lat": 50.95025329351026, 
       "housenumber": "3", 
+      "lat": 50.95025329351026, 
+      "lon": 3.311967176812593, 
       "pcode": 8760, 
-      "street": "Papestraat", 
-      "lon": 3.311967176812593
+      "street": "Papestraat"
     }
-  ], 
-  "name": "Papestraat"
+  ]
 }

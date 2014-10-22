@@ -1,27 +1,25 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
-      "lat": 50.908694729641084, 
       "housenumber": "10", 
+      "lat": 50.908694729641084, 
+      "lon": 4.381641017815856, 
       "pcode": 1800, 
-      "street": "Bosweg", 
-      "lon": 4.381641017815856
+      "street": "Bosweg"
     }, 
     {
-      "lat": 50.91035703272679, 
       "housenumber": "14", 
+      "lat": 50.91035703272679, 
+      "lon": 4.381705908847436, 
       "pcode": 1800, 
-      "street": "Bosweg", 
-      "lon": 4.381705908847436
+      "street": "Bosweg"
     }, 
     {
-      "lat": 50.9084520247882, 
       "housenumber": "7", 
+      "lat": 50.9084520247882, 
+      "lon": 4.381574549497045, 
       "pcode": 1800, 
-      "street": "Bosweg", 
-      "lon": 4.381574549497045
+      "street": "Bosweg"
     }
-  ], 
-  "name": "Bosweg"
+  ]
 }

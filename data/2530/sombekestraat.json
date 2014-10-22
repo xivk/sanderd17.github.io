@@ -1,20 +1,18 @@
 {
-  "pcode": 2530, 
   "addresses": [
     {
-      "lat": 51.17482465958181, 
       "housenumber": "24", 
+      "lat": 51.17482465958181, 
+      "lon": 4.493369986698485, 
       "pcode": 2530, 
-      "street": "Sombekestraat", 
-      "lon": 4.493369986698485
+      "street": "Sombekestraat"
     }, 
     {
-      "lat": 51.175887623577, 
       "housenumber": "26", 
+      "lat": 51.175887623577, 
+      "lon": 4.493221837875923, 
       "pcode": 2530, 
-      "street": "Sombekestraat", 
-      "lon": 4.493221837875923
+      "street": "Sombekestraat"
     }
-  ], 
-  "name": "Sombekestraat"
+  ]
 }

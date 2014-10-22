@@ -1,27 +1,25 @@
 {
-  "pcode": 2222, 
   "addresses": [
     {
-      "lat": 51.1130899037044, 
       "housenumber": "3", 
+      "lat": 51.1130899037044, 
+      "lon": 4.7699025882478585, 
       "pcode": 2222, 
-      "street": "Witte-Driesendijk", 
-      "lon": 4.7699025882478585
+      "street": "Witte-Driesendijk"
     }, 
     {
-      "lat": 51.11401773309332, 
       "housenumber": "4", 
+      "lat": 51.11401773309332, 
+      "lon": 4.769745051824733, 
       "pcode": 2222, 
-      "street": "Witte-Driesendijk", 
-      "lon": 4.769745051824733
+      "street": "Witte-Driesendijk"
     }, 
     {
-      "lat": 51.113473318323436, 
       "housenumber": "6", 
+      "lat": 51.113473318323436, 
+      "lon": 4.767827630947549, 
       "pcode": 2222, 
-      "street": "Witte-Driesendijk", 
-      "lon": 4.767827630947549
+      "street": "Witte-Driesendijk"
     }
-  ], 
-  "name": "Witte-Driesendijk"
+  ]
 }

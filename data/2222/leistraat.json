@@ -1,27 +1,25 @@
 {
-  "pcode": 2222, 
   "addresses": [
     {
-      "lat": 51.097401818216575, 
       "housenumber": "1", 
+      "lat": 51.097401818216575, 
+      "lon": 4.77405373755863, 
       "pcode": 2222, 
-      "street": "Leistraat", 
-      "lon": 4.77405373755863
+      "street": "Leistraat"
     }, 
     {
-      "lat": 51.09692733507599, 
       "housenumber": "2", 
+      "lat": 51.09692733507599, 
+      "lon": 4.7743284185957675, 
       "pcode": 2222, 
-      "street": "Leistraat", 
-      "lon": 4.7743284185957675
+      "street": "Leistraat"
     }, 
     {
-      "lat": 51.096436469769614, 
       "housenumber": "3", 
+      "lat": 51.096436469769614, 
+      "lon": 4.778113984162324, 
       "pcode": 2222, 
-      "street": "Leistraat", 
-      "lon": 4.778113984162324
+      "street": "Leistraat"
     }
-  ], 
-  "name": "Leistraat"
+  ]
 }

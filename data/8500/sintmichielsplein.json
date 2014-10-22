@@ -1,37 +1,35 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.828168755808186, 
       "housenumber": "1", 
+      "lat": 50.828168755808186, 
+      "lon": 3.2632561674239833, 
       "pcode": 8500, 
-      "street": "Sint-Michielsplein", 
-      "lon": 3.2632561674239833
+      "street": "Sint-Michielsplein"
     }, 
     {
-      "lat": 50.82799867063675, 
       "housenumber": "2", 
+      "lat": 50.82799867063675, 
+      "lon": 3.262809605911054, 
       "pcode": 8500, 
-      "street": "Sint-Michielsplein", 
-      "lon": 3.262809605911054
+      "street": "Sint-Michielsplein"
     }, 
     {
-      "lat": 50.82791576254524, 
       "housenumber": "3", 
+      "lat": 50.82791576254524, 
+      "lon": 3.2628652125925397, 
       "pcode": 8500, 
-      "street": "Sint-Michielsplein", 
-      "lon": 3.2628652125925397
+      "street": "Sint-Michielsplein"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8500, 
-      "street": "Sint-Michielsplein", 
-      "housenumber": "4"
+      "street": "Sint-Michielsplein"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8500, 
-      "street": "Sint-Michielsplein", 
-      "housenumber": "5"
+      "street": "Sint-Michielsplein"
     }
-  ], 
-  "name": "Sint-Michielsplein"
+  ]
 }

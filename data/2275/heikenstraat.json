@@ -1,25 +1,23 @@
 {
-  "pcode": 2275, 
   "addresses": [
     {
+      "housenumber": "12", 
       "pcode": 2275, 
-      "street": "Heikenstraat", 
-      "housenumber": "12"
+      "street": "Heikenstraat"
     }, 
     {
-      "lat": 51.22024481977885, 
       "housenumber": "2", 
+      "lat": 51.22024481977885, 
+      "lon": 4.812224419718301, 
       "pcode": 2275, 
-      "street": "Heikenstraat", 
-      "lon": 4.812224419718301
+      "street": "Heikenstraat"
     }, 
     {
-      "lat": 51.219816852328194, 
       "housenumber": "3", 
+      "lat": 51.219816852328194, 
+      "lon": 4.812589194318508, 
       "pcode": 2275, 
-      "street": "Heikenstraat", 
-      "lon": 4.812589194318508
+      "street": "Heikenstraat"
     }
-  ], 
-  "name": "Heikenstraat"
+  ]
 }

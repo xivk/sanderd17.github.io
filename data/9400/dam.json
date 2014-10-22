@@ -1,78 +1,76 @@
 {
-  "pcode": 9400, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9400, 
-      "street": "Dam", 
-      "housenumber": "1"
+      "street": "Dam"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 9400, 
-      "street": "Dam", 
-      "housenumber": "10"
+      "street": "Dam"
     }, 
     {
-      "lat": 50.8373157103755, 
       "housenumber": "2", 
+      "lat": 50.8373157103755, 
+      "lon": 4.020432177661761, 
       "pcode": 9400, 
-      "street": "Dam", 
-      "lon": 4.020432177661761
+      "street": "Dam"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9400, 
-      "street": "Dam", 
-      "housenumber": "3"
+      "street": "Dam"
     }, 
     {
+      "housenumber": "32", 
       "pcode": 9400, 
-      "street": "Dam", 
-      "housenumber": "32"
+      "street": "Dam"
     }, 
     {
+      "housenumber": "34", 
       "pcode": 9400, 
-      "street": "Dam", 
-      "housenumber": "34"
+      "street": "Dam"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9400, 
-      "street": "Dam", 
-      "housenumber": "4"
+      "street": "Dam"
     }, 
     {
-      "lat": 50.837242286925154, 
       "housenumber": "5", 
+      "lat": 50.837242286925154, 
+      "lon": 4.019258942716926, 
       "pcode": 9400, 
-      "street": "Dam", 
-      "lon": 4.019258942716926
+      "street": "Dam"
     }, 
     {
-      "lat": 50.837319120350635, 
       "housenumber": "6", 
+      "lat": 50.837319120350635, 
+      "lon": 4.020278544608657, 
       "pcode": 9400, 
-      "street": "Dam", 
-      "lon": 4.020278544608657
+      "street": "Dam"
     }, 
     {
-      "lat": 50.83720247337668, 
       "housenumber": "7", 
+      "lat": 50.83720247337668, 
+      "lon": 4.01923226449271, 
       "pcode": 9400, 
-      "street": "Dam", 
-      "lon": 4.01923226449271
+      "street": "Dam"
     }, 
     {
-      "lat": 50.837322860285944, 
       "housenumber": "8", 
+      "lat": 50.837322860285944, 
+      "lon": 4.020175591164175, 
       "pcode": 9400, 
-      "street": "Dam", 
-      "lon": 4.020175591164175
+      "street": "Dam"
     }, 
     {
-      "lat": 50.83763652115703, 
       "housenumber": "9", 
+      "lat": 50.83763652115703, 
+      "lon": 4.019483591999907, 
       "pcode": 9400, 
-      "street": "Dam", 
-      "lon": 4.019483591999907
+      "street": "Dam"
     }
-  ], 
-  "name": "Dam"
+  ]
 }

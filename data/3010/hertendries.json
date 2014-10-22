@@ -1,27 +1,25 @@
 {
-  "pcode": 3010, 
   "addresses": [
     {
-      "lat": 50.90687520731708, 
       "housenumber": "22", 
+      "lat": 50.90687520731708, 
+      "lon": 4.741741939398296, 
       "pcode": 3010, 
-      "street": "Hertendries", 
-      "lon": 4.741741939398296
+      "street": "Hertendries"
     }, 
     {
-      "lat": 50.906097317841336, 
       "housenumber": "66", 
+      "lat": 50.906097317841336, 
+      "lon": 4.7412426856326375, 
       "pcode": 3010, 
-      "street": "Hertendries", 
-      "lon": 4.7412426856326375
+      "street": "Hertendries"
     }, 
     {
-      "lat": 50.90649973185877, 
       "housenumber": "67", 
+      "lat": 50.90649973185877, 
+      "lon": 4.741935011493994, 
       "pcode": 3010, 
-      "street": "Hertendries", 
-      "lon": 4.741935011493994
+      "street": "Hertendries"
     }
-  ], 
-  "name": "Hertendries"
+  ]
 }

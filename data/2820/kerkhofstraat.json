@@ -1,20 +1,18 @@
 {
-  "pcode": 2820, 
   "addresses": [
     {
-      "lat": 51.023741433571395, 
       "housenumber": "1", 
+      "lat": 51.023741433571395, 
+      "lon": 4.5422313381604065, 
       "pcode": 2820, 
-      "street": "Kerkhofstraat", 
-      "lon": 4.5422313381604065
+      "street": "Kerkhofstraat"
     }, 
     {
-      "lat": 51.023671860084455, 
       "housenumber": "3", 
+      "lat": 51.023671860084455, 
+      "lon": 4.542169363759819, 
       "pcode": 2820, 
-      "street": "Kerkhofstraat", 
-      "lon": 4.542169363759819
+      "street": "Kerkhofstraat"
     }
-  ], 
-  "name": "Kerkhofstraat"
+  ]
 }

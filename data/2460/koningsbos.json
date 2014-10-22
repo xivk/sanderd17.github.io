@@ -1,20 +1,18 @@
 {
-  "pcode": 2460, 
   "addresses": [
     {
-      "lat": 51.22818086327746, 
       "housenumber": "1", 
+      "lat": 51.22818086327746, 
+      "lon": 4.945770899454962, 
       "pcode": 2460, 
-      "street": "Koningsbos", 
-      "lon": 4.945770899454962
+      "street": "Koningsbos"
     }, 
     {
-      "lat": 51.22830155736369, 
       "housenumber": "23A", 
+      "lat": 51.22830155736369, 
+      "lon": 4.938498875526747, 
       "pcode": 2460, 
-      "street": "Koningsbos", 
-      "lon": 4.938498875526747
+      "street": "Koningsbos"
     }
-  ], 
-  "name": "Koningsbos"
+  ]
 }

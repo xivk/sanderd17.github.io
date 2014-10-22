@@ -1,41 +1,39 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.87995932386861, 
       "housenumber": "1", 
+      "lat": 50.87995932386861, 
+      "lon": 4.6889554955335795, 
       "pcode": 3000, 
-      "street": "Horengang", 
-      "lon": 4.6889554955335795
+      "street": "Horengang"
     }, 
     {
-      "lat": 50.87995940489597, 
       "housenumber": "2", 
+      "lat": 50.87995940489597, 
+      "lon": 4.688892974196106, 
       "pcode": 3000, 
-      "street": "Horengang", 
-      "lon": 4.688892974196106
+      "street": "Horengang"
     }, 
     {
-      "lat": 50.879969355915385, 
       "housenumber": "3", 
+      "lat": 50.879969355915385, 
+      "lon": 4.688837198732831, 
       "pcode": 3000, 
-      "street": "Horengang", 
-      "lon": 4.688837198732831
+      "street": "Horengang"
     }, 
     {
-      "lat": 50.87997183876419, 
       "housenumber": "4", 
+      "lat": 50.87997183876419, 
+      "lon": 4.688783929971231, 
       "pcode": 3000, 
-      "street": "Horengang", 
-      "lon": 4.688783929971231
+      "street": "Horengang"
     }, 
     {
-      "lat": 50.879974321977016, 
       "housenumber": "5", 
+      "lat": 50.879974321977016, 
+      "lon": 4.688730519111398, 
       "pcode": 3000, 
-      "street": "Horengang", 
-      "lon": 4.688730519111398
+      "street": "Horengang"
     }
-  ], 
-  "name": "Horengang"
+  ]
 }

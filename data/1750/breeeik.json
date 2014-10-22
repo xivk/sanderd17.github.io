@@ -1,18 +1,16 @@
 {
-  "pcode": 1750, 
   "addresses": [
     {
-      "lat": 50.78371642888721, 
       "housenumber": "16", 
+      "lat": 50.78371642888721, 
+      "lon": 4.148478933146377, 
       "pcode": 1750, 
-      "street": "Bree-eik", 
-      "lon": 4.148478933146377
+      "street": "Bree-eik"
     }, 
     {
+      "housenumber": "20", 
       "pcode": 1750, 
-      "street": "Bree-eik", 
-      "housenumber": "20"
+      "street": "Bree-eik"
     }
-  ], 
-  "name": "Bree-eik"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2220, 
   "addresses": [
     {
-      "lat": 51.026782344061786, 
       "housenumber": "13A", 
+      "lat": 51.026782344061786, 
+      "lon": 4.691955224796762, 
       "pcode": 2220, 
-      "street": "Hoogstraat", 
-      "lon": 4.691955224796762
+      "street": "Hoogstraat"
     }, 
     {
-      "lat": 51.027748256000265, 
       "housenumber": "2A", 
+      "lat": 51.027748256000265, 
+      "lon": 4.692073945578189, 
       "pcode": 2220, 
-      "street": "Hoogstraat", 
-      "lon": 4.692073945578189
+      "street": "Hoogstraat"
     }
-  ], 
-  "name": "Hoogstraat"
+  ]
 }

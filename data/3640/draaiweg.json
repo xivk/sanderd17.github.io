@@ -1,20 +1,18 @@
 {
-  "pcode": 3640, 
   "addresses": [
     {
-      "lat": 51.1324740335038, 
       "housenumber": "1", 
+      "lat": 51.1324740335038, 
+      "lon": 5.807078565586667, 
       "pcode": 3640, 
-      "street": "Draaiweg", 
-      "lon": 5.807078565586667
+      "street": "Draaiweg"
     }, 
     {
-      "lat": 51.13238788833534, 
       "housenumber": "2", 
+      "lat": 51.13238788833534, 
+      "lon": 5.806703973248041, 
       "pcode": 3640, 
-      "street": "Draaiweg", 
-      "lon": 5.806703973248041
+      "street": "Draaiweg"
     }
-  ], 
-  "name": "Draaiweg"
+  ]
 }

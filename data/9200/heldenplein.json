@@ -1,25 +1,23 @@
 {
-  "pcode": 9200, 
   "addresses": [
     {
-      "lat": 51.027339565665834, 
       "housenumber": "1", 
+      "lat": 51.027339565665834, 
+      "lon": 4.101087943379243, 
       "pcode": 9200, 
-      "street": "Heldenplein", 
-      "lon": 4.101087943379243
+      "street": "Heldenplein"
     }, 
     {
-      "lat": 51.02687334752199, 
       "housenumber": "2", 
+      "lat": 51.02687334752199, 
+      "lon": 4.100988970051409, 
       "pcode": 9200, 
-      "street": "Heldenplein", 
-      "lon": 4.100988970051409
+      "street": "Heldenplein"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9200, 
-      "street": "Heldenplein", 
-      "housenumber": "6"
+      "street": "Heldenplein"
     }
-  ], 
-  "name": "Heldenplein"
+  ]
 }

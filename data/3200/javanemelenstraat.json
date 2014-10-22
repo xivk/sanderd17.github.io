@@ -1,42 +1,40 @@
 {
-  "pcode": 3200, 
   "addresses": [
     {
+      "housenumber": "29", 
       "pcode": 3200, 
-      "street": "J.A. Van Emelenstraat", 
-      "housenumber": "29"
+      "street": "J.A. Van Emelenstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3200, 
-      "street": "J.A. Van Emelenstraat", 
-      "housenumber": "3"
+      "street": "J.A. Van Emelenstraat"
     }, 
     {
-      "lat": 50.96551065171799, 
       "housenumber": "33", 
+      "lat": 50.96551065171799, 
+      "lon": 4.804819082785106, 
       "pcode": 3200, 
-      "street": "J.A. Van Emelenstraat", 
-      "lon": 4.804819082785106
+      "street": "J.A. Van Emelenstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3200, 
-      "street": "J.A. Van Emelenstraat", 
-      "housenumber": "5"
+      "street": "J.A. Van Emelenstraat"
     }, 
     {
-      "lat": 50.964719145779256, 
       "housenumber": "7", 
+      "lat": 50.964719145779256, 
+      "lon": 4.806122213600947, 
       "pcode": 3200, 
-      "street": "J.A. Van Emelenstraat", 
-      "lon": 4.806122213600947
+      "street": "J.A. Van Emelenstraat"
     }, 
     {
-      "lat": 50.965375860788804, 
       "housenumber": "8", 
+      "lat": 50.965375860788804, 
+      "lon": 4.805796946254733, 
       "pcode": 3200, 
-      "street": "J.A. Van Emelenstraat", 
-      "lon": 4.805796946254733
+      "street": "J.A. Van Emelenstraat"
     }
-  ], 
-  "name": "J.A. Van Emelenstraat"
+  ]
 }

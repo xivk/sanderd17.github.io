@@ -1,20 +1,18 @@
 {
-  "pcode": 8840, 
   "addresses": [
     {
-      "lat": 50.93885028736358, 
       "housenumber": "1", 
+      "lat": 50.93885028736358, 
+      "lon": 2.983145670563324, 
       "pcode": 8840, 
-      "street": "Mannekensstraat", 
-      "lon": 2.983145670563324
+      "street": "Mannekensstraat"
     }, 
     {
-      "lat": 50.93935102095803, 
       "housenumber": "2", 
+      "lat": 50.93935102095803, 
+      "lon": 2.9818523345397283, 
       "pcode": 8840, 
-      "street": "Mannekensstraat", 
-      "lon": 2.9818523345397283
+      "street": "Mannekensstraat"
     }
-  ], 
-  "name": "Mannekensstraat"
+  ]
 }

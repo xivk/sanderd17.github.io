@@ -1,23 +1,21 @@
 {
-  "pcode": 9130, 
   "addresses": [
     {
-      "lat": 51.25778242927156, 
       "housenumber": "1", 
+      "lat": 51.25778242927156, 
+      "lon": 4.198526694218833, 
       "pcode": 9130, 
-      "street": "Watermolendijk", 
-      "lon": 4.198526694218833
+      "street": "Watermolendijk"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9130, 
-      "street": "Watermolendijk", 
-      "housenumber": "2"
+      "street": "Watermolendijk"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9130, 
-      "street": "Watermolendijk", 
-      "housenumber": "4"
+      "street": "Watermolendijk"
     }
-  ], 
-  "name": "Watermolendijk"
+  ]
 }

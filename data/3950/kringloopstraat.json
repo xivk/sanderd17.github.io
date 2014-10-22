@@ -1,42 +1,40 @@
 {
-  "pcode": 3950, 
   "addresses": [
     {
-      "lat": 51.174418662753524, 
       "housenumber": "2", 
+      "lat": 51.174418662753524, 
+      "lon": 5.5454214626412925, 
       "pcode": 3950, 
-      "street": "Kringloopstraat", 
-      "lon": 5.5454214626412925
+      "street": "Kringloopstraat"
     }, 
     {
+      "housenumber": "5A", 
       "pcode": 3950, 
-      "street": "Kringloopstraat", 
-      "housenumber": "5A"
+      "street": "Kringloopstraat"
     }, 
     {
+      "housenumber": "5B", 
       "pcode": 3950, 
-      "street": "Kringloopstraat", 
-      "housenumber": "5B"
+      "street": "Kringloopstraat"
     }, 
     {
-      "lat": 51.174382086939936, 
       "housenumber": "5C", 
+      "lat": 51.174382086939936, 
+      "lon": 5.547519613427866, 
       "pcode": 3950, 
-      "street": "Kringloopstraat", 
-      "lon": 5.547519613427866
+      "street": "Kringloopstraat"
     }, 
     {
-      "lat": 51.174571685176396, 
       "housenumber": "5D", 
+      "lat": 51.174571685176396, 
+      "lon": 5.54773505677332, 
       "pcode": 3950, 
-      "street": "Kringloopstraat", 
-      "lon": 5.54773505677332
+      "street": "Kringloopstraat"
     }, 
     {
+      "housenumber": "5E", 
       "pcode": 3950, 
-      "street": "Kringloopstraat", 
-      "housenumber": "5E"
+      "street": "Kringloopstraat"
     }
-  ], 
-  "name": "Kringloopstraat"
+  ]
 }

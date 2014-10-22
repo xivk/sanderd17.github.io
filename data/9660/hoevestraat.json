@@ -1,27 +1,25 @@
 {
-  "pcode": 9660, 
   "addresses": [
     {
-      "lat": 50.79546551598243, 
       "housenumber": "13", 
+      "lat": 50.79546551598243, 
+      "lon": 3.772681770164889, 
       "pcode": 9660, 
-      "street": "Hoevestraat", 
-      "lon": 3.772681770164889
+      "street": "Hoevestraat"
     }, 
     {
-      "lat": 50.79602975629134, 
       "housenumber": "5", 
+      "lat": 50.79602975629134, 
+      "lon": 3.7748502502335146, 
       "pcode": 9660, 
-      "street": "Hoevestraat", 
-      "lon": 3.7748502502335146
+      "street": "Hoevestraat"
     }, 
     {
-      "lat": 50.795669168177795, 
       "housenumber": "9", 
+      "lat": 50.795669168177795, 
+      "lon": 3.7744593348966227, 
       "pcode": 9660, 
-      "street": "Hoevestraat", 
-      "lon": 3.7744593348966227
+      "street": "Hoevestraat"
     }
-  ], 
-  "name": "Hoevestraat"
+  ]
 }

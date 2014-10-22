@@ -1,27 +1,25 @@
 {
-  "pcode": 1910, 
   "addresses": [
     {
-      "lat": 50.94796514282931, 
       "housenumber": "10", 
+      "lat": 50.94796514282931, 
+      "lon": 4.579341519597624, 
       "pcode": 1910, 
-      "street": "Hutteweg", 
-      "lon": 4.579341519597624
+      "street": "Hutteweg"
     }, 
     {
-      "lat": 50.94864176995232, 
       "housenumber": "5", 
+      "lat": 50.94864176995232, 
+      "lon": 4.579489289085831, 
       "pcode": 1910, 
-      "street": "Hutteweg", 
-      "lon": 4.579489289085831
+      "street": "Hutteweg"
     }, 
     {
-      "lat": 50.948223794046655, 
       "housenumber": "8", 
+      "lat": 50.948223794046655, 
+      "lon": 4.579225001527571, 
       "pcode": 1910, 
-      "street": "Hutteweg", 
-      "lon": 4.579225001527571
+      "street": "Hutteweg"
     }
-  ], 
-  "name": "Hutteweg"
+  ]
 }

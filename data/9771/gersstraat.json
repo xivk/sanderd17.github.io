@@ -1,20 +1,18 @@
 {
-  "pcode": 9771, 
   "addresses": [
     {
-      "lat": 50.87762846039541, 
       "housenumber": "1", 
+      "lat": 50.87762846039541, 
+      "lon": 3.527272753231027, 
       "pcode": 9771, 
-      "street": "Gersstraat", 
-      "lon": 3.527272753231027
+      "street": "Gersstraat"
     }, 
     {
-      "lat": 50.87733462433297, 
       "housenumber": "3", 
+      "lat": 50.87733462433297, 
+      "lon": 3.528082838900601, 
       "pcode": 9771, 
-      "street": "Gersstraat", 
-      "lon": 3.528082838900601
+      "street": "Gersstraat"
     }
-  ], 
-  "name": "Gersstraat"
+  ]
 }

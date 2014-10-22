@@ -1,32 +1,30 @@
 {
-  "pcode": 3960, 
   "addresses": [
     {
-      "lat": 51.13979010581067, 
       "housenumber": "1", 
+      "lat": 51.13979010581067, 
+      "lon": 5.563691343252661, 
       "pcode": 3960, 
-      "street": "Voortbemdenstraat", 
-      "lon": 5.563691343252661
+      "street": "Voortbemdenstraat"
     }, 
     {
-      "lat": 51.14136560371031, 
       "housenumber": "15", 
+      "lat": 51.14136560371031, 
+      "lon": 5.566807905048944, 
       "pcode": 3960, 
-      "street": "Voortbemdenstraat", 
-      "lon": 5.566807905048944
+      "street": "Voortbemdenstraat"
     }, 
     {
-      "lat": 51.14115887414494, 
       "housenumber": "5", 
+      "lat": 51.14115887414494, 
+      "lon": 5.564190401917697, 
       "pcode": 3960, 
-      "street": "Voortbemdenstraat", 
-      "lon": 5.564190401917697
+      "street": "Voortbemdenstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3960, 
-      "street": "Voortbemdenstraat", 
-      "housenumber": "7"
+      "street": "Voortbemdenstraat"
     }
-  ], 
-  "name": "Voortbemdenstraat"
+  ]
 }

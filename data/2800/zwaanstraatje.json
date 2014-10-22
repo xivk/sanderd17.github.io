@@ -1,30 +1,28 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
-      "lat": 51.02551828167238, 
       "housenumber": "1", 
+      "lat": 51.02551828167238, 
+      "lon": 4.476186987646294, 
       "pcode": 2800, 
-      "street": "Zwaanstraatje", 
-      "lon": 4.476186987646294
+      "street": "Zwaanstraatje"
     }, 
     {
+      "housenumber": "1O", 
       "pcode": 2800, 
-      "street": "Zwaanstraatje", 
-      "housenumber": "1O"
+      "street": "Zwaanstraatje"
     }, 
     {
-      "lat": 51.025682450614106, 
       "housenumber": "2", 
+      "lat": 51.025682450614106, 
+      "lon": 4.476155153538569, 
       "pcode": 2800, 
-      "street": "Zwaanstraatje", 
-      "lon": 4.476155153538569
+      "street": "Zwaanstraatje"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2800, 
-      "street": "Zwaanstraatje", 
-      "housenumber": "4"
+      "street": "Zwaanstraatje"
     }
-  ], 
-  "name": "Zwaanstraatje"
+  ]
 }

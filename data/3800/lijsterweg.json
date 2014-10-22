@@ -1,20 +1,18 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
-      "lat": 50.7865551852621, 
       "housenumber": "2", 
+      "lat": 50.7865551852621, 
+      "lon": 5.2645914432709375, 
       "pcode": 3800, 
-      "street": "Lijsterweg", 
-      "lon": 5.2645914432709375
+      "street": "Lijsterweg"
     }, 
     {
-      "lat": 50.78655514084782, 
       "housenumber": "4", 
+      "lat": 50.78655514084782, 
+      "lon": 5.264890829167451, 
       "pcode": 3800, 
-      "street": "Lijsterweg", 
-      "lon": 5.264890829167451
+      "street": "Lijsterweg"
     }
-  ], 
-  "name": "Lijsterweg"
+  ]
 }

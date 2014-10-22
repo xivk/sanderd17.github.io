@@ -1,20 +1,18 @@
 {
-  "pcode": 2440, 
   "addresses": [
     {
-      "lat": 51.21653512713686, 
       "housenumber": "1", 
+      "lat": 51.21653512713686, 
+      "lon": 5.035717726854152, 
       "pcode": 2440, 
-      "street": "Platbos", 
-      "lon": 5.035717726854152
+      "street": "Platbos"
     }, 
     {
-      "lat": 51.21236122148703, 
       "housenumber": "2", 
+      "lat": 51.21236122148703, 
+      "lon": 5.034166740327864, 
       "pcode": 2440, 
-      "street": "Platbos", 
-      "lon": 5.034166740327864
+      "street": "Platbos"
     }
-  ], 
-  "name": "Platbos"
+  ]
 }

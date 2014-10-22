@@ -1,20 +1,18 @@
 {
-  "pcode": 9280, 
   "addresses": [
     {
-      "lat": 50.99388370808124, 
       "housenumber": "2", 
+      "lat": 50.99388370808124, 
+      "lon": 4.102857078925368, 
       "pcode": 9280, 
-      "street": "Beukendreef", 
-      "lon": 4.102857078925368
+      "street": "Beukendreef"
     }, 
     {
-      "lat": 50.993801558408194, 
       "housenumber": "4", 
+      "lat": 50.993801558408194, 
+      "lon": 4.102622945177796, 
       "pcode": 9280, 
-      "street": "Beukendreef", 
-      "lon": 4.102622945177796
+      "street": "Beukendreef"
     }
-  ], 
-  "name": "Beukendreef"
+  ]
 }

@@ -1,39 +1,37 @@
 {
-  "pcode": 2020, 
   "addresses": [
     {
-      "lat": 51.18428734726212, 
       "housenumber": "1", 
+      "lat": 51.18428734726212, 
+      "lon": 4.392156133204219, 
       "pcode": 2020, 
-      "street": "Populierenlaan", 
-      "lon": 4.392156133204219
+      "street": "Populierenlaan"
     }, 
     {
+      "housenumber": "1_6", 
       "pcode": 2020, 
-      "street": "Populierenlaan", 
-      "housenumber": "1_6"
+      "street": "Populierenlaan"
     }, 
     {
-      "lat": 51.18421767498426, 
       "housenumber": "3", 
+      "lat": 51.18421767498426, 
+      "lon": 4.392211446080272, 
       "pcode": 2020, 
-      "street": "Populierenlaan", 
-      "lon": 4.392211446080272
+      "street": "Populierenlaan"
     }, 
     {
-      "lat": 51.18355348699958, 
       "housenumber": "32", 
+      "lat": 51.18355348699958, 
+      "lon": 4.393200645648339, 
       "pcode": 2020, 
-      "street": "Populierenlaan", 
-      "lon": 4.393200645648339
+      "street": "Populierenlaan"
     }, 
     {
-      "lat": 51.18357655019385, 
       "housenumber": "34", 
+      "lat": 51.18357655019385, 
+      "lon": 4.393375283452381, 
       "pcode": 2020, 
-      "street": "Populierenlaan", 
-      "lon": 4.393375283452381
+      "street": "Populierenlaan"
     }
-  ], 
-  "name": "Populierenlaan"
+  ]
 }

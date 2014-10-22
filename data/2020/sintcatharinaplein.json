@@ -1,18 +1,16 @@
 {
-  "pcode": 2020, 
   "addresses": [
     {
-      "lat": 51.19314251334586, 
       "housenumber": "1", 
+      "lat": 51.19314251334586, 
+      "lon": 4.379992072472513, 
       "pcode": 2020, 
-      "street": "Sint-Catharinaplein", 
-      "lon": 4.379992072472513
+      "street": "Sint-Catharinaplein"
     }, 
     {
+      "housenumber": "187", 
       "pcode": 2020, 
-      "street": "Sint-Catharinaplein", 
-      "housenumber": "187"
+      "street": "Sint-Catharinaplein"
     }
-  ], 
-  "name": "Sint-Catharinaplein"
+  ]
 }

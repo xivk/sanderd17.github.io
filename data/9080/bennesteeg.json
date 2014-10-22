@@ -1,27 +1,25 @@
 {
-  "pcode": 9080, 
   "addresses": [
     {
-      "lat": 51.07988236783949, 
       "housenumber": "1", 
+      "lat": 51.07988236783949, 
+      "lon": 3.8813855277578035, 
       "pcode": 9080, 
-      "street": "Bennesteeg", 
-      "lon": 3.8813855277578035
+      "street": "Bennesteeg"
     }, 
     {
-      "lat": 51.07980559020957, 
       "housenumber": "2", 
+      "lat": 51.07980559020957, 
+      "lon": 3.881513475997205, 
       "pcode": 9080, 
-      "street": "Bennesteeg", 
-      "lon": 3.881513475997205
+      "street": "Bennesteeg"
     }, 
     {
-      "lat": 51.079710934840435, 
       "housenumber": "3", 
+      "lat": 51.079710934840435, 
+      "lon": 3.8814044360511533, 
       "pcode": 9080, 
-      "street": "Bennesteeg", 
-      "lon": 3.8814044360511533
+      "street": "Bennesteeg"
     }
-  ], 
-  "name": "Bennesteeg"
+  ]
 }

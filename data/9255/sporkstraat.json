@@ -1,27 +1,25 @@
 {
-  "pcode": 9255, 
   "addresses": [
     {
-      "lat": 50.99730184940561, 
       "housenumber": "1", 
+      "lat": 50.99730184940561, 
+      "lon": 4.189769926755587, 
       "pcode": 9255, 
-      "street": "Sporkstraat", 
-      "lon": 4.189769926755587
+      "street": "Sporkstraat"
     }, 
     {
-      "lat": 50.99751248227486, 
       "housenumber": "2", 
+      "lat": 50.99751248227486, 
+      "lon": 4.1895443379248976, 
       "pcode": 9255, 
-      "street": "Sporkstraat", 
-      "lon": 4.1895443379248976
+      "street": "Sporkstraat"
     }, 
     {
-      "lat": 50.99761138683996, 
       "housenumber": "3", 
+      "lat": 50.99761138683996, 
+      "lon": 4.189382564019006, 
       "pcode": 9255, 
-      "street": "Sporkstraat", 
-      "lon": 4.189382564019006
+      "street": "Sporkstraat"
     }
-  ], 
-  "name": "Sporkstraat"
+  ]
 }

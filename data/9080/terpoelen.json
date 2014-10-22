@@ -1,20 +1,18 @@
 {
-  "pcode": 9080, 
   "addresses": [
     {
-      "lat": 51.08323353101382, 
       "housenumber": "1", 
+      "lat": 51.08323353101382, 
+      "lon": 3.862305526297192, 
       "pcode": 9080, 
-      "street": "Terpoelen", 
-      "lon": 3.862305526297192
+      "street": "Terpoelen"
     }, 
     {
-      "lat": 51.08519363766281, 
       "housenumber": "2", 
+      "lat": 51.08519363766281, 
+      "lon": 3.8647101528813055, 
       "pcode": 9080, 
-      "street": "Terpoelen", 
-      "lon": 3.8647101528813055
+      "street": "Terpoelen"
     }
-  ], 
-  "name": "Terpoelen"
+  ]
 }

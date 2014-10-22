@@ -1,20 +1,18 @@
 {
-  "pcode": 2320, 
   "addresses": [
     {
-      "lat": 51.42345752049753, 
       "housenumber": "15", 
+      "lat": 51.42345752049753, 
+      "lon": 4.762610336451414, 
       "pcode": 2320, 
-      "street": "Hooiopper", 
-      "lon": 4.762610336451414
+      "street": "Hooiopper"
     }, 
     {
-      "lat": 51.42371196287228, 
       "housenumber": "16", 
+      "lat": 51.42371196287228, 
+      "lon": 4.762285732304193, 
       "pcode": 2320, 
-      "street": "Hooiopper", 
-      "lon": 4.762285732304193
+      "street": "Hooiopper"
     }
-  ], 
-  "name": "Hooiopper"
+  ]
 }

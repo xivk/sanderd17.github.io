@@ -1,39 +1,37 @@
 {
-  "pcode": 1730, 
   "addresses": [
     {
-      "lat": 50.90135948858938, 
       "housenumber": "1", 
+      "lat": 50.90135948858938, 
+      "lon": 4.233252913862939, 
       "pcode": 1730, 
-      "street": "Roosberg", 
-      "lon": 4.233252913862939
+      "street": "Roosberg"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 1730, 
-      "street": "Roosberg", 
-      "housenumber": "2"
+      "street": "Roosberg"
     }, 
     {
-      "lat": 50.901194782602005, 
       "housenumber": "3", 
+      "lat": 50.901194782602005, 
+      "lon": 4.2327662099708965, 
       "pcode": 1730, 
-      "street": "Roosberg", 
-      "lon": 4.2327662099708965
+      "street": "Roosberg"
     }, 
     {
-      "lat": 50.90116800772986, 
       "housenumber": "4", 
+      "lat": 50.90116800772986, 
+      "lon": 4.232466190937892, 
       "pcode": 1730, 
-      "street": "Roosberg", 
-      "lon": 4.232466190937892
+      "street": "Roosberg"
     }, 
     {
-      "lat": 50.90095664287975, 
       "housenumber": "5", 
+      "lat": 50.90095664287975, 
+      "lon": 4.232289530728518, 
       "pcode": 1730, 
-      "street": "Roosberg", 
-      "lon": 4.232289530728518
+      "street": "Roosberg"
     }
-  ], 
-  "name": "Roosberg"
+  ]
 }

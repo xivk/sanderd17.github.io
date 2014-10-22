@@ -1,35 +1,33 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8000, 
-      "street": "Papenplein", 
-      "housenumber": "1"
+      "street": "Papenplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8000, 
-      "street": "Papenplein", 
-      "housenumber": "2"
+      "street": "Papenplein"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8000, 
-      "street": "Papenplein", 
-      "housenumber": "3"
+      "street": "Papenplein"
     }, 
     {
-      "lat": 51.228173289748035, 
       "housenumber": "4", 
+      "lat": 51.228173289748035, 
+      "lon": 3.1975750206034257, 
       "pcode": 8000, 
-      "street": "Papenplein", 
-      "lon": 3.1975750206034257
+      "street": "Papenplein"
     }, 
     {
-      "lat": 51.22810285039014, 
       "housenumber": "5", 
+      "lat": 51.22810285039014, 
+      "lon": 3.1974608193296192, 
       "pcode": 8000, 
-      "street": "Papenplein", 
-      "lon": 3.1974608193296192
+      "street": "Papenplein"
     }
-  ], 
-  "name": "Papenplein"
+  ]
 }

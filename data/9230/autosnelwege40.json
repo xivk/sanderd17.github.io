@@ -1,20 +1,18 @@
 {
-  "pcode": 9230, 
   "addresses": [
     {
-      "lat": 50.971000288132444, 
       "housenumber": "1", 
+      "lat": 50.971000288132444, 
+      "lon": 3.842747049839632, 
       "pcode": 9230, 
-      "street": "Autosnelweg E 40", 
-      "lon": 3.842747049839632
+      "street": "Autosnelweg E 40"
     }, 
     {
-      "lat": 50.96912360222327, 
       "housenumber": "2", 
+      "lat": 50.96912360222327, 
+      "lon": 3.8432778962691163, 
       "pcode": 9230, 
-      "street": "Autosnelweg E 40", 
-      "lon": 3.8432778962691163
+      "street": "Autosnelweg E 40"
     }
-  ], 
-  "name": "Autosnelweg E 40"
+  ]
 }

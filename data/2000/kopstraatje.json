@@ -1,44 +1,42 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 2000, 
-      "street": "Kopstraatje", 
-      "housenumber": "10"
+      "street": "Kopstraatje"
     }, 
     {
-      "lat": 51.21690403411746, 
       "housenumber": "2", 
+      "lat": 51.21690403411746, 
+      "lon": 4.400430899951335, 
       "pcode": 2000, 
-      "street": "Kopstraatje", 
-      "lon": 4.400430899951335
+      "street": "Kopstraatje"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2000, 
-      "street": "Kopstraatje", 
-      "housenumber": "3"
+      "street": "Kopstraatje"
     }, 
     {
-      "lat": 51.21697566625021, 
       "housenumber": "4", 
+      "lat": 51.21697566625021, 
+      "lon": 4.4004507003442015, 
       "pcode": 2000, 
-      "street": "Kopstraatje", 
-      "lon": 4.4004507003442015
+      "street": "Kopstraatje"
     }, 
     {
-      "lat": 51.21698027758302, 
       "housenumber": "6", 
+      "lat": 51.21698027758302, 
+      "lon": 4.400351091484346, 
       "pcode": 2000, 
-      "street": "Kopstraatje", 
-      "lon": 4.400351091484346
+      "street": "Kopstraatje"
     }, 
     {
-      "lat": 51.2169885765303, 
       "housenumber": "8", 
+      "lat": 51.2169885765303, 
+      "lon": 4.400242468539859, 
       "pcode": 2000, 
-      "street": "Kopstraatje", 
-      "lon": 4.400242468539859
+      "street": "Kopstraatje"
     }
-  ], 
-  "name": "Kopstraatje"
+  ]
 }

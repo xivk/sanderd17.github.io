@@ -1,35 +1,33 @@
 {
-  "pcode": 2930, 
   "addresses": [
     {
-      "lat": 51.29712919253094, 
       "housenumber": "1", 
+      "lat": 51.29712919253094, 
+      "lon": 4.447176090652622, 
       "pcode": 2930, 
-      "street": "Galgehoeveplein", 
-      "lon": 4.447176090652622
+      "street": "Galgehoeveplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2930, 
-      "street": "Galgehoeveplein", 
-      "housenumber": "2"
+      "street": "Galgehoeveplein"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2930, 
-      "street": "Galgehoeveplein", 
-      "housenumber": "3"
+      "street": "Galgehoeveplein"
     }, 
     {
-      "lat": 51.29714807004015, 
       "housenumber": "5", 
+      "lat": 51.29714807004015, 
+      "lon": 4.4471723951869455, 
       "pcode": 2930, 
-      "street": "Galgehoeveplein", 
-      "lon": 4.4471723951869455
+      "street": "Galgehoeveplein"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2930, 
-      "street": "Galgehoeveplein", 
-      "housenumber": "7"
+      "street": "Galgehoeveplein"
     }
-  ], 
-  "name": "Galgehoeveplein"
+  ]
 }

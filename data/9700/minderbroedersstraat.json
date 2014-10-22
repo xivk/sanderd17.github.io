@@ -1,27 +1,25 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.84352233731824, 
       "housenumber": "3", 
+      "lat": 50.84352233731824, 
+      "lon": 3.6015062251040177, 
       "pcode": 9700, 
-      "street": "Minderbroedersstraat", 
-      "lon": 3.6015062251040177
+      "street": "Minderbroedersstraat"
     }, 
     {
-      "lat": 50.84081567337973, 
       "housenumber": "6", 
+      "lat": 50.84081567337973, 
+      "lon": 3.600345205199231, 
       "pcode": 9700, 
-      "street": "Minderbroedersstraat", 
-      "lon": 3.600345205199231
+      "street": "Minderbroedersstraat"
     }, 
     {
-      "lat": 50.84332646603792, 
       "housenumber": "7", 
+      "lat": 50.84332646603792, 
+      "lon": 3.6029824308003744, 
       "pcode": 9700, 
-      "street": "Minderbroedersstraat", 
-      "lon": 3.6029824308003744
+      "street": "Minderbroedersstraat"
     }
-  ], 
-  "name": "Minderbroedersstraat"
+  ]
 }

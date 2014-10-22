@@ -1,20 +1,18 @@
 {
-  "pcode": 3128, 
   "addresses": [
     {
-      "lat": 50.99306428445532, 
       "housenumber": "3", 
+      "lat": 50.99306428445532, 
+      "lon": 4.738166483061936, 
       "pcode": 3128, 
-      "street": "Lentedreef", 
-      "lon": 4.738166483061936
+      "street": "Lentedreef"
     }, 
     {
-      "lat": 50.993084614878434, 
       "housenumber": "7", 
+      "lat": 50.993084614878434, 
+      "lon": 4.737246204948387, 
       "pcode": 3128, 
-      "street": "Lentedreef", 
-      "lon": 4.737246204948387
+      "street": "Lentedreef"
     }
-  ], 
-  "name": "Lentedreef"
+  ]
 }

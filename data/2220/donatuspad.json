@@ -1,20 +1,18 @@
 {
-  "pcode": 2220, 
   "addresses": [
     {
-      "lat": 51.083756901874956, 
       "housenumber": "1", 
+      "lat": 51.083756901874956, 
+      "lon": 4.729786695185017, 
       "pcode": 2220, 
-      "street": "Donatuspad", 
-      "lon": 4.729786695185017
+      "street": "Donatuspad"
     }, 
     {
-      "lat": 51.084023619186866, 
       "housenumber": "3", 
+      "lat": 51.084023619186866, 
+      "lon": 4.730162387494721, 
       "pcode": 2220, 
-      "street": "Donatuspad", 
-      "lon": 4.730162387494721
+      "street": "Donatuspad"
     }
-  ], 
-  "name": "Donatuspad"
+  ]
 }

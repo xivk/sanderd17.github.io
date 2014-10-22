@@ -1,27 +1,25 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.80216968344723, 
       "housenumber": "13", 
+      "lat": 50.80216968344723, 
+      "lon": 5.5004076969452225, 
       "pcode": 3700, 
-      "street": "Waterkuilstraat", 
-      "lon": 5.5004076969452225
+      "street": "Waterkuilstraat"
     }, 
     {
-      "lat": 50.802090313516416, 
       "housenumber": "15", 
+      "lat": 50.802090313516416, 
+      "lon": 5.500461685586843, 
       "pcode": 3700, 
-      "street": "Waterkuilstraat", 
-      "lon": 5.500461685586843
+      "street": "Waterkuilstraat"
     }, 
     {
-      "lat": 50.80229355421035, 
       "housenumber": "9", 
+      "lat": 50.80229355421035, 
+      "lon": 5.500279584889828, 
       "pcode": 3700, 
-      "street": "Waterkuilstraat", 
-      "lon": 5.500279584889828
+      "street": "Waterkuilstraat"
     }
-  ], 
-  "name": "Waterkuilstraat"
+  ]
 }

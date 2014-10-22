@@ -1,20 +1,18 @@
 {
-  "pcode": 3840, 
   "addresses": [
     {
-      "lat": 50.81501078206888, 
       "housenumber": "1", 
+      "lat": 50.81501078206888, 
+      "lon": 5.317356177990247, 
       "pcode": 3840, 
-      "street": "Rullingen", 
-      "lon": 5.317356177990247
+      "street": "Rullingen"
     }, 
     {
-      "lat": 50.81542459347224, 
       "housenumber": "2", 
+      "lat": 50.81542459347224, 
+      "lon": 5.318622282523543, 
       "pcode": 3840, 
-      "street": "Rullingen", 
-      "lon": 5.318622282523543
+      "street": "Rullingen"
     }
-  ], 
-  "name": "Rullingen"
+  ]
 }

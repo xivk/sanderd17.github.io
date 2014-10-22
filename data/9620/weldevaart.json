@@ -1,20 +1,18 @@
 {
-  "pcode": 9620, 
   "addresses": [
     {
-      "lat": 50.86075628108357, 
       "housenumber": "1", 
+      "lat": 50.86075628108357, 
+      "lon": 3.8115245266766413, 
       "pcode": 9620, 
-      "street": "Weldevaart", 
-      "lon": 3.8115245266766413
+      "street": "Weldevaart"
     }, 
     {
-      "lat": 50.86074189116926, 
       "housenumber": "3", 
+      "lat": 50.86074189116926, 
+      "lon": 3.8112011304820985, 
       "pcode": 9620, 
-      "street": "Weldevaart", 
-      "lon": 3.8112011304820985
+      "street": "Weldevaart"
     }
-  ], 
-  "name": "Weldevaart"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2330, 
   "addresses": [
     {
-      "lat": 51.37854548120754, 
       "housenumber": "1", 
+      "lat": 51.37854548120754, 
+      "lon": 4.8543352204101025, 
       "pcode": 2330, 
-      "street": "Veldenstraat", 
-      "lon": 4.8543352204101025
+      "street": "Veldenstraat"
     }, 
     {
-      "lat": 51.37895035319068, 
       "housenumber": "5", 
+      "lat": 51.37895035319068, 
+      "lon": 4.853202540239233, 
       "pcode": 2330, 
-      "street": "Veldenstraat", 
-      "lon": 4.853202540239233
+      "street": "Veldenstraat"
     }
-  ], 
-  "name": "Veldenstraat"
+  ]
 }

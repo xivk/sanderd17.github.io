@@ -1,20 +1,18 @@
 {
-  "pcode": 2387, 
   "addresses": [
     {
-      "lat": 51.443785926386404, 
       "housenumber": "1", 
+      "lat": 51.443785926386404, 
+      "lon": 4.918621420583728, 
       "pcode": 2387, 
-      "street": "Loveren", 
-      "lon": 4.918621420583728
+      "street": "Loveren"
     }, 
     {
-      "lat": 51.44375027715161, 
       "housenumber": "2", 
+      "lat": 51.44375027715161, 
+      "lon": 4.918342841707526, 
       "pcode": 2387, 
-      "street": "Loveren", 
-      "lon": 4.918342841707526
+      "street": "Loveren"
     }
-  ], 
-  "name": "Loveren"
+  ]
 }

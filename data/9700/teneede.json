@@ -1,27 +1,25 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.80581420350122, 
       "housenumber": "1", 
+      "lat": 50.80581420350122, 
+      "lon": 3.585388691728229, 
       "pcode": 9700, 
-      "street": "Ten Eede", 
-      "lon": 3.585388691728229
+      "street": "Ten Eede"
     }, 
     {
-      "lat": 50.80524385867406, 
       "housenumber": "2", 
+      "lat": 50.80524385867406, 
+      "lon": 3.5877592818840394, 
       "pcode": 9700, 
-      "street": "Ten Eede", 
-      "lon": 3.5877592818840394
+      "street": "Ten Eede"
     }, 
     {
-      "lat": 50.80570242776487, 
       "housenumber": "3", 
+      "lat": 50.80570242776487, 
+      "lon": 3.587540846469029, 
       "pcode": 9700, 
-      "street": "Ten Eede", 
-      "lon": 3.587540846469029
+      "street": "Ten Eede"
     }
-  ], 
-  "name": "Ten Eede"
+  ]
 }

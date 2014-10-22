@@ -1,18 +1,16 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
+      "housenumber": "3", 
       "pcode": 3500, 
-      "street": "Grootboomweg", 
-      "housenumber": "3"
+      "street": "Grootboomweg"
     }, 
     {
-      "lat": 50.957868387306746, 
       "housenumber": "5", 
+      "lat": 50.957868387306746, 
+      "lon": 5.377336210959875, 
       "pcode": 3500, 
-      "street": "Grootboomweg", 
-      "lon": 5.377336210959875
+      "street": "Grootboomweg"
     }
-  ], 
-  "name": "Grootboomweg"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8000, 
-      "street": "Muntplein", 
-      "housenumber": "1"
+      "street": "Muntplein"
     }, 
     {
-      "lat": 51.208838928543614, 
       "housenumber": "2", 
+      "lat": 51.208838928543614, 
+      "lon": 3.2208844020000296, 
       "pcode": 8000, 
-      "street": "Muntplein", 
-      "lon": 3.2208844020000296
+      "street": "Muntplein"
     }, 
     {
-      "lat": 51.20896850718668, 
       "housenumber": "4", 
+      "lat": 51.20896850718668, 
+      "lon": 3.220536597815644, 
       "pcode": 8000, 
-      "street": "Muntplein", 
-      "lon": 3.220536597815644
+      "street": "Muntplein"
     }, 
     {
-      "lat": 51.20909316063627, 
       "housenumber": "5", 
+      "lat": 51.20909316063627, 
+      "lon": 3.220857539974514, 
       "pcode": 8000, 
-      "street": "Muntplein", 
-      "lon": 3.220857539974514
+      "street": "Muntplein"
     }
-  ], 
-  "name": "Muntplein"
+  ]
 }

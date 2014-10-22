@@ -1,28 +1,26 @@
 {
-  "pcode": 9120, 
   "addresses": [
     {
+      "housenumber": "13", 
       "pcode": 9120, 
-      "street": "Sint-Niklaasstraat", 
-      "housenumber": "13"
+      "street": "Sint-Niklaasstraat"
     }, 
     {
-      "lat": 51.25153503383506, 
       "housenumber": "4", 
+      "lat": 51.25153503383506, 
+      "lon": 4.262465686393666, 
       "pcode": 9120, 
-      "street": "Sint-Niklaasstraat", 
-      "lon": 4.262465686393666
+      "street": "Sint-Niklaasstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9120, 
-      "street": "Sint-Niklaasstraat", 
-      "housenumber": "6"
+      "street": "Sint-Niklaasstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 9120, 
-      "street": "Sint-Niklaasstraat", 
-      "housenumber": "8"
+      "street": "Sint-Niklaasstraat"
     }
-  ], 
-  "name": "Sint-Niklaasstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2520, 
   "addresses": [
     {
-      "lat": 51.179682501993234, 
       "housenumber": "3", 
+      "lat": 51.179682501993234, 
+      "lon": 4.552083561864766, 
       "pcode": 2520, 
-      "street": "Hovenierstraat", 
-      "lon": 4.552083561864766
+      "street": "Hovenierstraat"
     }, 
     {
-      "lat": 51.178201399061855, 
       "housenumber": "8", 
+      "lat": 51.178201399061855, 
+      "lon": 4.551543036382893, 
       "pcode": 2520, 
-      "street": "Hovenierstraat", 
-      "lon": 4.551543036382893
+      "street": "Hovenierstraat"
     }
-  ], 
-  "name": "Hovenierstraat"
+  ]
 }

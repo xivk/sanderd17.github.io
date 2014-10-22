@@ -1,32 +1,30 @@
 {
-  "pcode": 1970, 
   "addresses": [
     {
-      "lat": 50.85350010313485, 
       "housenumber": "1", 
+      "lat": 50.85350010313485, 
+      "lon": 4.495566147199572, 
       "pcode": 1970, 
-      "street": "Molenweg", 
-      "lon": 4.495566147199572
+      "street": "Molenweg"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 1970, 
-      "street": "Molenweg", 
-      "housenumber": "1A"
+      "street": "Molenweg"
     }, 
     {
-      "lat": 50.85393031541354, 
       "housenumber": "20", 
+      "lat": 50.85393031541354, 
+      "lon": 4.496413868080663, 
       "pcode": 1970, 
-      "street": "Molenweg", 
-      "lon": 4.496413868080663
+      "street": "Molenweg"
     }, 
     {
-      "lat": 50.85372177988552, 
       "housenumber": "4", 
+      "lat": 50.85372177988552, 
+      "lon": 4.495570298925881, 
       "pcode": 1970, 
-      "street": "Molenweg", 
-      "lon": 4.495570298925881
+      "street": "Molenweg"
     }
-  ], 
-  "name": "Molenweg"
+  ]
 }

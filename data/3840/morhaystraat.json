@@ -1,32 +1,30 @@
 {
-  "pcode": 3840, 
   "addresses": [
     {
-      "lat": 50.78687174629188, 
       "housenumber": "70", 
+      "lat": 50.78687174629188, 
+      "lon": 5.378819569985552, 
       "pcode": 3840, 
-      "street": "Morhaystraat", 
-      "lon": 5.378819569985552
+      "street": "Morhaystraat"
     }, 
     {
-      "lat": 50.78668256892003, 
       "housenumber": "71", 
+      "lat": 50.78668256892003, 
+      "lon": 5.378665314241299, 
       "pcode": 3840, 
-      "street": "Morhaystraat", 
-      "lon": 5.378665314241299
+      "street": "Morhaystraat"
     }, 
     {
+      "housenumber": "72", 
       "pcode": 3840, 
-      "street": "Morhaystraat", 
-      "housenumber": "72"
+      "street": "Morhaystraat"
     }, 
     {
-      "lat": 50.78666095850192, 
       "housenumber": "73", 
+      "lat": 50.78666095850192, 
+      "lon": 5.378908789829377, 
       "pcode": 3840, 
-      "street": "Morhaystraat", 
-      "lon": 5.378908789829377
+      "street": "Morhaystraat"
     }
-  ], 
-  "name": "Morhaystraat"
+  ]
 }

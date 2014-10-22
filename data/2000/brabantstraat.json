@@ -1,34 +1,32 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.21121982509613, 
       "housenumber": "1", 
+      "lat": 51.21121982509613, 
+      "lon": 4.405402220107917, 
       "pcode": 2000, 
-      "street": "Brabantstraat", 
-      "lon": 4.405402220107917
+      "street": "Brabantstraat"
     }, 
     {
-      "lat": 51.211016495516375, 
       "housenumber": "2", 
+      "lat": 51.211016495516375, 
+      "lon": 4.405438548434518, 
       "pcode": 2000, 
-      "street": "Brabantstraat", 
-      "lon": 4.405438548434518
+      "street": "Brabantstraat"
     }, 
     {
-      "lat": 51.21122851620971, 
       "housenumber": "3", 
+      "lat": 51.21122851620971, 
+      "lon": 4.405489663081761, 
       "pcode": 2000, 
-      "street": "Brabantstraat", 
-      "lon": 4.405489663081761
+      "street": "Brabantstraat"
     }, 
     {
-      "lat": 51.21123738620941, 
       "housenumber": "5", 
+      "lat": 51.21123738620941, 
+      "lon": 4.405579682089052, 
       "pcode": 2000, 
-      "street": "Brabantstraat", 
-      "lon": 4.405579682089052
+      "street": "Brabantstraat"
     }
-  ], 
-  "name": "Brabantstraat"
+  ]
 }

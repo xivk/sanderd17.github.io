@@ -1,20 +1,18 @@
 {
-  "pcode": 2360, 
   "addresses": [
     {
-      "lat": 51.31735782499456, 
       "housenumber": "3", 
+      "lat": 51.31735782499456, 
+      "lon": 5.012848321233559, 
       "pcode": 2360, 
-      "street": "Biesveld", 
-      "lon": 5.012848321233559
+      "street": "Biesveld"
     }, 
     {
-      "lat": 51.317523359460566, 
       "housenumber": "7", 
+      "lat": 51.317523359460566, 
+      "lon": 5.011928468940583, 
       "pcode": 2360, 
-      "street": "Biesveld", 
-      "lon": 5.011928468940583
+      "street": "Biesveld"
     }
-  ], 
-  "name": "Biesveld"
+  ]
 }

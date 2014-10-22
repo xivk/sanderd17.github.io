@@ -1,27 +1,25 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.048160529512494, 
       "housenumber": "2", 
+      "lat": 51.048160529512494, 
+      "lon": 3.703337385764791, 
       "pcode": 9000, 
-      "street": "Watersportlaan", 
-      "lon": 3.703337385764791
+      "street": "Watersportlaan"
     }, 
     {
-      "lat": 51.04822366417965, 
       "housenumber": "3", 
+      "lat": 51.04822366417965, 
+      "lon": 3.7017356867692035, 
       "pcode": 9000, 
-      "street": "Watersportlaan", 
-      "lon": 3.7017356867692035
+      "street": "Watersportlaan"
     }, 
     {
-      "lat": 51.04917945924939, 
       "housenumber": "5", 
+      "lat": 51.04917945924939, 
+      "lon": 3.7002684206026486, 
       "pcode": 9000, 
-      "street": "Watersportlaan", 
-      "lon": 3.7002684206026486
+      "street": "Watersportlaan"
     }
-  ], 
-  "name": "Watersportlaan"
+  ]
 }

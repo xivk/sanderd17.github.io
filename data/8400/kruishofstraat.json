@@ -1,25 +1,23 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.204772530812505, 
       "housenumber": "1", 
+      "lat": 51.204772530812505, 
+      "lon": 2.880032552634621, 
       "pcode": 8400, 
-      "street": "Kruishofstraat", 
-      "lon": 2.880032552634621
+      "street": "Kruishofstraat"
     }, 
     {
-      "lat": 51.20580203192708, 
       "housenumber": "2", 
+      "lat": 51.20580203192708, 
+      "lon": 2.8771813357363785, 
       "pcode": 8400, 
-      "street": "Kruishofstraat", 
-      "lon": 2.8771813357363785
+      "street": "Kruishofstraat"
     }, 
     {
+      "housenumber": "ZN", 
       "pcode": 8400, 
-      "street": "Kruishofstraat", 
-      "housenumber": "ZN"
+      "street": "Kruishofstraat"
     }
-  ], 
-  "name": "Kruishofstraat"
+  ]
 }

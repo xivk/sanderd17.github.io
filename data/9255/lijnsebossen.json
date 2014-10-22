@@ -1,20 +1,18 @@
 {
-  "pcode": 9255, 
   "addresses": [
     {
-      "lat": 51.01275747072897, 
       "housenumber": "1", 
+      "lat": 51.01275747072897, 
+      "lon": 4.175955273520311, 
       "pcode": 9255, 
-      "street": "Lijnsebossen", 
-      "lon": 4.175955273520311
+      "street": "Lijnsebossen"
     }, 
     {
-      "lat": 51.01281928642309, 
       "housenumber": "1A", 
+      "lat": 51.01281928642309, 
+      "lon": 4.176544104247341, 
       "pcode": 9255, 
-      "street": "Lijnsebossen", 
-      "lon": 4.176544104247341
+      "street": "Lijnsebossen"
     }
-  ], 
-  "name": "Lijnsebossen"
+  ]
 }

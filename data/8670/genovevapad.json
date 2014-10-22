@@ -1,25 +1,23 @@
 {
-  "pcode": 8670, 
   "addresses": [
     {
-      "lat": 51.10929088262555, 
       "housenumber": "3", 
+      "lat": 51.10929088262555, 
+      "lon": 2.6088064334139887, 
       "pcode": 8670, 
-      "street": "Genovevapad", 
-      "lon": 2.6088064334139887
+      "street": "Genovevapad"
     }, 
     {
-      "lat": 51.109384310017774, 
       "housenumber": "4", 
+      "lat": 51.109384310017774, 
+      "lon": 2.609240980287934, 
       "pcode": 8670, 
-      "street": "Genovevapad", 
-      "lon": 2.609240980287934
+      "street": "Genovevapad"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 8670, 
-      "street": "Genovevapad", 
-      "housenumber": "8"
+      "street": "Genovevapad"
     }
-  ], 
-  "name": "Genovevapad"
+  ]
 }

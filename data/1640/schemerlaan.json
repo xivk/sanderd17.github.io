@@ -1,20 +1,18 @@
 {
-  "pcode": 1640, 
   "addresses": [
     {
-      "lat": 50.7409143603697, 
       "housenumber": "3", 
+      "lat": 50.7409143603697, 
+      "lon": 4.396891108762738, 
       "pcode": 1640, 
-      "street": "Schemerlaan", 
-      "lon": 4.396891108762738
+      "street": "Schemerlaan"
     }, 
     {
-      "lat": 50.74060579916859, 
       "housenumber": "5", 
+      "lat": 50.74060579916859, 
+      "lon": 4.397384085840249, 
       "pcode": 1640, 
-      "street": "Schemerlaan", 
-      "lon": 4.397384085840249
+      "street": "Schemerlaan"
     }
-  ], 
-  "name": "Schemerlaan"
+  ]
 }

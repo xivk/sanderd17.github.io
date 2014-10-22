@@ -1,44 +1,42 @@
 {
-  "pcode": 8670, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8670, 
-      "street": "Wepionstraat", 
-      "housenumber": "1"
+      "street": "Wepionstraat"
     }, 
     {
-      "lat": 51.13202149060156, 
       "housenumber": "101", 
+      "lat": 51.13202149060156, 
+      "lon": 2.673293410287143, 
       "pcode": 8670, 
-      "street": "Wepionstraat", 
-      "lon": 2.673293410287143
+      "street": "Wepionstraat"
     }, 
     {
-      "lat": 51.13198369078178, 
       "housenumber": "2", 
+      "lat": 51.13198369078178, 
+      "lon": 2.67335965727303, 
       "pcode": 8670, 
-      "street": "Wepionstraat", 
-      "lon": 2.67335965727303
+      "street": "Wepionstraat"
     }, 
     {
-      "lat": 51.1317093247488, 
       "housenumber": "3", 
+      "lat": 51.1317093247488, 
+      "lon": 2.6723611887127663, 
       "pcode": 8670, 
-      "street": "Wepionstraat", 
-      "lon": 2.6723611887127663
+      "street": "Wepionstraat"
     }, 
     {
-      "lat": 51.13211060442893, 
       "housenumber": "5", 
+      "lat": 51.13211060442893, 
+      "lon": 2.672762311719741, 
       "pcode": 8670, 
-      "street": "Wepionstraat", 
-      "lon": 2.672762311719741
+      "street": "Wepionstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8670, 
-      "street": "Wepionstraat", 
-      "housenumber": "7"
+      "street": "Wepionstraat"
     }
-  ], 
-  "name": "Wepionstraat"
+  ]
 }

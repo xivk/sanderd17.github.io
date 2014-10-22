@@ -1,27 +1,25 @@
 {
-  "pcode": 3945, 
   "addresses": [
     {
-      "lat": 51.09860953189891, 
       "housenumber": "1", 
+      "lat": 51.09860953189891, 
+      "lon": 5.162597604559416, 
       "pcode": 3945, 
-      "street": "Fazantenweg", 
-      "lon": 5.162597604559416
+      "street": "Fazantenweg"
     }, 
     {
-      "lat": 51.098598492758704, 
       "housenumber": "2", 
+      "lat": 51.098598492758704, 
+      "lon": 5.162568292576238, 
       "pcode": 3945, 
-      "street": "Fazantenweg", 
-      "lon": 5.162568292576238
+      "street": "Fazantenweg"
     }, 
     {
-      "lat": 51.098517790494164, 
       "housenumber": "3", 
+      "lat": 51.098517790494164, 
+      "lon": 5.161456913351014, 
       "pcode": 3945, 
-      "street": "Fazantenweg", 
-      "lon": 5.161456913351014
+      "street": "Fazantenweg"
     }
-  ], 
-  "name": "Fazantenweg"
+  ]
 }

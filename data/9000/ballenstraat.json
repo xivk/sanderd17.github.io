@@ -1,53 +1,51 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05693553814005, 
       "housenumber": "1", 
+      "lat": 51.05693553814005, 
+      "lon": 3.72208572530325, 
       "pcode": 9000, 
-      "street": "Ballenstraat", 
-      "lon": 3.72208572530325
+      "street": "Ballenstraat"
     }, 
     {
-      "lat": 51.05741561079235, 
       "housenumber": "12", 
+      "lat": 51.05741561079235, 
+      "lon": 3.721880973594837, 
       "pcode": 9000, 
-      "street": "Ballenstraat", 
-      "lon": 3.721880973594837
+      "street": "Ballenstraat"
     }, 
     {
-      "lat": 51.05717838869126, 
       "housenumber": "2", 
+      "lat": 51.05717838869126, 
+      "lon": 3.722094924892205, 
       "pcode": 9000, 
-      "street": "Ballenstraat", 
-      "lon": 3.722094924892205
+      "street": "Ballenstraat"
     }, 
     {
-      "lat": 51.057201276786714, 
       "housenumber": "2A", 
+      "lat": 51.057201276786714, 
+      "lon": 3.7221050214669202, 
       "pcode": 9000, 
-      "street": "Ballenstraat", 
-      "lon": 3.7221050214669202
+      "street": "Ballenstraat"
     }, 
     {
-      "lat": 51.05707769046234, 
       "housenumber": "3", 
+      "lat": 51.05707769046234, 
+      "lon": 3.722009591629801, 
       "pcode": 9000, 
-      "street": "Ballenstraat", 
-      "lon": 3.722009591629801
+      "street": "Ballenstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9000, 
-      "street": "Ballenstraat", 
-      "housenumber": "5"
+      "street": "Ballenstraat"
     }, 
     {
-      "lat": 51.05725122190719, 
       "housenumber": "6", 
+      "lat": 51.05725122190719, 
+      "lon": 3.722049416516018, 
       "pcode": 9000, 
-      "street": "Ballenstraat", 
-      "lon": 3.722049416516018
+      "street": "Ballenstraat"
     }
-  ], 
-  "name": "Ballenstraat"
+  ]
 }

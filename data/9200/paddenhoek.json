@@ -1,58 +1,56 @@
 {
-  "pcode": 9200, 
   "addresses": [
     {
-      "lat": 51.00317226321615, 
       "housenumber": "1", 
+      "lat": 51.00317226321615, 
+      "lon": 4.033809874273087, 
       "pcode": 9200, 
-      "street": "Paddenhoek", 
-      "lon": 4.033809874273087
+      "street": "Paddenhoek"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 9200, 
-      "street": "Paddenhoek", 
-      "housenumber": "11"
+      "street": "Paddenhoek"
     }, 
     {
-      "lat": 51.00367684164155, 
       "housenumber": "13", 
+      "lat": 51.00367684164155, 
+      "lon": 4.034798011817931, 
       "pcode": 9200, 
-      "street": "Paddenhoek", 
-      "lon": 4.034798011817931
+      "street": "Paddenhoek"
     }, 
     {
-      "lat": 51.002901552731814, 
       "housenumber": "2", 
+      "lat": 51.002901552731814, 
+      "lon": 4.0339518519244475, 
       "pcode": 9200, 
-      "street": "Paddenhoek", 
-      "lon": 4.0339518519244475
+      "street": "Paddenhoek"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 9200, 
-      "street": "Paddenhoek", 
-      "housenumber": "2A"
+      "street": "Paddenhoek"
     }, 
     {
-      "lat": 51.00331934293563, 
       "housenumber": "3", 
+      "lat": 51.00331934293563, 
+      "lon": 4.034005717726126, 
       "pcode": 9200, 
-      "street": "Paddenhoek", 
-      "lon": 4.034005717726126
+      "street": "Paddenhoek"
     }, 
     {
-      "lat": 51.00334748222581, 
       "housenumber": "5", 
+      "lat": 51.00334748222581, 
+      "lon": 4.034323651603929, 
       "pcode": 9200, 
-      "street": "Paddenhoek", 
-      "lon": 4.034323651603929
+      "street": "Paddenhoek"
     }, 
     {
-      "lat": 51.00351422545887, 
       "housenumber": "7", 
+      "lat": 51.00351422545887, 
+      "lon": 4.034670375666882, 
       "pcode": 9200, 
-      "street": "Paddenhoek", 
-      "lon": 4.034670375666882
+      "street": "Paddenhoek"
     }
-  ], 
-  "name": "Paddenhoek"
+  ]
 }

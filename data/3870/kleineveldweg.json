@@ -1,18 +1,16 @@
 {
-  "pcode": 3870, 
   "addresses": [
     {
+      "housenumber": "6", 
       "pcode": 3870, 
-      "street": "Kleine Veldweg", 
-      "housenumber": "6"
+      "street": "Kleine Veldweg"
     }, 
     {
-      "lat": 50.757315611856626, 
       "housenumber": "8", 
+      "lat": 50.757315611856626, 
+      "lon": 5.328417080473044, 
       "pcode": 3870, 
-      "street": "Kleine Veldweg", 
-      "lon": 5.328417080473044
+      "street": "Kleine Veldweg"
     }
-  ], 
-  "name": "Kleine Veldweg"
+  ]
 }

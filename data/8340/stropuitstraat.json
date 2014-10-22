@@ -1,20 +1,18 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.290365261928, 
       "housenumber": "1", 
+      "lat": 51.290365261928, 
+      "lon": 3.288530297558569, 
       "pcode": 8340, 
-      "street": "Stropuitstraat", 
-      "lon": 3.288530297558569
+      "street": "Stropuitstraat"
     }, 
     {
-      "lat": 51.291204832207974, 
       "housenumber": "2", 
+      "lat": 51.291204832207974, 
+      "lon": 3.289831498679805, 
       "pcode": 8340, 
-      "street": "Stropuitstraat", 
-      "lon": 3.289831498679805
+      "street": "Stropuitstraat"
     }
-  ], 
-  "name": "Stropuitstraat"
+  ]
 }

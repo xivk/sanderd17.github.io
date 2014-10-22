@@ -1,44 +1,42 @@
 {
-  "pcode": 2260, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2260, 
-      "street": "Wittegracht", 
-      "housenumber": "1"
+      "street": "Wittegracht"
     }, 
     {
-      "lat": 51.095506854237314, 
       "housenumber": "11", 
+      "lat": 51.095506854237314, 
+      "lon": 4.829000408463323, 
       "pcode": 2260, 
-      "street": "Wittegracht", 
-      "lon": 4.829000408463323
+      "street": "Wittegracht"
     }, 
     {
-      "lat": 51.09390430762514, 
       "housenumber": "19", 
+      "lat": 51.09390430762514, 
+      "lon": 4.82996285384019, 
       "pcode": 2260, 
-      "street": "Wittegracht", 
-      "lon": 4.82996285384019
+      "street": "Wittegracht"
     }, 
     {
+      "housenumber": "33", 
       "pcode": 2260, 
-      "street": "Wittegracht", 
-      "housenumber": "33"
+      "street": "Wittegracht"
     }, 
     {
-      "lat": 51.09472695667491, 
       "housenumber": "4", 
+      "lat": 51.09472695667491, 
+      "lon": 4.827137550300379, 
       "pcode": 2260, 
-      "street": "Wittegracht", 
-      "lon": 4.827137550300379
+      "street": "Wittegracht"
     }, 
     {
-      "lat": 51.095044679020205, 
       "housenumber": "7", 
+      "lat": 51.095044679020205, 
+      "lon": 4.826754673276295, 
       "pcode": 2260, 
-      "street": "Wittegracht", 
-      "lon": 4.826754673276295
+      "street": "Wittegracht"
     }
-  ], 
-  "name": "Wittegracht"
+  ]
 }

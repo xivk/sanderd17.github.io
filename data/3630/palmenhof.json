@@ -1,20 +1,18 @@
 {
-  "pcode": 3630, 
   "addresses": [
     {
-      "lat": 51.0046661478613, 
       "housenumber": "1", 
+      "lat": 51.0046661478613, 
+      "lon": 5.762066141330944, 
       "pcode": 3630, 
-      "street": "Palmenhof", 
-      "lon": 5.762066141330944
+      "street": "Palmenhof"
     }, 
     {
-      "lat": 51.0061242545098, 
       "housenumber": "2", 
+      "lat": 51.0061242545098, 
+      "lon": 5.764628965043885, 
       "pcode": 3630, 
-      "street": "Palmenhof", 
-      "lon": 5.764628965043885
+      "street": "Palmenhof"
     }
-  ], 
-  "name": "Palmenhof"
+  ]
 }

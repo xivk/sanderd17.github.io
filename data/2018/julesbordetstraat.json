@@ -1,54 +1,52 @@
 {
-  "pcode": 2018, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 2018, 
-      "street": "Jules Bordetstraat", 
-      "housenumber": "10"
+      "street": "Jules Bordetstraat"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 2018, 
-      "street": "Jules Bordetstraat", 
-      "housenumber": "12"
+      "street": "Jules Bordetstraat"
     }, 
     {
-      "lat": 51.2026015936416, 
       "housenumber": "20", 
+      "lat": 51.2026015936416, 
+      "lon": 4.4231713102735, 
       "pcode": 2018, 
-      "street": "Jules Bordetstraat", 
-      "lon": 4.4231713102735
+      "street": "Jules Bordetstraat"
     }, 
     {
+      "housenumber": "21", 
       "pcode": 2018, 
-      "street": "Jules Bordetstraat", 
-      "housenumber": "21"
+      "street": "Jules Bordetstraat"
     }, 
     {
-      "lat": 51.20264646220216, 
       "housenumber": "22", 
+      "lat": 51.20264646220216, 
+      "lon": 4.423136595616066, 
       "pcode": 2018, 
-      "street": "Jules Bordetstraat", 
-      "lon": 4.423136595616066
+      "street": "Jules Bordetstraat"
     }, 
     {
+      "housenumber": "25", 
       "pcode": 2018, 
-      "street": "Jules Bordetstraat", 
-      "housenumber": "25"
+      "street": "Jules Bordetstraat"
     }, 
     {
-      "lat": 51.203070114285765, 
       "housenumber": "29", 
+      "lat": 51.203070114285765, 
+      "lon": 4.422497679699446, 
       "pcode": 2018, 
-      "street": "Jules Bordetstraat", 
-      "lon": 4.422497679699446
+      "street": "Jules Bordetstraat"
     }, 
     {
-      "lat": 51.20304398731952, 
       "housenumber": "30", 
+      "lat": 51.20304398731952, 
+      "lon": 4.423784636232213, 
       "pcode": 2018, 
-      "street": "Jules Bordetstraat", 
-      "lon": 4.423784636232213
+      "street": "Jules Bordetstraat"
     }
-  ], 
-  "name": "Jules Bordetstraat"
+  ]
 }

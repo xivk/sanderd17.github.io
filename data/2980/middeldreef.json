@@ -1,20 +1,18 @@
 {
-  "pcode": 2980, 
   "addresses": [
     {
-      "lat": 51.261632117914765, 
       "housenumber": "115", 
+      "lat": 51.261632117914765, 
+      "lon": 4.6811871556078835, 
       "pcode": 2980, 
-      "street": "Middeldreef", 
-      "lon": 4.6811871556078835
+      "street": "Middeldreef"
     }, 
     {
-      "lat": 51.26830674794403, 
       "housenumber": "9", 
+      "lat": 51.26830674794403, 
+      "lon": 4.686609314888626, 
       "pcode": 2980, 
-      "street": "Middeldreef", 
-      "lon": 4.686609314888626
+      "street": "Middeldreef"
     }
-  ], 
-  "name": "Middeldreef"
+  ]
 }

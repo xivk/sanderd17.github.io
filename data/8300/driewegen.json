@@ -1,27 +1,25 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.33587535694943, 
       "housenumber": "10", 
+      "lat": 51.33587535694943, 
+      "lon": 3.2961319686894983, 
       "pcode": 8300, 
-      "street": "Driewegen", 
-      "lon": 3.2961319686894983
+      "street": "Driewegen"
     }, 
     {
-      "lat": 51.335730465083095, 
       "housenumber": "21", 
+      "lat": 51.335730465083095, 
+      "lon": 3.29679914440738, 
       "pcode": 8300, 
-      "street": "Driewegen", 
-      "lon": 3.29679914440738
+      "street": "Driewegen"
     }, 
     {
-      "lat": 51.33554756437323, 
       "housenumber": "23", 
+      "lat": 51.33554756437323, 
+      "lon": 3.2968116803378704, 
       "pcode": 8300, 
-      "street": "Driewegen", 
-      "lon": 3.2968116803378704
+      "street": "Driewegen"
     }
-  ], 
-  "name": "Driewegen"
+  ]
 }

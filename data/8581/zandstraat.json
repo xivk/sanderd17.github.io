@@ -1,32 +1,30 @@
 {
-  "pcode": 8581, 
   "addresses": [
     {
-      "lat": 50.79341444445797, 
       "housenumber": "1", 
+      "lat": 50.79341444445797, 
+      "lon": 3.4878391784744154, 
       "pcode": 8581, 
-      "street": "Zandstraat", 
-      "lon": 3.4878391784744154
+      "street": "Zandstraat"
     }, 
     {
+      "housenumber": "20", 
       "pcode": 8581, 
-      "street": "Zandstraat", 
-      "housenumber": "20"
+      "street": "Zandstraat"
     }, 
     {
-      "lat": 50.792712255258856, 
       "housenumber": "3", 
+      "lat": 50.792712255258856, 
+      "lon": 3.486864109812729, 
       "pcode": 8581, 
-      "street": "Zandstraat", 
-      "lon": 3.486864109812729
+      "street": "Zandstraat"
     }, 
     {
-      "lat": 50.79412225791704, 
       "housenumber": "4", 
+      "lat": 50.79412225791704, 
+      "lon": 3.4878045205595067, 
       "pcode": 8581, 
-      "street": "Zandstraat", 
-      "lon": 3.4878045205595067
+      "street": "Zandstraat"
     }
-  ], 
-  "name": "Zandstraat"
+  ]
 }

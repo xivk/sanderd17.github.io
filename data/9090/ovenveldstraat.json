@@ -1,46 +1,44 @@
 {
-  "pcode": 9090, 
   "addresses": [
     {
-      "lat": 50.99550228950031, 
       "housenumber": "1", 
+      "lat": 50.99550228950031, 
+      "lon": 3.802778049619273, 
       "pcode": 9090, 
-      "street": "Ovenveldstraat", 
-      "lon": 3.802778049619273
+      "street": "Ovenveldstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9090, 
-      "street": "Ovenveldstraat", 
-      "housenumber": "2"
+      "street": "Ovenveldstraat"
     }, 
     {
-      "lat": 50.995304229732454, 
       "housenumber": "3", 
+      "lat": 50.995304229732454, 
+      "lon": 3.802810495518744, 
       "pcode": 9090, 
-      "street": "Ovenveldstraat", 
-      "lon": 3.802810495518744
+      "street": "Ovenveldstraat"
     }, 
     {
-      "lat": 50.99512728877063, 
       "housenumber": "5", 
+      "lat": 50.99512728877063, 
+      "lon": 3.8029539377001935, 
       "pcode": 9090, 
-      "street": "Ovenveldstraat", 
-      "lon": 3.8029539377001935
+      "street": "Ovenveldstraat"
     }, 
     {
-      "lat": 50.994904926462624, 
       "housenumber": "7", 
+      "lat": 50.994904926462624, 
+      "lon": 3.8029611777362438, 
       "pcode": 9090, 
-      "street": "Ovenveldstraat", 
-      "lon": 3.8029611777362438
+      "street": "Ovenveldstraat"
     }, 
     {
-      "lat": 50.9948092752133, 
       "housenumber": "9", 
+      "lat": 50.9948092752133, 
+      "lon": 3.8069233343961515, 
       "pcode": 9090, 
-      "street": "Ovenveldstraat", 
-      "lon": 3.8069233343961515
+      "street": "Ovenveldstraat"
     }
-  ], 
-  "name": "Ovenveldstraat"
+  ]
 }

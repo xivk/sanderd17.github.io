@@ -1,27 +1,25 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.97807807023217, 
       "housenumber": "2", 
+      "lat": 50.97807807023217, 
+      "lon": 5.525302350523359, 
       "pcode": 3600, 
-      "street": "Pachthofstraat", 
-      "lon": 5.525302350523359
+      "street": "Pachthofstraat"
     }, 
     {
-      "lat": 50.978258851908535, 
       "housenumber": "4", 
+      "lat": 50.978258851908535, 
+      "lon": 5.525111713487221, 
       "pcode": 3600, 
-      "street": "Pachthofstraat", 
-      "lon": 5.525111713487221
+      "street": "Pachthofstraat"
     }, 
     {
-      "lat": 50.97805165280213, 
       "housenumber": "7", 
+      "lat": 50.97805165280213, 
+      "lon": 5.5246429165672675, 
       "pcode": 3600, 
-      "street": "Pachthofstraat", 
-      "lon": 5.5246429165672675
+      "street": "Pachthofstraat"
     }
-  ], 
-  "name": "Pachthofstraat"
+  ]
 }

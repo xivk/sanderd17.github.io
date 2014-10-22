@@ -1,20 +1,18 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
-      "lat": 50.947553762676606, 
       "housenumber": "2", 
+      "lat": 50.947553762676606, 
+      "lon": 4.454277247172787, 
       "pcode": 1800, 
-      "street": "Schoewever", 
-      "lon": 4.454277247172787
+      "street": "Schoewever"
     }, 
     {
-      "lat": 50.94738261690922, 
       "housenumber": "4", 
+      "lat": 50.94738261690922, 
+      "lon": 4.454018661324581, 
       "pcode": 1800, 
-      "street": "Schoewever", 
-      "lon": 4.454018661324581
+      "street": "Schoewever"
     }
-  ], 
-  "name": "Schoewever"
+  ]
 }

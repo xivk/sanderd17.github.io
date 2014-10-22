@@ -1,20 +1,18 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.964540209258, 
       "housenumber": "1", 
+      "lat": 50.964540209258, 
+      "lon": 3.110919810293, 
       "pcode": 8800, 
-      "street": "Biezenhof C", 
-      "lon": 3.110919810293
+      "street": "Biezenhof C"
     }, 
     {
-      "lat": 50.964431509672075, 
       "housenumber": "2", 
+      "lat": 50.964431509672075, 
+      "lon": 3.110986649188103, 
       "pcode": 8800, 
-      "street": "Biezenhof C", 
-      "lon": 3.110986649188103
+      "street": "Biezenhof C"
     }
-  ], 
-  "name": "Biezenhof C"
+  ]
 }

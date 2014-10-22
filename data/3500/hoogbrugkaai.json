@@ -1,18 +1,16 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
+      "housenumber": "71", 
       "pcode": 3500, 
-      "street": "Hoogbrugkaai", 
-      "housenumber": "71"
+      "street": "Hoogbrugkaai"
     }, 
     {
-      "lat": 50.94372154287715, 
       "housenumber": "91", 
+      "lat": 50.94372154287715, 
+      "lon": 5.334849805570856, 
       "pcode": 3500, 
-      "street": "Hoogbrugkaai", 
-      "lon": 5.334849805570856
+      "street": "Hoogbrugkaai"
     }
-  ], 
-  "name": "Hoogbrugkaai"
+  ]
 }

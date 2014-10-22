@@ -1,28 +1,26 @@
 {
-  "pcode": 3290, 
   "addresses": [
     {
+      "housenumber": "7", 
       "pcode": 3290, 
-      "street": "Bogaardenstraat", 
-      "housenumber": "7"
+      "street": "Bogaardenstraat"
     }, 
     {
+      "housenumber": "7B", 
       "pcode": 3290, 
-      "street": "Bogaardenstraat", 
-      "housenumber": "7B"
+      "street": "Bogaardenstraat"
     }, 
     {
+      "housenumber": "7C", 
       "pcode": 3290, 
-      "street": "Bogaardenstraat", 
-      "housenumber": "7C"
+      "street": "Bogaardenstraat"
     }, 
     {
-      "lat": 50.988233307093665, 
       "housenumber": "7D", 
+      "lat": 50.988233307093665, 
+      "lon": 5.057001808449164, 
       "pcode": 3290, 
-      "street": "Bogaardenstraat", 
-      "lon": 5.057001808449164
+      "street": "Bogaardenstraat"
     }
-  ], 
-  "name": "Bogaardenstraat"
+  ]
 }

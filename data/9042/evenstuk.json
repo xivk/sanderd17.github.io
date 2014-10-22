@@ -1,20 +1,18 @@
 {
-  "pcode": 9042, 
   "addresses": [
     {
-      "lat": 51.130892243322165, 
       "housenumber": "15", 
+      "lat": 51.130892243322165, 
+      "lon": 3.8012000595302395, 
       "pcode": 9042, 
-      "street": "Evenstuk", 
-      "lon": 3.8012000595302395
+      "street": "Evenstuk"
     }, 
     {
-      "lat": 51.12774516851889, 
       "housenumber": "4", 
+      "lat": 51.12774516851889, 
+      "lon": 3.793645248188567, 
       "pcode": 9042, 
-      "street": "Evenstuk", 
-      "lon": 3.793645248188567
+      "street": "Evenstuk"
     }
-  ], 
-  "name": "Evenstuk"
+  ]
 }

@@ -1,44 +1,42 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2030, 
-      "street": "Henry van de Veldestraat", 
-      "housenumber": "1"
+      "street": "Henry van de Veldestraat"
     }, 
     {
-      "lat": 51.271842038580786, 
       "housenumber": "2", 
+      "lat": 51.271842038580786, 
+      "lon": 4.413867069281252, 
       "pcode": 2030, 
-      "street": "Henry van de Veldestraat", 
-      "lon": 4.413867069281252
+      "street": "Henry van de Veldestraat"
     }, 
     {
-      "lat": 51.271574811573934, 
       "housenumber": "3", 
+      "lat": 51.271574811573934, 
+      "lon": 4.413886866855083, 
       "pcode": 2030, 
-      "street": "Henry van de Veldestraat", 
-      "lon": 4.413886866855083
+      "street": "Henry van de Veldestraat"
     }, 
     {
-      "lat": 51.27157364454994, 
       "housenumber": "4", 
+      "lat": 51.27157364454994, 
+      "lon": 4.413883140204581, 
       "pcode": 2030, 
-      "street": "Henry van de Veldestraat", 
-      "lon": 4.413883140204581
+      "street": "Henry van de Veldestraat"
     }, 
     {
-      "lat": 51.271305791000536, 
       "housenumber": "5", 
+      "lat": 51.271305791000536, 
+      "lon": 4.413896059144789, 
       "pcode": 2030, 
-      "street": "Henry van de Veldestraat", 
-      "lon": 4.413896059144789
+      "street": "Henry van de Veldestraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2030, 
-      "street": "Henry van de Veldestraat", 
-      "housenumber": "6"
+      "street": "Henry van de Veldestraat"
     }
-  ], 
-  "name": "Henry van de Veldestraat"
+  ]
 }

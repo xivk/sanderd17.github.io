@@ -1,27 +1,25 @@
 {
-  "pcode": 2440, 
   "addresses": [
     {
-      "lat": 51.1859347152642, 
       "housenumber": "1", 
+      "lat": 51.1859347152642, 
+      "lon": 4.95172254195771, 
       "pcode": 2440, 
-      "street": "Hulter", 
-      "lon": 4.95172254195771
+      "street": "Hulter"
     }, 
     {
-      "lat": 51.185350432058456, 
       "housenumber": "8", 
+      "lat": 51.185350432058456, 
+      "lon": 4.951069604648421, 
       "pcode": 2440, 
-      "street": "Hulter", 
-      "lon": 4.951069604648421
+      "street": "Hulter"
     }, 
     {
-      "lat": 51.185596831984654, 
       "housenumber": "9", 
+      "lat": 51.185596831984654, 
+      "lon": 4.950118108262143, 
       "pcode": 2440, 
-      "street": "Hulter", 
-      "lon": 4.950118108262143
+      "street": "Hulter"
     }
-  ], 
-  "name": "Hulter"
+  ]
 }

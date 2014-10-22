@@ -1,44 +1,42 @@
 {
-  "pcode": 2340, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2340, 
-      "street": "Stenen Brug", 
-      "housenumber": "1"
+      "street": "Stenen Brug"
     }, 
     {
-      "lat": 51.31762716635506, 
       "housenumber": "12", 
+      "lat": 51.31762716635506, 
+      "lon": 4.870953457378339, 
       "pcode": 2340, 
-      "street": "Stenen Brug", 
-      "lon": 4.870953457378339
+      "street": "Stenen Brug"
     }, 
     {
-      "lat": 51.31779047462219, 
       "housenumber": "14", 
+      "lat": 51.31779047462219, 
+      "lon": 4.871167074668924, 
       "pcode": 2340, 
-      "street": "Stenen Brug", 
-      "lon": 4.871167074668924
+      "street": "Stenen Brug"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 2340, 
-      "street": "Stenen Brug", 
-      "housenumber": "1B"
+      "street": "Stenen Brug"
     }, 
     {
-      "lat": 51.31702409769313, 
       "housenumber": "2", 
+      "lat": 51.31702409769313, 
+      "lon": 4.869819852599412, 
       "pcode": 2340, 
-      "street": "Stenen Brug", 
-      "lon": 4.869819852599412
+      "street": "Stenen Brug"
     }, 
     {
-      "lat": 51.31715272273669, 
       "housenumber": "6", 
+      "lat": 51.31715272273669, 
+      "lon": 4.8703918127550585, 
       "pcode": 2340, 
-      "street": "Stenen Brug", 
-      "lon": 4.8703918127550585
+      "street": "Stenen Brug"
     }
-  ], 
-  "name": "Stenen Brug"
+  ]
 }

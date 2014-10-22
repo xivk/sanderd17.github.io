@@ -1,20 +1,18 @@
 {
-  "pcode": 9406, 
   "addresses": [
     {
-      "lat": 50.84153652953616, 
       "housenumber": "1", 
+      "lat": 50.84153652953616, 
+      "lon": 4.013766698579468, 
       "pcode": 9406, 
-      "street": "Vijversweg", 
-      "lon": 4.013766698579468
+      "street": "Vijversweg"
     }, 
     {
-      "lat": 50.841853214964175, 
       "housenumber": "3", 
+      "lat": 50.841853214964175, 
+      "lon": 4.013433213842629, 
       "pcode": 9406, 
-      "street": "Vijversweg", 
-      "lon": 4.013433213842629
+      "street": "Vijversweg"
     }
-  ], 
-  "name": "Vijversweg"
+  ]
 }

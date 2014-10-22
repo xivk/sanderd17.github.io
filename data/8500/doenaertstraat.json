@@ -1,37 +1,35 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.812259126215224, 
       "housenumber": "11", 
+      "lat": 50.812259126215224, 
+      "lon": 3.245545839293751, 
       "pcode": 8500, 
-      "street": "Doenaertstraat", 
-      "lon": 3.245545839293751
+      "street": "Doenaertstraat"
     }, 
     {
-      "lat": 50.81226528997022, 
       "housenumber": "13", 
+      "lat": 50.81226528997022, 
+      "lon": 3.246809503716, 
       "pcode": 8500, 
-      "street": "Doenaertstraat", 
-      "lon": 3.246809503716
+      "street": "Doenaertstraat"
     }, 
     {
+      "housenumber": "15", 
       "pcode": 8500, 
-      "street": "Doenaertstraat", 
-      "housenumber": "15"
+      "street": "Doenaertstraat"
     }, 
     {
+      "housenumber": "17", 
       "pcode": 8500, 
-      "street": "Doenaertstraat", 
-      "housenumber": "17"
+      "street": "Doenaertstraat"
     }, 
     {
-      "lat": 50.81226616330081, 
       "housenumber": "18", 
+      "lat": 50.81226616330081, 
+      "lon": 3.243410416624408, 
       "pcode": 8500, 
-      "street": "Doenaertstraat", 
-      "lon": 3.243410416624408
+      "street": "Doenaertstraat"
     }
-  ], 
-  "name": "Doenaertstraat"
+  ]
 }

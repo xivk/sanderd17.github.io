@@ -1,27 +1,25 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.76060257574611, 
       "housenumber": "1", 
+      "lat": 50.76060257574611, 
+      "lon": 3.597858856280996, 
       "pcode": 9600, 
-      "street": "Abel Regibostraat", 
-      "lon": 3.597858856280996
+      "street": "Abel Regibostraat"
     }, 
     {
-      "lat": 50.760032001035604, 
       "housenumber": "3", 
+      "lat": 50.760032001035604, 
+      "lon": 3.597181033763424, 
       "pcode": 9600, 
-      "street": "Abel Regibostraat", 
-      "lon": 3.597181033763424
+      "street": "Abel Regibostraat"
     }, 
     {
-      "lat": 50.76042167522184, 
       "housenumber": "4", 
+      "lat": 50.76042167522184, 
+      "lon": 3.5968866377093156, 
       "pcode": 9600, 
-      "street": "Abel Regibostraat", 
-      "lon": 3.5968866377093156
+      "street": "Abel Regibostraat"
     }
-  ], 
-  "name": "Abel Regibostraat"
+  ]
 }

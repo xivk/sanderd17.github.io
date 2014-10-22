@@ -1,39 +1,37 @@
 {
-  "pcode": 9100, 
   "addresses": [
     {
-      "lat": 51.159324086208294, 
       "housenumber": "1", 
+      "lat": 51.159324086208294, 
+      "lon": 4.134805152571471, 
       "pcode": 9100, 
-      "street": "Sint-Jansstraat", 
-      "lon": 4.134805152571471
+      "street": "Sint-Jansstraat"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 9100, 
-      "street": "Sint-Jansstraat", 
-      "housenumber": "1B"
+      "street": "Sint-Jansstraat"
     }, 
     {
-      "lat": 51.159072646639416, 
       "housenumber": "2", 
+      "lat": 51.159072646639416, 
+      "lon": 4.135246819062352, 
       "pcode": 9100, 
-      "street": "Sint-Jansstraat", 
-      "lon": 4.135246819062352
+      "street": "Sint-Jansstraat"
     }, 
     {
-      "lat": 51.15903099112378, 
       "housenumber": "3", 
+      "lat": 51.15903099112378, 
+      "lon": 4.134681112092662, 
       "pcode": 9100, 
-      "street": "Sint-Jansstraat", 
-      "lon": 4.134681112092662
+      "street": "Sint-Jansstraat"
     }, 
     {
-      "lat": 51.15877866509464, 
       "housenumber": "5", 
+      "lat": 51.15877866509464, 
+      "lon": 4.134719109671926, 
       "pcode": 9100, 
-      "street": "Sint-Jansstraat", 
-      "lon": 4.134719109671926
+      "street": "Sint-Jansstraat"
     }
-  ], 
-  "name": "Sint-Jansstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9150, 
   "addresses": [
     {
-      "lat": 51.166872720598626, 
       "housenumber": "1", 
+      "lat": 51.166872720598626, 
+      "lon": 4.239222413068716, 
       "pcode": 9150, 
-      "street": "Luirikstraat", 
-      "lon": 4.239222413068716
+      "street": "Luirikstraat"
     }, 
     {
-      "lat": 51.16678563464371, 
       "housenumber": "3", 
+      "lat": 51.16678563464371, 
+      "lon": 4.238495236815087, 
       "pcode": 9150, 
-      "street": "Luirikstraat", 
-      "lon": 4.238495236815087
+      "street": "Luirikstraat"
     }
-  ], 
-  "name": "Luirikstraat"
+  ]
 }

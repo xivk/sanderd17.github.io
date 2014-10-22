@@ -1,18 +1,16 @@
 {
-  "pcode": 3940, 
   "addresses": [
     {
-      "lat": 51.1442519103518, 
       "housenumber": "25", 
+      "lat": 51.1442519103518, 
+      "lon": 5.371372699398887, 
       "pcode": 3940, 
-      "street": "Sint Bernardusstraat", 
-      "lon": 5.371372699398887
+      "street": "Sint Bernardusstraat"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 3940, 
-      "street": "Sint Bernardusstraat", 
-      "housenumber": "9"
+      "street": "Sint Bernardusstraat"
     }
-  ], 
-  "name": "Sint Bernardusstraat"
+  ]
 }

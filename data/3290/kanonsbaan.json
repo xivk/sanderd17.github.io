@@ -1,23 +1,21 @@
 {
-  "pcode": 3290, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3290, 
-      "street": "Kanonsbaan", 
-      "housenumber": "1"
+      "street": "Kanonsbaan"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3290, 
-      "street": "Kanonsbaan", 
-      "housenumber": "3"
+      "street": "Kanonsbaan"
     }, 
     {
-      "lat": 50.985604389416245, 
       "housenumber": "4", 
+      "lat": 50.985604389416245, 
+      "lon": 5.042344729549461, 
       "pcode": 3290, 
-      "street": "Kanonsbaan", 
-      "lon": 5.042344729549461
+      "street": "Kanonsbaan"
     }
-  ], 
-  "name": "Kanonsbaan"
+  ]
 }

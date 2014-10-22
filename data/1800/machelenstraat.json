@@ -1,20 +1,18 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
-      "lat": 50.918401648933745, 
       "housenumber": "1", 
+      "lat": 50.918401648933745, 
+      "lon": 4.425673978427954, 
       "pcode": 1800, 
-      "street": "Machelenstraat", 
-      "lon": 4.425673978427954
+      "street": "Machelenstraat"
     }, 
     {
-      "lat": 50.91861902804699, 
       "housenumber": "16", 
+      "lat": 50.91861902804699, 
+      "lon": 4.4269087786558465, 
       "pcode": 1800, 
-      "street": "Machelenstraat", 
-      "lon": 4.4269087786558465
+      "street": "Machelenstraat"
     }
-  ], 
-  "name": "Machelenstraat"
+  ]
 }

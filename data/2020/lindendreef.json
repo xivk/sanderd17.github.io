@@ -1,18 +1,16 @@
 {
-  "pcode": 2020, 
   "addresses": [
     {
-      "lat": 51.18332407471324, 
       "housenumber": "1", 
+      "lat": 51.18332407471324, 
+      "lon": 4.421614108106729, 
       "pcode": 2020, 
-      "street": "Lindendreef", 
-      "lon": 4.421614108106729
+      "street": "Lindendreef"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 2020, 
-      "street": "Lindendreef", 
-      "housenumber": "1A"
+      "street": "Lindendreef"
     }
-  ], 
-  "name": "Lindendreef"
+  ]
 }

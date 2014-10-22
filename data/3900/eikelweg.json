@@ -1,20 +1,18 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
-      "lat": 51.231075672654896, 
       "housenumber": "13", 
+      "lat": 51.231075672654896, 
+      "lon": 5.4023156146087725, 
       "pcode": 3900, 
-      "street": "Eikelweg", 
-      "lon": 5.4023156146087725
+      "street": "Eikelweg"
     }, 
     {
-      "lat": 51.23058597501536, 
       "housenumber": "3", 
+      "lat": 51.23058597501536, 
+      "lon": 5.4023013134127496, 
       "pcode": 3900, 
-      "street": "Eikelweg", 
-      "lon": 5.4023013134127496
+      "street": "Eikelweg"
     }
-  ], 
-  "name": "Eikelweg"
+  ]
 }

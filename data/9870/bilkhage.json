@@ -1,50 +1,48 @@
 {
-  "pcode": 9870, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9870, 
-      "street": "Bilkhage", 
-      "housenumber": "1"
+      "street": "Bilkhage"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9870, 
-      "street": "Bilkhage", 
-      "housenumber": "2"
+      "street": "Bilkhage"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9870, 
-      "street": "Bilkhage", 
-      "housenumber": "3"
+      "street": "Bilkhage"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9870, 
-      "street": "Bilkhage", 
-      "housenumber": "4"
+      "street": "Bilkhage"
     }, 
     {
-      "lat": 50.924647180871645, 
       "housenumber": "5", 
+      "lat": 50.924647180871645, 
+      "lon": 3.447184872625041, 
       "pcode": 9870, 
-      "street": "Bilkhage", 
-      "lon": 3.447184872625041
+      "street": "Bilkhage"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9870, 
-      "street": "Bilkhage", 
-      "housenumber": "6"
+      "street": "Bilkhage"
     }, 
     {
-      "lat": 50.924726596781824, 
       "housenumber": "7", 
+      "lat": 50.924726596781824, 
+      "lon": 3.4471777668137813, 
       "pcode": 9870, 
-      "street": "Bilkhage", 
-      "lon": 3.4471777668137813
+      "street": "Bilkhage"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 9870, 
-      "street": "Bilkhage", 
-      "housenumber": "9"
+      "street": "Bilkhage"
     }
-  ], 
-  "name": "Bilkhage"
+  ]
 }

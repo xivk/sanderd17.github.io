@@ -1,20 +1,18 @@
 {
-  "pcode": 9250, 
   "addresses": [
     {
-      "lat": 51.132597071602504, 
       "housenumber": "44", 
+      "lat": 51.132597071602504, 
+      "lon": 4.038089425281006, 
       "pcode": 9250, 
-      "street": "Beatestraat", 
-      "lon": 4.038089425281006
+      "street": "Beatestraat"
     }, 
     {
-      "lat": 51.13239460662646, 
       "housenumber": "46", 
+      "lat": 51.13239460662646, 
+      "lon": 4.038429726452885, 
       "pcode": 9250, 
-      "street": "Beatestraat", 
-      "lon": 4.038429726452885
+      "street": "Beatestraat"
     }
-  ], 
-  "name": "Beatestraat"
+  ]
 }

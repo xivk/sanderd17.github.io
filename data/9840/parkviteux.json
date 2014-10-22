@@ -1,23 +1,21 @@
 {
-  "pcode": 9840, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9840, 
-      "street": "Park Viteux", 
-      "housenumber": "1"
+      "street": "Park Viteux"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9840, 
-      "street": "Park Viteux", 
-      "housenumber": "3"
+      "street": "Park Viteux"
     }, 
     {
-      "lat": 50.99283230725812, 
       "housenumber": "5", 
+      "lat": 50.99283230725812, 
+      "lon": 3.649376973020175, 
       "pcode": 9840, 
-      "street": "Park Viteux", 
-      "lon": 3.649376973020175
+      "street": "Park Viteux"
     }
-  ], 
-  "name": "Park Viteux"
+  ]
 }

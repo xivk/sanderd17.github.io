@@ -1,34 +1,32 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.91224066132291, 
       "housenumber": "1", 
+      "lat": 50.91224066132291, 
+      "lon": 3.1007466471933975, 
       "pcode": 8800, 
-      "street": "Kasteelhoekstraat", 
-      "lon": 3.1007466471933975
+      "street": "Kasteelhoekstraat"
     }, 
     {
-      "lat": 50.91314599924832, 
       "housenumber": "2", 
+      "lat": 50.91314599924832, 
+      "lon": 3.099928499983353, 
       "pcode": 8800, 
-      "street": "Kasteelhoekstraat", 
-      "lon": 3.099928499983353
+      "street": "Kasteelhoekstraat"
     }, 
     {
-      "lat": 50.911507088923294, 
       "housenumber": "5", 
+      "lat": 50.911507088923294, 
+      "lon": 3.1007943266788716, 
       "pcode": 8800, 
-      "street": "Kasteelhoekstraat", 
-      "lon": 3.1007943266788716
+      "street": "Kasteelhoekstraat"
     }, 
     {
-      "lat": 50.90900151114976, 
       "housenumber": "7", 
+      "lat": 50.90900151114976, 
+      "lon": 3.100580409584487, 
       "pcode": 8800, 
-      "street": "Kasteelhoekstraat", 
-      "lon": 3.100580409584487
+      "street": "Kasteelhoekstraat"
     }
-  ], 
-  "name": "Kasteelhoekstraat"
+  ]
 }

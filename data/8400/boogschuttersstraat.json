@@ -1,44 +1,42 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 8400, 
-      "street": "Boogschuttersstraat", 
-      "housenumber": "11"
+      "street": "Boogschuttersstraat"
     }, 
     {
+      "housenumber": "19", 
       "pcode": 8400, 
-      "street": "Boogschuttersstraat", 
-      "housenumber": "19"
+      "street": "Boogschuttersstraat"
     }, 
     {
-      "lat": 51.21799990797656, 
       "housenumber": "2", 
+      "lat": 51.21799990797656, 
+      "lon": 2.9170004081517327, 
       "pcode": 8400, 
-      "street": "Boogschuttersstraat", 
-      "lon": 2.9170004081517327
+      "street": "Boogschuttersstraat"
     }, 
     {
-      "lat": 51.21832036148618, 
       "housenumber": "3", 
+      "lat": 51.21832036148618, 
+      "lon": 2.9183744305687247, 
       "pcode": 8400, 
-      "street": "Boogschuttersstraat", 
-      "lon": 2.9183744305687247
+      "street": "Boogschuttersstraat"
     }, 
     {
-      "lat": 51.21825846710592, 
       "housenumber": "4", 
+      "lat": 51.21825846710592, 
+      "lon": 2.917337644007108, 
       "pcode": 8400, 
-      "street": "Boogschuttersstraat", 
-      "lon": 2.917337644007108
+      "street": "Boogschuttersstraat"
     }, 
     {
-      "lat": 51.21854883135518, 
       "housenumber": "6", 
+      "lat": 51.21854883135518, 
+      "lon": 2.917468183448066, 
       "pcode": 8400, 
-      "street": "Boogschuttersstraat", 
-      "lon": 2.917468183448066
+      "street": "Boogschuttersstraat"
     }
-  ], 
-  "name": "Boogschuttersstraat"
+  ]
 }

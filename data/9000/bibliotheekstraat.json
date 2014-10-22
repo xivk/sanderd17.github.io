@@ -1,32 +1,30 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.057667349673714, 
       "housenumber": "10", 
+      "lat": 51.057667349673714, 
+      "lon": 3.7294721596355442, 
       "pcode": 9000, 
-      "street": "Bibliotheekstraat", 
-      "lon": 3.7294721596355442
+      "street": "Bibliotheekstraat"
     }, 
     {
-      "lat": 51.05750838598016, 
       "housenumber": "4", 
+      "lat": 51.05750838598016, 
+      "lon": 3.7293830405116792, 
       "pcode": 9000, 
-      "street": "Bibliotheekstraat", 
-      "lon": 3.7293830405116792
+      "street": "Bibliotheekstraat"
     }, 
     {
-      "lat": 51.057518706304, 
       "housenumber": "6", 
+      "lat": 51.057518706304, 
+      "lon": 3.7295291039321214, 
       "pcode": 9000, 
-      "street": "Bibliotheekstraat", 
-      "lon": 3.7295291039321214
+      "street": "Bibliotheekstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 9000, 
-      "street": "Bibliotheekstraat", 
-      "housenumber": "8"
+      "street": "Bibliotheekstraat"
     }
-  ], 
-  "name": "Bibliotheekstraat"
+  ]
 }

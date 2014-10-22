@@ -1,20 +1,18 @@
 {
-  "pcode": 2450, 
   "addresses": [
     {
-      "lat": 51.114377977815245, 
       "housenumber": "21", 
+      "lat": 51.114377977815245, 
+      "lon": 5.044869390534012, 
       "pcode": 2450, 
-      "street": "Zeggeman", 
-      "lon": 5.044869390534012
+      "street": "Zeggeman"
     }, 
     {
-      "lat": 51.114263591647415, 
       "housenumber": "23", 
+      "lat": 51.114263591647415, 
+      "lon": 5.044234505035773, 
       "pcode": 2450, 
-      "street": "Zeggeman", 
-      "lon": 5.044234505035773
+      "street": "Zeggeman"
     }
-  ], 
-  "name": "Zeggeman"
+  ]
 }

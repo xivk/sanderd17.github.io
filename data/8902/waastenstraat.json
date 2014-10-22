@@ -1,27 +1,25 @@
 {
-  "pcode": 8902, 
   "addresses": [
     {
-      "lat": 50.82548811425191, 
       "housenumber": "1", 
+      "lat": 50.82548811425191, 
+      "lon": 2.9011012862103596, 
       "pcode": 8902, 
-      "street": "Waastenstraat", 
-      "lon": 2.9011012862103596
+      "street": "Waastenstraat"
     }, 
     {
-      "lat": 50.82739143801779, 
       "housenumber": "3", 
+      "lat": 50.82739143801779, 
+      "lon": 2.8980399610090286, 
       "pcode": 8902, 
-      "street": "Waastenstraat", 
-      "lon": 2.8980399610090286
+      "street": "Waastenstraat"
     }, 
     {
-      "lat": 50.82716241714512, 
       "housenumber": "5", 
+      "lat": 50.82716241714512, 
+      "lon": 2.894294064205301, 
       "pcode": 8902, 
-      "street": "Waastenstraat", 
-      "lon": 2.894294064205301
+      "street": "Waastenstraat"
     }
-  ], 
-  "name": "Waastenstraat"
+  ]
 }

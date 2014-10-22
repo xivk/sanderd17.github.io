@@ -1,20 +1,18 @@
 {
-  "pcode": 8510, 
   "addresses": [
     {
-      "lat": 50.79356328247351, 
       "housenumber": "20", 
+      "lat": 50.79356328247351, 
+      "lon": 3.232610013442253, 
       "pcode": 8510, 
-      "street": "Klarenhoek", 
-      "lon": 3.232610013442253
+      "street": "Klarenhoek"
     }, 
     {
-      "lat": 50.79310919351926, 
       "housenumber": "30", 
+      "lat": 50.79310919351926, 
+      "lon": 3.233179142749438, 
       "pcode": 8510, 
-      "street": "Klarenhoek", 
-      "lon": 3.233179142749438
+      "street": "Klarenhoek"
     }
-  ], 
-  "name": "Klarenhoek"
+  ]
 }

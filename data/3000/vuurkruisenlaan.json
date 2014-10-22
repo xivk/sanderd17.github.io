@@ -1,27 +1,25 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.887366985057284, 
       "housenumber": "1", 
+      "lat": 50.887366985057284, 
+      "lon": 4.711864888909879, 
       "pcode": 3000, 
-      "street": "Vuurkruisenlaan", 
-      "lon": 4.711864888909879
+      "street": "Vuurkruisenlaan"
     }, 
     {
-      "lat": 50.88606403337243, 
       "housenumber": "2", 
+      "lat": 50.88606403337243, 
+      "lon": 4.710146147964793, 
       "pcode": 3000, 
-      "street": "Vuurkruisenlaan", 
-      "lon": 4.710146147964793
+      "street": "Vuurkruisenlaan"
     }, 
     {
-      "lat": 50.88588518643037, 
       "housenumber": "4", 
+      "lat": 50.88588518643037, 
+      "lon": 4.710439304161116, 
       "pcode": 3000, 
-      "street": "Vuurkruisenlaan", 
-      "lon": 4.710439304161116
+      "street": "Vuurkruisenlaan"
     }
-  ], 
-  "name": "Vuurkruisenlaan"
+  ]
 }

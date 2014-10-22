@@ -1,20 +1,18 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
-      "lat": 50.75015301660068, 
       "housenumber": "10", 
+      "lat": 50.75015301660068, 
+      "lon": 5.275493108007714, 
       "pcode": 3800, 
-      "street": "Borgwormstraat", 
-      "lon": 5.275493108007714
+      "street": "Borgwormstraat"
     }, 
     {
-      "lat": 50.785846066252205, 
       "housenumber": "27A", 
+      "lat": 50.785846066252205, 
+      "lon": 5.20932535306029, 
       "pcode": 3800, 
-      "street": "Borgwormstraat", 
-      "lon": 5.20932535306029
+      "street": "Borgwormstraat"
     }
-  ], 
-  "name": "Borgwormstraat"
+  ]
 }

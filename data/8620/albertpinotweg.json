@@ -1,42 +1,40 @@
 {
-  "pcode": 8620, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8620, 
-      "street": "Albert Pinotweg", 
-      "housenumber": "1"
+      "street": "Albert Pinotweg"
     }, 
     {
+      "housenumber": "138", 
       "pcode": 8620, 
-      "street": "Albert Pinotweg", 
-      "housenumber": "138"
+      "street": "Albert Pinotweg"
     }, 
     {
-      "lat": 51.145581492070285, 
       "housenumber": "2", 
+      "lat": 51.145581492070285, 
+      "lon": 2.726882469362081, 
       "pcode": 8620, 
-      "street": "Albert Pinotweg", 
-      "lon": 2.726882469362081
+      "street": "Albert Pinotweg"
     }, 
     {
-      "lat": 51.1458898452333, 
       "housenumber": "3", 
+      "lat": 51.1458898452333, 
+      "lon": 2.726446963803351, 
       "pcode": 8620, 
-      "street": "Albert Pinotweg", 
-      "lon": 2.726446963803351
+      "street": "Albert Pinotweg"
     }, 
     {
-      "lat": 51.14611861676824, 
       "housenumber": "5", 
+      "lat": 51.14611861676824, 
+      "lon": 2.7267992695033176, 
       "pcode": 8620, 
-      "street": "Albert Pinotweg", 
-      "lon": 2.7267992695033176
+      "street": "Albert Pinotweg"
     }, 
     {
+      "housenumber": "78", 
       "pcode": 8620, 
-      "street": "Albert Pinotweg", 
-      "housenumber": "78"
+      "street": "Albert Pinotweg"
     }
-  ], 
-  "name": "Albert Pinotweg"
+  ]
 }

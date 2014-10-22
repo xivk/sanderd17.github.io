@@ -1,53 +1,51 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.057900705343485, 
       "housenumber": "1", 
+      "lat": 51.057900705343485, 
+      "lon": 3.7372302713429413, 
       "pcode": 9000, 
-      "street": "Stukwerkersstraat", 
-      "lon": 3.7372302713429413
+      "street": "Stukwerkersstraat"
     }, 
     {
+      "housenumber": "16", 
       "pcode": 9000, 
-      "street": "Stukwerkersstraat", 
-      "housenumber": "16"
+      "street": "Stukwerkersstraat"
     }, 
     {
-      "lat": 51.057768483869026, 
       "housenumber": "18", 
+      "lat": 51.057768483869026, 
+      "lon": 3.737551279842603, 
       "pcode": 9000, 
-      "street": "Stukwerkersstraat", 
-      "lon": 3.737551279842603
+      "street": "Stukwerkersstraat"
     }, 
     {
-      "lat": 51.05791350593662, 
       "housenumber": "3", 
+      "lat": 51.05791350593662, 
+      "lon": 3.7373041286216817, 
       "pcode": 9000, 
-      "street": "Stukwerkersstraat", 
-      "lon": 3.7373041286216817
+      "street": "Stukwerkersstraat"
     }, 
     {
-      "lat": 51.057618323635495, 
       "housenumber": "4", 
+      "lat": 51.057618323635495, 
+      "lon": 3.7373926922162894, 
       "pcode": 9000, 
-      "street": "Stukwerkersstraat", 
-      "lon": 3.7373926922162894
+      "street": "Stukwerkersstraat"
     }, 
     {
-      "lat": 51.05792721450539, 
       "housenumber": "5", 
+      "lat": 51.05792721450539, 
+      "lon": 3.7373796853755925, 
       "pcode": 9000, 
-      "street": "Stukwerkersstraat", 
-      "lon": 3.7373796853755925
+      "street": "Stukwerkersstraat"
     }, 
     {
-      "lat": 51.05792496816687, 
       "housenumber": "7", 
+      "lat": 51.05792496816687, 
+      "lon": 3.7375142246354844, 
       "pcode": 9000, 
-      "street": "Stukwerkersstraat", 
-      "lon": 3.7375142246354844
+      "street": "Stukwerkersstraat"
     }
-  ], 
-  "name": "Stukwerkersstraat"
+  ]
 }

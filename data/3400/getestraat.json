@@ -1,46 +1,44 @@
 {
-  "pcode": 3400, 
   "addresses": [
     {
-      "lat": 50.776021151107074, 
       "housenumber": "1", 
+      "lat": 50.776021151107074, 
+      "lon": 5.003096518198346, 
       "pcode": 3400, 
-      "street": "Getestraat", 
-      "lon": 5.003096518198346
+      "street": "Getestraat"
     }, 
     {
-      "lat": 50.77728814122697, 
       "housenumber": "10", 
+      "lat": 50.77728814122697, 
+      "lon": 5.003489066512848, 
       "pcode": 3400, 
-      "street": "Getestraat", 
-      "lon": 5.003489066512848
+      "street": "Getestraat"
     }, 
     {
-      "lat": 50.77649175438127, 
       "housenumber": "2", 
+      "lat": 50.77649175438127, 
+      "lon": 5.003531771111546, 
       "pcode": 3400, 
-      "street": "Getestraat", 
-      "lon": 5.003531771111546
+      "street": "Getestraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 3400, 
-      "street": "Getestraat", 
-      "housenumber": "2A"
+      "street": "Getestraat"
     }, 
     {
-      "lat": 50.77633083786146, 
       "housenumber": "5", 
+      "lat": 50.77633083786146, 
+      "lon": 5.003166342566004, 
       "pcode": 3400, 
-      "street": "Getestraat", 
-      "lon": 5.003166342566004
+      "street": "Getestraat"
     }, 
     {
-      "lat": 50.77686409031706, 
       "housenumber": "6", 
+      "lat": 50.77686409031706, 
+      "lon": 5.003404792458004, 
       "pcode": 3400, 
-      "street": "Getestraat", 
-      "lon": 5.003404792458004
+      "street": "Getestraat"
     }
-  ], 
-  "name": "Getestraat"
+  ]
 }

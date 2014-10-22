@@ -1,20 +1,18 @@
 {
-  "pcode": 1700, 
   "addresses": [
     {
-      "lat": 50.84211081351079, 
       "housenumber": "39", 
+      "lat": 50.84211081351079, 
+      "lon": 4.275632938471699, 
       "pcode": 1700, 
-      "street": "Alenaborre", 
-      "lon": 4.275632938471699
+      "street": "Alenaborre"
     }, 
     {
-      "lat": 50.84188092654501, 
       "housenumber": "45", 
+      "lat": 50.84188092654501, 
+      "lon": 4.275715738208357, 
       "pcode": 1700, 
-      "street": "Alenaborre", 
-      "lon": 4.275715738208357
+      "street": "Alenaborre"
     }
-  ], 
-  "name": "Alenaborre"
+  ]
 }

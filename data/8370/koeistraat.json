@@ -1,20 +1,18 @@
 {
-  "pcode": 8370, 
   "addresses": [
     {
-      "lat": 51.28999563487126, 
       "housenumber": "155", 
+      "lat": 51.28999563487126, 
+      "lon": 3.1163271592439123, 
       "pcode": 8370, 
-      "street": "Koeistraat", 
-      "lon": 3.1163271592439123
+      "street": "Koeistraat"
     }, 
     {
-      "lat": 51.28937169621504, 
       "housenumber": "157", 
+      "lat": 51.28937169621504, 
+      "lon": 3.1104496770729204, 
       "pcode": 8370, 
-      "street": "Koeistraat", 
-      "lon": 3.1104496770729204
+      "street": "Koeistraat"
     }
-  ], 
-  "name": "Koeistraat"
+  ]
 }

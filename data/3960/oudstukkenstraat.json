@@ -1,20 +1,18 @@
 {
-  "pcode": 3960, 
   "addresses": [
     {
-      "lat": 51.12484674370184, 
       "housenumber": "10", 
+      "lat": 51.12484674370184, 
+      "lon": 5.60455195194493, 
       "pcode": 3960, 
-      "street": "Oudstukkenstraat", 
-      "lon": 5.60455195194493
+      "street": "Oudstukkenstraat"
     }, 
     {
-      "lat": 51.12326458319498, 
       "housenumber": "3", 
+      "lat": 51.12326458319498, 
+      "lon": 5.600636038684831, 
       "pcode": 3960, 
-      "street": "Oudstukkenstraat", 
-      "lon": 5.600636038684831
+      "street": "Oudstukkenstraat"
     }
-  ], 
-  "name": "Oudstukkenstraat"
+  ]
 }

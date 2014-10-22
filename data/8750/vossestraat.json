@@ -1,20 +1,18 @@
 {
-  "pcode": 8750, 
   "addresses": [
     {
-      "lat": 51.055057153368715, 
       "housenumber": "1", 
+      "lat": 51.055057153368715, 
+      "lon": 3.189844721374453, 
       "pcode": 8750, 
-      "street": "Vossestraat", 
-      "lon": 3.189844721374453
+      "street": "Vossestraat"
     }, 
     {
-      "lat": 51.05503853760181, 
       "housenumber": "2", 
+      "lat": 51.05503853760181, 
+      "lon": 3.190374539937721, 
       "pcode": 8750, 
-      "street": "Vossestraat", 
-      "lon": 3.190374539937721
+      "street": "Vossestraat"
     }
-  ], 
-  "name": "Vossestraat"
+  ]
 }

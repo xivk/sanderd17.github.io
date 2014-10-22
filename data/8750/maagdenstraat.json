@@ -1,20 +1,18 @@
 {
-  "pcode": 8750, 
   "addresses": [
     {
-      "lat": 51.06760688108555, 
       "housenumber": "2", 
+      "lat": 51.06760688108555, 
+      "lon": 3.2962267545089716, 
       "pcode": 8750, 
-      "street": "Maagdenstraat", 
-      "lon": 3.2962267545089716
+      "street": "Maagdenstraat"
     }, 
     {
-      "lat": 51.067998892752044, 
       "housenumber": "4", 
+      "lat": 51.067998892752044, 
+      "lon": 3.2966381076212645, 
       "pcode": 8750, 
-      "street": "Maagdenstraat", 
-      "lon": 3.2966381076212645
+      "street": "Maagdenstraat"
     }
-  ], 
-  "name": "Maagdenstraat"
+  ]
 }

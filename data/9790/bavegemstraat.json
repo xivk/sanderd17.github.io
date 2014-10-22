@@ -1,20 +1,18 @@
 {
-  "pcode": 9790, 
   "addresses": [
     {
-      "lat": 50.8591116257889, 
       "housenumber": "1", 
+      "lat": 50.8591116257889, 
+      "lon": 3.5533186300952955, 
       "pcode": 9790, 
-      "street": "Bavegemstraat", 
-      "lon": 3.5533186300952955
+      "street": "Bavegemstraat"
     }, 
     {
-      "lat": 50.85697136945061, 
       "housenumber": "2", 
+      "lat": 50.85697136945061, 
+      "lon": 3.563740039292985, 
       "pcode": 9790, 
-      "street": "Bavegemstraat", 
-      "lon": 3.563740039292985
+      "street": "Bavegemstraat"
     }
-  ], 
-  "name": "Bavegemstraat"
+  ]
 }

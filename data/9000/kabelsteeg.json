@@ -1,13 +1,11 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.084790943475895, 
       "housenumber": "1", 
+      "lat": 51.084790943475895, 
+      "lon": 3.7265552050504693, 
       "pcode": 9000, 
-      "street": "Kabelsteeg", 
-      "lon": 3.7265552050504693
+      "street": "Kabelsteeg"
     }
-  ], 
-  "name": "Kabelsteeg"
+  ]
 }

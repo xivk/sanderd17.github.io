@@ -1,39 +1,37 @@
 {
-  "pcode": 3140, 
   "addresses": [
     {
-      "lat": 51.00821784600723, 
       "housenumber": "1", 
+      "lat": 51.00821784600723, 
+      "lon": 4.63630381940623, 
       "pcode": 3140, 
-      "street": "Kerkuilweg", 
-      "lon": 4.63630381940623
+      "street": "Kerkuilweg"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 3140, 
-      "street": "Kerkuilweg", 
-      "housenumber": "12"
+      "street": "Kerkuilweg"
     }, 
     {
-      "lat": 51.00824442161323, 
       "housenumber": "3", 
+      "lat": 51.00824442161323, 
+      "lon": 4.636475664724014, 
       "pcode": 3140, 
-      "street": "Kerkuilweg", 
-      "lon": 4.636475664724014
+      "street": "Kerkuilweg"
     }, 
     {
-      "lat": 51.008338149937764, 
       "housenumber": "5", 
+      "lat": 51.008338149937764, 
+      "lon": 4.637157276356954, 
       "pcode": 3140, 
-      "street": "Kerkuilweg", 
-      "lon": 4.637157276356954
+      "street": "Kerkuilweg"
     }, 
     {
-      "lat": 51.00836229237319, 
       "housenumber": "7", 
+      "lat": 51.00836229237319, 
+      "lon": 4.637331245885572, 
       "pcode": 3140, 
-      "street": "Kerkuilweg", 
-      "lon": 4.637331245885572
+      "street": "Kerkuilweg"
     }
-  ], 
-  "name": "Kerkuilweg"
+  ]
 }

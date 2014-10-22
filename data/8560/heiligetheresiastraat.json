@@ -1,39 +1,37 @@
 {
-  "pcode": 8560, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 8560, 
-      "street": "Heilige Theresiastraat", 
-      "housenumber": "11"
+      "street": "Heilige Theresiastraat"
     }, 
     {
-      "lat": 50.802651269171406, 
       "housenumber": "13", 
+      "lat": 50.802651269171406, 
+      "lon": 3.1515044849676612, 
       "pcode": 8560, 
-      "street": "Heilige Theresiastraat", 
-      "lon": 3.1515044849676612
+      "street": "Heilige Theresiastraat"
     }, 
     {
-      "lat": 50.8028126750094, 
       "housenumber": "2", 
+      "lat": 50.8028126750094, 
+      "lon": 3.152052082568518, 
       "pcode": 8560, 
-      "street": "Heilige Theresiastraat", 
-      "lon": 3.152052082568518
+      "street": "Heilige Theresiastraat"
     }, 
     {
-      "lat": 50.8024564495552, 
       "housenumber": "7", 
+      "lat": 50.8024564495552, 
+      "lon": 3.151670129398232, 
       "pcode": 8560, 
-      "street": "Heilige Theresiastraat", 
-      "lon": 3.151670129398232
+      "street": "Heilige Theresiastraat"
     }, 
     {
-      "lat": 50.802533004393226, 
       "housenumber": "9", 
+      "lat": 50.802533004393226, 
+      "lon": 3.1516569417064937, 
       "pcode": 8560, 
-      "street": "Heilige Theresiastraat", 
-      "lon": 3.1516569417064937
+      "street": "Heilige Theresiastraat"
     }
-  ], 
-  "name": "Heilige Theresiastraat"
+  ]
 }

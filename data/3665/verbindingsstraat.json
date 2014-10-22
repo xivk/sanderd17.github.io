@@ -1,20 +1,18 @@
 {
-  "pcode": 3665, 
   "addresses": [
     {
-      "lat": 51.00985149591721, 
       "housenumber": "6", 
+      "lat": 51.00985149591721, 
+      "lon": 5.603691930868992, 
       "pcode": 3665, 
-      "street": "Verbindingsstraat", 
-      "lon": 5.603691930868992
+      "street": "Verbindingsstraat"
     }, 
     {
-      "lat": 51.01056210025013, 
       "housenumber": "A2", 
+      "lat": 51.01056210025013, 
+      "lon": 5.601779955449293, 
       "pcode": 3665, 
-      "street": "Verbindingsstraat", 
-      "lon": 5.601779955449293
+      "street": "Verbindingsstraat"
     }
-  ], 
-  "name": "Verbindingsstraat"
+  ]
 }

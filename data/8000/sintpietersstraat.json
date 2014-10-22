@@ -1,32 +1,30 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.25252157299081, 
       "housenumber": "1", 
+      "lat": 51.25252157299081, 
+      "lon": 3.2055476054161525, 
       "pcode": 8000, 
-      "street": "Sint-Pietersstraat", 
-      "lon": 3.2055476054161525
+      "street": "Sint-Pietersstraat"
     }, 
     {
-      "lat": 51.253334557230716, 
       "housenumber": "3", 
+      "lat": 51.253334557230716, 
+      "lon": 3.2054180207065626, 
       "pcode": 8000, 
-      "street": "Sint-Pietersstraat", 
-      "lon": 3.2054180207065626
+      "street": "Sint-Pietersstraat"
     }, 
     {
+      "housenumber": "49", 
       "pcode": 8000, 
-      "street": "Sint-Pietersstraat", 
-      "housenumber": "49"
+      "street": "Sint-Pietersstraat"
     }, 
     {
-      "lat": 51.25617842049145, 
       "housenumber": "5", 
+      "lat": 51.25617842049145, 
+      "lon": 3.204575315561693, 
       "pcode": 8000, 
-      "street": "Sint-Pietersstraat", 
-      "lon": 3.204575315561693
+      "street": "Sint-Pietersstraat"
     }
-  ], 
-  "name": "Sint-Pietersstraat"
+  ]
 }

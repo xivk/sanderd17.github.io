@@ -1,20 +1,18 @@
 {
-  "pcode": 3680, 
   "addresses": [
     {
-      "lat": 51.10029436184817, 
       "housenumber": "11", 
+      "lat": 51.10029436184817, 
+      "lon": 5.806073791024908, 
       "pcode": 3680, 
-      "street": "Processieweg", 
-      "lon": 5.806073791024908
+      "street": "Processieweg"
     }, 
     {
-      "lat": 51.100415265303056, 
       "housenumber": "9", 
+      "lat": 51.100415265303056, 
+      "lon": 5.805743523020222, 
       "pcode": 3680, 
-      "street": "Processieweg", 
-      "lon": 5.805743523020222
+      "street": "Processieweg"
     }
-  ], 
-  "name": "Processieweg"
+  ]
 }

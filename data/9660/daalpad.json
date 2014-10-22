@@ -1,20 +1,18 @@
 {
-  "pcode": 9660, 
   "addresses": [
     {
-      "lat": 50.820003392756405, 
       "housenumber": "1", 
+      "lat": 50.820003392756405, 
+      "lon": 3.749394430312552, 
       "pcode": 9660, 
-      "street": "Daalpad", 
-      "lon": 3.749394430312552
+      "street": "Daalpad"
     }, 
     {
-      "lat": 50.82010308897315, 
       "housenumber": "3", 
+      "lat": 50.82010308897315, 
+      "lon": 3.7492578710972944, 
       "pcode": 9660, 
-      "street": "Daalpad", 
-      "lon": 3.7492578710972944
+      "street": "Daalpad"
     }
-  ], 
-  "name": "Daalpad"
+  ]
 }

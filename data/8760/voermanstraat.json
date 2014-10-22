@@ -1,34 +1,32 @@
 {
-  "pcode": 8760, 
   "addresses": [
     {
-      "lat": 50.93396758488862, 
       "housenumber": "1", 
+      "lat": 50.93396758488862, 
+      "lon": 3.30561355507635, 
       "pcode": 8760, 
-      "street": "Voermanstraat", 
-      "lon": 3.30561355507635
+      "street": "Voermanstraat"
     }, 
     {
-      "lat": 50.93366305502772, 
       "housenumber": "2", 
+      "lat": 50.93366305502772, 
+      "lon": 3.306216709407608, 
       "pcode": 8760, 
-      "street": "Voermanstraat", 
-      "lon": 3.306216709407608
+      "street": "Voermanstraat"
     }, 
     {
-      "lat": 50.93430589196154, 
       "housenumber": "3", 
+      "lat": 50.93430589196154, 
+      "lon": 3.3062606344259997, 
       "pcode": 8760, 
-      "street": "Voermanstraat", 
-      "lon": 3.3062606344259997
+      "street": "Voermanstraat"
     }, 
     {
-      "lat": 50.9341775640215, 
       "housenumber": "4", 
+      "lat": 50.9341775640215, 
+      "lon": 3.3072418053191863, 
       "pcode": 8760, 
-      "street": "Voermanstraat", 
-      "lon": 3.3072418053191863
+      "street": "Voermanstraat"
     }
-  ], 
-  "name": "Voermanstraat"
+  ]
 }

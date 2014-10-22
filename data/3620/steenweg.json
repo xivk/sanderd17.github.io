@@ -1,28 +1,26 @@
 {
-  "pcode": 3620, 
   "addresses": [
     {
+      "housenumber": "110", 
       "pcode": 3620, 
-      "street": "Steenweg", 
-      "housenumber": "110"
+      "street": "Steenweg"
     }, 
     {
-      "lat": 50.921350675382186, 
       "housenumber": "139", 
+      "lat": 50.921350675382186, 
+      "lon": 5.685046521234613, 
       "pcode": 3620, 
-      "street": "Steenweg", 
-      "lon": 5.685046521234613
+      "street": "Steenweg"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 3620, 
-      "street": "Steenweg", 
-      "housenumber": "2A"
+      "street": "Steenweg"
     }, 
     {
+      "housenumber": "63", 
       "pcode": 3620, 
-      "street": "Steenweg", 
-      "housenumber": "63"
+      "street": "Steenweg"
     }
-  ], 
-  "name": "Steenweg"
+  ]
 }

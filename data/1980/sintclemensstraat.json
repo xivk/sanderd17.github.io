@@ -1,58 +1,56 @@
 {
-  "pcode": 1980, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 1980, 
-      "street": "Sint-Clemensstraat", 
-      "housenumber": "1"
+      "street": "Sint-Clemensstraat"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 1980, 
-      "street": "Sint-Clemensstraat", 
-      "housenumber": "1B"
+      "street": "Sint-Clemensstraat"
     }, 
     {
-      "lat": 50.962443884436325, 
       "housenumber": "2", 
+      "lat": 50.962443884436325, 
+      "lon": 4.455978446922017, 
       "pcode": 1980, 
-      "street": "Sint-Clemensstraat", 
-      "lon": 4.455978446922017
+      "street": "Sint-Clemensstraat"
     }, 
     {
-      "lat": 50.96227891848158, 
       "housenumber": "3", 
+      "lat": 50.96227891848158, 
+      "lon": 4.4559970693020245, 
       "pcode": 1980, 
-      "street": "Sint-Clemensstraat", 
-      "lon": 4.4559970693020245
+      "street": "Sint-Clemensstraat"
     }, 
     {
-      "lat": 50.96253636998388, 
       "housenumber": "4", 
+      "lat": 50.96253636998388, 
+      "lon": 4.4563562595273805, 
       "pcode": 1980, 
-      "street": "Sint-Clemensstraat", 
-      "lon": 4.4563562595273805
+      "street": "Sint-Clemensstraat"
     }, 
     {
-      "lat": 50.96223804937376, 
       "housenumber": "5", 
+      "lat": 50.96223804937376, 
+      "lon": 4.456194707516327, 
       "pcode": 1980, 
-      "street": "Sint-Clemensstraat", 
-      "lon": 4.456194707516327
+      "street": "Sint-Clemensstraat"
     }, 
     {
-      "lat": 50.96238605660433, 
       "housenumber": "6", 
+      "lat": 50.96238605660433, 
+      "lon": 4.456494192281497, 
       "pcode": 1980, 
-      "street": "Sint-Clemensstraat", 
-      "lon": 4.456494192281497
+      "street": "Sint-Clemensstraat"
     }, 
     {
-      "lat": 50.96220857482537, 
       "housenumber": "9", 
+      "lat": 50.96220857482537, 
+      "lon": 4.456420835495154, 
       "pcode": 1980, 
-      "street": "Sint-Clemensstraat", 
-      "lon": 4.456420835495154
+      "street": "Sint-Clemensstraat"
     }
-  ], 
-  "name": "Sint-Clemensstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9750, 
   "addresses": [
     {
-      "lat": 50.906111530239045, 
       "housenumber": "1", 
+      "lat": 50.906111530239045, 
+      "lon": 3.5678203096054038, 
       "pcode": 9750, 
-      "street": "Nachtegaalstraat", 
-      "lon": 3.5678203096054038
+      "street": "Nachtegaalstraat"
     }, 
     {
-      "lat": 50.905377996294554, 
       "housenumber": "3", 
+      "lat": 50.905377996294554, 
+      "lon": 3.565363162045526, 
       "pcode": 9750, 
-      "street": "Nachtegaalstraat", 
-      "lon": 3.565363162045526
+      "street": "Nachtegaalstraat"
     }
-  ], 
-  "name": "Nachtegaalstraat"
+  ]
 }

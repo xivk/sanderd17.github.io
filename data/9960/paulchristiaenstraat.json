@@ -1,32 +1,30 @@
 {
-  "pcode": 9960, 
   "addresses": [
     {
-      "lat": 51.20048543722421, 
       "housenumber": "1", 
+      "lat": 51.20048543722421, 
+      "lon": 3.7604753310510457, 
       "pcode": 9960, 
-      "street": "Paul Christiaenstraat", 
-      "lon": 3.7604753310510457
+      "street": "Paul Christiaenstraat"
     }, 
     {
-      "lat": 51.199690140622884, 
       "housenumber": "2", 
+      "lat": 51.199690140622884, 
+      "lon": 3.764322178327612, 
       "pcode": 9960, 
-      "street": "Paul Christiaenstraat", 
-      "lon": 3.764322178327612
+      "street": "Paul Christiaenstraat"
     }, 
     {
-      "lat": 51.19949529665667, 
       "housenumber": "3", 
+      "lat": 51.19949529665667, 
+      "lon": 3.7654556830224113, 
       "pcode": 9960, 
-      "street": "Paul Christiaenstraat", 
-      "lon": 3.7654556830224113
+      "street": "Paul Christiaenstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9960, 
-      "street": "Paul Christiaenstraat", 
-      "housenumber": "5"
+      "street": "Paul Christiaenstraat"
     }
-  ], 
-  "name": "Paul Christiaenstraat"
+  ]
 }

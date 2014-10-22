@@ -1,20 +1,18 @@
 {
-  "pcode": 9400, 
   "addresses": [
     {
-      "lat": 50.81697404076207, 
       "housenumber": "3", 
+      "lat": 50.81697404076207, 
+      "lon": 3.9702659748776377, 
       "pcode": 9400, 
-      "street": "Sint-Rochusstraat", 
-      "lon": 3.9702659748776377
+      "street": "Sint-Rochusstraat"
     }, 
     {
-      "lat": 50.816977971741615, 
       "housenumber": "7", 
+      "lat": 50.816977971741615, 
+      "lon": 3.9707623276604784, 
       "pcode": 9400, 
-      "street": "Sint-Rochusstraat", 
-      "lon": 3.9707623276604784
+      "street": "Sint-Rochusstraat"
     }
-  ], 
-  "name": "Sint-Rochusstraat"
+  ]
 }

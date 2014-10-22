@@ -1,20 +1,18 @@
 {
-  "pcode": 9404, 
   "addresses": [
     {
-      "lat": 50.843938369405016, 
       "housenumber": "1", 
+      "lat": 50.843938369405016, 
+      "lon": 3.9570113404615195, 
       "pcode": 9404, 
-      "street": "Schoolstraatje", 
-      "lon": 3.9570113404615195
+      "street": "Schoolstraatje"
     }, 
     {
-      "lat": 50.84394801260377, 
       "housenumber": "3", 
+      "lat": 50.84394801260377, 
+      "lon": 3.95712087027592, 
       "pcode": 9404, 
-      "street": "Schoolstraatje", 
-      "lon": 3.95712087027592
+      "street": "Schoolstraatje"
     }
-  ], 
-  "name": "Schoolstraatje"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3051, 
   "addresses": [
     {
-      "lat": 50.805792505650594, 
       "housenumber": "5", 
+      "lat": 50.805792505650594, 
+      "lon": 4.6584427781745985, 
       "pcode": 3051, 
-      "street": "Weertsedreef", 
-      "lon": 4.6584427781745985
+      "street": "Weertsedreef"
     }, 
     {
-      "lat": 50.80485877180908, 
       "housenumber": "6", 
+      "lat": 50.80485877180908, 
+      "lon": 4.659085211107174, 
       "pcode": 3051, 
-      "street": "Weertsedreef", 
-      "lon": 4.659085211107174
+      "street": "Weertsedreef"
     }
-  ], 
-  "name": "Weertsedreef"
+  ]
 }

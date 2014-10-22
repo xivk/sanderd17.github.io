@@ -1,25 +1,23 @@
 {
-  "pcode": 2627, 
   "addresses": [
     {
-      "lat": 51.11716928147992, 
       "housenumber": "1", 
+      "lat": 51.11716928147992, 
+      "lon": 4.324547419088945, 
       "pcode": 2627, 
-      "street": "Biesaerdeweg", 
-      "lon": 4.324547419088945
+      "street": "Biesaerdeweg"
     }, 
     {
-      "lat": 51.117520008966295, 
       "housenumber": "2", 
+      "lat": 51.117520008966295, 
+      "lon": 4.324269172227048, 
       "pcode": 2627, 
-      "street": "Biesaerdeweg", 
-      "lon": 4.324269172227048
+      "street": "Biesaerdeweg"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2627, 
-      "street": "Biesaerdeweg", 
-      "housenumber": "3"
+      "street": "Biesaerdeweg"
     }
-  ], 
-  "name": "Biesaerdeweg"
+  ]
 }

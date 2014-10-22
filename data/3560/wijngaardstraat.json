@@ -1,39 +1,37 @@
 {
-  "pcode": 3560, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3560, 
-      "street": "Wijngaardstraat", 
-      "housenumber": "1"
+      "street": "Wijngaardstraat"
     }, 
     {
-      "lat": 50.98648724342251, 
       "housenumber": "15", 
+      "lat": 50.98648724342251, 
+      "lon": 5.1855918819632665, 
       "pcode": 3560, 
-      "street": "Wijngaardstraat", 
-      "lon": 5.1855918819632665
+      "street": "Wijngaardstraat"
     }, 
     {
-      "lat": 50.98606749379976, 
       "housenumber": "23", 
+      "lat": 50.98606749379976, 
+      "lon": 5.184520650973025, 
       "pcode": 3560, 
-      "street": "Wijngaardstraat", 
-      "lon": 5.184520650973025
+      "street": "Wijngaardstraat"
     }, 
     {
-      "lat": 50.986776617737966, 
       "housenumber": "3", 
+      "lat": 50.986776617737966, 
+      "lon": 5.187001111619762, 
       "pcode": 3560, 
-      "street": "Wijngaardstraat", 
-      "lon": 5.187001111619762
+      "street": "Wijngaardstraat"
     }, 
     {
-      "lat": 50.987242913516035, 
       "housenumber": "8", 
+      "lat": 50.987242913516035, 
+      "lon": 5.187556040454763, 
       "pcode": 3560, 
-      "street": "Wijngaardstraat", 
-      "lon": 5.187556040454763
+      "street": "Wijngaardstraat"
     }
-  ], 
-  "name": "Wijngaardstraat"
+  ]
 }

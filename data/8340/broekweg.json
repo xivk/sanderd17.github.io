@@ -1,20 +1,18 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.2302849233342, 
       "housenumber": "1", 
+      "lat": 51.2302849233342, 
+      "lon": 3.278896762185627, 
       "pcode": 8340, 
-      "street": "Broekweg", 
-      "lon": 3.278896762185627
+      "street": "Broekweg"
     }, 
     {
-      "lat": 51.230924867184534, 
       "housenumber": "3", 
+      "lat": 51.230924867184534, 
+      "lon": 3.277033511721384, 
       "pcode": 8340, 
-      "street": "Broekweg", 
-      "lon": 3.277033511721384
+      "street": "Broekweg"
     }
-  ], 
-  "name": "Broekweg"
+  ]
 }

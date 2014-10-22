@@ -1,20 +1,18 @@
 {
-  "pcode": 8460, 
   "addresses": [
     {
-      "lat": 51.18677703115227, 
       "housenumber": "10", 
+      "lat": 51.18677703115227, 
+      "lon": 2.9399580184423812, 
       "pcode": 8460, 
-      "street": "Schorrendijk", 
-      "lon": 2.9399580184423812
+      "street": "Schorrendijk"
     }, 
     {
-      "lat": 51.19025001213915, 
       "housenumber": "12", 
+      "lat": 51.19025001213915, 
+      "lon": 2.938262538783919, 
       "pcode": 8460, 
-      "street": "Schorrendijk", 
-      "lon": 2.938262538783919
+      "street": "Schorrendijk"
     }
-  ], 
-  "name": "Schorrendijk"
+  ]
 }

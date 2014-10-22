@@ -1,27 +1,25 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.245439216100095, 
       "housenumber": "1", 
+      "lat": 51.245439216100095, 
+      "lon": 3.3414661827451986, 
       "pcode": 8340, 
-      "street": "De Dreve", 
-      "lon": 3.3414661827451986
+      "street": "De Dreve"
     }, 
     {
-      "lat": 51.24534422177028, 
       "housenumber": "3", 
+      "lat": 51.24534422177028, 
+      "lon": 3.3414893290171146, 
       "pcode": 8340, 
-      "street": "De Dreve", 
-      "lon": 3.3414893290171146
+      "street": "De Dreve"
     }, 
     {
-      "lat": 51.24522307275252, 
       "housenumber": "5", 
+      "lat": 51.24522307275252, 
+      "lon": 3.3416683031303824, 
       "pcode": 8340, 
-      "street": "De Dreve", 
-      "lon": 3.3416683031303824
+      "street": "De Dreve"
     }
-  ], 
-  "name": "De Dreve"
+  ]
 }

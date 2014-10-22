@@ -1,20 +1,18 @@
 {
-  "pcode": 8630, 
   "addresses": [
     {
-      "lat": 51.05952777773103, 
       "housenumber": "2", 
+      "lat": 51.05952777773103, 
+      "lon": 2.6719397294763305, 
       "pcode": 8630, 
-      "street": "Gasthuisstraat", 
-      "lon": 2.6719397294763305
+      "street": "Gasthuisstraat"
     }, 
     {
-      "lat": 51.0595621424031, 
       "housenumber": "3", 
+      "lat": 51.0595621424031, 
+      "lon": 2.672147076671192, 
       "pcode": 8630, 
-      "street": "Gasthuisstraat", 
-      "lon": 2.672147076671192
+      "street": "Gasthuisstraat"
     }
-  ], 
-  "name": "Gasthuisstraat"
+  ]
 }

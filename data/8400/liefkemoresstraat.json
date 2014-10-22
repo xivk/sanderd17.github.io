@@ -1,35 +1,33 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.233131160535756, 
       "housenumber": "1", 
+      "lat": 51.233131160535756, 
+      "lon": 2.9367138691126695, 
       "pcode": 8400, 
-      "street": "Liefkemoresstraat", 
-      "lon": 2.9367138691126695
+      "street": "Liefkemoresstraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 8400, 
-      "street": "Liefkemoresstraat", 
-      "housenumber": "1A"
+      "street": "Liefkemoresstraat"
     }, 
     {
+      "housenumber": "20", 
       "pcode": 8400, 
-      "street": "Liefkemoresstraat", 
-      "housenumber": "20"
+      "street": "Liefkemoresstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8400, 
-      "street": "Liefkemoresstraat", 
-      "housenumber": "4"
+      "street": "Liefkemoresstraat"
     }, 
     {
-      "lat": 51.23376402785422, 
       "housenumber": "6", 
+      "lat": 51.23376402785422, 
+      "lon": 2.937305750280788, 
       "pcode": 8400, 
-      "street": "Liefkemoresstraat", 
-      "lon": 2.937305750280788
+      "street": "Liefkemoresstraat"
     }
-  ], 
-  "name": "Liefkemoresstraat"
+  ]
 }

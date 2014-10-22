@@ -1,25 +1,23 @@
 {
-  "pcode": 8431, 
   "addresses": [
     {
-      "lat": 51.17970115930079, 
       "housenumber": "11", 
+      "lat": 51.17970115930079, 
+      "lon": 2.816185438855191, 
       "pcode": 8431, 
-      "street": "Abdisweg", 
-      "lon": 2.816185438855191
+      "street": "Abdisweg"
     }, 
     {
+      "housenumber": "16", 
       "pcode": 8431, 
-      "street": "Abdisweg", 
-      "housenumber": "16"
+      "street": "Abdisweg"
     }, 
     {
-      "lat": 51.17998679364957, 
       "housenumber": "4", 
+      "lat": 51.17998679364957, 
+      "lon": 2.816220138424278, 
       "pcode": 8431, 
-      "street": "Abdisweg", 
-      "lon": 2.816220138424278
+      "street": "Abdisweg"
     }
-  ], 
-  "name": "Abdisweg"
+  ]
 }

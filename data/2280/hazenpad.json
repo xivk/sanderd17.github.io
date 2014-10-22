@@ -1,20 +1,18 @@
 {
-  "pcode": 2280, 
   "addresses": [
     {
-      "lat": 51.172708146953596, 
       "housenumber": "12", 
+      "lat": 51.172708146953596, 
+      "lon": 4.791326148023744, 
       "pcode": 2280, 
-      "street": "Hazenpad", 
-      "lon": 4.791326148023744
+      "street": "Hazenpad"
     }, 
     {
-      "lat": 51.172416180799736, 
       "housenumber": "2", 
+      "lat": 51.172416180799736, 
+      "lon": 4.788334369247689, 
       "pcode": 2280, 
-      "street": "Hazenpad", 
-      "lon": 4.788334369247689
+      "street": "Hazenpad"
     }
-  ], 
-  "name": "Hazenpad"
+  ]
 }

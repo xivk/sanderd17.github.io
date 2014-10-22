@@ -1,25 +1,23 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
-      "lat": 51.21830395104021, 
       "housenumber": "2", 
+      "lat": 51.21830395104021, 
+      "lon": 5.423571304321944, 
       "pcode": 3900, 
-      "street": "Speltstraat", 
-      "lon": 5.423571304321944
+      "street": "Speltstraat"
     }, 
     {
+      "housenumber": "21", 
       "pcode": 3900, 
-      "street": "Speltstraat", 
-      "housenumber": "21"
+      "street": "Speltstraat"
     }, 
     {
-      "lat": 51.218310260626296, 
       "housenumber": "4", 
+      "lat": 51.218310260626296, 
+      "lon": 5.423790879696773, 
       "pcode": 3900, 
-      "street": "Speltstraat", 
-      "lon": 5.423790879696773
+      "street": "Speltstraat"
     }
-  ], 
-  "name": "Speltstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3210, 
   "addresses": [
     {
-      "lat": 50.86339577990817, 
       "housenumber": "1", 
+      "lat": 50.86339577990817, 
+      "lon": 4.813880530740048, 
       "pcode": 3210, 
-      "street": "Dorenweg", 
-      "lon": 4.813880530740048
+      "street": "Dorenweg"
     }, 
     {
-      "lat": 50.86105338363339, 
       "housenumber": "3", 
+      "lat": 50.86105338363339, 
+      "lon": 4.81233152869311, 
       "pcode": 3210, 
-      "street": "Dorenweg", 
-      "lon": 4.81233152869311
+      "street": "Dorenweg"
     }
-  ], 
-  "name": "Dorenweg"
+  ]
 }

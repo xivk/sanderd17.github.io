@@ -1,20 +1,18 @@
 {
-  "pcode": 2310, 
   "addresses": [
     {
-      "lat": 51.34608107449111, 
       "housenumber": "24", 
+      "lat": 51.34608107449111, 
+      "lon": 4.793362339523236, 
       "pcode": 2310, 
-      "street": "Vorselmoerweg", 
-      "lon": 4.793362339523236
+      "street": "Vorselmoerweg"
     }, 
     {
-      "lat": 51.34227548048025, 
       "housenumber": "4", 
+      "lat": 51.34227548048025, 
+      "lon": 4.788992137785198, 
       "pcode": 2310, 
-      "street": "Vorselmoerweg", 
-      "lon": 4.788992137785198
+      "street": "Vorselmoerweg"
     }
-  ], 
-  "name": "Vorselmoerweg"
+  ]
 }

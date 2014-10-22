@@ -1,20 +1,18 @@
 {
-  "pcode": 3990, 
   "addresses": [
     {
-      "lat": 51.15182939557273, 
       "housenumber": "1", 
+      "lat": 51.15182939557273, 
+      "lon": 5.544637340257897, 
       "pcode": 3990, 
-      "street": "Kraaikenshofweg", 
-      "lon": 5.544637340257897
+      "street": "Kraaikenshofweg"
     }, 
     {
-      "lat": 51.15196320293229, 
       "housenumber": "3", 
+      "lat": 51.15196320293229, 
+      "lon": 5.543749055788745, 
       "pcode": 3990, 
-      "street": "Kraaikenshofweg", 
-      "lon": 5.543749055788745
+      "street": "Kraaikenshofweg"
     }
-  ], 
-  "name": "Kraaikenshofweg"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 3150, 
   "addresses": [
     {
-      "lat": 50.98137050332677, 
       "housenumber": "1", 
+      "lat": 50.98137050332677, 
+      "lon": 4.603611856235693, 
       "pcode": 3150, 
-      "street": "Schonenberg", 
-      "lon": 4.603611856235693
+      "street": "Schonenberg"
     }, 
     {
-      "lat": 50.98152972349758, 
       "housenumber": "2", 
+      "lat": 50.98152972349758, 
+      "lon": 4.604183975266756, 
       "pcode": 3150, 
-      "street": "Schonenberg", 
-      "lon": 4.604183975266756
+      "street": "Schonenberg"
     }, 
     {
-      "lat": 50.98157407003798, 
       "housenumber": "3", 
+      "lat": 50.98157407003798, 
+      "lon": 4.604616533113436, 
       "pcode": 3150, 
-      "street": "Schonenberg", 
-      "lon": 4.604616533113436
+      "street": "Schonenberg"
     }
-  ], 
-  "name": "Schonenberg"
+  ]
 }

@@ -1,42 +1,40 @@
 {
-  "pcode": 1500, 
   "addresses": [
     {
-      "lat": 50.72918375781629, 
       "housenumber": "1", 
+      "lat": 50.72918375781629, 
+      "lon": 4.239911863903805, 
       "pcode": 1500, 
-      "street": "Mouvauxstraat", 
-      "lon": 4.239911863903805
+      "street": "Mouvauxstraat"
     }, 
     {
-      "lat": 50.728918968320755, 
       "housenumber": "2", 
+      "lat": 50.728918968320755, 
+      "lon": 4.240368660512695, 
       "pcode": 1500, 
-      "street": "Mouvauxstraat", 
-      "lon": 4.240368660512695
+      "street": "Mouvauxstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 1500, 
-      "street": "Mouvauxstraat", 
-      "housenumber": "3"
+      "street": "Mouvauxstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 1500, 
-      "street": "Mouvauxstraat", 
-      "housenumber": "4"
+      "street": "Mouvauxstraat"
     }, 
     {
-      "lat": 50.72892310299824, 
       "housenumber": "6", 
+      "lat": 50.72892310299824, 
+      "lon": 4.240368082754603, 
       "pcode": 1500, 
-      "street": "Mouvauxstraat", 
-      "lon": 4.240368082754603
+      "street": "Mouvauxstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 1500, 
-      "street": "Mouvauxstraat", 
-      "housenumber": "8"
+      "street": "Mouvauxstraat"
     }
-  ], 
-  "name": "Mouvauxstraat"
+  ]
 }

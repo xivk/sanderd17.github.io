@@ -1,53 +1,51 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.75014837795602, 
       "housenumber": "2", 
+      "lat": 50.75014837795602, 
+      "lon": 3.6038078725531824, 
       "pcode": 9600, 
-      "street": "Bruul", 
-      "lon": 3.6038078725531824
+      "street": "Bruul"
     }, 
     {
-      "lat": 50.75025008965207, 
       "housenumber": "3", 
+      "lat": 50.75025008965207, 
+      "lon": 3.6037577574358957, 
       "pcode": 9600, 
-      "street": "Bruul", 
-      "lon": 3.6037577574358957
+      "street": "Bruul"
     }, 
     {
-      "lat": 50.75031700996626, 
       "housenumber": "4", 
+      "lat": 50.75031700996626, 
+      "lon": 3.6037215274314254, 
       "pcode": 9600, 
-      "street": "Bruul", 
-      "lon": 3.6037215274314254
+      "street": "Bruul"
     }, 
     {
-      "lat": 50.750391074970416, 
       "housenumber": "5", 
+      "lat": 50.750391074970416, 
+      "lon": 3.6036229704488734, 
       "pcode": 9600, 
-      "street": "Bruul", 
-      "lon": 3.6036229704488734
+      "street": "Bruul"
     }, 
     {
-      "lat": 50.750508068708896, 
       "housenumber": "5_0401", 
+      "lat": 50.750508068708896, 
+      "lon": 3.6037378415674977, 
       "pcode": 9600, 
-      "street": "Bruul", 
-      "lon": 3.6037378415674977
+      "street": "Bruul"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9600, 
-      "street": "Bruul", 
-      "housenumber": "6"
+      "street": "Bruul"
     }, 
     {
-      "lat": 50.750786783133215, 
       "housenumber": "7", 
+      "lat": 50.750786783133215, 
+      "lon": 3.603520326255619, 
       "pcode": 9600, 
-      "street": "Bruul", 
-      "lon": 3.603520326255619
+      "street": "Bruul"
     }
-  ], 
-  "name": "Bruul"
+  ]
 }

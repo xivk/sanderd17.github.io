@@ -1,20 +1,18 @@
 {
-  "pcode": 8860, 
   "addresses": [
     {
-      "lat": 50.87376221179011, 
       "housenumber": "1", 
+      "lat": 50.87376221179011, 
+      "lon": 3.2385095204638055, 
       "pcode": 8860, 
-      "street": "Processieweg", 
-      "lon": 3.2385095204638055
+      "street": "Processieweg"
     }, 
     {
-      "lat": 50.8737061603878, 
       "housenumber": "3", 
+      "lat": 50.8737061603878, 
+      "lon": 3.238327854438126, 
       "pcode": 8860, 
-      "street": "Processieweg", 
-      "lon": 3.238327854438126
+      "street": "Processieweg"
     }
-  ], 
-  "name": "Processieweg"
+  ]
 }

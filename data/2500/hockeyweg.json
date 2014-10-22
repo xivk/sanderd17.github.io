@@ -1,27 +1,25 @@
 {
-  "pcode": 2500, 
   "addresses": [
     {
-      "lat": 51.143053764741126, 
       "housenumber": "65", 
+      "lat": 51.143053764741126, 
+      "lon": 4.531587192656262, 
       "pcode": 2500, 
-      "street": "Hockeyweg", 
-      "lon": 4.531587192656262
+      "street": "Hockeyweg"
     }, 
     {
-      "lat": 51.143321808986464, 
       "housenumber": "67", 
+      "lat": 51.143321808986464, 
+      "lon": 4.531065848422355, 
       "pcode": 2500, 
-      "street": "Hockeyweg", 
-      "lon": 4.531065848422355
+      "street": "Hockeyweg"
     }, 
     {
-      "lat": 51.14537153359903, 
       "housenumber": "69", 
+      "lat": 51.14537153359903, 
+      "lon": 4.5292048487160255, 
       "pcode": 2500, 
-      "street": "Hockeyweg", 
-      "lon": 4.5292048487160255
+      "street": "Hockeyweg"
     }
-  ], 
-  "name": "Hockeyweg"
+  ]
 }

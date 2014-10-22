@@ -1,20 +1,18 @@
 {
-  "pcode": 8650, 
   "addresses": [
     {
-      "lat": 50.99006870998527, 
       "housenumber": "1", 
+      "lat": 50.99006870998527, 
+      "lon": 2.961866952577973, 
       "pcode": 8650, 
-      "street": "Vlastraat", 
-      "lon": 2.961866952577973
+      "street": "Vlastraat"
     }, 
     {
-      "lat": 50.98922882357461, 
       "housenumber": "2", 
+      "lat": 50.98922882357461, 
+      "lon": 2.9630732163107973, 
       "pcode": 8650, 
-      "street": "Vlastraat", 
-      "lon": 2.9630732163107973
+      "street": "Vlastraat"
     }
-  ], 
-  "name": "Vlastraat"
+  ]
 }

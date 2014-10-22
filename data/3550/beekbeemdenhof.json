@@ -1,20 +1,18 @@
 {
-  "pcode": 3550, 
   "addresses": [
     {
-      "lat": 51.028892250614604, 
       "housenumber": "1", 
+      "lat": 51.028892250614604, 
+      "lon": 5.32305590527859, 
       "pcode": 3550, 
-      "street": "Beekbeemdenhof", 
-      "lon": 5.32305590527859
+      "street": "Beekbeemdenhof"
     }, 
     {
-      "lat": 51.02831453946831, 
       "housenumber": "2", 
+      "lat": 51.02831453946831, 
+      "lon": 5.322205751055117, 
       "pcode": 3550, 
-      "street": "Beekbeemdenhof", 
-      "lon": 5.322205751055117
+      "street": "Beekbeemdenhof"
     }
-  ], 
-  "name": "Beekbeemdenhof"
+  ]
 }

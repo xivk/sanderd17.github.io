@@ -1,49 +1,47 @@
 {
-  "pcode": 8510, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 8510, 
-      "street": "Brandelweg", 
-      "housenumber": "11"
+      "street": "Brandelweg"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 8510, 
-      "street": "Brandelweg", 
-      "housenumber": "12"
+      "street": "Brandelweg"
     }, 
     {
+      "housenumber": "15", 
       "pcode": 8510, 
-      "street": "Brandelweg", 
-      "housenumber": "15"
+      "street": "Brandelweg"
     }, 
     {
-      "lat": 50.8080435985111, 
       "housenumber": "3", 
+      "lat": 50.8080435985111, 
+      "lon": 3.2473209045132063, 
       "pcode": 8510, 
-      "street": "Brandelweg", 
-      "lon": 3.2473209045132063
+      "street": "Brandelweg"
     }, 
     {
-      "lat": 50.80817952472923, 
       "housenumber": "4", 
+      "lat": 50.80817952472923, 
+      "lon": 3.246924905693716, 
       "pcode": 8510, 
-      "street": "Brandelweg", 
-      "lon": 3.246924905693716
+      "street": "Brandelweg"
     }, 
     {
-      "lat": 50.8078291811661, 
       "housenumber": "5", 
+      "lat": 50.8078291811661, 
+      "lon": 3.2464855849875836, 
       "pcode": 8510, 
-      "street": "Brandelweg", 
-      "lon": 3.2464855849875836
+      "street": "Brandelweg"
     }, 
     {
-      "lat": 50.80828529736301, 
       "housenumber": "7", 
+      "lat": 50.80828529736301, 
+      "lon": 3.246609935209609, 
       "pcode": 8510, 
-      "street": "Brandelweg", 
-      "lon": 3.246609935209609
+      "street": "Brandelweg"
     }
-  ], 
-  "name": "Brandelweg"
+  ]
 }

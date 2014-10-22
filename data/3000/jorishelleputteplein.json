@@ -1,44 +1,42 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.87840176265293, 
       "housenumber": "1", 
+      "lat": 50.87840176265293, 
+      "lon": 4.697790701887005, 
       "pcode": 3000, 
-      "street": "Joris Helleputteplein", 
-      "lon": 4.697790701887005
+      "street": "Joris Helleputteplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3000, 
-      "street": "Joris Helleputteplein", 
-      "housenumber": "2"
+      "street": "Joris Helleputteplein"
     }, 
     {
-      "lat": 50.878179923924016, 
       "housenumber": "3", 
+      "lat": 50.878179923924016, 
+      "lon": 4.697142067401881, 
       "pcode": 3000, 
-      "street": "Joris Helleputteplein", 
-      "lon": 4.697142067401881
+      "street": "Joris Helleputteplein"
     }, 
     {
-      "lat": 50.878810854437646, 
       "housenumber": "4", 
+      "lat": 50.878810854437646, 
+      "lon": 4.697798262397333, 
       "pcode": 3000, 
-      "street": "Joris Helleputteplein", 
-      "lon": 4.697798262397333
+      "street": "Joris Helleputteplein"
     }, 
     {
-      "lat": 50.87844630820838, 
       "housenumber": "5", 
+      "lat": 50.87844630820838, 
+      "lon": 4.69764579785796, 
       "pcode": 3000, 
-      "street": "Joris Helleputteplein", 
-      "lon": 4.69764579785796
+      "street": "Joris Helleputteplein"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3000, 
-      "street": "Joris Helleputteplein", 
-      "housenumber": "6"
+      "street": "Joris Helleputteplein"
     }
-  ], 
-  "name": "Joris Helleputteplein"
+  ]
 }

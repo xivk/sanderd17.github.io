@@ -1,20 +1,18 @@
 {
-  "pcode": 2340, 
   "addresses": [
     {
-      "lat": 51.309460205999464, 
       "housenumber": "1", 
+      "lat": 51.309460205999464, 
+      "lon": 4.832345471563301, 
       "pcode": 2340, 
-      "street": "Tanseleerstraat", 
-      "lon": 4.832345471563301
+      "street": "Tanseleerstraat"
     }, 
     {
-      "lat": 51.309595880939, 
       "housenumber": "2", 
+      "lat": 51.309595880939, 
+      "lon": 4.827910057356598, 
       "pcode": 2340, 
-      "street": "Tanseleerstraat", 
-      "lon": 4.827910057356598
+      "street": "Tanseleerstraat"
     }
-  ], 
-  "name": "Tanseleerstraat"
+  ]
 }

@@ -1,168 +1,166 @@
 {
-  "pcode": 9200, 
   "addresses": [
     {
-      "lat": 51.03234977629523, 
       "housenumber": "1", 
-      "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.1023482348281615
-    }, 
-    {
-      "lat": 51.03254917377928, 
-      "housenumber": "10", 
-      "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.102875565278135
-    }, 
-    {
-      "lat": 51.032558757903274, 
-      "housenumber": "11", 
-      "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.1029402322861115
-    }, 
-    {
-      "lat": 51.032593450344606, 
-      "housenumber": "12", 
-      "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.103017729955806
-    }, 
-    {
-      "lat": 51.032656452775015, 
-      "housenumber": "13", 
-      "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.103092786593521
-    }, 
-    {
-      "lat": 51.03266943163405, 
-      "housenumber": "14", 
-      "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.103188084609399
-    }, 
-    {
-      "lat": 51.032688971703735, 
-      "housenumber": "15", 
-      "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.103283060455436
-    }, 
-    {
-      "lat": 51.03270839745419, 
-      "housenumber": "16", 
-      "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.103367202590832
-    }, 
-    {
-      "lat": 51.032706910298046, 
-      "housenumber": "17", 
-      "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.103465433708828
-    }, 
-    {
-      "lat": 51.03275872195705, 
-      "housenumber": "19", 
-      "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.10352088127968
-    }, 
-    {
-      "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "housenumber": "2"
-    }, 
-    {
-      "lat": 51.03272575011694, 
-      "housenumber": "20", 
-      "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.103689001392924
-    }, 
-    {
-      "lat": 51.03274118133459, 
-      "housenumber": "21", 
-      "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.103675656321263
-    }, 
-    {
-      "lat": 51.032747728296776, 
-      "housenumber": "22", 
-      "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.103749036969607
-    }, 
-    {
-      "lat": 51.03275831320026, 
-      "housenumber": "23", 
-      "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.103819258561579
-    }, 
-    {
-      "lat": 51.0328940465615, 
-      "housenumber": "24", 
-      "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.103858694116119
-    }, 
-    {
-      "lat": 51.03277374694535, 
-      "housenumber": "25", 
-      "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.103927230844673
-    }, 
-    {
       "lat": 51.03234977629523, 
+      "lon": 4.1023482348281615, 
+      "pcode": 9200, 
+      "street": "Kasteelstraat"
+    }, 
+    {
+      "housenumber": "10", 
+      "lat": 51.03254917377928, 
+      "lon": 4.102875565278135, 
+      "pcode": 9200, 
+      "street": "Kasteelstraat"
+    }, 
+    {
+      "housenumber": "11", 
+      "lat": 51.032558757903274, 
+      "lon": 4.1029402322861115, 
+      "pcode": 9200, 
+      "street": "Kasteelstraat"
+    }, 
+    {
+      "housenumber": "12", 
+      "lat": 51.032593450344606, 
+      "lon": 4.103017729955806, 
+      "pcode": 9200, 
+      "street": "Kasteelstraat"
+    }, 
+    {
+      "housenumber": "13", 
+      "lat": 51.032656452775015, 
+      "lon": 4.103092786593521, 
+      "pcode": 9200, 
+      "street": "Kasteelstraat"
+    }, 
+    {
+      "housenumber": "14", 
+      "lat": 51.03266943163405, 
+      "lon": 4.103188084609399, 
+      "pcode": 9200, 
+      "street": "Kasteelstraat"
+    }, 
+    {
+      "housenumber": "15", 
+      "lat": 51.032688971703735, 
+      "lon": 4.103283060455436, 
+      "pcode": 9200, 
+      "street": "Kasteelstraat"
+    }, 
+    {
+      "housenumber": "16", 
+      "lat": 51.03270839745419, 
+      "lon": 4.103367202590832, 
+      "pcode": 9200, 
+      "street": "Kasteelstraat"
+    }, 
+    {
+      "housenumber": "17", 
+      "lat": 51.032706910298046, 
+      "lon": 4.103465433708828, 
+      "pcode": 9200, 
+      "street": "Kasteelstraat"
+    }, 
+    {
+      "housenumber": "19", 
+      "lat": 51.03275872195705, 
+      "lon": 4.10352088127968, 
+      "pcode": 9200, 
+      "street": "Kasteelstraat"
+    }, 
+    {
+      "housenumber": "2", 
+      "pcode": 9200, 
+      "street": "Kasteelstraat"
+    }, 
+    {
+      "housenumber": "20", 
+      "lat": 51.03272575011694, 
+      "lon": 4.103689001392924, 
+      "pcode": 9200, 
+      "street": "Kasteelstraat"
+    }, 
+    {
+      "housenumber": "21", 
+      "lat": 51.03274118133459, 
+      "lon": 4.103675656321263, 
+      "pcode": 9200, 
+      "street": "Kasteelstraat"
+    }, 
+    {
+      "housenumber": "22", 
+      "lat": 51.032747728296776, 
+      "lon": 4.103749036969607, 
+      "pcode": 9200, 
+      "street": "Kasteelstraat"
+    }, 
+    {
+      "housenumber": "23", 
+      "lat": 51.03275831320026, 
+      "lon": 4.103819258561579, 
+      "pcode": 9200, 
+      "street": "Kasteelstraat"
+    }, 
+    {
+      "housenumber": "24", 
+      "lat": 51.0328940465615, 
+      "lon": 4.103858694116119, 
+      "pcode": 9200, 
+      "street": "Kasteelstraat"
+    }, 
+    {
+      "housenumber": "25", 
+      "lat": 51.03277374694535, 
+      "lon": 4.103927230844673, 
+      "pcode": 9200, 
+      "street": "Kasteelstraat"
+    }, 
+    {
       "housenumber": "3", 
+      "lat": 51.03234977629523, 
+      "lon": 4.1023482348281615, 
       "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.1023482348281615
+      "street": "Kasteelstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "housenumber": "4"
+      "street": "Kasteelstraat"
     }, 
     {
-      "lat": 51.03244046377905, 
       "housenumber": "5", 
+      "lat": 51.03244046377905, 
+      "lon": 4.102621858333782, 
       "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.102621858333782
+      "street": "Kasteelstraat"
     }, 
     {
+      "housenumber": "51", 
       "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "housenumber": "51"
+      "street": "Kasteelstraat"
     }, 
     {
-      "lat": 51.032419833785674, 
       "housenumber": "6", 
+      "lat": 51.032419833785674, 
+      "lon": 4.10260187468708, 
       "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.10260187468708
+      "street": "Kasteelstraat"
     }, 
     {
-      "lat": 51.03261822218771, 
       "housenumber": "8", 
+      "lat": 51.03261822218771, 
+      "lon": 4.102681580294996, 
       "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.102681580294996
+      "street": "Kasteelstraat"
     }, 
     {
-      "lat": 51.03253957131592, 
       "housenumber": "9", 
+      "lat": 51.03253957131592, 
+      "lon": 4.102802772602593, 
       "pcode": 9200, 
-      "street": "Kasteelstraat", 
-      "lon": 4.102802772602593
+      "street": "Kasteelstraat"
     }
-  ], 
-  "name": "Kasteelstraat"
+  ]
 }

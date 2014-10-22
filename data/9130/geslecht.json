@@ -1,18 +1,16 @@
 {
-  "pcode": 9130, 
   "addresses": [
     {
-      "lat": 51.292082707357295, 
       "housenumber": "2", 
+      "lat": 51.292082707357295, 
+      "lon": 4.271916649060043, 
       "pcode": 9130, 
-      "street": "Geslecht", 
-      "lon": 4.271916649060043
+      "street": "Geslecht"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9130, 
-      "street": "Geslecht", 
-      "housenumber": "3"
+      "street": "Geslecht"
     }
-  ], 
-  "name": "Geslecht"
+  ]
 }

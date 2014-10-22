@@ -1,20 +1,18 @@
 {
-  "pcode": 8900, 
   "addresses": [
     {
-      "lat": 50.85119143886885, 
       "housenumber": "1", 
+      "lat": 50.85119143886885, 
+      "lon": 2.885308767207338, 
       "pcode": 8900, 
-      "street": "Sint-Maartensplein", 
-      "lon": 2.885308767207338
+      "street": "Sint-Maartensplein"
     }, 
     {
-      "lat": 50.85133394015758, 
       "housenumber": "3", 
+      "lat": 50.85133394015758, 
+      "lon": 2.8857915957396854, 
       "pcode": 8900, 
-      "street": "Sint-Maartensplein", 
-      "lon": 2.8857915957396854
+      "street": "Sint-Maartensplein"
     }
-  ], 
-  "name": "Sint-Maartensplein"
+  ]
 }

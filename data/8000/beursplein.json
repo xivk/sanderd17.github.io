@@ -1,18 +1,16 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.20434120487915, 
       "housenumber": "1", 
+      "lat": 51.20434120487915, 
+      "lon": 3.2152762116646, 
       "pcode": 8000, 
-      "street": "Beursplein", 
-      "lon": 3.2152762116646
+      "street": "Beursplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8000, 
-      "street": "Beursplein", 
-      "housenumber": "2"
+      "street": "Beursplein"
     }
-  ], 
-  "name": "Beursplein"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 2870, 
   "addresses": [
     {
-      "lat": 51.07898556582658, 
       "housenumber": "1", 
+      "lat": 51.07898556582658, 
+      "lon": 4.265383010661409, 
       "pcode": 2870, 
-      "street": "Zeutestraat", 
-      "lon": 4.265383010661409
+      "street": "Zeutestraat"
     }, 
     {
-      "lat": 51.0772913122062, 
       "housenumber": "2", 
+      "lat": 51.0772913122062, 
+      "lon": 4.2666967985844995, 
       "pcode": 2870, 
-      "street": "Zeutestraat", 
-      "lon": 4.2666967985844995
+      "street": "Zeutestraat"
     }, 
     {
-      "lat": 51.07860009621327, 
       "housenumber": "3", 
+      "lat": 51.07860009621327, 
+      "lon": 4.265869170930644, 
       "pcode": 2870, 
-      "street": "Zeutestraat", 
-      "lon": 4.265869170930644
+      "street": "Zeutestraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2870, 
-      "street": "Zeutestraat", 
-      "housenumber": "4"
+      "street": "Zeutestraat"
     }
-  ], 
-  "name": "Zeutestraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8431, 
   "addresses": [
     {
-      "lat": 51.17603467062763, 
       "housenumber": "1", 
+      "lat": 51.17603467062763, 
+      "lon": 2.844777241598633, 
       "pcode": 8431, 
-      "street": "Polderweg", 
-      "lon": 2.844777241598633
+      "street": "Polderweg"
     }, 
     {
-      "lat": 51.174098524638545, 
       "housenumber": "3", 
+      "lat": 51.174098524638545, 
+      "lon": 2.845386485330088, 
       "pcode": 8431, 
-      "street": "Polderweg", 
-      "lon": 2.845386485330088
+      "street": "Polderweg"
     }
-  ], 
-  "name": "Polderweg"
+  ]
 }

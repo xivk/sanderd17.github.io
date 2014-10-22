@@ -1,20 +1,18 @@
 {
-  "pcode": 3640, 
   "addresses": [
     {
-      "lat": 51.129540979783364, 
       "housenumber": "1", 
+      "lat": 51.129540979783364, 
+      "lon": 5.823120655665744, 
       "pcode": 3640, 
-      "street": "Maasdijk", 
-      "lon": 5.823120655665744
+      "street": "Maasdijk"
     }, 
     {
-      "lat": 51.13265200446172, 
       "housenumber": "5", 
+      "lat": 51.13265200446172, 
+      "lon": 5.839579056494529, 
       "pcode": 3640, 
-      "street": "Maasdijk", 
-      "lon": 5.839579056494529
+      "street": "Maasdijk"
     }
-  ], 
-  "name": "Maasdijk"
+  ]
 }

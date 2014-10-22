@@ -1,52 +1,50 @@
 {
-  "pcode": 9030, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9030, 
-      "street": "Madelonstraat", 
-      "housenumber": "1"
+      "street": "Madelonstraat"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 9030, 
-      "street": "Madelonstraat", 
-      "housenumber": "11"
+      "street": "Madelonstraat"
     }, 
     {
+      "housenumber": "13", 
       "pcode": 9030, 
-      "street": "Madelonstraat", 
-      "housenumber": "13"
+      "street": "Madelonstraat"
     }, 
     {
-      "lat": 51.08323588754344, 
       "housenumber": "15", 
+      "lat": 51.08323588754344, 
+      "lon": 3.67567728838235, 
       "pcode": 9030, 
-      "street": "Madelonstraat", 
-      "lon": 3.67567728838235
+      "street": "Madelonstraat"
     }, 
     {
-      "lat": 51.08298388802613, 
       "housenumber": "3", 
+      "lat": 51.08298388802613, 
+      "lon": 3.6762844263142855, 
       "pcode": 9030, 
-      "street": "Madelonstraat", 
-      "lon": 3.6762844263142855
+      "street": "Madelonstraat"
     }, 
     {
-      "lat": 51.083214427766656, 
       "housenumber": "5", 
+      "lat": 51.083214427766656, 
+      "lon": 3.675681459469869, 
       "pcode": 9030, 
-      "street": "Madelonstraat", 
-      "lon": 3.675681459469869
+      "street": "Madelonstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 9030, 
-      "street": "Madelonstraat", 
-      "housenumber": "7"
+      "street": "Madelonstraat"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 9030, 
-      "street": "Madelonstraat", 
-      "housenumber": "9"
+      "street": "Madelonstraat"
     }
-  ], 
-  "name": "Madelonstraat"
+  ]
 }

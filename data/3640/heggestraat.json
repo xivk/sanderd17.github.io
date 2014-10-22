@@ -1,20 +1,18 @@
 {
-  "pcode": 3640, 
   "addresses": [
     {
-      "lat": 51.16809312288789, 
       "housenumber": "1", 
+      "lat": 51.16809312288789, 
+      "lon": 5.727541518745403, 
       "pcode": 3640, 
-      "street": "Heggestraat", 
-      "lon": 5.727541518745403
+      "street": "Heggestraat"
     }, 
     {
-      "lat": 51.1670320010629, 
       "housenumber": "2", 
+      "lat": 51.1670320010629, 
+      "lon": 5.7256289880012, 
       "pcode": 3640, 
-      "street": "Heggestraat", 
-      "lon": 5.7256289880012
+      "street": "Heggestraat"
     }
-  ], 
-  "name": "Heggestraat"
+  ]
 }

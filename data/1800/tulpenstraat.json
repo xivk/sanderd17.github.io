@@ -1,25 +1,23 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
-      "lat": 50.92918313954205, 
       "housenumber": "10", 
+      "lat": 50.92918313954205, 
+      "lon": 4.441940753397085, 
       "pcode": 1800, 
-      "street": "Tulpenstraat", 
-      "lon": 4.441940753397085
+      "street": "Tulpenstraat"
     }, 
     {
-      "lat": 50.92966600671474, 
       "housenumber": "7", 
+      "lat": 50.92966600671474, 
+      "lon": 4.442428558710658, 
       "pcode": 1800, 
-      "street": "Tulpenstraat", 
-      "lon": 4.442428558710658
+      "street": "Tulpenstraat"
     }, 
     {
+      "housenumber": "7O", 
       "pcode": 1800, 
-      "street": "Tulpenstraat", 
-      "housenumber": "7O"
+      "street": "Tulpenstraat"
     }
-  ], 
-  "name": "Tulpenstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 50.991259468403314, 
       "housenumber": "1", 
+      "lat": 50.991259468403314, 
+      "lon": 3.445581821258654, 
       "pcode": 9800, 
-      "street": "Loncke", 
-      "lon": 3.445581821258654
+      "street": "Loncke"
     }, 
     {
-      "lat": 50.99264924365276, 
       "housenumber": "3", 
+      "lat": 50.99264924365276, 
+      "lon": 3.4477448619419624, 
       "pcode": 9800, 
-      "street": "Loncke", 
-      "lon": 3.4477448619419624
+      "street": "Loncke"
     }
-  ], 
-  "name": "Loncke"
+  ]
 }

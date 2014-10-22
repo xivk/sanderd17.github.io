@@ -1,18 +1,16 @@
 {
-  "pcode": 3560, 
   "addresses": [
     {
-      "lat": 51.01913323992935, 
       "housenumber": "1", 
+      "lat": 51.01913323992935, 
+      "lon": 5.221678616420417, 
       "pcode": 3560, 
-      "street": "Hofstraat", 
-      "lon": 5.221678616420417
+      "street": "Hofstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3560, 
-      "street": "Hofstraat", 
-      "housenumber": "6"
+      "street": "Hofstraat"
     }
-  ], 
-  "name": "Hofstraat"
+  ]
 }

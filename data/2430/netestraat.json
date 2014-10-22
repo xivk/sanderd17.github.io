@@ -1,20 +1,18 @@
 {
-  "pcode": 2430, 
   "addresses": [
     {
-      "lat": 51.09133174168942, 
       "housenumber": "2", 
+      "lat": 51.09133174168942, 
+      "lon": 4.9725798232488625, 
       "pcode": 2430, 
-      "street": "Netestraat", 
-      "lon": 4.9725798232488625
+      "street": "Netestraat"
     }, 
     {
-      "lat": 51.09245600772287, 
       "housenumber": "4", 
+      "lat": 51.09245600772287, 
+      "lon": 4.971632832812493, 
       "pcode": 2430, 
-      "street": "Netestraat", 
-      "lon": 4.971632832812493
+      "street": "Netestraat"
     }
-  ], 
-  "name": "Netestraat"
+  ]
 }

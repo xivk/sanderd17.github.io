@@ -1,25 +1,23 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 8500, 
-      "street": "Havermarkt", 
-      "housenumber": "2"
+      "street": "Havermarkt"
     }, 
     {
-      "lat": 50.82592906405044, 
       "housenumber": "3", 
+      "lat": 50.82592906405044, 
+      "lon": 3.2645580557571607, 
       "pcode": 8500, 
-      "street": "Havermarkt", 
-      "lon": 3.2645580557571607
+      "street": "Havermarkt"
     }, 
     {
-      "lat": 50.825761780597595, 
       "housenumber": "5", 
+      "lat": 50.825761780597595, 
+      "lon": 3.264714147129893, 
       "pcode": 8500, 
-      "street": "Havermarkt", 
-      "lon": 3.264714147129893
+      "street": "Havermarkt"
     }
-  ], 
-  "name": "Havermarkt"
+  ]
 }

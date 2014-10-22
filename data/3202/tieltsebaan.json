@@ -1,25 +1,23 @@
 {
-  "pcode": 3202, 
   "addresses": [
     {
-      "lat": 50.96912195197218, 
       "housenumber": "100", 
+      "lat": 50.96912195197218, 
+      "lon": 4.85064843384569, 
       "pcode": 3202, 
-      "street": "Tieltse Baan", 
-      "lon": 4.85064843384569
+      "street": "Tieltse Baan"
     }, 
     {
-      "lat": 50.957327351919, 
       "housenumber": "274", 
+      "lat": 50.957327351919, 
+      "lon": 4.89886500974485, 
       "pcode": 3202, 
-      "street": "Tieltse Baan", 
-      "lon": 4.89886500974485
+      "street": "Tieltse Baan"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3202, 
-      "street": "Tieltse Baan", 
-      "housenumber": "4"
+      "street": "Tieltse Baan"
     }
-  ], 
-  "name": "Tieltse Baan"
+  ]
 }

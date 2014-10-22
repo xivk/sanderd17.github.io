@@ -1,20 +1,18 @@
 {
-  "pcode": 2390, 
   "addresses": [
     {
-      "lat": 51.31828538122013, 
       "housenumber": "1", 
+      "lat": 51.31828538122013, 
+      "lon": 4.714636358782348, 
       "pcode": 2390, 
-      "street": "Klokkeven", 
-      "lon": 4.714636358782348
+      "street": "Klokkeven"
     }, 
     {
-      "lat": 51.31777954139646, 
       "housenumber": "2", 
+      "lat": 51.31777954139646, 
+      "lon": 4.714386317585872, 
       "pcode": 2390, 
-      "street": "Klokkeven", 
-      "lon": 4.714386317585872
+      "street": "Klokkeven"
     }
-  ], 
-  "name": "Klokkeven"
+  ]
 }

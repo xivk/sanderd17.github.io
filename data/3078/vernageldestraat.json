@@ -1,25 +1,23 @@
 {
-  "pcode": 3078, 
   "addresses": [
     {
-      "lat": 50.88513297368167, 
       "housenumber": "2", 
+      "lat": 50.88513297368167, 
+      "lon": 4.603169578600856, 
       "pcode": 3078, 
-      "street": "Vernageldestraat", 
-      "lon": 4.603169578600856
+      "street": "Vernageldestraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 3078, 
-      "street": "Vernageldestraat", 
-      "housenumber": "2A"
+      "street": "Vernageldestraat"
     }, 
     {
-      "lat": 50.88493360360661, 
       "housenumber": "6", 
+      "lat": 50.88493360360661, 
+      "lon": 4.604236250410353, 
       "pcode": 3078, 
-      "street": "Vernageldestraat", 
-      "lon": 4.604236250410353
+      "street": "Vernageldestraat"
     }
-  ], 
-  "name": "Vernageldestraat"
+  ]
 }

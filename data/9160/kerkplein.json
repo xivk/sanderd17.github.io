@@ -1,40 +1,38 @@
 {
-  "pcode": 9160, 
   "addresses": [
     {
-      "lat": 51.104375531098306, 
       "housenumber": "1", 
+      "lat": 51.104375531098306, 
+      "lon": 3.9911862942347303, 
       "pcode": 9160, 
-      "street": "Kerkplein", 
-      "lon": 3.9911862942347303
+      "street": "Kerkplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9160, 
-      "street": "Kerkplein", 
-      "housenumber": "2"
+      "street": "Kerkplein"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9160, 
-      "street": "Kerkplein", 
-      "housenumber": "3"
+      "street": "Kerkplein"
     }, 
     {
-      "lat": 51.10476425451916, 
       "housenumber": "4", 
+      "lat": 51.10476425451916, 
+      "lon": 3.992101229469467, 
       "pcode": 9160, 
-      "street": "Kerkplein", 
-      "lon": 3.992101229469467
+      "street": "Kerkplein"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9160, 
-      "street": "Kerkplein", 
-      "housenumber": "5"
+      "street": "Kerkplein"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9160, 
-      "street": "Kerkplein", 
-      "housenumber": "6"
+      "street": "Kerkplein"
     }
-  ], 
-  "name": "Kerkplein"
+  ]
 }

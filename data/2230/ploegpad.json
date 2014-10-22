@@ -1,27 +1,25 @@
 {
-  "pcode": 2230, 
   "addresses": [
     {
-      "lat": 51.049191198374714, 
       "housenumber": "1", 
+      "lat": 51.049191198374714, 
+      "lon": 4.945995808661637, 
       "pcode": 2230, 
-      "street": "Ploegpad", 
-      "lon": 4.945995808661637
+      "street": "Ploegpad"
     }, 
     {
-      "lat": 51.04901089878253, 
       "housenumber": "2", 
+      "lat": 51.04901089878253, 
+      "lon": 4.9457709658045435, 
       "pcode": 2230, 
-      "street": "Ploegpad", 
-      "lon": 4.9457709658045435
+      "street": "Ploegpad"
     }, 
     {
-      "lat": 51.0479960065656, 
       "housenumber": "3", 
+      "lat": 51.0479960065656, 
+      "lon": 4.943734684011714, 
       "pcode": 2230, 
-      "street": "Ploegpad", 
-      "lon": 4.943734684011714
+      "street": "Ploegpad"
     }
-  ], 
-  "name": "Ploegpad"
+  ]
 }

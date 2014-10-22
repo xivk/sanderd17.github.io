@@ -1,27 +1,25 @@
 {
-  "pcode": 2980, 
   "addresses": [
     {
-      "lat": 51.24429342398432, 
       "housenumber": "1", 
+      "lat": 51.24429342398432, 
+      "lon": 4.655693728791555, 
       "pcode": 2980, 
-      "street": "Landweg", 
-      "lon": 4.655693728791555
+      "street": "Landweg"
     }, 
     {
-      "lat": 51.24454637254101, 
       "housenumber": "2", 
+      "lat": 51.24454637254101, 
+      "lon": 4.656425643093777, 
       "pcode": 2980, 
-      "street": "Landweg", 
-      "lon": 4.656425643093777
+      "street": "Landweg"
     }, 
     {
-      "lat": 51.24426712558297, 
       "housenumber": "3", 
+      "lat": 51.24426712558297, 
+      "lon": 4.656232306083527, 
       "pcode": 2980, 
-      "street": "Landweg", 
-      "lon": 4.656232306083527
+      "street": "Landweg"
     }
-  ], 
-  "name": "Landweg"
+  ]
 }

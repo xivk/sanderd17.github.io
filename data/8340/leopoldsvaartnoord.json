@@ -1,20 +1,18 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.290247463884846, 
       "housenumber": "1", 
+      "lat": 51.290247463884846, 
+      "lon": 3.2714649943101306, 
       "pcode": 8340, 
-      "street": "Leopoldsvaart-Noord", 
-      "lon": 3.2714649943101306
+      "street": "Leopoldsvaart-Noord"
     }, 
     {
-      "lat": 51.28917511612928, 
       "housenumber": "2", 
+      "lat": 51.28917511612928, 
+      "lon": 3.270074015879886, 
       "pcode": 8340, 
-      "street": "Leopoldsvaart-Noord", 
-      "lon": 3.270074015879886
+      "street": "Leopoldsvaart-Noord"
     }
-  ], 
-  "name": "Leopoldsvaart-Noord"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3900, 
-      "street": "Meerveldstraat", 
-      "housenumber": "1"
+      "street": "Meerveldstraat"
     }, 
     {
-      "lat": 51.1964144881588, 
       "housenumber": "5", 
+      "lat": 51.1964144881588, 
+      "lon": 5.40247425619765, 
       "pcode": 3900, 
-      "street": "Meerveldstraat", 
-      "lon": 5.40247425619765
+      "street": "Meerveldstraat"
     }
-  ], 
-  "name": "Meerveldstraat"
+  ]
 }

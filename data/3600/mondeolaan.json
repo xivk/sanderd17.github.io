@@ -1,44 +1,42 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.932939991493505, 
       "housenumber": "1", 
+      "lat": 50.932939991493505, 
+      "lon": 5.4985172854157796, 
       "pcode": 3600, 
-      "street": "Mondeolaan", 
-      "lon": 5.4985172854157796
+      "street": "Mondeolaan"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 3600, 
-      "street": "Mondeolaan", 
-      "housenumber": "1A"
+      "street": "Mondeolaan"
     }, 
     {
-      "lat": 50.93180717162167, 
       "housenumber": "2", 
+      "lat": 50.93180717162167, 
+      "lon": 5.495602249030287, 
       "pcode": 3600, 
-      "street": "Mondeolaan", 
-      "lon": 5.495602249030287
+      "street": "Mondeolaan"
     }, 
     {
-      "lat": 50.9313072964265, 
       "housenumber": "5", 
+      "lat": 50.9313072964265, 
+      "lon": 5.5003804690745115, 
       "pcode": 3600, 
-      "street": "Mondeolaan", 
-      "lon": 5.5003804690745115
+      "street": "Mondeolaan"
     }, 
     {
-      "lat": 50.92906795499939, 
       "housenumber": "6", 
+      "lat": 50.92906795499939, 
+      "lon": 5.496777064822927, 
       "pcode": 3600, 
-      "street": "Mondeolaan", 
-      "lon": 5.496777064822927
+      "street": "Mondeolaan"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3600, 
-      "street": "Mondeolaan", 
-      "housenumber": "7"
+      "street": "Mondeolaan"
     }
-  ], 
-  "name": "Mondeolaan"
+  ]
 }

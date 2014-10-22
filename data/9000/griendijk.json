@@ -1,74 +1,72 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9000, 
-      "street": "Griendijk", 
-      "housenumber": "1"
+      "street": "Griendijk"
     }, 
     {
-      "lat": 51.049505085433864, 
       "housenumber": "12", 
+      "lat": 51.049505085433864, 
+      "lon": 3.6955970021809814, 
       "pcode": 9000, 
-      "street": "Griendijk", 
-      "lon": 3.6955970021809814
+      "street": "Griendijk"
     }, 
     {
-      "lat": 51.049285141572284, 
       "housenumber": "14", 
+      "lat": 51.049285141572284, 
+      "lon": 3.6957745791148624, 
       "pcode": 9000, 
-      "street": "Griendijk", 
-      "lon": 3.6957745791148624
+      "street": "Griendijk"
     }, 
     {
-      "lat": 51.04924450879504, 
       "housenumber": "15", 
+      "lat": 51.04924450879504, 
+      "lon": 3.69567989685223, 
       "pcode": 9000, 
-      "street": "Griendijk", 
-      "lon": 3.69567989685223
+      "street": "Griendijk"
     }, 
     {
-      "lat": 51.049154888777196, 
       "housenumber": "16", 
+      "lat": 51.049154888777196, 
+      "lon": 3.6956332662853697, 
       "pcode": 9000, 
-      "street": "Griendijk", 
-      "lon": 3.6956332662853697
+      "street": "Griendijk"
     }, 
     {
-      "lat": 51.04907458522218, 
       "housenumber": "17", 
+      "lat": 51.04907458522218, 
+      "lon": 3.6953762902257137, 
       "pcode": 9000, 
-      "street": "Griendijk", 
-      "lon": 3.6953762902257137
+      "street": "Griendijk"
     }, 
     {
-      "lat": 51.04996155723632, 
       "housenumber": "1A", 
+      "lat": 51.04996155723632, 
+      "lon": 3.695186697765892, 
       "pcode": 9000, 
-      "street": "Griendijk", 
-      "lon": 3.695186697765892
+      "street": "Griendijk"
     }, 
     {
-      "lat": 51.0419693592679, 
       "housenumber": "3", 
+      "lat": 51.0419693592679, 
+      "lon": 3.6910361013215702, 
       "pcode": 9000, 
-      "street": "Griendijk", 
-      "lon": 3.6910361013215702
+      "street": "Griendijk"
     }, 
     {
-      "lat": 51.049964627156285, 
       "housenumber": "4", 
+      "lat": 51.049964627156285, 
+      "lon": 3.6964492319443365, 
       "pcode": 9000, 
-      "street": "Griendijk", 
-      "lon": 3.6964492319443365
+      "street": "Griendijk"
     }, 
     {
-      "lat": 51.04972364687817, 
       "housenumber": "6", 
+      "lat": 51.04972364687817, 
+      "lon": 3.6962956708451427, 
       "pcode": 9000, 
-      "street": "Griendijk", 
-      "lon": 3.6962956708451427
+      "street": "Griendijk"
     }
-  ], 
-  "name": "Griendijk"
+  ]
 }

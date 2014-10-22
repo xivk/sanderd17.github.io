@@ -1,18 +1,16 @@
 {
-  "pcode": 2260, 
   "addresses": [
     {
-      "lat": 51.082134455616874, 
       "housenumber": "1", 
+      "lat": 51.082134455616874, 
+      "lon": 4.910058249512339, 
       "pcode": 2260, 
-      "street": "Kwarekkendreef", 
-      "lon": 4.910058249512339
+      "street": "Kwarekkendreef"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2260, 
-      "street": "Kwarekkendreef", 
-      "housenumber": "2"
+      "street": "Kwarekkendreef"
     }
-  ], 
-  "name": "Kwarekkendreef"
+  ]
 }

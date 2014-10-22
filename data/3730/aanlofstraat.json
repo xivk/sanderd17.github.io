@@ -1,20 +1,18 @@
 {
-  "pcode": 3730, 
   "addresses": [
     {
-      "lat": 50.87877747254692, 
       "housenumber": "1", 
+      "lat": 50.87877747254692, 
+      "lon": 5.451745513532186, 
       "pcode": 3730, 
-      "street": "Aanlofstraat", 
-      "lon": 5.451745513532186
+      "street": "Aanlofstraat"
     }, 
     {
-      "lat": 50.878594551133084, 
       "housenumber": "2", 
+      "lat": 50.878594551133084, 
+      "lon": 5.451693261989398, 
       "pcode": 3730, 
-      "street": "Aanlofstraat", 
-      "lon": 5.451693261989398
+      "street": "Aanlofstraat"
     }
-  ], 
-  "name": "Aanlofstraat"
+  ]
 }

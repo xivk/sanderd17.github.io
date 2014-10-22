@@ -1,32 +1,30 @@
 {
-  "pcode": 1670, 
   "addresses": [
     {
-      "lat": 50.75589126432089, 
       "housenumber": "1", 
+      "lat": 50.75589126432089, 
+      "lon": 4.194668677334814, 
       "pcode": 1670, 
-      "street": "Manebroek", 
-      "lon": 4.194668677334814
+      "street": "Manebroek"
     }, 
     {
-      "lat": 50.7559623096607, 
       "housenumber": "2", 
+      "lat": 50.7559623096607, 
+      "lon": 4.193718040195826, 
       "pcode": 1670, 
-      "street": "Manebroek", 
-      "lon": 4.193718040195826
+      "street": "Manebroek"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 1670, 
-      "street": "Manebroek", 
-      "housenumber": "2A"
+      "street": "Manebroek"
     }, 
     {
-      "lat": 50.75677502280045, 
       "housenumber": "3", 
+      "lat": 50.75677502280045, 
+      "lon": 4.193986288912804, 
       "pcode": 1670, 
-      "street": "Manebroek", 
-      "lon": 4.193986288912804
+      "street": "Manebroek"
     }
-  ], 
-  "name": "Manebroek"
+  ]
 }

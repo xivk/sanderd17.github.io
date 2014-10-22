@@ -1,25 +1,23 @@
 {
-  "pcode": 3920, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 3920, 
-      "street": "Anton Philipsweg", 
-      "housenumber": "11"
+      "street": "Anton Philipsweg"
     }, 
     {
-      "lat": 51.21363764984538, 
       "housenumber": "2", 
+      "lat": 51.21363764984538, 
+      "lon": 5.29529135585795, 
       "pcode": 3920, 
-      "street": "Anton Philipsweg", 
-      "lon": 5.29529135585795
+      "street": "Anton Philipsweg"
     }, 
     {
-      "lat": 51.21556661529899, 
       "housenumber": "4", 
+      "lat": 51.21556661529899, 
+      "lon": 5.292801936588156, 
       "pcode": 3920, 
-      "street": "Anton Philipsweg", 
-      "lon": 5.292801936588156
+      "street": "Anton Philipsweg"
     }
-  ], 
-  "name": "Anton Philipsweg"
+  ]
 }

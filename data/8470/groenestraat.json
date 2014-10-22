@@ -1,20 +1,18 @@
 {
-  "pcode": 8470, 
   "addresses": [
     {
-      "lat": 51.15025676455961, 
       "housenumber": "1", 
+      "lat": 51.15025676455961, 
+      "lon": 2.980378146390774, 
       "pcode": 8470, 
-      "street": "Groenestraat", 
-      "lon": 2.980378146390774
+      "street": "Groenestraat"
     }, 
     {
-      "lat": 51.149410888479494, 
       "housenumber": "3", 
+      "lat": 51.149410888479494, 
+      "lon": 2.981289503529202, 
       "pcode": 8470, 
-      "street": "Groenestraat", 
-      "lon": 2.981289503529202
+      "street": "Groenestraat"
     }
-  ], 
-  "name": "Groenestraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 2811, 
   "addresses": [
     {
-      "lat": 51.01190134592064, 
       "housenumber": "1", 
+      "lat": 51.01190134592064, 
+      "lon": 4.444074544051253, 
       "pcode": 2811, 
-      "street": "Bergenstraat", 
-      "lon": 4.444074544051253
+      "street": "Bergenstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2811, 
-      "street": "Bergenstraat", 
-      "housenumber": "2"
+      "street": "Bergenstraat"
     }
-  ], 
-  "name": "Bergenstraat"
+  ]
 }

@@ -1,41 +1,39 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.20949735238115, 
       "housenumber": "1", 
+      "lat": 51.20949735238115, 
+      "lon": 3.2265332627547147, 
       "pcode": 8000, 
-      "street": "Burgstraat", 
-      "lon": 3.2265332627547147
+      "street": "Burgstraat"
     }, 
     {
-      "lat": 51.20945411753785, 
       "housenumber": "2", 
+      "lat": 51.20945411753785, 
+      "lon": 3.2262731368717, 
       "pcode": 8000, 
-      "street": "Burgstraat", 
-      "lon": 3.2262731368717
+      "street": "Burgstraat"
     }, 
     {
-      "lat": 51.20940383530551, 
       "housenumber": "3", 
+      "lat": 51.20940383530551, 
+      "lon": 3.2265491476677863, 
       "pcode": 8000, 
-      "street": "Burgstraat", 
-      "lon": 3.2265491476677863
+      "street": "Burgstraat"
     }, 
     {
-      "lat": 51.20937400114912, 
       "housenumber": "4", 
+      "lat": 51.20937400114912, 
+      "lon": 3.226336208178675, 
       "pcode": 8000, 
-      "street": "Burgstraat", 
-      "lon": 3.226336208178675
+      "street": "Burgstraat"
     }, 
     {
-      "lat": 51.209367056041444, 
       "housenumber": "5B", 
+      "lat": 51.209367056041444, 
+      "lon": 3.2263244997147855, 
       "pcode": 8000, 
-      "street": "Burgstraat", 
-      "lon": 3.2263244997147855
+      "street": "Burgstraat"
     }
-  ], 
-  "name": "Burgstraat"
+  ]
 }

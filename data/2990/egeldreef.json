@@ -1,20 +1,18 @@
 {
-  "pcode": 2990, 
   "addresses": [
     {
-      "lat": 51.388581055729674, 
       "housenumber": "5", 
+      "lat": 51.388581055729674, 
+      "lon": 4.5472473310900305, 
       "pcode": 2990, 
-      "street": "Egeldreef", 
-      "lon": 4.5472473310900305
+      "street": "Egeldreef"
     }, 
     {
-      "lat": 51.38876379586196, 
       "housenumber": "7", 
+      "lat": 51.38876379586196, 
+      "lon": 4.546996791431472, 
       "pcode": 2990, 
-      "street": "Egeldreef", 
-      "lon": 4.546996791431472
+      "street": "Egeldreef"
     }
-  ], 
-  "name": "Egeldreef"
+  ]
 }

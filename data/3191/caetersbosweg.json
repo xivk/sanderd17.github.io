@@ -1,25 +1,23 @@
 {
-  "pcode": 3191, 
   "addresses": [
     {
-      "lat": 50.97184731961973, 
       "housenumber": "1", 
+      "lat": 50.97184731961973, 
+      "lon": 4.535462060736769, 
       "pcode": 3191, 
-      "street": "Caetersbosweg", 
-      "lon": 4.535462060736769
+      "street": "Caetersbosweg"
     }, 
     {
+      "housenumber": "16", 
       "pcode": 3191, 
-      "street": "Caetersbosweg", 
-      "housenumber": "16"
+      "street": "Caetersbosweg"
     }, 
     {
-      "lat": 50.974461172723316, 
       "housenumber": "8", 
+      "lat": 50.974461172723316, 
+      "lon": 4.532934882829506, 
       "pcode": 3191, 
-      "street": "Caetersbosweg", 
-      "lon": 4.532934882829506
+      "street": "Caetersbosweg"
     }
-  ], 
-  "name": "Caetersbosweg"
+  ]
 }

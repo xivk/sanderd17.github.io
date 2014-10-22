@@ -1,27 +1,25 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05210727554458, 
       "housenumber": "1", 
+      "lat": 51.05210727554458, 
+      "lon": 3.728405628427919, 
       "pcode": 9000, 
-      "street": "Geraard de Duivelstraat", 
-      "lon": 3.728405628427919
+      "street": "Geraard de Duivelstraat"
     }, 
     {
-      "lat": 51.052387855662495, 
       "housenumber": "3", 
+      "lat": 51.052387855662495, 
+      "lon": 3.728592337300597, 
       "pcode": 9000, 
-      "street": "Geraard de Duivelstraat", 
-      "lon": 3.728592337300597
+      "street": "Geraard de Duivelstraat"
     }, 
     {
-      "lat": 51.05238255805196, 
       "housenumber": "5", 
+      "lat": 51.05238255805196, 
+      "lon": 3.728543775353497, 
       "pcode": 9000, 
-      "street": "Geraard de Duivelstraat", 
-      "lon": 3.728543775353497
+      "street": "Geraard de Duivelstraat"
     }
-  ], 
-  "name": "Geraard de Duivelstraat"
+  ]
 }

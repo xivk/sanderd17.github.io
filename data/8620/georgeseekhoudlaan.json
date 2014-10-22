@@ -1,53 +1,51 @@
 {
-  "pcode": 8620, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8620, 
-      "street": "Georges Eekhoudlaan", 
-      "housenumber": "1"
+      "street": "Georges Eekhoudlaan"
     }, 
     {
-      "lat": 51.14367745722217, 
       "housenumber": "11", 
+      "lat": 51.14367745722217, 
+      "lon": 2.7230239225921054, 
       "pcode": 8620, 
-      "street": "Georges Eekhoudlaan", 
-      "lon": 2.7230239225921054
+      "street": "Georges Eekhoudlaan"
     }, 
     {
-      "lat": 51.14393530884626, 
       "housenumber": "3", 
+      "lat": 51.14393530884626, 
+      "lon": 2.7215856616506637, 
       "pcode": 8620, 
-      "street": "Georges Eekhoudlaan", 
-      "lon": 2.7215856616506637
+      "street": "Georges Eekhoudlaan"
     }, 
     {
-      "lat": 51.14432617021306, 
       "housenumber": "4", 
+      "lat": 51.14432617021306, 
+      "lon": 2.721381493671911, 
       "pcode": 8620, 
-      "street": "Georges Eekhoudlaan", 
-      "lon": 2.721381493671911
+      "street": "Georges Eekhoudlaan"
     }, 
     {
-      "lat": 51.14394371063703, 
       "housenumber": "5", 
+      "lat": 51.14394371063703, 
+      "lon": 2.7219108218552877, 
       "pcode": 8620, 
-      "street": "Georges Eekhoudlaan", 
-      "lon": 2.7219108218552877
+      "street": "Georges Eekhoudlaan"
     }, 
     {
-      "lat": 51.14393379604196, 
       "housenumber": "7", 
+      "lat": 51.14393379604196, 
+      "lon": 2.722444165028294, 
       "pcode": 8620, 
-      "street": "Georges Eekhoudlaan", 
-      "lon": 2.722444165028294
+      "street": "Georges Eekhoudlaan"
     }, 
     {
-      "lat": 51.14383133463715, 
       "housenumber": "9", 
+      "lat": 51.14383133463715, 
+      "lon": 2.7228271164698503, 
       "pcode": 8620, 
-      "street": "Georges Eekhoudlaan", 
-      "lon": 2.7228271164698503
+      "street": "Georges Eekhoudlaan"
     }
-  ], 
-  "name": "Georges Eekhoudlaan"
+  ]
 }

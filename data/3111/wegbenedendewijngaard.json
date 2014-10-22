@@ -1,18 +1,16 @@
 {
-  "pcode": 3111, 
   "addresses": [
     {
-      "lat": 50.950108259546695, 
       "housenumber": "1", 
+      "lat": 50.950108259546695, 
+      "lon": 4.77211984312535, 
       "pcode": 3111, 
-      "street": "Weg beneden de wijngaard", 
-      "lon": 4.77211984312535
+      "street": "Weg beneden de wijngaard"
     }, 
     {
+      "housenumber": "16", 
       "pcode": 3111, 
-      "street": "Weg beneden de wijngaard", 
-      "housenumber": "16"
+      "street": "Weg beneden de wijngaard"
     }
-  ], 
-  "name": "Weg beneden de wijngaard"
+  ]
 }

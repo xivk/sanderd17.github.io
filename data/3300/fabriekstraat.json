@@ -1,32 +1,30 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.800924979036125, 
       "housenumber": "64", 
+      "lat": 50.800924979036125, 
+      "lon": 4.952307411613128, 
       "pcode": 3300, 
-      "street": "Fabriekstraat", 
-      "lon": 4.952307411613128
+      "street": "Fabriekstraat"
     }, 
     {
-      "lat": 50.80090600052152, 
       "housenumber": "66", 
+      "lat": 50.80090600052152, 
+      "lon": 4.952417542690064, 
       "pcode": 3300, 
-      "street": "Fabriekstraat", 
-      "lon": 4.952417542690064
+      "street": "Fabriekstraat"
     }, 
     {
-      "lat": 50.800897731252334, 
       "housenumber": "68", 
+      "lat": 50.800897731252334, 
+      "lon": 4.952525395089518, 
       "pcode": 3300, 
-      "street": "Fabriekstraat", 
-      "lon": 4.952525395089518
+      "street": "Fabriekstraat"
     }, 
     {
+      "housenumber": "ZN", 
       "pcode": 3300, 
-      "street": "Fabriekstraat", 
-      "housenumber": "ZN"
+      "street": "Fabriekstraat"
     }
-  ], 
-  "name": "Fabriekstraat"
+  ]
 }

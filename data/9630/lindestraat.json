@@ -1,20 +1,18 @@
 {
-  "pcode": 9630, 
   "addresses": [
     {
-      "lat": 50.89038362660797, 
       "housenumber": "33_1", 
+      "lat": 50.89038362660797, 
+      "lon": 3.6879596059671105, 
       "pcode": 9630, 
-      "street": "Lindestraat", 
-      "lon": 3.6879596059671105
+      "street": "Lindestraat"
     }, 
     {
-      "lat": 50.89762194708221, 
       "housenumber": "90", 
+      "lat": 50.89762194708221, 
+      "lon": 3.694906135478898, 
       "pcode": 9630, 
-      "street": "Lindestraat", 
-      "lon": 3.694906135478898
+      "street": "Lindestraat"
     }
-  ], 
-  "name": "Lindestraat"
+  ]
 }

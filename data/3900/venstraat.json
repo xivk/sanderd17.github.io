@@ -1,23 +1,21 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
-      "lat": 51.19470955532874, 
       "housenumber": "19", 
+      "lat": 51.19470955532874, 
+      "lon": 5.372677883038878, 
       "pcode": 3900, 
-      "street": "Venstraat", 
-      "lon": 5.372677883038878
+      "street": "Venstraat"
     }, 
     {
+      "housenumber": "32", 
       "pcode": 3900, 
-      "street": "Venstraat", 
-      "housenumber": "32"
+      "street": "Venstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3900, 
-      "street": "Venstraat", 
-      "housenumber": "4"
+      "street": "Venstraat"
     }
-  ], 
-  "name": "Venstraat"
+  ]
 }

@@ -1,43 +1,41 @@
 {
-  "pcode": 3200, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3200, 
-      "street": "Gijmelhoekstraat", 
-      "housenumber": "1"
+      "street": "Gijmelhoekstraat"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 3200, 
-      "street": "Gijmelhoekstraat", 
-      "housenumber": "10"
+      "street": "Gijmelhoekstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3200, 
-      "street": "Gijmelhoekstraat", 
-      "housenumber": "2"
+      "street": "Gijmelhoekstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3200, 
-      "street": "Gijmelhoekstraat", 
-      "housenumber": "3"
+      "street": "Gijmelhoekstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3200, 
-      "street": "Gijmelhoekstraat", 
-      "housenumber": "4"
+      "street": "Gijmelhoekstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3200, 
-      "street": "Gijmelhoekstraat", 
-      "housenumber": "5"
+      "street": "Gijmelhoekstraat"
     }, 
     {
-      "lat": 51.005573558826505, 
       "housenumber": "7", 
+      "lat": 51.005573558826505, 
+      "lon": 4.843317025041577, 
       "pcode": 3200, 
-      "street": "Gijmelhoekstraat", 
-      "lon": 4.843317025041577
+      "street": "Gijmelhoekstraat"
     }
-  ], 
-  "name": "Gijmelhoekstraat"
+  ]
 }

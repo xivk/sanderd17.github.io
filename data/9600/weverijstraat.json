@@ -1,53 +1,51 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.75083521700231, 
       "housenumber": "1", 
+      "lat": 50.75083521700231, 
+      "lon": 3.637767682507968, 
       "pcode": 9600, 
-      "street": "Weverijstraat", 
-      "lon": 3.637767682507968
+      "street": "Weverijstraat"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 9600, 
-      "street": "Weverijstraat", 
-      "housenumber": "11"
+      "street": "Weverijstraat"
     }, 
     {
-      "lat": 50.75063999125795, 
       "housenumber": "13", 
+      "lat": 50.75063999125795, 
+      "lon": 3.639331935351526, 
       "pcode": 9600, 
-      "street": "Weverijstraat", 
-      "lon": 3.639331935351526
+      "street": "Weverijstraat"
     }, 
     {
-      "lat": 50.74908064350728, 
       "housenumber": "14", 
+      "lat": 50.74908064350728, 
+      "lon": 3.6412978548993133, 
       "pcode": 9600, 
-      "street": "Weverijstraat", 
-      "lon": 3.6412978548993133
+      "street": "Weverijstraat"
     }, 
     {
-      "lat": 50.752751788097385, 
       "housenumber": "2", 
+      "lat": 50.752751788097385, 
+      "lon": 3.640908458929533, 
       "pcode": 9600, 
-      "street": "Weverijstraat", 
-      "lon": 3.640908458929533
+      "street": "Weverijstraat"
     }, 
     {
-      "lat": 50.75236571369514, 
       "housenumber": "4", 
+      "lat": 50.75236571369514, 
+      "lon": 3.6409893867287897, 
       "pcode": 9600, 
-      "street": "Weverijstraat", 
-      "lon": 3.6409893867287897
+      "street": "Weverijstraat"
     }, 
     {
-      "lat": 50.75187523228905, 
       "housenumber": "6", 
+      "lat": 50.75187523228905, 
+      "lon": 3.6416299955535205, 
       "pcode": 9600, 
-      "street": "Weverijstraat", 
-      "lon": 3.6416299955535205
+      "street": "Weverijstraat"
     }
-  ], 
-  "name": "Weverijstraat"
+  ]
 }

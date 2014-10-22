@@ -1,25 +1,23 @@
 {
-  "pcode": 2530, 
   "addresses": [
     {
-      "lat": 51.1563330088602, 
       "housenumber": "10", 
+      "lat": 51.1563330088602, 
+      "lon": 4.48725905666392, 
       "pcode": 2530, 
-      "street": "Doornstraat", 
-      "lon": 4.48725905666392
+      "street": "Doornstraat"
     }, 
     {
+      "housenumber": "45", 
       "pcode": 2530, 
-      "street": "Doornstraat", 
-      "housenumber": "45"
+      "street": "Doornstraat"
     }, 
     {
-      "lat": 51.15656497879528, 
       "housenumber": "5", 
+      "lat": 51.15656497879528, 
+      "lon": 4.4881720078555265, 
       "pcode": 2530, 
-      "street": "Doornstraat", 
-      "lon": 4.4881720078555265
+      "street": "Doornstraat"
     }
-  ], 
-  "name": "Doornstraat"
+  ]
 }

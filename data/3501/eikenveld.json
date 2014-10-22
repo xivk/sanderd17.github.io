@@ -1,20 +1,18 @@
 {
-  "pcode": 3501, 
   "addresses": [
     {
-      "lat": 50.88085294660307, 
       "housenumber": "51", 
+      "lat": 50.88085294660307, 
+      "lon": 5.359813966033752, 
       "pcode": 3501, 
-      "street": "Eikenveld", 
-      "lon": 5.359813966033752
+      "street": "Eikenveld"
     }, 
     {
-      "lat": 50.87977971743892, 
       "housenumber": "52", 
+      "lat": 50.87977971743892, 
+      "lon": 5.360863780285829, 
       "pcode": 3501, 
-      "street": "Eikenveld", 
-      "lon": 5.360863780285829
+      "street": "Eikenveld"
     }
-  ], 
-  "name": "Eikenveld"
+  ]
 }

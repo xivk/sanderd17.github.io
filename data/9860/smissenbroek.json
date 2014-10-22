@@ -1,25 +1,23 @@
 {
-  "pcode": 9860, 
   "addresses": [
     {
-      "lat": 50.94586302137988, 
       "housenumber": "1", 
+      "lat": 50.94586302137988, 
+      "lon": 3.8138355657078087, 
       "pcode": 9860, 
-      "street": "Smissenbroek", 
-      "lon": 3.8138355657078087
+      "street": "Smissenbroek"
     }, 
     {
-      "lat": 50.945880474826005, 
       "housenumber": "2", 
+      "lat": 50.945880474826005, 
+      "lon": 3.8145252179599094, 
       "pcode": 9860, 
-      "street": "Smissenbroek", 
-      "lon": 3.8145252179599094
+      "street": "Smissenbroek"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9860, 
-      "street": "Smissenbroek", 
-      "housenumber": "3"
+      "street": "Smissenbroek"
     }
-  ], 
-  "name": "Smissenbroek"
+  ]
 }

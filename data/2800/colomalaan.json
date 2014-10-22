@@ -1,25 +1,23 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
-      "lat": 51.01394247912421, 
       "housenumber": "1", 
+      "lat": 51.01394247912421, 
+      "lon": 4.480666558285899, 
       "pcode": 2800, 
-      "street": "Colomalaan", 
-      "lon": 4.480666558285899
+      "street": "Colomalaan"
     }, 
     {
-      "lat": 51.01409519701987, 
       "housenumber": "3", 
+      "lat": 51.01409519701987, 
+      "lon": 4.4810484005270395, 
       "pcode": 2800, 
-      "street": "Colomalaan", 
-      "lon": 4.4810484005270395
+      "street": "Colomalaan"
     }, 
     {
+      "housenumber": "47", 
       "pcode": 2800, 
-      "street": "Colomalaan", 
-      "housenumber": "47"
+      "street": "Colomalaan"
     }
-  ], 
-  "name": "Colomalaan"
+  ]
 }

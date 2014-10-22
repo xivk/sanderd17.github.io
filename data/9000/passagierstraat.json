@@ -1,13 +1,11 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.1022435101789, 
       "housenumber": "100", 
+      "lat": 51.1022435101789, 
+      "lon": 3.7268278427509194, 
       "pcode": 9000, 
-      "street": "Passagierstraat", 
-      "lon": 3.7268278427509194
+      "street": "Passagierstraat"
     }
-  ], 
-  "name": "Passagierstraat"
+  ]
 }

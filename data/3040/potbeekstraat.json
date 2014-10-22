@@ -1,65 +1,63 @@
 {
-  "pcode": 3040, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3040, 
-      "street": "Potbeekstraat", 
-      "housenumber": "10"
+      "street": "Potbeekstraat"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 3040, 
-      "street": "Potbeekstraat", 
-      "housenumber": "12"
+      "street": "Potbeekstraat"
     }, 
     {
-      "lat": 50.749485899478486, 
       "housenumber": "16", 
+      "lat": 50.749485899478486, 
+      "lon": 4.601050184962784, 
       "pcode": 3040, 
-      "street": "Potbeekstraat", 
-      "lon": 4.601050184962784
+      "street": "Potbeekstraat"
     }, 
     {
-      "lat": 50.748564777213424, 
       "housenumber": "2", 
+      "lat": 50.748564777213424, 
+      "lon": 4.604337988015954, 
       "pcode": 3040, 
-      "street": "Potbeekstraat", 
-      "lon": 4.604337988015954
+      "street": "Potbeekstraat"
     }, 
     {
-      "lat": 50.74829241818362, 
       "housenumber": "3", 
+      "lat": 50.74829241818362, 
+      "lon": 4.6022199457397, 
       "pcode": 3040, 
-      "street": "Potbeekstraat", 
-      "lon": 4.6022199457397
+      "street": "Potbeekstraat"
     }, 
     {
-      "lat": 50.74877220446223, 
       "housenumber": "4", 
+      "lat": 50.74877220446223, 
+      "lon": 4.603652780728038, 
       "pcode": 3040, 
-      "street": "Potbeekstraat", 
-      "lon": 4.603652780728038
+      "street": "Potbeekstraat"
     }, 
     {
-      "lat": 50.74846875946692, 
       "housenumber": "5", 
+      "lat": 50.74846875946692, 
+      "lon": 4.602014368351619, 
       "pcode": 3040, 
-      "street": "Potbeekstraat", 
-      "lon": 4.602014368351619
+      "street": "Potbeekstraat"
     }, 
     {
-      "lat": 50.74847466877505, 
       "housenumber": "6", 
+      "lat": 50.74847466877505, 
+      "lon": 4.603460992340523, 
       "pcode": 3040, 
-      "street": "Potbeekstraat", 
-      "lon": 4.603460992340523
+      "street": "Potbeekstraat"
     }, 
     {
-      "lat": 50.74848193012443, 
       "housenumber": "8", 
+      "lat": 50.74848193012443, 
+      "lon": 4.602665252656144, 
       "pcode": 3040, 
-      "street": "Potbeekstraat", 
-      "lon": 4.602665252656144
+      "street": "Potbeekstraat"
     }
-  ], 
-  "name": "Potbeekstraat"
+  ]
 }

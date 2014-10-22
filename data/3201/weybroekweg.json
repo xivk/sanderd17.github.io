@@ -1,20 +1,18 @@
 {
-  "pcode": 3201, 
   "addresses": [
     {
-      "lat": 51.03122386569552, 
       "housenumber": "12", 
+      "lat": 51.03122386569552, 
+      "lon": 4.911792856164937, 
       "pcode": 3201, 
-      "street": "Weybroekweg", 
-      "lon": 4.911792856164937
+      "street": "Weybroekweg"
     }, 
     {
-      "lat": 51.032510337578664, 
       "housenumber": "17", 
+      "lat": 51.032510337578664, 
+      "lon": 4.911203909645851, 
       "pcode": 3201, 
-      "street": "Weybroekweg", 
-      "lon": 4.911203909645851
+      "street": "Weybroekweg"
     }
-  ], 
-  "name": "Weybroekweg"
+  ]
 }

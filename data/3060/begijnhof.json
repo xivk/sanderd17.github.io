@@ -1,32 +1,30 @@
 {
-  "pcode": 3060, 
   "addresses": [
     {
-      "lat": 50.83563357917953, 
       "housenumber": "1", 
+      "lat": 50.83563357917953, 
+      "lon": 4.634814400852511, 
       "pcode": 3060, 
-      "street": "Begijnhof", 
-      "lon": 4.634814400852511
+      "street": "Begijnhof"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3060, 
-      "street": "Begijnhof", 
-      "housenumber": "3"
+      "street": "Begijnhof"
     }, 
     {
-      "lat": 50.83566410111038, 
       "housenumber": "4", 
+      "lat": 50.83566410111038, 
+      "lon": 4.634358595493588, 
       "pcode": 3060, 
-      "street": "Begijnhof", 
-      "lon": 4.634358595493588
+      "street": "Begijnhof"
     }, 
     {
-      "lat": 50.83575117175826, 
       "housenumber": "4A", 
+      "lat": 50.83575117175826, 
+      "lon": 4.634533842853532, 
       "pcode": 3060, 
-      "street": "Begijnhof", 
-      "lon": 4.634533842853532
+      "street": "Begijnhof"
     }
-  ], 
-  "name": "Begijnhof"
+  ]
 }

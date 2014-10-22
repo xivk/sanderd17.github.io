@@ -1,39 +1,37 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3500, 
-      "street": "Welvaartstraat", 
-      "housenumber": "1"
+      "street": "Welvaartstraat"
     }, 
     {
-      "lat": 50.926427319364585, 
       "housenumber": "21", 
+      "lat": 50.926427319364585, 
+      "lon": 5.3376738438207605, 
       "pcode": 3500, 
-      "street": "Welvaartstraat", 
-      "lon": 5.3376738438207605
+      "street": "Welvaartstraat"
     }, 
     {
-      "lat": 50.92655360462176, 
       "housenumber": "23", 
+      "lat": 50.92655360462176, 
+      "lon": 5.337731360648869, 
       "pcode": 3500, 
-      "street": "Welvaartstraat", 
-      "lon": 5.337731360648869
+      "street": "Welvaartstraat"
     }, 
     {
-      "lat": 50.92684369810571, 
       "housenumber": "3", 
+      "lat": 50.92684369810571, 
+      "lon": 5.33680705368757, 
       "pcode": 3500, 
-      "street": "Welvaartstraat", 
-      "lon": 5.33680705368757
+      "street": "Welvaartstraat"
     }, 
     {
-      "lat": 50.926860757980556, 
       "housenumber": "5", 
+      "lat": 50.926860757980556, 
+      "lon": 5.336798728758362, 
       "pcode": 3500, 
-      "street": "Welvaartstraat", 
-      "lon": 5.336798728758362
+      "street": "Welvaartstraat"
     }
-  ], 
-  "name": "Welvaartstraat"
+  ]
 }

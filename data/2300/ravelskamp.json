@@ -1,20 +1,18 @@
 {
-  "pcode": 2300, 
   "addresses": [
     {
-      "lat": 51.38378098088766, 
       "housenumber": "3", 
+      "lat": 51.38378098088766, 
+      "lon": 4.963767335739009, 
       "pcode": 2300, 
-      "street": "Ravelskamp", 
-      "lon": 4.963767335739009
+      "street": "Ravelskamp"
     }, 
     {
-      "lat": 51.38391496718762, 
       "housenumber": "4", 
+      "lat": 51.38391496718762, 
+      "lon": 4.963808267283474, 
       "pcode": 2300, 
-      "street": "Ravelskamp", 
-      "lon": 4.963808267283474
+      "street": "Ravelskamp"
     }
-  ], 
-  "name": "Ravelskamp"
+  ]
 }

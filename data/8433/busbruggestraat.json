@@ -1,20 +1,18 @@
 {
-  "pcode": 8433, 
   "addresses": [
     {
-      "lat": 51.13076501666352, 
       "housenumber": "1", 
+      "lat": 51.13076501666352, 
+      "lon": 2.837094124945451, 
       "pcode": 8433, 
-      "street": "Busbruggestraat", 
-      "lon": 2.837094124945451
+      "street": "Busbruggestraat"
     }, 
     {
-      "lat": 51.13274362757437, 
       "housenumber": "2", 
+      "lat": 51.13274362757437, 
+      "lon": 2.838193139931235, 
       "pcode": 8433, 
-      "street": "Busbruggestraat", 
-      "lon": 2.838193139931235
+      "street": "Busbruggestraat"
     }
-  ], 
-  "name": "Busbruggestraat"
+  ]
 }

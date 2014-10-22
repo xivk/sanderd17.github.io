@@ -1,20 +1,18 @@
 {
-  "pcode": 8460, 
   "addresses": [
     {
-      "lat": 51.18540074886607, 
       "housenumber": "1", 
+      "lat": 51.18540074886607, 
+      "lon": 3.0058133546786836, 
       "pcode": 8460, 
-      "street": "John Cordierpad", 
-      "lon": 3.0058133546786836
+      "street": "John Cordierpad"
     }, 
     {
-      "lat": 51.1852736116891, 
       "housenumber": "2", 
+      "lat": 51.1852736116891, 
+      "lon": 3.005842958150298, 
       "pcode": 8460, 
-      "street": "John Cordierpad", 
-      "lon": 3.005842958150298
+      "street": "John Cordierpad"
     }
-  ], 
-  "name": "John Cordierpad"
+  ]
 }

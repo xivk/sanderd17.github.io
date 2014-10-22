@@ -1,34 +1,32 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05495049545266, 
       "housenumber": "1", 
+      "lat": 51.05495049545266, 
+      "lon": 3.719184634751154, 
       "pcode": 9000, 
-      "street": "Gruuthuusestraat", 
-      "lon": 3.719184634751154
+      "street": "Gruuthuusestraat"
     }, 
     {
-      "lat": 51.054860035981285, 
       "housenumber": "1A", 
+      "lat": 51.054860035981285, 
+      "lon": 3.719653146220856, 
       "pcode": 9000, 
-      "street": "Gruuthuusestraat", 
-      "lon": 3.719653146220856
+      "street": "Gruuthuusestraat"
     }, 
     {
-      "lat": 51.05510356291751, 
       "housenumber": "3", 
+      "lat": 51.05510356291751, 
+      "lon": 3.719001513380182, 
       "pcode": 9000, 
-      "street": "Gruuthuusestraat", 
-      "lon": 3.719001513380182
+      "street": "Gruuthuusestraat"
     }, 
     {
-      "lat": 51.05514540176369, 
       "housenumber": "5", 
+      "lat": 51.05514540176369, 
+      "lon": 3.7189106474803557, 
       "pcode": 9000, 
-      "street": "Gruuthuusestraat", 
-      "lon": 3.7189106474803557
+      "street": "Gruuthuusestraat"
     }
-  ], 
-  "name": "Gruuthuusestraat"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 3545, 
   "addresses": [
     {
-      "lat": 50.95936513342313, 
       "housenumber": "1", 
+      "lat": 50.95936513342313, 
+      "lon": 5.084348663874988, 
       "pcode": 3545, 
-      "street": "Rozedelstraat", 
-      "lon": 5.084348663874988
+      "street": "Rozedelstraat"
     }, 
     {
-      "lat": 50.95982820018007, 
       "housenumber": "2", 
+      "lat": 50.95982820018007, 
+      "lon": 5.08276634104038, 
       "pcode": 3545, 
-      "street": "Rozedelstraat", 
-      "lon": 5.08276634104038
+      "street": "Rozedelstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3545, 
-      "street": "Rozedelstraat", 
-      "housenumber": "3"
+      "street": "Rozedelstraat"
     }, 
     {
-      "lat": 50.95433970779832, 
       "housenumber": "4", 
+      "lat": 50.95433970779832, 
+      "lon": 5.063196183058998, 
       "pcode": 3545, 
-      "street": "Rozedelstraat", 
-      "lon": 5.063196183058998
+      "street": "Rozedelstraat"
     }
-  ], 
-  "name": "Rozedelstraat"
+  ]
 }

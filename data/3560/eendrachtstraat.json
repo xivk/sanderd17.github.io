@@ -1,20 +1,18 @@
 {
-  "pcode": 3560, 
   "addresses": [
     {
-      "lat": 51.005898029195876, 
       "housenumber": "1", 
+      "lat": 51.005898029195876, 
+      "lon": 5.219620610827983, 
       "pcode": 3560, 
-      "street": "Eendrachtstraat", 
-      "lon": 5.219620610827983
+      "street": "Eendrachtstraat"
     }, 
     {
-      "lat": 51.006080134491164, 
       "housenumber": "2", 
+      "lat": 51.006080134491164, 
+      "lon": 5.219412899774539, 
       "pcode": 3560, 
-      "street": "Eendrachtstraat", 
-      "lon": 5.219412899774539
+      "street": "Eendrachtstraat"
     }
-  ], 
-  "name": "Eendrachtstraat"
+  ]
 }

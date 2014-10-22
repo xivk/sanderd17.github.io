@@ -1,20 +1,18 @@
 {
-  "pcode": 2900, 
   "addresses": [
     {
-      "lat": 51.25457421810161, 
       "housenumber": "1", 
+      "lat": 51.25457421810161, 
+      "lon": 4.500001314789111, 
       "pcode": 2900, 
-      "street": "Distelweg", 
-      "lon": 4.500001314789111
+      "street": "Distelweg"
     }, 
     {
-      "lat": 51.25464718723208, 
       "housenumber": "3", 
+      "lat": 51.25464718723208, 
+      "lon": 4.4999347731234725, 
       "pcode": 2900, 
-      "street": "Distelweg", 
-      "lon": 4.4999347731234725
+      "street": "Distelweg"
     }
-  ], 
-  "name": "Distelweg"
+  ]
 }

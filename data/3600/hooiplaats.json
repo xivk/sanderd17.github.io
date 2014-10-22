@@ -1,47 +1,45 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.963549924140125, 
       "housenumber": "10", 
+      "lat": 50.963549924140125, 
+      "lon": 5.490599175200535, 
       "pcode": 3600, 
-      "street": "Hooiplaats", 
-      "lon": 5.490599175200535
+      "street": "Hooiplaats"
     }, 
     {
+      "housenumber": "14", 
       "pcode": 3600, 
-      "street": "Hooiplaats", 
-      "housenumber": "14"
+      "street": "Hooiplaats"
     }, 
     {
-      "lat": 50.96394498695485, 
       "housenumber": "14A", 
+      "lat": 50.96394498695485, 
+      "lon": 5.490605217024273, 
       "pcode": 3600, 
-      "street": "Hooiplaats", 
-      "lon": 5.490605217024273
+      "street": "Hooiplaats"
     }, 
     {
+      "housenumber": "14B", 
       "pcode": 3600, 
-      "street": "Hooiplaats", 
-      "housenumber": "14B"
+      "street": "Hooiplaats"
     }, 
     {
+      "housenumber": "14C", 
       "pcode": 3600, 
-      "street": "Hooiplaats", 
-      "housenumber": "14C"
+      "street": "Hooiplaats"
     }, 
     {
-      "lat": 50.96357336696556, 
       "housenumber": "6", 
+      "lat": 50.96357336696556, 
+      "lon": 5.490601444825258, 
       "pcode": 3600, 
-      "street": "Hooiplaats", 
-      "lon": 5.490601444825258
+      "street": "Hooiplaats"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3600, 
-      "street": "Hooiplaats", 
-      "housenumber": "8"
+      "street": "Hooiplaats"
     }
-  ], 
-  "name": "Hooiplaats"
+  ]
 }

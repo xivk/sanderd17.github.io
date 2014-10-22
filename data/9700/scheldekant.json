@@ -1,44 +1,42 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
+      "housenumber": "13", 
       "pcode": 9700, 
-      "street": "Scheldekant", 
-      "housenumber": "13"
+      "street": "Scheldekant"
     }, 
     {
-      "lat": 50.86856764272906, 
       "housenumber": "15", 
+      "lat": 50.86856764272906, 
+      "lon": 3.624326666751735, 
       "pcode": 9700, 
-      "street": "Scheldekant", 
-      "lon": 3.624326666751735
+      "street": "Scheldekant"
     }, 
     {
-      "lat": 50.867793161804535, 
       "housenumber": "4", 
+      "lat": 50.867793161804535, 
+      "lon": 3.630092951389326, 
       "pcode": 9700, 
-      "street": "Scheldekant", 
-      "lon": 3.630092951389326
+      "street": "Scheldekant"
     }, 
     {
-      "lat": 50.85942496813065, 
       "housenumber": "5", 
+      "lat": 50.85942496813065, 
+      "lon": 3.62224262826408, 
       "pcode": 9700, 
-      "street": "Scheldekant", 
-      "lon": 3.62224262826408
+      "street": "Scheldekant"
     }, 
     {
-      "lat": 50.85954278748634, 
       "housenumber": "7", 
+      "lat": 50.85954278748634, 
+      "lon": 3.6224769697933072, 
       "pcode": 9700, 
-      "street": "Scheldekant", 
-      "lon": 3.6224769697933072
+      "street": "Scheldekant"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 9700, 
-      "street": "Scheldekant", 
-      "housenumber": "9"
+      "street": "Scheldekant"
     }
-  ], 
-  "name": "Scheldekant"
+  ]
 }

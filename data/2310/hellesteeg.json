@@ -1,20 +1,18 @@
 {
-  "pcode": 2310, 
   "addresses": [
     {
-      "lat": 51.34741215357398, 
       "housenumber": "2", 
+      "lat": 51.34741215357398, 
+      "lon": 4.758470103951276, 
       "pcode": 2310, 
-      "street": "Hellesteeg", 
-      "lon": 4.758470103951276
+      "street": "Hellesteeg"
     }, 
     {
-      "lat": 51.347375829414354, 
       "housenumber": "4", 
+      "lat": 51.347375829414354, 
+      "lon": 4.75855576989135, 
       "pcode": 2310, 
-      "street": "Hellesteeg", 
-      "lon": 4.75855576989135
+      "street": "Hellesteeg"
     }
-  ], 
-  "name": "Hellesteeg"
+  ]
 }

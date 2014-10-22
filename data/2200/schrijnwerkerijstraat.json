@@ -1,43 +1,41 @@
 {
-  "pcode": 2200, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 2200, 
-      "street": "Schrijnwerkerijstraat", 
-      "housenumber": "10"
+      "street": "Schrijnwerkerijstraat"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 2200, 
-      "street": "Schrijnwerkerijstraat", 
-      "housenumber": "12"
+      "street": "Schrijnwerkerijstraat"
     }, 
     {
+      "housenumber": "14", 
       "pcode": 2200, 
-      "street": "Schrijnwerkerijstraat", 
-      "housenumber": "14"
+      "street": "Schrijnwerkerijstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2200, 
-      "street": "Schrijnwerkerijstraat", 
-      "housenumber": "2"
+      "street": "Schrijnwerkerijstraat"
     }, 
     {
-      "lat": 51.1801009097822, 
       "housenumber": "4", 
+      "lat": 51.1801009097822, 
+      "lon": 4.851691501683697, 
       "pcode": 2200, 
-      "street": "Schrijnwerkerijstraat", 
-      "lon": 4.851691501683697
+      "street": "Schrijnwerkerijstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2200, 
-      "street": "Schrijnwerkerijstraat", 
-      "housenumber": "6"
+      "street": "Schrijnwerkerijstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2200, 
-      "street": "Schrijnwerkerijstraat", 
-      "housenumber": "8"
+      "street": "Schrijnwerkerijstraat"
     }
-  ], 
-  "name": "Schrijnwerkerijstraat"
+  ]
 }

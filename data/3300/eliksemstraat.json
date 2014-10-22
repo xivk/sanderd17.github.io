@@ -1,18 +1,16 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.79717950961955, 
       "housenumber": "3", 
+      "lat": 50.79717950961955, 
+      "lon": 4.988808907469652, 
       "pcode": 3300, 
-      "street": "Eliksemstraat", 
-      "lon": 4.988808907469652
+      "street": "Eliksemstraat"
     }, 
     {
+      "housenumber": "573", 
       "pcode": 3300, 
-      "street": "Eliksemstraat", 
-      "housenumber": "573"
+      "street": "Eliksemstraat"
     }
-  ], 
-  "name": "Eliksemstraat"
+  ]
 }

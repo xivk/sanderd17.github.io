@@ -1,27 +1,25 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.78509250967814, 
       "housenumber": "1", 
+      "lat": 50.78509250967814, 
+      "lon": 5.5297021136508535, 
       "pcode": 3700, 
-      "street": "Michielenweg", 
-      "lon": 5.5297021136508535
+      "street": "Michielenweg"
     }, 
     {
-      "lat": 50.78448911969833, 
       "housenumber": "1B", 
+      "lat": 50.78448911969833, 
+      "lon": 5.5297313287534875, 
       "pcode": 3700, 
-      "street": "Michielenweg", 
-      "lon": 5.5297313287534875
+      "street": "Michielenweg"
     }, 
     {
-      "lat": 50.785640306142376, 
       "housenumber": "3", 
+      "lat": 50.785640306142376, 
+      "lon": 5.532184266338154, 
       "pcode": 3700, 
-      "street": "Michielenweg", 
-      "lon": 5.532184266338154
+      "street": "Michielenweg"
     }
-  ], 
-  "name": "Michielenweg"
+  ]
 }

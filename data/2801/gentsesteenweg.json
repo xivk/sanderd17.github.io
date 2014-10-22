@@ -1,20 +1,18 @@
 {
-  "pcode": 2801, 
   "addresses": [
     {
-      "lat": 51.04146800651314, 
       "housenumber": "125", 
+      "lat": 51.04146800651314, 
+      "lon": 4.434467466731768, 
       "pcode": 2801, 
-      "street": "Gentsesteenweg", 
-      "lon": 4.434467466731768
+      "street": "Gentsesteenweg"
     }, 
     {
-      "lat": 51.043583214964336, 
       "housenumber": "195", 
+      "lat": 51.043583214964336, 
+      "lon": 4.425923157752354, 
       "pcode": 2801, 
-      "street": "Gentsesteenweg", 
-      "lon": 4.425923157752354
+      "street": "Gentsesteenweg"
     }
-  ], 
-  "name": "Gentsesteenweg"
+  ]
 }

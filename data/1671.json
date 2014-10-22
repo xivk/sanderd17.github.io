@@ -1,76 +1,76 @@
 {
   "streets": [
     {
-      "latmax": 50.78167298540506, 
+      "b": 50.77956882381705, 
+      "l": 4.164775719340042, 
       "name": "Borrestraat", 
-      "lonmin": 4.164775719340042, 
-      "sanName": "borrestraat", 
       "numOfAddr": 19, 
-      "lonmax": 4.170672473882542, 
-      "latmin": 50.77956882381705
+      "r": 4.170672473882542, 
+      "sanName": "borrestraat", 
+      "t": 50.78167298540506
     }, 
     {
-      "latmax": 50.776643698049234, 
+      "b": 50.773703411339355, 
+      "l": 4.1684787430522645, 
       "name": "Doornstraat", 
-      "lonmin": 4.1684787430522645, 
+      "numOfAddr": 6, 
+      "r": 4.171155077111989, 
       "sanName": "doornstraat", 
-      "numOfAddr": 6, 
-      "lonmax": 4.171155077111989, 
-      "latmin": 50.773703411339355
+      "t": 50.776643698049234
     }, 
     {
-      "latmax": 50.779397758964954, 
+      "b": 50.77528900728314, 
+      "l": 4.171607498153219, 
       "name": "Hallebaan", 
-      "lonmin": 4.171607498153219, 
-      "sanName": "hallebaan", 
       "numOfAddr": 23, 
-      "lonmax": 4.182058920566799, 
-      "latmin": 50.77528900728314
+      "r": 4.182058920566799, 
+      "sanName": "hallebaan", 
+      "t": 50.779397758964954
     }, 
     {
-      "latmax": 50.777488530443634, 
+      "b": 50.77403638149022, 
+      "l": 4.163770115060153, 
       "name": "Hoekstraat", 
-      "lonmin": 4.163770115060153, 
-      "sanName": "hoekstraat", 
       "numOfAddr": 6, 
-      "lonmax": 4.166893055750486, 
-      "latmin": 50.77403638149022
+      "r": 4.166893055750486, 
+      "sanName": "hoekstraat", 
+      "t": 50.777488530443634
     }, 
     {
-      "latmax": 50.784768093114366, 
+      "b": 50.784768093114366, 
+      "l": 4.17553847470761, 
       "name": "Kwadestraat", 
-      "lonmin": 4.17553847470761, 
-      "sanName": "kwadestraat", 
       "numOfAddr": 1, 
-      "lonmax": 4.17553847470761, 
-      "latmin": 50.784768093114366
+      "r": 4.17553847470761, 
+      "sanName": "kwadestraat", 
+      "t": 50.784768093114366
     }, 
     {
-      "latmax": 50.78385856270648, 
+      "b": 50.77392446514278, 
+      "l": 4.16120072214169, 
       "name": "Lenniksesteenweg", 
-      "lonmin": 4.16120072214169, 
-      "sanName": "lenniksesteenweg", 
       "numOfAddr": 44, 
-      "lonmax": 4.183366510269646, 
-      "latmin": 50.77392446514278
+      "r": 4.183366510269646, 
+      "sanName": "lenniksesteenweg", 
+      "t": 50.78385856270648
     }, 
     {
-      "latmax": 50.78185757992023, 
+      "b": 50.77557113081013, 
+      "l": 4.173677820928132, 
       "name": "Oudenaaksestraat", 
-      "lonmin": 4.173677820928132, 
-      "sanName": "oudenaaksestraat", 
       "numOfAddr": 26, 
-      "lonmax": 4.183068244064477, 
-      "latmin": 50.77557113081013
+      "r": 4.183068244064477, 
+      "sanName": "oudenaaksestraat", 
+      "t": 50.78185757992023
     }, 
     {
-      "latmax": 50.7862514869287, 
+      "b": 50.7774528588018, 
+      "l": 4.167970727087674, 
       "name": "Zwarte Molenstraat", 
-      "lonmin": 4.167970727087674, 
-      "sanName": "zwartemolenstraat", 
       "numOfAddr": 48, 
-      "lonmax": 4.183129388732409, 
-      "latmin": 50.7774528588018
+      "r": 4.183129388732409, 
+      "sanName": "zwartemolenstraat", 
+      "t": 50.7862514869287
     }
   ]
 }

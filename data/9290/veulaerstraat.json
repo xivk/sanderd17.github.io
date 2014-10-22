@@ -1,18 +1,16 @@
 {
-  "pcode": 9290, 
   "addresses": [
     {
-      "lat": 51.021715652176255, 
       "housenumber": "1", 
+      "lat": 51.021715652176255, 
+      "lon": 3.9587042517783586, 
       "pcode": 9290, 
-      "street": "Veulaerstraat", 
-      "lon": 3.9587042517783586
+      "street": "Veulaerstraat"
     }, 
     {
+      "housenumber": "25", 
       "pcode": 9290, 
-      "street": "Veulaerstraat", 
-      "housenumber": "25"
+      "street": "Veulaerstraat"
     }
-  ], 
-  "name": "Veulaerstraat"
+  ]
 }

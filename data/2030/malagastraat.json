@@ -1,25 +1,23 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.262958988067034, 
       "housenumber": "14", 
+      "lat": 51.262958988067034, 
+      "lon": 4.4067980941320215, 
       "pcode": 2030, 
-      "street": "Malagastraat", 
-      "lon": 4.4067980941320215
+      "street": "Malagastraat"
     }, 
     {
+      "housenumber": "16", 
       "pcode": 2030, 
-      "street": "Malagastraat", 
-      "housenumber": "16"
+      "street": "Malagastraat"
     }, 
     {
-      "lat": 51.262498796846096, 
       "housenumber": "8", 
+      "lat": 51.262498796846096, 
+      "lon": 4.403327652587275, 
       "pcode": 2030, 
-      "street": "Malagastraat", 
-      "lon": 4.403327652587275
+      "street": "Malagastraat"
     }
-  ], 
-  "name": "Malagastraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 3210, 
   "addresses": [
     {
-      "lat": 50.9067695086755, 
       "housenumber": "1", 
+      "lat": 50.9067695086755, 
+      "lon": 4.823736707477229, 
       "pcode": 3210, 
-      "street": "Horenbosweg", 
-      "lon": 4.823736707477229
+      "street": "Horenbosweg"
     }, 
     {
-      "lat": 50.90528749309561, 
       "housenumber": "3", 
+      "lat": 50.90528749309561, 
+      "lon": 4.814634472713177, 
       "pcode": 3210, 
-      "street": "Horenbosweg", 
-      "lon": 4.814634472713177
+      "street": "Horenbosweg"
     }, 
     {
-      "lat": 50.90690376452441, 
       "housenumber": "5", 
+      "lat": 50.90690376452441, 
+      "lon": 4.822542719308176, 
       "pcode": 3210, 
-      "street": "Horenbosweg", 
-      "lon": 4.822542719308176
+      "street": "Horenbosweg"
     }
-  ], 
-  "name": "Horenbosweg"
+  ]
 }

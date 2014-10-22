@@ -1,46 +1,44 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.95157139346001, 
       "housenumber": "10", 
+      "lat": 50.95157139346001, 
+      "lon": 5.38345299399602, 
       "pcode": 3500, 
-      "street": "Kloosterbeekstraat", 
-      "lon": 5.38345299399602
+      "street": "Kloosterbeekstraat"
     }, 
     {
+      "housenumber": "16", 
       "pcode": 3500, 
-      "street": "Kloosterbeekstraat", 
-      "housenumber": "16"
+      "street": "Kloosterbeekstraat"
     }, 
     {
-      "lat": 50.950221979046006, 
       "housenumber": "3", 
+      "lat": 50.950221979046006, 
+      "lon": 5.378247175057869, 
       "pcode": 3500, 
-      "street": "Kloosterbeekstraat", 
-      "lon": 5.378247175057869
+      "street": "Kloosterbeekstraat"
     }, 
     {
-      "lat": 50.95066361038558, 
       "housenumber": "5", 
+      "lat": 50.95066361038558, 
+      "lon": 5.37901639825469, 
       "pcode": 3500, 
-      "street": "Kloosterbeekstraat", 
-      "lon": 5.37901639825469
+      "street": "Kloosterbeekstraat"
     }, 
     {
-      "lat": 50.951496688927186, 
       "housenumber": "7", 
+      "lat": 50.951496688927186, 
+      "lon": 5.379960314694004, 
       "pcode": 3500, 
-      "street": "Kloosterbeekstraat", 
-      "lon": 5.379960314694004
+      "street": "Kloosterbeekstraat"
     }, 
     {
-      "lat": 50.950934579595284, 
       "housenumber": "9", 
+      "lat": 50.950934579595284, 
+      "lon": 5.380018351524437, 
       "pcode": 3500, 
-      "street": "Kloosterbeekstraat", 
-      "lon": 5.380018351524437
+      "street": "Kloosterbeekstraat"
     }
-  ], 
-  "name": "Kloosterbeekstraat"
+  ]
 }

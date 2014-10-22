@@ -1,25 +1,23 @@
 {
-  "pcode": 2830, 
   "addresses": [
     {
-      "lat": 51.0709040713544, 
       "housenumber": "2", 
+      "lat": 51.0709040713544, 
+      "lon": 4.392003707458638, 
       "pcode": 2830, 
-      "street": "Stuyvenbergbaan", 
-      "lon": 4.392003707458638
+      "street": "Stuyvenbergbaan"
     }, 
     {
-      "lat": 51.06890954778043, 
       "housenumber": "7", 
+      "lat": 51.06890954778043, 
+      "lon": 4.372250761843977, 
       "pcode": 2830, 
-      "street": "Stuyvenbergbaan", 
-      "lon": 4.372250761843977
+      "street": "Stuyvenbergbaan"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 2830, 
-      "street": "Stuyvenbergbaan", 
-      "housenumber": "9"
+      "street": "Stuyvenbergbaan"
     }
-  ], 
-  "name": "Stuyvenbergbaan"
+  ]
 }

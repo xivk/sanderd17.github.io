@@ -1,27 +1,25 @@
 {
-  "pcode": 2500, 
   "addresses": [
     {
-      "lat": 51.1313509352608, 
       "housenumber": "2", 
+      "lat": 51.1313509352608, 
+      "lon": 4.572986306337734, 
       "pcode": 2500, 
-      "street": "Aragonstraat", 
-      "lon": 4.572986306337734
+      "street": "Aragonstraat"
     }, 
     {
-      "lat": 51.13142727601575, 
       "housenumber": "4", 
+      "lat": 51.13142727601575, 
+      "lon": 4.572867496607063, 
       "pcode": 2500, 
-      "street": "Aragonstraat", 
-      "lon": 4.572867496607063
+      "street": "Aragonstraat"
     }, 
     {
-      "lat": 51.13147369380941, 
       "housenumber": "6", 
+      "lat": 51.13147369380941, 
+      "lon": 4.572898557715874, 
       "pcode": 2500, 
-      "street": "Aragonstraat", 
-      "lon": 4.572898557715874
+      "street": "Aragonstraat"
     }
-  ], 
-  "name": "Aragonstraat"
+  ]
 }

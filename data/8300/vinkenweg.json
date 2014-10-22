@@ -1,20 +1,18 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.34964857720555, 
       "housenumber": "1", 
+      "lat": 51.34964857720555, 
+      "lon": 3.3082025523199303, 
       "pcode": 8300, 
-      "street": "Vinkenweg", 
-      "lon": 3.3082025523199303
+      "street": "Vinkenweg"
     }, 
     {
-      "lat": 51.34980424027986, 
       "housenumber": "2", 
+      "lat": 51.34980424027986, 
+      "lon": 3.307837990103471, 
       "pcode": 8300, 
-      "street": "Vinkenweg", 
-      "lon": 3.307837990103471
+      "street": "Vinkenweg"
     }
-  ], 
-  "name": "Vinkenweg"
+  ]
 }

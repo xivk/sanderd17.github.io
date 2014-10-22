@@ -1,23 +1,21 @@
 {
-  "pcode": 3650, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3650, 
-      "street": "Ter Motten", 
-      "housenumber": "1"
+      "street": "Ter Motten"
     }, 
     {
-      "lat": 51.036302695960174, 
       "housenumber": "2", 
+      "lat": 51.036302695960174, 
+      "lon": 5.726145867823961, 
       "pcode": 3650, 
-      "street": "Ter Motten", 
-      "lon": 5.726145867823961
+      "street": "Ter Motten"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3650, 
-      "street": "Ter Motten", 
-      "housenumber": "3"
+      "street": "Ter Motten"
     }
-  ], 
-  "name": "Ter Motten"
+  ]
 }

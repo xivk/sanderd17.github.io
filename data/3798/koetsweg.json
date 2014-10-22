@@ -1,20 +1,18 @@
 {
-  "pcode": 3798, 
   "addresses": [
     {
-      "lat": 50.759235186936515, 
       "housenumber": "196B", 
+      "lat": 50.759235186936515, 
+      "lon": 5.764056614922536, 
       "pcode": 3798, 
-      "street": "Koetsweg", 
-      "lon": 5.764056614922536
+      "street": "Koetsweg"
     }, 
     {
-      "lat": 50.759316840754124, 
       "housenumber": "196C", 
+      "lat": 50.759316840754124, 
+      "lon": 5.763799198739864, 
       "pcode": 3798, 
-      "street": "Koetsweg", 
-      "lon": 5.763799198739864
+      "street": "Koetsweg"
     }
-  ], 
-  "name": "Koetsweg"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 3791, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3791, 
-      "street": "Bounder", 
-      "housenumber": "1"
+      "street": "Bounder"
     }, 
     {
-      "lat": 50.734480671301085, 
       "housenumber": "10", 
+      "lat": 50.734480671301085, 
+      "lon": 5.897995102239354, 
       "pcode": 3791, 
-      "street": "Bounder", 
-      "lon": 5.897995102239354
+      "street": "Bounder"
     }, 
     {
-      "lat": 50.73456955706641, 
       "housenumber": "3", 
+      "lat": 50.73456955706641, 
+      "lon": 5.898060188496605, 
       "pcode": 3791, 
-      "street": "Bounder", 
-      "lon": 5.898060188496605
+      "street": "Bounder"
     }, 
     {
-      "lat": 50.73468666588868, 
       "housenumber": "9", 
+      "lat": 50.73468666588868, 
+      "lon": 5.897589768888363, 
       "pcode": 3791, 
-      "street": "Bounder", 
-      "lon": 5.897589768888363
+      "street": "Bounder"
     }
-  ], 
-  "name": "Bounder"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
+      "housenumber": "12", 
       "pcode": 9800, 
-      "street": "Spletgracht", 
-      "housenumber": "12"
+      "street": "Spletgracht"
     }, 
     {
-      "lat": 50.977523364837545, 
       "housenumber": "15", 
+      "lat": 50.977523364837545, 
+      "lon": 3.4342030586971823, 
       "pcode": 9800, 
-      "street": "Spletgracht", 
-      "lon": 3.4342030586971823
+      "street": "Spletgracht"
     }
-  ], 
-  "name": "Spletgracht"
+  ]
 }

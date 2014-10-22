@@ -1,44 +1,42 @@
 {
-  "pcode": 9840, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 9840, 
-      "street": "Melkerij", 
-      "housenumber": "2"
+      "street": "Melkerij"
     }, 
     {
-      "lat": 50.980261353214345, 
       "housenumber": "3", 
+      "lat": 50.980261353214345, 
+      "lon": 3.6960043171551735, 
       "pcode": 9840, 
-      "street": "Melkerij", 
-      "lon": 3.6960043171551735
+      "street": "Melkerij"
     }, 
     {
-      "lat": 50.98059246852826, 
       "housenumber": "4", 
+      "lat": 50.98059246852826, 
+      "lon": 3.6954436211661204, 
       "pcode": 9840, 
-      "street": "Melkerij", 
-      "lon": 3.6954436211661204
+      "street": "Melkerij"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9840, 
-      "street": "Melkerij", 
-      "housenumber": "5"
+      "street": "Melkerij"
     }, 
     {
-      "lat": 50.98060955567877, 
       "housenumber": "6", 
+      "lat": 50.98060955567877, 
+      "lon": 3.695429135473949, 
       "pcode": 9840, 
-      "street": "Melkerij", 
-      "lon": 3.695429135473949
+      "street": "Melkerij"
     }, 
     {
-      "lat": 50.98084380815802, 
       "housenumber": "7", 
+      "lat": 50.98084380815802, 
+      "lon": 3.6955523723242365, 
       "pcode": 9840, 
-      "street": "Melkerij", 
-      "lon": 3.6955523723242365
+      "street": "Melkerij"
     }
-  ], 
-  "name": "Melkerij"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 50.966952105697466, 
       "housenumber": "1", 
+      "lat": 50.966952105697466, 
+      "lon": 3.461233565211374, 
       "pcode": 9800, 
-      "street": "Mandelweg", 
-      "lon": 3.461233565211374
+      "street": "Mandelweg"
     }, 
     {
-      "lat": 50.96634499405261, 
       "housenumber": "4", 
+      "lat": 50.96634499405261, 
+      "lon": 3.4610320430575343, 
       "pcode": 9800, 
-      "street": "Mandelweg", 
-      "lon": 3.4610320430575343
+      "street": "Mandelweg"
     }
-  ], 
-  "name": "Mandelweg"
+  ]
 }

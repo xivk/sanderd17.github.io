@@ -1,18 +1,16 @@
 {
-  "pcode": 2845, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 2845, 
-      "street": "Luc Van Lindenlaan", 
-      "housenumber": "2"
+      "street": "Luc Van Lindenlaan"
     }, 
     {
-      "lat": 51.1013382867431, 
       "housenumber": "6", 
+      "lat": 51.1013382867431, 
+      "lon": 4.334500718528343, 
       "pcode": 2845, 
-      "street": "Luc Van Lindenlaan", 
-      "lon": 4.334500718528343
+      "street": "Luc Van Lindenlaan"
     }
-  ], 
-  "name": "Luc Van Lindenlaan"
+  ]
 }

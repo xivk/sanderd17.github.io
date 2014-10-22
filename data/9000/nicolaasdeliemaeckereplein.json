@@ -1,20 +1,18 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.038206581259836, 
       "housenumber": "2", 
+      "lat": 51.038206581259836, 
+      "lon": 3.721081769350226, 
       "pcode": 9000, 
-      "street": "Nicolaas de Liemaeckereplein", 
-      "lon": 3.721081769350226
+      "street": "Nicolaas de Liemaeckereplein"
     }, 
     {
-      "lat": 51.03822793665633, 
       "housenumber": "5", 
+      "lat": 51.03822793665633, 
+      "lon": 3.721009186305461, 
       "pcode": 9000, 
-      "street": "Nicolaas de Liemaeckereplein", 
-      "lon": 3.721009186305461
+      "street": "Nicolaas de Liemaeckereplein"
     }
-  ], 
-  "name": "Nicolaas de Liemaeckereplein"
+  ]
 }

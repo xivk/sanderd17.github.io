@@ -1,20 +1,18 @@
 {
-  "pcode": 3380, 
   "addresses": [
     {
-      "lat": 50.87398793889369, 
       "housenumber": "2", 
+      "lat": 50.87398793889369, 
+      "lon": 4.974307429320041, 
       "pcode": 3380, 
-      "street": "Hoeledenstraat", 
-      "lon": 4.974307429320041
+      "street": "Hoeledenstraat"
     }, 
     {
-      "lat": 50.87070962158411, 
       "housenumber": "4", 
+      "lat": 50.87070962158411, 
+      "lon": 4.978871626935653, 
       "pcode": 3380, 
-      "street": "Hoeledenstraat", 
-      "lon": 4.978871626935653
+      "street": "Hoeledenstraat"
     }
-  ], 
-  "name": "Hoeledenstraat"
+  ]
 }

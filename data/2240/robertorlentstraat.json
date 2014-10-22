@@ -1,20 +1,18 @@
 {
-  "pcode": 2240, 
   "addresses": [
     {
-      "lat": 51.19746479569792, 
       "housenumber": "1", 
+      "lat": 51.19746479569792, 
+      "lon": 4.627643846207908, 
       "pcode": 2240, 
-      "street": "Robert Orlentstraat", 
-      "lon": 4.627643846207908
+      "street": "Robert Orlentstraat"
     }, 
     {
-      "lat": 51.195908867665956, 
       "housenumber": "2", 
+      "lat": 51.195908867665956, 
+      "lon": 4.629444573805832, 
       "pcode": 2240, 
-      "street": "Robert Orlentstraat", 
-      "lon": 4.629444573805832
+      "street": "Robert Orlentstraat"
     }
-  ], 
-  "name": "Robert Orlentstraat"
+  ]
 }

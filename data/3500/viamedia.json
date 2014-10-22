@@ -1,37 +1,35 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.929635669693994, 
       "housenumber": "1", 
+      "lat": 50.929635669693994, 
+      "lon": 5.3689373483904825, 
       "pcode": 3500, 
-      "street": "Via Media", 
-      "lon": 5.3689373483904825
+      "street": "Via Media"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 3500, 
-      "street": "Via Media", 
-      "housenumber": "11"
+      "street": "Via Media"
     }, 
     {
+      "housenumber": "1D", 
       "pcode": 3500, 
-      "street": "Via Media", 
-      "housenumber": "1D"
+      "street": "Via Media"
     }, 
     {
-      "lat": 50.92907036102748, 
       "housenumber": "2", 
+      "lat": 50.92907036102748, 
+      "lon": 5.3718153535984134, 
       "pcode": 3500, 
-      "street": "Via Media", 
-      "lon": 5.3718153535984134
+      "street": "Via Media"
     }, 
     {
-      "lat": 50.92984183898503, 
       "housenumber": "4", 
+      "lat": 50.92984183898503, 
+      "lon": 5.37308358491198, 
       "pcode": 3500, 
-      "street": "Via Media", 
-      "lon": 5.37308358491198
+      "street": "Via Media"
     }
-  ], 
-  "name": "Via Media"
+  ]
 }

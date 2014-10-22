@@ -1,20 +1,18 @@
 {
-  "pcode": 8755, 
   "addresses": [
     {
-      "lat": 51.02760371729677, 
       "housenumber": "1", 
+      "lat": 51.02760371729677, 
+      "lon": 3.3879352750471434, 
       "pcode": 8755, 
-      "street": "Nagelstraat", 
-      "lon": 3.3879352750471434
+      "street": "Nagelstraat"
     }, 
     {
-      "lat": 51.02594615448835, 
       "housenumber": "3", 
+      "lat": 51.02594615448835, 
+      "lon": 3.389596886531853, 
       "pcode": 8755, 
-      "street": "Nagelstraat", 
-      "lon": 3.389596886531853
+      "street": "Nagelstraat"
     }
-  ], 
-  "name": "Nagelstraat"
+  ]
 }

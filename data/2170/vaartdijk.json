@@ -1,23 +1,21 @@
 {
-  "pcode": 2170, 
   "addresses": [
     {
-      "lat": 51.23428694969406, 
       "housenumber": "1", 
+      "lat": 51.23428694969406, 
+      "lon": 4.441674489691678, 
       "pcode": 2170, 
-      "street": "Vaartdijk", 
-      "lon": 4.441674489691678
+      "street": "Vaartdijk"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2170, 
-      "street": "Vaartdijk", 
-      "housenumber": "3"
+      "street": "Vaartdijk"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2170, 
-      "street": "Vaartdijk", 
-      "housenumber": "7"
+      "street": "Vaartdijk"
     }
-  ], 
-  "name": "Vaartdijk"
+  ]
 }

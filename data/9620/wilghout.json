@@ -1,20 +1,18 @@
 {
-  "pcode": 9620, 
   "addresses": [
     {
-      "lat": 50.8484013541368, 
       "housenumber": "1", 
+      "lat": 50.8484013541368, 
+      "lon": 3.841636694821269, 
       "pcode": 9620, 
-      "street": "Wilghout", 
-      "lon": 3.841636694821269
+      "street": "Wilghout"
     }, 
     {
-      "lat": 50.84777461512282, 
       "housenumber": "3", 
+      "lat": 50.84777461512282, 
+      "lon": 3.8423237525081086, 
       "pcode": 9620, 
-      "street": "Wilghout", 
-      "lon": 3.8423237525081086
+      "street": "Wilghout"
     }
-  ], 
-  "name": "Wilghout"
+  ]
 }

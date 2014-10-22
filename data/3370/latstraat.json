@@ -1,27 +1,25 @@
 {
-  "pcode": 3370, 
   "addresses": [
     {
-      "lat": 50.848925347465645, 
       "housenumber": "1", 
+      "lat": 50.848925347465645, 
+      "lon": 4.8205636752247765, 
       "pcode": 3370, 
-      "street": "Latstraat", 
-      "lon": 4.8205636752247765
+      "street": "Latstraat"
     }, 
     {
-      "lat": 50.849188810983655, 
       "housenumber": "2", 
+      "lat": 50.849188810983655, 
+      "lon": 4.82084936646547, 
       "pcode": 3370, 
-      "street": "Latstraat", 
-      "lon": 4.82084936646547
+      "street": "Latstraat"
     }, 
     {
-      "lat": 50.849021176930925, 
       "housenumber": "3", 
+      "lat": 50.849021176930925, 
+      "lon": 4.820330718810145, 
       "pcode": 3370, 
-      "street": "Latstraat", 
-      "lon": 4.820330718810145
+      "street": "Latstraat"
     }
-  ], 
-  "name": "Latstraat"
+  ]
 }

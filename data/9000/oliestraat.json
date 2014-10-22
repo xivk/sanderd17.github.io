@@ -1,25 +1,23 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05670576886457, 
       "housenumber": "0", 
+      "lat": 51.05670576886457, 
+      "lon": 3.7293892882141364, 
       "pcode": 9000, 
-      "street": "Oliestraat", 
-      "lon": 3.7293892882141364
+      "street": "Oliestraat"
     }, 
     {
-      "lat": 51.05683136258808, 
       "housenumber": "14", 
+      "lat": 51.05683136258808, 
+      "lon": 3.7296406107027322, 
       "pcode": 9000, 
-      "street": "Oliestraat", 
-      "lon": 3.7296406107027322
+      "street": "Oliestraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 9000, 
-      "street": "Oliestraat", 
-      "housenumber": "8"
+      "street": "Oliestraat"
     }
-  ], 
-  "name": "Oliestraat"
+  ]
 }

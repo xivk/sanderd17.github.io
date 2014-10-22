@@ -1,28 +1,26 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.828716867735196, 
       "housenumber": "1", 
+      "lat": 50.828716867735196, 
+      "lon": 3.2656105268663556, 
       "pcode": 8500, 
-      "street": "Koestaartstraat", 
-      "lon": 3.2656105268663556
+      "street": "Koestaartstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8500, 
-      "street": "Koestaartstraat", 
-      "housenumber": "3"
+      "street": "Koestaartstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8500, 
-      "street": "Koestaartstraat", 
-      "housenumber": "5"
+      "street": "Koestaartstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8500, 
-      "street": "Koestaartstraat", 
-      "housenumber": "7"
+      "street": "Koestaartstraat"
     }
-  ], 
-  "name": "Koestaartstraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 9620, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9620, 
-      "street": "Hemelrijkstraat", 
-      "housenumber": "1"
+      "street": "Hemelrijkstraat"
     }, 
     {
-      "lat": 50.8663561310868, 
       "housenumber": "3", 
+      "lat": 50.8663561310868, 
+      "lon": 3.8276924317205197, 
       "pcode": 9620, 
-      "street": "Hemelrijkstraat", 
-      "lon": 3.8276924317205197
+      "street": "Hemelrijkstraat"
     }
-  ], 
-  "name": "Hemelrijkstraat"
+  ]
 }

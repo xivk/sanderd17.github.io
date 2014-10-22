@@ -1,20 +1,18 @@
 {
-  "pcode": 2960, 
   "addresses": [
     {
-      "lat": 51.287323362424836, 
       "housenumber": "1", 
+      "lat": 51.287323362424836, 
+      "lon": 4.590358411974242, 
       "pcode": 2960, 
-      "street": "Ringven", 
-      "lon": 4.590358411974242
+      "street": "Ringven"
     }, 
     {
-      "lat": 51.28436193250693, 
       "housenumber": "2", 
+      "lat": 51.28436193250693, 
+      "lon": 4.597148795705739, 
       "pcode": 2960, 
-      "street": "Ringven", 
-      "lon": 4.597148795705739
+      "street": "Ringven"
     }
-  ], 
-  "name": "Ringven"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9220, 
   "addresses": [
     {
-      "lat": 51.1040958928601, 
       "housenumber": "1", 
+      "lat": 51.1040958928601, 
+      "lon": 4.140616862988414, 
       "pcode": 9220, 
-      "street": "Hamveer", 
-      "lon": 4.140616862988414
+      "street": "Hamveer"
     }, 
     {
-      "lat": 51.10443104800922, 
       "housenumber": "2", 
+      "lat": 51.10443104800922, 
+      "lon": 4.141344108110979, 
       "pcode": 9220, 
-      "street": "Hamveer", 
-      "lon": 4.141344108110979
+      "street": "Hamveer"
     }
-  ], 
-  "name": "Hamveer"
+  ]
 }

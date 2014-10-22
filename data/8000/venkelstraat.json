@@ -1,65 +1,63 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.212647817032675, 
       "housenumber": "1", 
+      "lat": 51.212647817032675, 
+      "lon": 3.232807140771932, 
       "pcode": 8000, 
-      "street": "Venkelstraat", 
-      "lon": 3.232807140771932
+      "street": "Venkelstraat"
     }, 
     {
-      "lat": 51.21306577410183, 
       "housenumber": "10", 
+      "lat": 51.21306577410183, 
+      "lon": 3.2323804705362904, 
       "pcode": 8000, 
-      "street": "Venkelstraat", 
-      "lon": 3.2323804705362904
+      "street": "Venkelstraat"
     }, 
     {
-      "lat": 51.21308390004137, 
       "housenumber": "12", 
+      "lat": 51.21308390004137, 
+      "lon": 3.232320918241121, 
       "pcode": 8000, 
-      "street": "Venkelstraat", 
-      "lon": 3.232320918241121
+      "street": "Venkelstraat"
     }, 
     {
+      "housenumber": "23", 
       "pcode": 8000, 
-      "street": "Venkelstraat", 
-      "housenumber": "23"
+      "street": "Venkelstraat"
     }, 
     {
-      "lat": 51.212732240543865, 
       "housenumber": "3", 
+      "lat": 51.212732240543865, 
+      "lon": 3.232845876001947, 
       "pcode": 8000, 
-      "street": "Venkelstraat", 
-      "lon": 3.232845876001947
+      "street": "Venkelstraat"
     }, 
     {
-      "lat": 51.2129636685233, 
       "housenumber": "5", 
+      "lat": 51.2129636685233, 
+      "lon": 3.232297797695487, 
       "pcode": 8000, 
-      "street": "Venkelstraat", 
-      "lon": 3.232297797695487
+      "street": "Venkelstraat"
     }, 
     {
-      "lat": 51.212812918719116, 
       "housenumber": "6", 
+      "lat": 51.212812918719116, 
+      "lon": 3.232925206839738, 
       "pcode": 8000, 
-      "street": "Venkelstraat", 
-      "lon": 3.232925206839738
+      "street": "Venkelstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8000, 
-      "street": "Venkelstraat", 
-      "housenumber": "7"
+      "street": "Venkelstraat"
     }, 
     {
-      "lat": 51.213045440302594, 
       "housenumber": "8", 
+      "lat": 51.213045440302594, 
+      "lon": 3.2324347809097977, 
       "pcode": 8000, 
-      "street": "Venkelstraat", 
-      "lon": 3.2324347809097977
+      "street": "Venkelstraat"
     }
-  ], 
-  "name": "Venkelstraat"
+  ]
 }

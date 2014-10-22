@@ -1,20 +1,18 @@
 {
-  "pcode": 8377, 
   "addresses": [
     {
-      "lat": 51.23483332676503, 
       "housenumber": "1", 
+      "lat": 51.23483332676503, 
+      "lon": 3.151086196498457, 
       "pcode": 8377, 
-      "street": "Vaartwegel", 
-      "lon": 3.151086196498457
+      "street": "Vaartwegel"
     }, 
     {
-      "lat": 51.23377479814277, 
       "housenumber": "2", 
+      "lat": 51.23377479814277, 
+      "lon": 3.1527462175482848, 
       "pcode": 8377, 
-      "street": "Vaartwegel", 
-      "lon": 3.1527462175482848
+      "street": "Vaartwegel"
     }
-  ], 
-  "name": "Vaartwegel"
+  ]
 }

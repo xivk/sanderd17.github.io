@@ -1,32 +1,30 @@
 {
-  "pcode": 2200, 
   "addresses": [
     {
+      "housenumber": "3", 
       "pcode": 2200, 
-      "street": "Eekhoornpad", 
-      "housenumber": "3"
+      "street": "Eekhoornpad"
     }, 
     {
-      "lat": 51.202615133846805, 
       "housenumber": "4", 
+      "lat": 51.202615133846805, 
+      "lon": 4.852567072600729, 
       "pcode": 2200, 
-      "street": "Eekhoornpad", 
-      "lon": 4.852567072600729
+      "street": "Eekhoornpad"
     }, 
     {
-      "lat": 51.20276276808988, 
       "housenumber": "6", 
+      "lat": 51.20276276808988, 
+      "lon": 4.852491342767485, 
       "pcode": 2200, 
-      "street": "Eekhoornpad", 
-      "lon": 4.852491342767485
+      "street": "Eekhoornpad"
     }, 
     {
-      "lat": 51.202895778045125, 
       "housenumber": "8", 
+      "lat": 51.202895778045125, 
+      "lon": 4.852299279162834, 
       "pcode": 2200, 
-      "street": "Eekhoornpad", 
-      "lon": 4.852299279162834
+      "street": "Eekhoornpad"
     }
-  ], 
-  "name": "Eekhoornpad"
+  ]
 }

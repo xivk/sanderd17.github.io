@@ -1,25 +1,23 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.98368165916439, 
       "housenumber": "1", 
+      "lat": 50.98368165916439, 
+      "lon": 5.490158318996335, 
       "pcode": 3600, 
-      "street": "Henri Esserslaan", 
-      "lon": 5.490158318996335
+      "street": "Henri Esserslaan"
     }, 
     {
-      "lat": 50.98113198031496, 
       "housenumber": "45", 
+      "lat": 50.98113198031496, 
+      "lon": 5.474545809665509, 
       "pcode": 3600, 
-      "street": "Henri Esserslaan", 
-      "lon": 5.474545809665509
+      "street": "Henri Esserslaan"
     }, 
     {
+      "housenumber": "47", 
       "pcode": 3600, 
-      "street": "Henri Esserslaan", 
-      "housenumber": "47"
+      "street": "Henri Esserslaan"
     }
-  ], 
-  "name": "Henri Esserslaan"
+  ]
 }

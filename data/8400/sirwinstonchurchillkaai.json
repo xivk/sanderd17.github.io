@@ -1,18 +1,16 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8400, 
-      "street": "Sir Winston Churchillkaai", 
-      "housenumber": "1"
+      "street": "Sir Winston Churchillkaai"
     }, 
     {
-      "lat": 51.233000911206666, 
       "housenumber": "2", 
+      "lat": 51.233000911206666, 
+      "lon": 2.923937552909316, 
       "pcode": 8400, 
-      "street": "Sir Winston Churchillkaai", 
-      "lon": 2.923937552909316
+      "street": "Sir Winston Churchillkaai"
     }
-  ], 
-  "name": "Sir Winston Churchillkaai"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2460, 
   "addresses": [
     {
-      "lat": 51.22458474168136, 
       "housenumber": "1", 
+      "lat": 51.22458474168136, 
+      "lon": 4.875009546912171, 
       "pcode": 2460, 
-      "street": "Den Halt", 
-      "lon": 4.875009546912171
+      "street": "Den Halt"
     }, 
     {
-      "lat": 51.22493851604872, 
       "housenumber": "3", 
+      "lat": 51.22493851604872, 
+      "lon": 4.87566285849563, 
       "pcode": 2460, 
-      "street": "Den Halt", 
-      "lon": 4.87566285849563
+      "street": "Den Halt"
     }
-  ], 
-  "name": "Den Halt"
+  ]
 }

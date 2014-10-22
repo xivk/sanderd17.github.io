@@ -1,51 +1,49 @@
 {
-  "pcode": 3970, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3970, 
-      "street": "Dwarsstraat", 
-      "housenumber": "1"
+      "street": "Dwarsstraat"
     }, 
     {
-      "lat": 51.115102926445196, 
       "housenumber": "22", 
+      "lat": 51.115102926445196, 
+      "lon": 5.245147220189022, 
       "pcode": 3970, 
-      "street": "Dwarsstraat", 
-      "lon": 5.245147220189022
+      "street": "Dwarsstraat"
     }, 
     {
-      "lat": 51.11518121867719, 
       "housenumber": "24", 
+      "lat": 51.11518121867719, 
+      "lon": 5.245027007803865, 
       "pcode": 3970, 
-      "street": "Dwarsstraat", 
-      "lon": 5.245027007803865
+      "street": "Dwarsstraat"
     }, 
     {
-      "lat": 51.11401268023281, 
       "housenumber": "3", 
+      "lat": 51.11401268023281, 
+      "lon": 5.245064634460649, 
       "pcode": 3970, 
-      "street": "Dwarsstraat", 
-      "lon": 5.245064634460649
+      "street": "Dwarsstraat"
     }, 
     {
-      "lat": 51.11417636266731, 
       "housenumber": "3A", 
+      "lat": 51.11417636266731, 
+      "lon": 5.244873048003936, 
       "pcode": 3970, 
-      "street": "Dwarsstraat", 
-      "lon": 5.244873048003936
+      "street": "Dwarsstraat"
     }, 
     {
-      "lat": 51.114265954532506, 
       "housenumber": "5", 
+      "lat": 51.114265954532506, 
+      "lon": 5.244744337731474, 
       "pcode": 3970, 
-      "street": "Dwarsstraat", 
-      "lon": 5.244744337731474
+      "street": "Dwarsstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3970, 
-      "street": "Dwarsstraat", 
-      "housenumber": "7"
+      "street": "Dwarsstraat"
     }
-  ], 
-  "name": "Dwarsstraat"
+  ]
 }

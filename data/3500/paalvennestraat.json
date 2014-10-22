@@ -1,60 +1,58 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3500, 
-      "street": "Paalvennestraat", 
-      "housenumber": "1"
+      "street": "Paalvennestraat"
     }, 
     {
-      "lat": 50.96697229973597, 
       "housenumber": "10", 
+      "lat": 50.96697229973597, 
+      "lon": 5.371362134594078, 
       "pcode": 3500, 
-      "street": "Paalvennestraat", 
-      "lon": 5.371362134594078
+      "street": "Paalvennestraat"
     }, 
     {
-      "lat": 50.96807513930705, 
       "housenumber": "11", 
+      "lat": 50.96807513930705, 
+      "lon": 5.371747792675442, 
       "pcode": 3500, 
-      "street": "Paalvennestraat", 
-      "lon": 5.371747792675442
+      "street": "Paalvennestraat"
     }, 
     {
-      "lat": 50.96763386152455, 
       "housenumber": "3", 
+      "lat": 50.96763386152455, 
+      "lon": 5.371079160591178, 
       "pcode": 3500, 
-      "street": "Paalvennestraat", 
-      "lon": 5.371079160591178
+      "street": "Paalvennestraat"
     }, 
     {
-      "lat": 50.96775236752423, 
       "housenumber": "5", 
+      "lat": 50.96775236752423, 
+      "lon": 5.3714353502942425, 
       "pcode": 3500, 
-      "street": "Paalvennestraat", 
-      "lon": 5.3714353502942425
+      "street": "Paalvennestraat"
     }, 
     {
-      "lat": 50.96659304129046, 
       "housenumber": "6", 
+      "lat": 50.96659304129046, 
+      "lon": 5.371179473673506, 
       "pcode": 3500, 
-      "street": "Paalvennestraat", 
-      "lon": 5.371179473673506
+      "street": "Paalvennestraat"
     }, 
     {
-      "lat": 50.96790313762796, 
       "housenumber": "7", 
+      "lat": 50.96790313762796, 
+      "lon": 5.371518733279421, 
       "pcode": 3500, 
-      "street": "Paalvennestraat", 
-      "lon": 5.371518733279421
+      "street": "Paalvennestraat"
     }, 
     {
-      "lat": 50.9679291441433, 
       "housenumber": "9", 
+      "lat": 50.9679291441433, 
+      "lon": 5.3716632294989175, 
       "pcode": 3500, 
-      "street": "Paalvennestraat", 
-      "lon": 5.3716632294989175
+      "street": "Paalvennestraat"
     }
-  ], 
-  "name": "Paalvennestraat"
+  ]
 }

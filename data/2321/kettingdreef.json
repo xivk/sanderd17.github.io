@@ -1,32 +1,30 @@
 {
-  "pcode": 2321, 
   "addresses": [
     {
-      "lat": 51.45147060417042, 
       "housenumber": "1", 
+      "lat": 51.45147060417042, 
+      "lon": 4.704137456304221, 
       "pcode": 2321, 
-      "street": "Kettingdreef", 
-      "lon": 4.704137456304221
+      "street": "Kettingdreef"
     }, 
     {
-      "lat": 51.450366723916744, 
       "housenumber": "3", 
+      "lat": 51.450366723916744, 
+      "lon": 4.702808557085712, 
       "pcode": 2321, 
-      "street": "Kettingdreef", 
-      "lon": 4.702808557085712
+      "street": "Kettingdreef"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2321, 
-      "street": "Kettingdreef", 
-      "housenumber": "7"
+      "street": "Kettingdreef"
     }, 
     {
-      "lat": 51.45135897170817, 
       "housenumber": "9", 
+      "lat": 51.45135897170817, 
+      "lon": 4.702834272799422, 
       "pcode": 2321, 
-      "street": "Kettingdreef", 
-      "lon": 4.702834272799422
+      "street": "Kettingdreef"
     }
-  ], 
-  "name": "Kettingdreef"
+  ]
 }

@@ -1,58 +1,56 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
+      "housenumber": "14", 
       "pcode": 3600, 
-      "street": "Munsterenstraat", 
-      "housenumber": "14"
+      "street": "Munsterenstraat"
     }, 
     {
-      "lat": 50.92583681513, 
       "housenumber": "16", 
+      "lat": 50.92583681513, 
+      "lon": 5.5203275639552, 
       "pcode": 3600, 
-      "street": "Munsterenstraat", 
-      "lon": 5.5203275639552
+      "street": "Munsterenstraat"
     }, 
     {
-      "lat": 50.926901642200846, 
       "housenumber": "2", 
+      "lat": 50.926901642200846, 
+      "lon": 5.52103254430883, 
       "pcode": 3600, 
-      "street": "Munsterenstraat", 
-      "lon": 5.52103254430883
+      "street": "Munsterenstraat"
     }, 
     {
-      "lat": 50.92411316461153, 
       "housenumber": "30", 
+      "lat": 50.92411316461153, 
+      "lon": 5.520878684649755, 
       "pcode": 3600, 
-      "street": "Munsterenstraat", 
-      "lon": 5.520878684649755
+      "street": "Munsterenstraat"
     }, 
     {
-      "lat": 50.926273716275865, 
       "housenumber": "4", 
+      "lat": 50.926273716275865, 
+      "lon": 5.52036745404142, 
       "pcode": 3600, 
-      "street": "Munsterenstraat", 
-      "lon": 5.52036745404142
+      "street": "Munsterenstraat"
     }, 
     {
-      "lat": 50.92526569543807, 
       "housenumber": "5", 
+      "lat": 50.92526569543807, 
+      "lon": 5.5232162569458785, 
       "pcode": 3600, 
-      "street": "Munsterenstraat", 
-      "lon": 5.5232162569458785
+      "street": "Munsterenstraat"
     }, 
     {
-      "lat": 50.92395175544552, 
       "housenumber": "9", 
+      "lat": 50.92395175544552, 
+      "lon": 5.523462426737448, 
       "pcode": 3600, 
-      "street": "Munsterenstraat", 
-      "lon": 5.523462426737448
+      "street": "Munsterenstraat"
     }, 
     {
+      "housenumber": "96", 
       "pcode": 3600, 
-      "street": "Munsterenstraat", 
-      "housenumber": "96"
+      "street": "Munsterenstraat"
     }
-  ], 
-  "name": "Munsterenstraat"
+  ]
 }

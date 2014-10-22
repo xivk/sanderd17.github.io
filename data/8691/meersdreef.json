@@ -1,20 +1,18 @@
 {
-  "pcode": 8691, 
   "addresses": [
     {
-      "lat": 50.92927948870239, 
       "housenumber": "1", 
+      "lat": 50.92927948870239, 
+      "lon": 2.6986235194935735, 
       "pcode": 8691, 
-      "street": "Meersdreef", 
-      "lon": 2.6986235194935735
+      "street": "Meersdreef"
     }, 
     {
-      "lat": 50.93041678164218, 
       "housenumber": "2", 
+      "lat": 50.93041678164218, 
+      "lon": 2.7019894376540927, 
       "pcode": 8691, 
-      "street": "Meersdreef", 
-      "lon": 2.7019894376540927
+      "street": "Meersdreef"
     }
-  ], 
-  "name": "Meersdreef"
+  ]
 }

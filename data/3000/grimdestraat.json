@@ -1,62 +1,60 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
+      "housenumber": "13", 
       "pcode": 3000, 
-      "street": "Grimdestraat", 
-      "housenumber": "13"
+      "street": "Grimdestraat"
     }, 
     {
-      "lat": 50.883922087528134, 
       "housenumber": "15", 
+      "lat": 50.883922087528134, 
+      "lon": 4.704082885737134, 
       "pcode": 3000, 
-      "street": "Grimdestraat", 
-      "lon": 4.704082885737134
+      "street": "Grimdestraat"
     }, 
     {
-      "lat": 50.88401993368708, 
       "housenumber": "17", 
+      "lat": 50.88401993368708, 
+      "lon": 4.704005994960438, 
       "pcode": 3000, 
-      "street": "Grimdestraat", 
-      "lon": 4.704005994960438
+      "street": "Grimdestraat"
     }, 
     {
-      "lat": 50.883964650559975, 
       "housenumber": "19", 
+      "lat": 50.883964650559975, 
+      "lon": 4.7040051732383095, 
       "pcode": 3000, 
-      "street": "Grimdestraat", 
-      "lon": 4.7040051732383095
+      "street": "Grimdestraat"
     }, 
     {
+      "housenumber": "21", 
       "pcode": 3000, 
-      "street": "Grimdestraat", 
-      "housenumber": "21"
+      "street": "Grimdestraat"
     }, 
     {
+      "housenumber": "23", 
       "pcode": 3000, 
-      "street": "Grimdestraat", 
-      "housenumber": "23"
+      "street": "Grimdestraat"
     }, 
     {
+      "housenumber": "25", 
       "pcode": 3000, 
-      "street": "Grimdestraat", 
-      "housenumber": "25"
+      "street": "Grimdestraat"
     }, 
     {
+      "housenumber": "27", 
       "pcode": 3000, 
-      "street": "Grimdestraat", 
-      "housenumber": "27"
+      "street": "Grimdestraat"
     }, 
     {
+      "housenumber": "29", 
       "pcode": 3000, 
-      "street": "Grimdestraat", 
-      "housenumber": "29"
+      "street": "Grimdestraat"
     }, 
     {
+      "housenumber": "31", 
       "pcode": 3000, 
-      "street": "Grimdestraat", 
-      "housenumber": "31"
+      "street": "Grimdestraat"
     }
-  ], 
-  "name": "Grimdestraat"
+  ]
 }

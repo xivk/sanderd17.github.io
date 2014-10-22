@@ -1,20 +1,18 @@
 {
-  "pcode": 3960, 
   "addresses": [
     {
-      "lat": 51.13130186503158, 
       "housenumber": "1", 
+      "lat": 51.13130186503158, 
+      "lon": 5.565246196064014, 
       "pcode": 3960, 
-      "street": "Veldekensweg", 
-      "lon": 5.565246196064014
+      "street": "Veldekensweg"
     }, 
     {
-      "lat": 51.1309702647068, 
       "housenumber": "2", 
+      "lat": 51.1309702647068, 
+      "lon": 5.5634337481963305, 
       "pcode": 3960, 
-      "street": "Veldekensweg", 
-      "lon": 5.5634337481963305
+      "street": "Veldekensweg"
     }
-  ], 
-  "name": "Veldekensweg"
+  ]
 }

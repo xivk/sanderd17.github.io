@@ -1,20 +1,18 @@
 {
-  "pcode": 9200, 
   "addresses": [
     {
-      "lat": 51.025165535202845, 
       "housenumber": "5", 
+      "lat": 51.025165535202845, 
+      "lon": 4.133444735821, 
       "pcode": 9200, 
-      "street": "Bertbaan", 
-      "lon": 4.133444735821
+      "street": "Bertbaan"
     }, 
     {
-      "lat": 51.02521293686768, 
       "housenumber": "7", 
+      "lat": 51.02521293686768, 
+      "lon": 4.133685097998106, 
       "pcode": 9200, 
-      "street": "Bertbaan", 
-      "lon": 4.133685097998106
+      "street": "Bertbaan"
     }
-  ], 
-  "name": "Bertbaan"
+  ]
 }

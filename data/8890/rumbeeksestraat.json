@@ -1,20 +1,18 @@
 {
-  "pcode": 8890, 
   "addresses": [
     {
-      "lat": 50.90287598687814, 
       "housenumber": "1", 
+      "lat": 50.90287598687814, 
+      "lon": 3.1027810093242914, 
       "pcode": 8890, 
-      "street": "Rumbeeksestraat", 
-      "lon": 3.1027810093242914
+      "street": "Rumbeeksestraat"
     }, 
     {
-      "lat": 50.901919256042255, 
       "housenumber": "2", 
+      "lat": 50.901919256042255, 
+      "lon": 3.1027278835922703, 
       "pcode": 8890, 
-      "street": "Rumbeeksestraat", 
-      "lon": 3.1027278835922703
+      "street": "Rumbeeksestraat"
     }
-  ], 
-  "name": "Rumbeeksestraat"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 3790, 
   "addresses": [
     {
-      "lat": 50.75633959106417, 
       "housenumber": "1", 
+      "lat": 50.75633959106417, 
+      "lon": 5.711280328403207, 
       "pcode": 3790, 
-      "street": "Getske", 
-      "lon": 5.711280328403207
+      "street": "Getske"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3790, 
-      "street": "Getske", 
-      "housenumber": "2"
+      "street": "Getske"
     }, 
     {
-      "lat": 50.756160800624905, 
       "housenumber": "3", 
+      "lat": 50.756160800624905, 
+      "lon": 5.711088411003569, 
       "pcode": 3790, 
-      "street": "Getske", 
-      "lon": 5.711088411003569
+      "street": "Getske"
     }, 
     {
-      "lat": 50.75611047755541, 
       "housenumber": "4", 
+      "lat": 50.75611047755541, 
+      "lon": 5.710623616739144, 
       "pcode": 3790, 
-      "street": "Getske", 
-      "lon": 5.710623616739144
+      "street": "Getske"
     }
-  ], 
-  "name": "Getske"
+  ]
 }

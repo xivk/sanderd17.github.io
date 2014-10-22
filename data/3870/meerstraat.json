@@ -1,20 +1,18 @@
 {
-  "pcode": 3870, 
   "addresses": [
     {
-      "lat": 50.76766460847003, 
       "housenumber": "2", 
+      "lat": 50.76766460847003, 
+      "lon": 5.364364861304746, 
       "pcode": 3870, 
-      "street": "Meerstraat", 
-      "lon": 5.364364861304746
+      "street": "Meerstraat"
     }, 
     {
-      "lat": 50.767994008833995, 
       "housenumber": "4", 
+      "lat": 50.767994008833995, 
+      "lon": 5.364640908383067, 
       "pcode": 3870, 
-      "street": "Meerstraat", 
-      "lon": 5.364640908383067
+      "street": "Meerstraat"
     }
-  ], 
-  "name": "Meerstraat"
+  ]
 }

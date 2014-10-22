@@ -1,46 +1,44 @@
 {
-  "pcode": 9070, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9070, 
-      "street": "Moerrede", 
-      "housenumber": "1"
+      "street": "Moerrede"
     }, 
     {
-      "lat": 51.01211077503594, 
       "housenumber": "15", 
+      "lat": 51.01211077503594, 
+      "lon": 3.809185995232822, 
       "pcode": 9070, 
-      "street": "Moerrede", 
-      "lon": 3.809185995232822
+      "street": "Moerrede"
     }, 
     {
-      "lat": 51.01213469147226, 
       "housenumber": "17", 
+      "lat": 51.01213469147226, 
+      "lon": 3.8096605161412125, 
       "pcode": 9070, 
-      "street": "Moerrede", 
-      "lon": 3.8096605161412125
+      "street": "Moerrede"
     }, 
     {
-      "lat": 51.01216038271699, 
       "housenumber": "1A", 
+      "lat": 51.01216038271699, 
+      "lon": 3.8070291087881944, 
       "pcode": 9070, 
-      "street": "Moerrede", 
-      "lon": 3.8070291087881944
+      "street": "Moerrede"
     }, 
     {
-      "lat": 51.01186924546408, 
       "housenumber": "2", 
+      "lat": 51.01186924546408, 
+      "lon": 3.806733064908068, 
       "pcode": 9070, 
-      "street": "Moerrede", 
-      "lon": 3.806733064908068
+      "street": "Moerrede"
     }, 
     {
-      "lat": 51.01173229383164, 
       "housenumber": "20", 
+      "lat": 51.01173229383164, 
+      "lon": 3.8094445844412013, 
       "pcode": 9070, 
-      "street": "Moerrede", 
-      "lon": 3.8094445844412013
+      "street": "Moerrede"
     }
-  ], 
-  "name": "Moerrede"
+  ]
 }

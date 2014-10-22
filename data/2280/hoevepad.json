@@ -1,32 +1,30 @@
 {
-  "pcode": 2280, 
   "addresses": [
     {
-      "lat": 51.19455040927268, 
       "housenumber": "2", 
+      "lat": 51.19455040927268, 
+      "lon": 4.720718200414916, 
       "pcode": 2280, 
-      "street": "Hoevepad", 
-      "lon": 4.720718200414916
+      "street": "Hoevepad"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 2280, 
-      "street": "Hoevepad", 
-      "housenumber": "2A"
+      "street": "Hoevepad"
     }, 
     {
-      "lat": 51.1944281760116, 
       "housenumber": "4", 
+      "lat": 51.1944281760116, 
+      "lon": 4.7210756247182175, 
       "pcode": 2280, 
-      "street": "Hoevepad", 
-      "lon": 4.7210756247182175
+      "street": "Hoevepad"
     }, 
     {
-      "lat": 51.194281387582954, 
       "housenumber": "8", 
+      "lat": 51.194281387582954, 
+      "lon": 4.722997715280132, 
       "pcode": 2280, 
-      "street": "Hoevepad", 
-      "lon": 4.722997715280132
+      "street": "Hoevepad"
     }
-  ], 
-  "name": "Hoevepad"
+  ]
 }

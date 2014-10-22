@@ -1,27 +1,25 @@
 {
-  "pcode": 8610, 
   "addresses": [
     {
-      "lat": 51.02735276258824, 
       "housenumber": "1", 
+      "lat": 51.02735276258824, 
+      "lon": 3.005776328755815, 
       "pcode": 8610, 
-      "street": "Azalealaan", 
-      "lon": 3.005776328755815
+      "street": "Azalealaan"
     }, 
     {
-      "lat": 51.027070095639075, 
       "housenumber": "3", 
+      "lat": 51.027070095639075, 
+      "lon": 3.00575261888684, 
       "pcode": 8610, 
-      "street": "Azalealaan", 
-      "lon": 3.00575261888684
+      "street": "Azalealaan"
     }, 
     {
-      "lat": 51.026783681112285, 
       "housenumber": "5", 
+      "lat": 51.026783681112285, 
+      "lon": 3.0057236009361654, 
       "pcode": 8610, 
-      "street": "Azalealaan", 
-      "lon": 3.0057236009361654
+      "street": "Azalealaan"
     }
-  ], 
-  "name": "Azalealaan"
+  ]
 }

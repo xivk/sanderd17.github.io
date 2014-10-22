@@ -1,20 +1,18 @@
 {
-  "pcode": 2200, 
   "addresses": [
     {
-      "lat": 51.183245063560065, 
       "housenumber": "6", 
+      "lat": 51.183245063560065, 
+      "lon": 4.821550840554043, 
       "pcode": 2200, 
-      "street": "Moserstraat", 
-      "lon": 4.821550840554043
+      "street": "Moserstraat"
     }, 
     {
-      "lat": 51.183334844050705, 
       "housenumber": "7", 
+      "lat": 51.183334844050705, 
+      "lon": 4.822163553630554, 
       "pcode": 2200, 
-      "street": "Moserstraat", 
-      "lon": 4.822163553630554
+      "street": "Moserstraat"
     }
-  ], 
-  "name": "Moserstraat"
+  ]
 }

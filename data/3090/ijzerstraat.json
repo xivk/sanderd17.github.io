@@ -1,20 +1,18 @@
 {
-  "pcode": 3090, 
   "addresses": [
     {
-      "lat": 50.79827688152809, 
       "housenumber": "78", 
+      "lat": 50.79827688152809, 
+      "lon": 4.541050993821931, 
       "pcode": 3090, 
-      "street": "IJzerstraat", 
-      "lon": 4.541050993821931
+      "street": "IJzerstraat"
     }, 
     {
-      "lat": 50.798236761953355, 
       "housenumber": "80", 
+      "lat": 50.798236761953355, 
+      "lon": 4.540763747008818, 
       "pcode": 3090, 
-      "street": "IJzerstraat", 
-      "lon": 4.540763747008818
+      "street": "IJzerstraat"
     }
-  ], 
-  "name": "IJzerstraat"
+  ]
 }

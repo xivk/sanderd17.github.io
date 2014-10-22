@@ -1,20 +1,18 @@
 {
-  "pcode": 2040, 
   "addresses": [
     {
-      "lat": 51.31563954048239, 
       "housenumber": "24", 
+      "lat": 51.31563954048239, 
+      "lon": 4.351035732895408, 
       "pcode": 2040, 
-      "street": "Poldervlietweg", 
-      "lon": 4.351035732895408
+      "street": "Poldervlietweg"
     }, 
     {
-      "lat": 51.314335418179596, 
       "housenumber": "5", 
+      "lat": 51.314335418179596, 
+      "lon": 4.348957334154059, 
       "pcode": 2040, 
-      "street": "Poldervlietweg", 
-      "lon": 4.348957334154059
+      "street": "Poldervlietweg"
     }
-  ], 
-  "name": "Poldervlietweg"
+  ]
 }

@@ -1,559 +1,557 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.9690145790629, 
       "housenumber": "1", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.447611269420524
-    }, 
-    {
-      "lat": 50.96946827178789, 
-      "housenumber": "10", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.447977809803209
-    }, 
-    {
-      "lat": 50.969070746998206, 
-      "housenumber": "11", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.446084836529283
-    }, 
-    {
-      "lat": 50.96943388853614, 
-      "housenumber": "12", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.447815843497021
-    }, 
-    {
-      "lat": 50.96921888802209, 
-      "housenumber": "13", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.445615828227489
-    }, 
-    {
-      "lat": 50.96947813754427, 
-      "housenumber": "14", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.447441833132787
-    }, 
-    {
-      "lat": 50.96929440841645, 
-      "housenumber": "15", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.44531130553508
-    }, 
-    {
-      "lat": 50.969474614252434, 
-      "housenumber": "16", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.4473359635183884
-    }, 
-    {
-      "lat": 50.96938298398173, 
-      "housenumber": "17", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.44488677080222
-    }, 
-    {
-      "lat": 50.969459566316516, 
-      "housenumber": "18", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.446869464465432
-    }, 
-    {
-      "lat": 50.96950830337583, 
-      "housenumber": "19", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.444297917097365
-    }, 
-    {
-      "lat": 50.969466193991984, 
-      "housenumber": "20", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.446764398038462
-    }, 
-    {
-      "lat": 50.96954421087405, 
-      "housenumber": "21", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.444195658068475
-    }, 
-    {
-      "lat": 50.96951904357685, 
-      "housenumber": "22", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.446324662243904
-    }, 
-    {
-      "lat": 50.969551874084196, 
-      "housenumber": "23", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.443485783206511
-    }, 
-    {
-      "lat": 50.969523203657246, 
-      "housenumber": "24", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.4462141284157175
-    }, 
-    {
-      "lat": 50.96896278288119, 
-      "housenumber": "25", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.44266612252696
-    }, 
-    {
-      "lat": 50.969608263874214, 
-      "housenumber": "26", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.445800760492907
-    }, 
-    {
-      "lat": 50.96890689008081, 
-      "housenumber": "27", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.442446860104251
-    }, 
-    {
-      "lat": 50.969620557097535, 
-      "housenumber": "28", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.4456953966952755
-    }, 
-    {
-      "lat": 50.968699168848524, 
-      "housenumber": "29", 
-      "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.442166883609831
-    }, 
-    {
       "lat": 50.9690145790629, 
+      "lon": 5.447611269420524, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "10", 
+      "lat": 50.96946827178789, 
+      "lon": 5.447977809803209, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "11", 
+      "lat": 50.969070746998206, 
+      "lon": 5.446084836529283, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "12", 
+      "lat": 50.96943388853614, 
+      "lon": 5.447815843497021, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "13", 
+      "lat": 50.96921888802209, 
+      "lon": 5.445615828227489, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "14", 
+      "lat": 50.96947813754427, 
+      "lon": 5.447441833132787, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "15", 
+      "lat": 50.96929440841645, 
+      "lon": 5.44531130553508, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "16", 
+      "lat": 50.969474614252434, 
+      "lon": 5.4473359635183884, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "17", 
+      "lat": 50.96938298398173, 
+      "lon": 5.44488677080222, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "18", 
+      "lat": 50.969459566316516, 
+      "lon": 5.446869464465432, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "19", 
+      "lat": 50.96950830337583, 
+      "lon": 5.444297917097365, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "20", 
+      "lat": 50.969466193991984, 
+      "lon": 5.446764398038462, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "21", 
+      "lat": 50.96954421087405, 
+      "lon": 5.444195658068475, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "22", 
+      "lat": 50.96951904357685, 
+      "lon": 5.446324662243904, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "23", 
+      "lat": 50.969551874084196, 
+      "lon": 5.443485783206511, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "24", 
+      "lat": 50.969523203657246, 
+      "lon": 5.4462141284157175, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "25", 
+      "lat": 50.96896278288119, 
+      "lon": 5.44266612252696, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "26", 
+      "lat": 50.969608263874214, 
+      "lon": 5.445800760492907, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "27", 
+      "lat": 50.96890689008081, 
+      "lon": 5.442446860104251, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "28", 
+      "lat": 50.969620557097535, 
+      "lon": 5.4456953966952755, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
+      "housenumber": "29", 
+      "lat": 50.968699168848524, 
+      "lon": 5.442166883609831, 
+      "pcode": 3600, 
+      "street": "Kleinven"
+    }, 
+    {
       "housenumber": "3", 
+      "lat": 50.9690145790629, 
+      "lon": 5.447611269420524, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.447611269420524
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.969735634697344, 
       "housenumber": "30", 
+      "lat": 50.969735634697344, 
+      "lon": 5.445302507709796, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.445302507709796
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96863223030482, 
       "housenumber": "31", 
+      "lat": 50.96863223030482, 
+      "lon": 5.442113524559912, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.442113524559912
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96976294686576, 
       "housenumber": "32", 
+      "lat": 50.96976294686576, 
+      "lon": 5.445206316209513, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.445206316209513
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.968461697043594, 
       "housenumber": "33", 
+      "lat": 50.968461697043594, 
+      "lon": 5.442023906711887, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.442023906711887
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.969927855915834, 
       "housenumber": "34", 
+      "lat": 50.969927855915834, 
+      "lon": 5.444731845751567, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.444731845751567
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.968287144812805, 
       "housenumber": "35", 
+      "lat": 50.968287144812805, 
+      "lon": 5.441921525955027, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.441921525955027
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96993713127777, 
       "housenumber": "36", 
+      "lat": 50.96993713127777, 
+      "lon": 5.4446221402284225, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.4446221402284225
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.967488037978654, 
       "housenumber": "37", 
+      "lat": 50.967488037978654, 
+      "lon": 5.441426411557609, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.441426411557609
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.97002593754469, 
       "housenumber": "38", 
+      "lat": 50.97002593754469, 
+      "lon": 5.444142644355296, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.444142644355296
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96729447958298, 
       "housenumber": "39", 
+      "lat": 50.96729447958298, 
+      "lon": 5.4412689286735345, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.4412689286735345
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.970105961913106, 
       "housenumber": "40", 
+      "lat": 50.970105961913106, 
+      "lon": 5.443630339737791, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.443630339737791
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96723978151338, 
       "housenumber": "41", 
+      "lat": 50.96723978151338, 
+      "lon": 5.441214001848469, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.441214001848469
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.9700407198838, 
       "housenumber": "42", 
+      "lat": 50.9700407198838, 
+      "lon": 5.443529175611318, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.443529175611318
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96704582070016, 
       "housenumber": "43", 
+      "lat": 50.96704582070016, 
+      "lon": 5.441021772544169, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.441021772544169
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.969890731558245, 
       "housenumber": "44", 
+      "lat": 50.969890731558245, 
+      "lon": 5.443051035310731, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.443051035310731
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96702632214178, 
       "housenumber": "45", 
+      "lat": 50.96702632214178, 
+      "lon": 5.440902445185953, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.440902445185953
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96954168891757, 
       "housenumber": "46", 
+      "lat": 50.96954168891757, 
+      "lon": 5.442524909753066, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.442524909753066
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96688707979171, 
       "housenumber": "47", 
+      "lat": 50.96688707979171, 
+      "lon": 5.44071360555513, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.44071360555513
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96940909303181, 
       "housenumber": "48", 
+      "lat": 50.96940909303181, 
+      "lon": 5.44226814983835, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.44226814983835
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.966640709527006, 
       "housenumber": "49", 
+      "lat": 50.966640709527006, 
+      "lon": 5.440294237493409, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.440294237493409
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96899932959458, 
       "housenumber": "5", 
+      "lat": 50.96899932959458, 
+      "lon": 5.446912123309403, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.446912123309403
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.969253910858406, 
       "housenumber": "50", 
+      "lat": 50.969253910858406, 
+      "lon": 5.441984106654383, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.441984106654383
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.9665060122235, 
       "housenumber": "51", 
+      "lat": 50.9665060122235, 
+      "lon": 5.440099810332591, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.440099810332591
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96923303775462, 
       "housenumber": "52", 
+      "lat": 50.96923303775462, 
+      "lon": 5.441867731735082, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.441867731735082
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96625315748121, 
       "housenumber": "53", 
+      "lat": 50.96625315748121, 
+      "lon": 5.439849151812367, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.439849151812367
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96900274672623, 
       "housenumber": "54", 
+      "lat": 50.96900274672623, 
+      "lon": 5.441706267586349, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.441706267586349
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96615334712153, 
       "housenumber": "55", 
+      "lat": 50.96615334712153, 
+      "lon": 5.439802023577991, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.439802023577991
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.968635808498696, 
       "housenumber": "56", 
+      "lat": 50.968635808498696, 
+      "lon": 5.441386911761161, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.441386911761161
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96843251576826, 
       "housenumber": "56A", 
+      "lat": 50.96843251576826, 
+      "lon": 5.441242016273711, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.441242016273711
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.9658454264201, 
       "housenumber": "57", 
+      "lat": 50.9658454264201, 
+      "lon": 5.439832570130302, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.439832570130302
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96825277639023, 
       "housenumber": "58", 
+      "lat": 50.96825277639023, 
+      "lon": 5.441166144150761, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.441166144150761
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96566949848935, 
       "housenumber": "59", 
+      "lat": 50.96566949848935, 
+      "lon": 5.439890763448153, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.439890763448153
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96818923163333, 
       "housenumber": "60", 
+      "lat": 50.96818923163333, 
+      "lon": 5.44109549483902, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.44109549483902
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96550203254166, 
       "housenumber": "61", 
+      "lat": 50.96550203254166, 
+      "lon": 5.439987162029815, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.439987162029815
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96784702589539, 
       "housenumber": "62", 
+      "lat": 50.96784702589539, 
+      "lon": 5.441001525538923, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.441001525538923
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96533053736308, 
       "housenumber": "63", 
+      "lat": 50.96533053736308, 
+      "lon": 5.44008175938721, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.44008175938721
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.965161633448076, 
       "housenumber": "63A", 
+      "lat": 50.965161633448076, 
+      "lon": 5.440227382662914, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.440227382662914
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96769889139409, 
       "housenumber": "64", 
+      "lat": 50.96769889139409, 
+      "lon": 5.440703419868595, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.440703419868595
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.9649053499382, 
       "housenumber": "65", 
+      "lat": 50.9649053499382, 
+      "lon": 5.440234477308534, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.440234477308534
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96746468181193, 
       "housenumber": "66", 
+      "lat": 50.96746468181193, 
+      "lon": 5.440636271025971, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.440636271025971
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96733713836703, 
       "housenumber": "68", 
+      "lat": 50.96733713836703, 
+      "lon": 5.440455955692453, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.440455955692453
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.9690641673736, 
       "housenumber": "7", 
+      "lat": 50.9690641673736, 
+      "lon": 5.446625867550619, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.446625867550619
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96716001060733, 
       "housenumber": "70", 
+      "lat": 50.96716001060733, 
+      "lon": 5.440113341138039, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.440113341138039
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.967103934531025, 
       "housenumber": "72", 
+      "lat": 50.967103934531025, 
+      "lon": 5.440041869077061, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.440041869077061
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.9669047315148, 
       "housenumber": "72A", 
+      "lat": 50.9669047315148, 
+      "lon": 5.439645363659706, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.439645363659706
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96680998912325, 
       "housenumber": "74", 
+      "lat": 50.96680998912325, 
+      "lon": 5.439416969240097, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.439416969240097
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96673677916419, 
       "housenumber": "76", 
+      "lat": 50.96673677916419, 
+      "lon": 5.439351229027594, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.439351229027594
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96640182546243, 
       "housenumber": "78", 
+      "lat": 50.96640182546243, 
+      "lon": 5.43911236540841, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.43911236540841
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.966331103895456, 
       "housenumber": "80", 
+      "lat": 50.966331103895456, 
+      "lon": 5.439089251850002, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.439089251850002
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96601496828116, 
       "housenumber": "82", 
+      "lat": 50.96601496828116, 
+      "lon": 5.439074199664723, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.439074199664723
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.965814979551034, 
       "housenumber": "84", 
+      "lat": 50.965814979551034, 
+      "lon": 5.439040018443324, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.439040018443324
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.965630948078015, 
       "housenumber": "86", 
+      "lat": 50.965630948078015, 
+      "lon": 5.439218046051895, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.439218046051895
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96546822839663, 
       "housenumber": "88", 
+      "lat": 50.96546822839663, 
+      "lon": 5.439286936034177, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.439286936034177
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96905876335646, 
       "housenumber": "9", 
+      "lat": 50.96905876335646, 
+      "lon": 5.446195616515387, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.446195616515387
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.96521540940719, 
       "housenumber": "90", 
+      "lat": 50.96521540940719, 
+      "lon": 5.43906177200419, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.43906177200419
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.965060653397735, 
       "housenumber": "92", 
+      "lat": 50.965060653397735, 
+      "lon": 5.439174265649025, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.439174265649025
+      "street": "Kleinven"
     }, 
     {
-      "lat": 50.964924521078146, 
       "housenumber": "94", 
+      "lat": 50.964924521078146, 
+      "lon": 5.439512122611799, 
       "pcode": 3600, 
-      "street": "Kleinven", 
-      "lon": 5.439512122611799
+      "street": "Kleinven"
     }
-  ], 
-  "name": "Kleinven"
+  ]
 }

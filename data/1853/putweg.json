@@ -1,33 +1,31 @@
 {
-  "pcode": 1853, 
   "addresses": [
     {
+      "housenumber": "564B", 
       "pcode": 1853, 
-      "street": "Putweg", 
-      "housenumber": "564B"
+      "street": "Putweg"
     }, 
     {
-      "lat": 50.90262263573558, 
       "housenumber": "564C", 
+      "lat": 50.90262263573558, 
+      "lon": 4.34076470694366, 
       "pcode": 1853, 
-      "street": "Putweg", 
-      "lon": 4.34076470694366
+      "street": "Putweg"
     }, 
     {
+      "housenumber": "564D", 
       "pcode": 1853, 
-      "street": "Putweg", 
-      "housenumber": "564D"
+      "street": "Putweg"
     }, 
     {
+      "housenumber": "564E", 
       "pcode": 1853, 
-      "street": "Putweg", 
-      "housenumber": "564E"
+      "street": "Putweg"
     }, 
     {
+      "housenumber": "566", 
       "pcode": 1853, 
-      "street": "Putweg", 
-      "housenumber": "566"
+      "street": "Putweg"
     }
-  ], 
-  "name": "Putweg"
+  ]
 }

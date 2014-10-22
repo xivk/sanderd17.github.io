@@ -1,25 +1,23 @@
 {
-  "pcode": 8750, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8750, 
-      "street": "Kleine Tieltstraat", 
-      "housenumber": "1"
+      "street": "Kleine Tieltstraat"
     }, 
     {
-      "lat": 51.03877326909483, 
       "housenumber": "2", 
+      "lat": 51.03877326909483, 
+      "lon": 3.3135406951497366, 
       "pcode": 8750, 
-      "street": "Kleine Tieltstraat", 
-      "lon": 3.3135406951497366
+      "street": "Kleine Tieltstraat"
     }, 
     {
-      "lat": 51.03967978972247, 
       "housenumber": "3", 
+      "lat": 51.03967978972247, 
+      "lon": 3.3150555725406656, 
       "pcode": 8750, 
-      "street": "Kleine Tieltstraat", 
-      "lon": 3.3150555725406656
+      "street": "Kleine Tieltstraat"
     }
-  ], 
-  "name": "Kleine Tieltstraat"
+  ]
 }

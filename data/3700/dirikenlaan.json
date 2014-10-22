@@ -1,40 +1,38 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3700, 
-      "street": "Dirikenlaan", 
-      "housenumber": "1"
+      "street": "Dirikenlaan"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3700, 
-      "street": "Dirikenlaan", 
-      "housenumber": "2"
+      "street": "Dirikenlaan"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3700, 
-      "street": "Dirikenlaan", 
-      "housenumber": "3"
+      "street": "Dirikenlaan"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3700, 
-      "street": "Dirikenlaan", 
-      "housenumber": "4"
+      "street": "Dirikenlaan"
     }, 
     {
-      "lat": 50.77484696229632, 
       "housenumber": "6", 
+      "lat": 50.77484696229632, 
+      "lon": 5.468553287784525, 
       "pcode": 3700, 
-      "street": "Dirikenlaan", 
-      "lon": 5.468553287784525
+      "street": "Dirikenlaan"
     }, 
     {
-      "lat": 50.77502663761545, 
       "housenumber": "8", 
+      "lat": 50.77502663761545, 
+      "lon": 5.468405344299501, 
       "pcode": 3700, 
-      "street": "Dirikenlaan", 
-      "lon": 5.468405344299501
+      "street": "Dirikenlaan"
     }
-  ], 
-  "name": "Dirikenlaan"
+  ]
 }

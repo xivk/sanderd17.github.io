@@ -1,20 +1,18 @@
 {
-  "pcode": 1670, 
   "addresses": [
     {
-      "lat": 50.754946658678925, 
       "housenumber": "1", 
+      "lat": 50.754946658678925, 
+      "lon": 4.175814133727689, 
       "pcode": 1670, 
-      "street": "Crockaertstraat", 
-      "lon": 4.175814133727689
+      "street": "Crockaertstraat"
     }, 
     {
-      "lat": 50.757097325004814, 
       "housenumber": "2", 
+      "lat": 50.757097325004814, 
+      "lon": 4.172477824290357, 
       "pcode": 1670, 
-      "street": "Crockaertstraat", 
-      "lon": 4.172477824290357
+      "street": "Crockaertstraat"
     }
-  ], 
-  "name": "Crockaertstraat"
+  ]
 }

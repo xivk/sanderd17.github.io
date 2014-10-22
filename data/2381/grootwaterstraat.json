@@ -1,20 +1,18 @@
 {
-  "pcode": 2381, 
   "addresses": [
     {
-      "lat": 51.415330289044554, 
       "housenumber": "2", 
+      "lat": 51.415330289044554, 
+      "lon": 5.023334958511466, 
       "pcode": 2381, 
-      "street": "Grootwaterstraat", 
-      "lon": 5.023334958511466
+      "street": "Grootwaterstraat"
     }, 
     {
-      "lat": 51.41575252056717, 
       "housenumber": "4", 
+      "lat": 51.41575252056717, 
+      "lon": 5.022850623903979, 
       "pcode": 2381, 
-      "street": "Grootwaterstraat", 
-      "lon": 5.022850623903979
+      "street": "Grootwaterstraat"
     }
-  ], 
-  "name": "Grootwaterstraat"
+  ]
 }

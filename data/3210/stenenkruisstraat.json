@@ -1,27 +1,25 @@
 {
-  "pcode": 3210, 
   "addresses": [
     {
-      "lat": 50.89167821367861, 
       "housenumber": "2", 
+      "lat": 50.89167821367861, 
+      "lon": 4.799076934651545, 
       "pcode": 3210, 
-      "street": "Stenenkruisstraat", 
-      "lon": 4.799076934651545
+      "street": "Stenenkruisstraat"
     }, 
     {
-      "lat": 50.891575419119135, 
       "housenumber": "4", 
+      "lat": 50.891575419119135, 
+      "lon": 4.799088925173528, 
       "pcode": 3210, 
-      "street": "Stenenkruisstraat", 
-      "lon": 4.799088925173528
+      "street": "Stenenkruisstraat"
     }, 
     {
-      "lat": 50.89149655884227, 
       "housenumber": "6", 
+      "lat": 50.89149655884227, 
+      "lon": 4.798996953166003, 
       "pcode": 3210, 
-      "street": "Stenenkruisstraat", 
-      "lon": 4.798996953166003
+      "street": "Stenenkruisstraat"
     }
-  ], 
-  "name": "Stenenkruisstraat"
+  ]
 }

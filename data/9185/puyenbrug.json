@@ -1,30 +1,28 @@
 {
-  "pcode": 9185, 
   "addresses": [
     {
-      "lat": 51.15194347423795, 
       "housenumber": "1", 
+      "lat": 51.15194347423795, 
+      "lon": 3.8642989593767436, 
       "pcode": 9185, 
-      "street": "Puyenbrug", 
-      "lon": 3.8642989593767436
+      "street": "Puyenbrug"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9185, 
-      "street": "Puyenbrug", 
-      "housenumber": "3"
+      "street": "Puyenbrug"
     }, 
     {
-      "lat": 51.14900302865528, 
       "housenumber": "5", 
+      "lat": 51.14900302865528, 
+      "lon": 3.8661730046672176, 
       "pcode": 9185, 
-      "street": "Puyenbrug", 
-      "lon": 3.8661730046672176
+      "street": "Puyenbrug"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 9185, 
-      "street": "Puyenbrug", 
-      "housenumber": "7"
+      "street": "Puyenbrug"
     }
-  ], 
-  "name": "Puyenbrug"
+  ]
 }

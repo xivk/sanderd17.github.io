@@ -1,51 +1,49 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 2800, 
-      "street": "Onze-Lieve-Vrouwekerkhof", 
-      "housenumber": "10"
+      "street": "Onze-Lieve-Vrouwekerkhof"
     }, 
     {
-      "lat": 51.02286919864604, 
       "housenumber": "11", 
+      "lat": 51.02286919864604, 
+      "lon": 4.4778535756690045, 
       "pcode": 2800, 
-      "street": "Onze-Lieve-Vrouwekerkhof", 
-      "lon": 4.4778535756690045
+      "street": "Onze-Lieve-Vrouwekerkhof"
     }, 
     {
-      "lat": 51.0225455611878, 
       "housenumber": "3", 
+      "lat": 51.0225455611878, 
+      "lon": 4.478751732632889, 
       "pcode": 2800, 
-      "street": "Onze-Lieve-Vrouwekerkhof", 
-      "lon": 4.478751732632889
+      "street": "Onze-Lieve-Vrouwekerkhof"
     }, 
     {
+      "housenumber": "42", 
       "pcode": 2800, 
-      "street": "Onze-Lieve-Vrouwekerkhof", 
-      "housenumber": "42"
+      "street": "Onze-Lieve-Vrouwekerkhof"
     }, 
     {
-      "lat": 51.02261138372377, 
       "housenumber": "5", 
+      "lat": 51.02261138372377, 
+      "lon": 4.478536102527531, 
       "pcode": 2800, 
-      "street": "Onze-Lieve-Vrouwekerkhof", 
-      "lon": 4.478536102527531
+      "street": "Onze-Lieve-Vrouwekerkhof"
     }, 
     {
-      "lat": 51.022739155728196, 
       "housenumber": "7", 
+      "lat": 51.022739155728196, 
+      "lon": 4.4784000053610376, 
       "pcode": 2800, 
-      "street": "Onze-Lieve-Vrouwekerkhof", 
-      "lon": 4.4784000053610376
+      "street": "Onze-Lieve-Vrouwekerkhof"
     }, 
     {
-      "lat": 51.022777247519926, 
       "housenumber": "9", 
+      "lat": 51.022777247519926, 
+      "lon": 4.478327263621376, 
       "pcode": 2800, 
-      "street": "Onze-Lieve-Vrouwekerkhof", 
-      "lon": 4.478327263621376
+      "street": "Onze-Lieve-Vrouwekerkhof"
     }
-  ], 
-  "name": "Onze-Lieve-Vrouwekerkhof"
+  ]
 }

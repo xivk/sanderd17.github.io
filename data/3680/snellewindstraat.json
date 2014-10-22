@@ -1,32 +1,30 @@
 {
-  "pcode": 3680, 
   "addresses": [
     {
-      "lat": 51.10264959735584, 
       "housenumber": "10", 
+      "lat": 51.10264959735584, 
+      "lon": 5.754814030114745, 
       "pcode": 3680, 
-      "street": "Snellewindstraat", 
-      "lon": 5.754814030114745
+      "street": "Snellewindstraat"
     }, 
     {
-      "lat": 51.10176002148968, 
       "housenumber": "2", 
+      "lat": 51.10176002148968, 
+      "lon": 5.754583016820105, 
       "pcode": 3680, 
-      "street": "Snellewindstraat", 
-      "lon": 5.754583016820105
+      "street": "Snellewindstraat"
     }, 
     {
-      "lat": 51.101993071283374, 
       "housenumber": "4", 
+      "lat": 51.101993071283374, 
+      "lon": 5.754711304162823, 
       "pcode": 3680, 
-      "street": "Snellewindstraat", 
-      "lon": 5.754711304162823
+      "street": "Snellewindstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3680, 
-      "street": "Snellewindstraat", 
-      "housenumber": "6"
+      "street": "Snellewindstraat"
     }
-  ], 
-  "name": "Snellewindstraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 8020, 
   "addresses": [
     {
-      "lat": 51.12891729279966, 
       "housenumber": "1", 
+      "lat": 51.12891729279966, 
+      "lon": 3.2157119525265876, 
       "pcode": 8020, 
-      "street": "Breidels", 
-      "lon": 3.2157119525265876
+      "street": "Breidels"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8020, 
-      "street": "Breidels", 
-      "housenumber": "2"
+      "street": "Breidels"
     }
-  ], 
-  "name": "Breidels"
+  ]
 }

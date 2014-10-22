@@ -1,20 +1,18 @@
 {
-  "pcode": 3550, 
   "addresses": [
     {
-      "lat": 50.9784154417934, 
       "housenumber": "10", 
+      "lat": 50.9784154417934, 
+      "lon": 5.2751667362026735, 
       "pcode": 3550, 
-      "street": "Kabienstraat", 
-      "lon": 5.2751667362026735
+      "street": "Kabienstraat"
     }, 
     {
-      "lat": 50.978394674601425, 
       "housenumber": "12", 
+      "lat": 50.978394674601425, 
+      "lon": 5.2747587772577, 
       "pcode": 3550, 
-      "street": "Kabienstraat", 
-      "lon": 5.2747587772577
+      "street": "Kabienstraat"
     }
-  ], 
-  "name": "Kabienstraat"
+  ]
 }

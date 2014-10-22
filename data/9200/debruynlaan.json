@@ -1,51 +1,49 @@
 {
-  "pcode": 9200, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9200, 
-      "street": "De Bruynlaan", 
-      "housenumber": "1"
+      "street": "De Bruynlaan"
     }, 
     {
-      "lat": 51.03365518727012, 
       "housenumber": "10", 
+      "lat": 51.03365518727012, 
+      "lon": 4.100056424427109, 
       "pcode": 9200, 
-      "street": "De Bruynlaan", 
-      "lon": 4.100056424427109
+      "street": "De Bruynlaan"
     }, 
     {
+      "housenumber": "10C", 
       "pcode": 9200, 
-      "street": "De Bruynlaan", 
-      "housenumber": "10C"
+      "street": "De Bruynlaan"
     }, 
     {
-      "lat": 51.033530382499116, 
       "housenumber": "12", 
+      "lat": 51.033530382499116, 
+      "lon": 4.099961337931889, 
       "pcode": 9200, 
-      "street": "De Bruynlaan", 
-      "lon": 4.099961337931889
+      "street": "De Bruynlaan"
     }, 
     {
-      "lat": 51.03378300681875, 
       "housenumber": "4", 
+      "lat": 51.03378300681875, 
+      "lon": 4.100251857585358, 
       "pcode": 9200, 
-      "street": "De Bruynlaan", 
-      "lon": 4.100251857585358
+      "street": "De Bruynlaan"
     }, 
     {
-      "lat": 51.03366169706988, 
       "housenumber": "6", 
+      "lat": 51.03366169706988, 
+      "lon": 4.100231024743317, 
       "pcode": 9200, 
-      "street": "De Bruynlaan", 
-      "lon": 4.100231024743317
+      "street": "De Bruynlaan"
     }, 
     {
-      "lat": 51.03371507397976, 
       "housenumber": "8", 
+      "lat": 51.03371507397976, 
+      "lon": 4.100144042030982, 
       "pcode": 9200, 
-      "street": "De Bruynlaan", 
-      "lon": 4.100144042030982
+      "street": "De Bruynlaan"
     }
-  ], 
-  "name": "De Bruynlaan"
+  ]
 }

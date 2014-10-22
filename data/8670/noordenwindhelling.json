@@ -1,20 +1,18 @@
 {
-  "pcode": 8670, 
   "addresses": [
     {
-      "lat": 51.14277140629535, 
       "housenumber": "1", 
+      "lat": 51.14277140629535, 
+      "lon": 2.701565330168595, 
       "pcode": 8670, 
-      "street": "Noordenwindhelling", 
-      "lon": 2.701565330168595
+      "street": "Noordenwindhelling"
     }, 
     {
-      "lat": 51.14240874646834, 
       "housenumber": "2", 
+      "lat": 51.14240874646834, 
+      "lon": 2.7010711620703636, 
       "pcode": 8670, 
-      "street": "Noordenwindhelling", 
-      "lon": 2.7010711620703636
+      "street": "Noordenwindhelling"
     }
-  ], 
-  "name": "Noordenwindhelling"
+  ]
 }

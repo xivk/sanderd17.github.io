@@ -1,20 +1,18 @@
 {
-  "pcode": 9552, 
   "addresses": [
     {
-      "lat": 50.9059334587327, 
       "housenumber": "1", 
+      "lat": 50.9059334587327, 
+      "lon": 3.895728673249604, 
       "pcode": 9552, 
-      "street": "Sint-Antoniusdreef", 
-      "lon": 3.895728673249604
+      "street": "Sint-Antoniusdreef"
     }, 
     {
-      "lat": 50.90655702105372, 
       "housenumber": "2", 
+      "lat": 50.90655702105372, 
+      "lon": 3.895874671433379, 
       "pcode": 9552, 
-      "street": "Sint-Antoniusdreef", 
-      "lon": 3.895874671433379
+      "street": "Sint-Antoniusdreef"
     }
-  ], 
-  "name": "Sint-Antoniusdreef"
+  ]
 }

@@ -1,53 +1,51 @@
 {
-  "pcode": 8640, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8640, 
-      "street": "Molenstraat", 
-      "housenumber": "1"
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.92996710943856, 
       "housenumber": "1A", 
+      "lat": 50.92996710943856, 
+      "lon": 2.7360726051501323, 
       "pcode": 8640, 
-      "street": "Molenstraat", 
-      "lon": 2.7360726051501323
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.930226853677105, 
       "housenumber": "1D", 
+      "lat": 50.930226853677105, 
+      "lon": 2.7364790288703316, 
       "pcode": 8640, 
-      "street": "Molenstraat", 
-      "lon": 2.7364790288703316
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.93033127756441, 
       "housenumber": "2", 
+      "lat": 50.93033127756441, 
+      "lon": 2.737990545163366, 
       "pcode": 8640, 
-      "street": "Molenstraat", 
-      "lon": 2.737990545163366
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.92850515829647, 
       "housenumber": "3", 
+      "lat": 50.92850515829647, 
+      "lon": 2.735785838518182, 
       "pcode": 8640, 
-      "street": "Molenstraat", 
-      "lon": 2.735785838518182
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.92728012713682, 
       "housenumber": "4", 
+      "lat": 50.92728012713682, 
+      "lon": 2.735958208108201, 
       "pcode": 8640, 
-      "street": "Molenstraat", 
-      "lon": 2.735958208108201
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.929745957582725, 
       "housenumber": "N1", 
+      "lat": 50.929745957582725, 
+      "lon": 2.7357517756092333, 
       "pcode": 8640, 
-      "street": "Molenstraat", 
-      "lon": 2.7357517756092333
+      "street": "Molenstraat"
     }
-  ], 
-  "name": "Molenstraat"
+  ]
 }

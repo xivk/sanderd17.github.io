@@ -1,39 +1,37 @@
 {
-  "pcode": 3210, 
   "addresses": [
     {
-      "lat": 50.86377103363292, 
       "housenumber": "1", 
+      "lat": 50.86377103363292, 
+      "lon": 4.8287661311119505, 
       "pcode": 3210, 
-      "street": "Rozemarijnweg", 
-      "lon": 4.8287661311119505
+      "street": "Rozemarijnweg"
     }, 
     {
-      "lat": 50.86314954443704, 
       "housenumber": "2", 
+      "lat": 50.86314954443704, 
+      "lon": 4.827766711870715, 
       "pcode": 3210, 
-      "street": "Rozemarijnweg", 
-      "lon": 4.827766711870715
+      "street": "Rozemarijnweg"
     }, 
     {
-      "lat": 50.86686029893173, 
       "housenumber": "3", 
+      "lat": 50.86686029893173, 
+      "lon": 4.836874352918345, 
       "pcode": 3210, 
-      "street": "Rozemarijnweg", 
-      "lon": 4.836874352918345
+      "street": "Rozemarijnweg"
     }, 
     {
-      "lat": 50.865306193176316, 
       "housenumber": "4", 
+      "lat": 50.865306193176316, 
+      "lon": 4.837790000962139, 
       "pcode": 3210, 
-      "street": "Rozemarijnweg", 
-      "lon": 4.837790000962139
+      "street": "Rozemarijnweg"
     }, 
     {
+      "housenumber": "61", 
       "pcode": 3210, 
-      "street": "Rozemarijnweg", 
-      "housenumber": "61"
+      "street": "Rozemarijnweg"
     }
-  ], 
-  "name": "Rozemarijnweg"
+  ]
 }

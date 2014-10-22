@@ -1,23 +1,21 @@
 {
-  "pcode": 2050, 
   "addresses": [
     {
-      "lat": 51.22997746147756, 
       "housenumber": "1", 
+      "lat": 51.22997746147756, 
+      "lon": 4.39025223480194, 
       "pcode": 2050, 
-      "street": "Fromentinstraat", 
-      "lon": 4.39025223480194
+      "street": "Fromentinstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2050, 
-      "street": "Fromentinstraat", 
-      "housenumber": "2"
+      "street": "Fromentinstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2050, 
-      "street": "Fromentinstraat", 
-      "housenumber": "5"
+      "street": "Fromentinstraat"
     }
-  ], 
-  "name": "Fromentinstraat"
+  ]
 }

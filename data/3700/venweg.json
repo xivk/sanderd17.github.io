@@ -1,27 +1,25 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.75653675387077, 
       "housenumber": "25", 
+      "lat": 50.75653675387077, 
+      "lon": 5.500760925724356, 
       "pcode": 3700, 
-      "street": "Venweg", 
-      "lon": 5.500760925724356
+      "street": "Venweg"
     }, 
     {
-      "lat": 50.75289755129641, 
       "housenumber": "51", 
+      "lat": 50.75289755129641, 
+      "lon": 5.503508090046289, 
       "pcode": 3700, 
-      "street": "Venweg", 
-      "lon": 5.503508090046289
+      "street": "Venweg"
     }, 
     {
-      "lat": 50.756207901697984, 
       "housenumber": "7", 
+      "lat": 50.756207901697984, 
+      "lon": 5.499474974134181, 
       "pcode": 3700, 
-      "street": "Venweg", 
-      "lon": 5.499474974134181
+      "street": "Venweg"
     }
-  ], 
-  "name": "Venweg"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3740, 
   "addresses": [
     {
-      "lat": 50.86108288169264, 
       "housenumber": "1", 
+      "lat": 50.86108288169264, 
+      "lon": 5.574902142149872, 
       "pcode": 3740, 
-      "street": "Michel Moorsplein", 
-      "lon": 5.574902142149872
+      "street": "Michel Moorsplein"
     }, 
     {
-      "lat": 50.86100547976372, 
       "housenumber": "3", 
+      "lat": 50.86100547976372, 
+      "lon": 5.57465667141734, 
       "pcode": 3740, 
-      "street": "Michel Moorsplein", 
-      "lon": 5.57465667141734
+      "street": "Michel Moorsplein"
     }
-  ], 
-  "name": "Michel Moorsplein"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.9424776208753, 
       "housenumber": "3", 
+      "lat": 50.9424776208753, 
+      "lon": 3.1094048735237476, 
       "pcode": 8800, 
-      "street": "Roggestraat", 
-      "lon": 3.1094048735237476
+      "street": "Roggestraat"
     }, 
     {
-      "lat": 50.94217330314952, 
       "housenumber": "6", 
+      "lat": 50.94217330314952, 
+      "lon": 3.1089780196494012, 
       "pcode": 8800, 
-      "street": "Roggestraat", 
-      "lon": 3.1089780196494012
+      "street": "Roggestraat"
     }
-  ], 
-  "name": "Roggestraat"
+  ]
 }

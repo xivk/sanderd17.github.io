@@ -1,13 +1,11 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.04751378527844, 
       "housenumber": "1", 
+      "lat": 51.04751378527844, 
+      "lon": 3.704140899201536, 
       "pcode": 9000, 
-      "street": "Kanodreef", 
-      "lon": 3.704140899201536
+      "street": "Kanodreef"
     }
-  ], 
-  "name": "Kanodreef"
+  ]
 }

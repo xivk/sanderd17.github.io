@@ -1,60 +1,58 @@
 {
-  "pcode": 8200, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 8200, 
-      "street": "Fazantendreef", 
-      "housenumber": "11"
+      "street": "Fazantendreef"
     }, 
     {
-      "lat": 51.17506008136942, 
       "housenumber": "13", 
+      "lat": 51.17506008136942, 
+      "lon": 3.1847066038524856, 
       "pcode": 8200, 
-      "street": "Fazantendreef", 
-      "lon": 3.1847066038524856
+      "street": "Fazantendreef"
     }, 
     {
-      "lat": 51.174273579160534, 
       "housenumber": "14", 
+      "lat": 51.174273579160534, 
+      "lon": 3.1847251154112186, 
       "pcode": 8200, 
-      "street": "Fazantendreef", 
-      "lon": 3.1847251154112186
+      "street": "Fazantendreef"
     }, 
     {
-      "lat": 51.174416946351805, 
       "housenumber": "16", 
+      "lat": 51.174416946351805, 
+      "lon": 3.18526176623056, 
       "pcode": 8200, 
-      "street": "Fazantendreef", 
-      "lon": 3.18526176623056
+      "street": "Fazantendreef"
     }, 
     {
-      "lat": 51.17486799128028, 
       "housenumber": "2", 
+      "lat": 51.17486799128028, 
+      "lon": 3.180713490236596, 
       "pcode": 8200, 
-      "street": "Fazantendreef", 
-      "lon": 3.180713490236596
+      "street": "Fazantendreef"
     }, 
     {
-      "lat": 51.17451813715324, 
       "housenumber": "4", 
+      "lat": 51.17451813715324, 
+      "lon": 3.181494209498712, 
       "pcode": 8200, 
-      "street": "Fazantendreef", 
-      "lon": 3.181494209498712
+      "street": "Fazantendreef"
     }, 
     {
-      "lat": 51.17416375873421, 
       "housenumber": "6", 
+      "lat": 51.17416375873421, 
+      "lon": 3.1823262286406413, 
       "pcode": 8200, 
-      "street": "Fazantendreef", 
-      "lon": 3.1823262286406413
+      "street": "Fazantendreef"
     }, 
     {
-      "lat": 51.173966135353744, 
       "housenumber": "8", 
+      "lat": 51.173966135353744, 
+      "lon": 3.183192152206571, 
       "pcode": 8200, 
-      "street": "Fazantendreef", 
-      "lon": 3.183192152206571
+      "street": "Fazantendreef"
     }
-  ], 
-  "name": "Fazantendreef"
+  ]
 }

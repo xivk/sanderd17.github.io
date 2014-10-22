@@ -1,28 +1,26 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.25125239582643, 
       "housenumber": "1", 
+      "lat": 51.25125239582643, 
+      "lon": 4.390524614648324, 
       "pcode": 2030, 
-      "street": "Koordekenshoef", 
-      "lon": 4.390524614648324
+      "street": "Koordekenshoef"
     }, 
     {
+      "housenumber": "119", 
       "pcode": 2030, 
-      "street": "Koordekenshoef", 
-      "housenumber": "119"
+      "street": "Koordekenshoef"
     }, 
     {
+      "housenumber": "14", 
       "pcode": 2030, 
-      "street": "Koordekenshoef", 
-      "housenumber": "14"
+      "street": "Koordekenshoef"
     }, 
     {
+      "housenumber": "75", 
       "pcode": 2030, 
-      "street": "Koordekenshoef", 
-      "housenumber": "75"
+      "street": "Koordekenshoef"
     }
-  ], 
-  "name": "Koordekenshoef"
+  ]
 }

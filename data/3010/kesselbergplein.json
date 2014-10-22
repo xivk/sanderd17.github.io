@@ -1,27 +1,25 @@
 {
-  "pcode": 3010, 
   "addresses": [
     {
-      "lat": 50.89999994801449, 
       "housenumber": "2", 
+      "lat": 50.89999994801449, 
+      "lon": 4.718120281347515, 
       "pcode": 3010, 
-      "street": "Kesselbergplein", 
-      "lon": 4.718120281347515
+      "street": "Kesselbergplein"
     }, 
     {
-      "lat": 50.90004758472365, 
       "housenumber": "4", 
+      "lat": 50.90004758472365, 
+      "lon": 4.717911666809244, 
       "pcode": 3010, 
-      "street": "Kesselbergplein", 
-      "lon": 4.717911666809244
+      "street": "Kesselbergplein"
     }, 
     {
-      "lat": 50.900102811717694, 
       "housenumber": "6", 
+      "lat": 50.900102811717694, 
+      "lon": 4.717750162144497, 
       "pcode": 3010, 
-      "street": "Kesselbergplein", 
-      "lon": 4.717750162144497
+      "street": "Kesselbergplein"
     }
-  ], 
-  "name": "Kesselbergplein"
+  ]
 }

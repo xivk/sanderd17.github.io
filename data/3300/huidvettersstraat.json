@@ -1,62 +1,60 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3300, 
-      "street": "Huidvettersstraat", 
-      "housenumber": "10"
+      "street": "Huidvettersstraat"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 3300, 
-      "street": "Huidvettersstraat", 
-      "housenumber": "12"
+      "street": "Huidvettersstraat"
     }, 
     {
+      "housenumber": "14", 
       "pcode": 3300, 
-      "street": "Huidvettersstraat", 
-      "housenumber": "14"
+      "street": "Huidvettersstraat"
     }, 
     {
-      "lat": 50.80237869757702, 
       "housenumber": "16", 
+      "lat": 50.80237869757702, 
+      "lon": 4.938411594968663, 
       "pcode": 3300, 
-      "street": "Huidvettersstraat", 
-      "lon": 4.938411594968663
+      "street": "Huidvettersstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3300, 
-      "street": "Huidvettersstraat", 
-      "housenumber": "2"
+      "street": "Huidvettersstraat"
     }, 
     {
+      "housenumber": "25", 
       "pcode": 3300, 
-      "street": "Huidvettersstraat", 
-      "housenumber": "25"
+      "street": "Huidvettersstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3300, 
-      "street": "Huidvettersstraat", 
-      "housenumber": "4"
+      "street": "Huidvettersstraat"
     }, 
     {
+      "housenumber": "45", 
       "pcode": 3300, 
-      "street": "Huidvettersstraat", 
-      "housenumber": "45"
+      "street": "Huidvettersstraat"
     }, 
     {
-      "lat": 50.80235799046169, 
       "housenumber": "6", 
+      "lat": 50.80235799046169, 
+      "lon": 4.938343958701745, 
       "pcode": 3300, 
-      "street": "Huidvettersstraat", 
-      "lon": 4.938343958701745
+      "street": "Huidvettersstraat"
     }, 
     {
-      "lat": 50.802379478307756, 
       "housenumber": "8", 
+      "lat": 50.802379478307756, 
+      "lon": 4.938417420847282, 
       "pcode": 3300, 
-      "street": "Huidvettersstraat", 
-      "lon": 4.938417420847282
+      "street": "Huidvettersstraat"
     }
-  ], 
-  "name": "Huidvettersstraat"
+  ]
 }

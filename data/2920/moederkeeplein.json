@@ -1,25 +1,23 @@
 {
-  "pcode": 2920, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 2920, 
-      "street": "Moeder Keeplein", 
-      "housenumber": "2"
+      "street": "Moeder Keeplein"
     }, 
     {
-      "lat": 51.36395628234459, 
       "housenumber": "4", 
+      "lat": 51.36395628234459, 
+      "lon": 4.462801363072764, 
       "pcode": 2920, 
-      "street": "Moeder Keeplein", 
-      "lon": 4.462801363072764
+      "street": "Moeder Keeplein"
     }, 
     {
-      "lat": 51.36367331067169, 
       "housenumber": "6", 
+      "lat": 51.36367331067169, 
+      "lon": 4.462618449174251, 
       "pcode": 2920, 
-      "street": "Moeder Keeplein", 
-      "lon": 4.462618449174251
+      "street": "Moeder Keeplein"
     }
-  ], 
-  "name": "Moeder Keeplein"
+  ]
 }

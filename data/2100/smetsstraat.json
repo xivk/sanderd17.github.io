@@ -1,46 +1,44 @@
 {
-  "pcode": 2100, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 2100, 
-      "street": "Smetsstraat", 
-      "housenumber": "11"
+      "street": "Smetsstraat"
     }, 
     {
-      "lat": 51.20215588652093, 
       "housenumber": "13", 
+      "lat": 51.20215588652093, 
+      "lon": 4.45350418811341, 
       "pcode": 2100, 
-      "street": "Smetsstraat", 
-      "lon": 4.45350418811341
+      "street": "Smetsstraat"
     }, 
     {
-      "lat": 51.20246628225078, 
       "housenumber": "3", 
+      "lat": 51.20246628225078, 
+      "lon": 4.453470561436501, 
       "pcode": 2100, 
-      "street": "Smetsstraat", 
-      "lon": 4.453470561436501
+      "street": "Smetsstraat"
     }, 
     {
-      "lat": 51.20239985237033, 
       "housenumber": "5", 
+      "lat": 51.20239985237033, 
+      "lon": 4.453477736684359, 
       "pcode": 2100, 
-      "street": "Smetsstraat", 
-      "lon": 4.453477736684359
+      "street": "Smetsstraat"
     }, 
     {
-      "lat": 51.20233610630036, 
       "housenumber": "7", 
+      "lat": 51.20233610630036, 
+      "lon": 4.453502515166075, 
       "pcode": 2100, 
-      "street": "Smetsstraat", 
-      "lon": 4.453502515166075
+      "street": "Smetsstraat"
     }, 
     {
-      "lat": 51.20228110063554, 
       "housenumber": "9", 
+      "lat": 51.20228110063554, 
+      "lon": 4.453497406760481, 
       "pcode": 2100, 
-      "street": "Smetsstraat", 
-      "lon": 4.453497406760481
+      "street": "Smetsstraat"
     }
-  ], 
-  "name": "Smetsstraat"
+  ]
 }

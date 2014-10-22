@@ -1,27 +1,25 @@
 {
-  "pcode": 2018, 
   "addresses": [
     {
-      "lat": 51.19355459881641, 
       "housenumber": "3", 
+      "lat": 51.19355459881641, 
+      "lon": 4.411076135376605, 
       "pcode": 2018, 
-      "street": "Bronstraat", 
-      "lon": 4.411076135376605
+      "street": "Bronstraat"
     }, 
     {
-      "lat": 51.19349994792002, 
       "housenumber": "5", 
+      "lat": 51.19349994792002, 
+      "lon": 4.411078659865982, 
       "pcode": 2018, 
-      "street": "Bronstraat", 
-      "lon": 4.411078659865982
+      "street": "Bronstraat"
     }, 
     {
-      "lat": 51.19344945040901, 
       "housenumber": "7", 
+      "lat": 51.19344945040901, 
+      "lon": 4.411029833729167, 
       "pcode": 2018, 
-      "street": "Bronstraat", 
-      "lon": 4.411029833729167
+      "street": "Bronstraat"
     }
-  ], 
-  "name": "Bronstraat"
+  ]
 }

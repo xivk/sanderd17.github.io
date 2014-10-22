@@ -1,27 +1,25 @@
 {
-  "pcode": 3040, 
   "addresses": [
     {
-      "lat": 50.79412348825865, 
       "housenumber": "2", 
+      "lat": 50.79412348825865, 
+      "lon": 4.584917694887726, 
       "pcode": 3040, 
-      "street": "Priesterberg", 
-      "lon": 4.584917694887726
+      "street": "Priesterberg"
     }, 
     {
-      "lat": 50.79411779055527, 
       "housenumber": "4", 
+      "lat": 50.79411779055527, 
+      "lon": 4.584790442369673, 
       "pcode": 3040, 
-      "street": "Priesterberg", 
-      "lon": 4.584790442369673
+      "street": "Priesterberg"
     }, 
     {
-      "lat": 50.79410238971373, 
       "housenumber": "6", 
+      "lat": 50.79410238971373, 
+      "lon": 4.58466002484898, 
       "pcode": 3040, 
-      "street": "Priesterberg", 
-      "lon": 4.58466002484898
+      "street": "Priesterberg"
     }
-  ], 
-  "name": "Priesterberg"
+  ]
 }

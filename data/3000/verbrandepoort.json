@@ -1,32 +1,30 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.881080222219346, 
       "housenumber": "2", 
+      "lat": 50.881080222219346, 
+      "lon": 4.691446041825701, 
       "pcode": 3000, 
-      "street": "Verbrande Poort", 
-      "lon": 4.691446041825701
+      "street": "Verbrande Poort"
     }, 
     {
-      "lat": 50.88114439654411, 
       "housenumber": "4", 
+      "lat": 50.88114439654411, 
+      "lon": 4.691482576728512, 
       "pcode": 3000, 
-      "street": "Verbrande Poort", 
-      "lon": 4.691482576728512
+      "street": "Verbrande Poort"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3000, 
-      "street": "Verbrande Poort", 
-      "housenumber": "6"
+      "street": "Verbrande Poort"
     }, 
     {
-      "lat": 50.881226232072194, 
       "housenumber": "8", 
+      "lat": 50.881226232072194, 
+      "lon": 4.691667016370011, 
       "pcode": 3000, 
-      "street": "Verbrande Poort", 
-      "lon": 4.691667016370011
+      "street": "Verbrande Poort"
     }
-  ], 
-  "name": "Verbrande Poort"
+  ]
 }

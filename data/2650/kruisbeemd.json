@@ -1,20 +1,18 @@
 {
-  "pcode": 2650, 
   "addresses": [
     {
-      "lat": 51.146732138061125, 
       "housenumber": "4", 
+      "lat": 51.146732138061125, 
+      "lon": 4.452091058240171, 
       "pcode": 2650, 
-      "street": "Kruisbeemd", 
-      "lon": 4.452091058240171
+      "street": "Kruisbeemd"
     }, 
     {
-      "lat": 51.1466073041487, 
       "housenumber": "6", 
+      "lat": 51.1466073041487, 
+      "lon": 4.452317481282709, 
       "pcode": 2650, 
-      "street": "Kruisbeemd", 
-      "lon": 4.452317481282709
+      "street": "Kruisbeemd"
     }
-  ], 
-  "name": "Kruisbeemd"
+  ]
 }

@@ -1,35 +1,33 @@
 {
-  "pcode": 2560, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2560, 
-      "street": "August Hermansplein", 
-      "housenumber": "1"
+      "street": "August Hermansplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2560, 
-      "street": "August Hermansplein", 
-      "housenumber": "2"
+      "street": "August Hermansplein"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2560, 
-      "street": "August Hermansplein", 
-      "housenumber": "3"
+      "street": "August Hermansplein"
     }, 
     {
-      "lat": 51.16050771861388, 
       "housenumber": "4", 
+      "lat": 51.16050771861388, 
+      "lon": 4.674058512584947, 
       "pcode": 2560, 
-      "street": "August Hermansplein", 
-      "lon": 4.674058512584947
+      "street": "August Hermansplein"
     }, 
     {
-      "lat": 51.16056546004412, 
       "housenumber": "5", 
+      "lat": 51.16056546004412, 
+      "lon": 4.673941243957503, 
       "pcode": 2560, 
-      "street": "August Hermansplein", 
-      "lon": 4.673941243957503
+      "street": "August Hermansplein"
     }
-  ], 
-  "name": "August Hermansplein"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2275, 
   "addresses": [
     {
-      "lat": 51.26976045988883, 
       "housenumber": "1", 
+      "lat": 51.26976045988883, 
+      "lon": 4.811886746277635, 
       "pcode": 2275, 
-      "street": "Visbeekdries", 
-      "lon": 4.811886746277635
+      "street": "Visbeekdries"
     }, 
     {
-      "lat": 51.26935032041487, 
       "housenumber": "3", 
+      "lat": 51.26935032041487, 
+      "lon": 4.810878845610732, 
       "pcode": 2275, 
-      "street": "Visbeekdries", 
-      "lon": 4.810878845610732
+      "street": "Visbeekdries"
     }
-  ], 
-  "name": "Visbeekdries"
+  ]
 }

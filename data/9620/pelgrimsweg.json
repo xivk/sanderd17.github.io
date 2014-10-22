@@ -1,20 +1,18 @@
 {
-  "pcode": 9620, 
   "addresses": [
     {
-      "lat": 50.83363856932503, 
       "housenumber": "1", 
+      "lat": 50.83363856932503, 
+      "lon": 3.789334637252942, 
       "pcode": 9620, 
-      "street": "Pelgrimsweg", 
-      "lon": 3.789334637252942
+      "street": "Pelgrimsweg"
     }, 
     {
-      "lat": 50.833891765192114, 
       "housenumber": "3", 
+      "lat": 50.833891765192114, 
+      "lon": 3.7895800910909037, 
       "pcode": 9620, 
-      "street": "Pelgrimsweg", 
-      "lon": 3.7895800910909037
+      "street": "Pelgrimsweg"
     }
-  ], 
-  "name": "Pelgrimsweg"
+  ]
 }

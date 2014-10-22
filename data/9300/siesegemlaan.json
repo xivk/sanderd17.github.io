@@ -1,20 +1,18 @@
 {
-  "pcode": 9300, 
   "addresses": [
     {
-      "lat": 50.93743051427843, 
       "housenumber": "161", 
+      "lat": 50.93743051427843, 
+      "lon": 4.015941570399934, 
       "pcode": 9300, 
-      "street": "Siesegemlaan", 
-      "lon": 4.015941570399934
+      "street": "Siesegemlaan"
     }, 
     {
-      "lat": 50.937593975866555, 
       "housenumber": "163", 
+      "lat": 50.937593975866555, 
+      "lon": 4.015983166841395, 
       "pcode": 9300, 
-      "street": "Siesegemlaan", 
-      "lon": 4.015983166841395
+      "street": "Siesegemlaan"
     }
-  ], 
-  "name": "Siesegemlaan"
+  ]
 }

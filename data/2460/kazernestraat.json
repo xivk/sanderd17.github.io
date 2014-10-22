@@ -1,42 +1,40 @@
 {
-  "pcode": 2460, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2460, 
-      "street": "Kazernestraat", 
-      "housenumber": "1"
+      "street": "Kazernestraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 2460, 
-      "street": "Kazernestraat", 
-      "housenumber": "1A"
+      "street": "Kazernestraat"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 2460, 
-      "street": "Kazernestraat", 
-      "housenumber": "1B"
+      "street": "Kazernestraat"
     }, 
     {
-      "lat": 51.246770756903516, 
       "housenumber": "2", 
+      "lat": 51.246770756903516, 
+      "lon": 4.9091324656743005, 
       "pcode": 2460, 
-      "street": "Kazernestraat", 
-      "lon": 4.9091324656743005
+      "street": "Kazernestraat"
     }, 
     {
-      "lat": 51.247083728172896, 
       "housenumber": "3", 
+      "lat": 51.247083728172896, 
+      "lon": 4.909605994573304, 
       "pcode": 2460, 
-      "street": "Kazernestraat", 
-      "lon": 4.909605994573304
+      "street": "Kazernestraat"
     }, 
     {
-      "lat": 51.246846575707316, 
       "housenumber": "5", 
+      "lat": 51.246846575707316, 
+      "lon": 4.909692175949549, 
       "pcode": 2460, 
-      "street": "Kazernestraat", 
-      "lon": 4.909692175949549
+      "street": "Kazernestraat"
     }
-  ], 
-  "name": "Kazernestraat"
+  ]
 }

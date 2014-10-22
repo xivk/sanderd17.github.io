@@ -1,20 +1,18 @@
 {
-  "pcode": 3945, 
   "addresses": [
     {
-      "lat": 51.11264853566871, 
       "housenumber": "12", 
+      "lat": 51.11264853566871, 
+      "lon": 5.165530658364234, 
       "pcode": 3945, 
-      "street": "Konijnenpad", 
-      "lon": 5.165530658364234
+      "street": "Konijnenpad"
     }, 
     {
-      "lat": 51.11280752751833, 
       "housenumber": "8", 
+      "lat": 51.11280752751833, 
+      "lon": 5.165986793001343, 
       "pcode": 3945, 
-      "street": "Konijnenpad", 
-      "lon": 5.165986793001343
+      "street": "Konijnenpad"
     }
-  ], 
-  "name": "Konijnenpad"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 1980, 
   "addresses": [
     {
-      "lat": 50.96191346445574, 
       "housenumber": "1", 
+      "lat": 50.96191346445574, 
+      "lon": 4.455209088581218, 
       "pcode": 1980, 
-      "street": "Martelarenplein", 
-      "lon": 4.455209088581218
+      "street": "Martelarenplein"
     }, 
     {
-      "lat": 50.96163344748304, 
       "housenumber": "2", 
+      "lat": 50.96163344748304, 
+      "lon": 4.4552131231029, 
       "pcode": 1980, 
-      "street": "Martelarenplein", 
-      "lon": 4.4552131231029
+      "street": "Martelarenplein"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 1980, 
-      "street": "Martelarenplein", 
-      "housenumber": "3"
+      "street": "Martelarenplein"
     }, 
     {
-      "lat": 50.96203319305353, 
       "housenumber": "5", 
+      "lat": 50.96203319305353, 
+      "lon": 4.455098141458986, 
       "pcode": 1980, 
-      "street": "Martelarenplein", 
-      "lon": 4.455098141458986
+      "street": "Martelarenplein"
     }
-  ], 
-  "name": "Martelarenplein"
+  ]
 }

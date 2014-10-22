@@ -1,18 +1,16 @@
 {
-  "pcode": 2321, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2321, 
-      "street": "Madridstraat", 
-      "housenumber": "1"
+      "street": "Madridstraat"
     }, 
     {
-      "lat": 51.46180334384877, 
       "housenumber": "3", 
+      "lat": 51.46180334384877, 
+      "lon": 4.723088795834855, 
       "pcode": 2321, 
-      "street": "Madridstraat", 
-      "lon": 4.723088795834855
+      "street": "Madridstraat"
     }
-  ], 
-  "name": "Madridstraat"
+  ]
 }

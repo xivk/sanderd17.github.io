@@ -1,25 +1,23 @@
 {
-  "pcode": 2060, 
   "addresses": [
     {
-      "lat": 51.24425019701938, 
       "housenumber": "23", 
+      "lat": 51.24425019701938, 
+      "lon": 4.417575152335482, 
       "pcode": 2060, 
-      "street": "Straatsburgdok-Noordkaai", 
-      "lon": 4.417575152335482
+      "street": "Straatsburgdok-Noordkaai"
     }, 
     {
+      "housenumber": "29", 
       "pcode": 2060, 
-      "street": "Straatsburgdok-Noordkaai", 
-      "housenumber": "29"
+      "street": "Straatsburgdok-Noordkaai"
     }, 
     {
-      "lat": 51.24390709627071, 
       "housenumber": "395", 
+      "lat": 51.24390709627071, 
+      "lon": 4.417616030401584, 
       "pcode": 2060, 
-      "street": "Straatsburgdok-Noordkaai", 
-      "lon": 4.417616030401584
+      "street": "Straatsburgdok-Noordkaai"
     }
-  ], 
-  "name": "Straatsburgdok-Noordkaai"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9120, 
   "addresses": [
     {
-      "lat": 51.22575418210035, 
       "housenumber": "1", 
+      "lat": 51.22575418210035, 
+      "lon": 4.279580854543526, 
       "pcode": 9120, 
-      "street": "Berghoekwegel", 
-      "lon": 4.279580854543526
+      "street": "Berghoekwegel"
     }, 
     {
-      "lat": 51.22578478386332, 
       "housenumber": "3", 
+      "lat": 51.22578478386332, 
+      "lon": 4.279636051558284, 
       "pcode": 9120, 
-      "street": "Berghoekwegel", 
-      "lon": 4.279636051558284
+      "street": "Berghoekwegel"
     }
-  ], 
-  "name": "Berghoekwegel"
+  ]
 }

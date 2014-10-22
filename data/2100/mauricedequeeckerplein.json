@@ -1,32 +1,30 @@
 {
-  "pcode": 2100, 
   "addresses": [
     {
-      "lat": 51.218550516777704, 
       "housenumber": "1", 
+      "lat": 51.218550516777704, 
+      "lon": 4.459852942216861, 
       "pcode": 2100, 
-      "street": "Maurice Dequeeckerplein", 
-      "lon": 4.459852942216861
+      "street": "Maurice Dequeeckerplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2100, 
-      "street": "Maurice Dequeeckerplein", 
-      "housenumber": "2"
+      "street": "Maurice Dequeeckerplein"
     }, 
     {
-      "lat": 51.21930538371324, 
       "housenumber": "3", 
+      "lat": 51.21930538371324, 
+      "lon": 4.459709868937478, 
       "pcode": 2100, 
-      "street": "Maurice Dequeeckerplein", 
-      "lon": 4.459709868937478
+      "street": "Maurice Dequeeckerplein"
     }, 
     {
-      "lat": 51.21932171909077, 
       "housenumber": "4", 
+      "lat": 51.21932171909077, 
+      "lon": 4.459856034795591, 
       "pcode": 2100, 
-      "street": "Maurice Dequeeckerplein", 
-      "lon": 4.459856034795591
+      "street": "Maurice Dequeeckerplein"
     }
-  ], 
-  "name": "Maurice Dequeeckerplein"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2440, 
   "addresses": [
     {
-      "lat": 51.134155064430516, 
       "housenumber": "1", 
+      "lat": 51.134155064430516, 
+      "lon": 4.944842123156906, 
       "pcode": 2440, 
-      "street": "Leukaard", 
-      "lon": 4.944842123156906
+      "street": "Leukaard"
     }, 
     {
-      "lat": 51.13264161517474, 
       "housenumber": "2", 
+      "lat": 51.13264161517474, 
+      "lon": 4.945426049389799, 
       "pcode": 2440, 
-      "street": "Leukaard", 
-      "lon": 4.945426049389799
+      "street": "Leukaard"
     }
-  ], 
-  "name": "Leukaard"
+  ]
 }

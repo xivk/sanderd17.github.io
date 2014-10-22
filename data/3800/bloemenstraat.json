@@ -1,27 +1,25 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
-      "lat": 50.757569803015855, 
       "housenumber": "1", 
+      "lat": 50.757569803015855, 
+      "lon": 5.259384248773239, 
       "pcode": 3800, 
-      "street": "Bloemenstraat", 
-      "lon": 5.259384248773239
+      "street": "Bloemenstraat"
     }, 
     {
-      "lat": 50.75757102026311, 
       "housenumber": "3", 
+      "lat": 50.75757102026311, 
+      "lon": 5.258976358962381, 
       "pcode": 3800, 
-      "street": "Bloemenstraat", 
-      "lon": 5.258976358962381
+      "street": "Bloemenstraat"
     }, 
     {
-      "lat": 50.75786879095156, 
       "housenumber": "5", 
+      "lat": 50.75786879095156, 
+      "lon": 5.258632471596406, 
       "pcode": 3800, 
-      "street": "Bloemenstraat", 
-      "lon": 5.258632471596406
+      "street": "Bloemenstraat"
     }
-  ], 
-  "name": "Bloemenstraat"
+  ]
 }

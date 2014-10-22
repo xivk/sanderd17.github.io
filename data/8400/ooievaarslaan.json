@@ -1,27 +1,25 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.21754342084235, 
       "housenumber": "1", 
+      "lat": 51.21754342084235, 
+      "lon": 2.9154949355868345, 
       "pcode": 8400, 
-      "street": "Ooievaarslaan", 
-      "lon": 2.9154949355868345
+      "street": "Ooievaarslaan"
     }, 
     {
-      "lat": 51.21712540842951, 
       "housenumber": "3", 
+      "lat": 51.21712540842951, 
+      "lon": 2.9148315808203478, 
       "pcode": 8400, 
-      "street": "Ooievaarslaan", 
-      "lon": 2.9148315808203478
+      "street": "Ooievaarslaan"
     }, 
     {
-      "lat": 51.21676871180863, 
       "housenumber": "5", 
+      "lat": 51.21676871180863, 
+      "lon": 2.9144539093744357, 
       "pcode": 8400, 
-      "street": "Ooievaarslaan", 
-      "lon": 2.9144539093744357
+      "street": "Ooievaarslaan"
     }
-  ], 
-  "name": "Ooievaarslaan"
+  ]
 }

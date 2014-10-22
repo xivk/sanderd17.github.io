@@ -1,20 +1,18 @@
 {
-  "pcode": 2240, 
   "addresses": [
     {
-      "lat": 51.20171619304312, 
       "housenumber": "13", 
+      "lat": 51.20171619304312, 
+      "lon": 4.713563657925437, 
       "pcode": 2240, 
-      "street": "Wipstraat", 
-      "lon": 4.713563657925437
+      "street": "Wipstraat"
     }, 
     {
-      "lat": 51.20177452920636, 
       "housenumber": "15", 
+      "lat": 51.20177452920636, 
+      "lon": 4.7135019951713355, 
       "pcode": 2240, 
-      "street": "Wipstraat", 
-      "lon": 4.7135019951713355
+      "street": "Wipstraat"
     }
-  ], 
-  "name": "Wipstraat"
+  ]
 }

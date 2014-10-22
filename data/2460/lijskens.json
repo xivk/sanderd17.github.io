@@ -1,20 +1,18 @@
 {
-  "pcode": 2460, 
   "addresses": [
     {
-      "lat": 51.2785777308368, 
       "housenumber": "3", 
+      "lat": 51.2785777308368, 
+      "lon": 4.975630134873194, 
       "pcode": 2460, 
-      "street": "Lijskens", 
-      "lon": 4.975630134873194
+      "street": "Lijskens"
     }, 
     {
-      "lat": 51.278125346835346, 
       "housenumber": "5", 
+      "lat": 51.278125346835346, 
+      "lon": 4.979870038504449, 
       "pcode": 2460, 
-      "street": "Lijskens", 
-      "lon": 4.979870038504449
+      "street": "Lijskens"
     }
-  ], 
-  "name": "Lijskens"
+  ]
 }

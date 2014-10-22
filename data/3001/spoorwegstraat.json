@@ -1,20 +1,18 @@
 {
-  "pcode": 3001, 
   "addresses": [
     {
-      "lat": 50.86319300677383, 
       "housenumber": "3", 
+      "lat": 50.86319300677383, 
+      "lon": 4.699921045199783, 
       "pcode": 3001, 
-      "street": "Spoorwegstraat", 
-      "lon": 4.699921045199783
+      "street": "Spoorwegstraat"
     }, 
     {
-      "lat": 50.86328634053386, 
       "housenumber": "5", 
+      "lat": 50.86328634053386, 
+      "lon": 4.700135623929817, 
       "pcode": 3001, 
-      "street": "Spoorwegstraat", 
-      "lon": 4.700135623929817
+      "street": "Spoorwegstraat"
     }
-  ], 
-  "name": "Spoorwegstraat"
+  ]
 }

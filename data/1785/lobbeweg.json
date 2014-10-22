@@ -1,20 +1,18 @@
 {
-  "pcode": 1785, 
   "addresses": [
     {
-      "lat": 50.92283207669458, 
       "housenumber": "1", 
+      "lat": 50.92283207669458, 
+      "lon": 4.27981690691053, 
       "pcode": 1785, 
-      "street": "Lobbeweg", 
-      "lon": 4.27981690691053
+      "street": "Lobbeweg"
     }, 
     {
-      "lat": 50.9228502299761, 
       "housenumber": "2", 
+      "lat": 50.9228502299761, 
+      "lon": 4.279929798510961, 
       "pcode": 1785, 
-      "street": "Lobbeweg", 
-      "lon": 4.279929798510961
+      "street": "Lobbeweg"
     }
-  ], 
-  "name": "Lobbeweg"
+  ]
 }

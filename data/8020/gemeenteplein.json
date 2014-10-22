@@ -1,18 +1,16 @@
 {
-  "pcode": 8020, 
   "addresses": [
     {
-      "lat": 51.15469902098533, 
       "housenumber": "1", 
+      "lat": 51.15469902098533, 
+      "lon": 3.23498015381719, 
       "pcode": 8020, 
-      "street": "Gemeenteplein", 
-      "lon": 3.23498015381719
+      "street": "Gemeenteplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8020, 
-      "street": "Gemeenteplein", 
-      "housenumber": "2"
+      "street": "Gemeenteplein"
     }
-  ], 
-  "name": "Gemeenteplein"
+  ]
 }

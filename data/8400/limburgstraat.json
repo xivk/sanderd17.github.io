@@ -1,46 +1,44 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.22098316843397, 
       "housenumber": "1", 
+      "lat": 51.22098316843397, 
+      "lon": 2.88984412967691, 
       "pcode": 8400, 
-      "street": "Limburgstraat", 
-      "lon": 2.88984412967691
+      "street": "Limburgstraat"
     }, 
     {
-      "lat": 51.221210494167444, 
       "housenumber": "2", 
+      "lat": 51.221210494167444, 
+      "lon": 2.890172064514206, 
       "pcode": 8400, 
-      "street": "Limburgstraat", 
-      "lon": 2.890172064514206
+      "street": "Limburgstraat"
     }, 
     {
+      "housenumber": "2B", 
       "pcode": 8400, 
-      "street": "Limburgstraat", 
-      "housenumber": "2B"
+      "street": "Limburgstraat"
     }, 
     {
-      "lat": 51.22089846779665, 
       "housenumber": "3", 
+      "lat": 51.22089846779665, 
+      "lon": 2.8899437353473747, 
       "pcode": 8400, 
-      "street": "Limburgstraat", 
-      "lon": 2.8899437353473747
+      "street": "Limburgstraat"
     }, 
     {
-      "lat": 51.22102093152801, 
       "housenumber": "4", 
+      "lat": 51.22102093152801, 
+      "lon": 2.890434189540099, 
       "pcode": 8400, 
-      "street": "Limburgstraat", 
-      "lon": 2.890434189540099
+      "street": "Limburgstraat"
     }, 
     {
-      "lat": 51.22082434881289, 
       "housenumber": "5", 
+      "lat": 51.22082434881289, 
+      "lon": 2.8901203121048202, 
       "pcode": 8400, 
-      "street": "Limburgstraat", 
-      "lon": 2.8901203121048202
+      "street": "Limburgstraat"
     }
-  ], 
-  "name": "Limburgstraat"
+  ]
 }

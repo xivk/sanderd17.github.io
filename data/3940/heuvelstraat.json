@@ -1,32 +1,30 @@
 {
-  "pcode": 3940, 
   "addresses": [
     {
-      "lat": 51.1513454248165, 
       "housenumber": "1A", 
+      "lat": 51.1513454248165, 
+      "lon": 5.383063646475294, 
       "pcode": 3940, 
-      "street": "Heuvelstraat", 
-      "lon": 5.383063646475294
+      "street": "Heuvelstraat"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 3940, 
-      "street": "Heuvelstraat", 
-      "housenumber": "1B"
+      "street": "Heuvelstraat"
     }, 
     {
-      "lat": 51.153851754535516, 
       "housenumber": "2A", 
+      "lat": 51.153851754535516, 
+      "lon": 5.380375384058024, 
       "pcode": 3940, 
-      "street": "Heuvelstraat", 
-      "lon": 5.380375384058024
+      "street": "Heuvelstraat"
     }, 
     {
-      "lat": 51.153756104924554, 
       "housenumber": "2B", 
+      "lat": 51.153756104924554, 
+      "lon": 5.380050551286917, 
       "pcode": 3940, 
-      "street": "Heuvelstraat", 
-      "lon": 5.380050551286917
+      "street": "Heuvelstraat"
     }
-  ], 
-  "name": "Heuvelstraat"
+  ]
 }

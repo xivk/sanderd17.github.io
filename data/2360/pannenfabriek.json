@@ -1,37 +1,35 @@
 {
-  "pcode": 2360, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2360, 
-      "street": "Pannenfabriek", 
-      "housenumber": "1"
+      "street": "Pannenfabriek"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2360, 
-      "street": "Pannenfabriek", 
-      "housenumber": "3"
+      "street": "Pannenfabriek"
     }, 
     {
-      "lat": 51.36061876979177, 
       "housenumber": "5", 
+      "lat": 51.36061876979177, 
+      "lon": 4.96718158585873, 
       "pcode": 2360, 
-      "street": "Pannenfabriek", 
-      "lon": 4.96718158585873
+      "street": "Pannenfabriek"
     }, 
     {
-      "lat": 51.3609408386308, 
       "housenumber": "7", 
+      "lat": 51.3609408386308, 
+      "lon": 4.968332419780996, 
       "pcode": 2360, 
-      "street": "Pannenfabriek", 
-      "lon": 4.968332419780996
+      "street": "Pannenfabriek"
     }, 
     {
-      "lat": 51.360072958555065, 
       "housenumber": "9", 
+      "lat": 51.360072958555065, 
+      "lon": 4.967547248443889, 
       "pcode": 2360, 
-      "street": "Pannenfabriek", 
-      "lon": 4.967547248443889
+      "street": "Pannenfabriek"
     }
-  ], 
-  "name": "Pannenfabriek"
+  ]
 }

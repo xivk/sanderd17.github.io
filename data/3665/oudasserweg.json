@@ -1,30 +1,28 @@
 {
-  "pcode": 3665, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3665, 
-      "street": "Oud Asserweg", 
-      "housenumber": "1"
+      "street": "Oud Asserweg"
     }, 
     {
-      "lat": 51.019214895245405, 
       "housenumber": "11", 
+      "lat": 51.019214895245405, 
+      "lon": 5.5782762961125805, 
       "pcode": 3665, 
-      "street": "Oud Asserweg", 
-      "lon": 5.5782762961125805
+      "street": "Oud Asserweg"
     }, 
     {
-      "lat": 51.0179307039916, 
       "housenumber": "13", 
+      "lat": 51.0179307039916, 
+      "lon": 5.578042710261559, 
       "pcode": 3665, 
-      "street": "Oud Asserweg", 
-      "lon": 5.578042710261559
+      "street": "Oud Asserweg"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3665, 
-      "street": "Oud Asserweg", 
-      "housenumber": "2"
+      "street": "Oud Asserweg"
     }
-  ], 
-  "name": "Oud Asserweg"
+  ]
 }

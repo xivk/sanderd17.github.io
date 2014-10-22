@@ -1,37 +1,35 @@
 {
-  "pcode": 3631, 
   "addresses": [
     {
-      "lat": 50.94171363035449, 
       "housenumber": "1", 
+      "lat": 50.94171363035449, 
+      "lon": 5.7209928607602025, 
       "pcode": 3631, 
-      "street": "Kosterstraat", 
-      "lon": 5.7209928607602025
+      "street": "Kosterstraat"
     }, 
     {
-      "lat": 50.94208700867463, 
       "housenumber": "2", 
+      "lat": 50.94208700867463, 
+      "lon": 5.721235588444712, 
       "pcode": 3631, 
-      "street": "Kosterstraat", 
-      "lon": 5.721235588444712
+      "street": "Kosterstraat"
     }, 
     {
-      "lat": 50.94221812382736, 
       "housenumber": "4", 
+      "lat": 50.94221812382736, 
+      "lon": 5.720998731355249, 
       "pcode": 3631, 
-      "street": "Kosterstraat", 
-      "lon": 5.720998731355249
+      "street": "Kosterstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3631, 
-      "street": "Kosterstraat", 
-      "housenumber": "8"
+      "street": "Kosterstraat"
     }, 
     {
+      "housenumber": "8A", 
       "pcode": 3631, 
-      "street": "Kosterstraat", 
-      "housenumber": "8A"
+      "street": "Kosterstraat"
     }
-  ], 
-  "name": "Kosterstraat"
+  ]
 }

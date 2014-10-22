@@ -1,44 +1,42 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.96713195062525, 
       "housenumber": "11", 
+      "lat": 50.96713195062525, 
+      "lon": 5.510373784261093, 
       "pcode": 3600, 
-      "street": "Welzijnscampus", 
-      "lon": 5.510373784261093
+      "street": "Welzijnscampus"
     }, 
     {
+      "housenumber": "15", 
       "pcode": 3600, 
-      "street": "Welzijnscampus", 
-      "housenumber": "15"
+      "street": "Welzijnscampus"
     }, 
     {
-      "lat": 50.96826839673991, 
       "housenumber": "19", 
+      "lat": 50.96826839673991, 
+      "lon": 5.511919370808476, 
       "pcode": 3600, 
-      "street": "Welzijnscampus", 
-      "lon": 5.511919370808476
+      "street": "Welzijnscampus"
     }, 
     {
+      "housenumber": "21", 
       "pcode": 3600, 
-      "street": "Welzijnscampus", 
-      "housenumber": "21"
+      "street": "Welzijnscampus"
     }, 
     {
-      "lat": 50.96872533635958, 
       "housenumber": "25", 
+      "lat": 50.96872533635958, 
+      "lon": 5.5102860335854675, 
       "pcode": 3600, 
-      "street": "Welzijnscampus", 
-      "lon": 5.5102860335854675
+      "street": "Welzijnscampus"
     }, 
     {
-      "lat": 50.969170973476025, 
       "housenumber": "7", 
+      "lat": 50.969170973476025, 
+      "lon": 5.510758918038962, 
       "pcode": 3600, 
-      "street": "Welzijnscampus", 
-      "lon": 5.510758918038962
+      "street": "Welzijnscampus"
     }
-  ], 
-  "name": "Welzijnscampus"
+  ]
 }

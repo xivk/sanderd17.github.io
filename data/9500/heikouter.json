@@ -1,20 +1,18 @@
 {
-  "pcode": 9500, 
   "addresses": [
     {
-      "lat": 50.824757875181426, 
       "housenumber": "4", 
+      "lat": 50.824757875181426, 
+      "lon": 3.8709926976018996, 
       "pcode": 9500, 
-      "street": "Heikouter", 
-      "lon": 3.8709926976018996
+      "street": "Heikouter"
     }, 
     {
-      "lat": 50.82371293985018, 
       "housenumber": "6", 
+      "lat": 50.82371293985018, 
+      "lon": 3.869899832253628, 
       "pcode": 9500, 
-      "street": "Heikouter", 
-      "lon": 3.869899832253628
+      "street": "Heikouter"
     }
-  ], 
-  "name": "Heikouter"
+  ]
 }

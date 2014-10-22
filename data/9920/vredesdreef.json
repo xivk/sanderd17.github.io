@@ -1,20 +1,18 @@
 {
-  "pcode": 9920, 
   "addresses": [
     {
-      "lat": 51.08648226981952, 
       "housenumber": "10", 
+      "lat": 51.08648226981952, 
+      "lon": 3.6421158552267325, 
       "pcode": 9920, 
-      "street": "Vredesdreef", 
-      "lon": 3.6421158552267325
+      "street": "Vredesdreef"
     }, 
     {
-      "lat": 51.08643457126239, 
       "housenumber": "12", 
+      "lat": 51.08643457126239, 
+      "lon": 3.642121448441508, 
       "pcode": 9920, 
-      "street": "Vredesdreef", 
-      "lon": 3.642121448441508
+      "street": "Vredesdreef"
     }
-  ], 
-  "name": "Vredesdreef"
+  ]
 }

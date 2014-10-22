@@ -1,25 +1,23 @@
 {
-  "pcode": 2260, 
   "addresses": [
     {
-      "lat": 51.132394890384475, 
       "housenumber": "12", 
+      "lat": 51.132394890384475, 
+      "lon": 4.861063869948831, 
       "pcode": 2260, 
-      "street": "Zone Kamp C", 
-      "lon": 4.861063869948831
+      "street": "Zone Kamp C"
     }, 
     {
-      "lat": 51.13247367727299, 
       "housenumber": "2", 
+      "lat": 51.13247367727299, 
+      "lon": 4.861676878001968, 
       "pcode": 2260, 
-      "street": "Zone Kamp C", 
-      "lon": 4.861676878001968
+      "street": "Zone Kamp C"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2260, 
-      "street": "Zone Kamp C", 
-      "housenumber": "4"
+      "street": "Zone Kamp C"
     }
-  ], 
-  "name": "Zone Kamp C"
+  ]
 }

@@ -1,46 +1,44 @@
 {
-  "pcode": 3950, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3950, 
-      "street": "Greefstraat", 
-      "housenumber": "1"
+      "street": "Greefstraat"
     }, 
     {
-      "lat": 51.180586494653255, 
       "housenumber": "10", 
+      "lat": 51.180586494653255, 
+      "lon": 5.605626833833888, 
       "pcode": 3950, 
-      "street": "Greefstraat", 
-      "lon": 5.605626833833888
+      "street": "Greefstraat"
     }, 
     {
-      "lat": 51.181380612972205, 
       "housenumber": "2", 
+      "lat": 51.181380612972205, 
+      "lon": 5.610768279895912, 
       "pcode": 3950, 
-      "street": "Greefstraat", 
-      "lon": 5.610768279895912
+      "street": "Greefstraat"
     }, 
     {
-      "lat": 51.18158846056773, 
       "housenumber": "4", 
+      "lat": 51.18158846056773, 
+      "lon": 5.61055426062229, 
       "pcode": 3950, 
-      "street": "Greefstraat", 
-      "lon": 5.61055426062229
+      "street": "Greefstraat"
     }, 
     {
-      "lat": 51.18083946489622, 
       "housenumber": "6", 
+      "lat": 51.18083946489622, 
+      "lon": 5.60640761995913, 
       "pcode": 3950, 
-      "street": "Greefstraat", 
-      "lon": 5.60640761995913
+      "street": "Greefstraat"
     }, 
     {
-      "lat": 51.180703713059394, 
       "housenumber": "8", 
+      "lat": 51.180703713059394, 
+      "lon": 5.606013690311159, 
       "pcode": 3950, 
-      "street": "Greefstraat", 
-      "lon": 5.606013690311159
+      "street": "Greefstraat"
     }
-  ], 
-  "name": "Greefstraat"
+  ]
 }

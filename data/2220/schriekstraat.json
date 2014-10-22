@@ -1,20 +1,18 @@
 {
-  "pcode": 2220, 
   "addresses": [
     {
-      "lat": 51.03265686677291, 
       "housenumber": "5A", 
+      "lat": 51.03265686677291, 
+      "lon": 4.699333502365962, 
       "pcode": 2220, 
-      "street": "Schriekstraat", 
-      "lon": 4.699333502365962
+      "street": "Schriekstraat"
     }, 
     {
-      "lat": 51.036508481797924, 
       "housenumber": "78A", 
+      "lat": 51.036508481797924, 
+      "lon": 4.684101877196253, 
       "pcode": 2220, 
-      "street": "Schriekstraat", 
-      "lon": 4.684101877196253
+      "street": "Schriekstraat"
     }
-  ], 
-  "name": "Schriekstraat"
+  ]
 }

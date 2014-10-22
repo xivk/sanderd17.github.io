@@ -1,43 +1,41 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2030, 
-      "street": "Treurenborg", 
-      "housenumber": "1"
+      "street": "Treurenborg"
     }, 
     {
-      "lat": 51.27104211362369, 
       "housenumber": "11", 
+      "lat": 51.27104211362369, 
+      "lon": 4.376483304618296, 
       "pcode": 2030, 
-      "street": "Treurenborg", 
-      "lon": 4.376483304618296
+      "street": "Treurenborg"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2030, 
-      "street": "Treurenborg", 
-      "housenumber": "2"
+      "street": "Treurenborg"
     }, 
     {
+      "housenumber": "380", 
       "pcode": 2030, 
-      "street": "Treurenborg", 
-      "housenumber": "380"
+      "street": "Treurenborg"
     }, 
     {
+      "housenumber": "420", 
       "pcode": 2030, 
-      "street": "Treurenborg", 
-      "housenumber": "420"
+      "street": "Treurenborg"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2030, 
-      "street": "Treurenborg", 
-      "housenumber": "5"
+      "street": "Treurenborg"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2030, 
-      "street": "Treurenborg", 
-      "housenumber": "7"
+      "street": "Treurenborg"
     }
-  ], 
-  "name": "Treurenborg"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9550, 
   "addresses": [
     {
-      "lat": 50.87273707048479, 
       "housenumber": "2", 
+      "lat": 50.87273707048479, 
+      "lon": 3.9166014635778237, 
       "pcode": 9550, 
-      "street": "Straatjen", 
-      "lon": 3.9166014635778237
+      "street": "Straatjen"
     }, 
     {
-      "lat": 50.87285352422203, 
       "housenumber": "4", 
+      "lat": 50.87285352422203, 
+      "lon": 3.916845139792938, 
       "pcode": 9550, 
-      "street": "Straatjen", 
-      "lon": 3.916845139792938
+      "street": "Straatjen"
     }
-  ], 
-  "name": "Straatjen"
+  ]
 }

@@ -1,46 +1,44 @@
 {
-  "pcode": 3001, 
   "addresses": [
     {
-      "lat": 50.87068522881997, 
       "housenumber": "1", 
+      "lat": 50.87068522881997, 
+      "lon": 4.712441507299129, 
       "pcode": 3001, 
-      "street": "Kerkhofdreef", 
-      "lon": 4.712441507299129
+      "street": "Kerkhofdreef"
     }, 
     {
-      "lat": 50.87001892827327, 
       "housenumber": "2", 
+      "lat": 50.87001892827327, 
+      "lon": 4.713174226833783, 
       "pcode": 3001, 
-      "street": "Kerkhofdreef", 
-      "lon": 4.713174226833783
+      "street": "Kerkhofdreef"
     }, 
     {
-      "lat": 50.870650750822676, 
       "housenumber": "3", 
+      "lat": 50.870650750822676, 
+      "lon": 4.712764031391579, 
       "pcode": 3001, 
-      "street": "Kerkhofdreef", 
-      "lon": 4.712764031391579
+      "street": "Kerkhofdreef"
     }, 
     {
-      "lat": 50.87012197444167, 
       "housenumber": "4", 
+      "lat": 50.87012197444167, 
+      "lon": 4.713257097688842, 
       "pcode": 3001, 
-      "street": "Kerkhofdreef", 
-      "lon": 4.713257097688842
+      "street": "Kerkhofdreef"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3001, 
-      "street": "Kerkhofdreef", 
-      "housenumber": "5"
+      "street": "Kerkhofdreef"
     }, 
     {
-      "lat": 50.87032349542282, 
       "housenumber": "7", 
+      "lat": 50.87032349542282, 
+      "lon": 4.7141810146145735, 
       "pcode": 3001, 
-      "street": "Kerkhofdreef", 
-      "lon": 4.7141810146145735
+      "street": "Kerkhofdreef"
     }
-  ], 
-  "name": "Kerkhofdreef"
+  ]
 }

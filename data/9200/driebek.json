@@ -1,39 +1,37 @@
 {
-  "pcode": 9200, 
   "addresses": [
     {
-      "lat": 51.02303936544423, 
       "housenumber": "1", 
+      "lat": 51.02303936544423, 
+      "lon": 4.142607726523763, 
       "pcode": 9200, 
-      "street": "Driebek", 
-      "lon": 4.142607726523763
+      "street": "Driebek"
     }, 
     {
-      "lat": 51.02412346687526, 
       "housenumber": "2", 
+      "lat": 51.02412346687526, 
+      "lon": 4.142664936138936, 
       "pcode": 9200, 
-      "street": "Driebek", 
-      "lon": 4.142664936138936
+      "street": "Driebek"
     }, 
     {
-      "lat": 51.02177664888019, 
       "housenumber": "3", 
+      "lat": 51.02177664888019, 
+      "lon": 4.141566247965117, 
       "pcode": 9200, 
-      "street": "Driebek", 
-      "lon": 4.141566247965117
+      "street": "Driebek"
     }, 
     {
-      "lat": 51.02189722291339, 
       "housenumber": "80", 
+      "lat": 51.02189722291339, 
+      "lon": 4.140277521913591, 
       "pcode": 9200, 
-      "street": "Driebek", 
-      "lon": 4.140277521913591
+      "street": "Driebek"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 9200, 
-      "street": "Driebek", 
-      "housenumber": "9"
+      "street": "Driebek"
     }
-  ], 
-  "name": "Driebek"
+  ]
 }

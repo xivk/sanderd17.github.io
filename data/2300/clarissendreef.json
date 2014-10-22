@@ -1,20 +1,18 @@
 {
-  "pcode": 2300, 
   "addresses": [
     {
-      "lat": 51.33568923930943, 
       "housenumber": "1", 
+      "lat": 51.33568923930943, 
+      "lon": 4.939814647382603, 
       "pcode": 2300, 
-      "street": "Clarissendreef", 
-      "lon": 4.939814647382603
+      "street": "Clarissendreef"
     }, 
     {
-      "lat": 51.33565368867119, 
       "housenumber": "7", 
+      "lat": 51.33565368867119, 
+      "lon": 4.939843051879279, 
       "pcode": 2300, 
-      "street": "Clarissendreef", 
-      "lon": 4.939843051879279
+      "street": "Clarissendreef"
     }
-  ], 
-  "name": "Clarissendreef"
+  ]
 }

@@ -1,74 +1,72 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 9000, 
-      "street": "Wijzemanstraat", 
-      "housenumber": "10"
+      "street": "Wijzemanstraat"
     }, 
     {
-      "lat": 51.05688776298461, 
       "housenumber": "11", 
+      "lat": 51.05688776298461, 
+      "lon": 3.727114463427707, 
       "pcode": 9000, 
-      "street": "Wijzemanstraat", 
-      "lon": 3.727114463427707
+      "street": "Wijzemanstraat"
     }, 
     {
-      "lat": 51.056884281207175, 
       "housenumber": "2", 
+      "lat": 51.056884281207175, 
+      "lon": 3.7267389493930874, 
       "pcode": 9000, 
-      "street": "Wijzemanstraat", 
-      "lon": 3.7267389493930874
+      "street": "Wijzemanstraat"
     }, 
     {
-      "lat": 51.05700039274466, 
       "housenumber": "3", 
+      "lat": 51.05700039274466, 
+      "lon": 3.7269647210883705, 
       "pcode": 9000, 
-      "street": "Wijzemanstraat", 
-      "lon": 3.7269647210883705
+      "street": "Wijzemanstraat"
     }, 
     {
-      "lat": 51.056864020898026, 
       "housenumber": "4", 
+      "lat": 51.056864020898026, 
+      "lon": 3.7267821606141425, 
       "pcode": 9000, 
-      "street": "Wijzemanstraat", 
-      "lon": 3.7267821606141425
+      "street": "Wijzemanstraat"
     }, 
     {
-      "lat": 51.05699668934705, 
       "housenumber": "5", 
+      "lat": 51.05699668934705, 
+      "lon": 3.7270275320069866, 
       "pcode": 9000, 
-      "street": "Wijzemanstraat", 
-      "lon": 3.7270275320069866
+      "street": "Wijzemanstraat"
     }, 
     {
-      "lat": 51.05684751948001, 
       "housenumber": "6", 
+      "lat": 51.05684751948001, 
+      "lon": 3.7268223249251924, 
       "pcode": 9000, 
-      "street": "Wijzemanstraat", 
-      "lon": 3.7268223249251924
+      "street": "Wijzemanstraat"
     }, 
     {
-      "lat": 51.0569971107047, 
       "housenumber": "7", 
+      "lat": 51.0569971107047, 
+      "lon": 3.727104978002799, 
       "pcode": 9000, 
-      "street": "Wijzemanstraat", 
-      "lon": 3.727104978002799
+      "street": "Wijzemanstraat"
     }, 
     {
-      "lat": 51.056814284673095, 
       "housenumber": "8", 
+      "lat": 51.056814284673095, 
+      "lon": 3.726876554212033, 
       "pcode": 9000, 
-      "street": "Wijzemanstraat", 
-      "lon": 3.726876554212033
+      "street": "Wijzemanstraat"
     }, 
     {
-      "lat": 51.05696089324053, 
       "housenumber": "9", 
+      "lat": 51.05696089324053, 
+      "lon": 3.7271562527419815, 
       "pcode": 9000, 
-      "street": "Wijzemanstraat", 
-      "lon": 3.7271562527419815
+      "street": "Wijzemanstraat"
     }
-  ], 
-  "name": "Wijzemanstraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 8470, 
   "addresses": [
     {
-      "lat": 51.16243249213807, 
       "housenumber": "1", 
+      "lat": 51.16243249213807, 
+      "lon": 2.9664769760532455, 
       "pcode": 8470, 
-      "street": "Pol Gernaeystraat", 
-      "lon": 2.9664769760532455
+      "street": "Pol Gernaeystraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8470, 
-      "street": "Pol Gernaeystraat", 
-      "housenumber": "2"
+      "street": "Pol Gernaeystraat"
     }
-  ], 
-  "name": "Pol Gernaeystraat"
+  ]
 }

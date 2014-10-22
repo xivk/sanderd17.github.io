@@ -1,27 +1,25 @@
 {
-  "pcode": 2440, 
   "addresses": [
     {
-      "lat": 51.17832568545793, 
       "housenumber": "12", 
+      "lat": 51.17832568545793, 
+      "lon": 5.009517225026305, 
       "pcode": 2440, 
-      "street": "Koeksberg", 
-      "lon": 5.009517225026305
+      "street": "Koeksberg"
     }, 
     {
-      "lat": 51.179009943413526, 
       "housenumber": "20", 
+      "lat": 51.179009943413526, 
+      "lon": 5.009413223257744, 
       "pcode": 2440, 
-      "street": "Koeksberg", 
-      "lon": 5.009413223257744
+      "street": "Koeksberg"
     }, 
     {
-      "lat": 51.17766455973906, 
       "housenumber": "6", 
+      "lat": 51.17766455973906, 
+      "lon": 5.009466523740077, 
       "pcode": 2440, 
-      "street": "Koeksberg", 
-      "lon": 5.009466523740077
+      "street": "Koeksberg"
     }
-  ], 
-  "name": "Koeksberg"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 3370, 
   "addresses": [
     {
-      "lat": 50.82081115418544, 
       "housenumber": "1", 
+      "lat": 50.82081115418544, 
+      "lon": 4.811544674307648, 
       "pcode": 3370, 
-      "street": "Schuttersveld", 
-      "lon": 4.811544674307648
+      "street": "Schuttersveld"
     }, 
     {
-      "lat": 49.293335165093566, 
       "housenumber": "2", 
+      "lat": 49.293335165093566, 
+      "lon": 2.306689562140502, 
       "pcode": 3370, 
-      "street": "Schuttersveld", 
-      "lon": 2.306689562140502
+      "street": "Schuttersveld"
     }, 
     {
-      "lat": 50.8210536831606, 
       "housenumber": "3", 
+      "lat": 50.8210536831606, 
+      "lon": 4.811120496183673, 
       "pcode": 3370, 
-      "street": "Schuttersveld", 
-      "lon": 4.811120496183673
+      "street": "Schuttersveld"
     }
-  ], 
-  "name": "Schuttersveld"
+  ]
 }

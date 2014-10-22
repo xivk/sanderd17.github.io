@@ -1,20 +1,18 @@
 {
-  "pcode": 1500, 
   "addresses": [
     {
-      "lat": 50.73373180348379, 
       "housenumber": "1", 
+      "lat": 50.73373180348379, 
+      "lon": 4.236286773017336, 
       "pcode": 1500, 
-      "street": "Kloostergang", 
-      "lon": 4.236286773017336
+      "street": "Kloostergang"
     }, 
     {
-      "lat": 50.73382134110665, 
       "housenumber": "5", 
+      "lat": 50.73382134110665, 
+      "lon": 4.236605809465775, 
       "pcode": 1500, 
-      "street": "Kloostergang", 
-      "lon": 4.236605809465775
+      "street": "Kloostergang"
     }
-  ], 
-  "name": "Kloostergang"
+  ]
 }

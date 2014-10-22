@@ -1,20 +1,18 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.75653464427082, 
       "housenumber": "12", 
+      "lat": 50.75653464427082, 
+      "lon": 3.5869042293871503, 
       "pcode": 9600, 
-      "street": "Arthur Van Schamelhoutstraat", 
-      "lon": 3.5869042293871503
+      "street": "Arthur Van Schamelhoutstraat"
     }, 
     {
-      "lat": 50.756476128784676, 
       "housenumber": "14", 
+      "lat": 50.756476128784676, 
+      "lon": 3.5866499456275003, 
       "pcode": 9600, 
-      "street": "Arthur Van Schamelhoutstraat", 
-      "lon": 3.5866499456275003
+      "street": "Arthur Van Schamelhoutstraat"
     }
-  ], 
-  "name": "Arthur Van Schamelhoutstraat"
+  ]
 }

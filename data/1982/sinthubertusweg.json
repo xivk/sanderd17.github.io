@@ -1,20 +1,18 @@
 {
-  "pcode": 1982, 
   "addresses": [
     {
-      "lat": 50.95939130460219, 
       "housenumber": "13", 
+      "lat": 50.95939130460219, 
+      "lon": 4.496703654682389, 
       "pcode": 1982, 
-      "street": "Sint-Hubertusweg", 
-      "lon": 4.496703654682389
+      "street": "Sint-Hubertusweg"
     }, 
     {
-      "lat": 50.959392520411214, 
       "housenumber": "13A", 
+      "lat": 50.959392520411214, 
+      "lon": 4.496742657748689, 
       "pcode": 1982, 
-      "street": "Sint-Hubertusweg", 
-      "lon": 4.496742657748689
+      "street": "Sint-Hubertusweg"
     }
-  ], 
-  "name": "Sint-Hubertusweg"
+  ]
 }

@@ -1,42 +1,40 @@
 {
-  "pcode": 3550, 
   "addresses": [
     {
-      "lat": 51.03918874378626, 
       "housenumber": "11", 
+      "lat": 51.03918874378626, 
+      "lon": 5.327236501181444, 
       "pcode": 3550, 
-      "street": "Marktplein", 
-      "lon": 5.327236501181444
+      "street": "Marktplein"
     }, 
     {
+      "housenumber": "13", 
       "pcode": 3550, 
-      "street": "Marktplein", 
-      "housenumber": "13"
+      "street": "Marktplein"
     }, 
     {
-      "lat": 51.03849683933768, 
       "housenumber": "15", 
+      "lat": 51.03849683933768, 
+      "lon": 5.328566776454234, 
       "pcode": 3550, 
-      "street": "Marktplein", 
-      "lon": 5.328566776454234
+      "street": "Marktplein"
     }, 
     {
+      "housenumber": "17", 
       "pcode": 3550, 
-      "street": "Marktplein", 
-      "housenumber": "17"
+      "street": "Marktplein"
     }, 
     {
-      "lat": 51.039871123642385, 
       "housenumber": "7", 
+      "lat": 51.039871123642385, 
+      "lon": 5.3269201001175785, 
       "pcode": 3550, 
-      "street": "Marktplein", 
-      "lon": 5.3269201001175785
+      "street": "Marktplein"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 3550, 
-      "street": "Marktplein", 
-      "housenumber": "9"
+      "street": "Marktplein"
     }
-  ], 
-  "name": "Marktplein"
+  ]
 }

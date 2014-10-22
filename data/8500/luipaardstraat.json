@@ -1,49 +1,47 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.825158026230696, 
       "housenumber": "10", 
+      "lat": 50.825158026230696, 
+      "lon": 3.3049194534709843, 
       "pcode": 8500, 
-      "street": "Luipaardstraat", 
-      "lon": 3.3049194534709843
+      "street": "Luipaardstraat"
     }, 
     {
-      "lat": 50.824096828620455, 
       "housenumber": "12", 
+      "lat": 50.824096828620455, 
+      "lon": 3.304794974713618, 
       "pcode": 8500, 
-      "street": "Luipaardstraat", 
-      "lon": 3.304794974713618
+      "street": "Luipaardstraat"
     }, 
     {
+      "housenumber": "14", 
       "pcode": 8500, 
-      "street": "Luipaardstraat", 
-      "housenumber": "14"
+      "street": "Luipaardstraat"
     }, 
     {
+      "housenumber": "20", 
       "pcode": 8500, 
-      "street": "Luipaardstraat", 
-      "housenumber": "20"
+      "street": "Luipaardstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8500, 
-      "street": "Luipaardstraat", 
-      "housenumber": "4"
+      "street": "Luipaardstraat"
     }, 
     {
-      "lat": 50.825430201861145, 
       "housenumber": "6", 
+      "lat": 50.825430201861145, 
+      "lon": 3.3047150049635987, 
       "pcode": 8500, 
-      "street": "Luipaardstraat", 
-      "lon": 3.3047150049635987
+      "street": "Luipaardstraat"
     }, 
     {
-      "lat": 50.82552979371672, 
       "housenumber": "8", 
+      "lat": 50.82552979371672, 
+      "lon": 3.304306225381873, 
       "pcode": 8500, 
-      "street": "Luipaardstraat", 
-      "lon": 3.304306225381873
+      "street": "Luipaardstraat"
     }
-  ], 
-  "name": "Luipaardstraat"
+  ]
 }

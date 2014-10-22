@@ -1,25 +1,23 @@
 {
-  "pcode": 9880, 
   "addresses": [
     {
-      "lat": 51.06288937197369, 
       "housenumber": "20", 
+      "lat": 51.06288937197369, 
+      "lon": 3.474057676152051, 
       "pcode": 9880, 
-      "street": "Hansbekestraat", 
-      "lon": 3.474057676152051
+      "street": "Hansbekestraat"
     }, 
     {
-      "lat": 51.06564714253137, 
       "housenumber": "21", 
+      "lat": 51.06564714253137, 
+      "lon": 3.485103695335431, 
       "pcode": 9880, 
-      "street": "Hansbekestraat", 
-      "lon": 3.485103695335431
+      "street": "Hansbekestraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9880, 
-      "street": "Hansbekestraat", 
-      "housenumber": "6"
+      "street": "Hansbekestraat"
     }
-  ], 
-  "name": "Hansbekestraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2235, 
   "addresses": [
     {
-      "lat": 51.05274190986744, 
       "housenumber": "1", 
+      "lat": 51.05274190986744, 
+      "lon": 4.808921728307334, 
       "pcode": 2235, 
-      "street": "Merelstraat", 
-      "lon": 4.808921728307334
+      "street": "Merelstraat"
     }, 
     {
-      "lat": 51.05273671461168, 
       "housenumber": "2", 
+      "lat": 51.05273671461168, 
+      "lon": 4.81107340215413, 
       "pcode": 2235, 
-      "street": "Merelstraat", 
-      "lon": 4.81107340215413
+      "street": "Merelstraat"
     }
-  ], 
-  "name": "Merelstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2320, 
   "addresses": [
     {
-      "lat": 51.40533209248891, 
       "housenumber": "1", 
+      "lat": 51.40533209248891, 
+      "lon": 4.74355751035144, 
       "pcode": 2320, 
-      "street": "Muzementen", 
-      "lon": 4.74355751035144
+      "street": "Muzementen"
     }, 
     {
-      "lat": 51.40267302385168, 
       "housenumber": "3", 
+      "lat": 51.40267302385168, 
+      "lon": 4.744076590879983, 
       "pcode": 2320, 
-      "street": "Muzementen", 
-      "lon": 4.744076590879983
+      "street": "Muzementen"
     }
-  ], 
-  "name": "Muzementen"
+  ]
 }

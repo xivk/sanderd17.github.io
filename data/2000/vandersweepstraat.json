@@ -1,77 +1,75 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 2000, 
-      "street": "Van der Sweepstraat", 
-      "housenumber": "10"
+      "street": "Van der Sweepstraat"
     }, 
     {
-      "lat": 51.20668680673236, 
       "housenumber": "12", 
+      "lat": 51.20668680673236, 
+      "lon": 4.386110310865012, 
       "pcode": 2000, 
-      "street": "Van der Sweepstraat", 
-      "lon": 4.386110310865012
+      "street": "Van der Sweepstraat"
     }, 
     {
+      "housenumber": "14", 
       "pcode": 2000, 
-      "street": "Van der Sweepstraat", 
-      "housenumber": "14"
+      "street": "Van der Sweepstraat"
     }, 
     {
+      "housenumber": "14B", 
       "pcode": 2000, 
-      "street": "Van der Sweepstraat", 
-      "housenumber": "14B"
+      "street": "Van der Sweepstraat"
     }, 
     {
-      "lat": 51.207411217237095, 
       "housenumber": "3", 
+      "lat": 51.207411217237095, 
+      "lon": 4.385290105093115, 
       "pcode": 2000, 
-      "street": "Van der Sweepstraat", 
-      "lon": 4.385290105093115
+      "street": "Van der Sweepstraat"
     }, 
     {
+      "housenumber": "37", 
       "pcode": 2000, 
-      "street": "Van der Sweepstraat", 
-      "housenumber": "37"
+      "street": "Van der Sweepstraat"
     }, 
     {
+      "housenumber": "3C", 
       "pcode": 2000, 
-      "street": "Van der Sweepstraat", 
-      "housenumber": "3C"
+      "street": "Van der Sweepstraat"
     }, 
     {
+      "housenumber": "3F", 
       "pcode": 2000, 
-      "street": "Van der Sweepstraat", 
-      "housenumber": "3F"
+      "street": "Van der Sweepstraat"
     }, 
     {
+      "housenumber": "3_12", 
       "pcode": 2000, 
-      "street": "Van der Sweepstraat", 
-      "housenumber": "3_12"
+      "street": "Van der Sweepstraat"
     }, 
     {
-      "lat": 51.20751053775337, 
       "housenumber": "5", 
+      "lat": 51.20751053775337, 
+      "lon": 4.385301589122814, 
       "pcode": 2000, 
-      "street": "Van der Sweepstraat", 
-      "lon": 4.385301589122814
+      "street": "Van der Sweepstraat"
     }, 
     {
+      "housenumber": "5B", 
       "pcode": 2000, 
-      "street": "Van der Sweepstraat", 
-      "housenumber": "5B"
+      "street": "Van der Sweepstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2000, 
-      "street": "Van der Sweepstraat", 
-      "housenumber": "7"
+      "street": "Van der Sweepstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2000, 
-      "street": "Van der Sweepstraat", 
-      "housenumber": "8"
+      "street": "Van der Sweepstraat"
     }
-  ], 
-  "name": "Van der Sweepstraat"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 2300, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2300, 
-      "street": "Veldekensweg", 
-      "housenumber": "1"
+      "street": "Veldekensweg"
     }, 
     {
-      "lat": 51.33373950777371, 
       "housenumber": "10", 
+      "lat": 51.33373950777371, 
+      "lon": 4.935776421455267, 
       "pcode": 2300, 
-      "street": "Veldekensweg", 
-      "lon": 4.935776421455267
+      "street": "Veldekensweg"
     }, 
     {
-      "lat": 51.33387314394225, 
       "housenumber": "11", 
+      "lat": 51.33387314394225, 
+      "lon": 4.936211806622393, 
       "pcode": 2300, 
-      "street": "Veldekensweg", 
-      "lon": 4.936211806622393
+      "street": "Veldekensweg"
     }, 
     {
-      "lat": 51.33551981200807, 
       "housenumber": "3", 
+      "lat": 51.33551981200807, 
+      "lon": 4.93645045653829, 
       "pcode": 2300, 
-      "street": "Veldekensweg", 
-      "lon": 4.93645045653829
+      "street": "Veldekensweg"
     }
-  ], 
-  "name": "Veldekensweg"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.251041287732804, 
       "housenumber": "1", 
+      "lat": 51.251041287732804, 
+      "lon": 3.281068546697533, 
       "pcode": 8340, 
-      "street": "Kattestraat", 
-      "lon": 3.281068546697533
+      "street": "Kattestraat"
     }, 
     {
-      "lat": 51.25073543829385, 
       "housenumber": "2", 
+      "lat": 51.25073543829385, 
+      "lon": 3.280957079219663, 
       "pcode": 8340, 
-      "street": "Kattestraat", 
-      "lon": 3.280957079219663
+      "street": "Kattestraat"
     }
-  ], 
-  "name": "Kattestraat"
+  ]
 }

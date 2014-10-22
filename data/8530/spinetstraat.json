@@ -1,37 +1,35 @@
 {
-  "pcode": 8530, 
   "addresses": [
     {
-      "lat": 50.85141110742935, 
       "housenumber": "11", 
+      "lat": 50.85141110742935, 
+      "lon": 3.3279066357084055, 
       "pcode": 8530, 
-      "street": "Spinetstraat", 
-      "lon": 3.3279066357084055
+      "street": "Spinetstraat"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 8530, 
-      "street": "Spinetstraat", 
-      "housenumber": "12"
+      "street": "Spinetstraat"
     }, 
     {
-      "lat": 50.851552058428254, 
       "housenumber": "5", 
+      "lat": 50.851552058428254, 
+      "lon": 3.32903046045274, 
       "pcode": 8530, 
-      "street": "Spinetstraat", 
-      "lon": 3.32903046045274
+      "street": "Spinetstraat"
     }, 
     {
-      "lat": 50.85139286460963, 
       "housenumber": "7", 
+      "lat": 50.85139286460963, 
+      "lon": 3.327927774572209, 
       "pcode": 8530, 
-      "street": "Spinetstraat", 
-      "lon": 3.327927774572209
+      "street": "Spinetstraat"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 8530, 
-      "street": "Spinetstraat", 
-      "housenumber": "9"
+      "street": "Spinetstraat"
     }
-  ], 
-  "name": "Spinetstraat"
+  ]
 }

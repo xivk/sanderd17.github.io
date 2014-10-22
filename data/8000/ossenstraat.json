@@ -1,13 +1,11 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.2348753277605, 
       "housenumber": "13", 
+      "lat": 51.2348753277605, 
+      "lon": 3.1729142602439153, 
       "pcode": 8000, 
-      "street": "Ossenstraat", 
-      "lon": 3.1729142602439153
+      "street": "Ossenstraat"
     }
-  ], 
-  "name": "Ossenstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2430, 
   "addresses": [
     {
-      "lat": 51.10033236819035, 
       "housenumber": "2", 
+      "lat": 51.10033236819035, 
+      "lon": 5.067148431687218, 
       "pcode": 2430, 
-      "street": "Dwarsstraat", 
-      "lon": 5.067148431687218
+      "street": "Dwarsstraat"
     }, 
     {
-      "lat": 51.1025963147771, 
       "housenumber": "6", 
+      "lat": 51.1025963147771, 
+      "lon": 5.068235981776153, 
       "pcode": 2430, 
-      "street": "Dwarsstraat", 
-      "lon": 5.068235981776153
+      "street": "Dwarsstraat"
     }
-  ], 
-  "name": "Dwarsstraat"
+  ]
 }

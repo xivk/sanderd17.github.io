@@ -1,20 +1,18 @@
 {
-  "pcode": 3582, 
   "addresses": [
     {
-      "lat": 51.07179182184087, 
       "housenumber": "1", 
+      "lat": 51.07179182184087, 
+      "lon": 5.296773200820601, 
       "pcode": 3582, 
-      "street": "Melkstraat", 
-      "lon": 5.296773200820601
+      "street": "Melkstraat"
     }, 
     {
-      "lat": 51.07204071025367, 
       "housenumber": "3", 
+      "lat": 51.07204071025367, 
+      "lon": 5.296435119188039, 
       "pcode": 3582, 
-      "street": "Melkstraat", 
-      "lon": 5.296435119188039
+      "street": "Melkstraat"
     }
-  ], 
-  "name": "Melkstraat"
+  ]
 }

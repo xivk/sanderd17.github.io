@@ -1,18 +1,16 @@
 {
-  "pcode": 1750, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 1750, 
-      "street": "Brouwerijstraat", 
-      "housenumber": "10"
+      "street": "Brouwerijstraat"
     }, 
     {
-      "lat": 50.820952515693946, 
       "housenumber": "12", 
+      "lat": 50.820952515693946, 
+      "lon": 4.207604447558028, 
       "pcode": 1750, 
-      "street": "Brouwerijstraat", 
-      "lon": 4.207604447558028
+      "street": "Brouwerijstraat"
     }
-  ], 
-  "name": "Brouwerijstraat"
+  ]
 }

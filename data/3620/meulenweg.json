@@ -1,20 +1,18 @@
 {
-  "pcode": 3620, 
   "addresses": [
     {
-      "lat": 50.83971910687157, 
       "housenumber": "26", 
+      "lat": 50.83971910687157, 
+      "lon": 5.620344818620168, 
       "pcode": 3620, 
-      "street": "Meulenweg", 
-      "lon": 5.620344818620168
+      "street": "Meulenweg"
     }, 
     {
-      "lat": 50.84144175631226, 
       "housenumber": "8", 
+      "lat": 50.84144175631226, 
+      "lon": 5.624411799651413, 
       "pcode": 3620, 
-      "street": "Meulenweg", 
-      "lon": 5.624411799651413
+      "street": "Meulenweg"
     }
-  ], 
-  "name": "Meulenweg"
+  ]
 }

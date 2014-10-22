@@ -1,27 +1,25 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
-      "lat": 51.03049406362523, 
       "housenumber": "1", 
+      "lat": 51.03049406362523, 
+      "lon": 4.473914243268872, 
       "pcode": 2800, 
-      "street": "Fonteinstraatje", 
-      "lon": 4.473914243268872
+      "street": "Fonteinstraatje"
     }, 
     {
-      "lat": 51.03059972687179, 
       "housenumber": "3", 
+      "lat": 51.03059972687179, 
+      "lon": 4.473767084231081, 
       "pcode": 2800, 
-      "street": "Fonteinstraatje", 
-      "lon": 4.473767084231081
+      "street": "Fonteinstraatje"
     }, 
     {
-      "lat": 51.03061899620775, 
       "housenumber": "5", 
+      "lat": 51.03061899620775, 
+      "lon": 4.473630278546943, 
       "pcode": 2800, 
-      "street": "Fonteinstraatje", 
-      "lon": 4.473630278546943
+      "street": "Fonteinstraatje"
     }
-  ], 
-  "name": "Fonteinstraatje"
+  ]
 }

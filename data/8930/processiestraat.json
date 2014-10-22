@@ -1,20 +1,18 @@
 {
-  "pcode": 8930, 
   "addresses": [
     {
-      "lat": 50.80978772734711, 
       "housenumber": "80", 
+      "lat": 50.80978772734711, 
+      "lon": 3.1452933860183347, 
       "pcode": 8930, 
-      "street": "Processiestraat", 
-      "lon": 3.1452933860183347
+      "street": "Processiestraat"
     }, 
     {
-      "lat": 50.80757197986007, 
       "housenumber": "94", 
+      "lat": 50.80757197986007, 
+      "lon": 3.1430507258000566, 
       "pcode": 8930, 
-      "street": "Processiestraat", 
-      "lon": 3.1430507258000566
+      "street": "Processiestraat"
     }
-  ], 
-  "name": "Processiestraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 51.0170348615541, 
       "housenumber": "2", 
+      "lat": 51.0170348615541, 
+      "lon": 5.494334473571859, 
       "pcode": 3600, 
-      "street": "Eindstraat", 
-      "lon": 5.494334473571859
+      "street": "Eindstraat"
     }, 
     {
-      "lat": 51.01699338311136, 
       "housenumber": "3", 
+      "lat": 51.01699338311136, 
+      "lon": 5.493454518277033, 
       "pcode": 3600, 
-      "street": "Eindstraat", 
-      "lon": 5.493454518277033
+      "street": "Eindstraat"
     }, 
     {
-      "lat": 51.01712342734932, 
       "housenumber": "4", 
+      "lat": 51.01712342734932, 
+      "lon": 5.494088750122633, 
       "pcode": 3600, 
-      "street": "Eindstraat", 
-      "lon": 5.494088750122633
+      "street": "Eindstraat"
     }
-  ], 
-  "name": "Eindstraat"
+  ]
 }

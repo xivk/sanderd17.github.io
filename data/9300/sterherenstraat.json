@@ -1,27 +1,25 @@
 {
-  "pcode": 9300, 
   "addresses": [
     {
-      "lat": 50.93534868760965, 
       "housenumber": "1", 
+      "lat": 50.93534868760965, 
+      "lon": 4.04430027417889, 
       "pcode": 9300, 
-      "street": "Sterherenstraat", 
-      "lon": 4.04430027417889
+      "street": "Sterherenstraat"
     }, 
     {
-      "lat": 50.93541753123491, 
       "housenumber": "2", 
+      "lat": 50.93541753123491, 
+      "lon": 4.044360118712868, 
       "pcode": 9300, 
-      "street": "Sterherenstraat", 
-      "lon": 4.044360118712868
+      "street": "Sterherenstraat"
     }, 
     {
-      "lat": 50.9354785303744, 
       "housenumber": "3", 
+      "lat": 50.9354785303744, 
+      "lon": 4.044476638359738, 
       "pcode": 9300, 
-      "street": "Sterherenstraat", 
-      "lon": 4.044476638359738
+      "street": "Sterherenstraat"
     }
-  ], 
-  "name": "Sterherenstraat"
+  ]
 }

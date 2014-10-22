@@ -1,27 +1,25 @@
 {
-  "pcode": 3111, 
   "addresses": [
     {
-      "lat": 50.94026179075757, 
       "housenumber": "1", 
+      "lat": 50.94026179075757, 
+      "lon": 4.781894806425999, 
       "pcode": 3111, 
-      "street": "Vlasselaarbroekweg", 
-      "lon": 4.781894806425999
+      "street": "Vlasselaarbroekweg"
     }, 
     {
-      "lat": 50.93968216282848, 
       "housenumber": "2", 
+      "lat": 50.93968216282848, 
+      "lon": 4.7829630309706195, 
       "pcode": 3111, 
-      "street": "Vlasselaarbroekweg", 
-      "lon": 4.7829630309706195
+      "street": "Vlasselaarbroekweg"
     }, 
     {
-      "lat": 50.94361167009351, 
       "housenumber": "20", 
+      "lat": 50.94361167009351, 
+      "lon": 4.781619860602951, 
       "pcode": 3111, 
-      "street": "Vlasselaarbroekweg", 
-      "lon": 4.781619860602951
+      "street": "Vlasselaarbroekweg"
     }
-  ], 
-  "name": "Vlasselaarbroekweg"
+  ]
 }

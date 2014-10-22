@@ -1,20 +1,18 @@
 {
-  "pcode": 3070, 
   "addresses": [
     {
-      "lat": 50.88633632895312, 
       "housenumber": "2", 
+      "lat": 50.88633632895312, 
+      "lon": 4.525122507762598, 
       "pcode": 3070, 
-      "street": "Karel Van Miertstraat", 
-      "lon": 4.525122507762598
+      "street": "Karel Van Miertstraat"
     }, 
     {
-      "lat": 50.88573879365663, 
       "housenumber": "3", 
+      "lat": 50.88573879365663, 
+      "lon": 4.525262621332121, 
       "pcode": 3070, 
-      "street": "Karel Van Miertstraat", 
-      "lon": 4.525262621332121
+      "street": "Karel Van Miertstraat"
     }
-  ], 
-  "name": "Karel Van Miertstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.76639246460044, 
       "housenumber": "1", 
+      "lat": 50.76639246460044, 
+      "lon": 4.9490720520450235, 
       "pcode": 3300, 
-      "street": "Ridderstraat", 
-      "lon": 4.9490720520450235
+      "street": "Ridderstraat"
     }, 
     {
-      "lat": 50.76642851382079, 
       "housenumber": "3", 
+      "lat": 50.76642851382079, 
+      "lon": 4.948709744197227, 
       "pcode": 3300, 
-      "street": "Ridderstraat", 
-      "lon": 4.948709744197227
+      "street": "Ridderstraat"
     }
-  ], 
-  "name": "Ridderstraat"
+  ]
 }

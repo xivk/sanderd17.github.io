@@ -1,25 +1,23 @@
 {
-  "pcode": 1740, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 1740, 
-      "street": "Kerkplein", 
-      "housenumber": "1"
+      "street": "Kerkplein"
     }, 
     {
-      "lat": 50.872200665851736, 
       "housenumber": "3", 
+      "lat": 50.872200665851736, 
+      "lon": 4.175943116548211, 
       "pcode": 1740, 
-      "street": "Kerkplein", 
-      "lon": 4.175943116548211
+      "street": "Kerkplein"
     }, 
     {
-      "lat": 50.87163082207129, 
       "housenumber": "3A", 
+      "lat": 50.87163082207129, 
+      "lon": 4.175887766639518, 
       "pcode": 1740, 
-      "street": "Kerkplein", 
-      "lon": 4.175887766639518
+      "street": "Kerkplein"
     }
-  ], 
-  "name": "Kerkplein"
+  ]
 }

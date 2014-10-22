@@ -1,27 +1,25 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 51.012551906518695, 
       "housenumber": "1", 
+      "lat": 51.012551906518695, 
+      "lon": 5.4905753611240184, 
       "pcode": 3600, 
-      "street": "Putstraat", 
-      "lon": 5.4905753611240184
+      "street": "Putstraat"
     }, 
     {
-      "lat": 51.01271094091146, 
       "housenumber": "5", 
+      "lat": 51.01271094091146, 
+      "lon": 5.490547107269413, 
       "pcode": 3600, 
-      "street": "Putstraat", 
-      "lon": 5.490547107269413
+      "street": "Putstraat"
     }, 
     {
-      "lat": 51.012748847487714, 
       "housenumber": "7", 
+      "lat": 51.012748847487714, 
+      "lon": 5.490625827830329, 
       "pcode": 3600, 
-      "street": "Putstraat", 
-      "lon": 5.490625827830329
+      "street": "Putstraat"
     }
-  ], 
-  "name": "Putstraat"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 3190, 
   "addresses": [
     {
-      "lat": 50.987574643806305, 
       "housenumber": "1", 
+      "lat": 50.987574643806305, 
+      "lon": 4.577882106643239, 
       "pcode": 3190, 
-      "street": "Voetbalweg", 
-      "lon": 4.577882106643239
+      "street": "Voetbalweg"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3190, 
-      "street": "Voetbalweg", 
-      "housenumber": "2"
+      "street": "Voetbalweg"
     }, 
     {
-      "lat": 50.987414343870455, 
       "housenumber": "3", 
+      "lat": 50.987414343870455, 
+      "lon": 4.5781468603004525, 
       "pcode": 3190, 
-      "street": "Voetbalweg", 
-      "lon": 4.5781468603004525
+      "street": "Voetbalweg"
     }, 
     {
-      "lat": 50.98743583920441, 
       "housenumber": "7", 
+      "lat": 50.98743583920441, 
+      "lon": 4.5786935658120465, 
       "pcode": 3190, 
-      "street": "Voetbalweg", 
-      "lon": 4.5786935658120465
+      "street": "Voetbalweg"
     }
-  ], 
-  "name": "Voetbalweg"
+  ]
 }

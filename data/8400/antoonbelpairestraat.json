@@ -1,44 +1,42 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8400, 
-      "street": "Antoon Belpairestraat", 
-      "housenumber": "1"
+      "street": "Antoon Belpairestraat"
     }, 
     {
-      "lat": 51.231914546434716, 
       "housenumber": "2", 
+      "lat": 51.231914546434716, 
+      "lon": 2.9138426762727416, 
       "pcode": 8400, 
-      "street": "Antoon Belpairestraat", 
-      "lon": 2.9138426762727416
+      "street": "Antoon Belpairestraat"
     }, 
     {
-      "lat": 51.231969152377694, 
       "housenumber": "3", 
+      "lat": 51.231969152377694, 
+      "lon": 2.91391872710689, 
       "pcode": 8400, 
-      "street": "Antoon Belpairestraat", 
-      "lon": 2.91391872710689
+      "street": "Antoon Belpairestraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8400, 
-      "street": "Antoon Belpairestraat", 
-      "housenumber": "4"
+      "street": "Antoon Belpairestraat"
     }, 
     {
-      "lat": 51.23193389946933, 
       "housenumber": "5", 
+      "lat": 51.23193389946933, 
+      "lon": 2.9139689425006767, 
       "pcode": 8400, 
-      "street": "Antoon Belpairestraat", 
-      "lon": 2.9139689425006767
+      "street": "Antoon Belpairestraat"
     }, 
     {
-      "lat": 51.23189662009625, 
       "housenumber": "7", 
+      "lat": 51.23189662009625, 
+      "lon": 2.914022514496689, 
       "pcode": 8400, 
-      "street": "Antoon Belpairestraat", 
-      "lon": 2.914022514496689
+      "street": "Antoon Belpairestraat"
     }
-  ], 
-  "name": "Antoon Belpairestraat"
+  ]
 }

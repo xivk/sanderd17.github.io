@@ -1,56 +1,54 @@
 {
-  "pcode": 8900, 
   "addresses": [
     {
-      "lat": 50.84739051543335, 
       "housenumber": "1", 
+      "lat": 50.84739051543335, 
+      "lon": 2.879500740576003, 
       "pcode": 8900, 
-      "street": "Esplanade", 
-      "lon": 2.879500740576003
+      "street": "Esplanade"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8900, 
-      "street": "Esplanade", 
-      "housenumber": "2"
+      "street": "Esplanade"
     }, 
     {
-      "lat": 50.84836882141127, 
       "housenumber": "4", 
+      "lat": 50.84836882141127, 
+      "lon": 2.880744874044563, 
       "pcode": 8900, 
-      "street": "Esplanade", 
-      "lon": 2.880744874044563
+      "street": "Esplanade"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8900, 
-      "street": "Esplanade", 
-      "housenumber": "5"
+      "street": "Esplanade"
     }, 
     {
-      "lat": 50.847829751789256, 
       "housenumber": "6", 
+      "lat": 50.847829751789256, 
+      "lon": 2.8809614781599233, 
       "pcode": 8900, 
-      "street": "Esplanade", 
-      "lon": 2.8809614781599233
+      "street": "Esplanade"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8900, 
-      "street": "Esplanade", 
-      "housenumber": "7"
+      "street": "Esplanade"
     }, 
     {
-      "lat": 50.847767445187245, 
       "housenumber": "8", 
+      "lat": 50.847767445187245, 
+      "lon": 2.8810468182540228, 
       "pcode": 8900, 
-      "street": "Esplanade", 
-      "lon": 2.8810468182540228
+      "street": "Esplanade"
     }, 
     {
-      "lat": 50.84806144560862, 
       "housenumber": "9", 
+      "lat": 50.84806144560862, 
+      "lon": 2.8807619862089635, 
       "pcode": 8900, 
-      "street": "Esplanade", 
-      "lon": 2.8807619862089635
+      "street": "Esplanade"
     }
-  ], 
-  "name": "Esplanade"
+  ]
 }

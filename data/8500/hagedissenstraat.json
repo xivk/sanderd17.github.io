@@ -1,53 +1,51 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
+      "housenumber": "18", 
       "pcode": 8500, 
-      "street": "Hagedissenstraat", 
-      "housenumber": "18"
+      "street": "Hagedissenstraat"
     }, 
     {
-      "lat": 50.826888118031626, 
       "housenumber": "3", 
+      "lat": 50.826888118031626, 
+      "lon": 3.2629675788026407, 
       "pcode": 8500, 
-      "street": "Hagedissenstraat", 
-      "lon": 3.2629675788026407
+      "street": "Hagedissenstraat"
     }, 
     {
-      "lat": 50.826923784285526, 
       "housenumber": "4", 
+      "lat": 50.826923784285526, 
+      "lon": 3.262898037136927, 
       "pcode": 8500, 
-      "street": "Hagedissenstraat", 
-      "lon": 3.262898037136927
+      "street": "Hagedissenstraat"
     }, 
     {
-      "lat": 50.82695864955514, 
       "housenumber": "5", 
+      "lat": 50.82695864955514, 
+      "lon": 3.2628293658874066, 
       "pcode": 8500, 
-      "street": "Hagedissenstraat", 
-      "lon": 3.2628293658874066
+      "street": "Hagedissenstraat"
     }, 
     {
-      "lat": 50.82699467393083, 
       "housenumber": "6", 
+      "lat": 50.82699467393083, 
+      "lon": 3.262759673643475, 
       "pcode": 8500, 
-      "street": "Hagedissenstraat", 
-      "lon": 3.262759673643475
+      "street": "Hagedissenstraat"
     }, 
     {
-      "lat": 50.82703042459313, 
       "housenumber": "7", 
+      "lat": 50.82703042459313, 
+      "lon": 3.2626895618766443, 
       "pcode": 8500, 
-      "street": "Hagedissenstraat", 
-      "lon": 3.2626895618766443
+      "street": "Hagedissenstraat"
     }, 
     {
-      "lat": 50.827066450223306, 
       "housenumber": "8", 
+      "lat": 50.827066450223306, 
+      "lon": 3.262620011337612, 
       "pcode": 8500, 
-      "street": "Hagedissenstraat", 
-      "lon": 3.262620011337612
+      "street": "Hagedissenstraat"
     }
-  ], 
-  "name": "Hagedissenstraat"
+  ]
 }

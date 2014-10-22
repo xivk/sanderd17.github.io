@@ -1,47 +1,45 @@
 {
-  "pcode": 8520, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8520, 
-      "street": "Schaapsdries", 
-      "housenumber": "1"
+      "street": "Schaapsdries"
     }, 
     {
-      "lat": 50.86315201888569, 
       "housenumber": "2", 
+      "lat": 50.86315201888569, 
+      "lon": 3.292789376481181, 
       "pcode": 8520, 
-      "street": "Schaapsdries", 
-      "lon": 3.292789376481181
+      "street": "Schaapsdries"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8520, 
-      "street": "Schaapsdries", 
-      "housenumber": "3"
+      "street": "Schaapsdries"
     }, 
     {
-      "lat": 50.863150251522775, 
       "housenumber": "4", 
+      "lat": 50.863150251522775, 
+      "lon": 3.292920252312309, 
       "pcode": 8520, 
-      "street": "Schaapsdries", 
-      "lon": 3.292920252312309
+      "street": "Schaapsdries"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8520, 
-      "street": "Schaapsdries", 
-      "housenumber": "5"
+      "street": "Schaapsdries"
     }, 
     {
-      "lat": 50.863150205977604, 
       "housenumber": "6", 
+      "lat": 50.863150205977604, 
+      "lon": 3.293072255374098, 
       "pcode": 8520, 
-      "street": "Schaapsdries", 
-      "lon": 3.293072255374098
+      "street": "Schaapsdries"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8520, 
-      "street": "Schaapsdries", 
-      "housenumber": "7"
+      "street": "Schaapsdries"
     }
-  ], 
-  "name": "Schaapsdries"
+  ]
 }

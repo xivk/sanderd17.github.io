@@ -1,23 +1,21 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
+      "housenumber": "103", 
       "pcode": 2030, 
-      "street": "Klipperstraat", 
-      "housenumber": "103"
+      "street": "Klipperstraat"
     }, 
     {
-      "lat": 51.24375396868231, 
       "housenumber": "15", 
+      "lat": 51.24375396868231, 
+      "lon": 4.4239925549577945, 
       "pcode": 2030, 
-      "street": "Klipperstraat", 
-      "lon": 4.4239925549577945
+      "street": "Klipperstraat"
     }, 
     {
+      "housenumber": "19", 
       "pcode": 2030, 
-      "street": "Klipperstraat", 
-      "housenumber": "19"
+      "street": "Klipperstraat"
     }
-  ], 
-  "name": "Klipperstraat"
+  ]
 }

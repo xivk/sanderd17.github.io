@@ -1,20 +1,18 @@
 {
-  "pcode": 3960, 
   "addresses": [
     {
-      "lat": 51.163553513877616, 
       "housenumber": "12", 
+      "lat": 51.163553513877616, 
+      "lon": 5.592857845010042, 
       "pcode": 3960, 
-      "street": "Duikerstraat", 
-      "lon": 5.592857845010042
+      "street": "Duikerstraat"
     }, 
     {
-      "lat": 51.16385980973218, 
       "housenumber": "14", 
+      "lat": 51.16385980973218, 
+      "lon": 5.592553189854961, 
       "pcode": 3960, 
-      "street": "Duikerstraat", 
-      "lon": 5.592553189854961
+      "street": "Duikerstraat"
     }
-  ], 
-  "name": "Duikerstraat"
+  ]
 }

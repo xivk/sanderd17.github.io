@@ -1,20 +1,18 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.34978080364023, 
       "housenumber": "1", 
+      "lat": 51.34978080364023, 
+      "lon": 3.311859195315494, 
       "pcode": 8300, 
-      "street": "Meesjesweg", 
-      "lon": 3.311859195315494
+      "street": "Meesjesweg"
     }, 
     {
-      "lat": 51.34975864581673, 
       "housenumber": "2", 
+      "lat": 51.34975864581673, 
+      "lon": 3.311228679233943, 
       "pcode": 8300, 
-      "street": "Meesjesweg", 
-      "lon": 3.311228679233943
+      "street": "Meesjesweg"
     }
-  ], 
-  "name": "Meesjesweg"
+  ]
 }

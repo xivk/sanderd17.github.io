@@ -1,27 +1,25 @@
 {
-  "pcode": 8210, 
   "addresses": [
     {
-      "lat": 51.13925718960299, 
       "housenumber": "2", 
+      "lat": 51.13925718960299, 
+      "lon": 3.139023665916215, 
       "pcode": 8210, 
-      "street": "Notariswegel", 
-      "lon": 3.139023665916215
+      "street": "Notariswegel"
     }, 
     {
-      "lat": 51.13954446174088, 
       "housenumber": "3", 
+      "lat": 51.13954446174088, 
+      "lon": 3.1385705347825095, 
       "pcode": 8210, 
-      "street": "Notariswegel", 
-      "lon": 3.1385705347825095
+      "street": "Notariswegel"
     }, 
     {
-      "lat": 51.139772625853986, 
       "housenumber": "4", 
+      "lat": 51.139772625853986, 
+      "lon": 3.1389330775566933, 
       "pcode": 8210, 
-      "street": "Notariswegel", 
-      "lon": 3.1389330775566933
+      "street": "Notariswegel"
     }
-  ], 
-  "name": "Notariswegel"
+  ]
 }

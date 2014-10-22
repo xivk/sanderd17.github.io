@@ -1,23 +1,21 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2000, 
-      "street": "Vleeshuisstraat", 
-      "housenumber": "1"
+      "street": "Vleeshuisstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2000, 
-      "street": "Vleeshuisstraat", 
-      "housenumber": "3"
+      "street": "Vleeshuisstraat"
     }, 
     {
-      "lat": 51.22300916601684, 
       "housenumber": "7", 
+      "lat": 51.22300916601684, 
+      "lon": 4.398947062690233, 
       "pcode": 2000, 
-      "street": "Vleeshuisstraat", 
-      "lon": 4.398947062690233
+      "street": "Vleeshuisstraat"
     }
-  ], 
-  "name": "Vleeshuisstraat"
+  ]
 }

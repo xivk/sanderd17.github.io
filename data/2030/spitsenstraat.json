@@ -1,50 +1,48 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2030, 
-      "street": "Spitsenstraat", 
-      "housenumber": "1"
+      "street": "Spitsenstraat"
     }, 
     {
-      "lat": 51.23233926676633, 
       "housenumber": "2", 
+      "lat": 51.23233926676633, 
+      "lon": 4.4170463798964, 
       "pcode": 2030, 
-      "street": "Spitsenstraat", 
-      "lon": 4.4170463798964
+      "street": "Spitsenstraat"
     }, 
     {
+      "housenumber": "28", 
       "pcode": 2030, 
-      "street": "Spitsenstraat", 
-      "housenumber": "28"
+      "street": "Spitsenstraat"
     }, 
     {
-      "lat": 51.237916051751135, 
       "housenumber": "28A", 
+      "lat": 51.237916051751135, 
+      "lon": 4.417976071223088, 
       "pcode": 2030, 
-      "street": "Spitsenstraat", 
-      "lon": 4.417976071223088
+      "street": "Spitsenstraat"
     }, 
     {
+      "housenumber": "33", 
       "pcode": 2030, 
-      "street": "Spitsenstraat", 
-      "housenumber": "33"
+      "street": "Spitsenstraat"
     }, 
     {
+      "housenumber": "34", 
       "pcode": 2030, 
-      "street": "Spitsenstraat", 
-      "housenumber": "34"
+      "street": "Spitsenstraat"
     }, 
     {
+      "housenumber": "36", 
       "pcode": 2030, 
-      "street": "Spitsenstraat", 
-      "housenumber": "36"
+      "street": "Spitsenstraat"
     }, 
     {
+      "housenumber": "36B", 
       "pcode": 2030, 
-      "street": "Spitsenstraat", 
-      "housenumber": "36B"
+      "street": "Spitsenstraat"
     }
-  ], 
-  "name": "Spitsenstraat"
+  ]
 }

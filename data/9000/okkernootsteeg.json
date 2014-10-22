@@ -1,37 +1,35 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05241501053232, 
       "housenumber": "1", 
+      "lat": 51.05241501053232, 
+      "lon": 3.72139735695197, 
       "pcode": 9000, 
-      "street": "Okkernootsteeg", 
-      "lon": 3.72139735695197
+      "street": "Okkernootsteeg"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 9000, 
-      "street": "Okkernootsteeg", 
-      "housenumber": "11"
+      "street": "Okkernootsteeg"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 9000, 
-      "street": "Okkernootsteeg", 
-      "housenumber": "1A"
+      "street": "Okkernootsteeg"
     }, 
     {
-      "lat": 51.05233120274447, 
       "housenumber": "3", 
+      "lat": 51.05233120274447, 
+      "lon": 3.721441444429566, 
       "pcode": 9000, 
-      "street": "Okkernootsteeg", 
-      "lon": 3.721441444429566
+      "street": "Okkernootsteeg"
     }, 
     {
-      "lat": 51.052356894475714, 
       "housenumber": "5", 
+      "lat": 51.052356894475714, 
+      "lon": 3.72153650404608, 
       "pcode": 9000, 
-      "street": "Okkernootsteeg", 
-      "lon": 3.72153650404608
+      "street": "Okkernootsteeg"
     }
-  ], 
-  "name": "Okkernootsteeg"
+  ]
 }

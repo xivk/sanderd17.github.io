@@ -1,32 +1,30 @@
 {
-  "pcode": 8680, 
   "addresses": [
     {
-      "lat": 51.07419039986587, 
       "housenumber": "1", 
+      "lat": 51.07419039986587, 
+      "lon": 2.9890979847768406, 
       "pcode": 8680, 
-      "street": "Kortemarkstraat", 
-      "lon": 2.9890979847768406
+      "street": "Kortemarkstraat"
     }, 
     {
-      "lat": 51.06663383827585, 
       "housenumber": "3", 
+      "lat": 51.06663383827585, 
+      "lon": 2.9984086469471776, 
       "pcode": 8680, 
-      "street": "Kortemarkstraat", 
-      "lon": 2.9984086469471776
+      "street": "Kortemarkstraat"
     }, 
     {
-      "lat": 51.063058535136356, 
       "housenumber": "5", 
+      "lat": 51.063058535136356, 
+      "lon": 3.00310443014942, 
       "pcode": 8680, 
-      "street": "Kortemarkstraat", 
-      "lon": 3.00310443014942
+      "street": "Kortemarkstraat"
     }, 
     {
+      "housenumber": "5A", 
       "pcode": 8680, 
-      "street": "Kortemarkstraat", 
-      "housenumber": "5A"
+      "street": "Kortemarkstraat"
     }
-  ], 
-  "name": "Kortemarkstraat"
+  ]
 }

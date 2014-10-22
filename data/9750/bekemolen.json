@@ -1,20 +1,18 @@
 {
-  "pcode": 9750, 
   "addresses": [
     {
-      "lat": 50.90122795368353, 
       "housenumber": "10", 
+      "lat": 50.90122795368353, 
+      "lon": 3.621456900449932, 
       "pcode": 9750, 
-      "street": "Bekemolen", 
-      "lon": 3.621456900449932
+      "street": "Bekemolen"
     }, 
     {
-      "lat": 50.90038247263384, 
       "housenumber": "8", 
+      "lat": 50.90038247263384, 
+      "lon": 3.6197218832148144, 
       "pcode": 9750, 
-      "street": "Bekemolen", 
-      "lon": 3.6197218832148144
+      "street": "Bekemolen"
     }
-  ], 
-  "name": "Bekemolen"
+  ]
 }

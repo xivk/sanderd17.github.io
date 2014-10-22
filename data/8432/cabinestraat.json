@@ -1,27 +1,25 @@
 {
-  "pcode": 8432, 
   "addresses": [
     {
-      "lat": 51.15959756802583, 
       "housenumber": "1", 
+      "lat": 51.15959756802583, 
+      "lon": 2.8890472127753766, 
       "pcode": 8432, 
-      "street": "Cabinestraat", 
-      "lon": 2.8890472127753766
+      "street": "Cabinestraat"
     }, 
     {
-      "lat": 51.15963466316079, 
       "housenumber": "2", 
+      "lat": 51.15963466316079, 
+      "lon": 2.889238193760769, 
       "pcode": 8432, 
-      "street": "Cabinestraat", 
-      "lon": 2.889238193760769
+      "street": "Cabinestraat"
     }, 
     {
-      "lat": 51.15913344354736, 
       "housenumber": "3", 
+      "lat": 51.15913344354736, 
+      "lon": 2.88968999180319, 
       "pcode": 8432, 
-      "street": "Cabinestraat", 
-      "lon": 2.88968999180319
+      "street": "Cabinestraat"
     }
-  ], 
-  "name": "Cabinestraat"
+  ]
 }

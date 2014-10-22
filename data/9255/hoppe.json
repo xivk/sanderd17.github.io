@@ -1,35 +1,33 @@
 {
-  "pcode": 9255, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 9255, 
-      "street": "Hoppe", 
-      "housenumber": "10"
+      "street": "Hoppe"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9255, 
-      "street": "Hoppe", 
-      "housenumber": "2"
+      "street": "Hoppe"
     }, 
     {
-      "lat": 51.019513428712045, 
       "housenumber": "4", 
+      "lat": 51.019513428712045, 
+      "lon": 4.157626420442335, 
       "pcode": 9255, 
-      "street": "Hoppe", 
-      "lon": 4.157626420442335
+      "street": "Hoppe"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9255, 
-      "street": "Hoppe", 
-      "housenumber": "6"
+      "street": "Hoppe"
     }, 
     {
-      "lat": 51.01949606714353, 
       "housenumber": "8", 
+      "lat": 51.01949606714353, 
+      "lon": 4.157569063774582, 
       "pcode": 9255, 
-      "street": "Hoppe", 
-      "lon": 4.157569063774582
+      "street": "Hoppe"
     }
-  ], 
-  "name": "Hoppe"
+  ]
 }

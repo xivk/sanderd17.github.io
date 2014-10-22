@@ -1,20 +1,18 @@
 {
-  "pcode": 1851, 
   "addresses": [
     {
-      "lat": 50.95856574480264, 
       "housenumber": "11", 
+      "lat": 50.95856574480264, 
+      "lon": 4.372204893801464, 
       "pcode": 1851, 
-      "street": "Groenstraat", 
-      "lon": 4.372204893801464
+      "street": "Groenstraat"
     }, 
     {
-      "lat": 50.958428218843125, 
       "housenumber": "9", 
+      "lat": 50.958428218843125, 
+      "lon": 4.371939717794615, 
       "pcode": 1851, 
-      "street": "Groenstraat", 
-      "lon": 4.371939717794615
+      "street": "Groenstraat"
     }
-  ], 
-  "name": "Groenstraat"
+  ]
 }

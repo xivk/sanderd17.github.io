@@ -1,195 +1,193 @@
 {
-  "pcode": 2140, 
   "addresses": [
     {
-      "lat": 51.21409631059724, 
       "housenumber": "10", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.442747012829119
-    }, 
-    {
-      "lat": 51.21407859182918, 
-      "housenumber": "11", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.443332169149058
-    }, 
-    {
-      "lat": 51.21403490748906, 
-      "housenumber": "12", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.442766377694058
-    }, 
-    {
-      "lat": 51.21403499641277, 
-      "housenumber": "13", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.443756997719265
-    }, 
-    {
-      "lat": 51.21399633420356, 
-      "housenumber": "14", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.442786923983342
-    }, 
-    {
-      "lat": 51.21356742357684, 
-      "housenumber": "15", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.443468586926174
-    }, 
-    {
-      "lat": 51.213953184336575, 
-      "housenumber": "16", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.442795584644602
-    }, 
-    {
-      "lat": 51.2135095256341, 
-      "housenumber": "17", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.443488242511329
-    }, 
-    {
-      "lat": 51.21390894825839, 
-      "housenumber": "18", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.442816264907572
-    }, 
-    {
-      "lat": 51.21345360394913, 
-      "housenumber": "19", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.443509761675173
-    }, 
-    {
-      "lat": 51.21386498662543, 
-      "housenumber": "20", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.442829360673648
-    }, 
-    {
-      "lat": 51.213394812363404, 
-      "housenumber": "21", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.443521258454401
-    }, 
-    {
-      "lat": 51.21382165064797, 
-      "housenumber": "22", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.442848038752984
-    }, 
-    {
-      "lat": 51.21333403784333, 
-      "housenumber": "23", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.443541338574524
-    }, 
-    {
-      "lat": 51.21375813202805, 
-      "housenumber": "24", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.44280142582942
-    }, 
-    {
-      "lat": 51.21373058070289, 
-      "housenumber": "26", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.442875369990367
-    }, 
-    {
-      "lat": 51.21354022243305, 
-      "housenumber": "28", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.4431330924404655
-    }, 
-    {
-      "lat": 51.214304426078634, 
-      "housenumber": "3", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.443119582078968
-    }, 
-    {
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "housenumber": "3A"
-    }, 
-    {
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "housenumber": "3B"
-    }, 
-    {
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "housenumber": "3_5"
-    }, 
-    {
-      "lat": 51.21419734333158, 
-      "housenumber": "5", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.443309319745376
-    }, 
-    {
-      "lat": 51.214151046030175, 
-      "housenumber": "7", 
-      "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.443320264675872
-    }, 
-    {
       "lat": 51.21409631059724, 
+      "lon": 4.442747012829119, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "11", 
+      "lat": 51.21407859182918, 
+      "lon": 4.443332169149058, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "12", 
+      "lat": 51.21403490748906, 
+      "lon": 4.442766377694058, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "13", 
+      "lat": 51.21403499641277, 
+      "lon": 4.443756997719265, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "14", 
+      "lat": 51.21399633420356, 
+      "lon": 4.442786923983342, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "15", 
+      "lat": 51.21356742357684, 
+      "lon": 4.443468586926174, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "16", 
+      "lat": 51.213953184336575, 
+      "lon": 4.442795584644602, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "17", 
+      "lat": 51.2135095256341, 
+      "lon": 4.443488242511329, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "18", 
+      "lat": 51.21390894825839, 
+      "lon": 4.442816264907572, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "19", 
+      "lat": 51.21345360394913, 
+      "lon": 4.443509761675173, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "20", 
+      "lat": 51.21386498662543, 
+      "lon": 4.442829360673648, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "21", 
+      "lat": 51.213394812363404, 
+      "lon": 4.443521258454401, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "22", 
+      "lat": 51.21382165064797, 
+      "lon": 4.442848038752984, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "23", 
+      "lat": 51.21333403784333, 
+      "lon": 4.443541338574524, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "24", 
+      "lat": 51.21375813202805, 
+      "lon": 4.44280142582942, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "26", 
+      "lat": 51.21373058070289, 
+      "lon": 4.442875369990367, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "28", 
+      "lat": 51.21354022243305, 
+      "lon": 4.4431330924404655, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "3", 
+      "lat": 51.214304426078634, 
+      "lon": 4.443119582078968, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "3A", 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "3B", 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "3_5", 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "5", 
+      "lat": 51.21419734333158, 
+      "lon": 4.443309319745376, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
+      "housenumber": "7", 
+      "lat": 51.214151046030175, 
+      "lon": 4.443320264675872, 
+      "pcode": 2140, 
+      "street": "Zegelstraat"
+    }, 
+    {
       "housenumber": "8", 
+      "lat": 51.21409631059724, 
+      "lon": 4.442747012829119, 
       "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.442747012829119
+      "street": "Zegelstraat"
     }, 
     {
+      "housenumber": "8A", 
       "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "housenumber": "8A"
+      "street": "Zegelstraat"
     }, 
     {
+      "housenumber": "8B", 
       "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "housenumber": "8B"
+      "street": "Zegelstraat"
     }, 
     {
+      "housenumber": "8C", 
       "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "housenumber": "8C"
+      "street": "Zegelstraat"
     }, 
     {
+      "housenumber": "8_2", 
       "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "housenumber": "8_2"
+      "street": "Zegelstraat"
     }, 
     {
-      "lat": 51.21408568829552, 
       "housenumber": "9", 
+      "lat": 51.21408568829552, 
+      "lon": 4.443339049977309, 
       "pcode": 2140, 
-      "street": "Zegelstraat", 
-      "lon": 4.443339049977309
+      "street": "Zegelstraat"
     }
-  ], 
-  "name": "Zegelstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3530, 
   "addresses": [
     {
-      "lat": 51.02108236888431, 
       "housenumber": "1", 
+      "lat": 51.02108236888431, 
+      "lon": 5.4380242607906, 
       "pcode": 3530, 
-      "street": "Golfclub", 
-      "lon": 5.4380242607906
+      "street": "Golfclub"
     }, 
     {
-      "lat": 51.02083005156467, 
       "housenumber": "3", 
+      "lat": 51.02083005156467, 
+      "lon": 5.437714181170571, 
       "pcode": 3530, 
-      "street": "Golfclub", 
-      "lon": 5.437714181170571
+      "street": "Golfclub"
     }
-  ], 
-  "name": "Golfclub"
+  ]
 }

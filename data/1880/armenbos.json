@@ -1,32 +1,30 @@
 {
-  "pcode": 1880, 
   "addresses": [
     {
-      "lat": 50.9918044905829, 
       "housenumber": "1", 
+      "lat": 50.9918044905829, 
+      "lon": 4.354721900336427, 
       "pcode": 1880, 
-      "street": "Armenbos", 
-      "lon": 4.354721900336427
+      "street": "Armenbos"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 1880, 
-      "street": "Armenbos", 
-      "housenumber": "10"
+      "street": "Armenbos"
     }, 
     {
-      "lat": 50.993061438407516, 
       "housenumber": "1A", 
+      "lat": 50.993061438407516, 
+      "lon": 4.353214703156061, 
       "pcode": 1880, 
-      "street": "Armenbos", 
-      "lon": 4.353214703156061
+      "street": "Armenbos"
     }, 
     {
-      "lat": 50.9907112890017, 
       "housenumber": "2", 
+      "lat": 50.9907112890017, 
+      "lon": 4.352266581065865, 
       "pcode": 1880, 
-      "street": "Armenbos", 
-      "lon": 4.352266581065865
+      "street": "Armenbos"
     }
-  ], 
-  "name": "Armenbos"
+  ]
 }

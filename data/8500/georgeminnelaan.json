@@ -1,20 +1,18 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.82157961019686, 
       "housenumber": "1", 
+      "lat": 50.82157961019686, 
+      "lon": 3.2474066807186834, 
       "pcode": 8500, 
-      "street": "George Minnelaan", 
-      "lon": 3.2474066807186834
+      "street": "George Minnelaan"
     }, 
     {
-      "lat": 50.82178005485538, 
       "housenumber": "2", 
+      "lat": 50.82178005485538, 
+      "lon": 3.2472890666334213, 
       "pcode": 8500, 
-      "street": "George Minnelaan", 
-      "lon": 3.2472890666334213
+      "street": "George Minnelaan"
     }
-  ], 
-  "name": "George Minnelaan"
+  ]
 }

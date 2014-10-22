@@ -1,20 +1,18 @@
 {
-  "pcode": 9255, 
   "addresses": [
     {
-      "lat": 51.02679614005448, 
       "housenumber": "1", 
+      "lat": 51.02679614005448, 
+      "lon": 4.216125130601263, 
       "pcode": 9255, 
-      "street": "Meersveld", 
-      "lon": 4.216125130601263
+      "street": "Meersveld"
     }, 
     {
-      "lat": 51.026921931680654, 
       "housenumber": "2", 
+      "lat": 51.026921931680654, 
+      "lon": 4.2158042922051635, 
       "pcode": 9255, 
-      "street": "Meersveld", 
-      "lon": 4.2158042922051635
+      "street": "Meersveld"
     }
-  ], 
-  "name": "Meersveld"
+  ]
 }

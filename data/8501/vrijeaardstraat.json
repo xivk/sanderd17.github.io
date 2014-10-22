@@ -1,39 +1,37 @@
 {
-  "pcode": 8501, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8501, 
-      "street": "Vrije-Aardstraat", 
-      "housenumber": "1"
+      "street": "Vrije-Aardstraat"
     }, 
     {
-      "lat": 50.81801129473818, 
       "housenumber": "10", 
+      "lat": 50.81801129473818, 
+      "lon": 3.232402717209063, 
       "pcode": 8501, 
-      "street": "Vrije-Aardstraat", 
-      "lon": 3.232402717209063
+      "street": "Vrije-Aardstraat"
     }, 
     {
-      "lat": 50.81805110625937, 
       "housenumber": "14", 
+      "lat": 50.81805110625937, 
+      "lon": 3.232632949276927, 
       "pcode": 8501, 
-      "street": "Vrije-Aardstraat", 
-      "lon": 3.232632949276927
+      "street": "Vrije-Aardstraat"
     }, 
     {
-      "lat": 50.81799651997985, 
       "housenumber": "16", 
+      "lat": 50.81799651997985, 
+      "lon": 3.232603753522861, 
       "pcode": 8501, 
-      "street": "Vrije-Aardstraat", 
-      "lon": 3.232603753522861
+      "street": "Vrije-Aardstraat"
     }, 
     {
-      "lat": 50.817926889537, 
       "housenumber": "18", 
+      "lat": 50.817926889537, 
+      "lon": 3.23255292295211, 
       "pcode": 8501, 
-      "street": "Vrije-Aardstraat", 
-      "lon": 3.23255292295211
+      "street": "Vrije-Aardstraat"
     }
-  ], 
-  "name": "Vrije-Aardstraat"
+  ]
 }

@@ -1,39 +1,37 @@
 {
-  "pcode": 3290, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3290, 
-      "street": "Kaai", 
-      "housenumber": "1"
+      "street": "Kaai"
     }, 
     {
-      "lat": 50.98463386402379, 
       "housenumber": "2", 
+      "lat": 50.98463386402379, 
+      "lon": 5.049539068243424, 
       "pcode": 3290, 
-      "street": "Kaai", 
-      "lon": 5.049539068243424
+      "street": "Kaai"
     }, 
     {
-      "lat": 50.98466912982642, 
       "housenumber": "4", 
+      "lat": 50.98466912982642, 
+      "lon": 5.0490377023998345, 
       "pcode": 3290, 
-      "street": "Kaai", 
-      "lon": 5.0490377023998345
+      "street": "Kaai"
     }, 
     {
-      "lat": 50.984745938036745, 
       "housenumber": "5", 
+      "lat": 50.984745938036745, 
+      "lon": 5.0488914162616245, 
       "pcode": 3290, 
-      "street": "Kaai", 
-      "lon": 5.0488914162616245
+      "street": "Kaai"
     }, 
     {
-      "lat": 50.985110238956864, 
       "housenumber": "6", 
+      "lat": 50.985110238956864, 
+      "lon": 5.049426933114934, 
       "pcode": 3290, 
-      "street": "Kaai", 
-      "lon": 5.049426933114934
+      "street": "Kaai"
     }
-  ], 
-  "name": "Kaai"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 2880, 
   "addresses": [
     {
-      "lat": 51.10647449212477, 
       "housenumber": "1", 
+      "lat": 51.10647449212477, 
+      "lon": 4.297330472388982, 
       "pcode": 2880, 
-      "street": "Paardenweg", 
-      "lon": 4.297330472388982
+      "street": "Paardenweg"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2880, 
-      "street": "Paardenweg", 
-      "housenumber": "3"
+      "street": "Paardenweg"
     }
-  ], 
-  "name": "Paardenweg"
+  ]
 }

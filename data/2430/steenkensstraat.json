@@ -1,25 +1,23 @@
 {
-  "pcode": 2430, 
   "addresses": [
     {
-      "lat": 51.08582024995142, 
       "housenumber": "1", 
+      "lat": 51.08582024995142, 
+      "lon": 4.982109059661113, 
       "pcode": 2430, 
-      "street": "Steenkensstraat", 
-      "lon": 4.982109059661113
+      "street": "Steenkensstraat"
     }, 
     {
-      "lat": 51.08366974797923, 
       "housenumber": "2", 
+      "lat": 51.08366974797923, 
+      "lon": 4.978740088992249, 
       "pcode": 2430, 
-      "street": "Steenkensstraat", 
-      "lon": 4.978740088992249
+      "street": "Steenkensstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2430, 
-      "street": "Steenkensstraat", 
-      "housenumber": "3"
+      "street": "Steenkensstraat"
     }
-  ], 
-  "name": "Steenkensstraat"
+  ]
 }

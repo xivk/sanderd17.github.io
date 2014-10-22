@@ -1,27 +1,25 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.89645438994576, 
       "housenumber": "1", 
+      "lat": 50.89645438994576, 
+      "lon": 5.312449624394891, 
       "pcode": 3500, 
-      "street": "Pootveldstraat", 
-      "lon": 5.312449624394891
+      "street": "Pootveldstraat"
     }, 
     {
-      "lat": 50.89625050525834, 
       "housenumber": "2", 
+      "lat": 50.89625050525834, 
+      "lon": 5.312928707512039, 
       "pcode": 3500, 
-      "street": "Pootveldstraat", 
-      "lon": 5.312928707512039
+      "street": "Pootveldstraat"
     }, 
     {
-      "lat": 50.896737269741955, 
       "housenumber": "5", 
+      "lat": 50.896737269741955, 
+      "lon": 5.31282321394094, 
       "pcode": 3500, 
-      "street": "Pootveldstraat", 
-      "lon": 5.31282321394094
+      "street": "Pootveldstraat"
     }
-  ], 
-  "name": "Pootveldstraat"
+  ]
 }

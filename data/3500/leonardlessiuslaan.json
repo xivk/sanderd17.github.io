@@ -1,25 +1,23 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.92688338866048, 
       "housenumber": "1", 
+      "lat": 50.92688338866048, 
+      "lon": 5.351398986703071, 
       "pcode": 3500, 
-      "street": "Leonard Lessiuslaan", 
-      "lon": 5.351398986703071
+      "street": "Leonard Lessiuslaan"
     }, 
     {
-      "lat": 50.926714167157854, 
       "housenumber": "2", 
+      "lat": 50.926714167157854, 
+      "lon": 5.349886759353541, 
       "pcode": 3500, 
-      "street": "Leonard Lessiuslaan", 
-      "lon": 5.349886759353541
+      "street": "Leonard Lessiuslaan"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3500, 
-      "street": "Leonard Lessiuslaan", 
-      "housenumber": "4"
+      "street": "Leonard Lessiuslaan"
     }
-  ], 
-  "name": "Leonard Lessiuslaan"
+  ]
 }

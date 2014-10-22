@@ -1,32 +1,30 @@
 {
-  "pcode": 9680, 
   "addresses": [
     {
-      "lat": 50.80932366477943, 
       "housenumber": "1", 
+      "lat": 50.80932366477943, 
+      "lon": 3.617601479766436, 
       "pcode": 9680, 
-      "street": "Krommestraat", 
-      "lon": 3.617601479766436
+      "street": "Krommestraat"
     }, 
     {
-      "lat": 50.815017137171395, 
       "housenumber": "2", 
+      "lat": 50.815017137171395, 
+      "lon": 3.6173877556694003, 
       "pcode": 9680, 
-      "street": "Krommestraat", 
-      "lon": 3.6173877556694003
+      "street": "Krommestraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 9680, 
-      "street": "Krommestraat", 
-      "housenumber": "2A"
+      "street": "Krommestraat"
     }, 
     {
-      "lat": 50.81279817741834, 
       "housenumber": "3", 
+      "lat": 50.81279817741834, 
+      "lon": 3.6183232264125182, 
       "pcode": 9680, 
-      "street": "Krommestraat", 
-      "lon": 3.6183232264125182
+      "street": "Krommestraat"
     }
-  ], 
-  "name": "Krommestraat"
+  ]
 }

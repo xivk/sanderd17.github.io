@@ -1,20 +1,18 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.238432393326775, 
       "housenumber": "2", 
+      "lat": 51.238432393326775, 
+      "lon": 3.245952221091883, 
       "pcode": 8000, 
-      "street": "Pauverleutestraat", 
-      "lon": 3.245952221091883
+      "street": "Pauverleutestraat"
     }, 
     {
-      "lat": 51.2386332320125, 
       "housenumber": "51", 
+      "lat": 51.2386332320125, 
+      "lon": 3.237590015103661, 
       "pcode": 8000, 
-      "street": "Pauverleutestraat", 
-      "lon": 3.237590015103661
+      "street": "Pauverleutestraat"
     }
-  ], 
-  "name": "Pauverleutestraat"
+  ]
 }

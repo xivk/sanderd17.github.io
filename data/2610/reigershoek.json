@@ -1,20 +1,18 @@
 {
-  "pcode": 2610, 
   "addresses": [
     {
-      "lat": 51.15413309764777, 
       "housenumber": "3", 
+      "lat": 51.15413309764777, 
+      "lon": 4.363911692355759, 
       "pcode": 2610, 
-      "street": "Reigershoek", 
-      "lon": 4.363911692355759
+      "street": "Reigershoek"
     }, 
     {
-      "lat": 51.154091430126236, 
       "housenumber": "4", 
+      "lat": 51.154091430126236, 
+      "lon": 4.3652593643074145, 
       "pcode": 2610, 
-      "street": "Reigershoek", 
-      "lon": 4.3652593643074145
+      "street": "Reigershoek"
     }
-  ], 
-  "name": "Reigershoek"
+  ]
 }

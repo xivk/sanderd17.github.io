@@ -1,27 +1,25 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.88895654734152, 
       "housenumber": "1", 
+      "lat": 50.88895654734152, 
+      "lon": 3.6179737038058093, 
       "pcode": 9700, 
-      "street": "Stropstraat", 
-      "lon": 3.6179737038058093
+      "street": "Stropstraat"
     }, 
     {
-      "lat": 50.88871260974449, 
       "housenumber": "2", 
+      "lat": 50.88871260974449, 
+      "lon": 3.626897524565704, 
       "pcode": 9700, 
-      "street": "Stropstraat", 
-      "lon": 3.626897524565704
+      "street": "Stropstraat"
     }, 
     {
-      "lat": 50.88816201667266, 
       "housenumber": "3", 
+      "lat": 50.88816201667266, 
+      "lon": 3.6298563181565173, 
       "pcode": 9700, 
-      "street": "Stropstraat", 
-      "lon": 3.6298563181565173
+      "street": "Stropstraat"
     }
-  ], 
-  "name": "Stropstraat"
+  ]
 }

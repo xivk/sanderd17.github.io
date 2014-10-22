@@ -1,54 +1,52 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05373537086775, 
       "housenumber": "1", 
+      "lat": 51.05373537086775, 
+      "lon": 3.7180841436812737, 
       "pcode": 9000, 
-      "street": "Watergraafstraat", 
-      "lon": 3.7180841436812737
+      "street": "Watergraafstraat"
     }, 
     {
-      "lat": 51.05290472908921, 
       "housenumber": "10", 
+      "lat": 51.05290472908921, 
+      "lon": 3.7176223099286743, 
       "pcode": 9000, 
-      "street": "Watergraafstraat", 
-      "lon": 3.7176223099286743
+      "street": "Watergraafstraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 9000, 
-      "street": "Watergraafstraat", 
-      "housenumber": "1A"
+      "street": "Watergraafstraat"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 9000, 
-      "street": "Watergraafstraat", 
-      "housenumber": "1B"
+      "street": "Watergraafstraat"
     }, 
     {
-      "lat": 51.05380709495493, 
       "housenumber": "2", 
+      "lat": 51.05380709495493, 
+      "lon": 3.717691350553995, 
       "pcode": 9000, 
-      "street": "Watergraafstraat", 
-      "lon": 3.717691350553995
+      "street": "Watergraafstraat"
     }, 
     {
-      "lat": 51.05339714944815, 
       "housenumber": "3", 
+      "lat": 51.05339714944815, 
+      "lon": 3.7178154273467436, 
       "pcode": 9000, 
-      "street": "Watergraafstraat", 
-      "lon": 3.7178154273467436
+      "street": "Watergraafstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9000, 
-      "street": "Watergraafstraat", 
-      "housenumber": "4"
+      "street": "Watergraafstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9000, 
-      "street": "Watergraafstraat", 
-      "housenumber": "5"
+      "street": "Watergraafstraat"
     }
-  ], 
-  "name": "Watergraafstraat"
+  ]
 }

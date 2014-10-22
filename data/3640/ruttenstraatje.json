@@ -1,20 +1,18 @@
 {
-  "pcode": 3640, 
   "addresses": [
     {
-      "lat": 51.17578143438864, 
       "housenumber": "2", 
+      "lat": 51.17578143438864, 
+      "lon": 5.728735003686321, 
       "pcode": 3640, 
-      "street": "Ruttenstraatje", 
-      "lon": 5.728735003686321
+      "street": "Ruttenstraatje"
     }, 
     {
-      "lat": 51.17649336583186, 
       "housenumber": "3", 
+      "lat": 51.17649336583186, 
+      "lon": 5.727320978555966, 
       "pcode": 3640, 
-      "street": "Ruttenstraatje", 
-      "lon": 5.727320978555966
+      "street": "Ruttenstraatje"
     }
-  ], 
-  "name": "Ruttenstraatje"
+  ]
 }

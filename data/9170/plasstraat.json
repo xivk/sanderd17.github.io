@@ -1,20 +1,18 @@
 {
-  "pcode": 9170, 
   "addresses": [
     {
-      "lat": 51.2331896255755, 
       "housenumber": "1", 
+      "lat": 51.2331896255755, 
+      "lon": 4.112483236160747, 
       "pcode": 9170, 
-      "street": "Plasstraat", 
-      "lon": 4.112483236160747
+      "street": "Plasstraat"
     }, 
     {
-      "lat": 51.233801388966505, 
       "housenumber": "2", 
+      "lat": 51.233801388966505, 
+      "lon": 4.103657114151786, 
       "pcode": 9170, 
-      "street": "Plasstraat", 
-      "lon": 4.103657114151786
+      "street": "Plasstraat"
     }
-  ], 
-  "name": "Plasstraat"
+  ]
 }

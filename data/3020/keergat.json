@@ -1,20 +1,18 @@
 {
-  "pcode": 3020, 
   "addresses": [
     {
-      "lat": 50.90950392856848, 
       "housenumber": "2", 
+      "lat": 50.90950392856848, 
+      "lon": 4.665643965899344, 
       "pcode": 3020, 
-      "street": "Keergat", 
-      "lon": 4.665643965899344
+      "street": "Keergat"
     }, 
     {
-      "lat": 50.90960541050515, 
       "housenumber": "3", 
+      "lat": 50.90960541050515, 
+      "lon": 4.665256871372117, 
       "pcode": 3020, 
-      "street": "Keergat", 
-      "lon": 4.665256871372117
+      "street": "Keergat"
     }
-  ], 
-  "name": "Keergat"
+  ]
 }

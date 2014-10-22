@@ -1,20 +1,18 @@
 {
-  "pcode": 2360, 
   "addresses": [
     {
-      "lat": 51.309352275990776, 
       "housenumber": "3", 
+      "lat": 51.309352275990776, 
+      "lon": 5.037963871686917, 
       "pcode": 2360, 
-      "street": "Kaeyputtenstraat", 
-      "lon": 5.037963871686917
+      "street": "Kaeyputtenstraat"
     }, 
     {
-      "lat": 51.308972774135086, 
       "housenumber": "5", 
+      "lat": 51.308972774135086, 
+      "lon": 5.03694765866749, 
       "pcode": 2360, 
-      "street": "Kaeyputtenstraat", 
-      "lon": 5.03694765866749
+      "street": "Kaeyputtenstraat"
     }
-  ], 
-  "name": "Kaeyputtenstraat"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 3680, 
   "addresses": [
     {
-      "lat": 51.07678404463206, 
       "housenumber": "10", 
+      "lat": 51.07678404463206, 
+      "lon": 5.673374178089582, 
       "pcode": 3680, 
-      "street": "Volmolenstraat", 
-      "lon": 5.673374178089582
+      "street": "Volmolenstraat"
     }, 
     {
-      "lat": 51.076826949068646, 
       "housenumber": "11", 
+      "lat": 51.076826949068646, 
+      "lon": 5.673826779764427, 
       "pcode": 3680, 
-      "street": "Volmolenstraat", 
-      "lon": 5.673826779764427
+      "street": "Volmolenstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3680, 
-      "street": "Volmolenstraat", 
-      "housenumber": "2"
+      "street": "Volmolenstraat"
     }, 
     {
-      "lat": 51.07742628315753, 
       "housenumber": "9", 
+      "lat": 51.07742628315753, 
+      "lon": 5.673993221624962, 
       "pcode": 3680, 
-      "street": "Volmolenstraat", 
-      "lon": 5.673993221624962
+      "street": "Volmolenstraat"
     }
-  ], 
-  "name": "Volmolenstraat"
+  ]
 }

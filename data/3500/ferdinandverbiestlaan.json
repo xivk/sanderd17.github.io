@@ -1,30 +1,28 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.92683658972637, 
       "housenumber": "2", 
+      "lat": 50.92683658972637, 
+      "lon": 5.3520706981775925, 
       "pcode": 3500, 
-      "street": "Ferdinand Verbiestlaan", 
-      "lon": 5.3520706981775925
+      "street": "Ferdinand Verbiestlaan"
     }, 
     {
-      "lat": 50.92673167448279, 
       "housenumber": "4", 
+      "lat": 50.92673167448279, 
+      "lon": 5.351995667126943, 
       "pcode": 3500, 
-      "street": "Ferdinand Verbiestlaan", 
-      "lon": 5.351995667126943
+      "street": "Ferdinand Verbiestlaan"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3500, 
-      "street": "Ferdinand Verbiestlaan", 
-      "housenumber": "5"
+      "street": "Ferdinand Verbiestlaan"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3500, 
-      "street": "Ferdinand Verbiestlaan", 
-      "housenumber": "7"
+      "street": "Ferdinand Verbiestlaan"
     }
-  ], 
-  "name": "Ferdinand Verbiestlaan"
+  ]
 }

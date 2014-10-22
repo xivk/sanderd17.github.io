@@ -1,30 +1,28 @@
 {
-  "pcode": 8211, 
   "addresses": [
     {
-      "lat": 51.141201111372816, 
       "housenumber": "2", 
+      "lat": 51.141201111372816, 
+      "lon": 3.0786958647484948, 
       "pcode": 8211, 
-      "street": "Moerletestraat", 
-      "lon": 3.0786958647484948
+      "street": "Moerletestraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8211, 
-      "street": "Moerletestraat", 
-      "housenumber": "4"
+      "street": "Moerletestraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8211, 
-      "street": "Moerletestraat", 
-      "housenumber": "5"
+      "street": "Moerletestraat"
     }, 
     {
-      "lat": 51.14244570685792, 
       "housenumber": "6", 
+      "lat": 51.14244570685792, 
+      "lon": 3.0716805813722003, 
       "pcode": 8211, 
-      "street": "Moerletestraat", 
-      "lon": 3.0716805813722003
+      "street": "Moerletestraat"
     }
-  ], 
-  "name": "Moerletestraat"
+  ]
 }

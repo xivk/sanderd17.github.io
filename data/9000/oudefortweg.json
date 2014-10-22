@@ -1,18 +1,16 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9000, 
-      "street": "Oude Fortweg", 
-      "housenumber": "1"
+      "street": "Oude Fortweg"
     }, 
     {
-      "lat": 51.035193618782245, 
       "housenumber": "3", 
+      "lat": 51.035193618782245, 
+      "lon": 3.717897465456352, 
       "pcode": 9000, 
-      "street": "Oude Fortweg", 
-      "lon": 3.717897465456352
+      "street": "Oude Fortweg"
     }
-  ], 
-  "name": "Oude Fortweg"
+  ]
 }

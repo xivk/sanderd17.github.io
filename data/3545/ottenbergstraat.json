@@ -1,27 +1,25 @@
 {
-  "pcode": 3545, 
   "addresses": [
     {
-      "lat": 50.99189762515523, 
       "housenumber": "1", 
+      "lat": 50.99189762515523, 
+      "lon": 5.1237520897726885, 
       "pcode": 3545, 
-      "street": "Ottenbergstraat", 
-      "lon": 5.1237520897726885
+      "street": "Ottenbergstraat"
     }, 
     {
-      "lat": 50.99070173723843, 
       "housenumber": "2", 
+      "lat": 50.99070173723843, 
+      "lon": 5.1244380102371405, 
       "pcode": 3545, 
-      "street": "Ottenbergstraat", 
-      "lon": 5.1244380102371405
+      "street": "Ottenbergstraat"
     }, 
     {
-      "lat": 50.99216332627714, 
       "housenumber": "3", 
+      "lat": 50.99216332627714, 
+      "lon": 5.122005484284797, 
       "pcode": 3545, 
-      "street": "Ottenbergstraat", 
-      "lon": 5.122005484284797
+      "street": "Ottenbergstraat"
     }
-  ], 
-  "name": "Ottenbergstraat"
+  ]
 }

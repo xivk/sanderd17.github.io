@@ -1,20 +1,18 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.779433975227775, 
       "housenumber": "10", 
+      "lat": 50.779433975227775, 
+      "lon": 5.520978998340941, 
       "pcode": 3700, 
-      "street": "Strikstraat", 
-      "lon": 5.520978998340941
+      "street": "Strikstraat"
     }, 
     {
-      "lat": 50.7790329966973, 
       "housenumber": "12", 
+      "lat": 50.7790329966973, 
+      "lon": 5.5210785102207005, 
       "pcode": 3700, 
-      "street": "Strikstraat", 
-      "lon": 5.5210785102207005
+      "street": "Strikstraat"
     }
-  ], 
-  "name": "Strikstraat"
+  ]
 }

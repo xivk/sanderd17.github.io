@@ -1,34 +1,32 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.96996314135944, 
       "housenumber": "1", 
+      "lat": 50.96996314135944, 
+      "lon": 3.1402704845543514, 
       "pcode": 8800, 
-      "street": "Katteweg", 
-      "lon": 3.1402704845543514
+      "street": "Katteweg"
     }, 
     {
-      "lat": 50.969684034068976, 
       "housenumber": "2", 
+      "lat": 50.969684034068976, 
+      "lon": 3.14073983479032, 
       "pcode": 8800, 
-      "street": "Katteweg", 
-      "lon": 3.14073983479032
+      "street": "Katteweg"
     }, 
     {
-      "lat": 50.96999693747882, 
       "housenumber": "3", 
+      "lat": 50.96999693747882, 
+      "lon": 3.14041611486074, 
       "pcode": 8800, 
-      "street": "Katteweg", 
-      "lon": 3.14041611486074
+      "street": "Katteweg"
     }, 
     {
-      "lat": 50.97015248392542, 
       "housenumber": "5", 
+      "lat": 50.97015248392542, 
+      "lon": 3.140598140900811, 
       "pcode": 8800, 
-      "street": "Katteweg", 
-      "lon": 3.140598140900811
+      "street": "Katteweg"
     }
-  ], 
-  "name": "Katteweg"
+  ]
 }

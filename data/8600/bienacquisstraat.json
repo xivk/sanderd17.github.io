@@ -1,20 +1,18 @@
 {
-  "pcode": 8600, 
   "addresses": [
     {
-      "lat": 51.035161546352924, 
       "housenumber": "1", 
+      "lat": 51.035161546352924, 
+      "lon": 2.805800601710683, 
       "pcode": 8600, 
-      "street": "Bien Acquisstraat", 
-      "lon": 2.805800601710683
+      "street": "Bien Acquisstraat"
     }, 
     {
-      "lat": 51.0307806031699, 
       "housenumber": "2", 
+      "lat": 51.0307806031699, 
+      "lon": 2.8036614756017944, 
       "pcode": 8600, 
-      "street": "Bien Acquisstraat", 
-      "lon": 2.8036614756017944
+      "street": "Bien Acquisstraat"
     }
-  ], 
-  "name": "Bien Acquisstraat"
+  ]
 }

@@ -1,52 +1,50 @@
 {
-  "pcode": 3910, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3910, 
-      "street": "Laukenshof", 
-      "housenumber": "1"
+      "street": "Laukenshof"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3910, 
-      "street": "Laukenshof", 
-      "housenumber": "2"
+      "street": "Laukenshof"
     }, 
     {
-      "lat": 51.23081174395127, 
       "housenumber": "3", 
+      "lat": 51.23081174395127, 
+      "lon": 5.429003908605953, 
       "pcode": 3910, 
-      "street": "Laukenshof", 
-      "lon": 5.429003908605953
+      "street": "Laukenshof"
     }, 
     {
-      "lat": 51.2310341177197, 
       "housenumber": "4", 
+      "lat": 51.2310341177197, 
+      "lon": 5.428825844496215, 
       "pcode": 3910, 
-      "street": "Laukenshof", 
-      "lon": 5.428825844496215
+      "street": "Laukenshof"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3910, 
-      "street": "Laukenshof", 
-      "housenumber": "5"
+      "street": "Laukenshof"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3910, 
-      "street": "Laukenshof", 
-      "housenumber": "6"
+      "street": "Laukenshof"
     }, 
     {
-      "lat": 51.23080384915223, 
       "housenumber": "7", 
+      "lat": 51.23080384915223, 
+      "lon": 5.428450919443716, 
       "pcode": 3910, 
-      "street": "Laukenshof", 
-      "lon": 5.428450919443716
+      "street": "Laukenshof"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3910, 
-      "street": "Laukenshof", 
-      "housenumber": "8"
+      "street": "Laukenshof"
     }
-  ], 
-  "name": "Laukenshof"
+  ]
 }

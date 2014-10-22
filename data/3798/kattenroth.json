@@ -1,18 +1,16 @@
 {
-  "pcode": 3798, 
   "addresses": [
     {
-      "lat": 50.75578382618744, 
       "housenumber": "1", 
+      "lat": 50.75578382618744, 
+      "lon": 5.808558797314693, 
       "pcode": 3798, 
-      "street": "Kattenroth", 
-      "lon": 5.808558797314693
+      "street": "Kattenroth"
     }, 
     {
+      "housenumber": "357", 
       "pcode": 3798, 
-      "street": "Kattenroth", 
-      "housenumber": "357"
+      "street": "Kattenroth"
     }
-  ], 
-  "name": "Kattenroth"
+  ]
 }

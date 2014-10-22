@@ -1,27 +1,25 @@
 {
-  "pcode": 8900, 
   "addresses": [
     {
-      "lat": 50.813883177255974, 
       "housenumber": "1", 
+      "lat": 50.813883177255974, 
+      "lon": 2.8065239917071687, 
       "pcode": 8900, 
-      "street": "Molendreef", 
-      "lon": 2.8065239917071687
+      "street": "Molendreef"
     }, 
     {
-      "lat": 50.81010093029189, 
       "housenumber": "3", 
+      "lat": 50.81010093029189, 
+      "lon": 2.808155687583145, 
       "pcode": 8900, 
-      "street": "Molendreef", 
-      "lon": 2.808155687583145
+      "street": "Molendreef"
     }, 
     {
-      "lat": 50.80880692439413, 
       "housenumber": "5", 
+      "lat": 50.80880692439413, 
+      "lon": 2.8090049331477753, 
       "pcode": 8900, 
-      "street": "Molendreef", 
-      "lon": 2.8090049331477753
+      "street": "Molendreef"
     }
-  ], 
-  "name": "Molendreef"
+  ]
 }

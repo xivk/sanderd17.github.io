@@ -1,18 +1,16 @@
 {
-  "pcode": 3221, 
   "addresses": [
     {
+      "housenumber": "5", 
       "pcode": 3221, 
-      "street": "Terheideveldweg", 
-      "housenumber": "5"
+      "street": "Terheideveldweg"
     }, 
     {
-      "lat": 50.94469630789607, 
       "housenumber": "7", 
+      "lat": 50.94469630789607, 
+      "lon": 4.845669888407452, 
       "pcode": 3221, 
-      "street": "Terheideveldweg", 
-      "lon": 4.845669888407452
+      "street": "Terheideveldweg"
     }
-  ], 
-  "name": "Terheideveldweg"
+  ]
 }

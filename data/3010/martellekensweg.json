@@ -1,27 +1,25 @@
 {
-  "pcode": 3010, 
   "addresses": [
     {
-      "lat": 50.89646215494529, 
       "housenumber": "1", 
+      "lat": 50.89646215494529, 
+      "lon": 4.744665880432216, 
       "pcode": 3010, 
-      "street": "Martellekensweg", 
-      "lon": 4.744665880432216
+      "street": "Martellekensweg"
     }, 
     {
-      "lat": 50.89662311691466, 
       "housenumber": "10", 
+      "lat": 50.89662311691466, 
+      "lon": 4.747247834620969, 
       "pcode": 3010, 
-      "street": "Martellekensweg", 
-      "lon": 4.747247834620969
+      "street": "Martellekensweg"
     }, 
     {
-      "lat": 50.89842871483775, 
       "housenumber": "50", 
+      "lat": 50.89842871483775, 
+      "lon": 4.7494782752705085, 
       "pcode": 3010, 
-      "street": "Martellekensweg", 
-      "lon": 4.7494782752705085
+      "street": "Martellekensweg"
     }
-  ], 
-  "name": "Martellekensweg"
+  ]
 }

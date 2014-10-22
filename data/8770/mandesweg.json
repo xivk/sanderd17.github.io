@@ -1,25 +1,23 @@
 {
-  "pcode": 8770, 
   "addresses": [
     {
-      "lat": 50.939229226109134, 
       "housenumber": "1", 
+      "lat": 50.939229226109134, 
+      "lon": 3.2701641611237893, 
       "pcode": 8770, 
-      "street": "Mandesweg", 
-      "lon": 3.2701641611237893
+      "street": "Mandesweg"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8770, 
-      "street": "Mandesweg", 
-      "housenumber": "4"
+      "street": "Mandesweg"
     }, 
     {
-      "lat": 50.940375055741086, 
       "housenumber": "6", 
+      "lat": 50.940375055741086, 
+      "lon": 3.270878829523386, 
       "pcode": 8770, 
-      "street": "Mandesweg", 
-      "lon": 3.270878829523386
+      "street": "Mandesweg"
     }
-  ], 
-  "name": "Mandesweg"
+  ]
 }

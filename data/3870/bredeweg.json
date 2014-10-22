@@ -1,18 +1,16 @@
 {
-  "pcode": 3870, 
   "addresses": [
     {
-      "lat": 50.76973252502548, 
       "housenumber": "1", 
+      "lat": 50.76973252502548, 
+      "lon": 5.308546823769924, 
       "pcode": 3870, 
-      "street": "Bredeweg", 
-      "lon": 5.308546823769924
+      "street": "Bredeweg"
     }, 
     {
+      "housenumber": "ZN", 
       "pcode": 3870, 
-      "street": "Bredeweg", 
-      "housenumber": "ZN"
+      "street": "Bredeweg"
     }
-  ], 
-  "name": "Bredeweg"
+  ]
 }

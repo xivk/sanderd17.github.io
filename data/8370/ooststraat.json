@@ -1,42 +1,40 @@
 {
-  "pcode": 8370, 
   "addresses": [
     {
+      "housenumber": "110", 
       "pcode": 8370, 
-      "street": "Ooststraat", 
-      "housenumber": "110"
+      "street": "Ooststraat"
     }, 
     {
-      "lat": 51.314133800601915, 
       "housenumber": "2", 
+      "lat": 51.314133800601915, 
+      "lon": 3.1405106262920364, 
       "pcode": 8370, 
-      "street": "Ooststraat", 
-      "lon": 3.1405106262920364
+      "street": "Ooststraat"
     }, 
     {
-      "lat": 51.314195765789115, 
       "housenumber": "4", 
+      "lat": 51.314195765789115, 
+      "lon": 3.1404960819517616, 
       "pcode": 8370, 
-      "street": "Ooststraat", 
-      "lon": 3.1404960819517616
+      "street": "Ooststraat"
     }, 
     {
-      "lat": 51.31425936185456, 
       "housenumber": "6", 
+      "lat": 51.31425936185456, 
+      "lon": 3.140448073122405, 
       "pcode": 8370, 
-      "street": "Ooststraat", 
-      "lon": 3.140448073122405
+      "street": "Ooststraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8370, 
-      "street": "Ooststraat", 
-      "housenumber": "7"
+      "street": "Ooststraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 8370, 
-      "street": "Ooststraat", 
-      "housenumber": "8"
+      "street": "Ooststraat"
     }
-  ], 
-  "name": "Ooststraat"
+  ]
 }

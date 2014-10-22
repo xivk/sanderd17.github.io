@@ -1,45 +1,43 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.81940056159859, 
       "housenumber": "1", 
+      "lat": 50.81940056159859, 
+      "lon": 4.945224011428556, 
       "pcode": 3300, 
-      "street": "Sporthalstraat", 
-      "lon": 4.945224011428556
+      "street": "Sporthalstraat"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 3300, 
-      "street": "Sporthalstraat", 
-      "housenumber": "10"
+      "street": "Sporthalstraat"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 3300, 
-      "street": "Sporthalstraat", 
-      "housenumber": "12"
+      "street": "Sporthalstraat"
     }, 
     {
+      "housenumber": "14", 
       "pcode": 3300, 
-      "street": "Sporthalstraat", 
-      "housenumber": "14"
+      "street": "Sporthalstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3300, 
-      "street": "Sporthalstraat", 
-      "housenumber": "6"
+      "street": "Sporthalstraat"
     }, 
     {
+      "housenumber": "6_1", 
       "pcode": 3300, 
-      "street": "Sporthalstraat", 
-      "housenumber": "6_1"
+      "street": "Sporthalstraat"
     }, 
     {
-      "lat": 50.81978961270642, 
       "housenumber": "8", 
+      "lat": 50.81978961270642, 
+      "lon": 4.943547927900123, 
       "pcode": 3300, 
-      "street": "Sporthalstraat", 
-      "lon": 4.943547927900123
+      "street": "Sporthalstraat"
     }
-  ], 
-  "name": "Sporthalstraat"
+  ]
 }

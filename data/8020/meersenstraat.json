@@ -1,27 +1,25 @@
 {
-  "pcode": 8020, 
   "addresses": [
     {
-      "lat": 51.110136083738986, 
       "housenumber": "1", 
+      "lat": 51.110136083738986, 
+      "lon": 3.206450596657897, 
       "pcode": 8020, 
-      "street": "Meersenstraat", 
-      "lon": 3.206450596657897
+      "street": "Meersenstraat"
     }, 
     {
-      "lat": 51.10918273257919, 
       "housenumber": "2", 
+      "lat": 51.10918273257919, 
+      "lon": 3.2085542916185172, 
       "pcode": 8020, 
-      "street": "Meersenstraat", 
-      "lon": 3.2085542916185172
+      "street": "Meersenstraat"
     }, 
     {
-      "lat": 51.10800681540311, 
       "housenumber": "4", 
+      "lat": 51.10800681540311, 
+      "lon": 3.207370910365237, 
       "pcode": 8020, 
-      "street": "Meersenstraat", 
-      "lon": 3.207370910365237
+      "street": "Meersenstraat"
     }
-  ], 
-  "name": "Meersenstraat"
+  ]
 }

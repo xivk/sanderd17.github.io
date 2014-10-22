@@ -1,20 +1,18 @@
 {
-  "pcode": 3460, 
   "addresses": [
     {
-      "lat": 50.944888733731446, 
       "housenumber": "1", 
+      "lat": 50.944888733731446, 
+      "lon": 4.983942764393704, 
       "pcode": 3460, 
-      "street": "Kerkhofweg", 
-      "lon": 4.983942764393704
+      "street": "Kerkhofweg"
     }, 
     {
-      "lat": 50.94442441778548, 
       "housenumber": "3", 
+      "lat": 50.94442441778548, 
+      "lon": 4.983926565271016, 
       "pcode": 3460, 
-      "street": "Kerkhofweg", 
-      "lon": 4.983926565271016
+      "street": "Kerkhofweg"
     }
-  ], 
-  "name": "Kerkhofweg"
+  ]
 }

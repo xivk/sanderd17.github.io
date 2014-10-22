@@ -1,32 +1,30 @@
 {
-  "pcode": 8730, 
   "addresses": [
     {
-      "lat": 51.16106365284468, 
       "housenumber": "1", 
+      "lat": 51.16106365284468, 
+      "lon": 3.35058050966782, 
       "pcode": 8730, 
-      "street": "Hogenakkerweg", 
-      "lon": 3.35058050966782
+      "street": "Hogenakkerweg"
     }, 
     {
-      "lat": 51.161265889015986, 
       "housenumber": "2", 
+      "lat": 51.161265889015986, 
+      "lon": 3.352498816734855, 
       "pcode": 8730, 
-      "street": "Hogenakkerweg", 
-      "lon": 3.352498816734855
+      "street": "Hogenakkerweg"
     }, 
     {
-      "lat": 51.16121758497507, 
       "housenumber": "3", 
+      "lat": 51.16121758497507, 
+      "lon": 3.3529447690036167, 
       "pcode": 8730, 
-      "street": "Hogenakkerweg", 
-      "lon": 3.3529447690036167
+      "street": "Hogenakkerweg"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8730, 
-      "street": "Hogenakkerweg", 
-      "housenumber": "4"
+      "street": "Hogenakkerweg"
     }
-  ], 
-  "name": "Hogenakkerweg"
+  ]
 }

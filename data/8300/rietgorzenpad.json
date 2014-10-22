@@ -1,20 +1,18 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.35213546107957, 
       "housenumber": "1", 
+      "lat": 51.35213546107957, 
+      "lon": 3.318950964568524, 
       "pcode": 8300, 
-      "street": "Rietgorzenpad", 
-      "lon": 3.318950964568524
+      "street": "Rietgorzenpad"
     }, 
     {
-      "lat": 51.35183521025167, 
       "housenumber": "2", 
+      "lat": 51.35183521025167, 
+      "lon": 3.319649364750062, 
       "pcode": 8300, 
-      "street": "Rietgorzenpad", 
-      "lon": 3.319649364750062
+      "street": "Rietgorzenpad"
     }
-  ], 
-  "name": "Rietgorzenpad"
+  ]
 }

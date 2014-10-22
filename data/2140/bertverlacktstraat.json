@@ -1,39 +1,37 @@
 {
-  "pcode": 2140, 
   "addresses": [
     {
-      "lat": 51.205157867484914, 
       "housenumber": "1", 
+      "lat": 51.205157867484914, 
+      "lon": 4.447819785926843, 
       "pcode": 2140, 
-      "street": "Bert Verlacktstraat", 
-      "lon": 4.447819785926843
+      "street": "Bert Verlacktstraat"
     }, 
     {
-      "lat": 51.205591690105344, 
       "housenumber": "2", 
+      "lat": 51.205591690105344, 
+      "lon": 4.447760145512881, 
       "pcode": 2140, 
-      "street": "Bert Verlacktstraat", 
-      "lon": 4.447760145512881
+      "street": "Bert Verlacktstraat"
     }, 
     {
-      "lat": 51.2052746823049, 
       "housenumber": "3", 
+      "lat": 51.2052746823049, 
+      "lon": 4.447337360207075, 
       "pcode": 2140, 
-      "street": "Bert Verlacktstraat", 
-      "lon": 4.447337360207075
+      "street": "Bert Verlacktstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2140, 
-      "street": "Bert Verlacktstraat", 
-      "housenumber": "4"
+      "street": "Bert Verlacktstraat"
     }, 
     {
-      "lat": 51.20557719797811, 
       "housenumber": "6", 
+      "lat": 51.20557719797811, 
+      "lon": 4.447790884209605, 
       "pcode": 2140, 
-      "street": "Bert Verlacktstraat", 
-      "lon": 4.447790884209605
+      "street": "Bert Verlacktstraat"
     }
-  ], 
-  "name": "Bert Verlacktstraat"
+  ]
 }

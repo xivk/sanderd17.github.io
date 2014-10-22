@@ -1,34 +1,32 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
-      "lat": 50.929222063207725, 
       "housenumber": "1", 
+      "lat": 50.929222063207725, 
+      "lon": 4.422323925120878, 
       "pcode": 1800, 
-      "street": "Marktstraat", 
-      "lon": 4.422323925120878
+      "street": "Marktstraat"
     }, 
     {
-      "lat": 50.929171169925695, 
       "housenumber": "2", 
+      "lat": 50.929171169925695, 
+      "lon": 4.421963422659267, 
       "pcode": 1800, 
-      "street": "Marktstraat", 
-      "lon": 4.421963422659267
+      "street": "Marktstraat"
     }, 
     {
-      "lat": 50.92925347319583, 
       "housenumber": "3", 
+      "lat": 50.92925347319583, 
+      "lon": 4.422243025066961, 
       "pcode": 1800, 
-      "street": "Marktstraat", 
-      "lon": 4.422243025066961
+      "street": "Marktstraat"
     }, 
     {
-      "lat": 50.92906348728103, 
       "housenumber": "4", 
+      "lat": 50.92906348728103, 
+      "lon": 4.42213911083797, 
       "pcode": 1800, 
-      "street": "Marktstraat", 
-      "lon": 4.42213911083797
+      "street": "Marktstraat"
     }
-  ], 
-  "name": "Marktstraat"
+  ]
 }

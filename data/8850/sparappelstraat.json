@@ -1,20 +1,18 @@
 {
-  "pcode": 8850, 
   "addresses": [
     {
-      "lat": 50.9708270851527, 
       "housenumber": "1", 
+      "lat": 50.9708270851527, 
+      "lon": 3.229314446728228, 
       "pcode": 8850, 
-      "street": "Sparappelstraat", 
-      "lon": 3.229314446728228
+      "street": "Sparappelstraat"
     }, 
     {
-      "lat": 50.97122373112549, 
       "housenumber": "3", 
+      "lat": 50.97122373112549, 
+      "lon": 3.2298248098004074, 
       "pcode": 8850, 
-      "street": "Sparappelstraat", 
-      "lon": 3.2298248098004074
+      "street": "Sparappelstraat"
     }
-  ], 
-  "name": "Sparappelstraat"
+  ]
 }

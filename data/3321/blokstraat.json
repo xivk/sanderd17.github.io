@@ -1,20 +1,18 @@
 {
-  "pcode": 3321, 
   "addresses": [
     {
-      "lat": 50.76623342841012, 
       "housenumber": "1", 
+      "lat": 50.76623342841012, 
+      "lon": 4.925213738226462, 
       "pcode": 3321, 
-      "street": "Blokstraat", 
-      "lon": 4.925213738226462
+      "street": "Blokstraat"
     }, 
     {
-      "lat": 50.765251895991014, 
       "housenumber": "2", 
+      "lat": 50.765251895991014, 
+      "lon": 4.924194553795265, 
       "pcode": 3321, 
-      "street": "Blokstraat", 
-      "lon": 4.924194553795265
+      "street": "Blokstraat"
     }
-  ], 
-  "name": "Blokstraat"
+  ]
 }

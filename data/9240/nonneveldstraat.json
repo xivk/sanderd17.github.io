@@ -1,20 +1,18 @@
 {
-  "pcode": 9240, 
   "addresses": [
     {
-      "lat": 51.05632729308512, 
       "housenumber": "1", 
+      "lat": 51.05632729308512, 
+      "lon": 4.015508621813081, 
       "pcode": 9240, 
-      "street": "Nonneveldstraat", 
-      "lon": 4.015508621813081
+      "street": "Nonneveldstraat"
     }, 
     {
-      "lat": 51.056212337981286, 
       "housenumber": "3", 
+      "lat": 51.056212337981286, 
+      "lon": 4.014973196546353, 
       "pcode": 9240, 
-      "street": "Nonneveldstraat", 
-      "lon": 4.014973196546353
+      "street": "Nonneveldstraat"
     }
-  ], 
-  "name": "Nonneveldstraat"
+  ]
 }

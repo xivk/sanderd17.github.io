@@ -1,20 +1,18 @@
 {
-  "pcode": 3370, 
   "addresses": [
     {
-      "lat": 50.85993248228427, 
       "housenumber": "2", 
+      "lat": 50.85993248228427, 
+      "lon": 4.8410707299081315, 
       "pcode": 3370, 
-      "street": "Hertbosstraat", 
-      "lon": 4.8410707299081315
+      "street": "Hertbosstraat"
     }, 
     {
-      "lat": 50.85754187931615, 
       "housenumber": "4", 
+      "lat": 50.85754187931615, 
+      "lon": 4.840553118461569, 
       "pcode": 3370, 
-      "street": "Hertbosstraat", 
-      "lon": 4.840553118461569
+      "street": "Hertbosstraat"
     }
-  ], 
-  "name": "Hertbosstraat"
+  ]
 }

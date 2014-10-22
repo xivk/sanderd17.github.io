@@ -1,32 +1,30 @@
 {
-  "pcode": 9130, 
   "addresses": [
     {
-      "lat": 51.27433095240374, 
       "housenumber": "2", 
+      "lat": 51.27433095240374, 
+      "lon": 4.194366001815707, 
       "pcode": 9130, 
-      "street": "Drijdijk", 
-      "lon": 4.194366001815707
+      "street": "Drijdijk"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9130, 
-      "street": "Drijdijk", 
-      "housenumber": "3"
+      "street": "Drijdijk"
     }, 
     {
-      "lat": 51.2747844863782, 
       "housenumber": "3A", 
+      "lat": 51.2747844863782, 
+      "lon": 4.195156322807771, 
       "pcode": 9130, 
-      "street": "Drijdijk", 
-      "lon": 4.195156322807771
+      "street": "Drijdijk"
     }, 
     {
-      "lat": 51.27469614127808, 
       "housenumber": "4", 
+      "lat": 51.27469614127808, 
+      "lon": 4.195964424521744, 
       "pcode": 9130, 
-      "street": "Drijdijk", 
-      "lon": 4.195964424521744
+      "street": "Drijdijk"
     }
-  ], 
-  "name": "Drijdijk"
+  ]
 }

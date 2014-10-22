@@ -1,20 +1,18 @@
 {
-  "pcode": 9660, 
   "addresses": [
     {
-      "lat": 50.822280093190145, 
       "housenumber": "1", 
+      "lat": 50.822280093190145, 
+      "lon": 3.754304590790327, 
       "pcode": 9660, 
-      "street": "Miegelweg", 
-      "lon": 3.754304590790327
+      "street": "Miegelweg"
     }, 
     {
-      "lat": 50.82468575334128, 
       "housenumber": "3", 
+      "lat": 50.82468575334128, 
+      "lon": 3.756362572620786, 
       "pcode": 9660, 
-      "street": "Miegelweg", 
-      "lon": 3.756362572620786
+      "street": "Miegelweg"
     }
-  ], 
-  "name": "Miegelweg"
+  ]
 }

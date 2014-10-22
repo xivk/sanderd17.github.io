@@ -1,20 +1,18 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.34174117195356, 
       "housenumber": "1", 
+      "lat": 51.34174117195356, 
+      "lon": 3.2863282544023655, 
       "pcode": 8300, 
-      "street": "Pastoor Opdedrinckplein", 
-      "lon": 3.2863282544023655
+      "street": "Pastoor Opdedrinckplein"
     }, 
     {
-      "lat": 51.3415874805016, 
       "housenumber": "1A", 
+      "lat": 51.3415874805016, 
+      "lon": 3.2869116482658756, 
       "pcode": 8300, 
-      "street": "Pastoor Opdedrinckplein", 
-      "lon": 3.2869116482658756
+      "street": "Pastoor Opdedrinckplein"
     }
-  ], 
-  "name": "Pastoor Opdedrinckplein"
+  ]
 }

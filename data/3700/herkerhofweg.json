@@ -1,20 +1,18 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.804532727920034, 
       "housenumber": "17", 
+      "lat": 50.804532727920034, 
+      "lon": 5.409250370726012, 
       "pcode": 3700, 
-      "street": "Herkerhofweg", 
-      "lon": 5.409250370726012
+      "street": "Herkerhofweg"
     }, 
     {
-      "lat": 50.80182380981797, 
       "housenumber": "55", 
+      "lat": 50.80182380981797, 
+      "lon": 5.40822697313699, 
       "pcode": 3700, 
-      "street": "Herkerhofweg", 
-      "lon": 5.40822697313699
+      "street": "Herkerhofweg"
     }
-  ], 
-  "name": "Herkerhofweg"
+  ]
 }

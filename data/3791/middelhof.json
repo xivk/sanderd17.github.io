@@ -1,20 +1,18 @@
 {
-  "pcode": 3791, 
   "addresses": [
     {
-      "lat": 50.73688236856405, 
       "housenumber": "1", 
+      "lat": 50.73688236856405, 
+      "lon": 5.894751682882549, 
       "pcode": 3791, 
-      "street": "Middelhof", 
-      "lon": 5.894751682882549
+      "street": "Middelhof"
     }, 
     {
-      "lat": 50.736821270996636, 
       "housenumber": "8", 
+      "lat": 50.736821270996636, 
+      "lon": 5.894899755015494, 
       "pcode": 3791, 
-      "street": "Middelhof", 
-      "lon": 5.894899755015494
+      "street": "Middelhof"
     }
-  ], 
-  "name": "Middelhof"
+  ]
 }

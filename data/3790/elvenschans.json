@@ -1,18 +1,16 @@
 {
-  "pcode": 3790, 
   "addresses": [
     {
-      "lat": 50.75601968706115, 
       "housenumber": "1", 
+      "lat": 50.75601968706115, 
+      "lon": 5.687000739044687, 
       "pcode": 3790, 
-      "street": "Elvenschans", 
-      "lon": 5.687000739044687
+      "street": "Elvenschans"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3790, 
-      "street": "Elvenschans", 
-      "housenumber": "8"
+      "street": "Elvenschans"
     }
-  ], 
-  "name": "Elvenschans"
+  ]
 }

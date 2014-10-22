@@ -1,32 +1,30 @@
 {
-  "pcode": 9660, 
   "addresses": [
     {
-      "lat": 50.81374089614424, 
       "housenumber": "1", 
+      "lat": 50.81374089614424, 
+      "lon": 3.731044404546877, 
       "pcode": 9660, 
-      "street": "Loofweg", 
-      "lon": 3.731044404546877
+      "street": "Loofweg"
     }, 
     {
-      "lat": 50.814208340934194, 
       "housenumber": "1A", 
+      "lat": 50.814208340934194, 
+      "lon": 3.7310055791555947, 
       "pcode": 9660, 
-      "street": "Loofweg", 
-      "lon": 3.7310055791555947
+      "street": "Loofweg"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9660, 
-      "street": "Loofweg", 
-      "housenumber": "2"
+      "street": "Loofweg"
     }, 
     {
-      "lat": 50.813935759658605, 
       "housenumber": "3", 
+      "lat": 50.813935759658605, 
+      "lon": 3.7312028218429933, 
       "pcode": 9660, 
-      "street": "Loofweg", 
-      "lon": 3.7312028218429933
+      "street": "Loofweg"
     }
-  ], 
-  "name": "Loofweg"
+  ]
 }

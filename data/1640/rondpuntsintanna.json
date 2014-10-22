@@ -1,23 +1,21 @@
 {
-  "pcode": 1640, 
   "addresses": [
     {
+      "housenumber": "171", 
       "pcode": 1640, 
-      "street": "Rondpunt-Sint-Anna", 
-      "housenumber": "171"
+      "street": "Rondpunt-Sint-Anna"
     }, 
     {
+      "housenumber": "187", 
       "pcode": 1640, 
-      "street": "Rondpunt-Sint-Anna", 
-      "housenumber": "187"
+      "street": "Rondpunt-Sint-Anna"
     }, 
     {
-      "lat": 50.750602174575924, 
       "housenumber": "3", 
+      "lat": 50.750602174575924, 
+      "lon": 4.376500776882819, 
       "pcode": 1640, 
-      "street": "Rondpunt-Sint-Anna", 
-      "lon": 4.376500776882819
+      "street": "Rondpunt-Sint-Anna"
     }
-  ], 
-  "name": "Rondpunt-Sint-Anna"
+  ]
 }

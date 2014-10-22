@@ -1,20 +1,18 @@
 {
-  "pcode": 3370, 
   "addresses": [
     {
-      "lat": 50.86745706223176, 
       "housenumber": "2", 
+      "lat": 50.86745706223176, 
+      "lon": 4.863492657922933, 
       "pcode": 3370, 
-      "street": "Haarbeekweg", 
-      "lon": 4.863492657922933
+      "street": "Haarbeekweg"
     }, 
     {
-      "lat": 50.86743496014232, 
       "housenumber": "4", 
+      "lat": 50.86743496014232, 
+      "lon": 4.862935837084238, 
       "pcode": 3370, 
-      "street": "Haarbeekweg", 
-      "lon": 4.862935837084238
+      "street": "Haarbeekweg"
     }
-  ], 
-  "name": "Haarbeekweg"
+  ]
 }

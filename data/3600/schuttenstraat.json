@@ -1,25 +1,23 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
+      "housenumber": "15", 
       "pcode": 3600, 
-      "street": "Schuttenstraat", 
-      "housenumber": "15"
+      "street": "Schuttenstraat"
     }, 
     {
-      "lat": 50.967841771601776, 
       "housenumber": "5", 
+      "lat": 50.967841771601776, 
+      "lon": 5.52597626684073, 
       "pcode": 3600, 
-      "street": "Schuttenstraat", 
-      "lon": 5.52597626684073
+      "street": "Schuttenstraat"
     }, 
     {
-      "lat": 50.968342263634774, 
       "housenumber": "7", 
+      "lat": 50.968342263634774, 
+      "lon": 5.526496209771138, 
       "pcode": 3600, 
-      "street": "Schuttenstraat", 
-      "lon": 5.526496209771138
+      "street": "Schuttenstraat"
     }
-  ], 
-  "name": "Schuttenstraat"
+  ]
 }

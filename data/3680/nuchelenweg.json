@@ -1,32 +1,30 @@
 {
-  "pcode": 3680, 
   "addresses": [
     {
-      "lat": 51.071454893981986, 
       "housenumber": "1", 
+      "lat": 51.071454893981986, 
+      "lon": 5.785925256628832, 
       "pcode": 3680, 
-      "street": "Nuchelenweg", 
-      "lon": 5.785925256628832
+      "street": "Nuchelenweg"
     }, 
     {
-      "lat": 51.07011941460557, 
       "housenumber": "2", 
+      "lat": 51.07011941460557, 
+      "lon": 5.788726739161894, 
       "pcode": 3680, 
-      "street": "Nuchelenweg", 
-      "lon": 5.788726739161894
+      "street": "Nuchelenweg"
     }, 
     {
-      "lat": 51.07009715027963, 
       "housenumber": "4", 
+      "lat": 51.07009715027963, 
+      "lon": 5.785954736062713, 
       "pcode": 3680, 
-      "street": "Nuchelenweg", 
-      "lon": 5.785954736062713
+      "street": "Nuchelenweg"
     }, 
     {
+      "housenumber": "4B", 
       "pcode": 3680, 
-      "street": "Nuchelenweg", 
-      "housenumber": "4B"
+      "street": "Nuchelenweg"
     }
-  ], 
-  "name": "Nuchelenweg"
+  ]
 }

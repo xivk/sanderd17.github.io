@@ -1,20 +1,18 @@
 {
-  "pcode": 3770, 
   "addresses": [
     {
-      "lat": 50.79879572779609, 
       "housenumber": "1", 
+      "lat": 50.79879572779609, 
+      "lon": 5.533235385618048, 
       "pcode": 3770, 
-      "street": "Tibetstraat", 
-      "lon": 5.533235385618048
+      "street": "Tibetstraat"
     }, 
     {
-      "lat": 50.79858106906563, 
       "housenumber": "4", 
+      "lat": 50.79858106906563, 
+      "lon": 5.532969179213098, 
       "pcode": 3770, 
-      "street": "Tibetstraat", 
-      "lon": 5.532969179213098
+      "street": "Tibetstraat"
     }
-  ], 
-  "name": "Tibetstraat"
+  ]
 }

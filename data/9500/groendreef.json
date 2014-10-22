@@ -1,39 +1,37 @@
 {
-  "pcode": 9500, 
   "addresses": [
     {
-      "lat": 50.78032126544237, 
       "housenumber": "1", 
+      "lat": 50.78032126544237, 
+      "lon": 3.8731546791952485, 
       "pcode": 9500, 
-      "street": "Groendreef", 
-      "lon": 3.8731546791952485
+      "street": "Groendreef"
     }, 
     {
-      "lat": 50.78010010207983, 
       "housenumber": "11", 
+      "lat": 50.78010010207983, 
+      "lon": 3.8721953463906273, 
       "pcode": 9500, 
-      "street": "Groendreef", 
-      "lon": 3.8721953463906273
+      "street": "Groendreef"
     }, 
     {
-      "lat": 50.78017397946618, 
       "housenumber": "7", 
+      "lat": 50.78017397946618, 
+      "lon": 3.8725093549902088, 
       "pcode": 9500, 
-      "street": "Groendreef", 
-      "lon": 3.8725093549902088
+      "street": "Groendreef"
     }, 
     {
+      "housenumber": "7B", 
       "pcode": 9500, 
-      "street": "Groendreef", 
-      "housenumber": "7B"
+      "street": "Groendreef"
     }, 
     {
-      "lat": 50.78011718147426, 
       "housenumber": "9", 
+      "lat": 50.78011718147426, 
+      "lon": 3.8722799603022446, 
       "pcode": 9500, 
-      "street": "Groendreef", 
-      "lon": 3.8722799603022446
+      "street": "Groendreef"
     }
-  ], 
-  "name": "Groendreef"
+  ]
 }

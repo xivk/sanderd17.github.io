@@ -1,20 +1,18 @@
 {
-  "pcode": 3920, 
   "addresses": [
     {
-      "lat": 51.23242701024299, 
       "housenumber": "4", 
+      "lat": 51.23242701024299, 
+      "lon": 5.343342306956617, 
       "pcode": 3920, 
-      "street": "Lijsterbesstraat", 
-      "lon": 5.343342306956617
+      "street": "Lijsterbesstraat"
     }, 
     {
-      "lat": 51.232562864481565, 
       "housenumber": "6", 
+      "lat": 51.232562864481565, 
+      "lon": 5.343186218551558, 
       "pcode": 3920, 
-      "street": "Lijsterbesstraat", 
-      "lon": 5.343186218551558
+      "street": "Lijsterbesstraat"
     }
-  ], 
-  "name": "Lijsterbesstraat"
+  ]
 }

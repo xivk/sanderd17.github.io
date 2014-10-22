@@ -1,20 +1,18 @@
 {
-  "pcode": 8820, 
   "addresses": [
     {
-      "lat": 51.0680102368804, 
       "housenumber": "1", 
+      "lat": 51.0680102368804, 
+      "lon": 3.1139784720437222, 
       "pcode": 8820, 
-      "street": "Samberstraat", 
-      "lon": 3.1139784720437222
+      "street": "Samberstraat"
     }, 
     {
-      "lat": 51.06796929372195, 
       "housenumber": "3", 
+      "lat": 51.06796929372195, 
+      "lon": 3.114321300875406, 
       "pcode": 8820, 
-      "street": "Samberstraat", 
-      "lon": 3.114321300875406
+      "street": "Samberstraat"
     }
-  ], 
-  "name": "Samberstraat"
+  ]
 }

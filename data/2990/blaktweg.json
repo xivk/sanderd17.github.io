@@ -1,18 +1,16 @@
 {
-  "pcode": 2990, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2990, 
-      "street": "Blaktweg", 
-      "housenumber": "1"
+      "street": "Blaktweg"
     }, 
     {
-      "lat": 51.391503103723494, 
       "housenumber": "5", 
+      "lat": 51.391503103723494, 
+      "lon": 4.630752538244163, 
       "pcode": 2990, 
-      "street": "Blaktweg", 
-      "lon": 4.630752538244163
+      "street": "Blaktweg"
     }
-  ], 
-  "name": "Blaktweg"
+  ]
 }

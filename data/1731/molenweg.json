@@ -1,32 +1,30 @@
 {
-  "pcode": 1731, 
   "addresses": [
     {
-      "lat": 50.889788751014464, 
       "housenumber": "18", 
+      "lat": 50.889788751014464, 
+      "lon": 4.260576458140027, 
       "pcode": 1731, 
-      "street": "Molenweg", 
-      "lon": 4.260576458140027
+      "street": "Molenweg"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 1731, 
-      "street": "Molenweg", 
-      "housenumber": "2"
+      "street": "Molenweg"
     }, 
     {
-      "lat": 50.88974157369341, 
       "housenumber": "20", 
+      "lat": 50.88974157369341, 
+      "lon": 4.260398911573194, 
       "pcode": 1731, 
-      "street": "Molenweg", 
-      "lon": 4.260398911573194
+      "street": "Molenweg"
     }, 
     {
-      "lat": 50.890056910662, 
       "housenumber": "5", 
+      "lat": 50.890056910662, 
+      "lon": 4.260288326368817, 
       "pcode": 1731, 
-      "street": "Molenweg", 
-      "lon": 4.260288326368817
+      "street": "Molenweg"
     }
-  ], 
-  "name": "Molenweg"
+  ]
 }

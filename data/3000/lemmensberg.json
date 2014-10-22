@@ -1,20 +1,18 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.881060158858254, 
       "housenumber": "1", 
+      "lat": 50.881060158858254, 
+      "lon": 4.6800268673931384, 
       "pcode": 3000, 
-      "street": "Lemmensberg", 
-      "lon": 4.6800268673931384
+      "street": "Lemmensberg"
     }, 
     {
-      "lat": 50.881923726500276, 
       "housenumber": "3", 
+      "lat": 50.881923726500276, 
+      "lon": 4.681127491563619, 
       "pcode": 3000, 
-      "street": "Lemmensberg", 
-      "lon": 4.681127491563619
+      "street": "Lemmensberg"
     }
-  ], 
-  "name": "Lemmensberg"
+  ]
 }

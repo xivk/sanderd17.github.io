@@ -1,25 +1,23 @@
 {
-  "pcode": 3832, 
   "addresses": [
     {
-      "lat": 50.84294273450131, 
       "housenumber": "1", 
+      "lat": 50.84294273450131, 
+      "lon": 5.285282232313846, 
       "pcode": 3832, 
-      "street": "De Borgt", 
-      "lon": 5.285282232313846
+      "street": "De Borgt"
     }, 
     {
-      "lat": 50.842395251020434, 
       "housenumber": "2", 
+      "lat": 50.842395251020434, 
+      "lon": 5.285302646395239, 
       "pcode": 3832, 
-      "street": "De Borgt", 
-      "lon": 5.285302646395239
+      "street": "De Borgt"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 3832, 
-      "street": "De Borgt", 
-      "housenumber": "2A"
+      "street": "De Borgt"
     }
-  ], 
-  "name": "De Borgt"
+  ]
 }

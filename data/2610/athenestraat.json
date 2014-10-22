@@ -1,20 +1,18 @@
 {
-  "pcode": 2610, 
   "addresses": [
     {
-      "lat": 51.181282570539985, 
       "housenumber": "2", 
+      "lat": 51.181282570539985, 
+      "lon": 4.384282953992607, 
       "pcode": 2610, 
-      "street": "Athenestraat", 
-      "lon": 4.384282953992607
+      "street": "Athenestraat"
     }, 
     {
-      "lat": 51.18129128586977, 
       "housenumber": "4", 
+      "lat": 51.18129128586977, 
+      "lon": 4.384308699060017, 
       "pcode": 2610, 
-      "street": "Athenestraat", 
-      "lon": 4.384308699060017
+      "street": "Athenestraat"
     }
-  ], 
-  "name": "Athenestraat"
+  ]
 }

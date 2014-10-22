@@ -1,37 +1,35 @@
 {
-  "pcode": 9900, 
   "addresses": [
     {
-      "lat": 51.18841942635942, 
       "housenumber": "2", 
+      "lat": 51.18841942635942, 
+      "lon": 3.5756309381042706, 
       "pcode": 9900, 
-      "street": "Violettenstraat", 
-      "lon": 3.5756309381042706
+      "street": "Violettenstraat"
     }, 
     {
-      "lat": 51.18841382097741, 
       "housenumber": "4", 
+      "lat": 51.18841382097741, 
+      "lon": 3.5755725294080616, 
       "pcode": 9900, 
-      "street": "Violettenstraat", 
-      "lon": 3.5755725294080616
+      "street": "Violettenstraat"
     }, 
     {
+      "housenumber": "42", 
       "pcode": 9900, 
-      "street": "Violettenstraat", 
-      "housenumber": "42"
+      "street": "Violettenstraat"
     }, 
     {
+      "housenumber": "44", 
       "pcode": 9900, 
-      "street": "Violettenstraat", 
-      "housenumber": "44"
+      "street": "Violettenstraat"
     }, 
     {
-      "lat": 51.188407039452905, 
       "housenumber": "6", 
+      "lat": 51.188407039452905, 
+      "lon": 3.575512996372742, 
       "pcode": 9900, 
-      "street": "Violettenstraat", 
-      "lon": 3.575512996372742
+      "street": "Violettenstraat"
     }
-  ], 
-  "name": "Violettenstraat"
+  ]
 }

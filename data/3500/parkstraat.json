@@ -1,23 +1,21 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.90946211966994, 
       "housenumber": "2", 
+      "lat": 50.90946211966994, 
+      "lon": 5.351908975493189, 
       "pcode": 3500, 
-      "street": "Parkstraat", 
-      "lon": 5.351908975493189
+      "street": "Parkstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3500, 
-      "street": "Parkstraat", 
-      "housenumber": "4"
+      "street": "Parkstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3500, 
-      "street": "Parkstraat", 
-      "housenumber": "6"
+      "street": "Parkstraat"
     }
-  ], 
-  "name": "Parkstraat"
+  ]
 }

@@ -1,53 +1,51 @@
 {
-  "pcode": 2850, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2850, 
-      "street": "Scheldeweg", 
-      "housenumber": "1"
+      "street": "Scheldeweg"
     }, 
     {
-      "lat": 51.09666341068037, 
       "housenumber": "2", 
+      "lat": 51.09666341068037, 
+      "lon": 4.358924880648143, 
       "pcode": 2850, 
-      "street": "Scheldeweg", 
-      "lon": 4.358924880648143
+      "street": "Scheldeweg"
     }, 
     {
-      "lat": 51.098937189763404, 
       "housenumber": "3", 
+      "lat": 51.098937189763404, 
+      "lon": 4.359768429924817, 
       "pcode": 2850, 
-      "street": "Scheldeweg", 
-      "lon": 4.359768429924817
+      "street": "Scheldeweg"
     }, 
     {
-      "lat": 51.09668146719844, 
       "housenumber": "4", 
+      "lat": 51.09668146719844, 
+      "lon": 4.36000765492556, 
       "pcode": 2850, 
-      "street": "Scheldeweg", 
-      "lon": 4.36000765492556
+      "street": "Scheldeweg"
     }, 
     {
-      "lat": 51.09912482792326, 
       "housenumber": "5", 
+      "lat": 51.09912482792326, 
+      "lon": 4.361924500510575, 
       "pcode": 2850, 
-      "street": "Scheldeweg", 
-      "lon": 4.361924500510575
+      "street": "Scheldeweg"
     }, 
     {
-      "lat": 51.096948975894996, 
       "housenumber": "6", 
+      "lat": 51.096948975894996, 
+      "lon": 4.3614885318842855, 
       "pcode": 2850, 
-      "street": "Scheldeweg", 
-      "lon": 4.3614885318842855
+      "street": "Scheldeweg"
     }, 
     {
-      "lat": 51.097974371565485, 
       "housenumber": "8", 
+      "lat": 51.097974371565485, 
+      "lon": 4.362316375217269, 
       "pcode": 2850, 
-      "street": "Scheldeweg", 
-      "lon": 4.362316375217269
+      "street": "Scheldeweg"
     }
-  ], 
-  "name": "Scheldeweg"
+  ]
 }

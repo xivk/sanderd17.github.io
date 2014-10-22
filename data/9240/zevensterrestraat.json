@@ -1,51 +1,49 @@
 {
-  "pcode": 9240, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9240, 
-      "street": "Zevensterrestraat", 
-      "housenumber": "1"
+      "street": "Zevensterrestraat"
     }, 
     {
-      "lat": 51.074843981148824, 
       "housenumber": "10", 
+      "lat": 51.074843981148824, 
+      "lon": 4.042855356862893, 
       "pcode": 9240, 
-      "street": "Zevensterrestraat", 
-      "lon": 4.042855356862893
+      "street": "Zevensterrestraat"
     }, 
     {
-      "lat": 51.07648344976366, 
       "housenumber": "13", 
+      "lat": 51.07648344976366, 
+      "lon": 4.0421296409563245, 
       "pcode": 9240, 
-      "street": "Zevensterrestraat", 
-      "lon": 4.0421296409563245
+      "street": "Zevensterrestraat"
     }, 
     {
-      "lat": 51.07454016905494, 
       "housenumber": "2", 
+      "lat": 51.07454016905494, 
+      "lon": 4.040652822665293, 
       "pcode": 9240, 
-      "street": "Zevensterrestraat", 
-      "lon": 4.040652822665293
+      "street": "Zevensterrestraat"
     }, 
     {
-      "lat": 51.075462984107446, 
       "housenumber": "21", 
+      "lat": 51.075462984107446, 
+      "lon": 4.0418879016437685, 
       "pcode": 9240, 
-      "street": "Zevensterrestraat", 
-      "lon": 4.0418879016437685
+      "street": "Zevensterrestraat"
     }, 
     {
-      "lat": 51.076608528153756, 
       "housenumber": "23", 
+      "lat": 51.076608528153756, 
+      "lon": 4.042405022325586, 
       "pcode": 9240, 
-      "street": "Zevensterrestraat", 
-      "lon": 4.042405022325586
+      "street": "Zevensterrestraat"
     }, 
     {
+      "housenumber": "2W", 
       "pcode": 9240, 
-      "street": "Zevensterrestraat", 
-      "housenumber": "2W"
+      "street": "Zevensterrestraat"
     }
-  ], 
-  "name": "Zevensterrestraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.84449383452345, 
       "housenumber": "2", 
+      "lat": 50.84449383452345, 
+      "lon": 3.261222978763878, 
       "pcode": 8500, 
-      "street": "Touwslagerspad", 
-      "lon": 3.261222978763878
+      "street": "Touwslagerspad"
     }, 
     {
-      "lat": 50.84454904214244, 
       "housenumber": "4", 
+      "lat": 50.84454904214244, 
+      "lon": 3.261280751927603, 
       "pcode": 8500, 
-      "street": "Touwslagerspad", 
-      "lon": 3.261280751927603
+      "street": "Touwslagerspad"
     }, 
     {
-      "lat": 50.8446041477883, 
       "housenumber": "6", 
+      "lat": 50.8446041477883, 
+      "lon": 3.2613372496018944, 
       "pcode": 8500, 
-      "street": "Touwslagerspad", 
-      "lon": 3.2613372496018944
+      "street": "Touwslagerspad"
     }
-  ], 
-  "name": "Touwslagerspad"
+  ]
 }

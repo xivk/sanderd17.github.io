@@ -1,20 +1,18 @@
 {
-  "pcode": 2250, 
   "addresses": [
     {
-      "lat": 51.170930843240434, 
       "housenumber": "5", 
+      "lat": 51.170930843240434, 
+      "lon": 4.902166120864208, 
       "pcode": 2250, 
-      "street": "Pastoor Segersstraat", 
-      "lon": 4.902166120864208
+      "street": "Pastoor Segersstraat"
     }, 
     {
-      "lat": 51.17081227533438, 
       "housenumber": "7", 
+      "lat": 51.17081227533438, 
+      "lon": 4.901769702422371, 
       "pcode": 2250, 
-      "street": "Pastoor Segersstraat", 
-      "lon": 4.901769702422371
+      "street": "Pastoor Segersstraat"
     }
-  ], 
-  "name": "Pastoor Segersstraat"
+  ]
 }

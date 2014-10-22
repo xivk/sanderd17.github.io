@@ -1,27 +1,25 @@
 {
-  "pcode": 8530, 
   "addresses": [
     {
-      "lat": 50.83335249028018, 
       "housenumber": "1", 
+      "lat": 50.83335249028018, 
+      "lon": 3.3483295439755976, 
       "pcode": 8530, 
-      "street": "Gravenstraat", 
-      "lon": 3.3483295439755976
+      "street": "Gravenstraat"
     }, 
     {
-      "lat": 50.83130425980156, 
       "housenumber": "12", 
+      "lat": 50.83130425980156, 
+      "lon": 3.3465695064449656, 
       "pcode": 8530, 
-      "street": "Gravenstraat", 
-      "lon": 3.3465695064449656
+      "street": "Gravenstraat"
     }, 
     {
-      "lat": 50.83206379551245, 
       "housenumber": "12A", 
+      "lat": 50.83206379551245, 
+      "lon": 3.345840211540193, 
       "pcode": 8530, 
-      "street": "Gravenstraat", 
-      "lon": 3.345840211540193
+      "street": "Gravenstraat"
     }
-  ], 
-  "name": "Gravenstraat"
+  ]
 }

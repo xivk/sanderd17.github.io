@@ -1,27 +1,25 @@
 {
-  "pcode": 3400, 
   "addresses": [
     {
-      "lat": 50.75401233680137, 
       "housenumber": "1", 
+      "lat": 50.75401233680137, 
+      "lon": 5.076107571216078, 
       "pcode": 3400, 
-      "street": "Driessteeg", 
-      "lon": 5.076107571216078
+      "street": "Driessteeg"
     }, 
     {
-      "lat": 50.754045681442165, 
       "housenumber": "2", 
+      "lat": 50.754045681442165, 
+      "lon": 5.076183326038537, 
       "pcode": 3400, 
-      "street": "Driessteeg", 
-      "lon": 5.076183326038537
+      "street": "Driessteeg"
     }, 
     {
-      "lat": 50.75409092293781, 
       "housenumber": "3", 
+      "lat": 50.75409092293781, 
+      "lon": 5.076239277242719, 
       "pcode": 3400, 
-      "street": "Driessteeg", 
-      "lon": 5.076239277242719
+      "street": "Driessteeg"
     }
-  ], 
-  "name": "Driessteeg"
+  ]
 }

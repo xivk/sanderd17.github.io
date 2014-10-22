@@ -1,58 +1,56 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
+      "housenumber": "14", 
       "pcode": 8800, 
-      "street": "Gasstraat", 
-      "housenumber": "14"
+      "street": "Gasstraat"
     }, 
     {
-      "lat": 50.946900244294945, 
       "housenumber": "15", 
+      "lat": 50.946900244294945, 
+      "lon": 3.130381522661018, 
       "pcode": 8800, 
-      "street": "Gasstraat", 
-      "lon": 3.130381522661018
+      "street": "Gasstraat"
     }, 
     {
-      "lat": 50.94676168555892, 
       "housenumber": "17", 
+      "lat": 50.94676168555892, 
+      "lon": 3.1305935296740786, 
       "pcode": 8800, 
-      "street": "Gasstraat", 
-      "lon": 3.1305935296740786
+      "street": "Gasstraat"
     }, 
     {
-      "lat": 50.94667824392506, 
       "housenumber": "18", 
+      "lat": 50.94667824392506, 
+      "lon": 3.130558444451194, 
       "pcode": 8800, 
-      "street": "Gasstraat", 
-      "lon": 3.130558444451194
+      "street": "Gasstraat"
     }, 
     {
-      "lat": 50.94662782576424, 
       "housenumber": "19", 
+      "lat": 50.94662782576424, 
+      "lon": 3.130654129968619, 
       "pcode": 8800, 
-      "street": "Gasstraat", 
-      "lon": 3.130654129968619
+      "street": "Gasstraat"
     }, 
     {
-      "lat": 50.94655146518112, 
       "housenumber": "20", 
+      "lat": 50.94655146518112, 
+      "lon": 3.1307109359733167, 
       "pcode": 8800, 
-      "street": "Gasstraat", 
-      "lon": 3.1307109359733167
+      "street": "Gasstraat"
     }, 
     {
+      "housenumber": "23", 
       "pcode": 8800, 
-      "street": "Gasstraat", 
-      "housenumber": "23"
+      "street": "Gasstraat"
     }, 
     {
-      "lat": 50.946418135646304, 
       "housenumber": "25", 
+      "lat": 50.946418135646304, 
+      "lon": 3.1307279732872217, 
       "pcode": 8800, 
-      "street": "Gasstraat", 
-      "lon": 3.1307279732872217
+      "street": "Gasstraat"
     }
-  ], 
-  "name": "Gasstraat"
+  ]
 }

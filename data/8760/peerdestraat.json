@@ -1,39 +1,37 @@
 {
-  "pcode": 8760, 
   "addresses": [
     {
-      "lat": 50.97356241610846, 
       "housenumber": "1", 
+      "lat": 50.97356241610846, 
+      "lon": 3.305410309975974, 
       "pcode": 8760, 
-      "street": "Peerdestraat", 
-      "lon": 3.305410309975974
+      "street": "Peerdestraat"
     }, 
     {
-      "lat": 50.974873004481374, 
       "housenumber": "2", 
+      "lat": 50.974873004481374, 
+      "lon": 3.305879412894848, 
       "pcode": 8760, 
-      "street": "Peerdestraat", 
-      "lon": 3.305879412894848
+      "street": "Peerdestraat"
     }, 
     {
-      "lat": 50.97511967485913, 
       "housenumber": "4", 
+      "lat": 50.97511967485913, 
+      "lon": 3.3059272221908595, 
       "pcode": 8760, 
-      "street": "Peerdestraat", 
-      "lon": 3.3059272221908595
+      "street": "Peerdestraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8760, 
-      "street": "Peerdestraat", 
-      "housenumber": "5"
+      "street": "Peerdestraat"
     }, 
     {
-      "lat": 50.97401843839906, 
       "housenumber": "7", 
+      "lat": 50.97401843839906, 
+      "lon": 3.305365512957693, 
       "pcode": 8760, 
-      "street": "Peerdestraat", 
-      "lon": 3.305365512957693
+      "street": "Peerdestraat"
     }
-  ], 
-  "name": "Peerdestraat"
+  ]
 }

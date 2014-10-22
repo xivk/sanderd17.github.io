@@ -1,18 +1,16 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.053813710074124, 
       "housenumber": "1", 
+      "lat": 51.053813710074124, 
+      "lon": 3.733842635849164, 
       "pcode": 9000, 
-      "street": "Veermanplein", 
-      "lon": 3.733842635849164
+      "street": "Veermanplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9000, 
-      "street": "Veermanplein", 
-      "housenumber": "2"
+      "street": "Veermanplein"
     }
-  ], 
-  "name": "Veermanplein"
+  ]
 }

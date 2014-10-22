@@ -1,27 +1,25 @@
 {
-  "pcode": 3060, 
   "addresses": [
     {
-      "lat": 50.862219463888906, 
       "housenumber": "2", 
+      "lat": 50.862219463888906, 
+      "lon": 4.629839902170081, 
       "pcode": 3060, 
-      "street": "Smisstraat", 
-      "lon": 4.629839902170081
+      "street": "Smisstraat"
     }, 
     {
-      "lat": 50.86221996708154, 
       "housenumber": "4", 
+      "lat": 50.86221996708154, 
+      "lon": 4.63021844457166, 
       "pcode": 3060, 
-      "street": "Smisstraat", 
-      "lon": 4.63021844457166
+      "street": "Smisstraat"
     }, 
     {
-      "lat": 50.862281161988946, 
       "housenumber": "6", 
+      "lat": 50.862281161988946, 
+      "lon": 4.630349748048715, 
       "pcode": 3060, 
-      "street": "Smisstraat", 
-      "lon": 4.630349748048715
+      "street": "Smisstraat"
     }
-  ], 
-  "name": "Smisstraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 8510, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8510, 
-      "street": "Pastoor Vandommeledreef", 
-      "housenumber": "1"
+      "street": "Pastoor Vandommeledreef"
     }, 
     {
-      "lat": 50.807782432334754, 
       "housenumber": "3", 
+      "lat": 50.807782432334754, 
+      "lon": 3.23301274940064, 
       "pcode": 8510, 
-      "street": "Pastoor Vandommeledreef", 
-      "lon": 3.23301274940064
+      "street": "Pastoor Vandommeledreef"
     }
-  ], 
-  "name": "Pastoor Vandommeledreef"
+  ]
 }

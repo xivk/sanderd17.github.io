@@ -1,20 +1,18 @@
 {
-  "pcode": 3870, 
   "addresses": [
     {
-      "lat": 50.74275938805926, 
       "housenumber": "2", 
+      "lat": 50.74275938805926, 
+      "lon": 5.279287571723056, 
       "pcode": 3870, 
-      "street": "de Montferrantstraat", 
-      "lon": 5.279287571723056
+      "street": "de Montferrantstraat"
     }, 
     {
-      "lat": 50.74323405128853, 
       "housenumber": "4", 
+      "lat": 50.74323405128853, 
+      "lon": 5.279441703843793, 
       "pcode": 3870, 
-      "street": "de Montferrantstraat", 
-      "lon": 5.279441703843793
+      "street": "de Montferrantstraat"
     }
-  ], 
-  "name": "de Montferrantstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8572, 
   "addresses": [
     {
-      "lat": 50.823766150244566, 
       "housenumber": "1", 
+      "lat": 50.823766150244566, 
+      "lon": 3.492995018153093, 
       "pcode": 8572, 
-      "street": "Waterlostraat", 
-      "lon": 3.492995018153093
+      "street": "Waterlostraat"
     }, 
     {
-      "lat": 50.82454256306923, 
       "housenumber": "2", 
+      "lat": 50.82454256306923, 
+      "lon": 3.493118107580991, 
       "pcode": 8572, 
-      "street": "Waterlostraat", 
-      "lon": 3.493118107580991
+      "street": "Waterlostraat"
     }
-  ], 
-  "name": "Waterlostraat"
+  ]
 }

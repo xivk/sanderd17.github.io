@@ -1,128 +1,126 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "housenumber": "10"
+      "street": "Schouwburgstraat"
     }, 
     {
-      "lat": 51.05001978129217, 
       "housenumber": "12", 
+      "lat": 51.05001978129217, 
+      "lon": 3.721784282025789, 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "lon": 3.721784282025789
+      "street": "Schouwburgstraat"
     }, 
     {
+      "housenumber": "12A", 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "housenumber": "12A"
+      "street": "Schouwburgstraat"
     }, 
     {
-      "lat": 51.04990248584563, 
       "housenumber": "12B", 
+      "lat": 51.04990248584563, 
+      "lon": 3.721721439677442, 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "lon": 3.721721439677442
+      "street": "Schouwburgstraat"
     }, 
     {
+      "housenumber": "12C", 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "housenumber": "12C"
+      "street": "Schouwburgstraat"
     }, 
     {
+      "housenumber": "12D", 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "housenumber": "12D"
+      "street": "Schouwburgstraat"
     }, 
     {
-      "lat": 51.049879515084264, 
       "housenumber": "14", 
+      "lat": 51.049879515084264, 
+      "lon": 3.7216307684334673, 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "lon": 3.7216307684334673
+      "street": "Schouwburgstraat"
     }, 
     {
-      "lat": 51.049877878681066, 
       "housenumber": "16", 
+      "lat": 51.049877878681066, 
+      "lon": 3.721561907910003, 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "lon": 3.721561907910003
+      "street": "Schouwburgstraat"
     }, 
     {
-      "lat": 51.04986431291111, 
       "housenumber": "18", 
+      "lat": 51.04986431291111, 
+      "lon": 3.721366855193822, 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "lon": 3.721366855193822
+      "street": "Schouwburgstraat"
     }, 
     {
+      "housenumber": "18A", 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "housenumber": "18A"
+      "street": "Schouwburgstraat"
     }, 
     {
+      "housenumber": "20", 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "housenumber": "20"
+      "street": "Schouwburgstraat"
     }, 
     {
+      "housenumber": "22", 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "housenumber": "22"
+      "street": "Schouwburgstraat"
     }, 
     {
-      "lat": 51.04986854415701, 
       "housenumber": "22A", 
+      "lat": 51.04986854415701, 
+      "lon": 3.72131887803836, 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "lon": 3.72131887803836
+      "street": "Schouwburgstraat"
     }, 
     {
+      "housenumber": "24", 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "housenumber": "24"
+      "street": "Schouwburgstraat"
     }, 
     {
+      "housenumber": "26", 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "housenumber": "26"
+      "street": "Schouwburgstraat"
     }, 
     {
-      "lat": 51.04951545200059, 
       "housenumber": "3", 
+      "lat": 51.04951545200059, 
+      "lon": 3.722106565963571, 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "lon": 3.722106565963571
+      "street": "Schouwburgstraat"
     }, 
     {
-      "lat": 51.04991473698213, 
       "housenumber": "4", 
+      "lat": 51.04991473698213, 
+      "lon": 3.7221030515747677, 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "lon": 3.7221030515747677
+      "street": "Schouwburgstraat"
     }, 
     {
-      "lat": 51.049574783340624, 
       "housenumber": "5", 
+      "lat": 51.049574783340624, 
+      "lon": 3.721435174905546, 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "lon": 3.721435174905546
+      "street": "Schouwburgstraat"
     }, 
     {
-      "lat": 51.049582228230236, 
       "housenumber": "7", 
+      "lat": 51.049582228230236, 
+      "lon": 3.721432219758388, 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "lon": 3.721432219758388
+      "street": "Schouwburgstraat"
     }, 
     {
-      "lat": 51.049882308545605, 
       "housenumber": "8", 
+      "lat": 51.049882308545605, 
+      "lon": 3.7219105408290853, 
       "pcode": 9000, 
-      "street": "Schouwburgstraat", 
-      "lon": 3.7219105408290853
+      "street": "Schouwburgstraat"
     }
-  ], 
-  "name": "Schouwburgstraat"
+  ]
 }

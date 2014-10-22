@@ -1,27 +1,25 @@
 {
-  "pcode": 9240, 
   "addresses": [
     {
-      "lat": 51.043557281465056, 
       "housenumber": "1", 
+      "lat": 51.043557281465056, 
+      "lon": 4.010473483405512, 
       "pcode": 9240, 
-      "street": "Haststraat", 
-      "lon": 4.010473483405512
+      "street": "Haststraat"
     }, 
     {
-      "lat": 51.04363071429629, 
       "housenumber": "2", 
+      "lat": 51.04363071429629, 
+      "lon": 4.010027036045087, 
       "pcode": 9240, 
-      "street": "Haststraat", 
-      "lon": 4.010027036045087
+      "street": "Haststraat"
     }, 
     {
-      "lat": 51.04345151899786, 
       "housenumber": "4", 
+      "lat": 51.04345151899786, 
+      "lon": 4.010012864189782, 
       "pcode": 9240, 
-      "street": "Haststraat", 
-      "lon": 4.010012864189782
+      "street": "Haststraat"
     }
-  ], 
-  "name": "Haststraat"
+  ]
 }

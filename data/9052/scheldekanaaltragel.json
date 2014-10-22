@@ -1,25 +1,23 @@
 {
-  "pcode": 9052, 
   "addresses": [
     {
-      "lat": 51.00465833515493, 
       "housenumber": "1", 
+      "lat": 51.00465833515493, 
+      "lon": 3.7309376304306974, 
       "pcode": 9052, 
-      "street": "Scheldekanaaltragel", 
-      "lon": 3.7309376304306974
+      "street": "Scheldekanaaltragel"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 9052, 
-      "street": "Scheldekanaaltragel", 
-      "housenumber": "1A"
+      "street": "Scheldekanaaltragel"
     }, 
     {
-      "lat": 51.00520433366842, 
       "housenumber": "3", 
+      "lat": 51.00520433366842, 
+      "lon": 3.7321142052221816, 
       "pcode": 9052, 
-      "street": "Scheldekanaaltragel", 
-      "lon": 3.7321142052221816
+      "street": "Scheldekanaaltragel"
     }
-  ], 
-  "name": "Scheldekanaaltragel"
+  ]
 }

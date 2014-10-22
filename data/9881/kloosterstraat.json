@@ -1,20 +1,18 @@
 {
-  "pcode": 9881, 
   "addresses": [
     {
-      "lat": 51.105268077879714, 
       "housenumber": "1", 
+      "lat": 51.105268077879714, 
+      "lon": 3.5010499949220932, 
       "pcode": 9881, 
-      "street": "Kloosterstraat", 
-      "lon": 3.5010499949220932
+      "street": "Kloosterstraat"
     }, 
     {
-      "lat": 51.10618716032778, 
       "housenumber": "2", 
+      "lat": 51.10618716032778, 
+      "lon": 3.499926743080113, 
       "pcode": 9881, 
-      "street": "Kloosterstraat", 
-      "lon": 3.499926743080113
+      "street": "Kloosterstraat"
     }
-  ], 
-  "name": "Kloosterstraat"
+  ]
 }

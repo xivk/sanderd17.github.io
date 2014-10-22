@@ -1,20 +1,18 @@
 {
-  "pcode": 3960, 
   "addresses": [
     {
-      "lat": 51.12944333486902, 
       "housenumber": "1", 
+      "lat": 51.12944333486902, 
+      "lon": 5.611504062564179, 
       "pcode": 3960, 
-      "street": "Coenenstraat", 
-      "lon": 5.611504062564179
+      "street": "Coenenstraat"
     }, 
     {
-      "lat": 51.129363008963125, 
       "housenumber": "3", 
+      "lat": 51.129363008963125, 
+      "lon": 5.611397484856554, 
       "pcode": 3960, 
-      "street": "Coenenstraat", 
-      "lon": 5.611397484856554
+      "street": "Coenenstraat"
     }
-  ], 
-  "name": "Coenenstraat"
+  ]
 }

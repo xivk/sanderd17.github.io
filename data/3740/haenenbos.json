@@ -1,20 +1,18 @@
 {
-  "pcode": 3740, 
   "addresses": [
     {
-      "lat": 50.882739336251625, 
       "housenumber": "1", 
+      "lat": 50.882739336251625, 
+      "lon": 5.573012703551576, 
       "pcode": 3740, 
-      "street": "Haenenbos", 
-      "lon": 5.573012703551576
+      "street": "Haenenbos"
     }, 
     {
-      "lat": 50.881978384825224, 
       "housenumber": "3", 
+      "lat": 50.881978384825224, 
+      "lon": 5.5753647168532625, 
       "pcode": 3740, 
-      "street": "Haenenbos", 
-      "lon": 5.5753647168532625
+      "street": "Haenenbos"
     }
-  ], 
-  "name": "Haenenbos"
+  ]
 }

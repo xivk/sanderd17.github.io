@@ -1,18 +1,16 @@
 {
-  "pcode": 2288, 
   "addresses": [
     {
+      "housenumber": "20A", 
       "pcode": 2288, 
-      "street": "Heibloemlaan", 
-      "housenumber": "20A"
+      "street": "Heibloemlaan"
     }, 
     {
-      "lat": 51.16974919799115, 
       "housenumber": "6A", 
+      "lat": 51.16974919799115, 
+      "lon": 4.718206015377652, 
       "pcode": 2288, 
-      "street": "Heibloemlaan", 
-      "lon": 4.718206015377652
+      "street": "Heibloemlaan"
     }
-  ], 
-  "name": "Heibloemlaan"
+  ]
 }

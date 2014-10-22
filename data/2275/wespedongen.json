@@ -1,32 +1,30 @@
 {
-  "pcode": 2275, 
   "addresses": [
     {
-      "lat": 51.23088725750985, 
       "housenumber": "10", 
+      "lat": 51.23088725750985, 
+      "lon": 4.86132091027032, 
       "pcode": 2275, 
-      "street": "Wespedongen", 
-      "lon": 4.86132091027032
+      "street": "Wespedongen"
     }, 
     {
-      "lat": 51.23762441356492, 
       "housenumber": "26", 
+      "lat": 51.23762441356492, 
+      "lon": 4.868197042904616, 
       "pcode": 2275, 
-      "street": "Wespedongen", 
-      "lon": 4.868197042904616
+      "street": "Wespedongen"
     }, 
     {
-      "lat": 51.23849583084066, 
       "housenumber": "28", 
+      "lat": 51.23849583084066, 
+      "lon": 4.869051501394227, 
       "pcode": 2275, 
-      "street": "Wespedongen", 
-      "lon": 4.869051501394227
+      "street": "Wespedongen"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2275, 
-      "street": "Wespedongen", 
-      "housenumber": "6"
+      "street": "Wespedongen"
     }
-  ], 
-  "name": "Wespedongen"
+  ]
 }

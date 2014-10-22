@@ -1,18 +1,16 @@
 {
-  "pcode": 3111, 
   "addresses": [
     {
-      "lat": 50.943575865742815, 
       "housenumber": "1", 
+      "lat": 50.943575865742815, 
+      "lon": 4.801656097460515, 
       "pcode": 3111, 
-      "street": "Blauwmolenstraat", 
-      "lon": 4.801656097460515
+      "street": "Blauwmolenstraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 3111, 
-      "street": "Blauwmolenstraat", 
-      "housenumber": "1A"
+      "street": "Blauwmolenstraat"
     }
-  ], 
-  "name": "Blauwmolenstraat"
+  ]
 }

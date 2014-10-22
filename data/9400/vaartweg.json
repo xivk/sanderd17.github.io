@@ -1,46 +1,44 @@
 {
-  "pcode": 9400, 
   "addresses": [
     {
-      "lat": 50.8305364903118, 
       "housenumber": "11", 
+      "lat": 50.8305364903118, 
+      "lon": 4.022333696659404, 
       "pcode": 9400, 
-      "street": "Vaartweg", 
-      "lon": 4.022333696659404
+      "street": "Vaartweg"
     }, 
     {
-      "lat": 50.83062399661345, 
       "housenumber": "13", 
+      "lat": 50.83062399661345, 
+      "lon": 4.022132908941818, 
       "pcode": 9400, 
-      "street": "Vaartweg", 
-      "lon": 4.022132908941818
+      "street": "Vaartweg"
     }, 
     {
+      "housenumber": "15", 
       "pcode": 9400, 
-      "street": "Vaartweg", 
-      "housenumber": "15"
+      "street": "Vaartweg"
     }, 
     {
-      "lat": 50.830870276436606, 
       "housenumber": "5", 
+      "lat": 50.830870276436606, 
+      "lon": 4.021238107981601, 
       "pcode": 9400, 
-      "street": "Vaartweg", 
-      "lon": 4.021238107981601
+      "street": "Vaartweg"
     }, 
     {
-      "lat": 50.830719341380984, 
       "housenumber": "7", 
+      "lat": 50.830719341380984, 
+      "lon": 4.021664209461196, 
       "pcode": 9400, 
-      "street": "Vaartweg", 
-      "lon": 4.021664209461196
+      "street": "Vaartweg"
     }, 
     {
-      "lat": 50.83067318527846, 
       "housenumber": "9", 
+      "lat": 50.83067318527846, 
+      "lon": 4.0218639843052095, 
       "pcode": 9400, 
-      "street": "Vaartweg", 
-      "lon": 4.0218639843052095
+      "street": "Vaartweg"
     }
-  ], 
-  "name": "Vaartweg"
+  ]
 }

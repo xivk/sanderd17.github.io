@@ -1,25 +1,23 @@
 {
-  "pcode": 2431, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2431, 
-      "street": "Blaardonk", 
-      "housenumber": "1"
+      "street": "Blaardonk"
     }, 
     {
-      "lat": 51.08750336253235, 
       "housenumber": "2", 
+      "lat": 51.08750336253235, 
+      "lon": 4.953576197703441, 
       "pcode": 2431, 
-      "street": "Blaardonk", 
-      "lon": 4.953576197703441
+      "street": "Blaardonk"
     }, 
     {
-      "lat": 51.088518268909766, 
       "housenumber": "3", 
+      "lat": 51.088518268909766, 
+      "lon": 4.957249839875445, 
       "pcode": 2431, 
-      "street": "Blaardonk", 
-      "lon": 4.957249839875445
+      "street": "Blaardonk"
     }
-  ], 
-  "name": "Blaardonk"
+  ]
 }

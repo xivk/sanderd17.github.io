@@ -1,20 +1,18 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.8840033060389, 
       "housenumber": "1", 
+      "lat": 50.8840033060389, 
+      "lon": 4.6938638041211975, 
       "pcode": 3000, 
-      "street": "Balsembloemhof", 
-      "lon": 4.6938638041211975
+      "street": "Balsembloemhof"
     }, 
     {
-      "lat": 50.8840033060389, 
       "housenumber": "2", 
+      "lat": 50.8840033060389, 
+      "lon": 4.6938638041211975, 
       "pcode": 3000, 
-      "street": "Balsembloemhof", 
-      "lon": 4.6938638041211975
+      "street": "Balsembloemhof"
     }
-  ], 
-  "name": "Balsembloemhof"
+  ]
 }

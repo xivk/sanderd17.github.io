@@ -1,49 +1,47 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.221356288615446, 
       "housenumber": "1", 
+      "lat": 51.221356288615446, 
+      "lon": 4.403749265663056, 
       "pcode": 2000, 
-      "street": "Hoofdkerkstraat", 
-      "lon": 4.403749265663056
+      "street": "Hoofdkerkstraat"
     }, 
     {
+      "housenumber": "197", 
       "pcode": 2000, 
-      "street": "Hoofdkerkstraat", 
-      "housenumber": "197"
+      "street": "Hoofdkerkstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2000, 
-      "street": "Hoofdkerkstraat", 
-      "housenumber": "2"
+      "street": "Hoofdkerkstraat"
     }, 
     {
-      "lat": 51.221382087090554, 
       "housenumber": "3", 
+      "lat": 51.221382087090554, 
+      "lon": 4.40374327376981, 
       "pcode": 2000, 
-      "street": "Hoofdkerkstraat", 
-      "lon": 4.40374327376981
+      "street": "Hoofdkerkstraat"
     }, 
     {
-      "lat": 51.221294988486925, 
       "housenumber": "5", 
+      "lat": 51.221294988486925, 
+      "lon": 4.4037470717313525, 
       "pcode": 2000, 
-      "street": "Hoofdkerkstraat", 
-      "lon": 4.4037470717313525
+      "street": "Hoofdkerkstraat"
     }, 
     {
-      "lat": 51.221242229308636, 
       "housenumber": "7", 
+      "lat": 51.221242229308636, 
+      "lon": 4.403738300184375, 
       "pcode": 2000, 
-      "street": "Hoofdkerkstraat", 
-      "lon": 4.403738300184375
+      "street": "Hoofdkerkstraat"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 2000, 
-      "street": "Hoofdkerkstraat", 
-      "housenumber": "9"
+      "street": "Hoofdkerkstraat"
     }
-  ], 
-  "name": "Hoofdkerkstraat"
+  ]
 }

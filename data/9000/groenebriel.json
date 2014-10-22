@@ -1,20 +1,18 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.06237247511827, 
       "housenumber": "1", 
+      "lat": 51.06237247511827, 
+      "lon": 3.7216200764933864, 
       "pcode": 9000, 
-      "street": "Groenebriel", 
-      "lon": 3.7216200764933864
+      "street": "Groenebriel"
     }, 
     {
-      "lat": 51.06203772699792, 
       "housenumber": "3", 
+      "lat": 51.06203772699792, 
+      "lon": 3.723147799171054, 
       "pcode": 9000, 
-      "street": "Groenebriel", 
-      "lon": 3.723147799171054
+      "street": "Groenebriel"
     }
-  ], 
-  "name": "Groenebriel"
+  ]
 }

@@ -1,23 +1,21 @@
 {
-  "pcode": 9340, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9340, 
-      "street": "Hellinckxwegel", 
-      "housenumber": "1"
+      "street": "Hellinckxwegel"
     }, 
     {
-      "lat": 50.96767412375466, 
       "housenumber": "11", 
+      "lat": 50.96767412375466, 
+      "lon": 3.97328116174283, 
       "pcode": 9340, 
-      "street": "Hellinckxwegel", 
-      "lon": 3.97328116174283
+      "street": "Hellinckxwegel"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 9340, 
-      "street": "Hellinckxwegel", 
-      "housenumber": "1A"
+      "street": "Hellinckxwegel"
     }
-  ], 
-  "name": "Hellinckxwegel"
+  ]
 }

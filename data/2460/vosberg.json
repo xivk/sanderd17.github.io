@@ -1,20 +1,18 @@
 {
-  "pcode": 2460, 
   "addresses": [
     {
-      "lat": 51.223389732530926, 
       "housenumber": "1", 
+      "lat": 51.223389732530926, 
+      "lon": 4.875297584969882, 
       "pcode": 2460, 
-      "street": "Vosberg", 
-      "lon": 4.875297584969882
+      "street": "Vosberg"
     }, 
     {
-      "lat": 51.222819812768726, 
       "housenumber": "3", 
+      "lat": 51.222819812768726, 
+      "lon": 4.874804558795736, 
       "pcode": 2460, 
-      "street": "Vosberg", 
-      "lon": 4.874804558795736
+      "street": "Vosberg"
     }
-  ], 
-  "name": "Vosberg"
+  ]
 }

@@ -1,37 +1,35 @@
 {
-  "pcode": 2260, 
   "addresses": [
     {
-      "lat": 51.13477671264844, 
       "housenumber": "1", 
+      "lat": 51.13477671264844, 
+      "lon": 4.941546141611671, 
       "pcode": 2260, 
-      "street": "Molenbergstraat", 
-      "lon": 4.941546141611671
+      "street": "Molenbergstraat"
     }, 
     {
+      "housenumber": "19", 
       "pcode": 2260, 
-      "street": "Molenbergstraat", 
-      "housenumber": "19"
+      "street": "Molenbergstraat"
     }, 
     {
-      "lat": 51.13409335174903, 
       "housenumber": "2", 
+      "lat": 51.13409335174903, 
+      "lon": 4.94238226359485, 
       "pcode": 2260, 
-      "street": "Molenbergstraat", 
-      "lon": 4.94238226359485
+      "street": "Molenbergstraat"
     }, 
     {
-      "lat": 51.13447706120851, 
       "housenumber": "4", 
+      "lat": 51.13447706120851, 
+      "lon": 4.942572857792337, 
       "pcode": 2260, 
-      "street": "Molenbergstraat", 
-      "lon": 4.942572857792337
+      "street": "Molenbergstraat"
     }, 
     {
+      "housenumber": "C1", 
       "pcode": 2260, 
-      "street": "Molenbergstraat", 
-      "housenumber": "C1"
+      "street": "Molenbergstraat"
     }
-  ], 
-  "name": "Molenbergstraat"
+  ]
 }

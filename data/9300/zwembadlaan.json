@@ -1,18 +1,16 @@
 {
-  "pcode": 9300, 
   "addresses": [
     {
-      "lat": 50.93851591535767, 
       "housenumber": "1", 
+      "lat": 50.93851591535767, 
+      "lon": 4.057322105672091, 
       "pcode": 9300, 
-      "street": "Zwembadlaan", 
-      "lon": 4.057322105672091
+      "street": "Zwembadlaan"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9300, 
-      "street": "Zwembadlaan", 
-      "housenumber": "2"
+      "street": "Zwembadlaan"
     }
-  ], 
-  "name": "Zwembadlaan"
+  ]
 }

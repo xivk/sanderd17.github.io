@@ -1,32 +1,30 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.21358369813187, 
       "housenumber": "1", 
+      "lat": 51.21358369813187, 
+      "lon": 3.2032189325828737, 
       "pcode": 8000, 
-      "street": "Fosterpark", 
-      "lon": 3.2032189325828737
+      "street": "Fosterpark"
     }, 
     {
-      "lat": 51.213625600438405, 
       "housenumber": "2", 
+      "lat": 51.213625600438405, 
+      "lon": 3.20295553206587, 
       "pcode": 8000, 
-      "street": "Fosterpark", 
-      "lon": 3.20295553206587
+      "street": "Fosterpark"
     }, 
     {
-      "lat": 51.213864971718635, 
       "housenumber": "3", 
+      "lat": 51.213864971718635, 
+      "lon": 3.2031177276843263, 
       "pcode": 8000, 
-      "street": "Fosterpark", 
-      "lon": 3.2031177276843263
+      "street": "Fosterpark"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8000, 
-      "street": "Fosterpark", 
-      "housenumber": "4"
+      "street": "Fosterpark"
     }
-  ], 
-  "name": "Fosterpark"
+  ]
 }

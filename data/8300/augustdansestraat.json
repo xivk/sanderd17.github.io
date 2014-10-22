@@ -1,53 +1,51 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8300, 
-      "street": "August Dansestraat", 
-      "housenumber": "1"
+      "street": "August Dansestraat"
     }, 
     {
-      "lat": 51.3462900474458, 
       "housenumber": "10", 
+      "lat": 51.3462900474458, 
+      "lon": 3.2874179219771458, 
       "pcode": 8300, 
-      "street": "August Dansestraat", 
-      "lon": 3.2874179219771458
+      "street": "August Dansestraat"
     }, 
     {
-      "lat": 51.34643308644746, 
       "housenumber": "12", 
+      "lat": 51.34643308644746, 
+      "lon": 3.2873221614350636, 
       "pcode": 8300, 
-      "street": "August Dansestraat", 
-      "lon": 3.2873221614350636
+      "street": "August Dansestraat"
     }, 
     {
-      "lat": 51.346201717091496, 
       "housenumber": "2", 
+      "lat": 51.346201717091496, 
+      "lon": 3.287874976654083, 
       "pcode": 8300, 
-      "street": "August Dansestraat", 
-      "lon": 3.287874976654083
+      "street": "August Dansestraat"
     }, 
     {
-      "lat": 51.3462292499451, 
       "housenumber": "4", 
+      "lat": 51.3462292499451, 
+      "lon": 3.2876609023173753, 
       "pcode": 8300, 
-      "street": "August Dansestraat", 
-      "lon": 3.2876609023173753
+      "street": "August Dansestraat"
     }, 
     {
-      "lat": 51.34628211263383, 
       "housenumber": "6", 
+      "lat": 51.34628211263383, 
+      "lon": 3.287582883354769, 
       "pcode": 8300, 
-      "street": "August Dansestraat", 
-      "lon": 3.287582883354769
+      "street": "August Dansestraat"
     }, 
     {
-      "lat": 51.34628614854616, 
       "housenumber": "8", 
+      "lat": 51.34628614854616, 
+      "lon": 3.2875029846927935, 
       "pcode": 8300, 
-      "street": "August Dansestraat", 
-      "lon": 3.2875029846927935
+      "street": "August Dansestraat"
     }
-  ], 
-  "name": "August Dansestraat"
+  ]
 }

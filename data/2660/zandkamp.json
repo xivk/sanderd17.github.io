@@ -1,20 +1,18 @@
 {
-  "pcode": 2660, 
   "addresses": [
     {
-      "lat": 51.17952154699413, 
       "housenumber": "3", 
+      "lat": 51.17952154699413, 
+      "lon": 4.332873151493442, 
       "pcode": 2660, 
-      "street": "Zandkamp", 
-      "lon": 4.332873151493442
+      "street": "Zandkamp"
     }, 
     {
-      "lat": 51.180810659765434, 
       "housenumber": "4", 
+      "lat": 51.180810659765434, 
+      "lon": 4.333101853402932, 
       "pcode": 2660, 
-      "street": "Zandkamp", 
-      "lon": 4.333101853402932
+      "street": "Zandkamp"
     }
-  ], 
-  "name": "Zandkamp"
+  ]
 }

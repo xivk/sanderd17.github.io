@@ -1,32 +1,30 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.081879873093335, 
       "housenumber": "11", 
+      "lat": 51.081879873093335, 
+      "lon": 3.751277398757939, 
       "pcode": 9000, 
-      "street": "Veeweg", 
-      "lon": 3.751277398757939
+      "street": "Veeweg"
     }, 
     {
-      "lat": 51.08295033165328, 
       "housenumber": "5", 
+      "lat": 51.08295033165328, 
+      "lon": 3.7498244231149185, 
       "pcode": 9000, 
-      "street": "Veeweg", 
-      "lon": 3.7498244231149185
+      "street": "Veeweg"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 9000, 
-      "street": "Veeweg", 
-      "housenumber": "7"
+      "street": "Veeweg"
     }, 
     {
-      "lat": 51.081902659828025, 
       "housenumber": "9", 
+      "lat": 51.081902659828025, 
+      "lon": 3.7511827653923717, 
       "pcode": 9000, 
-      "street": "Veeweg", 
-      "lon": 3.7511827653923717
+      "street": "Veeweg"
     }
-  ], 
-  "name": "Veeweg"
+  ]
 }

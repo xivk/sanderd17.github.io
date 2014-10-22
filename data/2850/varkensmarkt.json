@@ -1,30 +1,28 @@
 {
-  "pcode": 2850, 
   "addresses": [
     {
-      "lat": 51.08724913650573, 
       "housenumber": "1", 
+      "lat": 51.08724913650573, 
+      "lon": 4.369602882043372, 
       "pcode": 2850, 
-      "street": "Varkensmarkt", 
-      "lon": 4.369602882043372
+      "street": "Varkensmarkt"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2850, 
-      "street": "Varkensmarkt", 
-      "housenumber": "2"
+      "street": "Varkensmarkt"
     }, 
     {
-      "lat": 51.08713461103426, 
       "housenumber": "4", 
+      "lat": 51.08713461103426, 
+      "lon": 4.370110973457351, 
       "pcode": 2850, 
-      "street": "Varkensmarkt", 
-      "lon": 4.370110973457351
+      "street": "Varkensmarkt"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2850, 
-      "street": "Varkensmarkt", 
-      "housenumber": "6"
+      "street": "Varkensmarkt"
     }
-  ], 
-  "name": "Varkensmarkt"
+  ]
 }

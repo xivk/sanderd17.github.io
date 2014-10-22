@@ -1,23 +1,21 @@
 {
-  "pcode": 8310, 
   "addresses": [
     {
+      "housenumber": "1A", 
       "pcode": 8310, 
-      "street": "Brugs-Kerkhofstraat", 
-      "housenumber": "1A"
+      "street": "Brugs-Kerkhofstraat"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 8310, 
-      "street": "Brugs-Kerkhofstraat", 
-      "housenumber": "1B"
+      "street": "Brugs-Kerkhofstraat"
     }, 
     {
-      "lat": 51.1925653012114, 
       "housenumber": "5", 
+      "lat": 51.1925653012114, 
+      "lon": 3.2332408896538607, 
       "pcode": 8310, 
-      "street": "Brugs-Kerkhofstraat", 
-      "lon": 3.2332408896538607
+      "street": "Brugs-Kerkhofstraat"
     }
-  ], 
-  "name": "Brugs-Kerkhofstraat"
+  ]
 }

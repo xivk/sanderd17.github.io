@@ -1,18 +1,16 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
+      "housenumber": "1A", 
       "pcode": 8500, 
-      "street": "Boerenhol", 
-      "housenumber": "1A"
+      "street": "Boerenhol"
     }, 
     {
-      "lat": 50.82824990395246, 
       "housenumber": "8", 
+      "lat": 50.82824990395246, 
+      "lon": 3.269134817741994, 
       "pcode": 8500, 
-      "street": "Boerenhol", 
-      "lon": 3.269134817741994
+      "street": "Boerenhol"
     }
-  ], 
-  "name": "Boerenhol"
+  ]
 }

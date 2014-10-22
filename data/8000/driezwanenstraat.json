@@ -1,46 +1,44 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.2133531588715, 
       "housenumber": "1", 
+      "lat": 51.2133531588715, 
+      "lon": 3.231210569495007, 
       "pcode": 8000, 
-      "street": "Driezwanenstraat", 
-      "lon": 3.231210569495007
+      "street": "Driezwanenstraat"
     }, 
     {
-      "lat": 51.2134815394202, 
       "housenumber": "11", 
+      "lat": 51.2134815394202, 
+      "lon": 3.2314828156898128, 
       "pcode": 8000, 
-      "street": "Driezwanenstraat", 
-      "lon": 3.2314828156898128
+      "street": "Driezwanenstraat"
     }, 
     {
-      "lat": 51.2133685842978, 
       "housenumber": "3", 
+      "lat": 51.2133685842978, 
+      "lon": 3.2312628639804597, 
       "pcode": 8000, 
-      "street": "Driezwanenstraat", 
-      "lon": 3.2312628639804597
+      "street": "Driezwanenstraat"
     }, 
     {
-      "lat": 51.21341814117383, 
       "housenumber": "5", 
+      "lat": 51.21341814117383, 
+      "lon": 3.2313682852204706, 
       "pcode": 8000, 
-      "street": "Driezwanenstraat", 
-      "lon": 3.2313682852204706
+      "street": "Driezwanenstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8000, 
-      "street": "Driezwanenstraat", 
-      "housenumber": "7"
+      "street": "Driezwanenstraat"
     }, 
     {
-      "lat": 51.213464551447764, 
       "housenumber": "9", 
+      "lat": 51.213464551447764, 
+      "lon": 3.2314643370094727, 
       "pcode": 8000, 
-      "street": "Driezwanenstraat", 
-      "lon": 3.2314643370094727
+      "street": "Driezwanenstraat"
     }
-  ], 
-  "name": "Driezwanenstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2990, 
   "addresses": [
     {
-      "lat": 51.389431029518974, 
       "housenumber": "2", 
+      "lat": 51.389431029518974, 
+      "lon": 4.713048520766645, 
       "pcode": 2990, 
-      "street": "Sint Jozefweg", 
-      "lon": 4.713048520766645
+      "street": "Sint Jozefweg"
     }, 
     {
-      "lat": 51.389734013659215, 
       "housenumber": "20", 
+      "lat": 51.389734013659215, 
+      "lon": 4.7128926071903345, 
       "pcode": 2990, 
-      "street": "Sint Jozefweg", 
-      "lon": 4.7128926071903345
+      "street": "Sint Jozefweg"
     }
-  ], 
-  "name": "Sint Jozefweg"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3910, 
   "addresses": [
     {
-      "lat": 51.24512289624958, 
       "housenumber": "2", 
+      "lat": 51.24512289624958, 
+      "lon": 5.444100214415759, 
       "pcode": 3910, 
-      "street": "Binnenweg", 
-      "lon": 5.444100214415759
+      "street": "Binnenweg"
     }, 
     {
-      "lat": 51.24518061453892, 
       "housenumber": "3", 
+      "lat": 51.24518061453892, 
+      "lon": 5.444662549331664, 
       "pcode": 3910, 
-      "street": "Binnenweg", 
-      "lon": 5.444662549331664
+      "street": "Binnenweg"
     }
-  ], 
-  "name": "Binnenweg"
+  ]
 }

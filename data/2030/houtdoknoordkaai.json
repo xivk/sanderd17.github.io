@@ -1,30 +1,28 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
+      "housenumber": "25A", 
       "pcode": 2030, 
-      "street": "Houtdok-Noordkaai", 
-      "housenumber": "25A"
+      "street": "Houtdok-Noordkaai"
     }, 
     {
-      "lat": 51.23773315909243, 
       "housenumber": "25B", 
+      "lat": 51.23773315909243, 
+      "lon": 4.411307056485585, 
       "pcode": 2030, 
-      "street": "Houtdok-Noordkaai", 
-      "lon": 4.411307056485585
+      "street": "Houtdok-Noordkaai"
     }, 
     {
-      "lat": 51.23773499179304, 
       "housenumber": "26", 
+      "lat": 51.23773499179304, 
+      "lon": 4.412425902018959, 
       "pcode": 2030, 
-      "street": "Houtdok-Noordkaai", 
-      "lon": 4.412425902018959
+      "street": "Houtdok-Noordkaai"
     }, 
     {
+      "housenumber": "27B", 
       "pcode": 2030, 
-      "street": "Houtdok-Noordkaai", 
-      "housenumber": "27B"
+      "street": "Houtdok-Noordkaai"
     }
-  ], 
-  "name": "Houtdok-Noordkaai"
+  ]
 }

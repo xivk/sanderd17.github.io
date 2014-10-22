@@ -1,20 +1,18 @@
 {
-  "pcode": 3891, 
   "addresses": [
     {
-      "lat": 50.760984905837574, 
       "housenumber": "10", 
+      "lat": 50.760984905837574, 
+      "lon": 5.206760321278818, 
       "pcode": 3891, 
-      "street": "Extendael", 
-      "lon": 5.206760321278818
+      "street": "Extendael"
     }, 
     {
-      "lat": 50.76042324056823, 
       "housenumber": "10A", 
+      "lat": 50.76042324056823, 
+      "lon": 5.205296751879502, 
       "pcode": 3891, 
-      "street": "Extendael", 
-      "lon": 5.205296751879502
+      "street": "Extendael"
     }
-  ], 
-  "name": "Extendael"
+  ]
 }

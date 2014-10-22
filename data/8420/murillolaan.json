@@ -1,25 +1,23 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
-      "lat": 51.276173551859834, 
       "housenumber": "1", 
+      "lat": 51.276173551859834, 
+      "lon": 3.0293081602867415, 
       "pcode": 8420, 
-      "street": "Murillolaan", 
-      "lon": 3.0293081602867415
+      "street": "Murillolaan"
     }, 
     {
-      "lat": 51.27599295127775, 
       "housenumber": "3", 
+      "lat": 51.27599295127775, 
+      "lon": 3.028942712771807, 
       "pcode": 8420, 
-      "street": "Murillolaan", 
-      "lon": 3.028942712771807
+      "street": "Murillolaan"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8420, 
-      "street": "Murillolaan", 
-      "housenumber": "5"
+      "street": "Murillolaan"
     }
-  ], 
-  "name": "Murillolaan"
+  ]
 }

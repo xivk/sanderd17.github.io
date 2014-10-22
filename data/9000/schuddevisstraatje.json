@@ -1,25 +1,23 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 9000, 
-      "street": "Schuddevisstraatje", 
-      "housenumber": "2"
+      "street": "Schuddevisstraatje"
     }, 
     {
-      "lat": 51.05623161872951, 
       "housenumber": "3", 
+      "lat": 51.05623161872951, 
+      "lon": 3.722337208084371, 
       "pcode": 9000, 
-      "street": "Schuddevisstraatje", 
-      "lon": 3.722337208084371
+      "street": "Schuddevisstraatje"
     }, 
     {
-      "lat": 51.05625715181218, 
       "housenumber": "5", 
+      "lat": 51.05625715181218, 
+      "lon": 3.7223706601489557, 
       "pcode": 9000, 
-      "street": "Schuddevisstraatje", 
-      "lon": 3.7223706601489557
+      "street": "Schuddevisstraatje"
     }
-  ], 
-  "name": "Schuddevisstraatje"
+  ]
 }

@@ -1,35 +1,33 @@
 {
-  "pcode": 3290, 
   "addresses": [
     {
-      "lat": 50.986755436524724, 
       "housenumber": "1", 
+      "lat": 50.986755436524724, 
+      "lon": 5.055279400550572, 
       "pcode": 3290, 
-      "street": "Drieharingenstraat", 
-      "lon": 5.055279400550572
+      "street": "Drieharingenstraat"
     }, 
     {
-      "lat": 50.986843968482795, 
       "housenumber": "2", 
+      "lat": 50.986843968482795, 
+      "lon": 5.055435798543479, 
       "pcode": 3290, 
-      "street": "Drieharingenstraat", 
-      "lon": 5.055435798543479
+      "street": "Drieharingenstraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 3290, 
-      "street": "Drieharingenstraat", 
-      "housenumber": "2A"
+      "street": "Drieharingenstraat"
     }, 
     {
+      "housenumber": "2B", 
       "pcode": 3290, 
-      "street": "Drieharingenstraat", 
-      "housenumber": "2B"
+      "street": "Drieharingenstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3290, 
-      "street": "Drieharingenstraat", 
-      "housenumber": "4"
+      "street": "Drieharingenstraat"
     }
-  ], 
-  "name": "Drieharingenstraat"
+  ]
 }

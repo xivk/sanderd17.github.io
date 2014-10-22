@@ -1,27 +1,25 @@
 {
-  "pcode": 3640, 
   "addresses": [
     {
-      "lat": 51.13994270402545, 
       "housenumber": "1", 
+      "lat": 51.13994270402545, 
+      "lon": 5.755621779544686, 
       "pcode": 3640, 
-      "street": "Susenweg", 
-      "lon": 5.755621779544686
+      "street": "Susenweg"
     }, 
     {
-      "lat": 51.140602933488076, 
       "housenumber": "2", 
+      "lat": 51.140602933488076, 
+      "lon": 5.755921072732586, 
       "pcode": 3640, 
-      "street": "Susenweg", 
-      "lon": 5.755921072732586
+      "street": "Susenweg"
     }, 
     {
-      "lat": 51.14129740181174, 
       "housenumber": "4", 
+      "lat": 51.14129740181174, 
+      "lon": 5.758184456779648, 
       "pcode": 3640, 
-      "street": "Susenweg", 
-      "lon": 5.758184456779648
+      "street": "Susenweg"
     }
-  ], 
-  "name": "Susenweg"
+  ]
 }

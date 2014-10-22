@@ -1,48 +1,46 @@
 {
-  "pcode": 8980, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 8980, 
-      "street": "De Renne", 
-      "housenumber": "10"
+      "street": "De Renne"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8980, 
-      "street": "De Renne", 
-      "housenumber": "3"
+      "street": "De Renne"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8980, 
-      "street": "De Renne", 
-      "housenumber": "4"
+      "street": "De Renne"
     }, 
     {
-      "lat": 50.874669305443234, 
       "housenumber": "5", 
+      "lat": 50.874669305443234, 
+      "lon": 2.988587472215466, 
       "pcode": 8980, 
-      "street": "De Renne", 
-      "lon": 2.988587472215466
+      "street": "De Renne"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 8980, 
-      "street": "De Renne", 
-      "housenumber": "6"
+      "street": "De Renne"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8980, 
-      "street": "De Renne", 
-      "housenumber": "7"
+      "street": "De Renne"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 8980, 
-      "street": "De Renne", 
-      "housenumber": "8"
+      "street": "De Renne"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 8980, 
-      "street": "De Renne", 
-      "housenumber": "9"
+      "street": "De Renne"
     }
-  ], 
-  "name": "De Renne"
+  ]
 }

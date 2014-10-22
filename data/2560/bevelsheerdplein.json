@@ -1,20 +1,18 @@
 {
-  "pcode": 2560, 
   "addresses": [
     {
-      "lat": 51.13674092198329, 
       "housenumber": "1", 
+      "lat": 51.13674092198329, 
+      "lon": 4.680787028725852, 
       "pcode": 2560, 
-      "street": "Bevels Heerdplein", 
-      "lon": 4.680787028725852
+      "street": "Bevels Heerdplein"
     }, 
     {
-      "lat": 51.13655446492144, 
       "housenumber": "3", 
+      "lat": 51.13655446492144, 
+      "lon": 4.680900223852077, 
       "pcode": 2560, 
-      "street": "Bevels Heerdplein", 
-      "lon": 4.680900223852077
+      "street": "Bevels Heerdplein"
     }
-  ], 
-  "name": "Bevels Heerdplein"
+  ]
 }

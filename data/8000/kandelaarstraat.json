@@ -1,60 +1,58 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8000, 
-      "street": "Kandelaarstraat", 
-      "housenumber": "1"
+      "street": "Kandelaarstraat"
     }, 
     {
-      "lat": 51.21089073105086, 
       "housenumber": "14", 
+      "lat": 51.21089073105086, 
+      "lon": 3.2304037268516117, 
       "pcode": 8000, 
-      "street": "Kandelaarstraat", 
-      "lon": 3.2304037268516117
+      "street": "Kandelaarstraat"
     }, 
     {
-      "lat": 51.21091751076837, 
       "housenumber": "18", 
+      "lat": 51.21091751076837, 
+      "lon": 3.2305055467457264, 
       "pcode": 8000, 
-      "street": "Kandelaarstraat", 
-      "lon": 3.2305055467457264
+      "street": "Kandelaarstraat"
     }, 
     {
-      "lat": 51.21091242964762, 
       "housenumber": "20", 
+      "lat": 51.21091242964762, 
+      "lon": 3.2305006615252463, 
       "pcode": 8000, 
-      "street": "Kandelaarstraat", 
-      "lon": 3.2305006615252463
+      "street": "Kandelaarstraat"
     }, 
     {
-      "lat": 51.21096463788907, 
       "housenumber": "22", 
+      "lat": 51.21096463788907, 
+      "lon": 3.2306386429107175, 
       "pcode": 8000, 
-      "street": "Kandelaarstraat", 
-      "lon": 3.2306386429107175
+      "street": "Kandelaarstraat"
     }, 
     {
-      "lat": 51.21100872941369, 
       "housenumber": "24", 
+      "lat": 51.21100872941369, 
+      "lon": 3.230783262910399, 
       "pcode": 8000, 
-      "street": "Kandelaarstraat", 
-      "lon": 3.230783262910399
+      "street": "Kandelaarstraat"
     }, 
     {
-      "lat": 51.21064321700902, 
       "housenumber": "6", 
+      "lat": 51.21064321700902, 
+      "lon": 3.2303161656711654, 
       "pcode": 8000, 
-      "street": "Kandelaarstraat", 
-      "lon": 3.2303161656711654
+      "street": "Kandelaarstraat"
     }, 
     {
-      "lat": 51.21072518439078, 
       "housenumber": "8", 
+      "lat": 51.21072518439078, 
+      "lon": 3.2304265138620583, 
       "pcode": 8000, 
-      "street": "Kandelaarstraat", 
-      "lon": 3.2304265138620583
+      "street": "Kandelaarstraat"
     }
-  ], 
-  "name": "Kandelaarstraat"
+  ]
 }

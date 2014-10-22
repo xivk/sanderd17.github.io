@@ -1,25 +1,23 @@
 {
-  "pcode": 1740, 
   "addresses": [
     {
-      "lat": 50.858053009720244, 
       "housenumber": "1", 
+      "lat": 50.858053009720244, 
+      "lon": 4.1951331286169, 
       "pcode": 1740, 
-      "street": "Zierebeekweg", 
-      "lon": 4.1951331286169
+      "street": "Zierebeekweg"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 1740, 
-      "street": "Zierebeekweg", 
-      "housenumber": "2"
+      "street": "Zierebeekweg"
     }, 
     {
-      "lat": 50.85808512696613, 
       "housenumber": "3", 
+      "lat": 50.85808512696613, 
+      "lon": 4.195638488568833, 
       "pcode": 1740, 
-      "street": "Zierebeekweg", 
-      "lon": 4.195638488568833
+      "street": "Zierebeekweg"
     }
-  ], 
-  "name": "Zierebeekweg"
+  ]
 }

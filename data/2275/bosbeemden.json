@@ -1,18 +1,16 @@
 {
-  "pcode": 2275, 
   "addresses": [
     {
-      "lat": 51.29817289309698, 
       "housenumber": "12", 
+      "lat": 51.29817289309698, 
+      "lon": 4.8724662010748, 
       "pcode": 2275, 
-      "street": "Bosbeemden", 
-      "lon": 4.8724662010748
+      "street": "Bosbeemden"
     }, 
     {
+      "housenumber": "13", 
       "pcode": 2275, 
-      "street": "Bosbeemden", 
-      "housenumber": "13"
+      "street": "Bosbeemden"
     }
-  ], 
-  "name": "Bosbeemden"
+  ]
 }

@@ -1,34 +1,32 @@
 {
-  "pcode": 8020, 
   "addresses": [
     {
-      "lat": 51.13678749775316, 
       "housenumber": "1", 
+      "lat": 51.13678749775316, 
+      "lon": 3.217178915556059, 
       "pcode": 8020, 
-      "street": "Edestraat", 
-      "lon": 3.217178915556059
+      "street": "Edestraat"
     }, 
     {
-      "lat": 51.13259007529631, 
       "housenumber": "2", 
+      "lat": 51.13259007529631, 
+      "lon": 3.2069912823537727, 
       "pcode": 8020, 
-      "street": "Edestraat", 
-      "lon": 3.2069912823537727
+      "street": "Edestraat"
     }, 
     {
-      "lat": 51.134024421318486, 
       "housenumber": "3", 
+      "lat": 51.134024421318486, 
+      "lon": 3.2180104185695275, 
       "pcode": 8020, 
-      "street": "Edestraat", 
-      "lon": 3.2180104185695275
+      "street": "Edestraat"
     }, 
     {
-      "lat": 51.132112763439906, 
       "housenumber": "5", 
+      "lat": 51.132112763439906, 
+      "lon": 3.202782520055999, 
       "pcode": 8020, 
-      "street": "Edestraat", 
-      "lon": 3.202782520055999
+      "street": "Edestraat"
     }
-  ], 
-  "name": "Edestraat"
+  ]
 }

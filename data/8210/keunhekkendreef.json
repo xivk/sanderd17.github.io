@@ -1,30 +1,28 @@
 {
-  "pcode": 8210, 
   "addresses": [
     {
+      "housenumber": "4", 
       "pcode": 8210, 
-      "street": "Keunhekkendreef", 
-      "housenumber": "4"
+      "street": "Keunhekkendreef"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 8210, 
-      "street": "Keunhekkendreef", 
-      "housenumber": "6"
+      "street": "Keunhekkendreef"
     }, 
     {
-      "lat": 51.12044415743556, 
       "housenumber": "8", 
+      "lat": 51.12044415743556, 
+      "lon": 3.1747684344947396, 
       "pcode": 8210, 
-      "street": "Keunhekkendreef", 
-      "lon": 3.1747684344947396
+      "street": "Keunhekkendreef"
     }, 
     {
-      "lat": 51.12155300809537, 
       "housenumber": "9", 
+      "lat": 51.12155300809537, 
+      "lon": 3.1740347378183755, 
       "pcode": 8210, 
-      "street": "Keunhekkendreef", 
-      "lon": 3.1740347378183755
+      "street": "Keunhekkendreef"
     }
-  ], 
-  "name": "Keunhekkendreef"
+  ]
 }

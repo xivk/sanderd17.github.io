@@ -1,27 +1,25 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.76243965030368, 
       "housenumber": "22", 
+      "lat": 50.76243965030368, 
+      "lon": 4.946204712444592, 
       "pcode": 3300, 
-      "street": "Merepoel", 
-      "lon": 4.946204712444592
+      "street": "Merepoel"
     }, 
     {
-      "lat": 50.761954493384614, 
       "housenumber": "30", 
+      "lat": 50.761954493384614, 
+      "lon": 4.946307330856498, 
       "pcode": 3300, 
-      "street": "Merepoel", 
-      "lon": 4.946307330856498
+      "street": "Merepoel"
     }, 
     {
-      "lat": 50.76165348681982, 
       "housenumber": "34", 
+      "lat": 50.76165348681982, 
+      "lon": 4.946439139505038, 
       "pcode": 3300, 
-      "street": "Merepoel", 
-      "lon": 4.946439139505038
+      "street": "Merepoel"
     }
-  ], 
-  "name": "Merepoel"
+  ]
 }

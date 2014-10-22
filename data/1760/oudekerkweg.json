@@ -1,20 +1,18 @@
 {
-  "pcode": 1760, 
   "addresses": [
     {
-      "lat": 50.8483895359288, 
       "housenumber": "2", 
+      "lat": 50.8483895359288, 
+      "lon": 4.061208463787857, 
       "pcode": 1760, 
-      "street": "Oudekerkweg", 
-      "lon": 4.061208463787857
+      "street": "Oudekerkweg"
     }, 
     {
-      "lat": 50.84770132561751, 
       "housenumber": "3", 
+      "lat": 50.84770132561751, 
+      "lon": 4.060431543567398, 
       "pcode": 1760, 
-      "street": "Oudekerkweg", 
-      "lon": 4.060431543567398
+      "street": "Oudekerkweg"
     }
-  ], 
-  "name": "Oudekerkweg"
+  ]
 }

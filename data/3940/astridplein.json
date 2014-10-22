@@ -1,20 +1,18 @@
 {
-  "pcode": 3940, 
   "addresses": [
     {
-      "lat": 51.15379305746469, 
       "housenumber": "50", 
+      "lat": 51.15379305746469, 
+      "lon": 5.385603301580688, 
       "pcode": 3940, 
-      "street": "Astridplein", 
-      "lon": 5.385603301580688
+      "street": "Astridplein"
     }, 
     {
-      "lat": 51.15401188473764, 
       "housenumber": "58", 
+      "lat": 51.15401188473764, 
+      "lon": 5.385214553230597, 
       "pcode": 3940, 
-      "street": "Astridplein", 
-      "lon": 5.385214553230597
+      "street": "Astridplein"
     }
-  ], 
-  "name": "Astridplein"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8851, 
   "addresses": [
     {
-      "lat": 51.00259348414216, 
       "housenumber": "2", 
+      "lat": 51.00259348414216, 
+      "lon": 3.206585934351937, 
       "pcode": 8851, 
-      "street": "Braambessenstraat", 
-      "lon": 3.206585934351937
+      "street": "Braambessenstraat"
     }, 
     {
-      "lat": 51.0025676280889, 
       "housenumber": "4", 
+      "lat": 51.0025676280889, 
+      "lon": 3.206462045099253, 
       "pcode": 8851, 
-      "street": "Braambessenstraat", 
-      "lon": 3.206462045099253
+      "street": "Braambessenstraat"
     }
-  ], 
-  "name": "Braambessenstraat"
+  ]
 }

@@ -1,23 +1,21 @@
 {
-  "pcode": 3665, 
   "addresses": [
     {
-      "lat": 51.008241040141804, 
       "housenumber": "1", 
+      "lat": 51.008241040141804, 
+      "lon": 5.585058440286673, 
       "pcode": 3665, 
-      "street": "Sint-Aldegondisplein", 
-      "lon": 5.585058440286673
+      "street": "Sint-Aldegondisplein"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3665, 
-      "street": "Sint-Aldegondisplein", 
-      "housenumber": "3"
+      "street": "Sint-Aldegondisplein"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3665, 
-      "street": "Sint-Aldegondisplein", 
-      "housenumber": "4"
+      "street": "Sint-Aldegondisplein"
     }
-  ], 
-  "name": "Sint-Aldegondisplein"
+  ]
 }

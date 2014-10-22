@@ -1,20 +1,18 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.248135602526176, 
       "housenumber": "1", 
+      "lat": 51.248135602526176, 
+      "lon": 3.314846971100884, 
       "pcode": 8340, 
-      "street": "Masschersheule", 
-      "lon": 3.314846971100884
+      "street": "Masschersheule"
     }, 
     {
-      "lat": 51.2483595461899, 
       "housenumber": "3", 
+      "lat": 51.2483595461899, 
+      "lon": 3.3174477206087176, 
       "pcode": 8340, 
-      "street": "Masschersheule", 
-      "lon": 3.3174477206087176
+      "street": "Masschersheule"
     }
-  ], 
-  "name": "Masschersheule"
+  ]
 }

@@ -1,25 +1,23 @@
 {
-  "pcode": 2260, 
   "addresses": [
     {
-      "lat": 51.08888496044424, 
       "housenumber": "18", 
+      "lat": 51.08888496044424, 
+      "lon": 4.834024797170167, 
       "pcode": 2260, 
-      "street": "Straatje", 
-      "lon": 4.834024797170167
+      "street": "Straatje"
     }, 
     {
+      "housenumber": "20", 
       "pcode": 2260, 
-      "street": "Straatje", 
-      "housenumber": "20"
+      "street": "Straatje"
     }, 
     {
-      "lat": 51.08897153840725, 
       "housenumber": "4", 
+      "lat": 51.08897153840725, 
+      "lon": 4.835882600471401, 
       "pcode": 2260, 
-      "street": "Straatje", 
-      "lon": 4.835882600471401
+      "street": "Straatje"
     }
-  ], 
-  "name": "Straatje"
+  ]
 }

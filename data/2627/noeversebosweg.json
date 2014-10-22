@@ -1,32 +1,30 @@
 {
-  "pcode": 2627, 
   "addresses": [
     {
-      "lat": 51.13011255709631, 
       "housenumber": "1", 
+      "lat": 51.13011255709631, 
+      "lon": 4.338726262355035, 
       "pcode": 2627, 
-      "street": "Noeversebosweg", 
-      "lon": 4.338726262355035
+      "street": "Noeversebosweg"
     }, 
     {
-      "lat": 51.13076854600294, 
       "housenumber": "15", 
+      "lat": 51.13076854600294, 
+      "lon": 4.337988138613515, 
       "pcode": 2627, 
-      "street": "Noeversebosweg", 
-      "lon": 4.337988138613515
+      "street": "Noeversebosweg"
     }, 
     {
-      "lat": 51.130180612580695, 
       "housenumber": "3", 
+      "lat": 51.130180612580695, 
+      "lon": 4.338770790347945, 
       "pcode": 2627, 
-      "street": "Noeversebosweg", 
-      "lon": 4.338770790347945
+      "street": "Noeversebosweg"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2627, 
-      "street": "Noeversebosweg", 
-      "housenumber": "5"
+      "street": "Noeversebosweg"
     }
-  ], 
-  "name": "Noeversebosweg"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.935575197284194, 
       "housenumber": "2", 
+      "lat": 50.935575197284194, 
+      "lon": 5.340333927605157, 
       "pcode": 3500, 
-      "street": "Zonnestraat", 
-      "lon": 5.340333927605157
+      "street": "Zonnestraat"
     }, 
     {
-      "lat": 50.93558626047295, 
       "housenumber": "4", 
+      "lat": 50.93558626047295, 
+      "lon": 5.340648299058778, 
       "pcode": 3500, 
-      "street": "Zonnestraat", 
-      "lon": 5.340648299058778
+      "street": "Zonnestraat"
     }, 
     {
-      "lat": 50.935541780323355, 
       "housenumber": "6", 
+      "lat": 50.935541780323355, 
+      "lon": 5.340808716139186, 
       "pcode": 3500, 
-      "street": "Zonnestraat", 
-      "lon": 5.340808716139186
+      "street": "Zonnestraat"
     }
-  ], 
-  "name": "Zonnestraat"
+  ]
 }

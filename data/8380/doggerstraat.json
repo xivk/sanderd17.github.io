@@ -1,35 +1,33 @@
 {
-  "pcode": 8380, 
   "addresses": [
     {
-      "lat": 51.32233192397924, 
       "housenumber": "14", 
+      "lat": 51.32233192397924, 
+      "lon": 3.2043419891558442, 
       "pcode": 8380, 
-      "street": "Doggerstraat", 
-      "lon": 3.2043419891558442
+      "street": "Doggerstraat"
     }, 
     {
-      "lat": 51.32236162040451, 
       "housenumber": "15", 
+      "lat": 51.32236162040451, 
+      "lon": 3.204638213821022, 
       "pcode": 8380, 
-      "street": "Doggerstraat", 
-      "lon": 3.204638213821022
+      "street": "Doggerstraat"
     }, 
     {
+      "housenumber": "18", 
       "pcode": 8380, 
-      "street": "Doggerstraat", 
-      "housenumber": "18"
+      "street": "Doggerstraat"
     }, 
     {
+      "housenumber": "21", 
       "pcode": 8380, 
-      "street": "Doggerstraat", 
-      "housenumber": "21"
+      "street": "Doggerstraat"
     }, 
     {
+      "housenumber": "32", 
       "pcode": 8380, 
-      "street": "Doggerstraat", 
-      "housenumber": "32"
+      "street": "Doggerstraat"
     }
-  ], 
-  "name": "Doggerstraat"
+  ]
 }

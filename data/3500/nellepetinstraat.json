@@ -1,60 +1,58 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3500, 
-      "street": "Nellepetinstraat", 
-      "housenumber": "1"
+      "street": "Nellepetinstraat"
     }, 
     {
-      "lat": 50.90900396975277, 
       "housenumber": "11", 
+      "lat": 50.90900396975277, 
+      "lon": 5.353754439979056, 
       "pcode": 3500, 
-      "street": "Nellepetinstraat", 
-      "lon": 5.353754439979056
+      "street": "Nellepetinstraat"
     }, 
     {
-      "lat": 50.90912966628752, 
       "housenumber": "3", 
+      "lat": 50.90912966628752, 
+      "lon": 5.354116831935656, 
       "pcode": 3500, 
-      "street": "Nellepetinstraat", 
-      "lon": 5.354116831935656
+      "street": "Nellepetinstraat"
     }, 
     {
-      "lat": 50.90909139484129, 
       "housenumber": "5", 
+      "lat": 50.90909139484129, 
+      "lon": 5.35402800956989, 
       "pcode": 3500, 
-      "street": "Nellepetinstraat", 
-      "lon": 5.35402800956989
+      "street": "Nellepetinstraat"
     }, 
     {
-      "lat": 50.908551155225, 
       "housenumber": "6", 
+      "lat": 50.908551155225, 
+      "lon": 5.353687912533509, 
       "pcode": 3500, 
-      "street": "Nellepetinstraat", 
-      "lon": 5.353687912533509
+      "street": "Nellepetinstraat"
     }, 
     {
-      "lat": 50.909061333493945, 
       "housenumber": "7", 
+      "lat": 50.909061333493945, 
+      "lon": 5.353957134089228, 
       "pcode": 3500, 
-      "street": "Nellepetinstraat", 
-      "lon": 5.353957134089228
+      "street": "Nellepetinstraat"
     }, 
     {
-      "lat": 50.908351359857306, 
       "housenumber": "8", 
+      "lat": 50.908351359857306, 
+      "lon": 5.353220597177796, 
       "pcode": 3500, 
-      "street": "Nellepetinstraat", 
-      "lon": 5.353220597177796
+      "street": "Nellepetinstraat"
     }, 
     {
-      "lat": 50.909031272103576, 
       "housenumber": "9", 
+      "lat": 50.909031272103576, 
+      "lon": 5.353886258699335, 
       "pcode": 3500, 
-      "street": "Nellepetinstraat", 
-      "lon": 5.353886258699335
+      "street": "Nellepetinstraat"
     }
-  ], 
-  "name": "Nellepetinstraat"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 3650, 
   "addresses": [
     {
-      "lat": 51.05623196342115, 
       "housenumber": "4", 
+      "lat": 51.05623196342115, 
+      "lon": 5.721527322473696, 
       "pcode": 3650, 
-      "street": "Ekselstraat", 
-      "lon": 5.721527322473696
+      "street": "Ekselstraat"
     }, 
     {
-      "lat": 51.05686975418838, 
       "housenumber": "5", 
+      "lat": 51.05686975418838, 
+      "lon": 5.721901980438648, 
       "pcode": 3650, 
-      "street": "Ekselstraat", 
-      "lon": 5.721901980438648
+      "street": "Ekselstraat"
     }, 
     {
+      "housenumber": "5A", 
       "pcode": 3650, 
-      "street": "Ekselstraat", 
-      "housenumber": "5A"
+      "street": "Ekselstraat"
     }, 
     {
-      "lat": 51.05630778178347, 
       "housenumber": "9", 
+      "lat": 51.05630778178347, 
+      "lon": 5.722338358347005, 
       "pcode": 3650, 
-      "street": "Ekselstraat", 
-      "lon": 5.722338358347005
+      "street": "Ekselstraat"
     }
-  ], 
-  "name": "Ekselstraat"
+  ]
 }

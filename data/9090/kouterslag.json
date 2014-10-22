@@ -1,53 +1,51 @@
 {
-  "pcode": 9090, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9090, 
-      "street": "Kouterslag", 
-      "housenumber": "1"
+      "street": "Kouterslag"
     }, 
     {
-      "lat": 50.99556196686512, 
       "housenumber": "1A", 
+      "lat": 50.99556196686512, 
+      "lon": 3.806944661917346, 
       "pcode": 9090, 
-      "street": "Kouterslag", 
-      "lon": 3.806944661917346
+      "street": "Kouterslag"
     }, 
     {
-      "lat": 50.99454129940377, 
       "housenumber": "2", 
+      "lat": 50.99454129940377, 
+      "lon": 3.8111798202405502, 
       "pcode": 9090, 
-      "street": "Kouterslag", 
-      "lon": 3.8111798202405502
+      "street": "Kouterslag"
     }, 
     {
-      "lat": 50.99243818524671, 
       "housenumber": "3", 
+      "lat": 50.99243818524671, 
+      "lon": 3.8118721402833082, 
       "pcode": 9090, 
-      "street": "Kouterslag", 
-      "lon": 3.8118721402833082
+      "street": "Kouterslag"
     }, 
     {
-      "lat": 50.993985791335795, 
       "housenumber": "4", 
+      "lat": 50.993985791335795, 
+      "lon": 3.8112251668290145, 
       "pcode": 9090, 
-      "street": "Kouterslag", 
-      "lon": 3.8112251668290145
+      "street": "Kouterslag"
     }, 
     {
-      "lat": 50.99324780164084, 
       "housenumber": "6", 
+      "lat": 50.99324780164084, 
+      "lon": 3.8117841877732963, 
       "pcode": 9090, 
-      "street": "Kouterslag", 
-      "lon": 3.8117841877732963
+      "street": "Kouterslag"
     }, 
     {
-      "lat": 50.99258966936562, 
       "housenumber": "8", 
+      "lat": 50.99258966936562, 
+      "lon": 3.8110578678379374, 
       "pcode": 9090, 
-      "street": "Kouterslag", 
-      "lon": 3.8110578678379374
+      "street": "Kouterslag"
     }
-  ], 
-  "name": "Kouterslag"
+  ]
 }

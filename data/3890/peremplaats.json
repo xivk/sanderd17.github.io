@@ -1,39 +1,37 @@
 {
-  "pcode": 3890, 
   "addresses": [
     {
-      "lat": 50.72191471387493, 
       "housenumber": "1", 
+      "lat": 50.72191471387493, 
+      "lon": 5.131353447299136, 
       "pcode": 3890, 
-      "street": "Peremplaats", 
-      "lon": 5.131353447299136
+      "street": "Peremplaats"
     }, 
     {
-      "lat": 50.721938300254216, 
       "housenumber": "2", 
+      "lat": 50.721938300254216, 
+      "lon": 5.1313072346519135, 
       "pcode": 3890, 
-      "street": "Peremplaats", 
-      "lon": 5.1313072346519135
+      "street": "Peremplaats"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3890, 
-      "street": "Peremplaats", 
-      "housenumber": "3"
+      "street": "Peremplaats"
     }, 
     {
-      "lat": 50.722478256963925, 
       "housenumber": "4", 
+      "lat": 50.722478256963925, 
+      "lon": 5.1313346732120255, 
       "pcode": 3890, 
-      "street": "Peremplaats", 
-      "lon": 5.1313346732120255
+      "street": "Peremplaats"
     }, 
     {
-      "lat": 50.72240078817773, 
       "housenumber": "5", 
+      "lat": 50.72240078817773, 
+      "lon": 5.131041101871834, 
       "pcode": 3890, 
-      "street": "Peremplaats", 
-      "lon": 5.131041101871834
+      "street": "Peremplaats"
     }
-  ], 
-  "name": "Peremplaats"
+  ]
 }

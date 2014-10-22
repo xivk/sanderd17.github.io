@@ -1,32 +1,30 @@
 {
-  "pcode": 9831, 
   "addresses": [
     {
-      "lat": 50.98401413054116, 
       "housenumber": "17", 
+      "lat": 50.98401413054116, 
+      "lon": 3.6146449684059796, 
       "pcode": 9831, 
-      "street": "Voldershof", 
-      "lon": 3.6146449684059796
+      "street": "Voldershof"
     }, 
     {
+      "housenumber": "17A", 
       "pcode": 9831, 
-      "street": "Voldershof", 
-      "housenumber": "17A"
+      "street": "Voldershof"
     }, 
     {
-      "lat": 50.98517787787611, 
       "housenumber": "5", 
+      "lat": 50.98517787787611, 
+      "lon": 3.6107877492220357, 
       "pcode": 9831, 
-      "street": "Voldershof", 
-      "lon": 3.6107877492220357
+      "street": "Voldershof"
     }, 
     {
-      "lat": 50.985289181537965, 
       "housenumber": "7", 
+      "lat": 50.985289181537965, 
+      "lon": 3.6116978700337, 
       "pcode": 9831, 
-      "street": "Voldershof", 
-      "lon": 3.6116978700337
+      "street": "Voldershof"
     }
-  ], 
-  "name": "Voldershof"
+  ]
 }

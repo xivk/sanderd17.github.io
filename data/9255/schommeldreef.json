@@ -1,20 +1,18 @@
 {
-  "pcode": 9255, 
   "addresses": [
     {
-      "lat": 51.00073912572824, 
       "housenumber": "1", 
+      "lat": 51.00073912572824, 
+      "lon": 4.197542886848411, 
       "pcode": 9255, 
-      "street": "Schommeldreef", 
-      "lon": 4.197542886848411
+      "street": "Schommeldreef"
     }, 
     {
-      "lat": 50.99633962052265, 
       "housenumber": "2", 
+      "lat": 50.99633962052265, 
+      "lon": 4.199192909028013, 
       "pcode": 9255, 
-      "street": "Schommeldreef", 
-      "lon": 4.199192909028013
+      "street": "Schommeldreef"
     }
-  ], 
-  "name": "Schommeldreef"
+  ]
 }

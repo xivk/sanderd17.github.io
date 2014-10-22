@@ -1,20 +1,18 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
-      "lat": 50.92326922694045, 
       "housenumber": "1", 
+      "lat": 50.92326922694045, 
+      "lon": 4.408833823803858, 
       "pcode": 1800, 
-      "street": "Plein Vilvoordse Haard", 
-      "lon": 4.408833823803858
+      "street": "Plein Vilvoordse Haard"
     }, 
     {
-      "lat": 50.92337189735751, 
       "housenumber": "2", 
+      "lat": 50.92337189735751, 
+      "lon": 4.408276105189862, 
       "pcode": 1800, 
-      "street": "Plein Vilvoordse Haard", 
-      "lon": 4.408276105189862
+      "street": "Plein Vilvoordse Haard"
     }
-  ], 
-  "name": "Plein Vilvoordse Haard"
+  ]
 }

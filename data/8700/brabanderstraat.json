@@ -1,27 +1,25 @@
 {
-  "pcode": 8700, 
   "addresses": [
     {
-      "lat": 50.98590463850135, 
       "housenumber": "2", 
+      "lat": 50.98590463850135, 
+      "lon": 3.4018265194209443, 
       "pcode": 8700, 
-      "street": "Brabanderstraat", 
-      "lon": 3.4018265194209443
+      "street": "Brabanderstraat"
     }, 
     {
-      "lat": 50.98538251197389, 
       "housenumber": "3", 
+      "lat": 50.98538251197389, 
+      "lon": 3.3997174216667267, 
       "pcode": 8700, 
-      "street": "Brabanderstraat", 
-      "lon": 3.3997174216667267
+      "street": "Brabanderstraat"
     }, 
     {
-      "lat": 50.985220326609245, 
       "housenumber": "4", 
+      "lat": 50.985220326609245, 
+      "lon": 3.4020015684695797, 
       "pcode": 8700, 
-      "street": "Brabanderstraat", 
-      "lon": 3.4020015684695797
+      "street": "Brabanderstraat"
     }
-  ], 
-  "name": "Brabanderstraat"
+  ]
 }

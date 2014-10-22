@@ -1,27 +1,25 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.20672875187873, 
       "housenumber": "1", 
+      "lat": 51.20672875187873, 
+      "lon": 3.2169291818201806, 
       "pcode": 8000, 
-      "street": "Kleine Hoefijzerstraat", 
-      "lon": 3.2169291818201806
+      "street": "Kleine Hoefijzerstraat"
     }, 
     {
-      "lat": 51.206794929484026, 
       "housenumber": "3", 
+      "lat": 51.206794929484026, 
+      "lon": 3.2169676183206524, 
       "pcode": 8000, 
-      "street": "Kleine Hoefijzerstraat", 
-      "lon": 3.2169676183206524
+      "street": "Kleine Hoefijzerstraat"
     }, 
     {
-      "lat": 51.20692547324264, 
       "housenumber": "4", 
+      "lat": 51.20692547324264, 
+      "lon": 3.216876957907119, 
       "pcode": 8000, 
-      "street": "Kleine Hoefijzerstraat", 
-      "lon": 3.216876957907119
+      "street": "Kleine Hoefijzerstraat"
     }
-  ], 
-  "name": "Kleine Hoefijzerstraat"
+  ]
 }

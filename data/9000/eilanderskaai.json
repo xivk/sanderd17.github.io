@@ -1,34 +1,32 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.111439988186774, 
       "housenumber": "3", 
+      "lat": 51.111439988186774, 
+      "lon": 3.740413882307267, 
       "pcode": 9000, 
-      "street": "Eilanderskaai", 
-      "lon": 3.740413882307267
+      "street": "Eilanderskaai"
     }, 
     {
-      "lat": 51.11136699874101, 
       "housenumber": "5", 
+      "lat": 51.11136699874101, 
+      "lon": 3.7410057790952496, 
       "pcode": 9000, 
-      "street": "Eilanderskaai", 
-      "lon": 3.7410057790952496
+      "street": "Eilanderskaai"
     }, 
     {
-      "lat": 51.11114826891956, 
       "housenumber": "7", 
+      "lat": 51.11114826891956, 
+      "lon": 3.7414238384236547, 
       "pcode": 9000, 
-      "street": "Eilanderskaai", 
-      "lon": 3.7414238384236547
+      "street": "Eilanderskaai"
     }, 
     {
-      "lat": 51.11176924270629, 
       "housenumber": "9", 
+      "lat": 51.11176924270629, 
+      "lon": 3.742526239792962, 
       "pcode": 9000, 
-      "street": "Eilanderskaai", 
-      "lon": 3.742526239792962
+      "street": "Eilanderskaai"
     }
-  ], 
-  "name": "Eilanderskaai"
+  ]
 }

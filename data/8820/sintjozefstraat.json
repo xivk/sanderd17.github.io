@@ -1,20 +1,18 @@
 {
-  "pcode": 8820, 
   "addresses": [
     {
-      "lat": 51.068838287606766, 
       "housenumber": "1", 
+      "lat": 51.068838287606766, 
+      "lon": 3.1067817756266933, 
       "pcode": 8820, 
-      "street": "Sint-Jozefstraat", 
-      "lon": 3.1067817756266933
+      "street": "Sint-Jozefstraat"
     }, 
     {
-      "lat": 51.06872735258156, 
       "housenumber": "2", 
+      "lat": 51.06872735258156, 
+      "lon": 3.1067569426230506, 
       "pcode": 8820, 
-      "street": "Sint-Jozefstraat", 
-      "lon": 3.1067569426230506
+      "street": "Sint-Jozefstraat"
     }
-  ], 
-  "name": "Sint-Jozefstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.86305705252934, 
       "housenumber": "1", 
+      "lat": 50.86305705252934, 
+      "lon": 3.6665595504047617, 
       "pcode": 9700, 
-      "street": "Lage Dumpel", 
-      "lon": 3.6665595504047617
+      "street": "Lage Dumpel"
     }, 
     {
-      "lat": 50.86302386459003, 
       "housenumber": "2", 
+      "lat": 50.86302386459003, 
+      "lon": 3.6685896420604425, 
       "pcode": 9700, 
-      "street": "Lage Dumpel", 
-      "lon": 3.6685896420604425
+      "street": "Lage Dumpel"
     }
-  ], 
-  "name": "Lage Dumpel"
+  ]
 }

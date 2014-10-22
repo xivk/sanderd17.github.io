@@ -1,25 +1,23 @@
 {
-  "pcode": 3120, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3120, 
-      "street": "Fatimaweg", 
-      "housenumber": "10"
+      "street": "Fatimaweg"
     }, 
     {
-      "lat": 50.99572259734737, 
       "housenumber": "5", 
+      "lat": 50.99572259734737, 
+      "lon": 4.711693557607991, 
       "pcode": 3120, 
-      "street": "Fatimaweg", 
-      "lon": 4.711693557607991
+      "street": "Fatimaweg"
     }, 
     {
-      "lat": 50.99571912665305, 
       "housenumber": "5A", 
+      "lat": 50.99571912665305, 
+      "lon": 4.711804640378258, 
       "pcode": 3120, 
-      "street": "Fatimaweg", 
-      "lon": 4.711804640378258
+      "street": "Fatimaweg"
     }
-  ], 
-  "name": "Fatimaweg"
+  ]
 }

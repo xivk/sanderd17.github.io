@@ -1,20 +1,18 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.83276731440647, 
       "housenumber": "1", 
+      "lat": 50.83276731440647, 
+      "lon": 3.6285626959231068, 
       "pcode": 9700, 
-      "street": "Doolstraat", 
-      "lon": 3.6285626959231068
+      "street": "Doolstraat"
     }, 
     {
-      "lat": 50.833134999844106, 
       "housenumber": "2", 
+      "lat": 50.833134999844106, 
+      "lon": 3.6287044091055747, 
       "pcode": 9700, 
-      "street": "Doolstraat", 
-      "lon": 3.6287044091055747
+      "street": "Doolstraat"
     }
-  ], 
-  "name": "Doolstraat"
+  ]
 }

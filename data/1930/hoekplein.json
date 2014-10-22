@@ -1,32 +1,30 @@
 {
-  "pcode": 1930, 
   "addresses": [
     {
-      "lat": 50.88918081843275, 
       "housenumber": "1", 
+      "lat": 50.88918081843275, 
+      "lon": 4.462902343070336, 
       "pcode": 1930, 
-      "street": "Hoekplein", 
-      "lon": 4.462902343070336
+      "street": "Hoekplein"
     }, 
     {
-      "lat": 50.88917011102977, 
       "housenumber": "2", 
+      "lat": 50.88917011102977, 
+      "lon": 4.462803404629246, 
       "pcode": 1930, 
-      "street": "Hoekplein", 
-      "lon": 4.462803404629246
+      "street": "Hoekplein"
     }, 
     {
-      "lat": 50.889161367459764, 
       "housenumber": "3", 
+      "lat": 50.889161367459764, 
+      "lon": 4.462721524811596, 
       "pcode": 1930, 
-      "street": "Hoekplein", 
-      "lon": 4.462721524811596
+      "street": "Hoekplein"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 1930, 
-      "street": "Hoekplein", 
-      "housenumber": "4"
+      "street": "Hoekplein"
     }
-  ], 
-  "name": "Hoekplein"
+  ]
 }

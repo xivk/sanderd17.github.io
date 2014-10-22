@@ -1,20 +1,18 @@
 {
-  "pcode": 3870, 
   "addresses": [
     {
-      "lat": 50.7501998347774, 
       "housenumber": "1", 
+      "lat": 50.7501998347774, 
+      "lon": 5.288516742890604, 
       "pcode": 3870, 
-      "street": "Eskensstraat", 
-      "lon": 5.288516742890604
+      "street": "Eskensstraat"
     }, 
     {
-      "lat": 50.752266758929565, 
       "housenumber": "40", 
+      "lat": 50.752266758929565, 
+      "lon": 5.287014800823484, 
       "pcode": 3870, 
-      "street": "Eskensstraat", 
-      "lon": 5.287014800823484
+      "street": "Eskensstraat"
     }
-  ], 
-  "name": "Eskensstraat"
+  ]
 }

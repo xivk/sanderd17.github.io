@@ -1,63 +1,61 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.053498708119115, 
       "housenumber": "1", 
-      "pcode": 9000, 
-      "street": "Biezekapelstraat", 
-      "lon": 3.726336359165625
-    }, 
-    {
-      "pcode": 9000, 
-      "street": "Biezekapelstraat", 
-      "housenumber": "1A"
-    }, 
-    {
-      "pcode": 9000, 
-      "street": "Biezekapelstraat", 
-      "housenumber": "1B"
-    }, 
-    {
       "lat": 51.053498708119115, 
+      "lon": 3.726336359165625, 
+      "pcode": 9000, 
+      "street": "Biezekapelstraat"
+    }, 
+    {
+      "housenumber": "1A", 
+      "pcode": 9000, 
+      "street": "Biezekapelstraat"
+    }, 
+    {
+      "housenumber": "1B", 
+      "pcode": 9000, 
+      "street": "Biezekapelstraat"
+    }, 
+    {
       "housenumber": "1C", 
+      "lat": 51.053498708119115, 
+      "lon": 3.726336359165625, 
       "pcode": 9000, 
-      "street": "Biezekapelstraat", 
-      "lon": 3.726336359165625
+      "street": "Biezekapelstraat"
     }, 
     {
-      "lat": 51.05356879192738, 
       "housenumber": "2", 
+      "lat": 51.05356879192738, 
+      "lon": 3.727023855413351, 
       "pcode": 9000, 
-      "street": "Biezekapelstraat", 
-      "lon": 3.727023855413351
+      "street": "Biezekapelstraat"
     }, 
     {
-      "lat": 51.053592611354716, 
       "housenumber": "3", 
+      "lat": 51.053592611354716, 
+      "lon": 3.726296990229563, 
       "pcode": 9000, 
-      "street": "Biezekapelstraat", 
-      "lon": 3.726296990229563
+      "street": "Biezekapelstraat"
     }, 
     {
-      "lat": 51.053550125383865, 
       "housenumber": "4", 
+      "lat": 51.053550125383865, 
+      "lon": 3.727062620203459, 
       "pcode": 9000, 
-      "street": "Biezekapelstraat", 
-      "lon": 3.727062620203459
+      "street": "Biezekapelstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9000, 
-      "street": "Biezekapelstraat", 
-      "housenumber": "5"
+      "street": "Biezekapelstraat"
     }, 
     {
-      "lat": 51.05363662520457, 
       "housenumber": "7", 
+      "lat": 51.05363662520457, 
+      "lon": 3.7262908241996544, 
       "pcode": 9000, 
-      "street": "Biezekapelstraat", 
-      "lon": 3.7262908241996544
+      "street": "Biezekapelstraat"
     }
-  ], 
-  "name": "Biezekapelstraat"
+  ]
 }

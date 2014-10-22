@@ -1,39 +1,37 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
+      "housenumber": "255", 
       "pcode": 2030, 
-      "street": "Vierde Havendok-Zuidkaai", 
-      "housenumber": "255"
+      "street": "Vierde Havendok-Zuidkaai"
     }, 
     {
-      "lat": 51.25147450430062, 
       "housenumber": "271", 
+      "lat": 51.25147450430062, 
+      "lon": 4.382377413102658, 
       "pcode": 2030, 
-      "street": "Vierde Havendok-Zuidkaai", 
-      "lon": 4.382377413102658
+      "street": "Vierde Havendok-Zuidkaai"
     }, 
     {
-      "lat": 51.25213058775662, 
       "housenumber": "275", 
+      "lat": 51.25213058775662, 
+      "lon": 4.377638605652525, 
       "pcode": 2030, 
-      "street": "Vierde Havendok-Zuidkaai", 
-      "lon": 4.377638605652525
+      "street": "Vierde Havendok-Zuidkaai"
     }, 
     {
-      "lat": 51.250652050061014, 
       "housenumber": "283", 
+      "lat": 51.250652050061014, 
+      "lon": 4.372523336300147, 
       "pcode": 2030, 
-      "street": "Vierde Havendok-Zuidkaai", 
-      "lon": 4.372523336300147
+      "street": "Vierde Havendok-Zuidkaai"
     }, 
     {
-      "lat": 51.25181847374353, 
       "housenumber": "287", 
+      "lat": 51.25181847374353, 
+      "lon": 4.361918720651359, 
       "pcode": 2030, 
-      "street": "Vierde Havendok-Zuidkaai", 
-      "lon": 4.361918720651359
+      "street": "Vierde Havendok-Zuidkaai"
     }
-  ], 
-  "name": "Vierde Havendok-Zuidkaai"
+  ]
 }

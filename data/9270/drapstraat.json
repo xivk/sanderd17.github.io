@@ -1,32 +1,30 @@
 {
-  "pcode": 9270, 
   "addresses": [
     {
-      "lat": 51.04584888366184, 
       "housenumber": "1", 
+      "lat": 51.04584888366184, 
+      "lon": 3.915187596161923, 
       "pcode": 9270, 
-      "street": "Drapstraat", 
-      "lon": 3.915187596161923
+      "street": "Drapstraat"
     }, 
     {
-      "lat": 51.04856095993004, 
       "housenumber": "11", 
+      "lat": 51.04856095993004, 
+      "lon": 3.915717241146583, 
       "pcode": 9270, 
-      "street": "Drapstraat", 
-      "lon": 3.915717241146583
+      "street": "Drapstraat"
     }, 
     {
-      "lat": 51.048868413232206, 
       "housenumber": "2", 
+      "lat": 51.048868413232206, 
+      "lon": 3.915232535303819, 
       "pcode": 9270, 
-      "street": "Drapstraat", 
-      "lon": 3.915232535303819
+      "street": "Drapstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9270, 
-      "street": "Drapstraat", 
-      "housenumber": "5"
+      "street": "Drapstraat"
     }
-  ], 
-  "name": "Drapstraat"
+  ]
 }

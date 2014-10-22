@@ -1,20 +1,18 @@
 {
-  "pcode": 8730, 
   "addresses": [
     {
-      "lat": 51.19131558265946, 
       "housenumber": "1", 
+      "lat": 51.19131558265946, 
+      "lon": 3.3484681814229478, 
       "pcode": 8730, 
-      "street": "Pieronzestraat", 
-      "lon": 3.3484681814229478
+      "street": "Pieronzestraat"
     }, 
     {
-      "lat": 51.19179898494896, 
       "housenumber": "2", 
+      "lat": 51.19179898494896, 
+      "lon": 3.3495783258234884, 
       "pcode": 8730, 
-      "street": "Pieronzestraat", 
-      "lon": 3.3495783258234884
+      "street": "Pieronzestraat"
     }
-  ], 
-  "name": "Pieronzestraat"
+  ]
 }

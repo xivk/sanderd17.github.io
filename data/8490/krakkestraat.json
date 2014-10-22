@@ -1,28 +1,26 @@
 {
-  "pcode": 8490, 
   "addresses": [
     {
-      "lat": 51.16502192340833, 
       "housenumber": "1", 
+      "lat": 51.16502192340833, 
+      "lon": 3.074814212338683, 
       "pcode": 8490, 
-      "street": "Krakkestraat", 
-      "lon": 3.074814212338683
+      "street": "Krakkestraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8490, 
-      "street": "Krakkestraat", 
-      "housenumber": "3"
+      "street": "Krakkestraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8490, 
-      "street": "Krakkestraat", 
-      "housenumber": "5"
+      "street": "Krakkestraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8490, 
-      "street": "Krakkestraat", 
-      "housenumber": "7"
+      "street": "Krakkestraat"
     }
-  ], 
-  "name": "Krakkestraat"
+  ]
 }

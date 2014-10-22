@@ -1,20 +1,18 @@
 {
-  "pcode": 8630, 
   "addresses": [
     {
-      "lat": 51.0832960137194, 
       "housenumber": "1", 
+      "lat": 51.0832960137194, 
+      "lon": 2.6710847277973477, 
       "pcode": 8630, 
-      "street": "Conterdijk", 
-      "lon": 2.6710847277973477
+      "street": "Conterdijk"
     }, 
     {
-      "lat": 51.07805504626489, 
       "housenumber": "2", 
+      "lat": 51.07805504626489, 
+      "lon": 2.668445796064725, 
       "pcode": 8630, 
-      "street": "Conterdijk", 
-      "lon": 2.668445796064725
+      "street": "Conterdijk"
     }
-  ], 
-  "name": "Conterdijk"
+  ]
 }

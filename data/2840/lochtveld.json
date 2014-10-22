@@ -1,40 +1,38 @@
 {
-  "pcode": 2840, 
   "addresses": [
     {
-      "lat": 51.08031649501814, 
       "housenumber": "1", 
+      "lat": 51.08031649501814, 
+      "lon": 4.429143877380862, 
       "pcode": 2840, 
-      "street": "Lochtveld", 
-      "lon": 4.429143877380862
+      "street": "Lochtveld"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2840, 
-      "street": "Lochtveld", 
-      "housenumber": "3"
+      "street": "Lochtveld"
     }, 
     {
-      "lat": 51.079952241137775, 
       "housenumber": "4", 
+      "lat": 51.079952241137775, 
+      "lon": 4.429365873303803, 
       "pcode": 2840, 
-      "street": "Lochtveld", 
-      "lon": 4.429365873303803
+      "street": "Lochtveld"
     }, 
     {
+      "housenumber": "42", 
       "pcode": 2840, 
-      "street": "Lochtveld", 
-      "housenumber": "42"
+      "street": "Lochtveld"
     }, 
     {
+      "housenumber": "44", 
       "pcode": 2840, 
-      "street": "Lochtveld", 
-      "housenumber": "44"
+      "street": "Lochtveld"
     }, 
     {
+      "housenumber": "46", 
       "pcode": 2840, 
-      "street": "Lochtveld", 
-      "housenumber": "46"
+      "street": "Lochtveld"
     }
-  ], 
-  "name": "Lochtveld"
+  ]
 }

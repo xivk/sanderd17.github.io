@@ -1,27 +1,25 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.21418959970735, 
       "housenumber": "1", 
+      "lat": 51.21418959970735, 
+      "lon": 4.40423980782502, 
       "pcode": 2000, 
-      "street": "Boogkeers", 
-      "lon": 4.40423980782502
+      "street": "Boogkeers"
     }, 
     {
-      "lat": 51.214200286493075, 
       "housenumber": "3", 
+      "lat": 51.214200286493075, 
+      "lon": 4.404270585250344, 
       "pcode": 2000, 
-      "street": "Boogkeers", 
-      "lon": 4.404270585250344
+      "street": "Boogkeers"
     }, 
     {
-      "lat": 51.214139295040454, 
       "housenumber": "5", 
+      "lat": 51.214139295040454, 
+      "lon": 4.404433542532727, 
       "pcode": 2000, 
-      "street": "Boogkeers", 
-      "lon": 4.404433542532727
+      "street": "Boogkeers"
     }
-  ], 
-  "name": "Boogkeers"
+  ]
 }

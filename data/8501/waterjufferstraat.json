@@ -1,51 +1,49 @@
 {
-  "pcode": 8501, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 8501, 
-      "street": "Waterjufferstraat", 
-      "housenumber": "10"
+      "street": "Waterjufferstraat"
     }, 
     {
-      "lat": 50.83679342795403, 
       "housenumber": "12", 
+      "lat": 50.83679342795403, 
+      "lon": 3.225741654064547, 
       "pcode": 8501, 
-      "street": "Waterjufferstraat", 
-      "lon": 3.225741654064547
+      "street": "Waterjufferstraat"
     }, 
     {
-      "lat": 50.83679499612297, 
       "housenumber": "14", 
+      "lat": 50.83679499612297, 
+      "lon": 3.2258380205548915, 
       "pcode": 8501, 
-      "street": "Waterjufferstraat", 
-      "lon": 3.2258380205548915
+      "street": "Waterjufferstraat"
     }, 
     {
-      "lat": 50.83685916414715, 
       "housenumber": "16", 
+      "lat": 50.83685916414715, 
+      "lon": 3.2258354677181234, 
       "pcode": 8501, 
-      "street": "Waterjufferstraat", 
-      "lon": 3.2258354677181234
+      "street": "Waterjufferstraat"
     }, 
     {
-      "lat": 50.83648891251449, 
       "housenumber": "2", 
+      "lat": 50.83648891251449, 
+      "lon": 3.2252984104699816, 
       "pcode": 8501, 
-      "street": "Waterjufferstraat", 
-      "lon": 3.2252984104699816
+      "street": "Waterjufferstraat"
     }, 
     {
-      "lat": 50.83652174969245, 
       "housenumber": "4", 
+      "lat": 50.83652174969245, 
+      "lon": 3.2253467372008577, 
       "pcode": 8501, 
-      "street": "Waterjufferstraat", 
-      "lon": 3.2253467372008577
+      "street": "Waterjufferstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 8501, 
-      "street": "Waterjufferstraat", 
-      "housenumber": "8"
+      "street": "Waterjufferstraat"
     }
-  ], 
-  "name": "Waterjufferstraat"
+  ]
 }

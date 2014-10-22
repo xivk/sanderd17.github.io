@@ -1,32 +1,30 @@
 {
-  "pcode": 3680, 
   "addresses": [
     {
+      "housenumber": "25", 
       "pcode": 3680, 
-      "street": "Schansweg", 
-      "housenumber": "25"
+      "street": "Schansweg"
     }, 
     {
-      "lat": 51.11613675709356, 
       "housenumber": "27", 
+      "lat": 51.11613675709356, 
+      "lon": 5.693909457227346, 
       "pcode": 3680, 
-      "street": "Schansweg", 
-      "lon": 5.693909457227346
+      "street": "Schansweg"
     }, 
     {
-      "lat": 51.1106896468332, 
       "housenumber": "4", 
+      "lat": 51.1106896468332, 
+      "lon": 5.694681387000389, 
       "pcode": 3680, 
-      "street": "Schansweg", 
-      "lon": 5.694681387000389
+      "street": "Schansweg"
     }, 
     {
-      "lat": 51.1110789993948, 
       "housenumber": "5", 
+      "lat": 51.1110789993948, 
+      "lon": 5.694194856924101, 
       "pcode": 3680, 
-      "street": "Schansweg", 
-      "lon": 5.694194856924101
+      "street": "Schansweg"
     }
-  ], 
-  "name": "Schansweg"
+  ]
 }

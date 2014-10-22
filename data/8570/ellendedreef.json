@@ -1,39 +1,37 @@
 {
-  "pcode": 8570, 
   "addresses": [
     {
-      "lat": 50.82589514731347, 
       "housenumber": "11", 
+      "lat": 50.82589514731347, 
+      "lon": 3.411909732070578, 
       "pcode": 8570, 
-      "street": "Ellendedreef", 
-      "lon": 3.411909732070578
+      "street": "Ellendedreef"
     }, 
     {
-      "lat": 50.82595041541228, 
       "housenumber": "13", 
+      "lat": 50.82595041541228, 
+      "lon": 3.411532318813416, 
       "pcode": 8570, 
-      "street": "Ellendedreef", 
-      "lon": 3.411532318813416
+      "street": "Ellendedreef"
     }, 
     {
-      "lat": 50.82544657413135, 
       "housenumber": "19", 
+      "lat": 50.82544657413135, 
+      "lon": 3.410527263071506, 
       "pcode": 8570, 
-      "street": "Ellendedreef", 
-      "lon": 3.410527263071506
+      "street": "Ellendedreef"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8570, 
-      "street": "Ellendedreef", 
-      "housenumber": "5"
+      "street": "Ellendedreef"
     }, 
     {
-      "lat": 50.82604279246238, 
       "housenumber": "7", 
+      "lat": 50.82604279246238, 
+      "lon": 3.412111127692662, 
       "pcode": 8570, 
-      "street": "Ellendedreef", 
-      "lon": 3.412111127692662
+      "street": "Ellendedreef"
     }
-  ], 
-  "name": "Ellendedreef"
+  ]
 }

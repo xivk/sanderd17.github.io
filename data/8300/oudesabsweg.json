@@ -1,25 +1,23 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.30520060069352, 
       "housenumber": "3", 
+      "lat": 51.30520060069352, 
+      "lon": 3.3241489973869855, 
       "pcode": 8300, 
-      "street": "Oude Sabsweg", 
-      "lon": 3.3241489973869855
+      "street": "Oude Sabsweg"
     }, 
     {
-      "lat": 51.30368980018952, 
       "housenumber": "5", 
+      "lat": 51.30368980018952, 
+      "lon": 3.3220066218529682, 
       "pcode": 8300, 
-      "street": "Oude Sabsweg", 
-      "lon": 3.3220066218529682
+      "street": "Oude Sabsweg"
     }, 
     {
+      "housenumber": "5A", 
       "pcode": 8300, 
-      "street": "Oude Sabsweg", 
-      "housenumber": "5A"
+      "street": "Oude Sabsweg"
     }
-  ], 
-  "name": "Oude Sabsweg"
+  ]
 }

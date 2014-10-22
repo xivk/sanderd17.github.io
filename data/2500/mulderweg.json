@@ -1,27 +1,25 @@
 {
-  "pcode": 2500, 
   "addresses": [
     {
-      "lat": 51.15033263715961, 
       "housenumber": "41", 
+      "lat": 51.15033263715961, 
+      "lon": 4.573705295889467, 
       "pcode": 2500, 
-      "street": "Mulderweg", 
-      "lon": 4.573705295889467
+      "street": "Mulderweg"
     }, 
     {
-      "lat": 51.15060305777822, 
       "housenumber": "45", 
+      "lat": 51.15060305777822, 
+      "lon": 4.573371487194183, 
       "pcode": 2500, 
-      "street": "Mulderweg", 
-      "lon": 4.573371487194183
+      "street": "Mulderweg"
     }, 
     {
-      "lat": 51.15244883297612, 
       "housenumber": "47", 
+      "lat": 51.15244883297612, 
+      "lon": 4.571737268118887, 
       "pcode": 2500, 
-      "street": "Mulderweg", 
-      "lon": 4.571737268118887
+      "street": "Mulderweg"
     }
-  ], 
-  "name": "Mulderweg"
+  ]
 }

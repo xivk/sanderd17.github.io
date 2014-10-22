@@ -1,42 +1,40 @@
 {
-  "pcode": 8380, 
   "addresses": [
     {
-      "lat": 51.328729737990834, 
       "housenumber": "1", 
+      "lat": 51.328729737990834, 
+      "lon": 3.192292975090939, 
       "pcode": 8380, 
-      "street": "Loodswezenstraat", 
-      "lon": 3.192292975090939
+      "street": "Loodswezenstraat"
     }, 
     {
-      "lat": 51.32873035210587, 
       "housenumber": "2", 
+      "lat": 51.32873035210587, 
+      "lon": 3.194123079535451, 
       "pcode": 8380, 
-      "street": "Loodswezenstraat", 
-      "lon": 3.194123079535451
+      "street": "Loodswezenstraat"
     }, 
     {
+      "housenumber": "21", 
       "pcode": 8380, 
-      "street": "Loodswezenstraat", 
-      "housenumber": "21"
+      "street": "Loodswezenstraat"
     }, 
     {
+      "housenumber": "30", 
       "pcode": 8380, 
-      "street": "Loodswezenstraat", 
-      "housenumber": "30"
+      "street": "Loodswezenstraat"
     }, 
     {
+      "housenumber": "31", 
       "pcode": 8380, 
-      "street": "Loodswezenstraat", 
-      "housenumber": "31"
+      "street": "Loodswezenstraat"
     }, 
     {
-      "lat": 51.32984745455073, 
       "housenumber": "4", 
+      "lat": 51.32984745455073, 
+      "lon": 3.195115213962723, 
       "pcode": 8380, 
-      "street": "Loodswezenstraat", 
-      "lon": 3.195115213962723
+      "street": "Loodswezenstraat"
     }
-  ], 
-  "name": "Loodswezenstraat"
+  ]
 }

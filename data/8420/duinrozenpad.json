@@ -1,30 +1,28 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8420, 
-      "street": "Duinrozenpad", 
-      "housenumber": "1"
+      "street": "Duinrozenpad"
     }, 
     {
-      "lat": 51.30046699838444, 
       "housenumber": "2", 
+      "lat": 51.30046699838444, 
+      "lon": 3.0841706593005362, 
       "pcode": 8420, 
-      "street": "Duinrozenpad", 
-      "lon": 3.0841706593005362
+      "street": "Duinrozenpad"
     }, 
     {
+      "housenumber": "2B", 
       "pcode": 8420, 
-      "street": "Duinrozenpad", 
-      "housenumber": "2B"
+      "street": "Duinrozenpad"
     }, 
     {
-      "lat": 51.30036428157695, 
       "housenumber": "4", 
+      "lat": 51.30036428157695, 
+      "lon": 3.084430749851666, 
       "pcode": 8420, 
-      "street": "Duinrozenpad", 
-      "lon": 3.084430749851666
+      "street": "Duinrozenpad"
     }
-  ], 
-  "name": "Duinrozenpad"
+  ]
 }

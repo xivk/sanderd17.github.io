@@ -1,20 +1,18 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.20923926945807, 
       "housenumber": "1", 
+      "lat": 51.20923926945807, 
+      "lon": 3.223689035558317, 
       "pcode": 8000, 
-      "street": "Geernaartstraat", 
-      "lon": 3.223689035558317
+      "street": "Geernaartstraat"
     }, 
     {
-      "lat": 51.20940526843901, 
       "housenumber": "2", 
+      "lat": 51.20940526843901, 
+      "lon": 3.2238244989051177, 
       "pcode": 8000, 
-      "street": "Geernaartstraat", 
-      "lon": 3.2238244989051177
+      "street": "Geernaartstraat"
     }
-  ], 
-  "name": "Geernaartstraat"
+  ]
 }

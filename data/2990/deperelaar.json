@@ -1,32 +1,30 @@
 {
-  "pcode": 2990, 
   "addresses": [
     {
-      "lat": 51.35521704824109, 
       "housenumber": "10", 
+      "lat": 51.35521704824109, 
+      "lon": 4.537927583746365, 
       "pcode": 2990, 
-      "street": "De Perelaar", 
-      "lon": 4.537927583746365
+      "street": "De Perelaar"
     }, 
     {
-      "lat": 51.35514171163442, 
       "housenumber": "12", 
+      "lat": 51.35514171163442, 
+      "lon": 4.538002813912732, 
       "pcode": 2990, 
-      "street": "De Perelaar", 
-      "lon": 4.538002813912732
+      "street": "De Perelaar"
     }, 
     {
+      "housenumber": "16", 
       "pcode": 2990, 
-      "street": "De Perelaar", 
-      "housenumber": "16"
+      "street": "De Perelaar"
     }, 
     {
-      "lat": 51.35544811416691, 
       "housenumber": "4", 
+      "lat": 51.35544811416691, 
+      "lon": 4.537685689379565, 
       "pcode": 2990, 
-      "street": "De Perelaar", 
-      "lon": 4.537685689379565
+      "street": "De Perelaar"
     }
-  ], 
-  "name": "De Perelaar"
+  ]
 }

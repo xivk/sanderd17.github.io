@@ -1,20 +1,18 @@
 {
-  "pcode": 8860, 
   "addresses": [
     {
-      "lat": 50.89805876276859, 
       "housenumber": "1", 
+      "lat": 50.89805876276859, 
+      "lon": 3.2376813412264034, 
       "pcode": 8860, 
-      "street": "Lokbeekstraat", 
-      "lon": 3.2376813412264034
+      "street": "Lokbeekstraat"
     }, 
     {
-      "lat": 50.89902024884054, 
       "housenumber": "3", 
+      "lat": 50.89902024884054, 
+      "lon": 3.239883122587264, 
       "pcode": 8860, 
-      "street": "Lokbeekstraat", 
-      "lon": 3.239883122587264
+      "street": "Lokbeekstraat"
     }
-  ], 
-  "name": "Lokbeekstraat"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 8310, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8310, 
-      "street": "Kanunnik Decoeneplein", 
-      "housenumber": "1"
+      "street": "Kanunnik Decoeneplein"
     }, 
     {
-      "lat": 51.21246008310611, 
       "housenumber": "2", 
+      "lat": 51.21246008310611, 
+      "lon": 3.287267092959723, 
       "pcode": 8310, 
-      "street": "Kanunnik Decoeneplein", 
-      "lon": 3.287267092959723
+      "street": "Kanunnik Decoeneplein"
     }, 
     {
-      "lat": 51.212320704871566, 
       "housenumber": "4", 
+      "lat": 51.212320704871566, 
+      "lon": 3.2869969608746814, 
       "pcode": 8310, 
-      "street": "Kanunnik Decoeneplein", 
-      "lon": 3.2869969608746814
+      "street": "Kanunnik Decoeneplein"
     }, 
     {
-      "lat": 51.212953271990266, 
       "housenumber": "6", 
+      "lat": 51.212953271990266, 
+      "lon": 3.286503977405127, 
       "pcode": 8310, 
-      "street": "Kanunnik Decoeneplein", 
-      "lon": 3.286503977405127
+      "street": "Kanunnik Decoeneplein"
     }
-  ], 
-  "name": "Kanunnik Decoeneplein"
+  ]
 }

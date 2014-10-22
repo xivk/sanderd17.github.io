@@ -1,37 +1,35 @@
 {
-  "pcode": 1640, 
   "addresses": [
     {
-      "lat": 50.745460313536356, 
       "housenumber": "1", 
+      "lat": 50.745460313536356, 
+      "lon": 4.344077626898155, 
       "pcode": 1640, 
-      "street": "Kloosterweg", 
-      "lon": 4.344077626898155
+      "street": "Kloosterweg"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 1640, 
-      "street": "Kloosterweg", 
-      "housenumber": "1A"
+      "street": "Kloosterweg"
     }, 
     {
-      "lat": 50.74547691034009, 
       "housenumber": "1B", 
+      "lat": 50.74547691034009, 
+      "lon": 4.3430551959361186, 
       "pcode": 1640, 
-      "street": "Kloosterweg", 
-      "lon": 4.3430551959361186
+      "street": "Kloosterweg"
     }, 
     {
-      "lat": 50.74494436741406, 
       "housenumber": "3", 
+      "lat": 50.74494436741406, 
+      "lon": 4.341469438135142, 
       "pcode": 1640, 
-      "street": "Kloosterweg", 
-      "lon": 4.341469438135142
+      "street": "Kloosterweg"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 1640, 
-      "street": "Kloosterweg", 
-      "housenumber": "5"
+      "street": "Kloosterweg"
     }
-  ], 
-  "name": "Kloosterweg"
+  ]
 }

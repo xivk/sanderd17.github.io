@@ -1,20 +1,18 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
-      "lat": 51.21254837976908, 
       "housenumber": "2", 
+      "lat": 51.21254837976908, 
+      "lon": 5.424666295643994, 
       "pcode": 3900, 
-      "street": "Lod Lavkistraat", 
-      "lon": 5.424666295643994
+      "street": "Lod Lavkistraat"
     }, 
     {
-      "lat": 51.212486386376185, 
       "housenumber": "4", 
+      "lat": 51.212486386376185, 
+      "lon": 5.425265858024205, 
       "pcode": 3900, 
-      "street": "Lod Lavkistraat", 
-      "lon": 5.425265858024205
+      "street": "Lod Lavkistraat"
     }
-  ], 
-  "name": "Lod Lavkistraat"
+  ]
 }

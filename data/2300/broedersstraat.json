@@ -1,20 +1,18 @@
 {
-  "pcode": 2300, 
   "addresses": [
     {
-      "lat": 51.32399343006309, 
       "housenumber": "2", 
+      "lat": 51.32399343006309, 
+      "lon": 4.944809580281056, 
       "pcode": 2300, 
-      "street": "Broedersstraat", 
-      "lon": 4.944809580281056
+      "street": "Broedersstraat"
     }, 
     {
-      "lat": 51.324188670474115, 
       "housenumber": "4", 
+      "lat": 51.324188670474115, 
+      "lon": 4.944917296646461, 
       "pcode": 2300, 
-      "street": "Broedersstraat", 
-      "lon": 4.944917296646461
+      "street": "Broedersstraat"
     }
-  ], 
-  "name": "Broedersstraat"
+  ]
 }

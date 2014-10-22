@@ -1,25 +1,23 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.909867886242516, 
       "housenumber": "1", 
+      "lat": 50.909867886242516, 
+      "lon": 3.1659333594511243, 
       "pcode": 8800, 
-      "street": "Jakenshof", 
-      "lon": 3.1659333594511243
+      "street": "Jakenshof"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 8800, 
-      "street": "Jakenshof", 
-      "housenumber": "1A"
+      "street": "Jakenshof"
     }, 
     {
-      "lat": 50.909688818205986, 
       "housenumber": "5", 
+      "lat": 50.909688818205986, 
+      "lon": 3.165022587595878, 
       "pcode": 8800, 
-      "street": "Jakenshof", 
-      "lon": 3.165022587595878
+      "street": "Jakenshof"
     }
-  ], 
-  "name": "Jakenshof"
+  ]
 }

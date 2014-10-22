@@ -1,32 +1,30 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 9600, 
-      "street": "Coq Battant", 
-      "housenumber": "2"
+      "street": "Coq Battant"
     }, 
     {
-      "lat": 50.732403900826405, 
       "housenumber": "4", 
+      "lat": 50.732403900826405, 
+      "lon": 3.6389529852661004, 
       "pcode": 9600, 
-      "street": "Coq Battant", 
-      "lon": 3.6389529852661004
+      "street": "Coq Battant"
     }, 
     {
-      "lat": 50.73236110800571, 
       "housenumber": "6", 
+      "lat": 50.73236110800571, 
+      "lon": 3.638953080764082, 
       "pcode": 9600, 
-      "street": "Coq Battant", 
-      "lon": 3.638953080764082
+      "street": "Coq Battant"
     }, 
     {
-      "lat": 50.73315547271293, 
       "housenumber": "9", 
+      "lat": 50.73315547271293, 
+      "lon": 3.639239971380152, 
       "pcode": 9600, 
-      "street": "Coq Battant", 
-      "lon": 3.639239971380152
+      "street": "Coq Battant"
     }
-  ], 
-  "name": "Coq Battant"
+  ]
 }

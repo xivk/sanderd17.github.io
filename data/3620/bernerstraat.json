@@ -1,20 +1,18 @@
 {
-  "pcode": 3620, 
   "addresses": [
     {
-      "lat": 50.887633104544655, 
       "housenumber": "2", 
+      "lat": 50.887633104544655, 
+      "lon": 5.662636107283086, 
       "pcode": 3620, 
-      "street": "Bernerstraat", 
-      "lon": 5.662636107283086
+      "street": "Bernerstraat"
     }, 
     {
-      "lat": 50.888137113543024, 
       "housenumber": "4", 
+      "lat": 50.888137113543024, 
+      "lon": 5.661797444254797, 
       "pcode": 3620, 
-      "street": "Bernerstraat", 
-      "lon": 5.661797444254797
+      "street": "Bernerstraat"
     }
-  ], 
-  "name": "Bernerstraat"
+  ]
 }

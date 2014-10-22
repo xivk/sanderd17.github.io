@@ -1,20 +1,18 @@
 {
-  "pcode": 2018, 
   "addresses": [
     {
-      "lat": 51.20694829047553, 
       "housenumber": "1", 
+      "lat": 51.20694829047553, 
+      "lon": 4.434416454441111, 
       "pcode": 2018, 
-      "street": "Omheining Statie van Borgerhout", 
-      "lon": 4.434416454441111
+      "street": "Omheining Statie van Borgerhout"
     }, 
     {
-      "lat": 51.20703505440394, 
       "housenumber": "2", 
+      "lat": 51.20703505440394, 
+      "lon": 4.434531050124683, 
       "pcode": 2018, 
-      "street": "Omheining Statie van Borgerhout", 
-      "lon": 4.434531050124683
+      "street": "Omheining Statie van Borgerhout"
     }
-  ], 
-  "name": "Omheining Statie van Borgerhout"
+  ]
 }

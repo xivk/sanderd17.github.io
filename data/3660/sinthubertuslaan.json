@@ -1,20 +1,18 @@
 {
-  "pcode": 3660, 
   "addresses": [
     {
-      "lat": 51.032825533167326, 
       "housenumber": "1", 
+      "lat": 51.032825533167326, 
+      "lon": 5.576237130634232, 
       "pcode": 3660, 
-      "street": "Sint-Hubertuslaan", 
-      "lon": 5.576237130634232
+      "street": "Sint-Hubertuslaan"
     }, 
     {
-      "lat": 51.03339082295058, 
       "housenumber": "2", 
+      "lat": 51.03339082295058, 
+      "lon": 5.575624944853486, 
       "pcode": 3660, 
-      "street": "Sint-Hubertuslaan", 
-      "lon": 5.575624944853486
+      "street": "Sint-Hubertuslaan"
     }
-  ], 
-  "name": "Sint-Hubertuslaan"
+  ]
 }

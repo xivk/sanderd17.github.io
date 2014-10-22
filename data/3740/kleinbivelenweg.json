@@ -1,18 +1,16 @@
 {
-  "pcode": 3740, 
   "addresses": [
     {
-      "lat": 50.8709580965305, 
       "housenumber": "1", 
+      "lat": 50.8709580965305, 
+      "lon": 5.490438016489454, 
       "pcode": 3740, 
-      "street": "Klein-Bivelenweg", 
-      "lon": 5.490438016489454
+      "street": "Klein-Bivelenweg"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3740, 
-      "street": "Klein-Bivelenweg", 
-      "housenumber": "3"
+      "street": "Klein-Bivelenweg"
     }
-  ], 
-  "name": "Klein-Bivelenweg"
+  ]
 }

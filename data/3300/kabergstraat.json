@@ -1,32 +1,30 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.835389661948135, 
       "housenumber": "1", 
+      "lat": 50.835389661948135, 
+      "lon": 4.906295648966395, 
       "pcode": 3300, 
-      "street": "Kabergstraat", 
-      "lon": 4.906295648966395
+      "street": "Kabergstraat"
     }, 
     {
-      "lat": 50.8342068737521, 
       "housenumber": "28", 
+      "lat": 50.8342068737521, 
+      "lon": 4.901377983410347, 
       "pcode": 3300, 
-      "street": "Kabergstraat", 
-      "lon": 4.901377983410347
+      "street": "Kabergstraat"
     }, 
     {
-      "lat": 50.83530368982394, 
       "housenumber": "3", 
+      "lat": 50.83530368982394, 
+      "lon": 4.906145462081737, 
       "pcode": 3300, 
-      "street": "Kabergstraat", 
-      "lon": 4.906145462081737
+      "street": "Kabergstraat"
     }, 
     {
+      "housenumber": "30", 
       "pcode": 3300, 
-      "street": "Kabergstraat", 
-      "housenumber": "30"
+      "street": "Kabergstraat"
     }
-  ], 
-  "name": "Kabergstraat"
+  ]
 }

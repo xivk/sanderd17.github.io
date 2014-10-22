@@ -1,20 +1,18 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.33464085416562, 
       "housenumber": "17", 
+      "lat": 51.33464085416562, 
+      "lon": 3.3626667697472206, 
       "pcode": 8300, 
-      "street": "Retranchementstraat", 
-      "lon": 3.3626667697472206
+      "street": "Retranchementstraat"
     }, 
     {
-      "lat": 51.335625391816336, 
       "housenumber": "27", 
+      "lat": 51.335625391816336, 
+      "lon": 3.3652765403902327, 
       "pcode": 8300, 
-      "street": "Retranchementstraat", 
-      "lon": 3.3652765403902327
+      "street": "Retranchementstraat"
     }
-  ], 
-  "name": "Retranchementstraat"
+  ]
 }

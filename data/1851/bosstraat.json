@@ -1,20 +1,18 @@
 {
-  "pcode": 1851, 
   "addresses": [
     {
-      "lat": 50.97007520462545, 
       "housenumber": "15", 
+      "lat": 50.97007520462545, 
+      "lon": 4.355659163282564, 
       "pcode": 1851, 
-      "street": "Bosstraat", 
-      "lon": 4.355659163282564
+      "street": "Bosstraat"
     }, 
     {
-      "lat": 50.969571489738335, 
       "housenumber": "25", 
+      "lat": 50.969571489738335, 
+      "lon": 4.3551856465918135, 
       "pcode": 1851, 
-      "street": "Bosstraat", 
-      "lon": 4.3551856465918135
+      "street": "Bosstraat"
     }
-  ], 
-  "name": "Bosstraat"
+  ]
 }

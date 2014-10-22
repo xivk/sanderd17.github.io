@@ -1,25 +1,23 @@
 {
-  "pcode": 3940, 
   "addresses": [
     {
-      "lat": 51.1522533427833, 
       "housenumber": "11", 
+      "lat": 51.1522533427833, 
+      "lon": 5.266292805467347, 
       "pcode": 3940, 
-      "street": "Tortelstraat", 
-      "lon": 5.266292805467347
+      "street": "Tortelstraat"
     }, 
     {
-      "lat": 51.152222119456454, 
       "housenumber": "12", 
+      "lat": 51.152222119456454, 
+      "lon": 5.265398446515294, 
       "pcode": 3940, 
-      "street": "Tortelstraat", 
-      "lon": 5.265398446515294
+      "street": "Tortelstraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 3940, 
-      "street": "Tortelstraat", 
-      "housenumber": "2A"
+      "street": "Tortelstraat"
     }
-  ], 
-  "name": "Tortelstraat"
+  ]
 }

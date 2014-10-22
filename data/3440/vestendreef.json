@@ -1,20 +1,18 @@
 {
-  "pcode": 3440, 
   "addresses": [
     {
-      "lat": 50.834443359031, 
       "housenumber": "1", 
+      "lat": 50.834443359031, 
+      "lon": 5.0997050257597945, 
       "pcode": 3440, 
-      "street": "Vestendreef", 
-      "lon": 5.0997050257597945
+      "street": "Vestendreef"
     }, 
     {
-      "lat": 50.835077244097434, 
       "housenumber": "2", 
+      "lat": 50.835077244097434, 
+      "lon": 5.10061182522406, 
       "pcode": 3440, 
-      "street": "Vestendreef", 
-      "lon": 5.10061182522406
+      "street": "Vestendreef"
     }
-  ], 
-  "name": "Vestendreef"
+  ]
 }

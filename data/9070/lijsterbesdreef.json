@@ -1,20 +1,18 @@
 {
-  "pcode": 9070, 
   "addresses": [
     {
-      "lat": 51.06126954223418, 
       "housenumber": "22", 
+      "lat": 51.06126954223418, 
+      "lon": 3.771192601231051, 
       "pcode": 9070, 
-      "street": "Lijsterbesdreef", 
-      "lon": 3.771192601231051
+      "street": "Lijsterbesdreef"
     }, 
     {
-      "lat": 51.06101328825464, 
       "housenumber": "24", 
+      "lat": 51.06101328825464, 
+      "lon": 3.771144944656781, 
       "pcode": 9070, 
-      "street": "Lijsterbesdreef", 
-      "lon": 3.771144944656781
+      "street": "Lijsterbesdreef"
     }
-  ], 
-  "name": "Lijsterbesdreef"
+  ]
 }

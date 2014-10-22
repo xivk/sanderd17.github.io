@@ -1,27 +1,25 @@
 {
-  "pcode": 8890, 
   "addresses": [
     {
-      "lat": 50.89483830800163, 
       "housenumber": "1", 
+      "lat": 50.89483830800163, 
+      "lon": 3.0920898244655546, 
       "pcode": 8890, 
-      "street": "Motedreef", 
-      "lon": 3.0920898244655546
+      "street": "Motedreef"
     }, 
     {
-      "lat": 50.89319549018685, 
       "housenumber": "2", 
+      "lat": 50.89319549018685, 
+      "lon": 3.094703204624318, 
       "pcode": 8890, 
-      "street": "Motedreef", 
-      "lon": 3.094703204624318
+      "street": "Motedreef"
     }, 
     {
-      "lat": 50.89435773037076, 
       "housenumber": "3", 
+      "lat": 50.89435773037076, 
+      "lon": 3.0943560947783886, 
       "pcode": 8890, 
-      "street": "Motedreef", 
-      "lon": 3.0943560947783886
+      "street": "Motedreef"
     }
-  ], 
-  "name": "Motedreef"
+  ]
 }

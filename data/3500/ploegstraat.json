@@ -1,39 +1,37 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.90830317057363, 
       "housenumber": "1", 
+      "lat": 50.90830317057363, 
+      "lon": 5.356633478832741, 
       "pcode": 3500, 
-      "street": "Ploegstraat", 
-      "lon": 5.356633478832741
+      "street": "Ploegstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3500, 
-      "street": "Ploegstraat", 
-      "housenumber": "3"
+      "street": "Ploegstraat"
     }, 
     {
-      "lat": 50.9089810506709, 
       "housenumber": "5", 
+      "lat": 50.9089810506709, 
+      "lon": 5.358838969314585, 
       "pcode": 3500, 
-      "street": "Ploegstraat", 
-      "lon": 5.358838969314585
+      "street": "Ploegstraat"
     }, 
     {
-      "lat": 50.909114348533905, 
       "housenumber": "7", 
+      "lat": 50.909114348533905, 
+      "lon": 5.358991229451265, 
       "pcode": 3500, 
-      "street": "Ploegstraat", 
-      "lon": 5.358991229451265
+      "street": "Ploegstraat"
     }, 
     {
-      "lat": 50.909722220765225, 
       "housenumber": "9", 
+      "lat": 50.909722220765225, 
+      "lon": 5.359773629693931, 
       "pcode": 3500, 
-      "street": "Ploegstraat", 
-      "lon": 5.359773629693931
+      "street": "Ploegstraat"
     }
-  ], 
-  "name": "Ploegstraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 2270, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2270, 
-      "street": "Zusterstraat", 
-      "housenumber": "1"
+      "street": "Zusterstraat"
     }, 
     {
-      "lat": 51.13637358608198, 
       "housenumber": "2", 
+      "lat": 51.13637358608198, 
+      "lon": 4.75708760587165, 
       "pcode": 2270, 
-      "street": "Zusterstraat", 
-      "lon": 4.75708760587165
+      "street": "Zusterstraat"
     }
-  ], 
-  "name": "Zusterstraat"
+  ]
 }

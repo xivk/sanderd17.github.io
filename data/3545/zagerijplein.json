@@ -1,37 +1,35 @@
 {
-  "pcode": 3545, 
   "addresses": [
     {
-      "lat": 50.946477629816094, 
       "housenumber": "1", 
+      "lat": 50.946477629816094, 
+      "lon": 5.1134560241011515, 
       "pcode": 3545, 
-      "street": "Zagerijplein", 
-      "lon": 5.1134560241011515
+      "street": "Zagerijplein"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 3545, 
-      "street": "Zagerijplein", 
-      "housenumber": "1B"
+      "street": "Zagerijplein"
     }, 
     {
-      "lat": 50.94652578984192, 
       "housenumber": "2", 
+      "lat": 50.94652578984192, 
+      "lon": 5.113389053352179, 
       "pcode": 3545, 
-      "street": "Zagerijplein", 
-      "lon": 5.113389053352179
+      "street": "Zagerijplein"
     }, 
     {
+      "housenumber": "2B", 
       "pcode": 3545, 
-      "street": "Zagerijplein", 
-      "housenumber": "2B"
+      "street": "Zagerijplein"
     }, 
     {
-      "lat": 50.94646476014477, 
       "housenumber": "3", 
+      "lat": 50.94646476014477, 
+      "lon": 5.113472468977169, 
       "pcode": 3545, 
-      "street": "Zagerijplein", 
-      "lon": 5.113472468977169
+      "street": "Zagerijplein"
     }
-  ], 
-  "name": "Zagerijplein"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 1861, 
   "addresses": [
     {
-      "lat": 50.961891372738975, 
       "housenumber": "17", 
+      "lat": 50.961891372738975, 
+      "lon": 4.325913522676932, 
       "pcode": 1861, 
-      "street": "Grensstraat", 
-      "lon": 4.325913522676932
+      "street": "Grensstraat"
     }, 
     {
-      "lat": 50.96115913255418, 
       "housenumber": "9", 
+      "lat": 50.96115913255418, 
+      "lon": 4.327506110931917, 
       "pcode": 1861, 
-      "street": "Grensstraat", 
-      "lon": 4.327506110931917
+      "street": "Grensstraat"
     }
-  ], 
-  "name": "Grensstraat"
+  ]
 }

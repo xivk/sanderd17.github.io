@@ -1,20 +1,18 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
-      "lat": 50.888674799205376, 
       "housenumber": "1", 
+      "lat": 50.888674799205376, 
+      "lon": 3.1384189843262904, 
       "pcode": 8800, 
-      "street": "Houtgrachtstraat", 
-      "lon": 3.1384189843262904
+      "street": "Houtgrachtstraat"
     }, 
     {
-      "lat": 50.88898418066081, 
       "housenumber": "2", 
+      "lat": 50.88898418066081, 
+      "lon": 3.14240034458705, 
       "pcode": 8800, 
-      "street": "Houtgrachtstraat", 
-      "lon": 3.14240034458705
+      "street": "Houtgrachtstraat"
     }
-  ], 
-  "name": "Houtgrachtstraat"
+  ]
 }

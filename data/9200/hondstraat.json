@@ -1,34 +1,32 @@
 {
-  "pcode": 9200, 
   "addresses": [
     {
-      "lat": 51.020862042008545, 
       "housenumber": "1", 
+      "lat": 51.020862042008545, 
+      "lon": 4.126830465146468, 
       "pcode": 9200, 
-      "street": "Hondstraat", 
-      "lon": 4.126830465146468
+      "street": "Hondstraat"
     }, 
     {
-      "lat": 51.02082109684547, 
       "housenumber": "3", 
+      "lat": 51.02082109684547, 
+      "lon": 4.127159759411787, 
       "pcode": 9200, 
-      "street": "Hondstraat", 
-      "lon": 4.127159759411787
+      "street": "Hondstraat"
     }, 
     {
-      "lat": 51.01767527013423, 
       "housenumber": "37", 
+      "lat": 51.01767527013423, 
+      "lon": 4.128169537263293, 
       "pcode": 9200, 
-      "street": "Hondstraat", 
-      "lon": 4.128169537263293
+      "street": "Hondstraat"
     }, 
     {
-      "lat": 51.02077996489763, 
       "housenumber": "5", 
+      "lat": 51.02077996489763, 
+      "lon": 4.127310189075272, 
       "pcode": 9200, 
-      "street": "Hondstraat", 
-      "lon": 4.127310189075272
+      "street": "Hondstraat"
     }
-  ], 
-  "name": "Hondstraat"
+  ]
 }

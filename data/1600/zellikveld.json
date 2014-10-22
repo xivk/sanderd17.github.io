@@ -1,18 +1,16 @@
 {
-  "pcode": 1600, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 1600, 
-      "street": "Zellikveld", 
-      "housenumber": "1"
+      "street": "Zellikveld"
     }, 
     {
-      "lat": 50.798279332434475, 
       "housenumber": "20", 
+      "lat": 50.798279332434475, 
+      "lon": 4.247562468635127, 
       "pcode": 1600, 
-      "street": "Zellikveld", 
-      "lon": 4.247562468635127
+      "street": "Zellikveld"
     }
-  ], 
-  "name": "Zellikveld"
+  ]
 }

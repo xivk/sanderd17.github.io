@@ -1,20 +1,18 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.8868848984919, 
       "housenumber": "1", 
+      "lat": 50.8868848984919, 
+      "lon": 4.706911306000557, 
       "pcode": 3000, 
-      "street": "Brouwerijplein", 
-      "lon": 4.706911306000557
+      "street": "Brouwerijplein"
     }, 
     {
-      "lat": 50.88627938187931, 
       "housenumber": "2", 
+      "lat": 50.88627938187931, 
+      "lon": 4.70693678155048, 
       "pcode": 3000, 
-      "street": "Brouwerijplein", 
-      "lon": 4.70693678155048
+      "street": "Brouwerijplein"
     }
-  ], 
-  "name": "Brouwerijplein"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.20301641074763, 
       "housenumber": "1", 
+      "lat": 51.20301641074763, 
+      "lon": 3.3567933109684556, 
       "pcode": 8340, 
-      "street": "Lampernisse", 
-      "lon": 3.3567933109684556
+      "street": "Lampernisse"
     }, 
     {
-      "lat": 51.20036664154714, 
       "housenumber": "3", 
+      "lat": 51.20036664154714, 
+      "lon": 3.3560690937367696, 
       "pcode": 8340, 
-      "street": "Lampernisse", 
-      "lon": 3.3560690937367696
+      "street": "Lampernisse"
     }
-  ], 
-  "name": "Lampernisse"
+  ]
 }

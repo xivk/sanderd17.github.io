@@ -1,20 +1,18 @@
 {
-  "pcode": 2321, 
   "addresses": [
     {
-      "lat": 51.42582649908734, 
       "housenumber": "145", 
+      "lat": 51.42582649908734, 
+      "lon": 4.756670338435832, 
       "pcode": 2321, 
-      "street": "Minderhoutsestraat", 
-      "lon": 4.756670338435832
+      "street": "Minderhoutsestraat"
     }, 
     {
-      "lat": 51.42783585820565, 
       "housenumber": "147", 
+      "lat": 51.42783585820565, 
+      "lon": 4.756183668871077, 
       "pcode": 2321, 
-      "street": "Minderhoutsestraat", 
-      "lon": 4.756183668871077
+      "street": "Minderhoutsestraat"
     }
-  ], 
-  "name": "Minderhoutsestraat"
+  ]
 }

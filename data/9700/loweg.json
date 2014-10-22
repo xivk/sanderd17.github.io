@@ -1,20 +1,18 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.87760255747457, 
       "housenumber": "1", 
+      "lat": 50.87760255747457, 
+      "lon": 3.57009694038994, 
       "pcode": 9700, 
-      "street": "Loweg", 
-      "lon": 3.57009694038994
+      "street": "Loweg"
     }, 
     {
-      "lat": 50.87776028916805, 
       "housenumber": "2", 
+      "lat": 50.87776028916805, 
+      "lon": 3.57142725828385, 
       "pcode": 9700, 
-      "street": "Loweg", 
-      "lon": 3.57142725828385
+      "street": "Loweg"
     }
-  ], 
-  "name": "Loweg"
+  ]
 }

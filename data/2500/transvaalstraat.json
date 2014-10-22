@@ -1,27 +1,25 @@
 {
-  "pcode": 2500, 
   "addresses": [
     {
-      "lat": 51.12675664958172, 
       "housenumber": "21", 
+      "lat": 51.12675664958172, 
+      "lon": 4.584299190338896, 
       "pcode": 2500, 
-      "street": "Transvaalstraat", 
-      "lon": 4.584299190338896
+      "street": "Transvaalstraat"
     }, 
     {
-      "lat": 51.126806872817134, 
       "housenumber": "23", 
+      "lat": 51.126806872817134, 
+      "lon": 4.5844102706130405, 
       "pcode": 2500, 
-      "street": "Transvaalstraat", 
-      "lon": 4.5844102706130405
+      "street": "Transvaalstraat"
     }, 
     {
-      "lat": 51.126916036707186, 
       "housenumber": "25", 
+      "lat": 51.126916036707186, 
+      "lon": 4.584535194508179, 
       "pcode": 2500, 
-      "street": "Transvaalstraat", 
-      "lon": 4.584535194508179
+      "street": "Transvaalstraat"
     }
-  ], 
-  "name": "Transvaalstraat"
+  ]
 }

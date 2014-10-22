@@ -1,20 +1,18 @@
 {
-  "pcode": 3360, 
   "addresses": [
     {
-      "lat": 50.8276571868796, 
       "housenumber": "1", 
+      "lat": 50.8276571868796, 
+      "lon": 4.743407311687161, 
       "pcode": 3360, 
-      "street": "Bergenstraat", 
-      "lon": 4.743407311687161
+      "street": "Bergenstraat"
     }, 
     {
-      "lat": 50.82797228813426, 
       "housenumber": "2A", 
+      "lat": 50.82797228813426, 
+      "lon": 4.744300633414633, 
       "pcode": 3360, 
-      "street": "Bergenstraat", 
-      "lon": 4.744300633414633
+      "street": "Bergenstraat"
     }
-  ], 
-  "name": "Bergenstraat"
+  ]
 }

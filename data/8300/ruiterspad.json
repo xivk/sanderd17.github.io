@@ -1,20 +1,18 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.35109844697965, 
       "housenumber": "2", 
+      "lat": 51.35109844697965, 
+      "lon": 3.3215066934642596, 
       "pcode": 8300, 
-      "street": "Ruiterspad", 
-      "lon": 3.3215066934642596
+      "street": "Ruiterspad"
     }, 
     {
-      "lat": 51.35073326283972, 
       "housenumber": "4", 
+      "lat": 51.35073326283972, 
+      "lon": 3.3215101767056505, 
       "pcode": 8300, 
-      "street": "Ruiterspad", 
-      "lon": 3.3215101767056505
+      "street": "Ruiterspad"
     }
-  ], 
-  "name": "Ruiterspad"
+  ]
 }

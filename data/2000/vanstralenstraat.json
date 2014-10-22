@@ -1,18 +1,16 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.22005910013158, 
       "housenumber": "18", 
+      "lat": 51.22005910013158, 
+      "lon": 4.418930526828021, 
       "pcode": 2000, 
-      "street": "Van Stralenstraat", 
-      "lon": 4.418930526828021
+      "street": "Van Stralenstraat"
     }, 
     {
+      "housenumber": "4953", 
       "pcode": 2000, 
-      "street": "Van Stralenstraat", 
-      "housenumber": "4953"
+      "street": "Van Stralenstraat"
     }
-  ], 
-  "name": "Van Stralenstraat"
+  ]
 }

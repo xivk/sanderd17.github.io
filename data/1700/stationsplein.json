@@ -1,27 +1,25 @@
 {
-  "pcode": 1700, 
   "addresses": [
     {
-      "lat": 50.8673824619826, 
       "housenumber": "1", 
+      "lat": 50.8673824619826, 
+      "lon": 4.2064654208405186, 
       "pcode": 1700, 
-      "street": "Stationsplein", 
-      "lon": 4.2064654208405186
+      "street": "Stationsplein"
     }, 
     {
-      "lat": 50.867407506658665, 
       "housenumber": "2", 
+      "lat": 50.867407506658665, 
+      "lon": 4.206113319279411, 
       "pcode": 1700, 
-      "street": "Stationsplein", 
-      "lon": 4.206113319279411
+      "street": "Stationsplein"
     }, 
     {
-      "lat": 50.867575731503166, 
       "housenumber": "3", 
+      "lat": 50.867575731503166, 
+      "lon": 4.20626658694765, 
       "pcode": 1700, 
-      "street": "Stationsplein", 
-      "lon": 4.20626658694765
+      "street": "Stationsplein"
     }
-  ], 
-  "name": "Stationsplein"
+  ]
 }

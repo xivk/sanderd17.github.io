@@ -1,20 +1,18 @@
 {
-  "pcode": 2990, 
   "addresses": [
     {
-      "lat": 51.405551038257876, 
       "housenumber": "1", 
+      "lat": 51.405551038257876, 
+      "lon": 4.612859965367636, 
       "pcode": 2990, 
-      "street": "Braken", 
-      "lon": 4.612859965367636
+      "street": "Braken"
     }, 
     {
-      "lat": 51.40519758152772, 
       "housenumber": "2", 
+      "lat": 51.40519758152772, 
+      "lon": 4.612495974198129, 
       "pcode": 2990, 
-      "street": "Braken", 
-      "lon": 4.612495974198129
+      "street": "Braken"
     }
-  ], 
-  "name": "Braken"
+  ]
 }

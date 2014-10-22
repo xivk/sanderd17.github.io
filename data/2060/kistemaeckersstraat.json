@@ -1,25 +1,23 @@
 {
-  "pcode": 2060, 
   "addresses": [
     {
-      "lat": 51.21972321827739, 
       "housenumber": "2", 
+      "lat": 51.21972321827739, 
+      "lon": 4.437611530956292, 
       "pcode": 2060, 
-      "street": "Kistemaeckersstraat", 
-      "lon": 4.437611530956292
+      "street": "Kistemaeckersstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2060, 
-      "street": "Kistemaeckersstraat", 
-      "housenumber": "4"
+      "street": "Kistemaeckersstraat"
     }, 
     {
-      "lat": 51.21970513223211, 
       "housenumber": "6", 
+      "lat": 51.21970513223211, 
+      "lon": 4.437491561715914, 
       "pcode": 2060, 
-      "street": "Kistemaeckersstraat", 
-      "lon": 4.437491561715914
+      "street": "Kistemaeckersstraat"
     }
-  ], 
-  "name": "Kistemaeckersstraat"
+  ]
 }

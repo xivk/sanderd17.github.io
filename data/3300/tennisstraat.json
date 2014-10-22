@@ -1,18 +1,16 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.81862373721112, 
       "housenumber": "3", 
+      "lat": 50.81862373721112, 
+      "lon": 4.940496728915903, 
       "pcode": 3300, 
-      "street": "Tennisstraat", 
-      "lon": 4.940496728915903
+      "street": "Tennisstraat"
     }, 
     {
+      "housenumber": "43", 
       "pcode": 3300, 
-      "street": "Tennisstraat", 
-      "housenumber": "43"
+      "street": "Tennisstraat"
     }
-  ], 
-  "name": "Tennisstraat"
+  ]
 }

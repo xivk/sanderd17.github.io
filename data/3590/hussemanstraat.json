@@ -1,32 +1,30 @@
 {
-  "pcode": 3590, 
   "addresses": [
     {
-      "lat": 50.89924275307702, 
       "housenumber": "1", 
+      "lat": 50.89924275307702, 
+      "lon": 5.4497974686615835, 
       "pcode": 3590, 
-      "street": "Hussemanstraat", 
-      "lon": 5.4497974686615835
+      "street": "Hussemanstraat"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 3590, 
-      "street": "Hussemanstraat", 
-      "housenumber": "11"
+      "street": "Hussemanstraat"
     }, 
     {
-      "lat": 50.89984519993681, 
       "housenumber": "5", 
+      "lat": 50.89984519993681, 
+      "lon": 5.449787180060528, 
       "pcode": 3590, 
-      "street": "Hussemanstraat", 
-      "lon": 5.449787180060528
+      "street": "Hussemanstraat"
     }, 
     {
-      "lat": 50.89997317525245, 
       "housenumber": "5A", 
+      "lat": 50.89997317525245, 
+      "lon": 5.450358095813012, 
       "pcode": 3590, 
-      "street": "Hussemanstraat", 
-      "lon": 5.450358095813012
+      "street": "Hussemanstraat"
     }
-  ], 
-  "name": "Hussemanstraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.81100809039448, 
       "housenumber": "2", 
+      "lat": 50.81100809039448, 
+      "lon": 4.94886069772413, 
       "pcode": 3300, 
-      "street": "Fruitweg", 
-      "lon": 4.94886069772413
+      "street": "Fruitweg"
     }, 
     {
-      "lat": 50.811257176487565, 
       "housenumber": "4", 
+      "lat": 50.811257176487565, 
+      "lon": 4.9484661952067786, 
       "pcode": 3300, 
-      "street": "Fruitweg", 
-      "lon": 4.9484661952067786
+      "street": "Fruitweg"
     }, 
     {
-      "lat": 50.811540868085835, 
       "housenumber": "5", 
+      "lat": 50.811540868085835, 
+      "lon": 4.948707931239318, 
       "pcode": 3300, 
-      "street": "Fruitweg", 
-      "lon": 4.948707931239318
+      "street": "Fruitweg"
     }
-  ], 
-  "name": "Fruitweg"
+  ]
 }

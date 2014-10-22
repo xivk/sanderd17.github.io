@@ -1,20 +1,18 @@
 {
-  "pcode": 9240, 
   "addresses": [
     {
-      "lat": 51.08192691987054, 
       "housenumber": "1", 
+      "lat": 51.08192691987054, 
+      "lon": 4.076752085109068, 
       "pcode": 9240, 
-      "street": "Kloddenzakstraat", 
-      "lon": 4.076752085109068
+      "street": "Kloddenzakstraat"
     }, 
     {
-      "lat": 51.083490073284885, 
       "housenumber": "3", 
+      "lat": 51.083490073284885, 
+      "lon": 4.077472755393309, 
       "pcode": 9240, 
-      "street": "Kloddenzakstraat", 
-      "lon": 4.077472755393309
+      "street": "Kloddenzakstraat"
     }
-  ], 
-  "name": "Kloddenzakstraat"
+  ]
 }

@@ -1,51 +1,49 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 3600, 
-      "street": "Windmolenstraat", 
-      "housenumber": "11"
+      "street": "Windmolenstraat"
     }, 
     {
+      "housenumber": "18", 
       "pcode": 3600, 
-      "street": "Windmolenstraat", 
-      "housenumber": "18"
+      "street": "Windmolenstraat"
     }, 
     {
-      "lat": 50.963004268990524, 
       "housenumber": "2", 
+      "lat": 50.963004268990524, 
+      "lon": 5.502190888632022, 
       "pcode": 3600, 
-      "street": "Windmolenstraat", 
-      "lon": 5.502190888632022
+      "street": "Windmolenstraat"
     }, 
     {
-      "lat": 50.963025211271635, 
       "housenumber": "4", 
+      "lat": 50.963025211271635, 
+      "lon": 5.502331194871107, 
       "pcode": 3600, 
-      "street": "Windmolenstraat", 
-      "lon": 5.502331194871107
+      "street": "Windmolenstraat"
     }, 
     {
-      "lat": 50.96299717513706, 
       "housenumber": "4A", 
+      "lat": 50.96299717513706, 
+      "lon": 5.5026000081065725, 
       "pcode": 3600, 
-      "street": "Windmolenstraat", 
-      "lon": 5.5026000081065725
+      "street": "Windmolenstraat"
     }, 
     {
-      "lat": 50.96296308734978, 
       "housenumber": "6", 
+      "lat": 50.96296308734978, 
+      "lon": 5.503002067781044, 
       "pcode": 3600, 
-      "street": "Windmolenstraat", 
-      "lon": 5.503002067781044
+      "street": "Windmolenstraat"
     }, 
     {
-      "lat": 50.96293284360306, 
       "housenumber": "8", 
+      "lat": 50.96293284360306, 
+      "lon": 5.503285205402222, 
       "pcode": 3600, 
-      "street": "Windmolenstraat", 
-      "lon": 5.503285205402222
+      "street": "Windmolenstraat"
     }
-  ], 
-  "name": "Windmolenstraat"
+  ]
 }

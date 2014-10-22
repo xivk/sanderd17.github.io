@@ -1,20 +1,18 @@
 {
-  "pcode": 3210, 
   "addresses": [
     {
-      "lat": 50.89316827463087, 
       "housenumber": "1", 
+      "lat": 50.89316827463087, 
+      "lon": 4.854055244210028, 
       "pcode": 3210, 
-      "street": "Goorbroekweg", 
-      "lon": 4.854055244210028
+      "street": "Goorbroekweg"
     }, 
     {
-      "lat": 50.89346591674628, 
       "housenumber": "2", 
+      "lat": 50.89346591674628, 
+      "lon": 4.857129922578885, 
       "pcode": 3210, 
-      "street": "Goorbroekweg", 
-      "lon": 4.857129922578885
+      "street": "Goorbroekweg"
     }
-  ], 
-  "name": "Goorbroekweg"
+  ]
 }

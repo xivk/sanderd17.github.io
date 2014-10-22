@@ -1,23 +1,21 @@
 {
-  "pcode": 1731, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 1731, 
-      "street": "De Haak", 
-      "housenumber": "1"
+      "street": "De Haak"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 1731, 
-      "street": "De Haak", 
-      "housenumber": "2"
+      "street": "De Haak"
     }, 
     {
-      "lat": 50.881116753717066, 
       "housenumber": "3", 
+      "lat": 50.881116753717066, 
+      "lon": 4.298033448670457, 
       "pcode": 1731, 
-      "street": "De Haak", 
-      "lon": 4.298033448670457
+      "street": "De Haak"
     }
-  ], 
-  "name": "De Haak"
+  ]
 }

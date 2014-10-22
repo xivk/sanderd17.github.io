@@ -1,18 +1,16 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9800, 
-      "street": "Karrestraat", 
-      "housenumber": "1"
+      "street": "Karrestraat"
     }, 
     {
-      "lat": 50.98837372128266, 
       "housenumber": "2", 
+      "lat": 50.98837372128266, 
+      "lon": 3.597064948893948, 
       "pcode": 9800, 
-      "street": "Karrestraat", 
-      "lon": 3.597064948893948
+      "street": "Karrestraat"
     }
-  ], 
-  "name": "Karrestraat"
+  ]
 }

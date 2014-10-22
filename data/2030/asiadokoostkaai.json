@@ -1,18 +1,16 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
+      "housenumber": "28", 
       "pcode": 2030, 
-      "street": "Asiadok-Oostkaai", 
-      "housenumber": "28"
+      "street": "Asiadok-Oostkaai"
     }, 
     {
-      "lat": 51.23258048654033, 
       "housenumber": "29", 
+      "lat": 51.23258048654033, 
+      "lon": 4.419853312480118, 
       "pcode": 2030, 
-      "street": "Asiadok-Oostkaai", 
-      "lon": 4.419853312480118
+      "street": "Asiadok-Oostkaai"
     }
-  ], 
-  "name": "Asiadok-Oostkaai"
+  ]
 }

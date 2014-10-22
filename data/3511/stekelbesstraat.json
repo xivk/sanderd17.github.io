@@ -1,20 +1,18 @@
 {
-  "pcode": 3511, 
   "addresses": [
     {
-      "lat": 50.949839509377746, 
       "housenumber": "4", 
+      "lat": 50.949839509377746, 
+      "lon": 5.318892481577752, 
       "pcode": 3511, 
-      "street": "Stekelbesstraat", 
-      "lon": 5.318892481577752
+      "street": "Stekelbesstraat"
     }, 
     {
-      "lat": 50.94926568172611, 
       "housenumber": "8", 
+      "lat": 50.94926568172611, 
+      "lon": 5.31895883735249, 
       "pcode": 3511, 
-      "street": "Stekelbesstraat", 
-      "lon": 5.31895883735249
+      "street": "Stekelbesstraat"
     }
-  ], 
-  "name": "Stekelbesstraat"
+  ]
 }

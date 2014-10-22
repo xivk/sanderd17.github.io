@@ -1,46 +1,44 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.87731594452884, 
       "housenumber": "14", 
+      "lat": 50.87731594452884, 
+      "lon": 4.699536579877232, 
       "pcode": 3000, 
-      "street": "Collegeberg", 
-      "lon": 4.699536579877232
+      "street": "Collegeberg"
     }, 
     {
-      "lat": 50.87733688968177, 
       "housenumber": "16", 
+      "lat": 50.87733688968177, 
+      "lon": 4.699473072529714, 
       "pcode": 3000, 
-      "street": "Collegeberg", 
-      "lon": 4.699473072529714
+      "street": "Collegeberg"
     }, 
     {
-      "lat": 50.877321133720166, 
       "housenumber": "18", 
+      "lat": 50.877321133720166, 
+      "lon": 4.699354318467661, 
       "pcode": 3000, 
-      "street": "Collegeberg", 
-      "lon": 4.699354318467661
+      "street": "Collegeberg"
     }, 
     {
-      "lat": 50.87719855991022, 
       "housenumber": "2", 
+      "lat": 50.87719855991022, 
+      "lon": 4.700197734691472, 
       "pcode": 3000, 
-      "street": "Collegeberg", 
-      "lon": 4.700197734691472
+      "street": "Collegeberg"
     }, 
     {
-      "lat": 50.877430194522304, 
       "housenumber": "4", 
+      "lat": 50.877430194522304, 
+      "lon": 4.7000160793232, 
       "pcode": 3000, 
-      "street": "Collegeberg", 
-      "lon": 4.7000160793232
+      "street": "Collegeberg"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3000, 
-      "street": "Collegeberg", 
-      "housenumber": "8"
+      "street": "Collegeberg"
     }
-  ], 
-  "name": "Collegeberg"
+  ]
 }

@@ -1,25 +1,23 @@
 {
-  "pcode": 9140, 
   "addresses": [
     {
-      "lat": 51.118495762620945, 
       "housenumber": "4", 
+      "lat": 51.118495762620945, 
+      "lon": 4.19928079442791, 
       "pcode": 9140, 
-      "street": "Schrijnwerkerslaan", 
-      "lon": 4.19928079442791
+      "street": "Schrijnwerkerslaan"
     }, 
     {
-      "lat": 51.11916769764391, 
       "housenumber": "5", 
+      "lat": 51.11916769764391, 
+      "lon": 4.198171357598647, 
       "pcode": 9140, 
-      "street": "Schrijnwerkerslaan", 
-      "lon": 4.198171357598647
+      "street": "Schrijnwerkerslaan"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9140, 
-      "street": "Schrijnwerkerslaan", 
-      "housenumber": "6"
+      "street": "Schrijnwerkerslaan"
     }
-  ], 
-  "name": "Schrijnwerkerslaan"
+  ]
 }

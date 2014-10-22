@@ -1,25 +1,23 @@
 {
-  "pcode": 2970, 
   "addresses": [
     {
-      "lat": 51.24948764307748, 
       "housenumber": "57", 
+      "lat": 51.24948764307748, 
+      "lon": 4.555541598628942, 
       "pcode": 2970, 
-      "street": "Beukendreef", 
-      "lon": 4.555541598628942
+      "street": "Beukendreef"
     }, 
     {
+      "housenumber": "57B", 
       "pcode": 2970, 
-      "street": "Beukendreef", 
-      "housenumber": "57B"
+      "street": "Beukendreef"
     }, 
     {
-      "lat": 51.2492208899872, 
       "housenumber": "59", 
+      "lat": 51.2492208899872, 
+      "lon": 4.556434362935307, 
       "pcode": 2970, 
-      "street": "Beukendreef", 
-      "lon": 4.556434362935307
+      "street": "Beukendreef"
     }
-  ], 
-  "name": "Beukendreef"
+  ]
 }

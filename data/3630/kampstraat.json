@@ -1,18 +1,16 @@
 {
-  "pcode": 3630, 
   "addresses": [
     {
-      "lat": 50.94929257271296, 
       "housenumber": "1", 
+      "lat": 50.94929257271296, 
+      "lon": 5.687764376125094, 
       "pcode": 3630, 
-      "street": "Kampstraat", 
-      "lon": 5.687764376125094
+      "street": "Kampstraat"
     }, 
     {
+      "housenumber": "22", 
       "pcode": 3630, 
-      "street": "Kampstraat", 
-      "housenumber": "22"
+      "street": "Kampstraat"
     }
-  ], 
-  "name": "Kampstraat"
+  ]
 }

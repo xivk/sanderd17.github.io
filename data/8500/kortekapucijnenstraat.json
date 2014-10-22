@@ -1,25 +1,23 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.83118538728572, 
       "housenumber": "11", 
+      "lat": 50.83118538728572, 
+      "lon": 3.2645482669859653, 
       "pcode": 8500, 
-      "street": "Korte Kapucijnenstraat", 
-      "lon": 3.2645482669859653
+      "street": "Korte Kapucijnenstraat"
     }, 
     {
-      "lat": 50.831111816051845, 
       "housenumber": "2", 
+      "lat": 50.831111816051845, 
+      "lon": 3.2656537478340253, 
       "pcode": 8500, 
-      "street": "Korte Kapucijnenstraat", 
-      "lon": 3.2656537478340253
+      "street": "Korte Kapucijnenstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8500, 
-      "street": "Korte Kapucijnenstraat", 
-      "housenumber": "5"
+      "street": "Korte Kapucijnenstraat"
     }
-  ], 
-  "name": "Korte Kapucijnenstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9880, 
   "addresses": [
     {
-      "lat": 51.07573782524519, 
       "housenumber": "1", 
+      "lat": 51.07573782524519, 
+      "lon": 3.457031677457298, 
       "pcode": 9880, 
-      "street": "Wildemotedreef", 
-      "lon": 3.457031677457298
+      "street": "Wildemotedreef"
     }, 
     {
-      "lat": 51.07623670281991, 
       "housenumber": "4", 
+      "lat": 51.07623670281991, 
+      "lon": 3.457875597031164, 
       "pcode": 9880, 
-      "street": "Wildemotedreef", 
-      "lon": 3.457875597031164
+      "street": "Wildemotedreef"
     }
-  ], 
-  "name": "Wildemotedreef"
+  ]
 }

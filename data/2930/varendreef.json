@@ -1,53 +1,51 @@
 {
-  "pcode": 2930, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 2930, 
-      "street": "Varendreef", 
-      "housenumber": "10"
+      "street": "Varendreef"
     }, 
     {
-      "lat": 51.345023406066446, 
       "housenumber": "12", 
+      "lat": 51.345023406066446, 
+      "lon": 4.525272347416645, 
       "pcode": 2930, 
-      "street": "Varendreef", 
-      "lon": 4.525272347416645
+      "street": "Varendreef"
     }, 
     {
-      "lat": 51.34511552566347, 
       "housenumber": "14", 
+      "lat": 51.34511552566347, 
+      "lon": 4.524393913797064, 
       "pcode": 2930, 
-      "street": "Varendreef", 
-      "lon": 4.524393913797064
+      "street": "Varendreef"
     }, 
     {
-      "lat": 51.344284050629334, 
       "housenumber": "19", 
+      "lat": 51.344284050629334, 
+      "lon": 4.524393845196527, 
       "pcode": 2930, 
-      "street": "Varendreef", 
-      "lon": 4.524393845196527
+      "street": "Varendreef"
     }, 
     {
-      "lat": 51.34447489331679, 
       "housenumber": "4", 
+      "lat": 51.34447489331679, 
+      "lon": 4.5264714137221365, 
       "pcode": 2930, 
-      "street": "Varendreef", 
-      "lon": 4.5264714137221365
+      "street": "Varendreef"
     }, 
     {
-      "lat": 51.34320155114175, 
       "housenumber": "5", 
+      "lat": 51.34320155114175, 
+      "lon": 4.526620057248899, 
       "pcode": 2930, 
-      "street": "Varendreef", 
-      "lon": 4.526620057248899
+      "street": "Varendreef"
     }, 
     {
-      "lat": 51.34350452614759, 
       "housenumber": "7", 
+      "lat": 51.34350452614759, 
+      "lon": 4.526559524314238, 
       "pcode": 2930, 
-      "street": "Varendreef", 
-      "lon": 4.526559524314238
+      "street": "Varendreef"
     }
-  ], 
-  "name": "Varendreef"
+  ]
 }

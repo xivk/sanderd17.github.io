@@ -1,20 +1,18 @@
 {
-  "pcode": 3650, 
   "addresses": [
     {
-      "lat": 51.05199241497214, 
       "housenumber": "4", 
+      "lat": 51.05199241497214, 
+      "lon": 5.699631637848581, 
       "pcode": 3650, 
-      "street": "Energielaan", 
-      "lon": 5.699631637848581
+      "street": "Energielaan"
     }, 
     {
-      "lat": 51.0502424963625, 
       "housenumber": "5", 
+      "lat": 51.0502424963625, 
+      "lon": 5.693792058780124, 
       "pcode": 3650, 
-      "street": "Energielaan", 
-      "lon": 5.693792058780124
+      "street": "Energielaan"
     }
-  ], 
-  "name": "Energielaan"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 8810, 
   "addresses": [
     {
-      "lat": 51.04101284590538, 
       "housenumber": "1", 
+      "lat": 51.04101284590538, 
+      "lon": 3.1237556716643975, 
       "pcode": 8810, 
-      "street": "Merelstraat", 
-      "lon": 3.1237556716643975
+      "street": "Merelstraat"
     }, 
     {
-      "lat": 51.04143836494365, 
       "housenumber": "3", 
+      "lat": 51.04143836494365, 
+      "lon": 3.123773736048068, 
       "pcode": 8810, 
-      "street": "Merelstraat", 
-      "lon": 3.123773736048068
+      "street": "Merelstraat"
     }, 
     {
-      "lat": 51.04225732581631, 
       "housenumber": "5", 
+      "lat": 51.04225732581631, 
+      "lon": 3.124322248278625, 
       "pcode": 8810, 
-      "street": "Merelstraat", 
-      "lon": 3.124322248278625
+      "street": "Merelstraat"
     }
-  ], 
-  "name": "Merelstraat"
+  ]
 }

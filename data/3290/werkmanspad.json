@@ -1,25 +1,23 @@
 {
-  "pcode": 3290, 
   "addresses": [
     {
+      "housenumber": "14", 
       "pcode": 3290, 
-      "street": "Werkmanspad", 
-      "housenumber": "14"
+      "street": "Werkmanspad"
     }, 
     {
-      "lat": 50.99788246241316, 
       "housenumber": "2", 
+      "lat": 50.99788246241316, 
+      "lon": 5.103431014800896, 
       "pcode": 3290, 
-      "street": "Werkmanspad", 
-      "lon": 5.103431014800896
+      "street": "Werkmanspad"
     }, 
     {
-      "lat": 50.997704883908334, 
       "housenumber": "4", 
+      "lat": 50.997704883908334, 
+      "lon": 5.104730008385152, 
       "pcode": 3290, 
-      "street": "Werkmanspad", 
-      "lon": 5.104730008385152
+      "street": "Werkmanspad"
     }
-  ], 
-  "name": "Werkmanspad"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2460, 
   "addresses": [
     {
-      "lat": 51.22657104119747, 
       "housenumber": "1", 
+      "lat": 51.22657104119747, 
+      "lon": 4.877518581525229, 
       "pcode": 2460, 
-      "street": "Cawinkel", 
-      "lon": 4.877518581525229
+      "street": "Cawinkel"
     }, 
     {
-      "lat": 51.22743916208031, 
       "housenumber": "2", 
+      "lat": 51.22743916208031, 
+      "lon": 4.877851314914543, 
       "pcode": 2460, 
-      "street": "Cawinkel", 
-      "lon": 4.877851314914543
+      "street": "Cawinkel"
     }
-  ], 
-  "name": "Cawinkel"
+  ]
 }

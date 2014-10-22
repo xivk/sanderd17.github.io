@@ -1,40 +1,38 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8400, 
-      "street": "Zandstraat", 
-      "housenumber": "1"
+      "street": "Zandstraat"
     }, 
     {
-      "lat": 51.208209124579646, 
       "housenumber": "10", 
+      "lat": 51.208209124579646, 
+      "lon": 2.8626521079361575, 
       "pcode": 8400, 
-      "street": "Zandstraat", 
-      "lon": 2.8626521079361575
+      "street": "Zandstraat"
     }, 
     {
+      "housenumber": "25", 
       "pcode": 8400, 
-      "street": "Zandstraat", 
-      "housenumber": "25"
+      "street": "Zandstraat"
     }, 
     {
-      "lat": 51.2081440114383, 
       "housenumber": "3", 
+      "lat": 51.2081440114383, 
+      "lon": 2.8626855537960734, 
       "pcode": 8400, 
-      "street": "Zandstraat", 
-      "lon": 2.8626855537960734
+      "street": "Zandstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8400, 
-      "street": "Zandstraat", 
-      "housenumber": "5"
+      "street": "Zandstraat"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 8400, 
-      "street": "Zandstraat", 
-      "housenumber": "9"
+      "street": "Zandstraat"
     }
-  ], 
-  "name": "Zandstraat"
+  ]
 }

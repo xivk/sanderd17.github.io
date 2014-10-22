@@ -1,25 +1,23 @@
 {
-  "pcode": 3740, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3740, 
-      "street": "Bivelenweg", 
-      "housenumber": "1"
+      "street": "Bivelenweg"
     }, 
     {
-      "lat": 50.86984680127525, 
       "housenumber": "2", 
+      "lat": 50.86984680127525, 
+      "lon": 5.49611738444025, 
       "pcode": 3740, 
-      "street": "Bivelenweg", 
-      "lon": 5.49611738444025
+      "street": "Bivelenweg"
     }, 
     {
-      "lat": 50.869770510412955, 
       "housenumber": "4", 
+      "lat": 50.869770510412955, 
+      "lon": 5.49583281454254, 
       "pcode": 3740, 
-      "street": "Bivelenweg", 
-      "lon": 5.49583281454254
+      "street": "Bivelenweg"
     }
-  ], 
-  "name": "Bivelenweg"
+  ]
 }

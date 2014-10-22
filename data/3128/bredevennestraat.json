@@ -1,25 +1,23 @@
 {
-  "pcode": 3128, 
   "addresses": [
     {
-      "lat": 50.99587279921828, 
       "housenumber": "5", 
+      "lat": 50.99587279921828, 
+      "lon": 4.768049323682058, 
       "pcode": 3128, 
-      "street": "Bredevennestraat", 
-      "lon": 4.768049323682058
+      "street": "Bredevennestraat"
     }, 
     {
-      "lat": 50.99487584170432, 
       "housenumber": "7", 
+      "lat": 50.99487584170432, 
+      "lon": 4.76418498602381, 
       "pcode": 3128, 
-      "street": "Bredevennestraat", 
-      "lon": 4.76418498602381
+      "street": "Bredevennestraat"
     }, 
     {
+      "housenumber": "7B", 
       "pcode": 3128, 
-      "street": "Bredevennestraat", 
-      "housenumber": "7B"
+      "street": "Bredevennestraat"
     }
-  ], 
-  "name": "Bredevennestraat"
+  ]
 }

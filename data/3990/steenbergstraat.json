@@ -1,20 +1,18 @@
 {
-  "pcode": 3990, 
   "addresses": [
     {
-      "lat": 51.16435976913768, 
       "housenumber": "1", 
+      "lat": 51.16435976913768, 
+      "lon": 5.445339835466052, 
       "pcode": 3990, 
-      "street": "Steenbergstraat", 
-      "lon": 5.445339835466052
+      "street": "Steenbergstraat"
     }, 
     {
-      "lat": 51.16436241414819, 
       "housenumber": "2", 
+      "lat": 51.16436241414819, 
+      "lon": 5.445118857947291, 
       "pcode": 3990, 
-      "street": "Steenbergstraat", 
-      "lon": 5.445118857947291
+      "street": "Steenbergstraat"
     }
-  ], 
-  "name": "Steenbergstraat"
+  ]
 }

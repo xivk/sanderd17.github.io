@@ -1,27 +1,25 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
-      "lat": 51.22330311583202, 
       "housenumber": "10", 
+      "lat": 51.22330311583202, 
+      "lon": 5.433120242326505, 
       "pcode": 3900, 
-      "street": "Weidestraat", 
-      "lon": 5.433120242326505
+      "street": "Weidestraat"
     }, 
     {
-      "lat": 51.22389287745194, 
       "housenumber": "11", 
+      "lat": 51.22389287745194, 
+      "lon": 5.432923561198521, 
       "pcode": 3900, 
-      "street": "Weidestraat", 
-      "lon": 5.432923561198521
+      "street": "Weidestraat"
     }, 
     {
-      "lat": 51.22373662477129, 
       "housenumber": "12", 
+      "lat": 51.22373662477129, 
+      "lon": 5.435019664911002, 
       "pcode": 3900, 
-      "street": "Weidestraat", 
-      "lon": 5.435019664911002
+      "street": "Weidestraat"
     }
-  ], 
-  "name": "Weidestraat"
+  ]
 }

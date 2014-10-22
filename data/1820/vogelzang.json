@@ -1,20 +1,18 @@
 {
-  "pcode": 1820, 
   "addresses": [
     {
-      "lat": 50.92638631104122, 
       "housenumber": "3", 
+      "lat": 50.92638631104122, 
+      "lon": 4.4804736703417, 
       "pcode": 1820, 
-      "street": "Vogelzang", 
-      "lon": 4.4804736703417
+      "street": "Vogelzang"
     }, 
     {
-      "lat": 50.92676413371571, 
       "housenumber": "5", 
+      "lat": 50.92676413371571, 
+      "lon": 4.479812183426209, 
       "pcode": 1820, 
-      "street": "Vogelzang", 
-      "lon": 4.479812183426209
+      "street": "Vogelzang"
     }
-  ], 
-  "name": "Vogelzang"
+  ]
 }

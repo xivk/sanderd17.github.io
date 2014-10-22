@@ -1,25 +1,23 @@
 {
-  "pcode": 9506, 
   "addresses": [
     {
-      "lat": 50.80859672925635, 
       "housenumber": "2", 
+      "lat": 50.80859672925635, 
+      "lon": 3.953444093508687, 
       "pcode": 9506, 
-      "street": "Voordeweg", 
-      "lon": 3.953444093508687
+      "street": "Voordeweg"
     }, 
     {
-      "lat": 50.80876942752258, 
       "housenumber": "4", 
+      "lat": 50.80876942752258, 
+      "lon": 3.9531407904352274, 
       "pcode": 9506, 
-      "street": "Voordeweg", 
-      "lon": 3.9531407904352274
+      "street": "Voordeweg"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9506, 
-      "street": "Voordeweg", 
-      "housenumber": "6"
+      "street": "Voordeweg"
     }
-  ], 
-  "name": "Voordeweg"
+  ]
 }

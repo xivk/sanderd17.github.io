@@ -1,32 +1,30 @@
 {
-  "pcode": 3680, 
   "addresses": [
     {
-      "lat": 51.1194452324942, 
       "housenumber": "11", 
+      "lat": 51.1194452324942, 
+      "lon": 5.750608835116046, 
       "pcode": 3680, 
-      "street": "Genveurderweg", 
-      "lon": 5.750608835116046
+      "street": "Genveurderweg"
     }, 
     {
-      "lat": 51.119116009582946, 
       "housenumber": "7", 
+      "lat": 51.119116009582946, 
+      "lon": 5.752065406220187, 
       "pcode": 3680, 
-      "street": "Genveurderweg", 
-      "lon": 5.752065406220187
+      "street": "Genveurderweg"
     }, 
     {
-      "lat": 51.1194178705438, 
       "housenumber": "9", 
+      "lat": 51.1194178705438, 
+      "lon": 5.75144739284741, 
       "pcode": 3680, 
-      "street": "Genveurderweg", 
-      "lon": 5.75144739284741
+      "street": "Genveurderweg"
     }, 
     {
+      "housenumber": "9A", 
       "pcode": 3680, 
-      "street": "Genveurderweg", 
-      "housenumber": "9A"
+      "street": "Genveurderweg"
     }
-  ], 
-  "name": "Genveurderweg"
+  ]
 }

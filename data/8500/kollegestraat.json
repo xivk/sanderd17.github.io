@@ -1,32 +1,30 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.832576045749455, 
       "housenumber": "2", 
+      "lat": 50.832576045749455, 
+      "lon": 3.2632501402967384, 
       "pcode": 8500, 
-      "street": "Kollegestraat", 
-      "lon": 3.2632501402967384
+      "street": "Kollegestraat"
     }, 
     {
+      "housenumber": "29", 
       "pcode": 8500, 
-      "street": "Kollegestraat", 
-      "housenumber": "29"
+      "street": "Kollegestraat"
     }, 
     {
-      "lat": 50.834179185718426, 
       "housenumber": "6", 
+      "lat": 50.834179185718426, 
+      "lon": 3.262471947596415, 
       "pcode": 8500, 
-      "street": "Kollegestraat", 
-      "lon": 3.262471947596415
+      "street": "Kollegestraat"
     }, 
     {
-      "lat": 50.8333964993643, 
       "housenumber": "8", 
+      "lat": 50.8333964993643, 
+      "lon": 3.263228590145769, 
       "pcode": 8500, 
-      "street": "Kollegestraat", 
-      "lon": 3.263228590145769
+      "street": "Kollegestraat"
     }
-  ], 
-  "name": "Kollegestraat"
+  ]
 }

@@ -1,37 +1,35 @@
 {
-  "pcode": 3290, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3290, 
-      "street": "Bergbosstraat", 
-      "housenumber": "1"
+      "street": "Bergbosstraat"
     }, 
     {
-      "lat": 51.040664891359214, 
       "housenumber": "2", 
+      "lat": 51.040664891359214, 
+      "lon": 5.107800719511344, 
       "pcode": 3290, 
-      "street": "Bergbosstraat", 
-      "lon": 5.107800719511344
+      "street": "Bergbosstraat"
     }, 
     {
-      "lat": 51.0408318048739, 
       "housenumber": "3", 
+      "lat": 51.0408318048739, 
+      "lon": 5.107345788345286, 
       "pcode": 3290, 
-      "street": "Bergbosstraat", 
-      "lon": 5.107345788345286
+      "street": "Bergbosstraat"
     }, 
     {
-      "lat": 51.04066014799335, 
       "housenumber": "5", 
+      "lat": 51.04066014799335, 
+      "lon": 5.107367887749183, 
       "pcode": 3290, 
-      "street": "Bergbosstraat", 
-      "lon": 5.107367887749183
+      "street": "Bergbosstraat"
     }, 
     {
+      "housenumber": "61", 
       "pcode": 3290, 
-      "street": "Bergbosstraat", 
-      "housenumber": "61"
+      "street": "Bergbosstraat"
     }
-  ], 
-  "name": "Bergbosstraat"
+  ]
 }

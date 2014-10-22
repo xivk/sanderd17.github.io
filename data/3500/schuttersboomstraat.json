@@ -1,27 +1,25 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.94744465624673, 
       "housenumber": "4", 
+      "lat": 50.94744465624673, 
+      "lon": 5.34367437247915, 
       "pcode": 3500, 
-      "street": "Schuttersboomstraat", 
-      "lon": 5.34367437247915
+      "street": "Schuttersboomstraat"
     }, 
     {
-      "lat": 50.94738281532688, 
       "housenumber": "6", 
+      "lat": 50.94738281532688, 
+      "lon": 5.343651454980578, 
       "pcode": 3500, 
-      "street": "Schuttersboomstraat", 
-      "lon": 5.343651454980578
+      "street": "Schuttersboomstraat"
     }, 
     {
-      "lat": 50.947308506283264, 
       "housenumber": "8", 
+      "lat": 50.947308506283264, 
+      "lon": 5.343614331815865, 
       "pcode": 3500, 
-      "street": "Schuttersboomstraat", 
-      "lon": 5.343614331815865
+      "street": "Schuttersboomstraat"
     }
-  ], 
-  "name": "Schuttersboomstraat"
+  ]
 }

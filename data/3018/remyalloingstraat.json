@@ -1,32 +1,30 @@
 {
-  "pcode": 3018, 
   "addresses": [
     {
-      "lat": 50.92699517036494, 
       "housenumber": "1", 
+      "lat": 50.92699517036494, 
+      "lon": 4.705983378595021, 
       "pcode": 3018, 
-      "street": "Remy Alloingstraat", 
-      "lon": 4.705983378595021
+      "street": "Remy Alloingstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3018, 
-      "street": "Remy Alloingstraat", 
-      "housenumber": "2"
+      "street": "Remy Alloingstraat"
     }, 
     {
+      "housenumber": "4", 
       "lat": 50.92735033728469, 
-      "housenumber": "4", 
+      "lon": 4.705984798284774, 
       "pcode": 3018, 
-      "street": "Remy Alloingstraat", 
-      "lon": 4.705984798284774
+      "street": "Remy Alloingstraat"
     }, 
     {
-      "lat": 50.92701851979938, 
       "housenumber": "4", 
+      "lat": 50.92701851979938, 
+      "lon": 4.706178839300143, 
       "pcode": 3018, 
-      "street": "Remy Alloingstraat", 
-      "lon": 4.706178839300143
+      "street": "Remy Alloingstraat"
     }
-  ], 
-  "name": "Remy Alloingstraat"
+  ]
 }

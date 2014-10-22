@@ -1,18 +1,16 @@
 {
-  "pcode": 1970, 
   "addresses": [
     {
-      "lat": 50.845049751584874, 
       "housenumber": "1", 
+      "lat": 50.845049751584874, 
+      "lon": 4.502039063341337, 
       "pcode": 1970, 
-      "street": "Witte-Dovenetellaan", 
-      "lon": 4.502039063341337
+      "street": "Witte-Dovenetellaan"
     }, 
     {
+      "housenumber": "27", 
       "pcode": 1970, 
-      "street": "Witte-Dovenetellaan", 
-      "housenumber": "27"
+      "street": "Witte-Dovenetellaan"
     }
-  ], 
-  "name": "Witte-Dovenetellaan"
+  ]
 }

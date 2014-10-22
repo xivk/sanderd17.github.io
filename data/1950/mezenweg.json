@@ -1,20 +1,18 @@
 {
-  "pcode": 1950, 
   "addresses": [
     {
-      "lat": 50.861066491852334, 
       "housenumber": "2", 
+      "lat": 50.861066491852334, 
+      "lon": 4.472342474637437, 
       "pcode": 1950, 
-      "street": "Mezenweg", 
-      "lon": 4.472342474637437
+      "street": "Mezenweg"
     }, 
     {
-      "lat": 50.861313856570014, 
       "housenumber": "4", 
+      "lat": 50.861313856570014, 
+      "lon": 4.4722704423083925, 
       "pcode": 1950, 
-      "street": "Mezenweg", 
-      "lon": 4.4722704423083925
+      "street": "Mezenweg"
     }
-  ], 
-  "name": "Mezenweg"
+  ]
 }

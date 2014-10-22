@@ -1,50 +1,48 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8400, 
-      "street": "Godtschalckstraat", 
-      "housenumber": "1"
+      "street": "Godtschalckstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8400, 
-      "street": "Godtschalckstraat", 
-      "housenumber": "2"
+      "street": "Godtschalckstraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 8400, 
-      "street": "Godtschalckstraat", 
-      "housenumber": "2A"
+      "street": "Godtschalckstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8400, 
-      "street": "Godtschalckstraat", 
-      "housenumber": "3"
+      "street": "Godtschalckstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8400, 
-      "street": "Godtschalckstraat", 
-      "housenumber": "4"
+      "street": "Godtschalckstraat"
     }, 
     {
-      "lat": 51.24002922983685, 
       "housenumber": "5", 
+      "lat": 51.24002922983685, 
+      "lon": 2.9402427184629367, 
       "pcode": 8400, 
-      "street": "Godtschalckstraat", 
-      "lon": 2.9402427184629367
+      "street": "Godtschalckstraat"
     }, 
     {
-      "lat": 51.240220577094775, 
       "housenumber": "6", 
+      "lat": 51.240220577094775, 
+      "lon": 2.939791875652004, 
       "pcode": 8400, 
-      "street": "Godtschalckstraat", 
-      "lon": 2.939791875652004
+      "street": "Godtschalckstraat"
     }, 
     {
+      "housenumber": "ZN", 
       "pcode": 8400, 
-      "street": "Godtschalckstraat", 
-      "housenumber": "ZN"
+      "street": "Godtschalckstraat"
     }
-  ], 
-  "name": "Godtschalckstraat"
+  ]
 }

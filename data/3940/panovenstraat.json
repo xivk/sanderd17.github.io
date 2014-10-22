@@ -1,20 +1,18 @@
 {
-  "pcode": 3940, 
   "addresses": [
     {
-      "lat": 51.15484720432599, 
       "housenumber": "23", 
+      "lat": 51.15484720432599, 
+      "lon": 5.401505202226013, 
       "pcode": 3940, 
-      "street": "Panovenstraat", 
-      "lon": 5.401505202226013
+      "street": "Panovenstraat"
     }, 
     {
-      "lat": 51.153682716170735, 
       "housenumber": "7", 
+      "lat": 51.153682716170735, 
+      "lon": 5.400291592990073, 
       "pcode": 3940, 
-      "street": "Panovenstraat", 
-      "lon": 5.400291592990073
+      "street": "Panovenstraat"
     }
-  ], 
-  "name": "Panovenstraat"
+  ]
 }

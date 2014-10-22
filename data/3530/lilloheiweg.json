@@ -1,20 +1,18 @@
 {
-  "pcode": 3530, 
   "addresses": [
     {
-      "lat": 51.04834560563716, 
       "housenumber": "1", 
+      "lat": 51.04834560563716, 
+      "lon": 5.345723096350818, 
       "pcode": 3530, 
-      "street": "Lillo Heiweg", 
-      "lon": 5.345723096350818
+      "street": "Lillo Heiweg"
     }, 
     {
-      "lat": 51.04901068691854, 
       "housenumber": "3", 
+      "lat": 51.04901068691854, 
+      "lon": 5.346142884952852, 
       "pcode": 3530, 
-      "street": "Lillo Heiweg", 
-      "lon": 5.346142884952852
+      "street": "Lillo Heiweg"
     }
-  ], 
-  "name": "Lillo Heiweg"
+  ]
 }

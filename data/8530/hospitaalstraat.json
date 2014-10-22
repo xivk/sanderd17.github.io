@@ -1,23 +1,21 @@
 {
-  "pcode": 8530, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 8530, 
-      "street": "Hospitaalstraat", 
-      "housenumber": "2"
+      "street": "Hospitaalstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8530, 
-      "street": "Hospitaalstraat", 
-      "housenumber": "4"
+      "street": "Hospitaalstraat"
     }, 
     {
-      "lat": 50.858338517752564, 
       "housenumber": "6", 
+      "lat": 50.858338517752564, 
+      "lon": 3.311475637651907, 
       "pcode": 8530, 
-      "street": "Hospitaalstraat", 
-      "lon": 3.311475637651907
+      "street": "Hospitaalstraat"
     }
-  ], 
-  "name": "Hospitaalstraat"
+  ]
 }

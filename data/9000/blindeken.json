@@ -1,18 +1,16 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9000, 
-      "street": "Blindeken", 
-      "housenumber": "1"
+      "street": "Blindeken"
     }, 
     {
-      "lat": 51.05538739767719, 
       "housenumber": "3", 
+      "lat": 51.05538739767719, 
+      "lon": 3.715088888260817, 
       "pcode": 9000, 
-      "street": "Blindeken", 
-      "lon": 3.715088888260817
+      "street": "Blindeken"
     }
-  ], 
-  "name": "Blindeken"
+  ]
 }

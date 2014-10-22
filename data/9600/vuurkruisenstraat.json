@@ -1,20 +1,18 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.75344607071354, 
       "housenumber": "1", 
+      "lat": 50.75344607071354, 
+      "lon": 3.6057367400237936, 
       "pcode": 9600, 
-      "street": "Vuurkruisenstraat", 
-      "lon": 3.6057367400237936
+      "street": "Vuurkruisenstraat"
     }, 
     {
-      "lat": 50.75435283269941, 
       "housenumber": "34", 
+      "lat": 50.75435283269941, 
+      "lon": 3.6091969554125116, 
       "pcode": 9600, 
-      "street": "Vuurkruisenstraat", 
-      "lon": 3.6091969554125116
+      "street": "Vuurkruisenstraat"
     }
-  ], 
-  "name": "Vuurkruisenstraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9000, 
-      "street": "Vissersdijk", 
-      "housenumber": "1"
+      "street": "Vissersdijk"
     }, 
     {
-      "lat": 51.04598185307026, 
       "housenumber": "2", 
+      "lat": 51.04598185307026, 
+      "lon": 3.6932312012316624, 
       "pcode": 9000, 
-      "street": "Vissersdijk", 
-      "lon": 3.6932312012316624
+      "street": "Vissersdijk"
     }
-  ], 
-  "name": "Vissersdijk"
+  ]
 }

@@ -1,37 +1,35 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.21786642070788, 
       "housenumber": "3", 
+      "lat": 51.21786642070788, 
+      "lon": 2.9241162896953807, 
       "pcode": 8400, 
-      "street": "Bosweg", 
-      "lon": 2.9241162896953807
+      "street": "Bosweg"
     }, 
     {
-      "lat": 51.21762520429719, 
       "housenumber": "4", 
+      "lat": 51.21762520429719, 
+      "lon": 2.9250356242283737, 
       "pcode": 8400, 
-      "street": "Bosweg", 
-      "lon": 2.9250356242283737
+      "street": "Bosweg"
     }, 
     {
+      "housenumber": "4_402", 
       "pcode": 8400, 
-      "street": "Bosweg", 
-      "housenumber": "4_402"
+      "street": "Bosweg"
     }, 
     {
-      "lat": 51.21748931861734, 
       "housenumber": "8", 
+      "lat": 51.21748931861734, 
+      "lon": 2.92513502409962, 
       "pcode": 8400, 
-      "street": "Bosweg", 
-      "lon": 2.92513502409962
+      "street": "Bosweg"
     }, 
     {
+      "housenumber": "8A", 
       "pcode": 8400, 
-      "street": "Bosweg", 
-      "housenumber": "8A"
+      "street": "Bosweg"
     }
-  ], 
-  "name": "Bosweg"
+  ]
 }

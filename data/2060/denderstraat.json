@@ -1,25 +1,23 @@
 {
-  "pcode": 2060, 
   "addresses": [
     {
-      "lat": 51.235038414258916, 
       "housenumber": "1", 
+      "lat": 51.235038414258916, 
+      "lon": 4.430511936258828, 
       "pcode": 2060, 
-      "street": "Denderstraat", 
-      "lon": 4.430511936258828
+      "street": "Denderstraat"
     }, 
     {
-      "lat": 51.23478964340555, 
       "housenumber": "13", 
+      "lat": 51.23478964340555, 
+      "lon": 4.434103589907986, 
       "pcode": 2060, 
-      "street": "Denderstraat", 
-      "lon": 4.434103589907986
+      "street": "Denderstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2060, 
-      "street": "Denderstraat", 
-      "housenumber": "6"
+      "street": "Denderstraat"
     }
-  ], 
-  "name": "Denderstraat"
+  ]
 }

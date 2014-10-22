@@ -1,32 +1,30 @@
 {
-  "pcode": 2960, 
   "addresses": [
     {
-      "lat": 51.354224278242675, 
       "housenumber": "1", 
+      "lat": 51.354224278242675, 
+      "lon": 4.634977556616299, 
       "pcode": 2960, 
-      "street": "Industrielaan", 
-      "lon": 4.634977556616299
+      "street": "Industrielaan"
     }, 
     {
-      "lat": 51.354801768422014, 
       "housenumber": "4", 
+      "lat": 51.354801768422014, 
+      "lon": 4.634251371640459, 
       "pcode": 2960, 
-      "street": "Industrielaan", 
-      "lon": 4.634251371640459
+      "street": "Industrielaan"
     }, 
     {
-      "lat": 51.355424238417925, 
       "housenumber": "6", 
+      "lat": 51.355424238417925, 
+      "lon": 4.634986742778439, 
       "pcode": 2960, 
-      "street": "Industrielaan", 
-      "lon": 4.634986742778439
+      "street": "Industrielaan"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2960, 
-      "street": "Industrielaan", 
-      "housenumber": "7"
+      "street": "Industrielaan"
     }
-  ], 
-  "name": "Industrielaan"
+  ]
 }

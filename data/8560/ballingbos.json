@@ -1,20 +1,18 @@
 {
-  "pcode": 8560, 
   "addresses": [
     {
-      "lat": 50.85366630475682, 
       "housenumber": "2", 
+      "lat": 50.85366630475682, 
+      "lon": 3.1899386484740635, 
       "pcode": 8560, 
-      "street": "Ballingbos", 
-      "lon": 3.1899386484740635
+      "street": "Ballingbos"
     }, 
     {
-      "lat": 50.85346491321431, 
       "housenumber": "6", 
+      "lat": 50.85346491321431, 
+      "lon": 3.189580521902943, 
       "pcode": 8560, 
-      "street": "Ballingbos", 
-      "lon": 3.189580521902943
+      "street": "Ballingbos"
     }
-  ], 
-  "name": "Ballingbos"
+  ]
 }

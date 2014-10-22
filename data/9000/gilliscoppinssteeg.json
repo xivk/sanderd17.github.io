@@ -1,39 +1,37 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.06200262599086, 
       "housenumber": "1", 
+      "lat": 51.06200262599086, 
+      "lon": 3.7263505366816907, 
       "pcode": 9000, 
-      "street": "Gillis Coppinssteeg", 
-      "lon": 3.7263505366816907
+      "street": "Gillis Coppinssteeg"
     }, 
     {
-      "lat": 51.06207743111294, 
       "housenumber": "1A", 
+      "lat": 51.06207743111294, 
+      "lon": 3.7267329600213857, 
       "pcode": 9000, 
-      "street": "Gillis Coppinssteeg", 
-      "lon": 3.7267329600213857
+      "street": "Gillis Coppinssteeg"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 9000, 
-      "street": "Gillis Coppinssteeg", 
-      "housenumber": "1B"
+      "street": "Gillis Coppinssteeg"
     }, 
     {
-      "lat": 51.061973139657646, 
       "housenumber": "2", 
+      "lat": 51.061973139657646, 
+      "lon": 3.726300727600943, 
       "pcode": 9000, 
-      "street": "Gillis Coppinssteeg", 
-      "lon": 3.726300727600943
+      "street": "Gillis Coppinssteeg"
     }, 
     {
-      "lat": 51.061851333386606, 
       "housenumber": "3", 
+      "lat": 51.061851333386606, 
+      "lon": 3.726234353503164, 
       "pcode": 9000, 
-      "street": "Gillis Coppinssteeg", 
-      "lon": 3.726234353503164
+      "street": "Gillis Coppinssteeg"
     }
-  ], 
-  "name": "Gillis Coppinssteeg"
+  ]
 }

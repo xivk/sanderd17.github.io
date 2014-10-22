@@ -1,20 +1,18 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.11082330723568, 
       "housenumber": "2", 
+      "lat": 51.11082330723568, 
+      "lon": 3.7501808801493866, 
       "pcode": 9000, 
-      "street": "Imsakkerlaan", 
-      "lon": 3.7501808801493866
+      "street": "Imsakkerlaan"
     }, 
     {
-      "lat": 51.11309154786179, 
       "housenumber": "4", 
+      "lat": 51.11309154786179, 
+      "lon": 3.7513546181685595, 
       "pcode": 9000, 
-      "street": "Imsakkerlaan", 
-      "lon": 3.7513546181685595
+      "street": "Imsakkerlaan"
     }
-  ], 
-  "name": "Imsakkerlaan"
+  ]
 }

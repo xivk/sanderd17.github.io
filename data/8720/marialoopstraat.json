@@ -1,37 +1,35 @@
 {
-  "pcode": 8720, 
   "addresses": [
     {
-      "lat": 50.98092791738578, 
       "housenumber": "1", 
+      "lat": 50.98092791738578, 
+      "lon": 3.379144996270466, 
       "pcode": 8720, 
-      "street": "Marialoopstraat", 
-      "lon": 3.379144996270466
+      "street": "Marialoopstraat"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 8720, 
-      "street": "Marialoopstraat", 
-      "housenumber": "1B"
+      "street": "Marialoopstraat"
     }, 
     {
+      "housenumber": "1C", 
       "pcode": 8720, 
-      "street": "Marialoopstraat", 
-      "housenumber": "1C"
+      "street": "Marialoopstraat"
     }, 
     {
-      "lat": 50.980105220137624, 
       "housenumber": "3", 
+      "lat": 50.980105220137624, 
+      "lon": 3.3782547746820524, 
       "pcode": 8720, 
-      "street": "Marialoopstraat", 
-      "lon": 3.3782547746820524
+      "street": "Marialoopstraat"
     }, 
     {
-      "lat": 50.98051383240507, 
       "housenumber": "4", 
+      "lat": 50.98051383240507, 
+      "lon": 3.3765279519664344, 
       "pcode": 8720, 
-      "street": "Marialoopstraat", 
-      "lon": 3.3765279519664344
+      "street": "Marialoopstraat"
     }
-  ], 
-  "name": "Marialoopstraat"
+  ]
 }

@@ -1,37 +1,35 @@
 {
-  "pcode": 9170, 
   "addresses": [
     {
-      "lat": 51.23132309575968, 
       "housenumber": "1", 
+      "lat": 51.23132309575968, 
+      "lon": 4.079690756158886, 
       "pcode": 9170, 
-      "street": "Kolshoekstraat", 
-      "lon": 4.079690756158886
+      "street": "Kolshoekstraat"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 9170, 
-      "street": "Kolshoekstraat", 
-      "housenumber": "10"
+      "street": "Kolshoekstraat"
     }, 
     {
-      "lat": 51.23137594615229, 
       "housenumber": "5", 
+      "lat": 51.23137594615229, 
+      "lon": 4.078402793761667, 
       "pcode": 9170, 
-      "street": "Kolshoekstraat", 
-      "lon": 4.078402793761667
+      "street": "Kolshoekstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 9170, 
-      "street": "Kolshoekstraat", 
-      "housenumber": "7"
+      "street": "Kolshoekstraat"
     }, 
     {
-      "lat": 51.23054914061901, 
       "housenumber": "9", 
+      "lat": 51.23054914061901, 
+      "lon": 4.081147507894859, 
       "pcode": 9170, 
-      "street": "Kolshoekstraat", 
-      "lon": 4.081147507894859
+      "street": "Kolshoekstraat"
     }
-  ], 
-  "name": "Kolshoekstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
-      "lat": 51.308653294285044, 
       "housenumber": "1", 
+      "lat": 51.308653294285044, 
+      "lon": 3.1046863183676323, 
       "pcode": 8420, 
-      "street": "Meerminpad", 
-      "lon": 3.1046863183676323
+      "street": "Meerminpad"
     }, 
     {
-      "lat": 51.30835110275593, 
       "housenumber": "3", 
+      "lat": 51.30835110275593, 
+      "lon": 3.1052287714909315, 
       "pcode": 8420, 
-      "street": "Meerminpad", 
-      "lon": 3.1052287714909315
+      "street": "Meerminpad"
     }
-  ], 
-  "name": "Meerminpad"
+  ]
 }

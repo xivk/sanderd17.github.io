@@ -1,28 +1,26 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3900, 
-      "street": "Burgemeester Valentijnsstraat", 
-      "housenumber": "1"
+      "street": "Burgemeester Valentijnsstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3900, 
-      "street": "Burgemeester Valentijnsstraat", 
-      "housenumber": "2"
+      "street": "Burgemeester Valentijnsstraat"
     }, 
     {
-      "lat": 51.21244989604148, 
       "housenumber": "4", 
+      "lat": 51.21244989604148, 
+      "lon": 5.4210250623511635, 
       "pcode": 3900, 
-      "street": "Burgemeester Valentijnsstraat", 
-      "lon": 5.4210250623511635
+      "street": "Burgemeester Valentijnsstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3900, 
-      "street": "Burgemeester Valentijnsstraat", 
-      "housenumber": "6"
+      "street": "Burgemeester Valentijnsstraat"
     }
-  ], 
-  "name": "Burgemeester Valentijnsstraat"
+  ]
 }

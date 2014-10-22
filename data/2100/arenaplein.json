@@ -1,18 +1,16 @@
 {
-  "pcode": 2100, 
   "addresses": [
     {
-      "lat": 51.20660728311648, 
       "housenumber": "1", 
+      "lat": 51.20660728311648, 
+      "lon": 4.459566296791121, 
       "pcode": 2100, 
-      "street": "Arenaplein", 
-      "lon": 4.459566296791121
+      "street": "Arenaplein"
     }, 
     {
+      "housenumber": "62A", 
       "pcode": 2100, 
-      "street": "Arenaplein", 
-      "housenumber": "62A"
+      "street": "Arenaplein"
     }
-  ], 
-  "name": "Arenaplein"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 2460, 
   "addresses": [
     {
-      "lat": 51.26827581852441, 
       "housenumber": "1", 
+      "lat": 51.26827581852441, 
+      "lon": 4.963017378338915, 
       "pcode": 2460, 
-      "street": "Hesstraat", 
-      "lon": 4.963017378338915
+      "street": "Hesstraat"
     }, 
     {
+      "housenumber": "3", 
       "lat": 51.26751625971947, 
-      "housenumber": "3", 
+      "lon": 4.964077409783737, 
       "pcode": 2460, 
-      "street": "Hesstraat", 
-      "lon": 4.964077409783737
+      "street": "Hesstraat"
     }, 
     {
-      "lat": 51.267971852264715, 
       "housenumber": "3", 
+      "lat": 51.267971852264715, 
+      "lon": 4.962422027553255, 
       "pcode": 2460, 
-      "street": "Hesstraat", 
-      "lon": 4.962422027553255
+      "street": "Hesstraat"
     }
-  ], 
-  "name": "Hesstraat"
+  ]
 }

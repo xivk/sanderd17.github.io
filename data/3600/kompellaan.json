@@ -1,20 +1,18 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 51.01410173765182, 
       "housenumber": "5", 
+      "lat": 51.01410173765182, 
+      "lon": 5.5067446131812, 
       "pcode": 3600, 
-      "street": "Kompellaan", 
-      "lon": 5.5067446131812
+      "street": "Kompellaan"
     }, 
     {
-      "lat": 51.014550310867115, 
       "housenumber": "9", 
+      "lat": 51.014550310867115, 
+      "lon": 5.508131824851465, 
       "pcode": 3600, 
-      "street": "Kompellaan", 
-      "lon": 5.508131824851465
+      "street": "Kompellaan"
     }
-  ], 
-  "name": "Kompellaan"
+  ]
 }

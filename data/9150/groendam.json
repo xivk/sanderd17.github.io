@@ -1,27 +1,25 @@
 {
-  "pcode": 9150, 
   "addresses": [
     {
-      "lat": 51.15561545870587, 
       "housenumber": "1", 
+      "lat": 51.15561545870587, 
+      "lon": 4.254900763755629, 
       "pcode": 9150, 
-      "street": "Groendam", 
-      "lon": 4.254900763755629
+      "street": "Groendam"
     }, 
     {
-      "lat": 51.15617226222983, 
       "housenumber": "3", 
+      "lat": 51.15617226222983, 
+      "lon": 4.255421411371148, 
       "pcode": 9150, 
-      "street": "Groendam", 
-      "lon": 4.255421411371148
+      "street": "Groendam"
     }, 
     {
-      "lat": 51.15663483091438, 
       "housenumber": "5", 
+      "lat": 51.15663483091438, 
+      "lon": 4.256098097869423, 
       "pcode": 9150, 
-      "street": "Groendam", 
-      "lon": 4.256098097869423
+      "street": "Groendam"
     }
-  ], 
-  "name": "Groendam"
+  ]
 }

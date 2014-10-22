@@ -1,27 +1,25 @@
 {
-  "pcode": 9660, 
   "addresses": [
     {
-      "lat": 50.80900417374366, 
       "housenumber": "1", 
+      "lat": 50.80900417374366, 
+      "lon": 3.748410951915263, 
       "pcode": 9660, 
-      "street": "Vredeweg", 
-      "lon": 3.748410951915263
+      "street": "Vredeweg"
     }, 
     {
-      "lat": 50.80861232771521, 
       "housenumber": "2", 
+      "lat": 50.80861232771521, 
+      "lon": 3.7485516116281494, 
       "pcode": 9660, 
-      "street": "Vredeweg", 
-      "lon": 3.7485516116281494
+      "street": "Vredeweg"
     }, 
     {
-      "lat": 50.80886898113662, 
       "housenumber": "3", 
+      "lat": 50.80886898113662, 
+      "lon": 3.747853141602191, 
       "pcode": 9660, 
-      "street": "Vredeweg", 
-      "lon": 3.747853141602191
+      "street": "Vredeweg"
     }
-  ], 
-  "name": "Vredeweg"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 3090, 
   "addresses": [
     {
-      "lat": 50.734958702655966, 
       "housenumber": "1", 
+      "lat": 50.734958702655966, 
+      "lon": 4.524666816583992, 
       "pcode": 3090, 
-      "street": "Berkenlaan", 
-      "lon": 4.524666816583992
+      "street": "Berkenlaan"
     }, 
     {
-      "lat": 50.734689593642194, 
       "housenumber": "2", 
+      "lat": 50.734689593642194, 
+      "lon": 4.524296624701188, 
       "pcode": 3090, 
-      "street": "Berkenlaan", 
-      "lon": 4.524296624701188
+      "street": "Berkenlaan"
     }, 
     {
-      "lat": 50.734505460719895, 
       "housenumber": "4", 
+      "lat": 50.734505460719895, 
+      "lon": 4.52451487207702, 
       "pcode": 3090, 
-      "street": "Berkenlaan", 
-      "lon": 4.52451487207702
+      "street": "Berkenlaan"
     }
-  ], 
-  "name": "Berkenlaan"
+  ]
 }

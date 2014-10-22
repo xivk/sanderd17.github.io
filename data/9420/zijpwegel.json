@@ -1,20 +1,18 @@
 {
-  "pcode": 9420, 
   "addresses": [
     {
-      "lat": 50.94459489114299, 
       "housenumber": "10", 
+      "lat": 50.94459489114299, 
+      "lon": 3.999531968919293, 
       "pcode": 9420, 
-      "street": "Zijpwegel", 
-      "lon": 3.999531968919293
+      "street": "Zijpwegel"
     }, 
     {
-      "lat": 50.9447515342435, 
       "housenumber": "8", 
+      "lat": 50.9447515342435, 
+      "lon": 3.999891590542506, 
       "pcode": 9420, 
-      "street": "Zijpwegel", 
-      "lon": 3.999891590542506
+      "street": "Zijpwegel"
     }
-  ], 
-  "name": "Zijpwegel"
+  ]
 }

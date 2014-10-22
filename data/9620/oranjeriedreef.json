@@ -1,23 +1,21 @@
 {
-  "pcode": 9620, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9620, 
-      "street": "Oranjeriedreef", 
-      "housenumber": "1"
+      "street": "Oranjeriedreef"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9620, 
-      "street": "Oranjeriedreef", 
-      "housenumber": "2"
+      "street": "Oranjeriedreef"
     }, 
     {
-      "lat": 50.89136549409279, 
       "housenumber": "3", 
+      "lat": 50.89136549409279, 
+      "lon": 3.821153545189, 
       "pcode": 9620, 
-      "street": "Oranjeriedreef", 
-      "lon": 3.821153545189
+      "street": "Oranjeriedreef"
     }
-  ], 
-  "name": "Oranjeriedreef"
+  ]
 }

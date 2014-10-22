@@ -1,20 +1,18 @@
 {
-  "pcode": 9080, 
   "addresses": [
     {
-      "lat": 51.07647242220664, 
       "housenumber": "61", 
+      "lat": 51.07647242220664, 
+      "lon": 3.8150939649835496, 
       "pcode": 9080, 
-      "street": "Veldekensstraat", 
-      "lon": 3.8150939649835496
+      "street": "Veldekensstraat"
     }, 
     {
-      "lat": 51.07761725632757, 
       "housenumber": "83", 
+      "lat": 51.07761725632757, 
+      "lon": 3.817586354788376, 
       "pcode": 9080, 
-      "street": "Veldekensstraat", 
-      "lon": 3.817586354788376
+      "street": "Veldekensstraat"
     }
-  ], 
-  "name": "Veldekensstraat"
+  ]
 }

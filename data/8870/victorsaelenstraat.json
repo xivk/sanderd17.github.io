@@ -1,18 +1,16 @@
 {
-  "pcode": 8870, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8870, 
-      "street": "Victor Saelenstraat", 
-      "housenumber": "1"
+      "street": "Victor Saelenstraat"
     }, 
     {
-      "lat": 50.931218857877624, 
       "housenumber": "2", 
+      "lat": 50.931218857877624, 
+      "lon": 3.1920920346746096, 
       "pcode": 8870, 
-      "street": "Victor Saelenstraat", 
-      "lon": 3.1920920346746096
+      "street": "Victor Saelenstraat"
     }
-  ], 
-  "name": "Victor Saelenstraat"
+  ]
 }

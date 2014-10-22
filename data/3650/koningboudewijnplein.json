@@ -1,32 +1,30 @@
 {
-  "pcode": 3650, 
   "addresses": [
     {
-      "lat": 51.034938521968535, 
       "housenumber": "1", 
+      "lat": 51.034938521968535, 
+      "lon": 5.7255339426885525, 
       "pcode": 3650, 
-      "street": "Koning Boudewijnplein", 
-      "lon": 5.7255339426885525
+      "street": "Koning Boudewijnplein"
     }, 
     {
-      "lat": 51.03484119152805, 
       "housenumber": "1A", 
+      "lat": 51.03484119152805, 
+      "lon": 5.725866058927485, 
       "pcode": 3650, 
-      "street": "Koning Boudewijnplein", 
-      "lon": 5.725866058927485
+      "street": "Koning Boudewijnplein"
     }, 
     {
-      "lat": 51.03534039888755, 
       "housenumber": "2", 
+      "lat": 51.03534039888755, 
+      "lon": 5.725588373342625, 
       "pcode": 3650, 
-      "street": "Koning Boudewijnplein", 
-      "lon": 5.725588373342625
+      "street": "Koning Boudewijnplein"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3650, 
-      "street": "Koning Boudewijnplein", 
-      "housenumber": "4"
+      "street": "Koning Boudewijnplein"
     }
-  ], 
-  "name": "Koning Boudewijnplein"
+  ]
 }

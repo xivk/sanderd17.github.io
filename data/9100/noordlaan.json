@@ -1,35 +1,33 @@
 {
-  "pcode": 9100, 
   "addresses": [
     {
+      "housenumber": "28", 
       "pcode": 9100, 
-      "street": "Noordlaan", 
-      "housenumber": "28"
+      "street": "Noordlaan"
     }, 
     {
+      "housenumber": "30", 
       "pcode": 9100, 
-      "street": "Noordlaan", 
-      "housenumber": "30"
+      "street": "Noordlaan"
     }, 
     {
-      "lat": 51.173253387092764, 
       "housenumber": "32", 
+      "lat": 51.173253387092764, 
+      "lon": 4.144566641150957, 
       "pcode": 9100, 
-      "street": "Noordlaan", 
-      "lon": 4.144566641150957
+      "street": "Noordlaan"
     }, 
     {
+      "housenumber": "32A", 
       "pcode": 9100, 
-      "street": "Noordlaan", 
-      "housenumber": "32A"
+      "street": "Noordlaan"
     }, 
     {
-      "lat": 51.17090775395771, 
       "housenumber": "4", 
+      "lat": 51.17090775395771, 
+      "lon": 4.1405341066526535, 
       "pcode": 9100, 
-      "street": "Noordlaan", 
-      "lon": 4.1405341066526535
+      "street": "Noordlaan"
     }
-  ], 
-  "name": "Noordlaan"
+  ]
 }

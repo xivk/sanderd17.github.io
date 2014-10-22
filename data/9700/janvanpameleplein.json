@@ -1,18 +1,16 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 9700, 
-      "street": "Jan Van Pameleplein", 
-      "housenumber": "11"
+      "street": "Jan Van Pameleplein"
     }, 
     {
-      "lat": 50.840525932670516, 
       "housenumber": "2", 
+      "lat": 50.840525932670516, 
+      "lon": 3.6044217039941535, 
       "pcode": 9700, 
-      "street": "Jan Van Pameleplein", 
-      "lon": 3.6044217039941535
+      "street": "Jan Van Pameleplein"
     }
-  ], 
-  "name": "Jan Van Pameleplein"
+  ]
 }

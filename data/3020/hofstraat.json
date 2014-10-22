@@ -1,20 +1,18 @@
 {
-  "pcode": 3020, 
   "addresses": [
     {
-      "lat": 50.91529880710961, 
       "housenumber": "151", 
+      "lat": 50.91529880710961, 
+      "lon": 4.667717321558147, 
       "pcode": 3020, 
-      "street": "Hofstraat", 
-      "lon": 4.667717321558147
+      "street": "Hofstraat"
     }, 
     {
-      "lat": 50.91566333308667, 
       "housenumber": "153", 
+      "lat": 50.91566333308667, 
+      "lon": 4.666868278634023, 
       "pcode": 3020, 
-      "street": "Hofstraat", 
-      "lon": 4.666868278634023
+      "street": "Hofstraat"
     }
-  ], 
-  "name": "Hofstraat"
+  ]
 }

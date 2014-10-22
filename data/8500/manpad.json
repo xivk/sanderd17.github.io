@@ -1,27 +1,25 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.793533622605416, 
       "housenumber": "1", 
+      "lat": 50.793533622605416, 
+      "lon": 3.289424688766704, 
       "pcode": 8500, 
-      "street": "Manpad", 
-      "lon": 3.289424688766704
+      "street": "Manpad"
     }, 
     {
-      "lat": 50.790310394288305, 
       "housenumber": "3", 
+      "lat": 50.790310394288305, 
+      "lon": 3.2856809869875807, 
       "pcode": 8500, 
-      "street": "Manpad", 
-      "lon": 3.2856809869875807
+      "street": "Manpad"
     }, 
     {
-      "lat": 50.79166667120107, 
       "housenumber": "4", 
+      "lat": 50.79166667120107, 
+      "lon": 3.284596613035923, 
       "pcode": 8500, 
-      "street": "Manpad", 
-      "lon": 3.284596613035923
+      "street": "Manpad"
     }
-  ], 
-  "name": "Manpad"
+  ]
 }

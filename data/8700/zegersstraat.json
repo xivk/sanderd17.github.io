@@ -1,27 +1,25 @@
 {
-  "pcode": 8700, 
   "addresses": [
     {
-      "lat": 51.00256770382733, 
       "housenumber": "2", 
+      "lat": 51.00256770382733, 
+      "lon": 3.357628281089327, 
       "pcode": 8700, 
-      "street": "Zegersstraat", 
-      "lon": 3.357628281089327
+      "street": "Zegersstraat"
     }, 
     {
-      "lat": 51.001181878083926, 
       "housenumber": "6", 
+      "lat": 51.001181878083926, 
+      "lon": 3.3580333065772483, 
       "pcode": 8700, 
-      "street": "Zegersstraat", 
-      "lon": 3.3580333065772483
+      "street": "Zegersstraat"
     }, 
     {
-      "lat": 51.00171961467967, 
       "housenumber": "8", 
+      "lat": 51.00171961467967, 
+      "lon": 3.3578191117908833, 
       "pcode": 8700, 
-      "street": "Zegersstraat", 
-      "lon": 3.3578191117908833
+      "street": "Zegersstraat"
     }
-  ], 
-  "name": "Zegersstraat"
+  ]
 }

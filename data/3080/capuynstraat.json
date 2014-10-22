@@ -1,37 +1,35 @@
 {
-  "pcode": 3080, 
   "addresses": [
     {
-      "lat": 50.85823300700158, 
       "housenumber": "10", 
+      "lat": 50.85823300700158, 
+      "lon": 4.536275685242657, 
       "pcode": 3080, 
-      "street": "Capuynstraat", 
-      "lon": 4.536275685242657
+      "street": "Capuynstraat"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 3080, 
-      "street": "Capuynstraat", 
-      "housenumber": "12"
+      "street": "Capuynstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3080, 
-      "street": "Capuynstraat", 
-      "housenumber": "4"
+      "street": "Capuynstraat"
     }, 
     {
-      "lat": 50.85818465815259, 
       "housenumber": "6", 
+      "lat": 50.85818465815259, 
+      "lon": 4.536077240528882, 
       "pcode": 3080, 
-      "street": "Capuynstraat", 
-      "lon": 4.536077240528882
+      "street": "Capuynstraat"
     }, 
     {
-      "lat": 50.85820878767183, 
       "housenumber": "8", 
+      "lat": 50.85820878767183, 
+      "lon": 4.536176462673947, 
       "pcode": 3080, 
-      "street": "Capuynstraat", 
-      "lon": 4.536176462673947
+      "street": "Capuynstraat"
     }
-  ], 
-  "name": "Capuynstraat"
+  ]
 }

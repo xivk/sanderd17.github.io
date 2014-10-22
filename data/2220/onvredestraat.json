@@ -1,20 +1,18 @@
 {
-  "pcode": 2220, 
   "addresses": [
     {
-      "lat": 51.07948261074161, 
       "housenumber": "2", 
+      "lat": 51.07948261074161, 
+      "lon": 4.73716542404414, 
       "pcode": 2220, 
-      "street": "Onvredestraat", 
-      "lon": 4.73716542404414
+      "street": "Onvredestraat"
     }, 
     {
-      "lat": 51.07932531248935, 
       "housenumber": "4", 
+      "lat": 51.07932531248935, 
+      "lon": 4.736731797785929, 
       "pcode": 2220, 
-      "street": "Onvredestraat", 
-      "lon": 4.736731797785929
+      "street": "Onvredestraat"
     }
-  ], 
-  "name": "Onvredestraat"
+  ]
 }

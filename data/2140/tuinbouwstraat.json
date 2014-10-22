@@ -1,25 +1,23 @@
 {
-  "pcode": 2140, 
   "addresses": [
     {
+      "housenumber": "45", 
       "pcode": 2140, 
-      "street": "Tuinbouwstraat", 
-      "housenumber": "45"
+      "street": "Tuinbouwstraat"
     }, 
     {
-      "lat": 51.21541414431934, 
       "housenumber": "7", 
+      "lat": 51.21541414431934, 
+      "lon": 4.426916198421028, 
       "pcode": 2140, 
-      "street": "Tuinbouwstraat", 
-      "lon": 4.426916198421028
+      "street": "Tuinbouwstraat"
     }, 
     {
-      "lat": 51.215414483381686, 
       "housenumber": "9", 
+      "lat": 51.215414483381686, 
+      "lon": 4.427137456194023, 
       "pcode": 2140, 
-      "street": "Tuinbouwstraat", 
-      "lon": 4.427137456194023
+      "street": "Tuinbouwstraat"
     }
-  ], 
-  "name": "Tuinbouwstraat"
+  ]
 }

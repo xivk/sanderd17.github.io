@@ -1,20 +1,18 @@
 {
-  "pcode": 9070, 
   "addresses": [
     {
-      "lat": 51.035273934394624, 
       "housenumber": "1", 
+      "lat": 51.035273934394624, 
+      "lon": 3.8221265043122745, 
       "pcode": 9070, 
-      "street": "Leegrede", 
-      "lon": 3.8221265043122745
+      "street": "Leegrede"
     }, 
     {
-      "lat": 51.03522193408087, 
       "housenumber": "3", 
+      "lat": 51.03522193408087, 
+      "lon": 3.8224082567072357, 
       "pcode": 9070, 
-      "street": "Leegrede", 
-      "lon": 3.8224082567072357
+      "street": "Leegrede"
     }
-  ], 
-  "name": "Leegrede"
+  ]
 }

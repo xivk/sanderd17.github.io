@@ -1,18 +1,16 @@
 {
-  "pcode": 9506, 
   "addresses": [
     {
-      "lat": 50.81449889647506, 
       "housenumber": "1", 
+      "lat": 50.81449889647506, 
+      "lon": 3.929619106186734, 
       "pcode": 9506, 
-      "street": "Haststraat", 
-      "lon": 3.929619106186734
+      "street": "Haststraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9506, 
-      "street": "Haststraat", 
-      "housenumber": "4"
+      "street": "Haststraat"
     }
-  ], 
-  "name": "Haststraat"
+  ]
 }

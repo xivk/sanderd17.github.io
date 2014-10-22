@@ -1,20 +1,18 @@
 {
-  "pcode": 8433, 
   "addresses": [
     {
-      "lat": 51.144637107984835, 
       "housenumber": "1", 
+      "lat": 51.144637107984835, 
+      "lon": 2.830694906297357, 
       "pcode": 8433, 
-      "street": "Ten Doelestraat", 
-      "lon": 2.830694906297357
+      "street": "Ten Doelestraat"
     }, 
     {
-      "lat": 51.14284154658452, 
       "housenumber": "2", 
+      "lat": 51.14284154658452, 
+      "lon": 2.822595461179225, 
       "pcode": 8433, 
-      "street": "Ten Doelestraat", 
-      "lon": 2.822595461179225
+      "street": "Ten Doelestraat"
     }
-  ], 
-  "name": "Ten Doelestraat"
+  ]
 }

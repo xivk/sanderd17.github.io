@@ -1,32 +1,30 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.255930393934314, 
       "housenumber": "142", 
+      "lat": 51.255930393934314, 
+      "lon": 4.412807345643162, 
       "pcode": 2030, 
-      "street": "Mulhouselaan-Zuid", 
-      "lon": 4.412807345643162
+      "street": "Mulhouselaan-Zuid"
     }, 
     {
-      "lat": 51.256048898525954, 
       "housenumber": "142K", 
+      "lat": 51.256048898525954, 
+      "lon": 4.415699777749757, 
       "pcode": 2030, 
-      "street": "Mulhouselaan-Zuid", 
-      "lon": 4.415699777749757
+      "street": "Mulhouselaan-Zuid"
     }, 
     {
-      "lat": 51.255893610217164, 
       "housenumber": "144K", 
+      "lat": 51.255893610217164, 
+      "lon": 4.412864749684636, 
       "pcode": 2030, 
-      "street": "Mulhouselaan-Zuid", 
-      "lon": 4.412864749684636
+      "street": "Mulhouselaan-Zuid"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2030, 
-      "street": "Mulhouselaan-Zuid", 
-      "housenumber": "4"
+      "street": "Mulhouselaan-Zuid"
     }
-  ], 
-  "name": "Mulhouselaan-Zuid"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.802612848112496, 
       "housenumber": "17", 
+      "lat": 50.802612848112496, 
+      "lon": 5.511505620544493, 
       "pcode": 3700, 
-      "street": "Demerbroek", 
-      "lon": 5.511505620544493
+      "street": "Demerbroek"
     }, 
     {
-      "lat": 50.80157758147602, 
       "housenumber": "2", 
+      "lat": 50.80157758147602, 
+      "lon": 5.512011069629316, 
       "pcode": 3700, 
-      "street": "Demerbroek", 
-      "lon": 5.512011069629316
+      "street": "Demerbroek"
     }, 
     {
-      "lat": 50.80279870596315, 
       "housenumber": "25", 
+      "lat": 50.80279870596315, 
+      "lon": 5.5110796806545785, 
       "pcode": 3700, 
-      "street": "Demerbroek", 
-      "lon": 5.5110796806545785
+      "street": "Demerbroek"
     }
-  ], 
-  "name": "Demerbroek"
+  ]
 }

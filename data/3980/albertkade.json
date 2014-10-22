@@ -1,39 +1,37 @@
 {
-  "pcode": 3980, 
   "addresses": [
     {
-      "lat": 51.07126705331273, 
       "housenumber": "1", 
+      "lat": 51.07126705331273, 
+      "lon": 5.1641976708373285, 
       "pcode": 3980, 
-      "street": "Albertkade", 
-      "lon": 5.1641976708373285
+      "street": "Albertkade"
     }, 
     {
-      "lat": 51.07167477126268, 
       "housenumber": "2", 
+      "lat": 51.07167477126268, 
+      "lon": 5.165493478181478, 
       "pcode": 3980, 
-      "street": "Albertkade", 
-      "lon": 5.165493478181478
+      "street": "Albertkade"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 3980, 
-      "street": "Albertkade", 
-      "housenumber": "2A"
+      "street": "Albertkade"
     }, 
     {
-      "lat": 51.072599530416774, 
       "housenumber": "3", 
+      "lat": 51.072599530416774, 
+      "lon": 5.167374878870532, 
       "pcode": 3980, 
-      "street": "Albertkade", 
-      "lon": 5.167374878870532
+      "street": "Albertkade"
     }, 
     {
-      "lat": 51.07274486148158, 
       "housenumber": "4", 
+      "lat": 51.07274486148158, 
+      "lon": 5.1757253123957785, 
       "pcode": 3980, 
-      "street": "Albertkade", 
-      "lon": 5.1757253123957785
+      "street": "Albertkade"
     }
-  ], 
-  "name": "Albertkade"
+  ]
 }

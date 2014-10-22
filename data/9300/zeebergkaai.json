@@ -1,39 +1,37 @@
 {
-  "pcode": 9300, 
   "addresses": [
     {
-      "lat": 50.93469149464485, 
       "housenumber": "2", 
+      "lat": 50.93469149464485, 
+      "lon": 4.0475207609084585, 
       "pcode": 9300, 
-      "street": "Zeebergkaai", 
-      "lon": 4.0475207609084585
+      "street": "Zeebergkaai"
     }, 
     {
-      "lat": 50.93442601130057, 
       "housenumber": "4", 
+      "lat": 50.93442601130057, 
+      "lon": 4.04770850867287, 
       "pcode": 9300, 
-      "street": "Zeebergkaai", 
-      "lon": 4.04770850867287
+      "street": "Zeebergkaai"
     }, 
     {
-      "lat": 50.93433097797402, 
       "housenumber": "5", 
+      "lat": 50.93433097797402, 
+      "lon": 4.0475708809414135, 
       "pcode": 9300, 
-      "street": "Zeebergkaai", 
-      "lon": 4.0475708809414135
+      "street": "Zeebergkaai"
     }, 
     {
-      "lat": 50.93411871506301, 
       "housenumber": "6", 
+      "lat": 50.93411871506301, 
+      "lon": 4.04789184507685, 
       "pcode": 9300, 
-      "street": "Zeebergkaai", 
-      "lon": 4.04789184507685
+      "street": "Zeebergkaai"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 9300, 
-      "street": "Zeebergkaai", 
-      "housenumber": "7"
+      "street": "Zeebergkaai"
     }
-  ], 
-  "name": "Zeebergkaai"
+  ]
 }

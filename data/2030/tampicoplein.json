@@ -1,58 +1,56 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 2030, 
-      "street": "Tampicoplein", 
-      "housenumber": "10"
+      "street": "Tampicoplein"
     }, 
     {
-      "lat": 51.25106202914508, 
       "housenumber": "12", 
+      "lat": 51.25106202914508, 
+      "lon": 4.4223678406674, 
       "pcode": 2030, 
-      "street": "Tampicoplein", 
-      "lon": 4.4223678406674
+      "street": "Tampicoplein"
     }, 
     {
-      "lat": 51.25106106866612, 
       "housenumber": "14", 
+      "lat": 51.25106106866612, 
+      "lon": 4.422696971702993, 
       "pcode": 2030, 
-      "street": "Tampicoplein", 
-      "lon": 4.422696971702993
+      "street": "Tampicoplein"
     }, 
     {
-      "lat": 51.251056184174914, 
       "housenumber": "16", 
+      "lat": 51.251056184174914, 
+      "lon": 4.422568922409, 
       "pcode": 2030, 
-      "street": "Tampicoplein", 
-      "lon": 4.422568922409
+      "street": "Tampicoplein"
     }, 
     {
-      "lat": 51.25106078888099, 
       "housenumber": "2", 
+      "lat": 51.25106078888099, 
+      "lon": 4.422132090082421, 
       "pcode": 2030, 
-      "street": "Tampicoplein", 
-      "lon": 4.422132090082421
+      "street": "Tampicoplein"
     }, 
     {
-      "lat": 51.251068502821866, 
       "housenumber": "4", 
+      "lat": 51.251068502821866, 
+      "lon": 4.422167046056802, 
       "pcode": 2030, 
-      "street": "Tampicoplein", 
-      "lon": 4.422167046056802
+      "street": "Tampicoplein"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2030, 
-      "street": "Tampicoplein", 
-      "housenumber": "6"
+      "street": "Tampicoplein"
     }, 
     {
-      "lat": 51.251091914886885, 
       "housenumber": "8", 
+      "lat": 51.251091914886885, 
+      "lon": 4.42227048210811, 
       "pcode": 2030, 
-      "street": "Tampicoplein", 
-      "lon": 4.42227048210811
+      "street": "Tampicoplein"
     }
-  ], 
-  "name": "Tampicoplein"
+  ]
 }

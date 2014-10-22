@@ -1,18 +1,16 @@
 {
-  "pcode": 3294, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3294, 
-      "street": "Merelstraat", 
-      "housenumber": "1"
+      "street": "Merelstraat"
     }, 
     {
-      "lat": 51.00210600979137, 
       "housenumber": "23", 
+      "lat": 51.00210600979137, 
+      "lon": 5.047458559153995, 
       "pcode": 3294, 
-      "street": "Merelstraat", 
-      "lon": 5.047458559153995
+      "street": "Merelstraat"
     }
-  ], 
-  "name": "Merelstraat"
+  ]
 }

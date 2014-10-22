@@ -1,20 +1,18 @@
 {
-  "pcode": 8750, 
   "addresses": [
     {
-      "lat": 51.09564630381291, 
       "housenumber": "1", 
+      "lat": 51.09564630381291, 
+      "lon": 3.303690080420919, 
       "pcode": 8750, 
-      "street": "Oude Bruggeweg", 
-      "lon": 3.303690080420919
+      "street": "Oude Bruggeweg"
     }, 
     {
-      "lat": 51.09845921168309, 
       "housenumber": "2", 
+      "lat": 51.09845921168309, 
+      "lon": 3.3045793302933237, 
       "pcode": 8750, 
-      "street": "Oude Bruggeweg", 
-      "lon": 3.3045793302933237
+      "street": "Oude Bruggeweg"
     }
-  ], 
-  "name": "Oude Bruggeweg"
+  ]
 }

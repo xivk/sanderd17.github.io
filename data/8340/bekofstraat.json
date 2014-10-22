@@ -1,20 +1,18 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.26898520450455, 
       "housenumber": "1", 
+      "lat": 51.26898520450455, 
+      "lon": 3.305791269476126, 
       "pcode": 8340, 
-      "street": "Bekofstraat", 
-      "lon": 3.305791269476126
+      "street": "Bekofstraat"
     }, 
     {
-      "lat": 51.268980706194796, 
       "housenumber": "2", 
+      "lat": 51.268980706194796, 
+      "lon": 3.3075450187158104, 
       "pcode": 8340, 
-      "street": "Bekofstraat", 
-      "lon": 3.3075450187158104
+      "street": "Bekofstraat"
     }
-  ], 
-  "name": "Bekofstraat"
+  ]
 }

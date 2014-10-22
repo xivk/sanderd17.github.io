@@ -1,40 +1,38 @@
 {
-  "pcode": 2300, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2300, 
-      "street": "Lokerenschuif", 
-      "housenumber": "1"
+      "street": "Lokerenschuif"
     }, 
     {
-      "lat": 51.318682804056756, 
       "housenumber": "11", 
+      "lat": 51.318682804056756, 
+      "lon": 4.937110274314359, 
       "pcode": 2300, 
-      "street": "Lokerenschuif", 
-      "lon": 4.937110274314359
+      "street": "Lokerenschuif"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2300, 
-      "street": "Lokerenschuif", 
-      "housenumber": "3"
+      "street": "Lokerenschuif"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2300, 
-      "street": "Lokerenschuif", 
-      "housenumber": "5"
+      "street": "Lokerenschuif"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2300, 
-      "street": "Lokerenschuif", 
-      "housenumber": "7"
+      "street": "Lokerenschuif"
     }, 
     {
-      "lat": 51.31870498831945, 
       "housenumber": "9", 
+      "lat": 51.31870498831945, 
+      "lon": 4.937132491631357, 
       "pcode": 2300, 
-      "street": "Lokerenschuif", 
-      "lon": 4.937132491631357
+      "street": "Lokerenschuif"
     }
-  ], 
-  "name": "Lokerenschuif"
+  ]
 }

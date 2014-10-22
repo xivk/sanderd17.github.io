@@ -1,20 +1,18 @@
 {
-  "pcode": 9250, 
   "addresses": [
     {
-      "lat": 51.10235591375821, 
       "housenumber": "1", 
+      "lat": 51.10235591375821, 
+      "lon": 4.0476208445581685, 
       "pcode": 9250, 
-      "street": "Ten Rijendreef", 
-      "lon": 4.0476208445581685
+      "street": "Ten Rijendreef"
     }, 
     {
-      "lat": 51.10502254589054, 
       "housenumber": "2", 
+      "lat": 51.10502254589054, 
+      "lon": 4.058592571122393, 
       "pcode": 9250, 
-      "street": "Ten Rijendreef", 
-      "lon": 4.058592571122393
+      "street": "Ten Rijendreef"
     }
-  ], 
-  "name": "Ten Rijendreef"
+  ]
 }

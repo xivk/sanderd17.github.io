@@ -1,20 +1,18 @@
 {
-  "pcode": 3940, 
   "addresses": [
     {
-      "lat": 51.154985327432314, 
       "housenumber": "10", 
+      "lat": 51.154985327432314, 
+      "lon": 5.384006439365619, 
       "pcode": 3940, 
-      "street": "Leemweg", 
-      "lon": 5.384006439365619
+      "street": "Leemweg"
     }, 
     {
-      "lat": 51.155500442662124, 
       "housenumber": "2", 
+      "lat": 51.155500442662124, 
+      "lon": 5.384985675849311, 
       "pcode": 3940, 
-      "street": "Leemweg", 
-      "lon": 5.384985675849311
+      "street": "Leemweg"
     }
-  ], 
-  "name": "Leemweg"
+  ]
 }

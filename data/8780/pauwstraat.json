@@ -1,27 +1,25 @@
 {
-  "pcode": 8780, 
   "addresses": [
     {
-      "lat": 50.91838233900228, 
       "housenumber": "1", 
+      "lat": 50.91838233900228, 
+      "lon": 3.306770511425562, 
       "pcode": 8780, 
-      "street": "Pauwstraat", 
-      "lon": 3.306770511425562
+      "street": "Pauwstraat"
     }, 
     {
-      "lat": 50.91919461681782, 
       "housenumber": "2", 
+      "lat": 50.91919461681782, 
+      "lon": 3.3079363265238544, 
       "pcode": 8780, 
-      "street": "Pauwstraat", 
-      "lon": 3.3079363265238544
+      "street": "Pauwstraat"
     }, 
     {
-      "lat": 50.919952038349244, 
       "housenumber": "3", 
+      "lat": 50.919952038349244, 
+      "lon": 3.3057961572170758, 
       "pcode": 8780, 
-      "street": "Pauwstraat", 
-      "lon": 3.3057961572170758
+      "street": "Pauwstraat"
     }
-  ], 
-  "name": "Pauwstraat"
+  ]
 }

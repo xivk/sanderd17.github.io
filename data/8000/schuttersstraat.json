@@ -1,58 +1,56 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.213894630461034, 
       "housenumber": "1", 
+      "lat": 51.213894630461034, 
+      "lon": 3.22061689938674, 
       "pcode": 8000, 
-      "street": "Schuttersstraat", 
-      "lon": 3.22061689938674
+      "street": "Schuttersstraat"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 8000, 
-      "street": "Schuttersstraat", 
-      "housenumber": "10"
+      "street": "Schuttersstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8000, 
-      "street": "Schuttersstraat", 
-      "housenumber": "2"
+      "street": "Schuttersstraat"
     }, 
     {
-      "lat": 51.21430051580054, 
       "housenumber": "3", 
+      "lat": 51.21430051580054, 
+      "lon": 3.2202845838819836, 
       "pcode": 8000, 
-      "street": "Schuttersstraat", 
-      "lon": 3.2202845838819836
+      "street": "Schuttersstraat"
     }, 
     {
-      "lat": 51.21402547358732, 
       "housenumber": "5", 
+      "lat": 51.21402547358732, 
+      "lon": 3.2203068116115166, 
       "pcode": 8000, 
-      "street": "Schuttersstraat", 
-      "lon": 3.2203068116115166
+      "street": "Schuttersstraat"
     }, 
     {
-      "lat": 51.21393782128962, 
       "housenumber": "6", 
+      "lat": 51.21393782128962, 
+      "lon": 3.220917551554732, 
       "pcode": 8000, 
-      "street": "Schuttersstraat", 
-      "lon": 3.220917551554732
+      "street": "Schuttersstraat"
     }, 
     {
-      "lat": 51.213964058016174, 
       "housenumber": "7", 
+      "lat": 51.213964058016174, 
+      "lon": 3.2204531694147596, 
       "pcode": 8000, 
-      "street": "Schuttersstraat", 
-      "lon": 3.2204531694147596
+      "street": "Schuttersstraat"
     }, 
     {
-      "lat": 51.213981895970804, 
       "housenumber": "8", 
+      "lat": 51.213981895970804, 
+      "lon": 3.2209017250591363, 
       "pcode": 8000, 
-      "street": "Schuttersstraat", 
-      "lon": 3.2209017250591363
+      "street": "Schuttersstraat"
     }
-  ], 
-  "name": "Schuttersstraat"
+  ]
 }

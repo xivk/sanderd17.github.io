@@ -1,30 +1,28 @@
 {
-  "pcode": 2930, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 2930, 
-      "street": "Pinksterbloem", 
-      "housenumber": "10"
+      "street": "Pinksterbloem"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2930, 
-      "street": "Pinksterbloem", 
-      "housenumber": "7"
+      "street": "Pinksterbloem"
     }, 
     {
-      "lat": 51.291783323755254, 
       "housenumber": "8", 
+      "lat": 51.291783323755254, 
+      "lon": 4.5150572705598755, 
       "pcode": 2930, 
-      "street": "Pinksterbloem", 
-      "lon": 4.5150572705598755
+      "street": "Pinksterbloem"
     }, 
     {
-      "lat": 51.2917506120105, 
       "housenumber": "9", 
+      "lat": 51.2917506120105, 
+      "lon": 4.515053153448002, 
       "pcode": 2930, 
-      "street": "Pinksterbloem", 
-      "lon": 4.515053153448002
+      "street": "Pinksterbloem"
     }
-  ], 
-  "name": "Pinksterbloem"
+  ]
 }

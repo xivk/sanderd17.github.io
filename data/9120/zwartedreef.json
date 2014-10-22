@@ -1,27 +1,25 @@
 {
-  "pcode": 9120, 
   "addresses": [
     {
-      "lat": 51.211378164639164, 
       "housenumber": "1", 
+      "lat": 51.211378164639164, 
+      "lon": 4.2661154527935174, 
       "pcode": 9120, 
-      "street": "Zwarte Dreef", 
-      "lon": 4.2661154527935174
+      "street": "Zwarte Dreef"
     }, 
     {
-      "lat": 51.21313379363014, 
       "housenumber": "2", 
+      "lat": 51.21313379363014, 
+      "lon": 4.26244058036641, 
       "pcode": 9120, 
-      "street": "Zwarte Dreef", 
-      "lon": 4.26244058036641
+      "street": "Zwarte Dreef"
     }, 
     {
-      "lat": 51.21380275731133, 
       "housenumber": "4", 
+      "lat": 51.21380275731133, 
+      "lon": 4.262290229710818, 
       "pcode": 9120, 
-      "street": "Zwarte Dreef", 
-      "lon": 4.262290229710818
+      "street": "Zwarte Dreef"
     }
-  ], 
-  "name": "Zwarte Dreef"
+  ]
 }

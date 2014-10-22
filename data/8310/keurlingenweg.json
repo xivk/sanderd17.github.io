@@ -1,25 +1,23 @@
 {
-  "pcode": 8310, 
   "addresses": [
     {
-      "lat": 51.19286372759296, 
       "housenumber": "1", 
+      "lat": 51.19286372759296, 
+      "lon": 3.248845554559931, 
       "pcode": 8310, 
-      "street": "Keurlingenweg", 
-      "lon": 3.248845554559931
+      "street": "Keurlingenweg"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8310, 
-      "street": "Keurlingenweg", 
-      "housenumber": "2"
+      "street": "Keurlingenweg"
     }, 
     {
-      "lat": 51.19282803071805, 
       "housenumber": "3", 
+      "lat": 51.19282803071805, 
+      "lon": 3.2483228005149876, 
       "pcode": 8310, 
-      "street": "Keurlingenweg", 
-      "lon": 3.2483228005149876
+      "street": "Keurlingenweg"
     }
-  ], 
-  "name": "Keurlingenweg"
+  ]
 }

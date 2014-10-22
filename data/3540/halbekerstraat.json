@@ -1,32 +1,30 @@
 {
-  "pcode": 3540, 
   "addresses": [
     {
-      "lat": 50.9461318433255, 
       "housenumber": "1", 
+      "lat": 50.9461318433255, 
+      "lon": 5.154139620691088, 
       "pcode": 3540, 
-      "street": "Halbekerstraat", 
-      "lon": 5.154139620691088
+      "street": "Halbekerstraat"
     }, 
     {
-      "lat": 50.94582700241983, 
       "housenumber": "2", 
+      "lat": 50.94582700241983, 
+      "lon": 5.151014839688369, 
       "pcode": 3540, 
-      "street": "Halbekerstraat", 
-      "lon": 5.151014839688369
+      "street": "Halbekerstraat"
     }, 
     {
-      "lat": 50.94631112697329, 
       "housenumber": "3", 
+      "lat": 50.94631112697329, 
+      "lon": 5.150052131268384, 
       "pcode": 3540, 
-      "street": "Halbekerstraat", 
-      "lon": 5.150052131268384
+      "street": "Halbekerstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3540, 
-      "street": "Halbekerstraat", 
-      "housenumber": "4"
+      "street": "Halbekerstraat"
     }
-  ], 
-  "name": "Halbekerstraat"
+  ]
 }

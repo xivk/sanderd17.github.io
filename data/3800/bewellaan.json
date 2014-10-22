@@ -1,20 +1,18 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
-      "lat": 50.819260320212756, 
       "housenumber": "10", 
+      "lat": 50.819260320212756, 
+      "lon": 5.204270065731635, 
       "pcode": 3800, 
-      "street": "Bewellaan", 
-      "lon": 5.204270065731635
+      "street": "Bewellaan"
     }, 
     {
-      "lat": 50.82010306067977, 
       "housenumber": "1219", 
+      "lat": 50.82010306067977, 
+      "lon": 5.2035635172425785, 
       "pcode": 3800, 
-      "street": "Bewellaan", 
-      "lon": 5.2035635172425785
+      "street": "Bewellaan"
     }
-  ], 
-  "name": "Bewellaan"
+  ]
 }

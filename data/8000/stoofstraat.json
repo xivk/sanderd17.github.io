@@ -1,93 +1,91 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8000, 
-      "street": "Stoofstraat", 
-      "housenumber": "1"
+      "street": "Stoofstraat"
     }, 
     {
-      "lat": 51.203292614673884, 
       "housenumber": "10", 
+      "lat": 51.203292614673884, 
+      "lon": 3.2241805130253933, 
       "pcode": 8000, 
-      "street": "Stoofstraat", 
-      "lon": 3.2241805130253933
+      "street": "Stoofstraat"
     }, 
     {
-      "lat": 51.2031862814635, 
       "housenumber": "11", 
+      "lat": 51.2031862814635, 
+      "lon": 3.22428400306583, 
       "pcode": 8000, 
-      "street": "Stoofstraat", 
-      "lon": 3.22428400306583
+      "street": "Stoofstraat"
     }, 
     {
-      "lat": 51.2031025443326, 
       "housenumber": "13", 
+      "lat": 51.2031025443326, 
+      "lon": 3.2243165357506944, 
       "pcode": 8000, 
-      "street": "Stoofstraat", 
-      "lon": 3.2243165357506944
+      "street": "Stoofstraat"
     }, 
     {
-      "lat": 51.203303603997256, 
       "housenumber": "2", 
+      "lat": 51.203303603997256, 
+      "lon": 3.2246287057366434, 
       "pcode": 8000, 
-      "street": "Stoofstraat", 
-      "lon": 3.2246287057366434
+      "street": "Stoofstraat"
     }, 
     {
-      "lat": 51.203305843638454, 
       "housenumber": "2A", 
+      "lat": 51.203305843638454, 
+      "lon": 3.2246000316732992, 
       "pcode": 8000, 
-      "street": "Stoofstraat", 
-      "lon": 3.2246000316732992
+      "street": "Stoofstraat"
     }, 
     {
-      "lat": 51.20321192033847, 
       "housenumber": "3", 
+      "lat": 51.20321192033847, 
+      "lon": 3.224508892873329, 
       "pcode": 8000, 
-      "street": "Stoofstraat", 
-      "lon": 3.224508892873329
+      "street": "Stoofstraat"
     }, 
     {
-      "lat": 51.20328588597671, 
       "housenumber": "4", 
+      "lat": 51.20328588597671, 
+      "lon": 3.224460573314394, 
       "pcode": 8000, 
-      "street": "Stoofstraat", 
-      "lon": 3.224460573314394
+      "street": "Stoofstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8000, 
-      "street": "Stoofstraat", 
-      "housenumber": "5"
+      "street": "Stoofstraat"
     }, 
     {
-      "lat": 51.20328777215485, 
       "housenumber": "6", 
+      "lat": 51.20328777215485, 
+      "lon": 3.2244789864191796, 
       "pcode": 8000, 
-      "street": "Stoofstraat", 
-      "lon": 3.2244789864191796
+      "street": "Stoofstraat"
     }, 
     {
-      "lat": 51.20319858898381, 
       "housenumber": "7", 
+      "lat": 51.20319858898381, 
+      "lon": 3.2244225038679133, 
       "pcode": 8000, 
-      "street": "Stoofstraat", 
-      "lon": 3.2244225038679133
+      "street": "Stoofstraat"
     }, 
     {
-      "lat": 51.20327949874158, 
       "housenumber": "8", 
+      "lat": 51.20327949874158, 
+      "lon": 3.2242928786387894, 
       "pcode": 8000, 
-      "street": "Stoofstraat", 
-      "lon": 3.2242928786387894
+      "street": "Stoofstraat"
     }, 
     {
-      "lat": 51.203183472895546, 
       "housenumber": "9", 
+      "lat": 51.203183472895546, 
+      "lon": 3.224365350140965, 
       "pcode": 8000, 
-      "street": "Stoofstraat", 
-      "lon": 3.224365350140965
+      "street": "Stoofstraat"
     }
-  ], 
-  "name": "Stoofstraat"
+  ]
 }

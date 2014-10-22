@@ -1,20 +1,18 @@
 {
-  "pcode": 1750, 
   "addresses": [
     {
-      "lat": 50.80145733173474, 
       "housenumber": "3", 
+      "lat": 50.80145733173474, 
+      "lon": 4.18058457014797, 
       "pcode": 1750, 
-      "street": "Trontingenweg", 
-      "lon": 4.18058457014797
+      "street": "Trontingenweg"
     }, 
     {
-      "lat": 50.80197976952865, 
       "housenumber": "6", 
+      "lat": 50.80197976952865, 
+      "lon": 4.179886245297987, 
       "pcode": 1750, 
-      "street": "Trontingenweg", 
-      "lon": 4.179886245297987
+      "street": "Trontingenweg"
     }
-  ], 
-  "name": "Trontingenweg"
+  ]
 }

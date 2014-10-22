@@ -1,39 +1,37 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.92335343035129, 
       "housenumber": "1", 
+      "lat": 50.92335343035129, 
+      "lon": 5.30334573317264, 
       "pcode": 3500, 
-      "street": "Runksterdreef", 
-      "lon": 5.30334573317264
+      "street": "Runksterdreef"
     }, 
     {
+      "housenumber": "149", 
       "pcode": 3500, 
-      "street": "Runksterdreef", 
-      "housenumber": "149"
+      "street": "Runksterdreef"
     }, 
     {
-      "lat": 50.920639332054634, 
       "housenumber": "16", 
+      "lat": 50.920639332054634, 
+      "lon": 5.300225344516776, 
       "pcode": 3500, 
-      "street": "Runksterdreef", 
-      "lon": 5.300225344516776
+      "street": "Runksterdreef"
     }, 
     {
-      "lat": 50.9229785184818, 
       "housenumber": "6", 
+      "lat": 50.9229785184818, 
+      "lon": 5.30415056762572, 
       "pcode": 3500, 
-      "street": "Runksterdreef", 
-      "lon": 5.30415056762572
+      "street": "Runksterdreef"
     }, 
     {
-      "lat": 50.92255091039991, 
       "housenumber": "8", 
+      "lat": 50.92255091039991, 
+      "lon": 5.303490036942034, 
       "pcode": 3500, 
-      "street": "Runksterdreef", 
-      "lon": 5.303490036942034
+      "street": "Runksterdreef"
     }
-  ], 
-  "name": "Runksterdreef"
+  ]
 }

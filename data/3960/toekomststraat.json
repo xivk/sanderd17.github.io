@@ -1,20 +1,18 @@
 {
-  "pcode": 3960, 
   "addresses": [
     {
-      "lat": 51.1417363103596, 
       "housenumber": "10", 
+      "lat": 51.1417363103596, 
+      "lon": 5.561942088216174, 
       "pcode": 3960, 
-      "street": "Toekomststraat", 
-      "lon": 5.561942088216174
+      "street": "Toekomststraat"
     }, 
     {
-      "lat": 51.14068435888964, 
       "housenumber": "6", 
+      "lat": 51.14068435888964, 
+      "lon": 5.561689550776855, 
       "pcode": 3960, 
-      "street": "Toekomststraat", 
-      "lon": 5.561689550776855
+      "street": "Toekomststraat"
     }
-  ], 
-  "name": "Toekomststraat"
+  ]
 }

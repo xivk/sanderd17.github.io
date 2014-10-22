@@ -1,25 +1,23 @@
 {
-  "pcode": 2040, 
   "addresses": [
     {
-      "lat": 51.36057194679112, 
       "housenumber": "1", 
+      "lat": 51.36057194679112, 
+      "lon": 4.304657948877095, 
       "pcode": 2040, 
-      "street": "Zuidhavendijk", 
-      "lon": 4.304657948877095
+      "street": "Zuidhavendijk"
     }, 
     {
-      "lat": 51.36086335301139, 
       "housenumber": "2", 
+      "lat": 51.36086335301139, 
+      "lon": 4.304191686918379, 
       "pcode": 2040, 
-      "street": "Zuidhavendijk", 
-      "lon": 4.304191686918379
+      "street": "Zuidhavendijk"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2040, 
-      "street": "Zuidhavendijk", 
-      "housenumber": "4"
+      "street": "Zuidhavendijk"
     }
-  ], 
-  "name": "Zuidhavendijk"
+  ]
 }

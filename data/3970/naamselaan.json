@@ -1,18 +1,16 @@
 {
-  "pcode": 3970, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3970, 
-      "street": "Naamselaan", 
-      "housenumber": "1"
+      "street": "Naamselaan"
     }, 
     {
-      "lat": 51.114324309841685, 
       "housenumber": "2", 
+      "lat": 51.114324309841685, 
+      "lon": 5.259376697977567, 
       "pcode": 3970, 
-      "street": "Naamselaan", 
-      "lon": 5.259376697977567
+      "street": "Naamselaan"
     }
-  ], 
-  "name": "Naamselaan"
+  ]
 }

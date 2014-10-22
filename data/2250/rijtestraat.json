@@ -1,27 +1,25 @@
 {
-  "pcode": 2250, 
   "addresses": [
     {
-      "lat": 51.1517324749152, 
       "housenumber": "1", 
+      "lat": 51.1517324749152, 
+      "lon": 4.864079050602686, 
       "pcode": 2250, 
-      "street": "Rijtestraat", 
-      "lon": 4.864079050602686
+      "street": "Rijtestraat"
     }, 
     {
-      "lat": 51.15221454091059, 
       "housenumber": "1A", 
+      "lat": 51.15221454091059, 
+      "lon": 4.863823332160686, 
       "pcode": 2250, 
-      "street": "Rijtestraat", 
-      "lon": 4.863823332160686
+      "street": "Rijtestraat"
     }, 
     {
-      "lat": 51.15216556750561, 
       "housenumber": "2", 
+      "lat": 51.15216556750561, 
+      "lon": 4.864097800511356, 
       "pcode": 2250, 
-      "street": "Rijtestraat", 
-      "lon": 4.864097800511356
+      "street": "Rijtestraat"
     }
-  ], 
-  "name": "Rijtestraat"
+  ]
 }

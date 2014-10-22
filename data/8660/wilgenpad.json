@@ -1,25 +1,23 @@
 {
-  "pcode": 8660, 
   "addresses": [
     {
-      "lat": 51.09664250862523, 
       "housenumber": "1", 
+      "lat": 51.09664250862523, 
+      "lon": 2.587000175133605, 
       "pcode": 8660, 
-      "street": "Wilgenpad", 
-      "lon": 2.587000175133605
+      "street": "Wilgenpad"
     }, 
     {
+      "housenumber": "1G", 
       "pcode": 8660, 
-      "street": "Wilgenpad", 
-      "housenumber": "1G"
+      "street": "Wilgenpad"
     }, 
     {
-      "lat": 51.096888275225425, 
       "housenumber": "3", 
+      "lat": 51.096888275225425, 
+      "lon": 2.5869903827199505, 
       "pcode": 8660, 
-      "street": "Wilgenpad", 
-      "lon": 2.5869903827199505
+      "street": "Wilgenpad"
     }
-  ], 
-  "name": "Wilgenpad"
+  ]
 }

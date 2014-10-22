@@ -1,18 +1,16 @@
 {
-  "pcode": 8620, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8620, 
-      "street": "Nieuwlandplein", 
-      "housenumber": "1"
+      "street": "Nieuwlandplein"
     }, 
     {
-      "lat": 51.14478948403724, 
       "housenumber": "2", 
+      "lat": 51.14478948403724, 
+      "lon": 2.7127827727439016, 
       "pcode": 8620, 
-      "street": "Nieuwlandplein", 
-      "lon": 2.7127827727439016
+      "street": "Nieuwlandplein"
     }
-  ], 
-  "name": "Nieuwlandplein"
+  ]
 }

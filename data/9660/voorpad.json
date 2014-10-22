@@ -1,20 +1,18 @@
 {
-  "pcode": 9660, 
   "addresses": [
     {
-      "lat": 50.81137508308218, 
       "housenumber": "1", 
+      "lat": 50.81137508308218, 
+      "lon": 3.768738742738121, 
       "pcode": 9660, 
-      "street": "Voorpad", 
-      "lon": 3.768738742738121
+      "street": "Voorpad"
     }, 
     {
-      "lat": 50.811433313971314, 
       "housenumber": "2", 
+      "lat": 50.811433313971314, 
+      "lon": 3.768857189766866, 
       "pcode": 9660, 
-      "street": "Voorpad", 
-      "lon": 3.768857189766866
+      "street": "Voorpad"
     }
-  ], 
-  "name": "Voorpad"
+  ]
 }

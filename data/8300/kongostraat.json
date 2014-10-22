@@ -1,49 +1,47 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.35256382355902, 
       "housenumber": "1", 
+      "lat": 51.35256382355902, 
+      "lon": 3.2887501181836836, 
       "pcode": 8300, 
-      "street": "Kongostraat", 
-      "lon": 3.2887501181836836
+      "street": "Kongostraat"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 8300, 
-      "street": "Kongostraat", 
-      "housenumber": "1B"
+      "street": "Kongostraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8300, 
-      "street": "Kongostraat", 
-      "housenumber": "2"
+      "street": "Kongostraat"
     }, 
     {
-      "lat": 51.35255509342636, 
       "housenumber": "3", 
+      "lat": 51.35255509342636, 
+      "lon": 3.2884428297411494, 
       "pcode": 8300, 
-      "street": "Kongostraat", 
-      "lon": 3.2884428297411494
+      "street": "Kongostraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8300, 
-      "street": "Kongostraat", 
-      "housenumber": "4"
+      "street": "Kongostraat"
     }, 
     {
-      "lat": 51.35261332290283, 
       "housenumber": "5", 
+      "lat": 51.35261332290283, 
+      "lon": 3.2883322333410794, 
       "pcode": 8300, 
-      "street": "Kongostraat", 
-      "lon": 3.2883322333410794
+      "street": "Kongostraat"
     }, 
     {
-      "lat": 51.35262234533389, 
       "housenumber": "7", 
+      "lat": 51.35262234533389, 
+      "lon": 3.2881779909006794, 
       "pcode": 8300, 
-      "street": "Kongostraat", 
-      "lon": 3.2881779909006794
+      "street": "Kongostraat"
     }
-  ], 
-  "name": "Kongostraat"
+  ]
 }

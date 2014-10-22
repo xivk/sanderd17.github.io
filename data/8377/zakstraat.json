@@ -1,27 +1,25 @@
 {
-  "pcode": 8377, 
   "addresses": [
     {
-      "lat": 51.235673783837385, 
       "housenumber": "1", 
+      "lat": 51.235673783837385, 
+      "lon": 3.110343590707727, 
       "pcode": 8377, 
-      "street": "Zakstraat", 
-      "lon": 3.110343590707727
+      "street": "Zakstraat"
     }, 
     {
-      "lat": 51.23550798933072, 
       "housenumber": "2", 
+      "lat": 51.23550798933072, 
+      "lon": 3.1106116924919873, 
       "pcode": 8377, 
-      "street": "Zakstraat", 
-      "lon": 3.1106116924919873
+      "street": "Zakstraat"
     }, 
     {
-      "lat": 51.235452147655806, 
       "housenumber": "3", 
+      "lat": 51.235452147655806, 
+      "lon": 3.1104157289333645, 
       "pcode": 8377, 
-      "street": "Zakstraat", 
-      "lon": 3.1104157289333645
+      "street": "Zakstraat"
     }
-  ], 
-  "name": "Zakstraat"
+  ]
 }

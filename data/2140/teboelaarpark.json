@@ -1,32 +1,30 @@
 {
-  "pcode": 2140, 
   "addresses": [
     {
-      "lat": 51.20174030355942, 
       "housenumber": "1", 
+      "lat": 51.20174030355942, 
+      "lon": 4.4535685256001205, 
       "pcode": 2140, 
-      "street": "Te Boelaarpark", 
-      "lon": 4.4535685256001205
+      "street": "Te Boelaarpark"
     }, 
     {
-      "lat": 51.20228927626594, 
       "housenumber": "3", 
+      "lat": 51.20228927626594, 
+      "lon": 4.452250230119641, 
       "pcode": 2140, 
-      "street": "Te Boelaarpark", 
-      "lon": 4.452250230119641
+      "street": "Te Boelaarpark"
     }, 
     {
-      "lat": 51.20160926471771, 
       "housenumber": "5", 
+      "lat": 51.20160926471771, 
+      "lon": 4.453922678951364, 
       "pcode": 2140, 
-      "street": "Te Boelaarpark", 
-      "lon": 4.453922678951364
+      "street": "Te Boelaarpark"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2140, 
-      "street": "Te Boelaarpark", 
-      "housenumber": "6"
+      "street": "Te Boelaarpark"
     }
-  ], 
-  "name": "Te Boelaarpark"
+  ]
 }

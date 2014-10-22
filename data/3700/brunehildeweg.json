@@ -1,20 +1,18 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.75038804767665, 
       "housenumber": "1", 
+      "lat": 50.75038804767665, 
+      "lon": 5.490383902618396, 
       "pcode": 3700, 
-      "street": "Brunehildeweg", 
-      "lon": 5.490383902618396
+      "street": "Brunehildeweg"
     }, 
     {
-      "lat": 50.75024736088493, 
       "housenumber": "3", 
+      "lat": 50.75024736088493, 
+      "lon": 5.490644430803281, 
       "pcode": 3700, 
-      "street": "Brunehildeweg", 
-      "lon": 5.490644430803281
+      "street": "Brunehildeweg"
     }
-  ], 
-  "name": "Brunehildeweg"
+  ]
 }

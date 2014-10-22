@@ -1,20 +1,18 @@
 {
-  "pcode": 8630, 
   "addresses": [
     {
-      "lat": 51.07297395017826, 
       "housenumber": "1", 
+      "lat": 51.07297395017826, 
+      "lon": 2.661902156661288, 
       "pcode": 8630, 
-      "street": "Sint-Walburgastraat", 
-      "lon": 2.661902156661288
+      "street": "Sint-Walburgastraat"
     }, 
     {
-      "lat": 51.07295065654013, 
       "housenumber": "2", 
+      "lat": 51.07295065654013, 
+      "lon": 2.6619017219396586, 
       "pcode": 8630, 
-      "street": "Sint-Walburgastraat", 
-      "lon": 2.6619017219396586
+      "street": "Sint-Walburgastraat"
     }
-  ], 
-  "name": "Sint-Walburgastraat"
+  ]
 }

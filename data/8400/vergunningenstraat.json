@@ -1,37 +1,35 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.22067855132493, 
       "housenumber": "11", 
+      "lat": 51.22067855132493, 
+      "lon": 2.9435791106592597, 
       "pcode": 8400, 
-      "street": "Vergunningenstraat", 
-      "lon": 2.9435791106592597
+      "street": "Vergunningenstraat"
     }, 
     {
-      "lat": 51.22024543122999, 
       "housenumber": "15", 
+      "lat": 51.22024543122999, 
+      "lon": 2.9450065930676463, 
       "pcode": 8400, 
-      "street": "Vergunningenstraat", 
-      "lon": 2.9450065930676463
+      "street": "Vergunningenstraat"
     }, 
     {
-      "lat": 51.221506067814175, 
       "housenumber": "6", 
+      "lat": 51.221506067814175, 
+      "lon": 2.9409909572761883, 
       "pcode": 8400, 
-      "street": "Vergunningenstraat", 
-      "lon": 2.9409909572761883
+      "street": "Vergunningenstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8400, 
-      "street": "Vergunningenstraat", 
-      "housenumber": "7"
+      "street": "Vergunningenstraat"
     }, 
     {
+      "housenumber": "ZN", 
       "pcode": 8400, 
-      "street": "Vergunningenstraat", 
-      "housenumber": "ZN"
+      "street": "Vergunningenstraat"
     }
-  ], 
-  "name": "Vergunningenstraat"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 3290, 
   "addresses": [
     {
-      "lat": 50.9974324342781, 
       "housenumber": "2", 
+      "lat": 50.9974324342781, 
+      "lon": 5.0673509068501605, 
       "pcode": 3290, 
-      "street": "Karrestraat", 
-      "lon": 5.0673509068501605
+      "street": "Karrestraat"
     }, 
     {
-      "lat": 50.999280809991234, 
       "housenumber": "3", 
+      "lat": 50.999280809991234, 
+      "lon": 5.0647975100729985, 
       "pcode": 3290, 
-      "street": "Karrestraat", 
-      "lon": 5.0647975100729985
+      "street": "Karrestraat"
     }, 
     {
+      "housenumber": "38", 
       "pcode": 3290, 
-      "street": "Karrestraat", 
-      "housenumber": "38"
+      "street": "Karrestraat"
     }, 
     {
-      "lat": 50.99808295621155, 
       "housenumber": "9", 
+      "lat": 50.99808295621155, 
+      "lon": 5.067661488112551, 
       "pcode": 3290, 
-      "street": "Karrestraat", 
-      "lon": 5.067661488112551
+      "street": "Karrestraat"
     }
-  ], 
-  "name": "Karrestraat"
+  ]
 }

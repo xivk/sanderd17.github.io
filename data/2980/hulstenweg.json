@@ -1,20 +1,18 @@
 {
-  "pcode": 2980, 
   "addresses": [
     {
-      "lat": 51.271602234109395, 
       "housenumber": "13", 
+      "lat": 51.271602234109395, 
+      "lon": 4.690453539800002, 
       "pcode": 2980, 
-      "street": "Hulstenweg", 
-      "lon": 4.690453539800002
+      "street": "Hulstenweg"
     }, 
     {
-      "lat": 51.27163574930271, 
       "housenumber": "15", 
+      "lat": 51.27163574930271, 
+      "lon": 4.689796930179589, 
       "pcode": 2980, 
-      "street": "Hulstenweg", 
-      "lon": 4.689796930179589
+      "street": "Hulstenweg"
     }
-  ], 
-  "name": "Hulstenweg"
+  ]
 }

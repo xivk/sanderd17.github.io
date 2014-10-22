@@ -1,45 +1,43 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 9000, 
-      "street": "Schootkouterstraat", 
-      "housenumber": "10"
+      "street": "Schootkouterstraat"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 9000, 
-      "street": "Schootkouterstraat", 
-      "housenumber": "12"
+      "street": "Schootkouterstraat"
     }, 
     {
+      "housenumber": "14", 
       "pcode": 9000, 
-      "street": "Schootkouterstraat", 
-      "housenumber": "14"
+      "street": "Schootkouterstraat"
     }, 
     {
-      "lat": 51.10434800925442, 
       "housenumber": "16", 
+      "lat": 51.10434800925442, 
+      "lon": 3.7566287835242136, 
       "pcode": 9000, 
-      "street": "Schootkouterstraat", 
-      "lon": 3.7566287835242136
+      "street": "Schootkouterstraat"
     }, 
     {
-      "lat": 51.10437359878101, 
       "housenumber": "4", 
+      "lat": 51.10437359878101, 
+      "lon": 3.7566751381523757, 
       "pcode": 9000, 
-      "street": "Schootkouterstraat", 
-      "lon": 3.7566751381523757
+      "street": "Schootkouterstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9000, 
-      "street": "Schootkouterstraat", 
-      "housenumber": "6"
+      "street": "Schootkouterstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 9000, 
-      "street": "Schootkouterstraat", 
-      "housenumber": "8"
+      "street": "Schootkouterstraat"
     }
-  ], 
-  "name": "Schootkouterstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2470, 
   "addresses": [
     {
-      "lat": 51.26390178958901, 
       "housenumber": "1", 
+      "lat": 51.26390178958901, 
+      "lon": 5.052040068026896, 
       "pcode": 2470, 
-      "street": "Heikensdreef", 
-      "lon": 5.052040068026896
+      "street": "Heikensdreef"
     }, 
     {
-      "lat": 51.263847272862776, 
       "housenumber": "2", 
+      "lat": 51.263847272862776, 
+      "lon": 5.051456728410228, 
       "pcode": 2470, 
-      "street": "Heikensdreef", 
-      "lon": 5.051456728410228
+      "street": "Heikensdreef"
     }
-  ], 
-  "name": "Heikensdreef"
+  ]
 }

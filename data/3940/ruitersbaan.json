@@ -1,25 +1,23 @@
 {
-  "pcode": 3940, 
   "addresses": [
     {
-      "lat": 51.15589888822095, 
       "housenumber": "1A", 
+      "lat": 51.15589888822095, 
+      "lon": 5.262404103570899, 
       "pcode": 3940, 
-      "street": "Ruitersbaan", 
-      "lon": 5.262404103570899
+      "street": "Ruitersbaan"
     }, 
     {
-      "lat": 51.154673626298134, 
       "housenumber": "4E", 
+      "lat": 51.154673626298134, 
+      "lon": 5.263462978317364, 
       "pcode": 3940, 
-      "street": "Ruitersbaan", 
-      "lon": 5.263462978317364
+      "street": "Ruitersbaan"
     }, 
     {
+      "housenumber": "ZN", 
       "pcode": 3940, 
-      "street": "Ruitersbaan", 
-      "housenumber": "ZN"
+      "street": "Ruitersbaan"
     }
-  ], 
-  "name": "Ruitersbaan"
+  ]
 }

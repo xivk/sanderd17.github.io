@@ -1,18 +1,16 @@
 {
-  "pcode": 9500, 
   "addresses": [
     {
+      "housenumber": "2L", 
       "pcode": 9500, 
-      "street": "Herenveld", 
-      "housenumber": "2L"
+      "street": "Herenveld"
     }, 
     {
-      "lat": 50.79672431164185, 
       "housenumber": "3", 
+      "lat": 50.79672431164185, 
+      "lon": 3.883255340274423, 
       "pcode": 9500, 
-      "street": "Herenveld", 
-      "lon": 3.883255340274423
+      "street": "Herenveld"
     }
-  ], 
-  "name": "Herenveld"
+  ]
 }

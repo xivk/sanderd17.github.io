@@ -1,20 +1,18 @@
 {
-  "pcode": 3550, 
   "addresses": [
     {
-      "lat": 50.99100804349748, 
       "housenumber": "16", 
+      "lat": 50.99100804349748, 
+      "lon": 5.252708975237622, 
       "pcode": 3550, 
-      "street": "Jagerspad", 
-      "lon": 5.252708975237622
+      "street": "Jagerspad"
     }, 
     {
-      "lat": 50.99018803787563, 
       "housenumber": "26", 
+      "lat": 50.99018803787563, 
+      "lon": 5.253301136311326, 
       "pcode": 3550, 
-      "street": "Jagerspad", 
-      "lon": 5.253301136311326
+      "street": "Jagerspad"
     }
-  ], 
-  "name": "Jagerspad"
+  ]
 }

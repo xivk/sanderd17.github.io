@@ -1,18 +1,16 @@
 {
-  "pcode": 9473, 
   "addresses": [
     {
-      "lat": 50.89926869321848, 
       "housenumber": "17", 
+      "lat": 50.89926869321848, 
+      "lon": 4.040963227882821, 
       "pcode": 9473, 
-      "street": "Grooten Moortelhoek", 
-      "lon": 4.040963227882821
+      "street": "Grooten Moortelhoek"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 9473, 
-      "street": "Grooten Moortelhoek", 
-      "housenumber": "9"
+      "street": "Grooten Moortelhoek"
     }
-  ], 
-  "name": "Grooten Moortelhoek"
+  ]
 }

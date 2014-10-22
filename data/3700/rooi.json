@@ -1,28 +1,26 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3700, 
-      "street": "Rooi", 
-      "housenumber": "1"
+      "street": "Rooi"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3700, 
-      "street": "Rooi", 
-      "housenumber": "2"
+      "street": "Rooi"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3700, 
-      "street": "Rooi", 
-      "housenumber": "3"
+      "street": "Rooi"
     }, 
     {
-      "lat": 50.79251732813833, 
       "housenumber": "6", 
+      "lat": 50.79251732813833, 
+      "lon": 5.440033381744601, 
       "pcode": 3700, 
-      "street": "Rooi", 
-      "lon": 5.440033381744601
+      "street": "Rooi"
     }
-  ], 
-  "name": "Rooi"
+  ]
 }

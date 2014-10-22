@@ -1,20 +1,18 @@
 {
-  "pcode": 9660, 
   "addresses": [
     {
-      "lat": 50.779210112682804, 
       "housenumber": "2", 
+      "lat": 50.779210112682804, 
+      "lon": 3.7465432071422042, 
       "pcode": 9660, 
-      "street": "Okkerbeke", 
-      "lon": 3.7465432071422042
+      "street": "Okkerbeke"
     }, 
     {
-      "lat": 50.777541774269174, 
       "housenumber": "4", 
+      "lat": 50.777541774269174, 
+      "lon": 3.743320799540184, 
       "pcode": 9660, 
-      "street": "Okkerbeke", 
-      "lon": 3.743320799540184
+      "street": "Okkerbeke"
     }
-  ], 
-  "name": "Okkerbeke"
+  ]
 }

@@ -1,33 +1,31 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.92971495462153, 
       "housenumber": "1", 
+      "lat": 50.92971495462153, 
+      "lon": 5.331229274872268, 
       "pcode": 3500, 
-      "street": "Passerelstraat", 
-      "lon": 5.331229274872268
+      "street": "Passerelstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3500, 
-      "street": "Passerelstraat", 
-      "housenumber": "2"
+      "street": "Passerelstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3500, 
-      "street": "Passerelstraat", 
-      "housenumber": "4"
+      "street": "Passerelstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3500, 
-      "street": "Passerelstraat", 
-      "housenumber": "6"
+      "street": "Passerelstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3500, 
-      "street": "Passerelstraat", 
-      "housenumber": "8"
+      "street": "Passerelstraat"
     }
-  ], 
-  "name": "Passerelstraat"
+  ]
 }

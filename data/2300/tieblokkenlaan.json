@@ -1,46 +1,44 @@
 {
-  "pcode": 2300, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2300, 
-      "street": "Tieblokkenlaan", 
-      "housenumber": "1"
+      "street": "Tieblokkenlaan"
     }, 
     {
-      "lat": 51.30374485894117, 
       "housenumber": "10", 
+      "lat": 51.30374485894117, 
+      "lon": 4.9248705472738035, 
       "pcode": 2300, 
-      "street": "Tieblokkenlaan", 
-      "lon": 4.9248705472738035
+      "street": "Tieblokkenlaan"
     }, 
     {
-      "lat": 51.30284250639811, 
       "housenumber": "2", 
+      "lat": 51.30284250639811, 
+      "lon": 4.928988203565001, 
       "pcode": 2300, 
-      "street": "Tieblokkenlaan", 
-      "lon": 4.928988203565001
+      "street": "Tieblokkenlaan"
     }, 
     {
-      "lat": 51.30288435254152, 
       "housenumber": "2_1", 
+      "lat": 51.30288435254152, 
+      "lon": 4.927038187599105, 
       "pcode": 2300, 
-      "street": "Tieblokkenlaan", 
-      "lon": 4.927038187599105
+      "street": "Tieblokkenlaan"
     }, 
     {
-      "lat": 51.30360722014727, 
       "housenumber": "4", 
+      "lat": 51.30360722014727, 
+      "lon": 4.927546874319727, 
       "pcode": 2300, 
-      "street": "Tieblokkenlaan", 
-      "lon": 4.927546874319727
+      "street": "Tieblokkenlaan"
     }, 
     {
-      "lat": 51.30392508195093, 
       "housenumber": "8", 
+      "lat": 51.30392508195093, 
+      "lon": 4.92574796902862, 
       "pcode": 2300, 
-      "street": "Tieblokkenlaan", 
-      "lon": 4.92574796902862
+      "street": "Tieblokkenlaan"
     }
-  ], 
-  "name": "Tieblokkenlaan"
+  ]
 }

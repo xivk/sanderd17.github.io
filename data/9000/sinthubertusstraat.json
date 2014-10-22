@@ -1,66 +1,64 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9000, 
-      "street": "Sint-Hubertusstraat", 
-      "housenumber": "1"
+      "street": "Sint-Hubertusstraat"
     }, 
     {
-      "lat": 51.04494315590945, 
       "housenumber": "13", 
+      "lat": 51.04494315590945, 
+      "lon": 3.7242446409900194, 
       "pcode": 9000, 
-      "street": "Sint-Hubertusstraat", 
-      "lon": 3.7242446409900194
+      "street": "Sint-Hubertusstraat"
     }, 
     {
-      "lat": 51.04498331246592, 
       "housenumber": "15", 
+      "lat": 51.04498331246592, 
+      "lon": 3.7242399532296186, 
       "pcode": 9000, 
-      "street": "Sint-Hubertusstraat", 
-      "lon": 3.7242399532296186
+      "street": "Sint-Hubertusstraat"
     }, 
     {
+      "housenumber": "17", 
       "pcode": 9000, 
-      "street": "Sint-Hubertusstraat", 
-      "housenumber": "17"
+      "street": "Sint-Hubertusstraat"
     }, 
     {
-      "lat": 51.04501775293751, 
       "housenumber": "17B", 
+      "lat": 51.04501775293751, 
+      "lon": 3.7242913860110294, 
       "pcode": 9000, 
-      "street": "Sint-Hubertusstraat", 
-      "lon": 3.7242913860110294
+      "street": "Sint-Hubertusstraat"
     }, 
     {
-      "lat": 51.04506373651469, 
       "housenumber": "19", 
+      "lat": 51.04506373651469, 
+      "lon": 3.724283766128482, 
       "pcode": 9000, 
-      "street": "Sint-Hubertusstraat", 
-      "lon": 3.724283766128482
+      "street": "Sint-Hubertusstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9000, 
-      "street": "Sint-Hubertusstraat", 
-      "housenumber": "2"
+      "street": "Sint-Hubertusstraat"
     }, 
     {
-      "lat": 51.04510151991741, 
       "housenumber": "21", 
+      "lat": 51.04510151991741, 
+      "lon": 3.724288950470009, 
       "pcode": 9000, 
-      "street": "Sint-Hubertusstraat", 
-      "lon": 3.724288950470009
+      "street": "Sint-Hubertusstraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 9000, 
-      "street": "Sint-Hubertusstraat", 
-      "housenumber": "2A"
+      "street": "Sint-Hubertusstraat"
     }, 
     {
+      "housenumber": "2B", 
       "pcode": 9000, 
-      "street": "Sint-Hubertusstraat", 
-      "housenumber": "2B"
+      "street": "Sint-Hubertusstraat"
     }
-  ], 
-  "name": "Sint-Hubertusstraat"
+  ]
 }

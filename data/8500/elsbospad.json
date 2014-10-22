@@ -1,20 +1,18 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.79156723384918, 
       "housenumber": "9", 
+      "lat": 50.79156723384918, 
+      "lon": 3.2441016768788025, 
       "pcode": 8500, 
-      "street": "Elsbospad", 
-      "lon": 3.2441016768788025
+      "street": "Elsbospad"
     }, 
     {
-      "lat": 50.79135987126197, 
       "housenumber": "A", 
+      "lat": 50.79135987126197, 
+      "lon": 3.2443226557297233, 
       "pcode": 8500, 
-      "street": "Elsbospad", 
-      "lon": 3.2443226557297233
+      "street": "Elsbospad"
     }
-  ], 
-  "name": "Elsbospad"
+  ]
 }

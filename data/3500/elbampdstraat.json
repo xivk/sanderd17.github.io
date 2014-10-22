@@ -1,20 +1,18 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.9163813059292, 
       "housenumber": "1", 
+      "lat": 50.9163813059292, 
+      "lon": 5.288011812576349, 
       "pcode": 3500, 
-      "street": "Elbampdstraat", 
-      "lon": 5.288011812576349
+      "street": "Elbampdstraat"
     }, 
     {
-      "lat": 50.91615223828957, 
       "housenumber": "2", 
+      "lat": 50.91615223828957, 
+      "lon": 5.288952763858875, 
       "pcode": 3500, 
-      "street": "Elbampdstraat", 
-      "lon": 5.288952763858875
+      "street": "Elbampdstraat"
     }
-  ], 
-  "name": "Elbampdstraat"
+  ]
 }

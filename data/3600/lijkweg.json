@@ -1,39 +1,37 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.943928132457074, 
       "housenumber": "11", 
+      "lat": 50.943928132457074, 
+      "lon": 5.527602334163358, 
       "pcode": 3600, 
-      "street": "Lijkweg", 
-      "lon": 5.527602334163358
+      "street": "Lijkweg"
     }, 
     {
-      "lat": 50.943694853057146, 
       "housenumber": "3", 
+      "lat": 50.943694853057146, 
+      "lon": 5.529148253475097, 
       "pcode": 3600, 
-      "street": "Lijkweg", 
-      "lon": 5.529148253475097
+      "street": "Lijkweg"
     }, 
     {
+      "housenumber": "43", 
       "pcode": 3600, 
-      "street": "Lijkweg", 
-      "housenumber": "43"
+      "street": "Lijkweg"
     }, 
     {
-      "lat": 50.94373302299069, 
       "housenumber": "5", 
+      "lat": 50.94373302299069, 
+      "lon": 5.5287790644810695, 
       "pcode": 3600, 
-      "street": "Lijkweg", 
-      "lon": 5.5287790644810695
+      "street": "Lijkweg"
     }, 
     {
-      "lat": 50.94379434579683, 
       "housenumber": "7", 
+      "lat": 50.94379434579683, 
+      "lon": 5.52852329521599, 
       "pcode": 3600, 
-      "street": "Lijkweg", 
-      "lon": 5.52852329521599
+      "street": "Lijkweg"
     }
-  ], 
-  "name": "Lijkweg"
+  ]
 }

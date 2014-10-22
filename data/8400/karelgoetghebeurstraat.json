@@ -1,39 +1,37 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.21367445933339, 
       "housenumber": "2", 
+      "lat": 51.21367445933339, 
+      "lon": 2.9164853078977226, 
       "pcode": 8400, 
-      "street": "Karel Goetghebeurstraat", 
-      "lon": 2.9164853078977226
+      "street": "Karel Goetghebeurstraat"
     }, 
     {
+      "housenumber": "2_2", 
       "pcode": 8400, 
-      "street": "Karel Goetghebeurstraat", 
-      "housenumber": "2_2"
+      "street": "Karel Goetghebeurstraat"
     }, 
     {
-      "lat": 51.21363609227971, 
       "housenumber": "4", 
+      "lat": 51.21363609227971, 
+      "lon": 2.917072794955706, 
       "pcode": 8400, 
-      "street": "Karel Goetghebeurstraat", 
-      "lon": 2.917072794955706
+      "street": "Karel Goetghebeurstraat"
     }, 
     {
-      "lat": 51.21367905082701, 
       "housenumber": "6", 
+      "lat": 51.21367905082701, 
+      "lon": 2.917643008138507, 
       "pcode": 8400, 
-      "street": "Karel Goetghebeurstraat", 
-      "lon": 2.917643008138507
+      "street": "Karel Goetghebeurstraat"
     }, 
     {
-      "lat": 51.21327617687011, 
       "housenumber": "8", 
+      "lat": 51.21327617687011, 
+      "lon": 2.917582253441396, 
       "pcode": 8400, 
-      "street": "Karel Goetghebeurstraat", 
-      "lon": 2.917582253441396
+      "street": "Karel Goetghebeurstraat"
     }
-  ], 
-  "name": "Karel Goetghebeurstraat"
+  ]
 }

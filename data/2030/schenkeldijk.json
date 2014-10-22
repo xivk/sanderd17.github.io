@@ -1,42 +1,40 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.25802041506693, 
       "housenumber": "1", 
+      "lat": 51.25802041506693, 
+      "lon": 4.3893657166086975, 
       "pcode": 2030, 
-      "street": "Schenkeldijk", 
-      "lon": 4.3893657166086975
+      "street": "Schenkeldijk"
     }, 
     {
+      "housenumber": "113", 
       "pcode": 2030, 
-      "street": "Schenkeldijk", 
-      "housenumber": "113"
+      "street": "Schenkeldijk"
     }, 
     {
-      "lat": 51.25813835674952, 
       "housenumber": "3", 
+      "lat": 51.25813835674952, 
+      "lon": 4.389277816763757, 
       "pcode": 2030, 
-      "street": "Schenkeldijk", 
-      "lon": 4.389277816763757
+      "street": "Schenkeldijk"
     }, 
     {
+      "housenumber": "37", 
       "pcode": 2030, 
-      "street": "Schenkeldijk", 
-      "housenumber": "37"
+      "street": "Schenkeldijk"
     }, 
     {
-      "lat": 51.2579228830038, 
       "housenumber": "5", 
+      "lat": 51.2579228830038, 
+      "lon": 4.389910725099966, 
       "pcode": 2030, 
-      "street": "Schenkeldijk", 
-      "lon": 4.389910725099966
+      "street": "Schenkeldijk"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 2030, 
-      "street": "Schenkeldijk", 
-      "housenumber": "9"
+      "street": "Schenkeldijk"
     }
-  ], 
-  "name": "Schenkeldijk"
+  ]
 }

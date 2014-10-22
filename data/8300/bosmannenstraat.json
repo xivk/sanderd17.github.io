@@ -1,34 +1,32 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.34913928795402, 
       "housenumber": "1", 
+      "lat": 51.34913928795402, 
+      "lon": 3.328120840996904, 
       "pcode": 8300, 
-      "street": "Bosmannenstraat", 
-      "lon": 3.328120840996904
+      "street": "Bosmannenstraat"
     }, 
     {
-      "lat": 51.34916119662126, 
       "housenumber": "3", 
+      "lat": 51.34916119662126, 
+      "lon": 3.328056618449362, 
       "pcode": 8300, 
-      "street": "Bosmannenstraat", 
-      "lon": 3.328056618449362
+      "street": "Bosmannenstraat"
     }, 
     {
-      "lat": 51.34919525562671, 
       "housenumber": "4", 
+      "lat": 51.34919525562671, 
+      "lon": 3.3284963864148716, 
       "pcode": 8300, 
-      "street": "Bosmannenstraat", 
-      "lon": 3.3284963864148716
+      "street": "Bosmannenstraat"
     }, 
     {
-      "lat": 51.349017298354944, 
       "housenumber": "5", 
+      "lat": 51.349017298354944, 
+      "lon": 3.328478259967334, 
       "pcode": 8300, 
-      "street": "Bosmannenstraat", 
-      "lon": 3.328478259967334
+      "street": "Bosmannenstraat"
     }
-  ], 
-  "name": "Bosmannenstraat"
+  ]
 }

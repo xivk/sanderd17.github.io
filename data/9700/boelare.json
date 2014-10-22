@@ -1,27 +1,25 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.79899268922408, 
       "housenumber": "2", 
+      "lat": 50.79899268922408, 
+      "lon": 3.5564792303662713, 
       "pcode": 9700, 
-      "street": "Boelare", 
-      "lon": 3.5564792303662713
+      "street": "Boelare"
     }, 
     {
-      "lat": 50.795246260760855, 
       "housenumber": "4", 
+      "lat": 50.795246260760855, 
+      "lon": 3.559736524593994, 
       "pcode": 9700, 
-      "street": "Boelare", 
-      "lon": 3.559736524593994
+      "street": "Boelare"
     }, 
     {
-      "lat": 50.7947476572519, 
       "housenumber": "6", 
+      "lat": 50.7947476572519, 
+      "lon": 3.560139276337982, 
       "pcode": 9700, 
-      "street": "Boelare", 
-      "lon": 3.560139276337982
+      "street": "Boelare"
     }
-  ], 
-  "name": "Boelare"
+  ]
 }

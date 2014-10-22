@@ -1,44 +1,42 @@
 {
-  "pcode": 9250, 
   "addresses": [
     {
-      "lat": 51.12037468849176, 
       "housenumber": "1", 
+      "lat": 51.12037468849176, 
+      "lon": 4.089403308589046, 
       "pcode": 9250, 
-      "street": "Esdoornlaan", 
-      "lon": 4.089403308589046
+      "street": "Esdoornlaan"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9250, 
-      "street": "Esdoornlaan", 
-      "housenumber": "2"
+      "street": "Esdoornlaan"
     }, 
     {
-      "lat": 51.12089407383272, 
       "housenumber": "3", 
+      "lat": 51.12089407383272, 
+      "lon": 4.0894469160001234, 
       "pcode": 9250, 
-      "street": "Esdoornlaan", 
-      "lon": 4.0894469160001234
+      "street": "Esdoornlaan"
     }, 
     {
-      "lat": 51.12132661878752, 
       "housenumber": "4", 
+      "lat": 51.12132661878752, 
+      "lon": 4.089220524301766, 
       "pcode": 9250, 
-      "street": "Esdoornlaan", 
-      "lon": 4.089220524301766
+      "street": "Esdoornlaan"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9250, 
-      "street": "Esdoornlaan", 
-      "housenumber": "6"
+      "street": "Esdoornlaan"
     }, 
     {
-      "lat": 51.1211778345204, 
       "housenumber": "8", 
+      "lat": 51.1211778345204, 
+      "lon": 4.088984031385855, 
       "pcode": 9250, 
-      "street": "Esdoornlaan", 
-      "lon": 4.088984031385855
+      "street": "Esdoornlaan"
     }
-  ], 
-  "name": "Esdoornlaan"
+  ]
 }

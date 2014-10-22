@@ -1,46 +1,44 @@
 {
-  "pcode": 1930, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 1930, 
-      "street": "Van Bellingenstraat", 
-      "housenumber": "1"
+      "street": "Van Bellingenstraat"
     }, 
     {
-      "lat": 50.87939754195599, 
       "housenumber": "2B", 
+      "lat": 50.87939754195599, 
+      "lon": 4.509066446402293, 
       "pcode": 1930, 
-      "street": "Van Bellingenstraat", 
-      "lon": 4.509066446402293
+      "street": "Van Bellingenstraat"
     }, 
     {
-      "lat": 50.87952337313937, 
       "housenumber": "4", 
+      "lat": 50.87952337313937, 
+      "lon": 4.50893425150593, 
       "pcode": 1930, 
-      "street": "Van Bellingenstraat", 
-      "lon": 4.50893425150593
+      "street": "Van Bellingenstraat"
     }, 
     {
-      "lat": 50.87940405447923, 
       "housenumber": "5", 
+      "lat": 50.87940405447923, 
+      "lon": 4.509555974475497, 
       "pcode": 1930, 
-      "street": "Van Bellingenstraat", 
-      "lon": 4.509555974475497
+      "street": "Van Bellingenstraat"
     }, 
     {
-      "lat": 50.87959123063951, 
       "housenumber": "6", 
+      "lat": 50.87959123063951, 
+      "lon": 4.508795061744425, 
       "pcode": 1930, 
-      "street": "Van Bellingenstraat", 
-      "lon": 4.508795061744425
+      "street": "Van Bellingenstraat"
     }, 
     {
-      "lat": 50.87955342101635, 
       "housenumber": "7", 
+      "lat": 50.87955342101635, 
+      "lon": 4.509438345172102, 
       "pcode": 1930, 
-      "street": "Van Bellingenstraat", 
-      "lon": 4.509438345172102
+      "street": "Van Bellingenstraat"
     }
-  ], 
-  "name": "Van Bellingenstraat"
+  ]
 }

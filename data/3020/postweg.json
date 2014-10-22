@@ -1,27 +1,25 @@
 {
-  "pcode": 3020, 
   "addresses": [
     {
-      "lat": 50.945364598029194, 
       "housenumber": "1", 
+      "lat": 50.945364598029194, 
+      "lon": 4.637629566593793, 
       "pcode": 3020, 
-      "street": "Postweg", 
-      "lon": 4.637629566593793
+      "street": "Postweg"
     }, 
     {
-      "lat": 50.945344533365294, 
       "housenumber": "3", 
+      "lat": 50.945344533365294, 
+      "lon": 4.6375200280628635, 
       "pcode": 3020, 
-      "street": "Postweg", 
-      "lon": 4.6375200280628635
+      "street": "Postweg"
     }, 
     {
-      "lat": 50.94599911242008, 
       "housenumber": "5", 
+      "lat": 50.94599911242008, 
+      "lon": 4.632862778185651, 
       "pcode": 3020, 
-      "street": "Postweg", 
-      "lon": 4.632862778185651
+      "street": "Postweg"
     }
-  ], 
-  "name": "Postweg"
+  ]
 }

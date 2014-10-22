@@ -1,32 +1,30 @@
 {
-  "pcode": 3390, 
   "addresses": [
     {
-      "lat": 50.89277350568391, 
       "housenumber": "1", 
+      "lat": 50.89277350568391, 
+      "lon": 4.884817040911363, 
       "pcode": 3390, 
-      "street": "Kolverendries", 
-      "lon": 4.884817040911363
+      "street": "Kolverendries"
     }, 
     {
-      "lat": 50.89530636883996, 
       "housenumber": "2", 
+      "lat": 50.89530636883996, 
+      "lon": 4.882494567148812, 
       "pcode": 3390, 
-      "street": "Kolverendries", 
-      "lon": 4.882494567148812
+      "street": "Kolverendries"
     }, 
     {
-      "lat": 50.89547124566239, 
       "housenumber": "3", 
+      "lat": 50.89547124566239, 
+      "lon": 4.883742836189226, 
       "pcode": 3390, 
-      "street": "Kolverendries", 
-      "lon": 4.883742836189226
+      "street": "Kolverendries"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3390, 
-      "street": "Kolverendries", 
-      "housenumber": "4"
+      "street": "Kolverendries"
     }
-  ], 
-  "name": "Kolverendries"
+  ]
 }

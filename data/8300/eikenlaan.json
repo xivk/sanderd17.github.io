@@ -1,27 +1,25 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.34772744821426, 
       "housenumber": "35", 
+      "lat": 51.34772744821426, 
+      "lon": 3.3205479514867555, 
       "pcode": 8300, 
-      "street": "Eikenlaan", 
-      "lon": 3.3205479514867555
+      "street": "Eikenlaan"
     }, 
     {
-      "lat": 51.347664462177576, 
       "housenumber": "37", 
+      "lat": 51.347664462177576, 
+      "lon": 3.3210698367000755, 
       "pcode": 8300, 
-      "street": "Eikenlaan", 
-      "lon": 3.3210698367000755
+      "street": "Eikenlaan"
     }, 
     {
-      "lat": 51.34774716171507, 
       "housenumber": "39", 
+      "lat": 51.34774716171507, 
+      "lon": 3.3214875346744535, 
       "pcode": 8300, 
-      "street": "Eikenlaan", 
-      "lon": 3.3214875346744535
+      "street": "Eikenlaan"
     }
-  ], 
-  "name": "Eikenlaan"
+  ]
 }

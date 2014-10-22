@@ -1,25 +1,23 @@
 {
-  "pcode": 3210, 
   "addresses": [
     {
-      "lat": 50.86990740635929, 
       "housenumber": "2", 
+      "lat": 50.86990740635929, 
+      "lon": 4.833469310194312, 
       "pcode": 3210, 
-      "street": "Wijnstokerweg", 
-      "lon": 4.833469310194312
+      "street": "Wijnstokerweg"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 3210, 
-      "street": "Wijnstokerweg", 
-      "housenumber": "2A"
+      "street": "Wijnstokerweg"
     }, 
     {
-      "lat": 50.87291570127737, 
       "housenumber": "4", 
+      "lat": 50.87291570127737, 
+      "lon": 4.830625637192551, 
       "pcode": 3210, 
-      "street": "Wijnstokerweg", 
-      "lon": 4.830625637192551
+      "street": "Wijnstokerweg"
     }
-  ], 
-  "name": "Wijnstokerweg"
+  ]
 }

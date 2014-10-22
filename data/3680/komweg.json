@@ -1,32 +1,30 @@
 {
-  "pcode": 3680, 
   "addresses": [
     {
-      "lat": 51.082361185611866, 
       "housenumber": "10", 
+      "lat": 51.082361185611866, 
+      "lon": 5.70116377430612, 
       "pcode": 3680, 
-      "street": "Komweg", 
-      "lon": 5.70116377430612
+      "street": "Komweg"
     }, 
     {
-      "lat": 51.081152042166615, 
       "housenumber": "11", 
+      "lat": 51.081152042166615, 
+      "lon": 5.701095622326115, 
       "pcode": 3680, 
-      "street": "Komweg", 
-      "lon": 5.701095622326115
+      "street": "Komweg"
     }, 
     {
+      "housenumber": "11B", 
       "pcode": 3680, 
-      "street": "Komweg", 
-      "housenumber": "11B"
+      "street": "Komweg"
     }, 
     {
-      "lat": 51.08397592409931, 
       "housenumber": "8", 
+      "lat": 51.08397592409931, 
+      "lon": 5.70200684914506, 
       "pcode": 3680, 
-      "street": "Komweg", 
-      "lon": 5.70200684914506
+      "street": "Komweg"
     }
-  ], 
-  "name": "Komweg"
+  ]
 }

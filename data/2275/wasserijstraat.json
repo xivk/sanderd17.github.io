@@ -1,18 +1,16 @@
 {
-  "pcode": 2275, 
   "addresses": [
     {
+      "housenumber": "4", 
       "pcode": 2275, 
-      "street": "Wasserijstraat", 
-      "housenumber": "4"
+      "street": "Wasserijstraat"
     }, 
     {
-      "lat": 51.239810499394665, 
       "housenumber": "5", 
+      "lat": 51.239810499394665, 
+      "lon": 4.822699613510103, 
       "pcode": 2275, 
-      "street": "Wasserijstraat", 
-      "lon": 4.822699613510103
+      "street": "Wasserijstraat"
     }
-  ], 
-  "name": "Wasserijstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3078, 
   "addresses": [
     {
-      "lat": 50.87956919736388, 
       "housenumber": "1", 
+      "lat": 50.87956919736388, 
+      "lon": 4.609334448074968, 
       "pcode": 3078, 
-      "street": "Grevenbos", 
-      "lon": 4.609334448074968
+      "street": "Grevenbos"
     }, 
     {
-      "lat": 50.88157113030539, 
       "housenumber": "2", 
+      "lat": 50.88157113030539, 
+      "lon": 4.606176196244628, 
       "pcode": 3078, 
-      "street": "Grevenbos", 
-      "lon": 4.606176196244628
+      "street": "Grevenbos"
     }
-  ], 
-  "name": "Grevenbos"
+  ]
 }

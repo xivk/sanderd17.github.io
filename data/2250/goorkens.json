@@ -1,27 +1,25 @@
 {
-  "pcode": 2250, 
   "addresses": [
     {
-      "lat": 51.166129333964754, 
       "housenumber": "1", 
+      "lat": 51.166129333964754, 
+      "lon": 4.915215406822069, 
       "pcode": 2250, 
-      "street": "Goorkens", 
-      "lon": 4.915215406822069
+      "street": "Goorkens"
     }, 
     {
-      "lat": 51.16641666379376, 
       "housenumber": "2", 
+      "lat": 51.16641666379376, 
+      "lon": 4.91534101356463, 
       "pcode": 2250, 
-      "street": "Goorkens", 
-      "lon": 4.91534101356463
+      "street": "Goorkens"
     }, 
     {
-      "lat": 51.166210124328046, 
       "housenumber": "3", 
+      "lat": 51.166210124328046, 
+      "lon": 4.915297131219531, 
       "pcode": 2250, 
-      "street": "Goorkens", 
-      "lon": 4.915297131219531
+      "street": "Goorkens"
     }
-  ], 
-  "name": "Goorkens"
+  ]
 }

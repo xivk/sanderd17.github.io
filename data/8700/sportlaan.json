@@ -1,20 +1,18 @@
 {
-  "pcode": 8700, 
   "addresses": [
     {
-      "lat": 51.00340736469651, 
       "housenumber": "1", 
+      "lat": 51.00340736469651, 
+      "lon": 3.3290425535177133, 
       "pcode": 8700, 
-      "street": "Sportlaan", 
-      "lon": 3.3290425535177133
+      "street": "Sportlaan"
     }, 
     {
-      "lat": 51.00369873128139, 
       "housenumber": "3", 
+      "lat": 51.00369873128139, 
+      "lon": 3.329602889083749, 
       "pcode": 8700, 
-      "street": "Sportlaan", 
-      "lon": 3.329602889083749
+      "street": "Sportlaan"
     }
-  ], 
-  "name": "Sportlaan"
+  ]
 }

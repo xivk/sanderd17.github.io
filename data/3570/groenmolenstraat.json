@@ -1,30 +1,28 @@
 {
-  "pcode": 3570, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3570, 
-      "street": "Groenmolenstraat", 
-      "housenumber": "10"
+      "street": "Groenmolenstraat"
     }, 
     {
-      "lat": 50.88630901072469, 
       "housenumber": "22", 
+      "lat": 50.88630901072469, 
+      "lon": 5.302059703075766, 
       "pcode": 3570, 
-      "street": "Groenmolenstraat", 
-      "lon": 5.302059703075766
+      "street": "Groenmolenstraat"
     }, 
     {
-      "lat": 50.886559807612805, 
       "housenumber": "24", 
+      "lat": 50.886559807612805, 
+      "lon": 5.302243910388552, 
       "pcode": 3570, 
-      "street": "Groenmolenstraat", 
-      "lon": 5.302243910388552
+      "street": "Groenmolenstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3570, 
-      "street": "Groenmolenstraat", 
-      "housenumber": "3"
+      "street": "Groenmolenstraat"
     }
-  ], 
-  "name": "Groenmolenstraat"
+  ]
 }

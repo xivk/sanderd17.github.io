@@ -1,77 +1,75 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2000, 
-      "street": "Luikstraat", 
-      "housenumber": "1"
+      "street": "Luikstraat"
     }, 
     {
-      "lat": 51.21039329975613, 
       "housenumber": "10", 
+      "lat": 51.21039329975613, 
+      "lon": 4.389216884465478, 
       "pcode": 2000, 
-      "street": "Luikstraat", 
-      "lon": 4.389216884465478
+      "street": "Luikstraat"
     }, 
     {
-      "lat": 51.21036919445854, 
       "housenumber": "12", 
+      "lat": 51.21036919445854, 
+      "lon": 4.389307885438513, 
       "pcode": 2000, 
-      "street": "Luikstraat", 
-      "lon": 4.389307885438513
+      "street": "Luikstraat"
     }, 
     {
-      "lat": 51.21069352956712, 
       "housenumber": "2", 
+      "lat": 51.21069352956712, 
+      "lon": 4.388613991030385, 
       "pcode": 2000, 
-      "street": "Luikstraat", 
-      "lon": 4.388613991030385
+      "street": "Luikstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2000, 
-      "street": "Luikstraat", 
-      "housenumber": "3"
+      "street": "Luikstraat"
     }, 
     {
-      "lat": 51.210551219807336, 
       "housenumber": "4", 
+      "lat": 51.210551219807336, 
+      "lon": 4.388746010573022, 
       "pcode": 2000, 
-      "street": "Luikstraat", 
-      "lon": 4.388746010573022
+      "street": "Luikstraat"
     }, 
     {
+      "housenumber": "4B", 
       "pcode": 2000, 
-      "street": "Luikstraat", 
-      "housenumber": "4B"
+      "street": "Luikstraat"
     }, 
     {
-      "lat": 51.2104419721602, 
       "housenumber": "6", 
+      "lat": 51.2104419721602, 
+      "lon": 4.388963761392971, 
       "pcode": 2000, 
-      "street": "Luikstraat", 
-      "lon": 4.388963761392971
+      "street": "Luikstraat"
     }, 
     {
-      "lat": 51.210647401915985, 
       "housenumber": "7", 
+      "lat": 51.210647401915985, 
+      "lon": 4.389220004869357, 
       "pcode": 2000, 
-      "street": "Luikstraat", 
-      "lon": 4.389220004869357
+      "street": "Luikstraat"
     }, 
     {
-      "lat": 51.2103749826873, 
       "housenumber": "8", 
+      "lat": 51.2103749826873, 
+      "lon": 4.389108692175661, 
       "pcode": 2000, 
-      "street": "Luikstraat", 
-      "lon": 4.389108692175661
+      "street": "Luikstraat"
     }, 
     {
-      "lat": 51.210516763852326, 
       "housenumber": "9", 
+      "lat": 51.210516763852326, 
+      "lon": 4.389421717918162, 
       "pcode": 2000, 
-      "street": "Luikstraat", 
-      "lon": 4.389421717918162
+      "street": "Luikstraat"
     }
-  ], 
-  "name": "Luikstraat"
+  ]
 }

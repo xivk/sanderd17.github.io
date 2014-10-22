@@ -1,28 +1,26 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 8420, 
-      "street": "Jumpinglaan", 
-      "housenumber": "2"
+      "street": "Jumpinglaan"
     }, 
     {
-      "lat": 51.265448310745136, 
       "housenumber": "3", 
+      "lat": 51.265448310745136, 
+      "lon": 3.0168320959553916, 
       "pcode": 8420, 
-      "street": "Jumpinglaan", 
-      "lon": 3.0168320959553916
+      "street": "Jumpinglaan"
     }, 
     {
+      "housenumber": "3A", 
       "pcode": 8420, 
-      "street": "Jumpinglaan", 
-      "housenumber": "3A"
+      "street": "Jumpinglaan"
     }, 
     {
+      "housenumber": "3C", 
       "pcode": 8420, 
-      "street": "Jumpinglaan", 
-      "housenumber": "3C"
+      "street": "Jumpinglaan"
     }
-  ], 
-  "name": "Jumpinglaan"
+  ]
 }

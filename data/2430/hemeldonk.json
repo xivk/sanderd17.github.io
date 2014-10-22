@@ -1,44 +1,42 @@
 {
-  "pcode": 2430, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 2430, 
-      "street": "Hemeldonk", 
-      "housenumber": "10"
+      "street": "Hemeldonk"
     }, 
     {
-      "lat": 51.09753991526041, 
       "housenumber": "12", 
+      "lat": 51.09753991526041, 
+      "lon": 5.006748073581665, 
       "pcode": 2430, 
-      "street": "Hemeldonk", 
-      "lon": 5.006748073581665
+      "street": "Hemeldonk"
     }, 
     {
-      "lat": 51.09746091498632, 
       "housenumber": "2", 
+      "lat": 51.09746091498632, 
+      "lon": 5.005582642549362, 
       "pcode": 2430, 
-      "street": "Hemeldonk", 
-      "lon": 5.005582642549362
+      "street": "Hemeldonk"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2430, 
-      "street": "Hemeldonk", 
-      "housenumber": "4"
+      "street": "Hemeldonk"
     }, 
     {
-      "lat": 51.097738275038836, 
       "housenumber": "6", 
+      "lat": 51.097738275038836, 
+      "lon": 5.006056251109128, 
       "pcode": 2430, 
-      "street": "Hemeldonk", 
-      "lon": 5.006056251109128
+      "street": "Hemeldonk"
     }, 
     {
-      "lat": 51.097535618047246, 
       "housenumber": "8", 
+      "lat": 51.097535618047246, 
+      "lon": 5.006412813486146, 
       "pcode": 2430, 
-      "street": "Hemeldonk", 
-      "lon": 5.006412813486146
+      "street": "Hemeldonk"
     }
-  ], 
-  "name": "Hemeldonk"
+  ]
 }

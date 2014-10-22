@@ -1,27 +1,25 @@
 {
-  "pcode": 8421, 
   "addresses": [
     {
-      "lat": 51.27604982028136, 
       "housenumber": "2", 
+      "lat": 51.27604982028136, 
+      "lon": 3.035647134374299, 
       "pcode": 8421, 
-      "street": "Schillerlaan", 
-      "lon": 3.035647134374299
+      "street": "Schillerlaan"
     }, 
     {
-      "lat": 51.27633048581599, 
       "housenumber": "3", 
+      "lat": 51.27633048581599, 
+      "lon": 3.0359913996133314, 
       "pcode": 8421, 
-      "street": "Schillerlaan", 
-      "lon": 3.0359913996133314
+      "street": "Schillerlaan"
     }, 
     {
-      "lat": 51.27641638367384, 
       "housenumber": "5", 
+      "lat": 51.27641638367384, 
+      "lon": 3.03585177898637, 
       "pcode": 8421, 
-      "street": "Schillerlaan", 
-      "lon": 3.03585177898637
+      "street": "Schillerlaan"
     }
-  ], 
-  "name": "Schillerlaan"
+  ]
 }

@@ -1,35 +1,33 @@
 {
-  "pcode": 1831, 
   "addresses": [
     {
-      "lat": 50.882506305065185, 
       "housenumber": "5", 
+      "lat": 50.882506305065185, 
+      "lon": 4.440080268455182, 
       "pcode": 1831, 
-      "street": "Telecomlaan", 
-      "lon": 4.440080268455182
+      "street": "Telecomlaan"
     }, 
     {
-      "lat": 50.88249831398698, 
       "housenumber": "7", 
+      "lat": 50.88249831398698, 
+      "lon": 4.44006476712548, 
       "pcode": 1831, 
-      "street": "Telecomlaan", 
-      "lon": 4.44006476712548
+      "street": "Telecomlaan"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 1831, 
-      "street": "Telecomlaan", 
-      "housenumber": "8"
+      "street": "Telecomlaan"
     }, 
     {
+      "housenumber": "8B", 
       "pcode": 1831, 
-      "street": "Telecomlaan", 
-      "housenumber": "8B"
+      "street": "Telecomlaan"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 1831, 
-      "street": "Telecomlaan", 
-      "housenumber": "9"
+      "street": "Telecomlaan"
     }
-  ], 
-  "name": "Telecomlaan"
+  ]
 }

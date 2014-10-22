@@ -1,25 +1,23 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.21548894276536, 
       "housenumber": "1", 
+      "lat": 51.21548894276536, 
+      "lon": 2.9322312653358065, 
       "pcode": 8400, 
-      "street": "Ringlaan", 
-      "lon": 2.9322312653358065
+      "street": "Ringlaan"
     }, 
     {
-      "lat": 51.21546601622292, 
       "housenumber": "3", 
+      "lat": 51.21546601622292, 
+      "lon": 2.9328899991880495, 
       "pcode": 8400, 
-      "street": "Ringlaan", 
-      "lon": 2.9328899991880495
+      "street": "Ringlaan"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8400, 
-      "street": "Ringlaan", 
-      "housenumber": "5"
+      "street": "Ringlaan"
     }
-  ], 
-  "name": "Ringlaan"
+  ]
 }

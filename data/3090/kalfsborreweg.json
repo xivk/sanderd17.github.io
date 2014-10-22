@@ -1,27 +1,25 @@
 {
-  "pcode": 3090, 
   "addresses": [
     {
-      "lat": 50.766388060045394, 
       "housenumber": "40", 
+      "lat": 50.766388060045394, 
+      "lon": 4.526808591120255, 
       "pcode": 3090, 
-      "street": "Kalfsborreweg", 
-      "lon": 4.526808591120255
+      "street": "Kalfsborreweg"
     }, 
     {
-      "lat": 50.766074957761525, 
       "housenumber": "41", 
+      "lat": 50.766074957761525, 
+      "lon": 4.526270017523769, 
       "pcode": 3090, 
-      "street": "Kalfsborreweg", 
-      "lon": 4.526270017523769
+      "street": "Kalfsborreweg"
     }, 
     {
-      "lat": 50.76559060137819, 
       "housenumber": "42", 
+      "lat": 50.76559060137819, 
+      "lon": 4.526926531318676, 
       "pcode": 3090, 
-      "street": "Kalfsborreweg", 
-      "lon": 4.526926531318676
+      "street": "Kalfsborreweg"
     }
-  ], 
-  "name": "Kalfsborreweg"
+  ]
 }

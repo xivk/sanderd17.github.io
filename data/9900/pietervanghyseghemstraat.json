@@ -1,27 +1,25 @@
 {
-  "pcode": 9900, 
   "addresses": [
     {
-      "lat": 51.18971068610795, 
       "housenumber": "1", 
+      "lat": 51.18971068610795, 
+      "lon": 3.579983760169313, 
       "pcode": 9900, 
-      "street": "Pieter Van Ghyseghemstraat", 
-      "lon": 3.579983760169313
+      "street": "Pieter Van Ghyseghemstraat"
     }, 
     {
-      "lat": 51.18936526950031, 
       "housenumber": "2", 
+      "lat": 51.18936526950031, 
+      "lon": 3.5800827160819586, 
       "pcode": 9900, 
-      "street": "Pieter Van Ghyseghemstraat", 
-      "lon": 3.5800827160819586
+      "street": "Pieter Van Ghyseghemstraat"
     }, 
     {
-      "lat": 51.189731128533545, 
       "housenumber": "3", 
+      "lat": 51.189731128533545, 
+      "lon": 3.5802454737873846, 
       "pcode": 9900, 
-      "street": "Pieter Van Ghyseghemstraat", 
-      "lon": 3.5802454737873846
+      "street": "Pieter Van Ghyseghemstraat"
     }
-  ], 
-  "name": "Pieter Van Ghyseghemstraat"
+  ]
 }

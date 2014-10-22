@@ -1,50 +1,48 @@
 {
-  "pcode": 8200, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8200, 
-      "street": "Molenwiekstraat-Oost", 
-      "housenumber": "1"
+      "street": "Molenwiekstraat-Oost"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8200, 
-      "street": "Molenwiekstraat-Oost", 
-      "housenumber": "2"
+      "street": "Molenwiekstraat-Oost"
     }, 
     {
-      "lat": 51.18586610597625, 
       "housenumber": "3", 
+      "lat": 51.18586610597625, 
+      "lon": 3.1806025580957553, 
       "pcode": 8200, 
-      "street": "Molenwiekstraat-Oost", 
-      "lon": 3.1806025580957553
+      "street": "Molenwiekstraat-Oost"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8200, 
-      "street": "Molenwiekstraat-Oost", 
-      "housenumber": "4"
+      "street": "Molenwiekstraat-Oost"
     }, 
     {
-      "lat": 51.186504309182475, 
       "housenumber": "5", 
+      "lat": 51.186504309182475, 
+      "lon": 3.1802475840986197, 
       "pcode": 8200, 
-      "street": "Molenwiekstraat-Oost", 
-      "lon": 3.1802475840986197
+      "street": "Molenwiekstraat-Oost"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 8200, 
-      "street": "Molenwiekstraat-Oost", 
-      "housenumber": "6"
+      "street": "Molenwiekstraat-Oost"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8200, 
-      "street": "Molenwiekstraat-Oost", 
-      "housenumber": "7"
+      "street": "Molenwiekstraat-Oost"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 8200, 
-      "street": "Molenwiekstraat-Oost", 
-      "housenumber": "8"
+      "street": "Molenwiekstraat-Oost"
     }
-  ], 
-  "name": "Molenwiekstraat-Oost"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 9400, 
   "addresses": [
     {
-      "lat": 50.837361742646884, 
       "housenumber": "1", 
+      "lat": 50.837361742646884, 
+      "lon": 4.022105766693743, 
       "pcode": 9400, 
-      "street": "Dekenijstraat", 
-      "lon": 4.022105766693743
+      "street": "Dekenijstraat"
     }, 
     {
+      "housenumber": "21", 
       "pcode": 9400, 
-      "street": "Dekenijstraat", 
-      "housenumber": "21"
+      "street": "Dekenijstraat"
     }
-  ], 
-  "name": "Dekenijstraat"
+  ]
 }

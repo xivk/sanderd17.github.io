@@ -1,32 +1,30 @@
 {
-  "pcode": 8620, 
   "addresses": [
     {
-      "lat": 51.14792982523117, 
       "housenumber": "1", 
+      "lat": 51.14792982523117, 
+      "lon": 2.7459400935214244, 
       "pcode": 8620, 
-      "street": "Alexisstraat", 
-      "lon": 2.7459400935214244
+      "street": "Alexisstraat"
     }, 
     {
-      "lat": 51.14888784869491, 
       "housenumber": "2", 
+      "lat": 51.14888784869491, 
+      "lon": 2.7449173385192918, 
       "pcode": 8620, 
-      "street": "Alexisstraat", 
-      "lon": 2.7449173385192918
+      "street": "Alexisstraat"
     }, 
     {
-      "lat": 51.143933741674395, 
       "housenumber": "319", 
+      "lat": 51.143933741674395, 
+      "lon": 2.706998464427502, 
       "pcode": 8620, 
-      "street": "Alexisstraat", 
-      "lon": 2.706998464427502
+      "street": "Alexisstraat"
     }, 
     {
+      "housenumber": "68A", 
       "pcode": 8620, 
-      "street": "Alexisstraat", 
-      "housenumber": "68A"
+      "street": "Alexisstraat"
     }
-  ], 
-  "name": "Alexisstraat"
+  ]
 }

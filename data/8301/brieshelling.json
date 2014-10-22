@@ -1,39 +1,37 @@
 {
-  "pcode": 8301, 
   "addresses": [
     {
-      "lat": 51.34497609909944, 
       "housenumber": "1", 
+      "lat": 51.34497609909944, 
+      "lon": 3.2601357908979276, 
       "pcode": 8301, 
-      "street": "Brieshelling", 
-      "lon": 3.2601357908979276
+      "street": "Brieshelling"
     }, 
     {
-      "lat": 51.34481558002158, 
       "housenumber": "3", 
+      "lat": 51.34481558002158, 
+      "lon": 3.260311421238256, 
       "pcode": 8301, 
-      "street": "Brieshelling", 
-      "lon": 3.260311421238256
+      "street": "Brieshelling"
     }, 
     {
-      "lat": 51.34485437673846, 
       "housenumber": "5", 
+      "lat": 51.34485437673846, 
+      "lon": 3.2603076263655177, 
       "pcode": 8301, 
-      "street": "Brieshelling", 
-      "lon": 3.2603076263655177
+      "street": "Brieshelling"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8301, 
-      "street": "Brieshelling", 
-      "housenumber": "7"
+      "street": "Brieshelling"
     }, 
     {
-      "lat": 51.34471759174664, 
       "housenumber": "9", 
+      "lat": 51.34471759174664, 
+      "lon": 3.260281604942425, 
       "pcode": 8301, 
-      "street": "Brieshelling", 
-      "lon": 3.260281604942425
+      "street": "Brieshelling"
     }
-  ], 
-  "name": "Brieshelling"
+  ]
 }

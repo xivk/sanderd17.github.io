@@ -1,27 +1,25 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.74414981219297, 
       "housenumber": "10", 
+      "lat": 50.74414981219297, 
+      "lon": 5.424618634879085, 
       "pcode": 3700, 
-      "street": "Daalmolenweg", 
-      "lon": 5.424618634879085
+      "street": "Daalmolenweg"
     }, 
     {
-      "lat": 50.744870043685154, 
       "housenumber": "2", 
+      "lat": 50.744870043685154, 
+      "lon": 5.424400698773886, 
       "pcode": 3700, 
-      "street": "Daalmolenweg", 
-      "lon": 5.424400698773886
+      "street": "Daalmolenweg"
     }, 
     {
-      "lat": 50.74466569058438, 
       "housenumber": "4", 
+      "lat": 50.74466569058438, 
+      "lon": 5.4244798612356195, 
       "pcode": 3700, 
-      "street": "Daalmolenweg", 
-      "lon": 5.4244798612356195
+      "street": "Daalmolenweg"
     }
-  ], 
-  "name": "Daalmolenweg"
+  ]
 }

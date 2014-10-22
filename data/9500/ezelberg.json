@@ -1,32 +1,30 @@
 {
-  "pcode": 9500, 
   "addresses": [
     {
-      "lat": 50.7726599177121, 
       "housenumber": "10", 
+      "lat": 50.7726599177121, 
+      "lon": 3.872200409096728, 
       "pcode": 9500, 
-      "street": "Ezelberg", 
-      "lon": 3.872200409096728
+      "street": "Ezelberg"
     }, 
     {
-      "lat": 50.77242325971715, 
       "housenumber": "2", 
+      "lat": 50.77242325971715, 
+      "lon": 3.8721900002220453, 
       "pcode": 9500, 
-      "street": "Ezelberg", 
-      "lon": 3.8721900002220453
+      "street": "Ezelberg"
     }, 
     {
+      "housenumber": "2B", 
       "pcode": 9500, 
-      "street": "Ezelberg", 
-      "housenumber": "2B"
+      "street": "Ezelberg"
     }, 
     {
-      "lat": 50.772658737207124, 
       "housenumber": "8", 
+      "lat": 50.772658737207124, 
+      "lon": 3.8723037742085538, 
       "pcode": 9500, 
-      "street": "Ezelberg", 
-      "lon": 3.8723037742085538
+      "street": "Ezelberg"
     }
-  ], 
-  "name": "Ezelberg"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 3970, 
   "addresses": [
     {
-      "lat": 51.11592809492069, 
       "housenumber": "1", 
+      "lat": 51.11592809492069, 
+      "lon": 5.264041705482638, 
       "pcode": 3970, 
-      "street": "Priester Poppelaan", 
-      "lon": 5.264041705482638
+      "street": "Priester Poppelaan"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3970, 
-      "street": "Priester Poppelaan", 
-      "housenumber": "5"
+      "street": "Priester Poppelaan"
     }
-  ], 
-  "name": "Priester Poppelaan"
+  ]
 }

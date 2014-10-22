@@ -1,34 +1,32 @@
 {
-  "pcode": 1500, 
   "addresses": [
     {
-      "lat": 50.728048626489134, 
       "housenumber": "1", 
+      "lat": 50.728048626489134, 
+      "lon": 4.249824517216719, 
       "pcode": 1500, 
-      "street": "Mezenlaan", 
-      "lon": 4.249824517216719
+      "street": "Mezenlaan"
     }, 
     {
-      "lat": 50.72809123142398, 
       "housenumber": "3", 
+      "lat": 50.72809123142398, 
+      "lon": 4.2499068425746875, 
       "pcode": 1500, 
-      "street": "Mezenlaan", 
-      "lon": 4.2499068425746875
+      "street": "Mezenlaan"
     }, 
     {
-      "lat": 50.72813454761979, 
       "housenumber": "5", 
+      "lat": 50.72813454761979, 
+      "lon": 4.249981376302984, 
       "pcode": 1500, 
-      "street": "Mezenlaan", 
-      "lon": 4.249981376302984
+      "street": "Mezenlaan"
     }, 
     {
-      "lat": 50.72817750360506, 
       "housenumber": "7", 
+      "lat": 50.72817750360506, 
+      "lon": 4.25005534452443, 
       "pcode": 1500, 
-      "street": "Mezenlaan", 
-      "lon": 4.25005534452443
+      "street": "Mezenlaan"
     }
-  ], 
-  "name": "Mezenlaan"
+  ]
 }

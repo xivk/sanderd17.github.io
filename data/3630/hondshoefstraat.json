@@ -1,20 +1,18 @@
 {
-  "pcode": 3630, 
   "addresses": [
     {
-      "lat": 50.95253533539235, 
       "housenumber": "1", 
+      "lat": 50.95253533539235, 
+      "lon": 5.671884824870865, 
       "pcode": 3630, 
-      "street": "Hondshoefstraat", 
-      "lon": 5.671884824870865
+      "street": "Hondshoefstraat"
     }, 
     {
-      "lat": 50.95305838523381, 
       "housenumber": "2", 
+      "lat": 50.95305838523381, 
+      "lon": 5.6715951923128225, 
       "pcode": 3630, 
-      "street": "Hondshoefstraat", 
-      "lon": 5.6715951923128225
+      "street": "Hondshoefstraat"
     }
-  ], 
-  "name": "Hondshoefstraat"
+  ]
 }

@@ -1,41 +1,39 @@
 {
-  "pcode": 8600, 
   "addresses": [
     {
-      "lat": 51.02859094556892, 
       "housenumber": "1", 
+      "lat": 51.02859094556892, 
+      "lon": 2.897206493699386, 
       "pcode": 8600, 
-      "street": "Herrewijnstraat", 
-      "lon": 2.897206493699386
+      "street": "Herrewijnstraat"
     }, 
     {
-      "lat": 51.028405611708465, 
       "housenumber": "3", 
+      "lat": 51.028405611708465, 
+      "lon": 2.8966929251527267, 
       "pcode": 8600, 
-      "street": "Herrewijnstraat", 
-      "lon": 2.8966929251527267
+      "street": "Herrewijnstraat"
     }, 
     {
+      "housenumber": "4", 
       "lat": 51.02829941050641, 
-      "housenumber": "4", 
+      "lon": 2.8964323619240124, 
       "pcode": 8600, 
-      "street": "Herrewijnstraat", 
-      "lon": 2.8964323619240124
+      "street": "Herrewijnstraat"
     }, 
     {
+      "housenumber": "4", 
       "lat": 51.02850613694655, 
-      "housenumber": "4", 
+      "lon": 2.8969453986810216, 
       "pcode": 8600, 
-      "street": "Herrewijnstraat", 
-      "lon": 2.8969453986810216
+      "street": "Herrewijnstraat"
     }, 
     {
-      "lat": 51.02808865472476, 
       "housenumber": "5", 
+      "lat": 51.02808865472476, 
+      "lon": 2.89615812089493, 
       "pcode": 8600, 
-      "street": "Herrewijnstraat", 
-      "lon": 2.89615812089493
+      "street": "Herrewijnstraat"
     }
-  ], 
-  "name": "Herrewijnstraat"
+  ]
 }

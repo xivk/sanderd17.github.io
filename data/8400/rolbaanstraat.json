@@ -1,18 +1,16 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8400, 
-      "street": "Rolbaanstraat", 
-      "housenumber": "1"
+      "street": "Rolbaanstraat"
     }, 
     {
-      "lat": 51.196191119918325, 
       "housenumber": "25", 
+      "lat": 51.196191119918325, 
+      "lon": 2.898954900399235, 
       "pcode": 8400, 
-      "street": "Rolbaanstraat", 
-      "lon": 2.898954900399235
+      "street": "Rolbaanstraat"
     }
-  ], 
-  "name": "Rolbaanstraat"
+  ]
 }

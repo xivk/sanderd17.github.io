@@ -1,44 +1,42 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
-      "lat": 51.233153723791084, 
       "housenumber": "1", 
+      "lat": 51.233153723791084, 
+      "lon": 5.399936897518468, 
       "pcode": 3900, 
-      "street": "Schoolstraat", 
-      "lon": 5.399936897518468
+      "street": "Schoolstraat"
     }, 
     {
-      "lat": 51.231914739393154, 
       "housenumber": "2", 
+      "lat": 51.231914739393154, 
+      "lon": 5.399071292343794, 
       "pcode": 3900, 
-      "street": "Schoolstraat", 
-      "lon": 5.399071292343794
+      "street": "Schoolstraat"
     }, 
     {
-      "lat": 51.23300530973454, 
       "housenumber": "2A", 
+      "lat": 51.23300530973454, 
+      "lon": 5.39899919479265, 
       "pcode": 3900, 
-      "street": "Schoolstraat", 
-      "lon": 5.39899919479265
+      "street": "Schoolstraat"
     }, 
     {
-      "lat": 51.231810664373384, 
       "housenumber": "3", 
+      "lat": 51.231810664373384, 
+      "lon": 5.399842019741508, 
       "pcode": 3900, 
-      "street": "Schoolstraat", 
-      "lon": 5.399842019741508
+      "street": "Schoolstraat"
     }, 
     {
+      "housenumber": "3A", 
       "pcode": 3900, 
-      "street": "Schoolstraat", 
-      "housenumber": "3A"
+      "street": "Schoolstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3900, 
-      "street": "Schoolstraat", 
-      "housenumber": "5"
+      "street": "Schoolstraat"
     }
-  ], 
-  "name": "Schoolstraat"
+  ]
 }

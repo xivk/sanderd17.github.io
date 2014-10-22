@@ -1,27 +1,25 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.80815709983613, 
       "housenumber": "1", 
+      "lat": 50.80815709983613, 
+      "lon": 3.545946315825002, 
       "pcode": 9700, 
-      "street": "Visserij", 
-      "lon": 3.545946315825002
+      "street": "Visserij"
     }, 
     {
-      "lat": 50.80776166830221, 
       "housenumber": "5", 
+      "lat": 50.80776166830221, 
+      "lon": 3.546542472398361, 
       "pcode": 9700, 
-      "street": "Visserij", 
-      "lon": 3.546542472398361
+      "street": "Visserij"
     }, 
     {
-      "lat": 50.807183361762476, 
       "housenumber": "9", 
+      "lat": 50.807183361762476, 
+      "lon": 3.547098393808552, 
       "pcode": 9700, 
-      "street": "Visserij", 
-      "lon": 3.547098393808552
+      "street": "Visserij"
     }
-  ], 
-  "name": "Visserij"
+  ]
 }

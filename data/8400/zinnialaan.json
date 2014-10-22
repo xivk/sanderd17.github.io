@@ -1,23 +1,21 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8400, 
-      "street": "Zinnialaan", 
-      "housenumber": "1"
+      "street": "Zinnialaan"
     }, 
     {
-      "lat": 51.22278796040478, 
       "housenumber": "7", 
+      "lat": 51.22278796040478, 
+      "lon": 2.920910848583753, 
       "pcode": 8400, 
-      "street": "Zinnialaan", 
-      "lon": 2.920910848583753
+      "street": "Zinnialaan"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 8400, 
-      "street": "Zinnialaan", 
-      "housenumber": "8"
+      "street": "Zinnialaan"
     }
-  ], 
-  "name": "Zinnialaan"
+  ]
 }

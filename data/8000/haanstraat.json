@@ -1,18 +1,16 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 8000, 
-      "street": "Haanstraat", 
-      "housenumber": "2"
+      "street": "Haanstraat"
     }, 
     {
-      "lat": 51.20729991786525, 
       "housenumber": "2A", 
+      "lat": 51.20729991786525, 
+      "lon": 3.219624695617892, 
       "pcode": 8000, 
-      "street": "Haanstraat", 
-      "lon": 3.219624695617892
+      "street": "Haanstraat"
     }
-  ], 
-  "name": "Haanstraat"
+  ]
 }

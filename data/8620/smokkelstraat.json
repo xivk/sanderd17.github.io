@@ -1,18 +1,16 @@
 {
-  "pcode": 8620, 
   "addresses": [
     {
+      "housenumber": "32", 
       "pcode": 8620, 
-      "street": "Smokkelstraat", 
-      "housenumber": "32"
+      "street": "Smokkelstraat"
     }, 
     {
-      "lat": 51.1339377592649, 
       "housenumber": "7", 
+      "lat": 51.1339377592649, 
+      "lon": 2.7461142028409924, 
       "pcode": 8620, 
-      "street": "Smokkelstraat", 
-      "lon": 2.7461142028409924
+      "street": "Smokkelstraat"
     }
-  ], 
-  "name": "Smokkelstraat"
+  ]
 }

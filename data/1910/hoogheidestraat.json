@@ -1,27 +1,25 @@
 {
-  "pcode": 1910, 
   "addresses": [
     {
-      "lat": 50.95709342233112, 
       "housenumber": "1", 
+      "lat": 50.95709342233112, 
+      "lon": 4.535761514656856, 
       "pcode": 1910, 
-      "street": "Hoogheidestraat", 
-      "lon": 4.535761514656856
+      "street": "Hoogheidestraat"
     }, 
     {
-      "lat": 50.95505945294711, 
       "housenumber": "2", 
+      "lat": 50.95505945294711, 
+      "lon": 4.536873033114372, 
       "pcode": 1910, 
-      "street": "Hoogheidestraat", 
-      "lon": 4.536873033114372
+      "street": "Hoogheidestraat"
     }, 
     {
-      "lat": 50.95823867123215, 
       "housenumber": "3", 
+      "lat": 50.95823867123215, 
+      "lon": 4.535242826790463, 
       "pcode": 1910, 
-      "street": "Hoogheidestraat", 
-      "lon": 4.535242826790463
+      "street": "Hoogheidestraat"
     }
-  ], 
-  "name": "Hoogheidestraat"
+  ]
 }

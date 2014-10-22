@@ -1,23 +1,21 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2030, 
-      "street": "Wilmingtonstraat", 
-      "housenumber": "1"
+      "street": "Wilmingtonstraat"
     }, 
     {
-      "lat": 51.29085589858789, 
       "housenumber": "3", 
+      "lat": 51.29085589858789, 
+      "lon": 4.353178527279682, 
       "pcode": 2030, 
-      "street": "Wilmingtonstraat", 
-      "lon": 4.353178527279682
+      "street": "Wilmingtonstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2030, 
-      "street": "Wilmingtonstraat", 
-      "housenumber": "5"
+      "street": "Wilmingtonstraat"
     }
-  ], 
-  "name": "Wilmingtonstraat"
+  ]
 }

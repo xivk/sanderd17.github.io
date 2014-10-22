@@ -1,18 +1,16 @@
 {
-  "pcode": 3920, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3920, 
-      "street": "Kievitpad", 
-      "housenumber": "1"
+      "street": "Kievitpad"
     }, 
     {
-      "lat": 51.22049041231192, 
       "housenumber": "21", 
+      "lat": 51.22049041231192, 
+      "lon": 5.287624357809073, 
       "pcode": 3920, 
-      "street": "Kievitpad", 
-      "lon": 5.287624357809073
+      "street": "Kievitpad"
     }
-  ], 
-  "name": "Kievitpad"
+  ]
 }

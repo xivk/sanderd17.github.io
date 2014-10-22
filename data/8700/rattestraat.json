@@ -1,27 +1,25 @@
 {
-  "pcode": 8700, 
   "addresses": [
     {
-      "lat": 51.021279978815954, 
       "housenumber": "1", 
+      "lat": 51.021279978815954, 
+      "lon": 3.2976443284890933, 
       "pcode": 8700, 
-      "street": "Rattestraat", 
-      "lon": 3.2976443284890933
+      "street": "Rattestraat"
     }, 
     {
-      "lat": 51.02423076936932, 
       "housenumber": "5", 
+      "lat": 51.02423076936932, 
+      "lon": 3.2974185043552975, 
       "pcode": 8700, 
-      "street": "Rattestraat", 
-      "lon": 3.2974185043552975
+      "street": "Rattestraat"
     }, 
     {
-      "lat": 51.025078239785365, 
       "housenumber": "9", 
+      "lat": 51.025078239785365, 
+      "lon": 3.297130421765364, 
       "pcode": 8700, 
-      "street": "Rattestraat", 
-      "lon": 3.297130421765364
+      "street": "Rattestraat"
     }
-  ], 
-  "name": "Rattestraat"
+  ]
 }

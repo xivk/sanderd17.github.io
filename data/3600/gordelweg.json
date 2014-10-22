@@ -1,39 +1,37 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.92830845048296, 
       "housenumber": "10", 
+      "lat": 50.92830845048296, 
+      "lon": 5.490490114784694, 
       "pcode": 3600, 
-      "street": "Gordelweg", 
-      "lon": 5.490490114784694
+      "street": "Gordelweg"
     }, 
     {
-      "lat": 50.92770446850328, 
       "housenumber": "14", 
+      "lat": 50.92770446850328, 
+      "lon": 5.490886498584339, 
       "pcode": 3600, 
-      "street": "Gordelweg", 
-      "lon": 5.490886498584339
+      "street": "Gordelweg"
     }, 
     {
+      "housenumber": "15", 
       "pcode": 3600, 
-      "street": "Gordelweg", 
-      "housenumber": "15"
+      "street": "Gordelweg"
     }, 
     {
-      "lat": 50.92928528839928, 
       "housenumber": "2", 
+      "lat": 50.92928528839928, 
+      "lon": 5.488856870943278, 
       "pcode": 3600, 
-      "street": "Gordelweg", 
-      "lon": 5.488856870943278
+      "street": "Gordelweg"
     }, 
     {
-      "lat": 50.92926272526173, 
       "housenumber": "6", 
+      "lat": 50.92926272526173, 
+      "lon": 5.489977478205604, 
       "pcode": 3600, 
-      "street": "Gordelweg", 
-      "lon": 5.489977478205604
+      "street": "Gordelweg"
     }
-  ], 
-  "name": "Gordelweg"
+  ]
 }

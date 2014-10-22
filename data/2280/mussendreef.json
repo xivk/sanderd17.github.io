@@ -1,20 +1,18 @@
 {
-  "pcode": 2280, 
   "addresses": [
     {
-      "lat": 51.20755450437861, 
       "housenumber": "3", 
+      "lat": 51.20755450437861, 
+      "lon": 4.743174607362843, 
       "pcode": 2280, 
-      "street": "Mussendreef", 
-      "lon": 4.743174607362843
+      "street": "Mussendreef"
     }, 
     {
-      "lat": 51.2073544089961, 
       "housenumber": "5", 
+      "lat": 51.2073544089961, 
+      "lon": 4.742724401385061, 
       "pcode": 2280, 
-      "street": "Mussendreef", 
-      "lon": 4.742724401385061
+      "street": "Mussendreef"
     }
-  ], 
-  "name": "Mussendreef"
+  ]
 }

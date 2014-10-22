@@ -1,25 +1,23 @@
 {
-  "pcode": 3630, 
   "addresses": [
     {
-      "lat": 50.99377330619679, 
       "housenumber": "1", 
+      "lat": 50.99377330619679, 
+      "lon": 5.706369497646313, 
       "pcode": 3630, 
-      "street": "Kolenmijn Limburg-Maaslaan", 
-      "lon": 5.706369497646313
+      "street": "Kolenmijn Limburg-Maaslaan"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3630, 
-      "street": "Kolenmijn Limburg-Maaslaan", 
-      "housenumber": "2"
+      "street": "Kolenmijn Limburg-Maaslaan"
     }, 
     {
-      "lat": 50.99796431201953, 
       "housenumber": "3", 
+      "lat": 50.99796431201953, 
+      "lon": 5.706609893870373, 
       "pcode": 3630, 
-      "street": "Kolenmijn Limburg-Maaslaan", 
-      "lon": 5.706609893870373
+      "street": "Kolenmijn Limburg-Maaslaan"
     }
-  ], 
-  "name": "Kolenmijn Limburg-Maaslaan"
+  ]
 }

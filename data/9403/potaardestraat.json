@@ -1,20 +1,18 @@
 {
-  "pcode": 9403, 
   "addresses": [
     {
-      "lat": 50.80690102733587, 
       "housenumber": "1", 
+      "lat": 50.80690102733587, 
+      "lon": 4.0593638526333455, 
       "pcode": 9403, 
-      "street": "Potaardestraat", 
-      "lon": 4.0593638526333455
+      "street": "Potaardestraat"
     }, 
     {
-      "lat": 50.80715957953405, 
       "housenumber": "3", 
+      "lat": 50.80715957953405, 
+      "lon": 4.0593330717480125, 
       "pcode": 9403, 
-      "street": "Potaardestraat", 
-      "lon": 4.0593330717480125
+      "street": "Potaardestraat"
     }
-  ], 
-  "name": "Potaardestraat"
+  ]
 }

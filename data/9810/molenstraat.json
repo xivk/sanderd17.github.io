@@ -1,27 +1,25 @@
 {
-  "pcode": 9810, 
   "addresses": [
     {
-      "lat": 50.93917295140997, 
       "housenumber": "1", 
+      "lat": 50.93917295140997, 
+      "lon": 3.55698147932519, 
       "pcode": 9810, 
-      "street": "Molenstraat", 
-      "lon": 3.55698147932519
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.94158710623332, 
       "housenumber": "2", 
+      "lat": 50.94158710623332, 
+      "lon": 3.5572207592787106, 
       "pcode": 9810, 
-      "street": "Molenstraat", 
-      "lon": 3.5572207592787106
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.940506876812265, 
       "housenumber": "4", 
+      "lat": 50.940506876812265, 
+      "lon": 3.5564892999736126, 
       "pcode": 9810, 
-      "street": "Molenstraat", 
-      "lon": 3.5564892999736126
+      "street": "Molenstraat"
     }
-  ], 
-  "name": "Molenstraat"
+  ]
 }

@@ -1,25 +1,23 @@
 {
-  "pcode": 3290, 
   "addresses": [
     {
-      "lat": 51.0105153767836, 
       "housenumber": "1", 
+      "lat": 51.0105153767836, 
+      "lon": 5.07850233798744, 
       "pcode": 3290, 
-      "street": "Reydtstraat", 
-      "lon": 5.07850233798744
+      "street": "Reydtstraat"
     }, 
     {
+      "housenumber": "150", 
       "pcode": 3290, 
-      "street": "Reydtstraat", 
-      "housenumber": "150"
+      "street": "Reydtstraat"
     }, 
     {
-      "lat": 51.010207638339615, 
       "housenumber": "2", 
+      "lat": 51.010207638339615, 
+      "lon": 5.07868576454006, 
       "pcode": 3290, 
-      "street": "Reydtstraat", 
-      "lon": 5.07868576454006
+      "street": "Reydtstraat"
     }
-  ], 
-  "name": "Reydtstraat"
+  ]
 }

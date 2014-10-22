@@ -1,20 +1,18 @@
 {
-  "pcode": 9250, 
   "addresses": [
     {
-      "lat": 51.11756313925142, 
       "housenumber": "25", 
+      "lat": 51.11756313925142, 
+      "lon": 4.134385625069248, 
       "pcode": 9250, 
-      "street": "Bokmolenstraat", 
-      "lon": 4.134385625069248
+      "street": "Bokmolenstraat"
     }, 
     {
-      "lat": 51.117743417693674, 
       "housenumber": "27", 
+      "lat": 51.117743417693674, 
+      "lon": 4.134276467931084, 
       "pcode": 9250, 
-      "street": "Bokmolenstraat", 
-      "lon": 4.134276467931084
+      "street": "Bokmolenstraat"
     }
-  ], 
-  "name": "Bokmolenstraat"
+  ]
 }

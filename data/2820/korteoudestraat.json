@@ -1,32 +1,30 @@
 {
-  "pcode": 2820, 
   "addresses": [
     {
-      "lat": 51.03451349566707, 
       "housenumber": "1", 
-      "pcode": 2820, 
-      "street": "Korte Oudestraat", 
-      "lon": 4.516038056798072
-    }, 
-    {
       "lat": 51.03451349566707, 
+      "lon": 4.516038056798072, 
+      "pcode": 2820, 
+      "street": "Korte Oudestraat"
+    }, 
+    {
       "housenumber": "2", 
+      "lat": 51.03451349566707, 
+      "lon": 4.516038056798072, 
       "pcode": 2820, 
-      "street": "Korte Oudestraat", 
-      "lon": 4.516038056798072
+      "street": "Korte Oudestraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2820, 
-      "street": "Korte Oudestraat", 
-      "housenumber": "5"
+      "street": "Korte Oudestraat"
     }, 
     {
-      "lat": 51.03415125225308, 
       "housenumber": "6", 
+      "lat": 51.03415125225308, 
+      "lon": 4.516170064890132, 
       "pcode": 2820, 
-      "street": "Korte Oudestraat", 
-      "lon": 4.516170064890132
+      "street": "Korte Oudestraat"
     }
-  ], 
-  "name": "Korte Oudestraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 2300, 
   "addresses": [
     {
-      "lat": 51.337007489253565, 
       "housenumber": "13", 
+      "lat": 51.337007489253565, 
+      "lon": 4.965397707042638, 
       "pcode": 2300, 
-      "street": "Kluisstraat", 
-      "lon": 4.965397707042638
+      "street": "Kluisstraat"
     }, 
     {
-      "lat": 51.33722662369187, 
       "housenumber": "15", 
+      "lat": 51.33722662369187, 
+      "lon": 4.9649335874510605, 
       "pcode": 2300, 
-      "street": "Kluisstraat", 
-      "lon": 4.9649335874510605
+      "street": "Kluisstraat"
     }, 
     {
-      "lat": 51.33636341457539, 
       "housenumber": "9", 
+      "lat": 51.33636341457539, 
+      "lon": 4.966497916521965, 
       "pcode": 2300, 
-      "street": "Kluisstraat", 
-      "lon": 4.966497916521965
+      "street": "Kluisstraat"
     }
-  ], 
-  "name": "Kluisstraat"
+  ]
 }

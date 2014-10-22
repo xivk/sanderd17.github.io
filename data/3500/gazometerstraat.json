@@ -1,23 +1,21 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.93300514240727, 
       "housenumber": "1", 
+      "lat": 50.93300514240727, 
+      "lon": 5.334162634795959, 
       "pcode": 3500, 
-      "street": "Gazometerstraat", 
-      "lon": 5.334162634795959
+      "street": "Gazometerstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3500, 
-      "street": "Gazometerstraat", 
-      "housenumber": "2"
+      "street": "Gazometerstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3500, 
-      "street": "Gazometerstraat", 
-      "housenumber": "8"
+      "street": "Gazometerstraat"
     }
-  ], 
-  "name": "Gazometerstraat"
+  ]
 }

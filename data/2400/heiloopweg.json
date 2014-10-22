@@ -1,35 +1,33 @@
 {
-  "pcode": 2400, 
   "addresses": [
     {
-      "lat": 51.20805689533606, 
       "housenumber": "12", 
+      "lat": 51.20805689533606, 
+      "lon": 5.190429779684405, 
       "pcode": 2400, 
-      "street": "Heiloopweg", 
-      "lon": 5.190429779684405
+      "street": "Heiloopweg"
     }, 
     {
+      "housenumber": "32", 
       "pcode": 2400, 
-      "street": "Heiloopweg", 
-      "housenumber": "32"
+      "street": "Heiloopweg"
     }, 
     {
+      "housenumber": "34", 
       "pcode": 2400, 
-      "street": "Heiloopweg", 
-      "housenumber": "34"
+      "street": "Heiloopweg"
     }, 
     {
+      "housenumber": "36", 
       "pcode": 2400, 
-      "street": "Heiloopweg", 
-      "housenumber": "36"
+      "street": "Heiloopweg"
     }, 
     {
-      "lat": 51.209163668837775, 
       "housenumber": "38", 
+      "lat": 51.209163668837775, 
+      "lon": 5.193247295620856, 
       "pcode": 2400, 
-      "street": "Heiloopweg", 
-      "lon": 5.193247295620856
+      "street": "Heiloopweg"
     }
-  ], 
-  "name": "Heiloopweg"
+  ]
 }

@@ -1,48 +1,46 @@
 {
-  "pcode": 2250, 
   "addresses": [
     {
-      "lat": 51.174529324837714, 
       "housenumber": "1", 
-      "pcode": 2250, 
-      "street": "Draaivennen", 
-      "lon": 4.888207452405813
-    }, 
-    {
-      "lat": 51.17343955618357, 
-      "housenumber": "10", 
-      "pcode": 2250, 
-      "street": "Draaivennen", 
-      "lon": 4.883731709512913
-    }, 
-    {
       "lat": 51.174529324837714, 
+      "lon": 4.888207452405813, 
+      "pcode": 2250, 
+      "street": "Draaivennen"
+    }, 
+    {
+      "housenumber": "10", 
+      "lat": 51.17343955618357, 
+      "lon": 4.883731709512913, 
+      "pcode": 2250, 
+      "street": "Draaivennen"
+    }, 
+    {
       "housenumber": "2", 
+      "lat": 51.174529324837714, 
+      "lon": 4.888207452405813, 
       "pcode": 2250, 
-      "street": "Draaivennen", 
-      "lon": 4.888207452405813
+      "street": "Draaivennen"
     }, 
     {
-      "lat": 51.173407307645135, 
       "housenumber": "4", 
+      "lat": 51.173407307645135, 
+      "lon": 4.887092490850247, 
       "pcode": 2250, 
-      "street": "Draaivennen", 
-      "lon": 4.887092490850247
+      "street": "Draaivennen"
     }, 
     {
-      "lat": 51.17316385564273, 
       "housenumber": "6", 
+      "lat": 51.17316385564273, 
+      "lon": 4.884660814509981, 
       "pcode": 2250, 
-      "street": "Draaivennen", 
-      "lon": 4.884660814509981
+      "street": "Draaivennen"
     }, 
     {
-      "lat": 51.173295928367416, 
       "housenumber": "8", 
+      "lat": 51.173295928367416, 
+      "lon": 4.884202133581854, 
       "pcode": 2250, 
-      "street": "Draaivennen", 
-      "lon": 4.884202133581854
+      "street": "Draaivennen"
     }
-  ], 
-  "name": "Draaivennen"
+  ]
 }

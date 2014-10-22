@@ -1,32 +1,30 @@
 {
-  "pcode": 8432, 
   "addresses": [
     {
-      "lat": 51.166436440060735, 
       "housenumber": "1", 
+      "lat": 51.166436440060735, 
+      "lon": 2.884037348924602, 
       "pcode": 8432, 
-      "street": "Mechelhofweg", 
-      "lon": 2.884037348924602
+      "street": "Mechelhofweg"
     }, 
     {
+      "housenumber": "16", 
       "pcode": 8432, 
-      "street": "Mechelhofweg", 
-      "housenumber": "16"
+      "street": "Mechelhofweg"
     }, 
     {
-      "lat": 51.16662353564221, 
       "housenumber": "2", 
+      "lat": 51.16662353564221, 
+      "lon": 2.8863932476136402, 
       "pcode": 8432, 
-      "street": "Mechelhofweg", 
-      "lon": 2.8863932476136402
+      "street": "Mechelhofweg"
     }, 
     {
-      "lat": 51.17255204332289, 
       "housenumber": "21", 
+      "lat": 51.17255204332289, 
+      "lon": 2.8725060773569417, 
       "pcode": 8432, 
-      "street": "Mechelhofweg", 
-      "lon": 2.8725060773569417
+      "street": "Mechelhofweg"
     }
-  ], 
-  "name": "Mechelhofweg"
+  ]
 }

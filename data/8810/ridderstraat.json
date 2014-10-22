@@ -1,27 +1,25 @@
 {
-  "pcode": 8810, 
   "addresses": [
     {
-      "lat": 51.004130746411384, 
       "housenumber": "1", 
+      "lat": 51.004130746411384, 
+      "lon": 3.1545526814506966, 
       "pcode": 8810, 
-      "street": "Ridderstraat", 
-      "lon": 3.1545526814506966
+      "street": "Ridderstraat"
     }, 
     {
-      "lat": 50.99523538245396, 
       "housenumber": "2", 
+      "lat": 50.99523538245396, 
+      "lon": 3.1568208555794244, 
       "pcode": 8810, 
-      "street": "Ridderstraat", 
-      "lon": 3.1568208555794244
+      "street": "Ridderstraat"
     }, 
     {
-      "lat": 50.99526476013059, 
       "housenumber": "3", 
+      "lat": 50.99526476013059, 
+      "lon": 3.158111945974552, 
       "pcode": 8810, 
-      "street": "Ridderstraat", 
-      "lon": 3.158111945974552
+      "street": "Ridderstraat"
     }
-  ], 
-  "name": "Ridderstraat"
+  ]
 }

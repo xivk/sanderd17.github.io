@@ -1,20 +1,18 @@
 {
-  "pcode": 2990, 
   "addresses": [
     {
-      "lat": 51.374839015514326, 
       "housenumber": "10", 
+      "lat": 51.374839015514326, 
+      "lon": 4.574222260349033, 
       "pcode": 2990, 
-      "street": "Moerweg", 
-      "lon": 4.574222260349033
+      "street": "Moerweg"
     }, 
     {
-      "lat": 51.37460106482453, 
       "housenumber": "21", 
+      "lat": 51.37460106482453, 
+      "lon": 4.57696955053538, 
       "pcode": 2990, 
-      "street": "Moerweg", 
-      "lon": 4.57696955053538
+      "street": "Moerweg"
     }
-  ], 
-  "name": "Moerweg"
+  ]
 }

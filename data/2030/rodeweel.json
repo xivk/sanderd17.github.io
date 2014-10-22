@@ -1,25 +1,23 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.30488490782476, 
       "housenumber": "2", 
+      "lat": 51.30488490782476, 
+      "lon": 4.343096517320109, 
       "pcode": 2030, 
-      "street": "Rode Weel", 
-      "lon": 4.343096517320109
+      "street": "Rode Weel"
     }, 
     {
+      "housenumber": "202", 
       "pcode": 2030, 
-      "street": "Rode Weel", 
-      "housenumber": "202"
+      "street": "Rode Weel"
     }, 
     {
-      "lat": 51.30476183780973, 
       "housenumber": "4", 
+      "lat": 51.30476183780973, 
+      "lon": 4.342986746045141, 
       "pcode": 2030, 
-      "street": "Rode Weel", 
-      "lon": 4.342986746045141
+      "street": "Rode Weel"
     }
-  ], 
-  "name": "Rode Weel"
+  ]
 }

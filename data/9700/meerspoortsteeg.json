@@ -1,20 +1,18 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
-      "lat": 50.84198942418936, 
       "housenumber": "1", 
+      "lat": 50.84198942418936, 
+      "lon": 3.603236764511003, 
       "pcode": 9700, 
-      "street": "Meerspoortsteeg", 
-      "lon": 3.603236764511003
+      "street": "Meerspoortsteeg"
     }, 
     {
-      "lat": 50.84170659618349, 
       "housenumber": "2", 
+      "lat": 50.84170659618349, 
+      "lon": 3.6032639415510346, 
       "pcode": 9700, 
-      "street": "Meerspoortsteeg", 
-      "lon": 3.6032639415510346
+      "street": "Meerspoortsteeg"
     }
-  ], 
-  "name": "Meerspoortsteeg"
+  ]
 }

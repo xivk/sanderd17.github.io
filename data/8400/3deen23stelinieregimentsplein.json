@@ -1,32 +1,30 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.224074863213914, 
       "housenumber": "1", 
+      "lat": 51.224074863213914, 
+      "lon": 2.923540442930329, 
       "pcode": 8400, 
-      "street": "3de en 23ste Linieregimentsplein", 
-      "lon": 2.923540442930329
+      "street": "3de en 23ste Linieregimentsplein"
     }, 
     {
+      "housenumber": "23", 
       "pcode": 8400, 
-      "street": "3de en 23ste Linieregimentsplein", 
-      "housenumber": "23"
+      "street": "3de en 23ste Linieregimentsplein"
     }, 
     {
-      "lat": 51.22403251287217, 
       "housenumber": "36", 
+      "lat": 51.22403251287217, 
+      "lon": 2.9221571624240235, 
       "pcode": 8400, 
-      "street": "3de en 23ste Linieregimentsplein", 
-      "lon": 2.9221571624240235
+      "street": "3de en 23ste Linieregimentsplein"
     }, 
     {
-      "lat": 51.22279670299909, 
       "housenumber": "4", 
+      "lat": 51.22279670299909, 
+      "lon": 2.9253409844666893, 
       "pcode": 8400, 
-      "street": "3de en 23ste Linieregimentsplein", 
-      "lon": 2.9253409844666893
+      "street": "3de en 23ste Linieregimentsplein"
     }
-  ], 
-  "name": "3de en 23ste Linieregimentsplein"
+  ]
 }

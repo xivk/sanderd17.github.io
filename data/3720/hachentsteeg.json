@@ -1,20 +1,18 @@
 {
-  "pcode": 3720, 
   "addresses": [
     {
-      "lat": 50.86640070274444, 
       "housenumber": "2", 
+      "lat": 50.86640070274444, 
+      "lon": 5.376726572084257, 
       "pcode": 3720, 
-      "street": "Hachentsteeg", 
-      "lon": 5.376726572084257
+      "street": "Hachentsteeg"
     }, 
     {
-      "lat": 50.86650394970232, 
       "housenumber": "4", 
+      "lat": 50.86650394970232, 
+      "lon": 5.376878952622266, 
       "pcode": 3720, 
-      "street": "Hachentsteeg", 
-      "lon": 5.376878952622266
+      "street": "Hachentsteeg"
     }
-  ], 
-  "name": "Hachentsteeg"
+  ]
 }

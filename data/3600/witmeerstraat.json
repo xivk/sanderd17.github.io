@@ -1,27 +1,25 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.928706120540625, 
       "housenumber": "1", 
+      "lat": 50.928706120540625, 
+      "lon": 5.4827821517743605, 
       "pcode": 3600, 
-      "street": "Witmeerstraat", 
-      "lon": 5.4827821517743605
+      "street": "Witmeerstraat"
     }, 
     {
-      "lat": 50.929710966220156, 
       "housenumber": "4", 
+      "lat": 50.929710966220156, 
+      "lon": 5.483786199810544, 
       "pcode": 3600, 
-      "street": "Witmeerstraat", 
-      "lon": 5.483786199810544
+      "street": "Witmeerstraat"
     }, 
     {
-      "lat": 50.92984819227932, 
       "housenumber": "7", 
+      "lat": 50.92984819227932, 
+      "lon": 5.480967432284785, 
       "pcode": 3600, 
-      "street": "Witmeerstraat", 
-      "lon": 5.480967432284785
+      "street": "Witmeerstraat"
     }
-  ], 
-  "name": "Witmeerstraat"
+  ]
 }

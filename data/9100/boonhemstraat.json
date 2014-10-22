@@ -1,20 +1,18 @@
 {
-  "pcode": 9100, 
   "addresses": [
     {
-      "lat": 51.16726158388296, 
       "housenumber": "1", 
+      "lat": 51.16726158388296, 
+      "lon": 4.138705575756376, 
       "pcode": 9100, 
-      "street": "Boonhemstraat", 
-      "lon": 4.138705575756376
+      "street": "Boonhemstraat"
     }, 
     {
-      "lat": 51.16765535998706, 
       "housenumber": "2", 
+      "lat": 51.16765535998706, 
+      "lon": 4.139022035797067, 
       "pcode": 9100, 
-      "street": "Boonhemstraat", 
-      "lon": 4.139022035797067
+      "street": "Boonhemstraat"
     }
-  ], 
-  "name": "Boonhemstraat"
+  ]
 }

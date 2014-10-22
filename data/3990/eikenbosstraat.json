@@ -1,23 +1,21 @@
 {
-  "pcode": 3990, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3990, 
-      "street": "Eikenbosstraat", 
-      "housenumber": "1"
+      "street": "Eikenbosstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3990, 
-      "street": "Eikenbosstraat", 
-      "housenumber": "3"
+      "street": "Eikenbosstraat"
     }, 
     {
-      "lat": 51.127376650354854, 
       "housenumber": "5", 
+      "lat": 51.127376650354854, 
+      "lon": 5.464279535674444, 
       "pcode": 3990, 
-      "street": "Eikenbosstraat", 
-      "lon": 5.464279535674444
+      "street": "Eikenbosstraat"
     }
-  ], 
-  "name": "Eikenbosstraat"
+  ]
 }

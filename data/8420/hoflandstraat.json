@@ -1,20 +1,18 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
-      "lat": 51.24178976374816, 
       "housenumber": "3", 
+      "lat": 51.24178976374816, 
+      "lon": 3.021189256740387, 
       "pcode": 8420, 
-      "street": "Hoflandstraat", 
-      "lon": 3.021189256740387
+      "street": "Hoflandstraat"
     }, 
     {
-      "lat": 51.24146033931879, 
       "housenumber": "4", 
+      "lat": 51.24146033931879, 
+      "lon": 3.021493809791017, 
       "pcode": 8420, 
-      "street": "Hoflandstraat", 
-      "lon": 3.021493809791017
+      "street": "Hoflandstraat"
     }
-  ], 
-  "name": "Hoflandstraat"
+  ]
 }

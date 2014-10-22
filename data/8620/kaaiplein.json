@@ -1,18 +1,16 @@
 {
-  "pcode": 8620, 
   "addresses": [
     {
-      "lat": 51.13356799347188, 
       "housenumber": "1", 
+      "lat": 51.13356799347188, 
+      "lon": 2.7470583174597265, 
       "pcode": 8620, 
-      "street": "Kaaiplein", 
-      "lon": 2.7470583174597265
+      "street": "Kaaiplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8620, 
-      "street": "Kaaiplein", 
-      "housenumber": "2"
+      "street": "Kaaiplein"
     }
-  ], 
-  "name": "Kaaiplein"
+  ]
 }

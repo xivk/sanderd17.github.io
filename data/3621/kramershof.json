@@ -1,51 +1,49 @@
 {
-  "pcode": 3621, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3621, 
-      "street": "Kramershof", 
-      "housenumber": "10"
+      "street": "Kramershof"
     }, 
     {
-      "lat": 50.9272149427576, 
       "housenumber": "13", 
+      "lat": 50.9272149427576, 
+      "lon": 5.685208841448393, 
       "pcode": 3621, 
-      "street": "Kramershof", 
-      "lon": 5.685208841448393
+      "street": "Kramershof"
     }, 
     {
-      "lat": 50.92664789035159, 
       "housenumber": "18", 
+      "lat": 50.92664789035159, 
+      "lon": 5.684559877478433, 
       "pcode": 3621, 
-      "street": "Kramershof", 
-      "lon": 5.684559877478433
+      "street": "Kramershof"
     }, 
     {
-      "lat": 50.92689565686043, 
       "housenumber": "19", 
+      "lat": 50.92689565686043, 
+      "lon": 5.684994599964477, 
       "pcode": 3621, 
-      "street": "Kramershof", 
-      "lon": 5.684994599964477
+      "street": "Kramershof"
     }, 
     {
-      "lat": 50.926526754346995, 
       "housenumber": "20", 
+      "lat": 50.926526754346995, 
+      "lon": 5.684514512894437, 
       "pcode": 3621, 
-      "street": "Kramershof", 
-      "lon": 5.684514512894437
+      "street": "Kramershof"
     }, 
     {
+      "housenumber": "21", 
       "pcode": 3621, 
-      "street": "Kramershof", 
-      "housenumber": "21"
+      "street": "Kramershof"
     }, 
     {
-      "lat": 50.92736617087432, 
       "housenumber": "5", 
+      "lat": 50.92736617087432, 
+      "lon": 5.684566800415927, 
       "pcode": 3621, 
-      "street": "Kramershof", 
-      "lon": 5.684566800415927
+      "street": "Kramershof"
     }
-  ], 
-  "name": "Kramershof"
+  ]
 }

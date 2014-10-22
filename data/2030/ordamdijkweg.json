@@ -1,32 +1,30 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.27550497868218, 
       "housenumber": "11", 
+      "lat": 51.27550497868218, 
+      "lon": 4.328419077311258, 
       "pcode": 2030, 
-      "street": "Ordamdijkweg", 
-      "lon": 4.328419077311258
+      "street": "Ordamdijkweg"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 2030, 
-      "street": "Ordamdijkweg", 
-      "housenumber": "12"
+      "street": "Ordamdijkweg"
     }, 
     {
-      "lat": 51.27542295753013, 
       "housenumber": "13", 
+      "lat": 51.27542295753013, 
+      "lon": 4.3285418122501245, 
       "pcode": 2030, 
-      "street": "Ordamdijkweg", 
-      "lon": 4.3285418122501245
+      "street": "Ordamdijkweg"
     }, 
     {
-      "lat": 51.27586673738103, 
       "housenumber": "9", 
+      "lat": 51.27586673738103, 
+      "lon": 4.328104222066502, 
       "pcode": 2030, 
-      "street": "Ordamdijkweg", 
-      "lon": 4.328104222066502
+      "street": "Ordamdijkweg"
     }
-  ], 
-  "name": "Ordamdijkweg"
+  ]
 }

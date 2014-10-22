@@ -1,20 +1,18 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
-      "lat": 51.34887242241392, 
       "housenumber": "4", 
+      "lat": 51.34887242241392, 
+      "lon": 3.293317615990611, 
       "pcode": 8300, 
-      "street": "Golfpad", 
-      "lon": 3.293317615990611
+      "street": "Golfpad"
     }, 
     {
-      "lat": 51.348879136804456, 
       "housenumber": "6", 
+      "lat": 51.348879136804456, 
+      "lon": 3.2930270757256523, 
       "pcode": 8300, 
-      "street": "Golfpad", 
-      "lon": 3.2930270757256523
+      "street": "Golfpad"
     }
-  ], 
-  "name": "Golfpad"
+  ]
 }

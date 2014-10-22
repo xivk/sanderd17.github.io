@@ -1,27 +1,25 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.73398280946291, 
       "housenumber": "13", 
+      "lat": 50.73398280946291, 
+      "lon": 5.414916194693316, 
       "pcode": 3700, 
-      "street": "Herstappelstraat", 
-      "lon": 5.414916194693316
+      "street": "Herstappelstraat"
     }, 
     {
-      "lat": 50.73484596716939, 
       "housenumber": "5", 
+      "lat": 50.73484596716939, 
+      "lon": 5.414468001417127, 
       "pcode": 3700, 
-      "street": "Herstappelstraat", 
-      "lon": 5.414468001417127
+      "street": "Herstappelstraat"
     }, 
     {
-      "lat": 50.7344770179139, 
       "housenumber": "7", 
+      "lat": 50.7344770179139, 
+      "lon": 5.414655878083649, 
       "pcode": 3700, 
-      "street": "Herstappelstraat", 
-      "lon": 5.414655878083649
+      "street": "Herstappelstraat"
     }
-  ], 
-  "name": "Herstappelstraat"
+  ]
 }

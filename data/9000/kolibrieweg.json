@@ -1,20 +1,18 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.029968016813214, 
       "housenumber": "1", 
+      "lat": 51.029968016813214, 
+      "lon": 3.725659562233215, 
       "pcode": 9000, 
-      "street": "Kolibrieweg", 
-      "lon": 3.725659562233215
+      "street": "Kolibrieweg"
     }, 
     {
-      "lat": 51.029878091968065, 
       "housenumber": "3", 
+      "lat": 51.029878091968065, 
+      "lon": 3.725538484539003, 
       "pcode": 9000, 
-      "street": "Kolibrieweg", 
-      "lon": 3.725538484539003
+      "street": "Kolibrieweg"
     }
-  ], 
-  "name": "Kolibrieweg"
+  ]
 }

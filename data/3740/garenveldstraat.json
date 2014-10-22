@@ -1,20 +1,18 @@
 {
-  "pcode": 3740, 
   "addresses": [
     {
-      "lat": 50.842862103065315, 
       "housenumber": "1", 
+      "lat": 50.842862103065315, 
+      "lon": 5.578903967070713, 
       "pcode": 3740, 
-      "street": "Garenveldstraat", 
-      "lon": 5.578903967070713
+      "street": "Garenveldstraat"
     }, 
     {
-      "lat": 50.842886297247915, 
       "housenumber": "3", 
+      "lat": 50.842886297247915, 
+      "lon": 5.579059797030122, 
       "pcode": 3740, 
-      "street": "Garenveldstraat", 
-      "lon": 5.579059797030122
+      "street": "Garenveldstraat"
     }
-  ], 
-  "name": "Garenveldstraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.80098243959832, 
       "housenumber": "5", 
+      "lat": 50.80098243959832, 
+      "lon": 4.925512411899659, 
       "pcode": 3300, 
-      "street": "Mulkplein", 
-      "lon": 4.925512411899659
+      "street": "Mulkplein"
     }, 
     {
-      "lat": 50.800939242264754, 
       "housenumber": "7", 
+      "lat": 50.800939242264754, 
+      "lon": 4.925295281066429, 
       "pcode": 3300, 
-      "street": "Mulkplein", 
-      "lon": 4.925295281066429
+      "street": "Mulkplein"
     }, 
     {
-      "lat": 50.80090540452535, 
       "housenumber": "9", 
+      "lat": 50.80090540452535, 
+      "lon": 4.925038115297134, 
       "pcode": 3300, 
-      "street": "Mulkplein", 
-      "lon": 4.925038115297134
+      "street": "Mulkplein"
     }
-  ], 
-  "name": "Mulkplein"
+  ]
 }

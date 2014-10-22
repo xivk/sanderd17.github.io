@@ -1,37 +1,35 @@
 {
-  "pcode": 9185, 
   "addresses": [
     {
-      "lat": 51.17218153706799, 
       "housenumber": "1", 
+      "lat": 51.17218153706799, 
+      "lon": 3.858029056410031, 
       "pcode": 9185, 
-      "street": "Azalealaan", 
-      "lon": 3.858029056410031
+      "street": "Azalealaan"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9185, 
-      "street": "Azalealaan", 
-      "housenumber": "2"
+      "street": "Azalealaan"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 9185, 
-      "street": "Azalealaan", 
-      "housenumber": "2A"
+      "street": "Azalealaan"
     }, 
     {
-      "lat": 51.17227768203507, 
       "housenumber": "3", 
+      "lat": 51.17227768203507, 
+      "lon": 3.8582291886736106, 
       "pcode": 9185, 
-      "street": "Azalealaan", 
-      "lon": 3.8582291886736106
+      "street": "Azalealaan"
     }, 
     {
-      "lat": 51.172292823586226, 
       "housenumber": "4", 
+      "lat": 51.172292823586226, 
+      "lon": 3.8573646660811427, 
       "pcode": 9185, 
-      "street": "Azalealaan", 
-      "lon": 3.8573646660811427
+      "street": "Azalealaan"
     }
-  ], 
-  "name": "Azalealaan"
+  ]
 }

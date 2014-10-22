@@ -1,30 +1,28 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8000, 
-      "street": "Oude Zomerstraat", 
-      "housenumber": "1"
+      "street": "Oude Zomerstraat"
     }, 
     {
-      "lat": 51.20709000798501, 
       "housenumber": "2", 
+      "lat": 51.20709000798501, 
+      "lon": 3.2240179693531408, 
       "pcode": 8000, 
-      "street": "Oude Zomerstraat", 
-      "lon": 3.2240179693531408
+      "street": "Oude Zomerstraat"
     }, 
     {
-      "lat": 51.2071064882692, 
       "housenumber": "3", 
+      "lat": 51.2071064882692, 
+      "lon": 3.224225357137982, 
       "pcode": 8000, 
-      "street": "Oude Zomerstraat", 
-      "lon": 3.224225357137982
+      "street": "Oude Zomerstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8000, 
-      "street": "Oude Zomerstraat", 
-      "housenumber": "4"
+      "street": "Oude Zomerstraat"
     }
-  ], 
-  "name": "Oude Zomerstraat"
+  ]
 }

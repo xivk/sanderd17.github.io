@@ -1,27 +1,25 @@
 {
-  "pcode": 9400, 
   "addresses": [
     {
-      "lat": 50.85330781262228, 
       "housenumber": "1", 
+      "lat": 50.85330781262228, 
+      "lon": 4.0124346255469066, 
       "pcode": 9400, 
-      "street": "Ruysbroeckbaan", 
-      "lon": 4.0124346255469066
+      "street": "Ruysbroeckbaan"
     }, 
     {
-      "lat": 50.858540498172346, 
       "housenumber": "209", 
+      "lat": 50.858540498172346, 
+      "lon": 4.005540480652883, 
       "pcode": 9400, 
-      "street": "Ruysbroeckbaan", 
-      "lon": 4.005540480652883
+      "street": "Ruysbroeckbaan"
     }, 
     {
-      "lat": 50.852857317339115, 
       "housenumber": "4", 
+      "lat": 50.852857317339115, 
+      "lon": 4.012099899781701, 
       "pcode": 9400, 
-      "street": "Ruysbroeckbaan", 
-      "lon": 4.012099899781701
+      "street": "Ruysbroeckbaan"
     }
-  ], 
-  "name": "Ruysbroeckbaan"
+  ]
 }

@@ -1,41 +1,39 @@
 {
-  "pcode": 1982, 
   "addresses": [
     {
-      "lat": 50.98170750693714, 
       "housenumber": "10", 
-      "pcode": 1982, 
-      "street": "Gulderij", 
-      "lon": 4.47410040373291
-    }, 
-    {
-      "lat": 50.98188854012254, 
-      "housenumber": "12", 
-      "pcode": 1982, 
-      "street": "Gulderij", 
-      "lon": 4.474209466805181
-    }, 
-    {
-      "lat": 50.98231487371071, 
-      "housenumber": "20", 
-      "pcode": 1982, 
-      "street": "Gulderij", 
-      "lon": 4.476986889541691
-    }, 
-    {
-      "lat": 50.982840344976445, 
-      "housenumber": "6", 
-      "pcode": 1982, 
-      "street": "Gulderij", 
-      "lon": 4.474073346226176
-    }, 
-    {
       "lat": 50.98170750693714, 
-      "housenumber": "8", 
+      "lon": 4.47410040373291, 
       "pcode": 1982, 
-      "street": "Gulderij", 
-      "lon": 4.47410040373291
+      "street": "Gulderij"
+    }, 
+    {
+      "housenumber": "12", 
+      "lat": 50.98188854012254, 
+      "lon": 4.474209466805181, 
+      "pcode": 1982, 
+      "street": "Gulderij"
+    }, 
+    {
+      "housenumber": "20", 
+      "lat": 50.98231487371071, 
+      "lon": 4.476986889541691, 
+      "pcode": 1982, 
+      "street": "Gulderij"
+    }, 
+    {
+      "housenumber": "6", 
+      "lat": 50.982840344976445, 
+      "lon": 4.474073346226176, 
+      "pcode": 1982, 
+      "street": "Gulderij"
+    }, 
+    {
+      "housenumber": "8", 
+      "lat": 50.98170750693714, 
+      "lon": 4.47410040373291, 
+      "pcode": 1982, 
+      "street": "Gulderij"
     }
-  ], 
-  "name": "Gulderij"
+  ]
 }

@@ -1,46 +1,44 @@
 {
-  "pcode": 2370, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2370, 
-      "street": "Vrieskens", 
-      "housenumber": "1"
+      "street": "Vrieskens"
     }, 
     {
-      "lat": 51.334812095473545, 
       "housenumber": "11", 
+      "lat": 51.334812095473545, 
+      "lon": 5.101222985839855, 
       "pcode": 2370, 
-      "street": "Vrieskens", 
-      "lon": 5.101222985839855
+      "street": "Vrieskens"
     }, 
     {
-      "lat": 51.334791250471625, 
       "housenumber": "3", 
+      "lat": 51.334791250471625, 
+      "lon": 5.100378360643596, 
       "pcode": 2370, 
-      "street": "Vrieskens", 
-      "lon": 5.100378360643596
+      "street": "Vrieskens"
     }, 
     {
-      "lat": 51.33476310642395, 
       "housenumber": "5", 
+      "lat": 51.33476310642395, 
+      "lon": 5.100583682388269, 
       "pcode": 2370, 
-      "street": "Vrieskens", 
-      "lon": 5.100583682388269
+      "street": "Vrieskens"
     }, 
     {
-      "lat": 51.33472577463441, 
       "housenumber": "7", 
+      "lat": 51.33472577463441, 
+      "lon": 5.1008066519112685, 
       "pcode": 2370, 
-      "street": "Vrieskens", 
-      "lon": 5.1008066519112685
+      "street": "Vrieskens"
     }, 
     {
-      "lat": 51.33478895697367, 
       "housenumber": "9", 
+      "lat": 51.33478895697367, 
+      "lon": 5.101040244996305, 
       "pcode": 2370, 
-      "street": "Vrieskens", 
-      "lon": 5.101040244996305
+      "street": "Vrieskens"
     }
-  ], 
-  "name": "Vrieskens"
+  ]
 }

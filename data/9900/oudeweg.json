@@ -1,20 +1,18 @@
 {
-  "pcode": 9900, 
   "addresses": [
     {
-      "lat": 51.17440426720184, 
       "housenumber": "1", 
+      "lat": 51.17440426720184, 
+      "lon": 3.5525082070302085, 
       "pcode": 9900, 
-      "street": "Oude Weg", 
-      "lon": 3.5525082070302085
+      "street": "Oude Weg"
     }, 
     {
-      "lat": 51.17344711243304, 
       "housenumber": "2", 
+      "lat": 51.17344711243304, 
+      "lon": 3.5517150025799884, 
       "pcode": 9900, 
-      "street": "Oude Weg", 
-      "lon": 3.5517150025799884
+      "street": "Oude Weg"
     }
-  ], 
-  "name": "Oude Weg"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2250, 
   "addresses": [
     {
-      "lat": 51.14987854304498, 
       "housenumber": "1", 
+      "lat": 51.14987854304498, 
+      "lon": 4.8819803283823715, 
       "pcode": 2250, 
-      "street": "De Langel", 
-      "lon": 4.8819803283823715
+      "street": "De Langel"
     }, 
     {
-      "lat": 51.15114722560489, 
       "housenumber": "2", 
+      "lat": 51.15114722560489, 
+      "lon": 4.883897731306847, 
       "pcode": 2250, 
-      "street": "De Langel", 
-      "lon": 4.883897731306847
+      "street": "De Langel"
     }
-  ], 
-  "name": "De Langel"
+  ]
 }

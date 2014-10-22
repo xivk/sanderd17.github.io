@@ -1,25 +1,23 @@
 {
-  "pcode": 9290, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 9290, 
-      "street": "Bauwensstraat", 
-      "housenumber": "10"
+      "street": "Bauwensstraat"
     }, 
     {
-      "lat": 51.027055314249615, 
       "housenumber": "2", 
+      "lat": 51.027055314249615, 
+      "lon": 4.009009021564362, 
       "pcode": 9290, 
-      "street": "Bauwensstraat", 
-      "lon": 4.009009021564362
+      "street": "Bauwensstraat"
     }, 
     {
-      "lat": 51.027062995330326, 
       "housenumber": "4", 
+      "lat": 51.027062995330326, 
+      "lon": 4.009051725248066, 
       "pcode": 9290, 
-      "street": "Bauwensstraat", 
-      "lon": 4.009051725248066
+      "street": "Bauwensstraat"
     }
-  ], 
-  "name": "Bauwensstraat"
+  ]
 }

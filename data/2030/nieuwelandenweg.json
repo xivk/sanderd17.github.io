@@ -1,63 +1,61 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2030, 
-      "street": "Nieuwelandenweg", 
-      "housenumber": "1"
+      "street": "Nieuwelandenweg"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2030, 
-      "street": "Nieuwelandenweg", 
-      "housenumber": "2"
+      "street": "Nieuwelandenweg"
     }, 
     {
-      "lat": 51.27581280603028, 
       "housenumber": "32", 
+      "lat": 51.27581280603028, 
+      "lon": 4.387098801201205, 
       "pcode": 2030, 
-      "street": "Nieuwelandenweg", 
-      "lon": 4.387098801201205
+      "street": "Nieuwelandenweg"
     }, 
     {
-      "lat": 51.27409141340582, 
       "housenumber": "4", 
+      "lat": 51.27409141340582, 
+      "lon": 4.400595030269815, 
       "pcode": 2030, 
-      "street": "Nieuwelandenweg", 
-      "lon": 4.400595030269815
+      "street": "Nieuwelandenweg"
     }, 
     {
-      "lat": 51.27528192598449, 
       "housenumber": "40", 
+      "lat": 51.27528192598449, 
+      "lon": 4.387875269798629, 
       "pcode": 2030, 
-      "street": "Nieuwelandenweg", 
-      "lon": 4.387875269798629
+      "street": "Nieuwelandenweg"
     }, 
     {
-      "lat": 51.27594125884015, 
       "housenumber": "5", 
+      "lat": 51.27594125884015, 
+      "lon": 4.398275690531362, 
       "pcode": 2030, 
-      "street": "Nieuwelandenweg", 
-      "lon": 4.398275690531362
+      "street": "Nieuwelandenweg"
     }, 
     {
+      "housenumber": "5B", 
       "pcode": 2030, 
-      "street": "Nieuwelandenweg", 
-      "housenumber": "5B"
+      "street": "Nieuwelandenweg"
     }, 
     {
-      "lat": 51.27470865074892, 
       "housenumber": "6", 
+      "lat": 51.27470865074892, 
+      "lon": 4.400529401022366, 
       "pcode": 2030, 
-      "street": "Nieuwelandenweg", 
-      "lon": 4.400529401022366
+      "street": "Nieuwelandenweg"
     }, 
     {
-      "lat": 51.27567840715587, 
       "housenumber": "9", 
+      "lat": 51.27567840715587, 
+      "lon": 4.3934593113353415, 
       "pcode": 2030, 
-      "street": "Nieuwelandenweg", 
-      "lon": 4.3934593113353415
+      "street": "Nieuwelandenweg"
     }
-  ], 
-  "name": "Nieuwelandenweg"
+  ]
 }

@@ -1,49 +1,47 @@
 {
-  "pcode": 3560, 
   "addresses": [
     {
-      "lat": 51.01547531987602, 
       "housenumber": "1", 
+      "lat": 51.01547531987602, 
+      "lon": 5.1350669280127725, 
       "pcode": 3560, 
-      "street": "Graafstraat", 
-      "lon": 5.1350669280127725
+      "street": "Graafstraat"
     }, 
     {
-      "lat": 51.015279689874106, 
       "housenumber": "1A", 
+      "lat": 51.015279689874106, 
+      "lon": 5.1345314419670975, 
       "pcode": 3560, 
-      "street": "Graafstraat", 
-      "lon": 5.1345314419670975
+      "street": "Graafstraat"
     }, 
     {
-      "lat": 51.01620705736201, 
       "housenumber": "1B", 
+      "lat": 51.01620705736201, 
+      "lon": 5.136914930278151, 
       "pcode": 3560, 
-      "street": "Graafstraat", 
-      "lon": 5.136914930278151
+      "street": "Graafstraat"
     }, 
     {
-      "lat": 51.015095006070474, 
       "housenumber": "2", 
+      "lat": 51.015095006070474, 
+      "lon": 5.138228302230977, 
       "pcode": 3560, 
-      "street": "Graafstraat", 
-      "lon": 5.138228302230977
+      "street": "Graafstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3560, 
-      "street": "Graafstraat", 
-      "housenumber": "3"
+      "street": "Graafstraat"
     }, 
     {
+      "housenumber": "3B", 
       "pcode": 3560, 
-      "street": "Graafstraat", 
-      "housenumber": "3B"
+      "street": "Graafstraat"
     }, 
     {
+      "housenumber": "zn", 
       "pcode": 3560, 
-      "street": "Graafstraat", 
-      "housenumber": "zn"
+      "street": "Graafstraat"
     }
-  ], 
-  "name": "Graafstraat"
+  ]
 }

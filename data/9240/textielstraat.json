@@ -1,37 +1,35 @@
 {
-  "pcode": 9240, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9240, 
-      "street": "Textielstraat", 
-      "housenumber": "1"
+      "street": "Textielstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9240, 
-      "street": "Textielstraat", 
-      "housenumber": "2"
+      "street": "Textielstraat"
     }, 
     {
-      "lat": 51.07141917168715, 
       "housenumber": "4", 
+      "lat": 51.07141917168715, 
+      "lon": 4.052539095153752, 
       "pcode": 9240, 
-      "street": "Textielstraat", 
-      "lon": 4.052539095153752
+      "street": "Textielstraat"
     }, 
     {
-      "lat": 51.07222633842759, 
       "housenumber": "5", 
+      "lat": 51.07222633842759, 
+      "lon": 4.0525233779776135, 
       "pcode": 9240, 
-      "street": "Textielstraat", 
-      "lon": 4.0525233779776135
+      "street": "Textielstraat"
     }, 
     {
-      "lat": 51.07137228321822, 
       "housenumber": "6", 
+      "lat": 51.07137228321822, 
+      "lon": 4.0533249885909965, 
       "pcode": 9240, 
-      "street": "Textielstraat", 
-      "lon": 4.0533249885909965
+      "street": "Textielstraat"
     }
-  ], 
-  "name": "Textielstraat"
+  ]
 }

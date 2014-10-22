@@ -1,20 +1,18 @@
 {
-  "pcode": 3440, 
   "addresses": [
     {
-      "lat": 50.84847019723027, 
       "housenumber": "2", 
+      "lat": 50.84847019723027, 
+      "lon": 5.125663048678992, 
       "pcode": 3440, 
-      "street": "Pijpstraat", 
-      "lon": 5.125663048678992
+      "street": "Pijpstraat"
     }, 
     {
-      "lat": 50.848782168196436, 
       "housenumber": "3", 
+      "lat": 50.848782168196436, 
+      "lon": 5.125604457758665, 
       "pcode": 3440, 
-      "street": "Pijpstraat", 
-      "lon": 5.125604457758665
+      "street": "Pijpstraat"
     }
-  ], 
-  "name": "Pijpstraat"
+  ]
 }

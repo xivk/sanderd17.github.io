@@ -1,20 +1,18 @@
 {
-  "pcode": 3050, 
   "addresses": [
     {
-      "lat": 50.83335282707208, 
       "housenumber": "2", 
+      "lat": 50.83335282707208, 
+      "lon": 4.6625710823358135, 
       "pcode": 3050, 
-      "street": "Eikenlaan", 
-      "lon": 4.6625710823358135
+      "street": "Eikenlaan"
     }, 
     {
-      "lat": 50.83321070908024, 
       "housenumber": "4", 
+      "lat": 50.83321070908024, 
+      "lon": 4.662925644355494, 
       "pcode": 3050, 
-      "street": "Eikenlaan", 
-      "lon": 4.662925644355494
+      "street": "Eikenlaan"
     }
-  ], 
-  "name": "Eikenlaan"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8900, 
   "addresses": [
     {
-      "lat": 50.851280814928785, 
       "housenumber": "2", 
+      "lat": 50.851280814928785, 
+      "lon": 2.888926147207911, 
       "pcode": 8900, 
-      "street": "Harpestraat", 
-      "lon": 2.888926147207911
+      "street": "Harpestraat"
     }, 
     {
-      "lat": 50.85123772979649, 
       "housenumber": "4", 
+      "lat": 50.85123772979649, 
+      "lon": 2.888960455395066, 
       "pcode": 8900, 
-      "street": "Harpestraat", 
-      "lon": 2.888960455395066
+      "street": "Harpestraat"
     }
-  ], 
-  "name": "Harpestraat"
+  ]
 }

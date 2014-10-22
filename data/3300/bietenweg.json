@@ -1,67 +1,65 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3300, 
-      "street": "Bietenweg", 
-      "housenumber": "10"
+      "street": "Bietenweg"
     }, 
     {
-      "lat": 50.79678126519441, 
       "housenumber": "14", 
+      "lat": 50.79678126519441, 
+      "lon": 4.9521805028895525, 
       "pcode": 3300, 
-      "street": "Bietenweg", 
-      "lon": 4.9521805028895525
+      "street": "Bietenweg"
     }, 
     {
-      "lat": 50.796801565052114, 
       "housenumber": "16", 
+      "lat": 50.796801565052114, 
+      "lon": 4.951678899601624, 
       "pcode": 3300, 
-      "street": "Bietenweg", 
-      "lon": 4.951678899601624
+      "street": "Bietenweg"
     }, 
     {
-      "lat": 50.79655222895558, 
       "housenumber": "2", 
+      "lat": 50.79655222895558, 
+      "lon": 4.954532452577978, 
       "pcode": 3300, 
-      "street": "Bietenweg", 
-      "lon": 4.954532452577978
+      "street": "Bietenweg"
     }, 
     {
-      "lat": 50.79714934401838, 
       "housenumber": "20", 
+      "lat": 50.79714934401838, 
+      "lon": 4.951163480998747, 
       "pcode": 3300, 
-      "street": "Bietenweg", 
-      "lon": 4.951163480998747
+      "street": "Bietenweg"
     }, 
     {
-      "lat": 50.796614218909305, 
       "housenumber": "22", 
+      "lat": 50.796614218909305, 
+      "lon": 4.950901668209879, 
       "pcode": 3300, 
-      "street": "Bietenweg", 
-      "lon": 4.950901668209879
+      "street": "Bietenweg"
     }, 
     {
-      "lat": 50.79664499377926, 
       "housenumber": "4", 
+      "lat": 50.79664499377926, 
+      "lon": 4.954031613109988, 
       "pcode": 3300, 
-      "street": "Bietenweg", 
-      "lon": 4.954031613109988
+      "street": "Bietenweg"
     }, 
     {
-      "lat": 50.79667357748345, 
       "housenumber": "6", 
+      "lat": 50.79667357748345, 
+      "lon": 4.953618911135703, 
       "pcode": 3300, 
-      "street": "Bietenweg", 
-      "lon": 4.953618911135703
+      "street": "Bietenweg"
     }, 
     {
-      "lat": 50.79665206562578, 
       "housenumber": "8", 
+      "lat": 50.79665206562578, 
+      "lon": 4.953012248670567, 
       "pcode": 3300, 
-      "street": "Bietenweg", 
-      "lon": 4.953012248670567
+      "street": "Bietenweg"
     }
-  ], 
-  "name": "Bietenweg"
+  ]
 }

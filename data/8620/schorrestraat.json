@@ -1,27 +1,25 @@
 {
-  "pcode": 8620, 
   "addresses": [
     {
-      "lat": 51.15237819854262, 
       "housenumber": "2", 
+      "lat": 51.15237819854262, 
+      "lon": 2.748704012483593, 
       "pcode": 8620, 
-      "street": "Schorrestraat", 
-      "lon": 2.748704012483593
+      "street": "Schorrestraat"
     }, 
     {
-      "lat": 51.15094179183412, 
       "housenumber": "4", 
+      "lat": 51.15094179183412, 
+      "lon": 2.747043689604206, 
       "pcode": 8620, 
-      "street": "Schorrestraat", 
-      "lon": 2.747043689604206
+      "street": "Schorrestraat"
     }, 
     {
-      "lat": 49.293335165093566, 
       "housenumber": "6", 
+      "lat": 49.293335165093566, 
+      "lon": 2.306689562140502, 
       "pcode": 8620, 
-      "street": "Schorrestraat", 
-      "lon": 2.306689562140502
+      "street": "Schorrestraat"
     }
-  ], 
-  "name": "Schorrestraat"
+  ]
 }

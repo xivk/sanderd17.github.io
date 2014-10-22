@@ -1,32 +1,30 @@
 {
-  "pcode": 3360, 
   "addresses": [
     {
-      "lat": 50.83283471969345, 
       "housenumber": "1", 
+      "lat": 50.83283471969345, 
+      "lon": 4.7980065057921015, 
       "pcode": 3360, 
-      "street": "Katspoelstraat", 
-      "lon": 4.7980065057921015
+      "street": "Katspoelstraat"
     }, 
     {
-      "lat": 50.833428140902434, 
       "housenumber": "2", 
+      "lat": 50.833428140902434, 
+      "lon": 4.794853844946565, 
       "pcode": 3360, 
-      "street": "Katspoelstraat", 
-      "lon": 4.794853844946565
+      "street": "Katspoelstraat"
     }, 
     {
+      "housenumber": "2B", 
       "pcode": 3360, 
-      "street": "Katspoelstraat", 
-      "housenumber": "2B"
+      "street": "Katspoelstraat"
     }, 
     {
-      "lat": 50.82855625644586, 
       "housenumber": "4", 
+      "lat": 50.82855625644586, 
+      "lon": 4.801666370674212, 
       "pcode": 3360, 
-      "street": "Katspoelstraat", 
-      "lon": 4.801666370674212
+      "street": "Katspoelstraat"
     }
-  ], 
-  "name": "Katspoelstraat"
+  ]
 }

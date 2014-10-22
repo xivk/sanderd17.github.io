@@ -1,23 +1,21 @@
 {
-  "pcode": 9120, 
   "addresses": [
     {
-      "lat": 51.232688594581674, 
       "housenumber": "1", 
+      "lat": 51.232688594581674, 
+      "lon": 4.24760532589377, 
       "pcode": 9120, 
-      "street": "Kasteelstraat", 
-      "lon": 4.24760532589377
+      "street": "Kasteelstraat"
     }, 
     {
+      "housenumber": "14", 
       "pcode": 9120, 
-      "street": "Kasteelstraat", 
-      "housenumber": "14"
+      "street": "Kasteelstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9120, 
-      "street": "Kasteelstraat", 
-      "housenumber": "2"
+      "street": "Kasteelstraat"
     }
-  ], 
-  "name": "Kasteelstraat"
+  ]
 }

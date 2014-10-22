@@ -1,25 +1,23 @@
 {
-  "pcode": 2100, 
   "addresses": [
     {
-      "lat": 51.216792754453316, 
       "housenumber": "1", 
+      "lat": 51.216792754453316, 
+      "lon": 4.480545683086468, 
       "pcode": 2100, 
-      "street": "Ter Rivierenhof", 
-      "lon": 4.480545683086468
+      "street": "Ter Rivierenhof"
     }, 
     {
-      "lat": 51.21738346448847, 
       "housenumber": "2", 
+      "lat": 51.21738346448847, 
+      "lon": 4.466659966023937, 
       "pcode": 2100, 
-      "street": "Ter Rivierenhof", 
-      "lon": 4.466659966023937
+      "street": "Ter Rivierenhof"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2100, 
-      "street": "Ter Rivierenhof", 
-      "housenumber": "4"
+      "street": "Ter Rivierenhof"
     }
-  ], 
-  "name": "Ter Rivierenhof"
+  ]
 }

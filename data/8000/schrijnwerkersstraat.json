@@ -1,20 +1,18 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.21278488222566, 
       "housenumber": "2", 
+      "lat": 51.21278488222566, 
+      "lon": 3.2282179453269206, 
       "pcode": 8000, 
-      "street": "Schrijnwerkersstraat", 
-      "lon": 3.2282179453269206
+      "street": "Schrijnwerkersstraat"
     }, 
     {
-      "lat": 51.21290480761175, 
       "housenumber": "4", 
+      "lat": 51.21290480761175, 
+      "lon": 3.2281719333250565, 
       "pcode": 8000, 
-      "street": "Schrijnwerkersstraat", 
-      "lon": 3.2281719333250565
+      "street": "Schrijnwerkersstraat"
     }
-  ], 
-  "name": "Schrijnwerkersstraat"
+  ]
 }

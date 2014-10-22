@@ -1,20 +1,18 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
-      "lat": 50.92875172427362, 
       "housenumber": "1", 
+      "lat": 50.92875172427362, 
+      "lon": 4.421777884446637, 
       "pcode": 1800, 
-      "street": "Peperstraat", 
-      "lon": 4.421777884446637
+      "street": "Peperstraat"
     }, 
     {
-      "lat": 50.92879933213817, 
       "housenumber": "3", 
+      "lat": 50.92879933213817, 
+      "lon": 4.42185531849, 
       "pcode": 1800, 
-      "street": "Peperstraat", 
-      "lon": 4.42185531849
+      "street": "Peperstraat"
     }
-  ], 
-  "name": "Peperstraat"
+  ]
 }

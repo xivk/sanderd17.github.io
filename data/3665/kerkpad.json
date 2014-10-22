@@ -1,20 +1,18 @@
 {
-  "pcode": 3665, 
   "addresses": [
     {
-      "lat": 51.008303422616905, 
       "housenumber": "14", 
+      "lat": 51.008303422616905, 
+      "lon": 5.584772491456153, 
       "pcode": 3665, 
-      "street": "Kerkpad", 
-      "lon": 5.584772491456153
+      "street": "Kerkpad"
     }, 
     {
-      "lat": 51.00888140525063, 
       "housenumber": "3", 
+      "lat": 51.00888140525063, 
+      "lon": 5.584685757321734, 
       "pcode": 3665, 
-      "street": "Kerkpad", 
-      "lon": 5.584685757321734
+      "street": "Kerkpad"
     }
-  ], 
-  "name": "Kerkpad"
+  ]
 }

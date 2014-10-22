@@ -1,20 +1,18 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.2211607145052, 
       "housenumber": "14", 
+      "lat": 51.2211607145052, 
+      "lon": 3.213504997719985, 
       "pcode": 8000, 
-      "street": "Veemarktstraat", 
-      "lon": 3.213504997719985
+      "street": "Veemarktstraat"
     }, 
     {
-      "lat": 51.222286326796414, 
       "housenumber": "3", 
+      "lat": 51.222286326796414, 
+      "lon": 3.213545980753637, 
       "pcode": 8000, 
-      "street": "Veemarktstraat", 
-      "lon": 3.213545980753637
+      "street": "Veemarktstraat"
     }
-  ], 
-  "name": "Veemarktstraat"
+  ]
 }

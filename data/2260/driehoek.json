@@ -1,20 +1,18 @@
 {
-  "pcode": 2260, 
   "addresses": [
     {
-      "lat": 51.10204791262385, 
       "housenumber": "104", 
+      "lat": 51.10204791262385, 
+      "lon": 4.85172349861228, 
       "pcode": 2260, 
-      "street": "Driehoek", 
-      "lon": 4.85172349861228
+      "street": "Driehoek"
     }, 
     {
-      "lat": 51.10086590196396, 
       "housenumber": "17", 
+      "lat": 51.10086590196396, 
+      "lon": 4.84125549455823, 
       "pcode": 2260, 
-      "street": "Driehoek", 
-      "lon": 4.84125549455823
+      "street": "Driehoek"
     }
-  ], 
-  "name": "Driehoek"
+  ]
 }

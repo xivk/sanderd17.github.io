@@ -1,25 +1,23 @@
 {
-  "pcode": 9120, 
   "addresses": [
     {
-      "lat": 51.2117176657853, 
       "housenumber": "2", 
+      "lat": 51.2117176657853, 
+      "lon": 4.261139101276216, 
       "pcode": 9120, 
-      "street": "Lange Dreef", 
-      "lon": 4.261139101276216
+      "street": "Lange Dreef"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9120, 
-      "street": "Lange Dreef", 
-      "housenumber": "4"
+      "street": "Lange Dreef"
     }, 
     {
-      "lat": 51.21198611763177, 
       "housenumber": "6", 
+      "lat": 51.21198611763177, 
+      "lon": 4.261900952410428, 
       "pcode": 9120, 
-      "street": "Lange Dreef", 
-      "lon": 4.261900952410428
+      "street": "Lange Dreef"
     }
-  ], 
-  "name": "Lange Dreef"
+  ]
 }

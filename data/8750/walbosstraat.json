@@ -1,20 +1,18 @@
 {
-  "pcode": 8750, 
   "addresses": [
     {
-      "lat": 51.052780754937444, 
       "housenumber": "2", 
+      "lat": 51.052780754937444, 
+      "lon": 3.3237443619020697, 
       "pcode": 8750, 
-      "street": "Walbosstraat", 
-      "lon": 3.3237443619020697
+      "street": "Walbosstraat"
     }, 
     {
-      "lat": 51.05259768774676, 
       "housenumber": "4", 
+      "lat": 51.05259768774676, 
+      "lon": 3.3250291413104653, 
       "pcode": 8750, 
-      "street": "Walbosstraat", 
-      "lon": 3.3250291413104653
+      "street": "Walbosstraat"
     }
-  ], 
-  "name": "Walbosstraat"
+  ]
 }

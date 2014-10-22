@@ -1,20 +1,18 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.92425193009677, 
       "housenumber": "3", 
+      "lat": 50.92425193009677, 
+      "lon": 5.539639283350267, 
       "pcode": 3600, 
-      "street": "Haverweg", 
-      "lon": 5.539639283350267
+      "street": "Haverweg"
     }, 
     {
-      "lat": 50.92592316297914, 
       "housenumber": "7", 
+      "lat": 50.92592316297914, 
+      "lon": 5.53901684118727, 
       "pcode": 3600, 
-      "street": "Haverweg", 
-      "lon": 5.53901684118727
+      "street": "Haverweg"
     }
-  ], 
-  "name": "Haverweg"
+  ]
 }

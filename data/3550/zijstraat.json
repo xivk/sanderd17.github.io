@@ -1,20 +1,18 @@
 {
-  "pcode": 3550, 
   "addresses": [
     {
-      "lat": 51.009751129986014, 
       "housenumber": "3", 
+      "lat": 51.009751129986014, 
+      "lon": 5.294269444605578, 
       "pcode": 3550, 
-      "street": "Zijstraat", 
-      "lon": 5.294269444605578
+      "street": "Zijstraat"
     }, 
     {
-      "lat": 51.00987761647225, 
       "housenumber": "7", 
+      "lat": 51.00987761647225, 
+      "lon": 5.293663759818832, 
       "pcode": 3550, 
-      "street": "Zijstraat", 
-      "lon": 5.293663759818832
+      "street": "Zijstraat"
     }
-  ], 
-  "name": "Zijstraat"
+  ]
 }

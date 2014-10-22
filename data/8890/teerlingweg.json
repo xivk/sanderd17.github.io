@@ -1,23 +1,21 @@
 {
-  "pcode": 8890, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8890, 
-      "street": "Teerlingweg", 
-      "housenumber": "1"
+      "street": "Teerlingweg"
     }, 
     {
-      "lat": 50.90310464386937, 
       "housenumber": "2", 
+      "lat": 50.90310464386937, 
+      "lon": 3.0795604479753713, 
       "pcode": 8890, 
-      "street": "Teerlingweg", 
-      "lon": 3.0795604479753713
+      "street": "Teerlingweg"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8890, 
-      "street": "Teerlingweg", 
-      "housenumber": "3"
+      "street": "Teerlingweg"
     }
-  ], 
-  "name": "Teerlingweg"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 50.97601168202437, 
       "housenumber": "1", 
+      "lat": 50.97601168202437, 
+      "lon": 3.4279925112090988, 
       "pcode": 9800, 
-      "street": "Groeneweg", 
-      "lon": 3.4279925112090988
+      "street": "Groeneweg"
     }, 
     {
-      "lat": 50.971677098989524, 
       "housenumber": "15", 
+      "lat": 50.971677098989524, 
+      "lon": 3.4350908093716854, 
       "pcode": 9800, 
-      "street": "Groeneweg", 
-      "lon": 3.4350908093716854
+      "street": "Groeneweg"
     }, 
     {
+      "housenumber": "17", 
       "pcode": 9800, 
-      "street": "Groeneweg", 
-      "housenumber": "17"
+      "street": "Groeneweg"
     }, 
     {
-      "lat": 50.96946337532108, 
       "housenumber": "3", 
+      "lat": 50.96946337532108, 
+      "lon": 3.440709751706526, 
       "pcode": 9800, 
-      "street": "Groeneweg", 
-      "lon": 3.440709751706526
+      "street": "Groeneweg"
     }
-  ], 
-  "name": "Groeneweg"
+  ]
 }

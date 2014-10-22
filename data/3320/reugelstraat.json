@@ -1,32 +1,30 @@
 {
-  "pcode": 3320, 
   "addresses": [
     {
-      "lat": 50.787003768737975, 
       "housenumber": "1", 
+      "lat": 50.787003768737975, 
+      "lon": 4.904158529692659, 
       "pcode": 3320, 
-      "street": "Reugelstraat", 
-      "lon": 4.904158529692659
+      "street": "Reugelstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3320, 
-      "street": "Reugelstraat", 
-      "housenumber": "2"
+      "street": "Reugelstraat"
     }, 
     {
-      "lat": 50.78739738783264, 
       "housenumber": "3", 
+      "lat": 50.78739738783264, 
+      "lon": 4.903540147749008, 
       "pcode": 3320, 
-      "street": "Reugelstraat", 
-      "lon": 4.903540147749008
+      "street": "Reugelstraat"
     }, 
     {
-      "lat": 50.78632856226244, 
       "housenumber": "4", 
+      "lat": 50.78632856226244, 
+      "lon": 4.903701286053465, 
       "pcode": 3320, 
-      "street": "Reugelstraat", 
-      "lon": 4.903701286053465
+      "street": "Reugelstraat"
     }
-  ], 
-  "name": "Reugelstraat"
+  ]
 }

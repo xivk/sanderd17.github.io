@@ -1,20 +1,18 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.29705314103682, 
       "housenumber": "1", 
+      "lat": 51.29705314103682, 
+      "lon": 3.2914047120639545, 
       "pcode": 8340, 
-      "street": "Krakeelboomgaard", 
-      "lon": 3.2914047120639545
+      "street": "Krakeelboomgaard"
     }, 
     {
-      "lat": 51.29951492292014, 
       "housenumber": "3", 
+      "lat": 51.29951492292014, 
+      "lon": 3.28747094059361, 
       "pcode": 8340, 
-      "street": "Krakeelboomgaard", 
-      "lon": 3.28747094059361
+      "street": "Krakeelboomgaard"
     }
-  ], 
-  "name": "Krakeelboomgaard"
+  ]
 }

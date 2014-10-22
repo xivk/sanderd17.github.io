@@ -1,32 +1,30 @@
 {
-  "pcode": 3960, 
   "addresses": [
     {
-      "lat": 51.14169781590482, 
       "housenumber": "1", 
+      "lat": 51.14169781590482, 
+      "lon": 5.661694947708517, 
       "pcode": 3960, 
-      "street": "Bonenstraat", 
-      "lon": 5.661694947708517
+      "street": "Bonenstraat"
     }, 
     {
-      "lat": 51.14187661722921, 
       "housenumber": "2", 
+      "lat": 51.14187661722921, 
+      "lon": 5.662261688583504, 
       "pcode": 3960, 
-      "street": "Bonenstraat", 
-      "lon": 5.662261688583504
+      "street": "Bonenstraat"
     }, 
     {
-      "lat": 51.141964642759824, 
       "housenumber": "2A", 
+      "lat": 51.141964642759824, 
+      "lon": 5.661899700746045, 
       "pcode": 3960, 
-      "street": "Bonenstraat", 
-      "lon": 5.661899700746045
+      "street": "Bonenstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3960, 
-      "street": "Bonenstraat", 
-      "housenumber": "3"
+      "street": "Bonenstraat"
     }
-  ], 
-  "name": "Bonenstraat"
+  ]
 }

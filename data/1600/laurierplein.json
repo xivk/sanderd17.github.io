@@ -1,42 +1,40 @@
 {
-  "pcode": 1600, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 1600, 
-      "street": "Laurierplein", 
-      "housenumber": "10"
+      "street": "Laurierplein"
     }, 
     {
+      "housenumber": "12", 
       "pcode": 1600, 
-      "street": "Laurierplein", 
-      "housenumber": "12"
+      "street": "Laurierplein"
     }, 
     {
-      "lat": 50.79368076704157, 
       "housenumber": "2", 
+      "lat": 50.79368076704157, 
+      "lon": 4.284011983310808, 
       "pcode": 1600, 
-      "street": "Laurierplein", 
-      "lon": 4.284011983310808
+      "street": "Laurierplein"
     }, 
     {
-      "lat": 50.79373227428918, 
       "housenumber": "4", 
+      "lat": 50.79373227428918, 
+      "lon": 4.284132591737032, 
       "pcode": 1600, 
-      "street": "Laurierplein", 
-      "lon": 4.284132591737032
+      "street": "Laurierplein"
     }, 
     {
-      "lat": 50.793566982716946, 
       "housenumber": "6", 
+      "lat": 50.793566982716946, 
+      "lon": 4.284549166756855, 
       "pcode": 1600, 
-      "street": "Laurierplein", 
-      "lon": 4.284549166756855
+      "street": "Laurierplein"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 1600, 
-      "street": "Laurierplein", 
-      "housenumber": "8"
+      "street": "Laurierplein"
     }
-  ], 
-  "name": "Laurierplein"
+  ]
 }

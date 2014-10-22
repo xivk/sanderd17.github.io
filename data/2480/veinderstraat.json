@@ -1,20 +1,18 @@
 {
-  "pcode": 2480, 
   "addresses": [
     {
-      "lat": 51.24995457401765, 
       "housenumber": "10", 
+      "lat": 51.24995457401765, 
+      "lon": 5.139695684381227, 
       "pcode": 2480, 
-      "street": "Veinderstraat", 
-      "lon": 5.139695684381227
+      "street": "Veinderstraat"
     }, 
     {
-      "lat": 51.2498437800022, 
       "housenumber": "14", 
+      "lat": 51.2498437800022, 
+      "lon": 5.137771854269465, 
       "pcode": 2480, 
-      "street": "Veinderstraat", 
-      "lon": 5.137771854269465
+      "street": "Veinderstraat"
     }
-  ], 
-  "name": "Veinderstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8810, 
   "addresses": [
     {
-      "lat": 51.02223549237218, 
       "housenumber": "2", 
+      "lat": 51.02223549237218, 
+      "lon": 3.14618109669287, 
       "pcode": 8810, 
-      "street": "Pelikaanstraat", 
-      "lon": 3.14618109669287
+      "street": "Pelikaanstraat"
     }, 
     {
-      "lat": 51.02229659328663, 
       "housenumber": "4", 
+      "lat": 51.02229659328663, 
+      "lon": 3.146559099846878, 
       "pcode": 8810, 
-      "street": "Pelikaanstraat", 
-      "lon": 3.146559099846878
+      "street": "Pelikaanstraat"
     }
-  ], 
-  "name": "Pelikaanstraat"
+  ]
 }

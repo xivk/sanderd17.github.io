@@ -1,27 +1,25 @@
 {
-  "pcode": 9310, 
   "addresses": [
     {
-      "lat": 50.96394919920854, 
       "housenumber": "1", 
+      "lat": 50.96394919920854, 
+      "lon": 4.10470966964131, 
       "pcode": 9310, 
-      "street": "Haverenbosweg", 
-      "lon": 4.10470966964131
+      "street": "Haverenbosweg"
     }, 
     {
-      "lat": 50.965401349855156, 
       "housenumber": "2", 
+      "lat": 50.965401349855156, 
+      "lon": 4.101371148023396, 
       "pcode": 9310, 
-      "street": "Haverenbosweg", 
-      "lon": 4.101371148023396
+      "street": "Haverenbosweg"
     }, 
     {
-      "lat": 50.96394649541501, 
       "housenumber": "3", 
+      "lat": 50.96394649541501, 
+      "lon": 4.104465840481575, 
       "pcode": 9310, 
-      "street": "Haverenbosweg", 
-      "lon": 4.104465840481575
+      "street": "Haverenbosweg"
     }
-  ], 
-  "name": "Haverenbosweg"
+  ]
 }

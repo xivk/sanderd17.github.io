@@ -1,27 +1,25 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 50.95196477364317, 
       "housenumber": "1", 
+      "lat": 50.95196477364317, 
+      "lon": 3.4369900123242876, 
       "pcode": 9800, 
-      "street": "Pontweg", 
-      "lon": 3.4369900123242876
+      "street": "Pontweg"
     }, 
     {
-      "lat": 50.95190395675404, 
       "housenumber": "2", 
+      "lat": 50.95190395675404, 
+      "lon": 3.4404637587757954, 
       "pcode": 9800, 
-      "street": "Pontweg", 
-      "lon": 3.4404637587757954
+      "street": "Pontweg"
     }, 
     {
-      "lat": 50.95171155649583, 
       "housenumber": "4", 
+      "lat": 50.95171155649583, 
+      "lon": 3.441282359748139, 
       "pcode": 9800, 
-      "street": "Pontweg", 
-      "lon": 3.441282359748139
+      "street": "Pontweg"
     }
-  ], 
-  "name": "Pontweg"
+  ]
 }

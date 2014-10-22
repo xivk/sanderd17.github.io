@@ -1,27 +1,25 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.86223339583848, 
       "housenumber": "10", 
+      "lat": 50.86223339583848, 
+      "lon": 4.726144278010764, 
       "pcode": 3000, 
-      "street": "Duivelsweg", 
-      "lon": 4.726144278010764
+      "street": "Duivelsweg"
     }, 
     {
-      "lat": 50.86219437898557, 
       "housenumber": "12", 
+      "lat": 50.86219437898557, 
+      "lon": 4.725673396178911, 
       "pcode": 3000, 
-      "street": "Duivelsweg", 
-      "lon": 4.725673396178911
+      "street": "Duivelsweg"
     }, 
     {
-      "lat": 50.86254553805064, 
       "housenumber": "8", 
+      "lat": 50.86254553805064, 
+      "lon": 4.726165832345964, 
       "pcode": 3000, 
-      "street": "Duivelsweg", 
-      "lon": 4.726165832345964
+      "street": "Duivelsweg"
     }
-  ], 
-  "name": "Duivelsweg"
+  ]
 }

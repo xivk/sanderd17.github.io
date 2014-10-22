@@ -1,20 +1,18 @@
 {
-  "pcode": 3690, 
   "addresses": [
     {
-      "lat": 50.95123867694403, 
       "housenumber": "1", 
+      "lat": 50.95123867694403, 
+      "lon": 5.554702494359365, 
       "pcode": 3690, 
-      "street": "Vleugelsweg", 
-      "lon": 5.554702494359365
+      "street": "Vleugelsweg"
     }, 
     {
-      "lat": 50.95276019799064, 
       "housenumber": "25", 
+      "lat": 50.95276019799064, 
+      "lon": 5.551153928911598, 
       "pcode": 3690, 
-      "street": "Vleugelsweg", 
-      "lon": 5.551153928911598
+      "street": "Vleugelsweg"
     }
-  ], 
-  "name": "Vleugelsweg"
+  ]
 }

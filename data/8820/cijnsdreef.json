@@ -1,20 +1,18 @@
 {
-  "pcode": 8820, 
   "addresses": [
     {
-      "lat": 51.08441846741632, 
       "housenumber": "1", 
+      "lat": 51.08441846741632, 
+      "lon": 3.153099964475995, 
       "pcode": 8820, 
-      "street": "Cijnsdreef", 
-      "lon": 3.153099964475995
+      "street": "Cijnsdreef"
     }, 
     {
-      "lat": 51.08861217847944, 
       "housenumber": "2", 
+      "lat": 51.08861217847944, 
+      "lon": 3.148445643932613, 
       "pcode": 8820, 
-      "street": "Cijnsdreef", 
-      "lon": 3.148445643932613
+      "street": "Cijnsdreef"
     }
-  ], 
-  "name": "Cijnsdreef"
+  ]
 }

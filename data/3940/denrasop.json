@@ -1,25 +1,23 @@
 {
-  "pcode": 3940, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3940, 
-      "street": "Den Rasop", 
-      "housenumber": "1"
+      "street": "Den Rasop"
     }, 
     {
-      "lat": 51.13033259137938, 
       "housenumber": "4", 
+      "lat": 51.13033259137938, 
+      "lon": 5.364880282529033, 
       "pcode": 3940, 
-      "street": "Den Rasop", 
-      "lon": 5.364880282529033
+      "street": "Den Rasop"
     }, 
     {
-      "lat": 51.13035721089794, 
       "housenumber": "5", 
+      "lat": 51.13035721089794, 
+      "lon": 5.3649029524216765, 
       "pcode": 3940, 
-      "street": "Den Rasop", 
-      "lon": 5.3649029524216765
+      "street": "Den Rasop"
     }
-  ], 
-  "name": "Den Rasop"
+  ]
 }

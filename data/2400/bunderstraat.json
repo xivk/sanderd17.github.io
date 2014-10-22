@@ -1,20 +1,18 @@
 {
-  "pcode": 2400, 
   "addresses": [
     {
-      "lat": 51.18841469292009, 
       "housenumber": "19", 
+      "lat": 51.18841469292009, 
+      "lon": 5.2125191725955, 
       "pcode": 2400, 
-      "street": "Bunderstraat", 
-      "lon": 5.2125191725955
+      "street": "Bunderstraat"
     }, 
     {
-      "lat": 51.18834846677443, 
       "housenumber": "21", 
+      "lat": 51.18834846677443, 
+      "lon": 5.212855410527423, 
       "pcode": 2400, 
-      "street": "Bunderstraat", 
-      "lon": 5.212855410527423
+      "street": "Bunderstraat"
     }
-  ], 
-  "name": "Bunderstraat"
+  ]
 }

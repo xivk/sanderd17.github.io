@@ -1,32 +1,30 @@
 {
-  "pcode": 8610, 
   "addresses": [
     {
-      "lat": 51.0377260056238, 
       "housenumber": "1", 
+      "lat": 51.0377260056238, 
+      "lon": 3.01533641776325, 
       "pcode": 8610, 
-      "street": "Lauwstraat", 
-      "lon": 3.01533641776325
+      "street": "Lauwstraat"
     }, 
     {
-      "lat": 51.03993267898452, 
       "housenumber": "2", 
+      "lat": 51.03993267898452, 
+      "lon": 3.0116282773344856, 
       "pcode": 8610, 
-      "street": "Lauwstraat", 
-      "lon": 3.0116282773344856
+      "street": "Lauwstraat"
     }, 
     {
-      "lat": 51.04332167375224, 
       "housenumber": "3", 
+      "lat": 51.04332167375224, 
+      "lon": 3.0097124488703733, 
       "pcode": 8610, 
-      "street": "Lauwstraat", 
-      "lon": 3.0097124488703733
+      "street": "Lauwstraat"
     }, 
     {
+      "housenumber": "33", 
       "pcode": 8610, 
-      "street": "Lauwstraat", 
-      "housenumber": "33"
+      "street": "Lauwstraat"
     }
-  ], 
-  "name": "Lauwstraat"
+  ]
 }

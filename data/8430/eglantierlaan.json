@@ -1,20 +1,18 @@
 {
-  "pcode": 8430, 
   "addresses": [
     {
-      "lat": 51.18564528117398, 
       "housenumber": "1", 
+      "lat": 51.18564528117398, 
+      "lon": 2.8152803191101916, 
       "pcode": 8430, 
-      "street": "Eglantierlaan", 
-      "lon": 2.8152803191101916
+      "street": "Eglantierlaan"
     }, 
     {
-      "lat": 51.185607087032984, 
       "housenumber": "2", 
+      "lat": 51.185607087032984, 
+      "lon": 2.8143789077263253, 
       "pcode": 8430, 
-      "street": "Eglantierlaan", 
-      "lon": 2.8143789077263253
+      "street": "Eglantierlaan"
     }
-  ], 
-  "name": "Eglantierlaan"
+  ]
 }

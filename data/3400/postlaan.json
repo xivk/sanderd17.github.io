@@ -1,45 +1,43 @@
 {
-  "pcode": 3400, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 3400, 
-      "street": "Postlaan", 
-      "housenumber": "10"
+      "street": "Postlaan"
     }, 
     {
-      "lat": 50.747806187293826, 
       "housenumber": "12", 
+      "lat": 50.747806187293826, 
+      "lon": 5.08274540595403, 
       "pcode": 3400, 
-      "street": "Postlaan", 
-      "lon": 5.08274540595403
+      "street": "Postlaan"
     }, 
     {
-      "lat": 50.74772305744803, 
       "housenumber": "14", 
+      "lat": 50.74772305744803, 
+      "lon": 5.082770076140544, 
       "pcode": 3400, 
-      "street": "Postlaan", 
-      "lon": 5.082770076140544
+      "street": "Postlaan"
     }, 
     {
+      "housenumber": "16", 
       "pcode": 3400, 
-      "street": "Postlaan", 
-      "housenumber": "16"
+      "street": "Postlaan"
     }, 
     {
+      "housenumber": "18", 
       "pcode": 3400, 
-      "street": "Postlaan", 
-      "housenumber": "18"
+      "street": "Postlaan"
     }, 
     {
+      "housenumber": "20", 
       "pcode": 3400, 
-      "street": "Postlaan", 
-      "housenumber": "20"
+      "street": "Postlaan"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3400, 
-      "street": "Postlaan", 
-      "housenumber": "6"
+      "street": "Postlaan"
     }
-  ], 
-  "name": "Postlaan"
+  ]
 }

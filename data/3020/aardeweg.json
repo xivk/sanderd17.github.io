@@ -1,20 +1,18 @@
 {
-  "pcode": 3020, 
   "addresses": [
     {
-      "lat": 50.89517961217167, 
       "housenumber": "1", 
+      "lat": 50.89517961217167, 
+      "lon": 4.634032012341355, 
       "pcode": 3020, 
-      "street": "Aardeweg", 
-      "lon": 4.634032012341355
+      "street": "Aardeweg"
     }, 
     {
-      "lat": 50.8952049770815, 
       "housenumber": "3", 
+      "lat": 50.8952049770815, 
+      "lon": 4.633827046652146, 
       "pcode": 3020, 
-      "street": "Aardeweg", 
-      "lon": 4.633827046652146
+      "street": "Aardeweg"
     }
-  ], 
-  "name": "Aardeweg"
+  ]
 }

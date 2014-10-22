@@ -1,20 +1,18 @@
 {
-  "pcode": 9500, 
   "addresses": [
     {
-      "lat": 50.752188601926036, 
       "housenumber": "14", 
+      "lat": 50.752188601926036, 
+      "lon": 3.84142595096068, 
       "pcode": 9500, 
-      "street": "Ghoyse Marktweg", 
-      "lon": 3.84142595096068
+      "street": "Ghoyse Marktweg"
     }, 
     {
-      "lat": 50.75381385846228, 
       "housenumber": "2", 
+      "lat": 50.75381385846228, 
+      "lon": 3.845750976214175, 
       "pcode": 9500, 
-      "street": "Ghoyse Marktweg", 
-      "lon": 3.845750976214175
+      "street": "Ghoyse Marktweg"
     }
-  ], 
-  "name": "Ghoyse Marktweg"
+  ]
 }

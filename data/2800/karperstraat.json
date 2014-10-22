@@ -1,49 +1,47 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
-      "lat": 51.03043096802917, 
       "housenumber": "1", 
+      "lat": 51.03043096802917, 
+      "lon": 4.462826083397951, 
       "pcode": 2800, 
-      "street": "Karperstraat", 
-      "lon": 4.462826083397951
+      "street": "Karperstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2800, 
-      "street": "Karperstraat", 
-      "housenumber": "2"
+      "street": "Karperstraat"
     }, 
     {
-      "lat": 51.03044579184799, 
       "housenumber": "3", 
+      "lat": 51.03044579184799, 
+      "lon": 4.462836091948305, 
       "pcode": 2800, 
-      "street": "Karperstraat", 
-      "lon": 4.462836091948305
+      "street": "Karperstraat"
     }, 
     {
-      "lat": 51.03043126997741, 
       "housenumber": "5", 
+      "lat": 51.03043126997741, 
+      "lon": 4.462562222780375, 
       "pcode": 2800, 
-      "street": "Karperstraat", 
-      "lon": 4.462562222780375
+      "street": "Karperstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2800, 
-      "street": "Karperstraat", 
-      "housenumber": "7"
+      "street": "Karperstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2800, 
-      "street": "Karperstraat", 
-      "housenumber": "8"
+      "street": "Karperstraat"
     }, 
     {
-      "lat": 51.03074544039346, 
       "housenumber": "9", 
+      "lat": 51.03074544039346, 
+      "lon": 4.462780533161928, 
       "pcode": 2800, 
-      "street": "Karperstraat", 
-      "lon": 4.462780533161928
+      "street": "Karperstraat"
     }
-  ], 
-  "name": "Karperstraat"
+  ]
 }

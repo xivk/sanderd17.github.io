@@ -1,18 +1,16 @@
 {
-  "pcode": 9820, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9820, 
-      "street": "Pastoor Clausplein", 
-      "housenumber": "1"
+      "street": "Pastoor Clausplein"
     }, 
     {
-      "lat": 51.01737355168675, 
       "housenumber": "4", 
+      "lat": 51.01737355168675, 
+      "lon": 3.7605032832333483, 
       "pcode": 9820, 
-      "street": "Pastoor Clausplein", 
-      "lon": 3.7605032832333483
+      "street": "Pastoor Clausplein"
     }
-  ], 
-  "name": "Pastoor Clausplein"
+  ]
 }

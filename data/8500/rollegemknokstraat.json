@@ -1,20 +1,18 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.79203029383683, 
       "housenumber": "2", 
+      "lat": 50.79203029383683, 
+      "lon": 3.2681437275595293, 
       "pcode": 8500, 
-      "street": "Rollegemknokstraat", 
-      "lon": 3.2681437275595293
+      "street": "Rollegemknokstraat"
     }, 
     {
-      "lat": 50.79381908036908, 
       "housenumber": "20", 
+      "lat": 50.79381908036908, 
+      "lon": 3.2658110492979935, 
       "pcode": 8500, 
-      "street": "Rollegemknokstraat", 
-      "lon": 3.2658110492979935
+      "street": "Rollegemknokstraat"
     }
-  ], 
-  "name": "Rollegemknokstraat"
+  ]
 }

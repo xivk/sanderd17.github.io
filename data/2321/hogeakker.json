@@ -1,60 +1,58 @@
 {
-  "pcode": 2321, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2321, 
-      "street": "Hoge Akker", 
-      "housenumber": "1"
+      "street": "Hoge Akker"
     }, 
     {
-      "lat": 51.45570455107549, 
       "housenumber": "11", 
+      "lat": 51.45570455107549, 
+      "lon": 4.724951270128125, 
       "pcode": 2321, 
-      "street": "Hoge Akker", 
-      "lon": 4.724951270128125
+      "street": "Hoge Akker"
     }, 
     {
-      "lat": 51.45808839494664, 
       "housenumber": "17", 
+      "lat": 51.45808839494664, 
+      "lon": 4.7302175674225975, 
       "pcode": 2321, 
-      "street": "Hoge Akker", 
-      "lon": 4.7302175674225975
+      "street": "Hoge Akker"
     }, 
     {
-      "lat": 51.4601643758335, 
       "housenumber": "19", 
+      "lat": 51.4601643758335, 
+      "lon": 4.731326634318529, 
       "pcode": 2321, 
-      "street": "Hoge Akker", 
-      "lon": 4.731326634318529
+      "street": "Hoge Akker"
     }, 
     {
-      "lat": 51.46018332671018, 
       "housenumber": "23", 
+      "lat": 51.46018332671018, 
+      "lon": 4.733325033023068, 
       "pcode": 2321, 
-      "street": "Hoge Akker", 
-      "lon": 4.733325033023068
+      "street": "Hoge Akker"
     }, 
     {
-      "lat": 51.45609357581198, 
       "housenumber": "3", 
+      "lat": 51.45609357581198, 
+      "lon": 4.7314330048560524, 
       "pcode": 2321, 
-      "street": "Hoge Akker", 
-      "lon": 4.7314330048560524
+      "street": "Hoge Akker"
     }, 
     {
-      "lat": 51.45620218857003, 
       "housenumber": "5", 
+      "lat": 51.45620218857003, 
+      "lon": 4.730270743463177, 
       "pcode": 2321, 
-      "street": "Hoge Akker", 
-      "lon": 4.730270743463177
+      "street": "Hoge Akker"
     }, 
     {
-      "lat": 51.45547439386779, 
       "housenumber": "9", 
+      "lat": 51.45547439386779, 
+      "lon": 4.726350246702514, 
       "pcode": 2321, 
-      "street": "Hoge Akker", 
-      "lon": 4.726350246702514
+      "street": "Hoge Akker"
     }
-  ], 
-  "name": "Hoge Akker"
+  ]
 }

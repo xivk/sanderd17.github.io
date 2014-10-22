@@ -1,25 +1,23 @@
 {
-  "pcode": 8431, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8431, 
-      "street": "Kavelweg", 
-      "housenumber": "1"
+      "street": "Kavelweg"
     }, 
     {
-      "lat": 51.180209259951866, 
       "housenumber": "2", 
+      "lat": 51.180209259951866, 
+      "lon": 2.849523139272438, 
       "pcode": 8431, 
-      "street": "Kavelweg", 
-      "lon": 2.849523139272438
+      "street": "Kavelweg"
     }, 
     {
-      "lat": 51.18109603043945, 
       "housenumber": "6", 
+      "lat": 51.18109603043945, 
+      "lon": 2.848387289141966, 
       "pcode": 8431, 
-      "street": "Kavelweg", 
-      "lon": 2.848387289141966
+      "street": "Kavelweg"
     }
-  ], 
-  "name": "Kavelweg"
+  ]
 }

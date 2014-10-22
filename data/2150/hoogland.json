@@ -1,20 +1,18 @@
 {
-  "pcode": 2150, 
   "addresses": [
     {
-      "lat": 51.184791305472416, 
       "housenumber": "22", 
+      "lat": 51.184791305472416, 
+      "lon": 4.497235610665517, 
       "pcode": 2150, 
-      "street": "Hoogland", 
-      "lon": 4.497235610665517
+      "street": "Hoogland"
     }, 
     {
-      "lat": 51.1862129909604, 
       "housenumber": "5", 
+      "lat": 51.1862129909604, 
+      "lon": 4.498407930693609, 
       "pcode": 2150, 
-      "street": "Hoogland", 
-      "lon": 4.498407930693609
+      "street": "Hoogland"
     }
-  ], 
-  "name": "Hoogland"
+  ]
 }

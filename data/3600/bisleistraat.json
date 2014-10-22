@@ -1,27 +1,25 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.991734146412604, 
       "housenumber": "1", 
+      "lat": 50.991734146412604, 
+      "lon": 5.547014158381304, 
       "pcode": 3600, 
-      "street": "Bisleistraat", 
-      "lon": 5.547014158381304
+      "street": "Bisleistraat"
     }, 
     {
-      "lat": 50.992790410903055, 
       "housenumber": "3", 
+      "lat": 50.992790410903055, 
+      "lon": 5.5445355405700205, 
       "pcode": 3600, 
-      "street": "Bisleistraat", 
-      "lon": 5.5445355405700205
+      "street": "Bisleistraat"
     }, 
     {
-      "lat": 50.99479748693891, 
       "housenumber": "5", 
+      "lat": 50.99479748693891, 
+      "lon": 5.546924133101626, 
       "pcode": 3600, 
-      "street": "Bisleistraat", 
-      "lon": 5.546924133101626
+      "street": "Bisleistraat"
     }
-  ], 
-  "name": "Bisleistraat"
+  ]
 }

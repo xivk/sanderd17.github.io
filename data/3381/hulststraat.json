@@ -1,20 +1,18 @@
 {
-  "pcode": 3381, 
   "addresses": [
     {
-      "lat": 50.88956571843314, 
       "housenumber": "1", 
+      "lat": 50.88956571843314, 
+      "lon": 4.973169107782868, 
       "pcode": 3381, 
-      "street": "Hulststraat", 
-      "lon": 4.973169107782868
+      "street": "Hulststraat"
     }, 
     {
-      "lat": 50.88903943562673, 
       "housenumber": "2", 
+      "lat": 50.88903943562673, 
+      "lon": 4.971847234546262, 
       "pcode": 3381, 
-      "street": "Hulststraat", 
-      "lon": 4.971847234546262
+      "street": "Hulststraat"
     }
-  ], 
-  "name": "Hulststraat"
+  ]
 }

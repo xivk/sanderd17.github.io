@@ -1,20 +1,18 @@
 {
-  "pcode": 8210, 
   "addresses": [
     {
-      "lat": 51.10545440734658, 
       "housenumber": "3", 
+      "lat": 51.10545440734658, 
+      "lon": 3.1612016122074236, 
       "pcode": 8210, 
-      "street": "Muscarstraat", 
-      "lon": 3.1612016122074236
+      "street": "Muscarstraat"
     }, 
     {
-      "lat": 51.10551375144868, 
       "housenumber": "4", 
+      "lat": 51.10551375144868, 
+      "lon": 3.1606317424300125, 
       "pcode": 8210, 
-      "street": "Muscarstraat", 
-      "lon": 3.1606317424300125
+      "street": "Muscarstraat"
     }
-  ], 
-  "name": "Muscarstraat"
+  ]
 }

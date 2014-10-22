@@ -1,25 +1,23 @@
 {
-  "pcode": 8370, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8370, 
-      "street": "Bevrijdingsplein", 
-      "housenumber": "1"
+      "street": "Bevrijdingsplein"
     }, 
     {
-      "lat": 51.3104419034537, 
       "housenumber": "15", 
+      "lat": 51.3104419034537, 
+      "lon": 3.1131600116780027, 
       "pcode": 8370, 
-      "street": "Bevrijdingsplein", 
-      "lon": 3.1131600116780027
+      "street": "Bevrijdingsplein"
     }, 
     {
-      "lat": 51.3112305291216, 
       "housenumber": "6", 
+      "lat": 51.3112305291216, 
+      "lon": 3.111624110517805, 
       "pcode": 8370, 
-      "street": "Bevrijdingsplein", 
-      "lon": 3.111624110517805
+      "street": "Bevrijdingsplein"
     }
-  ], 
-  "name": "Bevrijdingsplein"
+  ]
 }

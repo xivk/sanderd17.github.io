@@ -1,34 +1,32 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
-      "lat": 50.94220069933658, 
       "housenumber": "1A", 
+      "lat": 50.94220069933658, 
+      "lon": 4.457942281811413, 
       "pcode": 1800, 
-      "street": "Otto de Mentockdreef", 
-      "lon": 4.457942281811413
+      "street": "Otto de Mentockdreef"
     }, 
     {
-      "lat": 50.942420220063696, 
       "housenumber": "2", 
+      "lat": 50.942420220063696, 
+      "lon": 4.458757700463717, 
       "pcode": 1800, 
-      "street": "Otto de Mentockdreef", 
-      "lon": 4.458757700463717
+      "street": "Otto de Mentockdreef"
     }, 
     {
+      "housenumber": "3", 
       "lat": 50.94552090807669, 
-      "housenumber": "3", 
+      "lon": 4.448215120112796, 
       "pcode": 1800, 
-      "street": "Otto de Mentockdreef", 
-      "lon": 4.448215120112796
+      "street": "Otto de Mentockdreef"
     }, 
     {
-      "lat": 50.94229280275474, 
       "housenumber": "3", 
+      "lat": 50.94229280275474, 
+      "lon": 4.458341846079572, 
       "pcode": 1800, 
-      "street": "Otto de Mentockdreef", 
-      "lon": 4.458341846079572
+      "street": "Otto de Mentockdreef"
     }
-  ], 
-  "name": "Otto de Mentockdreef"
+  ]
 }

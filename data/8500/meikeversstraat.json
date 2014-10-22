@@ -1,51 +1,49 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8500, 
-      "street": "Meikeversstraat", 
-      "housenumber": "1"
+      "street": "Meikeversstraat"
     }, 
     {
-      "lat": 50.80246225299728, 
       "housenumber": "14", 
+      "lat": 50.80246225299728, 
+      "lon": 3.276889496158497, 
       "pcode": 8500, 
-      "street": "Meikeversstraat", 
-      "lon": 3.276889496158497
+      "street": "Meikeversstraat"
     }, 
     {
-      "lat": 50.80241096295548, 
       "housenumber": "16", 
+      "lat": 50.80241096295548, 
+      "lon": 3.2767400143884364, 
       "pcode": 8500, 
-      "street": "Meikeversstraat", 
-      "lon": 3.2767400143884364
+      "street": "Meikeversstraat"
     }, 
     {
-      "lat": 50.80216663597847, 
       "housenumber": "18", 
+      "lat": 50.80216663597847, 
+      "lon": 3.277110865989015, 
       "pcode": 8500, 
-      "street": "Meikeversstraat", 
-      "lon": 3.277110865989015
+      "street": "Meikeversstraat"
     }, 
     {
-      "lat": 50.80191991486124, 
       "housenumber": "20", 
+      "lat": 50.80191991486124, 
+      "lon": 3.2768963989657216, 
       "pcode": 8500, 
-      "street": "Meikeversstraat", 
-      "lon": 3.2768963989657216
+      "street": "Meikeversstraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 8500, 
-      "street": "Meikeversstraat", 
-      "housenumber": "2A"
+      "street": "Meikeversstraat"
     }, 
     {
-      "lat": 50.80274836755003, 
       "housenumber": "4", 
+      "lat": 50.80274836755003, 
+      "lon": 3.2793092241745305, 
       "pcode": 8500, 
-      "street": "Meikeversstraat", 
-      "lon": 3.2793092241745305
+      "street": "Meikeversstraat"
     }
-  ], 
-  "name": "Meikeversstraat"
+  ]
 }

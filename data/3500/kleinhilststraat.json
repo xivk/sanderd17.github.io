@@ -1,20 +1,18 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.91411543449338, 
       "housenumber": "3", 
+      "lat": 50.91411543449338, 
+      "lon": 5.316886786303365, 
       "pcode": 3500, 
-      "street": "Klein-Hilststraat", 
-      "lon": 5.316886786303365
+      "street": "Klein-Hilststraat"
     }, 
     {
-      "lat": 50.91461675234366, 
       "housenumber": "5", 
+      "lat": 50.91461675234366, 
+      "lon": 5.314275272362572, 
       "pcode": 3500, 
-      "street": "Klein-Hilststraat", 
-      "lon": 5.314275272362572
+      "street": "Klein-Hilststraat"
     }
-  ], 
-  "name": "Klein-Hilststraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3210, 
   "addresses": [
     {
-      "lat": 50.88165649125976, 
       "housenumber": "2", 
+      "lat": 50.88165649125976, 
+      "lon": 4.861524390736942, 
       "pcode": 3210, 
-      "street": "Hensbergweg", 
-      "lon": 4.861524390736942
+      "street": "Hensbergweg"
     }, 
     {
-      "lat": 50.882144522142426, 
       "housenumber": "4", 
+      "lat": 50.882144522142426, 
+      "lon": 4.861121680358022, 
       "pcode": 3210, 
-      "street": "Hensbergweg", 
-      "lon": 4.861121680358022
+      "street": "Hensbergweg"
     }
-  ], 
-  "name": "Hensbergweg"
+  ]
 }

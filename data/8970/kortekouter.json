@@ -1,20 +1,18 @@
 {
-  "pcode": 8970, 
   "addresses": [
     {
-      "lat": 50.85772260803229, 
       "housenumber": "2", 
+      "lat": 50.85772260803229, 
+      "lon": 2.738473216623872, 
       "pcode": 8970, 
-      "street": "Korte Kouter", 
-      "lon": 2.738473216623872
+      "street": "Korte Kouter"
     }, 
     {
-      "lat": 50.85740586521473, 
       "housenumber": "6", 
+      "lat": 50.85740586521473, 
+      "lon": 2.738747438186556, 
       "pcode": 8970, 
-      "street": "Korte Kouter", 
-      "lon": 2.738747438186556
+      "street": "Korte Kouter"
     }
-  ], 
-  "name": "Korte Kouter"
+  ]
 }

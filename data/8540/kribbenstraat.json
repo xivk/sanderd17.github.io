@@ -1,20 +1,18 @@
 {
-  "pcode": 8540, 
   "addresses": [
     {
-      "lat": 50.850068938672244, 
       "housenumber": "1", 
+      "lat": 50.850068938672244, 
+      "lon": 3.358087841387868, 
       "pcode": 8540, 
-      "street": "Kribbenstraat", 
-      "lon": 3.358087841387868
+      "street": "Kribbenstraat"
     }, 
     {
-      "lat": 50.85010465810615, 
       "housenumber": "5", 
+      "lat": 50.85010465810615, 
+      "lon": 3.3572457663387945, 
       "pcode": 8540, 
-      "street": "Kribbenstraat", 
-      "lon": 3.3572457663387945
+      "street": "Kribbenstraat"
     }
-  ], 
-  "name": "Kribbenstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8930, 
   "addresses": [
     {
-      "lat": 50.81711320016459, 
       "housenumber": "2", 
+      "lat": 50.81711320016459, 
+      "lon": 3.138010176750623, 
       "pcode": 8930, 
-      "street": "Wolfstraat", 
-      "lon": 3.138010176750623
+      "street": "Wolfstraat"
     }, 
     {
-      "lat": 50.81541294799475, 
       "housenumber": "42", 
+      "lat": 50.81541294799475, 
+      "lon": 3.1400422076709282, 
       "pcode": 8930, 
-      "street": "Wolfstraat", 
-      "lon": 3.1400422076709282
+      "street": "Wolfstraat"
     }
-  ], 
-  "name": "Wolfstraat"
+  ]
 }

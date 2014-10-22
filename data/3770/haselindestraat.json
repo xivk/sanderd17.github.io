@@ -1,20 +1,18 @@
 {
-  "pcode": 3770, 
   "addresses": [
     {
-      "lat": 50.78973853721919, 
       "housenumber": "1", 
+      "lat": 50.78973853721919, 
+      "lon": 5.602061691928102, 
       "pcode": 3770, 
-      "street": "Haselindestraat", 
-      "lon": 5.602061691928102
+      "street": "Haselindestraat"
     }, 
     {
-      "lat": 50.78904432115499, 
       "housenumber": "10", 
+      "lat": 50.78904432115499, 
+      "lon": 5.60349733897174, 
       "pcode": 3770, 
-      "street": "Haselindestraat", 
-      "lon": 5.60349733897174
+      "street": "Haselindestraat"
     }
-  ], 
-  "name": "Haselindestraat"
+  ]
 }

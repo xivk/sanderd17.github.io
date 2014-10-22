@@ -1,20 +1,18 @@
 {
-  "pcode": 3545, 
   "addresses": [
     {
-      "lat": 50.937549992005266, 
       "housenumber": "1", 
+      "lat": 50.937549992005266, 
+      "lon": 5.088161484310463, 
       "pcode": 3545, 
-      "street": "Ijzerwinningstraat", 
-      "lon": 5.088161484310463
+      "street": "Ijzerwinningstraat"
     }, 
     {
-      "lat": 50.942377754306754, 
       "housenumber": "2", 
+      "lat": 50.942377754306754, 
+      "lon": 5.0883914010912665, 
       "pcode": 3545, 
-      "street": "Ijzerwinningstraat", 
-      "lon": 5.0883914010912665
+      "street": "Ijzerwinningstraat"
     }
-  ], 
-  "name": "Ijzerwinningstraat"
+  ]
 }

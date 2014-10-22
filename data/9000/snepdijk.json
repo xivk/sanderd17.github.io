@@ -1,20 +1,18 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.038976175607615, 
       "housenumber": "1", 
+      "lat": 51.038976175607615, 
+      "lon": 3.6900205732167035, 
       "pcode": 9000, 
-      "street": "Snepdijk", 
-      "lon": 3.6900205732167035
+      "street": "Snepdijk"
     }, 
     {
-      "lat": 51.03603796357236, 
       "housenumber": "22", 
+      "lat": 51.03603796357236, 
+      "lon": 3.6867740988210462, 
       "pcode": 9000, 
-      "street": "Snepdijk", 
-      "lon": 3.6867740988210462
+      "street": "Snepdijk"
     }
-  ], 
-  "name": "Snepdijk"
+  ]
 }

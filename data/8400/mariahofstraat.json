@@ -1,30 +1,28 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 8400, 
-      "street": "Mariahofstraat", 
-      "housenumber": "10"
+      "street": "Mariahofstraat"
     }, 
     {
-      "lat": 51.23421724790502, 
       "housenumber": "2", 
+      "lat": 51.23421724790502, 
+      "lon": 2.9188874053064726, 
       "pcode": 8400, 
-      "street": "Mariahofstraat", 
-      "lon": 2.9188874053064726
+      "street": "Mariahofstraat"
     }, 
     {
-      "lat": 51.234555754435725, 
       "housenumber": "20", 
+      "lat": 51.234555754435725, 
+      "lon": 2.9194329337001865, 
       "pcode": 8400, 
-      "street": "Mariahofstraat", 
-      "lon": 2.9194329337001865
+      "street": "Mariahofstraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 8400, 
-      "street": "Mariahofstraat", 
-      "housenumber": "2A"
+      "street": "Mariahofstraat"
     }
-  ], 
-  "name": "Mariahofstraat"
+  ]
 }

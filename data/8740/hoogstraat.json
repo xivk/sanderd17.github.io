@@ -1,20 +1,18 @@
 {
-  "pcode": 8740, 
   "addresses": [
     {
-      "lat": 50.99514811798567, 
       "housenumber": "1", 
+      "lat": 50.99514811798567, 
+      "lon": 3.3024701921506656, 
       "pcode": 8740, 
-      "street": "Hoogstraat", 
-      "lon": 3.3024701921506656
+      "street": "Hoogstraat"
     }, 
     {
-      "lat": 50.995398581808224, 
       "housenumber": "2", 
+      "lat": 50.995398581808224, 
+      "lon": 3.302232145896539, 
       "pcode": 8740, 
-      "street": "Hoogstraat", 
-      "lon": 3.302232145896539
+      "street": "Hoogstraat"
     }
-  ], 
-  "name": "Hoogstraat"
+  ]
 }

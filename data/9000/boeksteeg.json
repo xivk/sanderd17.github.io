@@ -1,35 +1,33 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "12", 
       "pcode": 9000, 
-      "street": "Boeksteeg", 
-      "housenumber": "12"
+      "street": "Boeksteeg"
     }, 
     {
-      "lat": 51.052790065168665, 
       "housenumber": "16", 
+      "lat": 51.052790065168665, 
+      "lon": 3.721515972044713, 
       "pcode": 9000, 
-      "street": "Boeksteeg", 
-      "lon": 3.721515972044713
+      "street": "Boeksteeg"
     }, 
     {
+      "housenumber": "18", 
       "pcode": 9000, 
-      "street": "Boeksteeg", 
-      "housenumber": "18"
+      "street": "Boeksteeg"
     }, 
     {
-      "lat": 51.05268218918376, 
       "housenumber": "5", 
+      "lat": 51.05268218918376, 
+      "lon": 3.7212203772160692, 
       "pcode": 9000, 
-      "street": "Boeksteeg", 
-      "lon": 3.7212203772160692
+      "street": "Boeksteeg"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9000, 
-      "street": "Boeksteeg", 
-      "housenumber": "6"
+      "street": "Boeksteeg"
     }
-  ], 
-  "name": "Boeksteeg"
+  ]
 }

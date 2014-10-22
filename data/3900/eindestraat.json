@@ -1,27 +1,25 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
-      "lat": 51.22495033780743, 
       "housenumber": "3", 
+      "lat": 51.22495033780743, 
+      "lon": 5.420366977555284, 
       "pcode": 3900, 
-      "street": "Eindestraat", 
-      "lon": 5.420366977555284
+      "street": "Eindestraat"
     }, 
     {
-      "lat": 51.22484574536289, 
       "housenumber": "5", 
+      "lat": 51.22484574536289, 
+      "lon": 5.420129835541661, 
       "pcode": 3900, 
-      "street": "Eindestraat", 
-      "lon": 5.420129835541661
+      "street": "Eindestraat"
     }, 
     {
-      "lat": 51.22458798131055, 
       "housenumber": "7", 
+      "lat": 51.22458798131055, 
+      "lon": 5.420417350474829, 
       "pcode": 3900, 
-      "street": "Eindestraat", 
-      "lon": 5.420417350474829
+      "street": "Eindestraat"
     }
-  ], 
-  "name": "Eindestraat"
+  ]
 }

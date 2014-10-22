@@ -1,27 +1,25 @@
 {
-  "pcode": 2050, 
   "addresses": [
     {
-      "lat": 51.23089921507443, 
       "housenumber": "1", 
+      "lat": 51.23089921507443, 
+      "lon": 4.376294088999895, 
       "pcode": 2050, 
-      "street": "De Heemlaan", 
-      "lon": 4.376294088999895
+      "street": "De Heemlaan"
     }, 
     {
-      "lat": 51.2312690337564, 
       "housenumber": "2", 
+      "lat": 51.2312690337564, 
+      "lon": 4.377008832193808, 
       "pcode": 2050, 
-      "street": "De Heemlaan", 
-      "lon": 4.377008832193808
+      "street": "De Heemlaan"
     }, 
     {
-      "lat": 51.231272204212694, 
       "housenumber": "4", 
+      "lat": 51.231272204212694, 
+      "lon": 4.376678551965321, 
       "pcode": 2050, 
-      "street": "De Heemlaan", 
-      "lon": 4.376678551965321
+      "street": "De Heemlaan"
     }
-  ], 
-  "name": "De Heemlaan"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 3001, 
   "addresses": [
     {
-      "lat": 50.84601422700527, 
       "housenumber": "1", 
+      "lat": 50.84601422700527, 
+      "lon": 4.724418340464221, 
       "pcode": 3001, 
-      "street": "Industrieweg", 
-      "lon": 4.724418340464221
+      "street": "Industrieweg"
     }, 
     {
-      "lat": 50.84576160596544, 
       "housenumber": "3", 
+      "lat": 50.84576160596544, 
+      "lon": 4.724037732398873, 
       "pcode": 3001, 
-      "street": "Industrieweg", 
-      "lon": 4.724037732398873
+      "street": "Industrieweg"
     }, 
     {
-      "lat": 50.84515944123165, 
       "housenumber": "5", 
+      "lat": 50.84515944123165, 
+      "lon": 4.723991711389917, 
       "pcode": 3001, 
-      "street": "Industrieweg", 
-      "lon": 4.723991711389917
+      "street": "Industrieweg"
     }
-  ], 
-  "name": "Industrieweg"
+  ]
 }

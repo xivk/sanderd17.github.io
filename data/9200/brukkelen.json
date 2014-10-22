@@ -1,32 +1,30 @@
 {
-  "pcode": 9200, 
   "addresses": [
     {
+      "housenumber": "191", 
       "pcode": 9200, 
-      "street": "Brukkelen", 
-      "housenumber": "191"
+      "street": "Brukkelen"
     }, 
     {
-      "lat": 50.996284940823955, 
       "housenumber": "2", 
+      "lat": 50.996284940823955, 
+      "lon": 3.9993586111595842, 
       "pcode": 9200, 
-      "street": "Brukkelen", 
-      "lon": 3.9993586111595842
+      "street": "Brukkelen"
     }, 
     {
-      "lat": 50.99619057970785, 
       "housenumber": "4", 
+      "lat": 50.99619057970785, 
+      "lon": 3.999166051577303, 
       "pcode": 9200, 
-      "street": "Brukkelen", 
-      "lon": 3.999166051577303
+      "street": "Brukkelen"
     }, 
     {
-      "lat": 50.99630752409938, 
       "housenumber": "6", 
+      "lat": 50.99630752409938, 
+      "lon": 3.998677244858548, 
       "pcode": 9200, 
-      "street": "Brukkelen", 
-      "lon": 3.998677244858548
+      "street": "Brukkelen"
     }
-  ], 
-  "name": "Brukkelen"
+  ]
 }

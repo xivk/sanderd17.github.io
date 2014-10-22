@@ -1,20 +1,18 @@
 {
-  "pcode": 8570, 
   "addresses": [
     {
-      "lat": 50.834835438539216, 
       "housenumber": "1", 
+      "lat": 50.834835438539216, 
+      "lon": 3.502361716710981, 
       "pcode": 8570, 
-      "street": "Dolderstraat", 
-      "lon": 3.502361716710981
+      "street": "Dolderstraat"
     }, 
     {
-      "lat": 50.83435877918225, 
       "housenumber": "2", 
+      "lat": 50.83435877918225, 
+      "lon": 3.5018381213579355, 
       "pcode": 8570, 
-      "street": "Dolderstraat", 
-      "lon": 3.5018381213579355
+      "street": "Dolderstraat"
     }
-  ], 
-  "name": "Dolderstraat"
+  ]
 }

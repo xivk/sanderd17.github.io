@@ -1,33 +1,31 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.23922499849939, 
       "housenumber": "3", 
+      "lat": 51.23922499849939, 
+      "lon": 4.408374782586617, 
       "pcode": 2030, 
-      "street": "Mexicostraat", 
-      "lon": 4.408374782586617
+      "street": "Mexicostraat"
     }, 
     {
+      "housenumber": "43B", 
       "pcode": 2030, 
-      "street": "Mexicostraat", 
-      "housenumber": "43B"
+      "street": "Mexicostraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2030, 
-      "street": "Mexicostraat", 
-      "housenumber": "5"
+      "street": "Mexicostraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2030, 
-      "street": "Mexicostraat", 
-      "housenumber": "7"
+      "street": "Mexicostraat"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 2030, 
-      "street": "Mexicostraat", 
-      "housenumber": "9"
+      "street": "Mexicostraat"
     }
-  ], 
-  "name": "Mexicostraat"
+  ]
 }

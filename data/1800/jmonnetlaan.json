@@ -1,20 +1,18 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
-      "lat": 50.94643640707371, 
       "housenumber": "1", 
+      "lat": 50.94643640707371, 
+      "lon": 4.438779231213922, 
       "pcode": 1800, 
-      "street": "J. Monnetlaan", 
-      "lon": 4.438779231213922
+      "street": "J. Monnetlaan"
     }, 
     {
-      "lat": 50.94719899166664, 
       "housenumber": "3", 
+      "lat": 50.94719899166664, 
+      "lon": 4.434417535506683, 
       "pcode": 1800, 
-      "street": "J. Monnetlaan", 
-      "lon": 4.434417535506683
+      "street": "J. Monnetlaan"
     }
-  ], 
-  "name": "J. Monnetlaan"
+  ]
 }

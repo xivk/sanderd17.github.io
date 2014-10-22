@@ -1,18 +1,16 @@
 {
-  "pcode": 2040, 
   "addresses": [
     {
-      "lat": 51.35680791860394, 
       "housenumber": "1", 
+      "lat": 51.35680791860394, 
+      "lon": 4.3167485194272786, 
       "pcode": 2040, 
-      "street": "Armenstraatje", 
-      "lon": 4.3167485194272786
+      "street": "Armenstraatje"
     }, 
     {
+      "housenumber": "32", 
       "pcode": 2040, 
-      "street": "Armenstraatje", 
-      "housenumber": "32"
+      "street": "Armenstraatje"
     }
-  ], 
-  "name": "Armenstraatje"
+  ]
 }

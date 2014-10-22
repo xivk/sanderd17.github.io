@@ -1,20 +1,18 @@
 {
-  "pcode": 8810, 
   "addresses": [
     {
-      "lat": 51.02004395883751, 
       "housenumber": "1", 
+      "lat": 51.02004395883751, 
+      "lon": 3.103652645281663, 
       "pcode": 8810, 
-      "street": "Kernemelkputstraat", 
-      "lon": 3.103652645281663
+      "street": "Kernemelkputstraat"
     }, 
     {
-      "lat": 51.021781011769775, 
       "housenumber": "2", 
+      "lat": 51.021781011769775, 
+      "lon": 3.1009797784940942, 
       "pcode": 8810, 
-      "street": "Kernemelkputstraat", 
-      "lon": 3.1009797784940942
+      "street": "Kernemelkputstraat"
     }
-  ], 
-  "name": "Kernemelkputstraat"
+  ]
 }

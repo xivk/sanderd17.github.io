@@ -1,20 +1,18 @@
 {
-  "pcode": 3990, 
   "addresses": [
     {
-      "lat": 51.13673467326058, 
       "housenumber": "1", 
+      "lat": 51.13673467326058, 
+      "lon": 5.443068057220699, 
       "pcode": 3990, 
-      "street": "Schommelstraat", 
-      "lon": 5.443068057220699
+      "street": "Schommelstraat"
     }, 
     {
-      "lat": 51.137677197836304, 
       "housenumber": "2", 
+      "lat": 51.137677197836304, 
+      "lon": 5.443220067348804, 
       "pcode": 3990, 
-      "street": "Schommelstraat", 
-      "lon": 5.443220067348804
+      "street": "Schommelstraat"
     }
-  ], 
-  "name": "Schommelstraat"
+  ]
 }

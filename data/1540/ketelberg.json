@@ -1,20 +1,18 @@
 {
-  "pcode": 1540, 
   "addresses": [
     {
-      "lat": 50.741108611421595, 
       "housenumber": "1", 
+      "lat": 50.741108611421595, 
+      "lon": 4.0561014308664305, 
       "pcode": 1540, 
-      "street": "Ketelberg", 
-      "lon": 4.0561014308664305
+      "street": "Ketelberg"
     }, 
     {
-      "lat": 50.740943203206, 
       "housenumber": "3", 
+      "lat": 50.740943203206, 
+      "lon": 4.05579990641077, 
       "pcode": 1540, 
-      "street": "Ketelberg", 
-      "lon": 4.05579990641077
+      "street": "Ketelberg"
     }
-  ], 
-  "name": "Ketelberg"
+  ]
 }

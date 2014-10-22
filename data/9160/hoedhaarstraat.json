@@ -1,25 +1,23 @@
 {
-  "pcode": 9160, 
   "addresses": [
     {
-      "lat": 51.100137286880525, 
       "housenumber": "1", 
+      "lat": 51.100137286880525, 
+      "lon": 3.993988386062166, 
       "pcode": 9160, 
-      "street": "Hoedhaarstraat", 
-      "lon": 3.993988386062166
+      "street": "Hoedhaarstraat"
     }, 
     {
-      "lat": 51.09989468484276, 
       "housenumber": "2", 
+      "lat": 51.09989468484276, 
+      "lon": 3.994586653014546, 
       "pcode": 9160, 
-      "street": "Hoedhaarstraat", 
-      "lon": 3.994586653014546
+      "street": "Hoedhaarstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9160, 
-      "street": "Hoedhaarstraat", 
-      "housenumber": "5"
+      "street": "Hoedhaarstraat"
     }
-  ], 
-  "name": "Hoedhaarstraat"
+  ]
 }

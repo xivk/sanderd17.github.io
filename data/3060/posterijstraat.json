@@ -1,28 +1,26 @@
 {
-  "pcode": 3060, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3060, 
-      "street": "Posterijstraat", 
-      "housenumber": "1"
+      "street": "Posterijstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3060, 
-      "street": "Posterijstraat", 
-      "housenumber": "3"
+      "street": "Posterijstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3060, 
-      "street": "Posterijstraat", 
-      "housenumber": "5"
+      "street": "Posterijstraat"
     }, 
     {
-      "lat": 50.869118254929056, 
       "housenumber": "7", 
+      "lat": 50.869118254929056, 
+      "lon": 4.637128614840816, 
       "pcode": 3060, 
-      "street": "Posterijstraat", 
-      "lon": 4.637128614840816
+      "street": "Posterijstraat"
     }
-  ], 
-  "name": "Posterijstraat"
+  ]
 }

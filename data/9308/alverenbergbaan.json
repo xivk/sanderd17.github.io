@@ -1,32 +1,30 @@
 {
-  "pcode": 9308, 
   "addresses": [
     {
-      "lat": 50.962693715845255, 
       "housenumber": "1", 
+      "lat": 50.962693715845255, 
+      "lon": 4.0398052165096745, 
       "pcode": 9308, 
-      "street": "Alverenbergbaan", 
-      "lon": 4.0398052165096745
+      "street": "Alverenbergbaan"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 9308, 
-      "street": "Alverenbergbaan", 
-      "housenumber": "1A"
+      "street": "Alverenbergbaan"
     }, 
     {
-      "lat": 50.96387423278589, 
       "housenumber": "2", 
+      "lat": 50.96387423278589, 
+      "lon": 4.0385993650619785, 
       "pcode": 9308, 
-      "street": "Alverenbergbaan", 
-      "lon": 4.0385993650619785
+      "street": "Alverenbergbaan"
     }, 
     {
-      "lat": 50.96307887897783, 
       "housenumber": "3", 
+      "lat": 50.96307887897783, 
+      "lon": 4.041117950187633, 
       "pcode": 9308, 
-      "street": "Alverenbergbaan", 
-      "lon": 4.041117950187633
+      "street": "Alverenbergbaan"
     }
-  ], 
-  "name": "Alverenbergbaan"
+  ]
 }

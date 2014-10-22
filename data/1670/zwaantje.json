@@ -1,20 +1,18 @@
 {
-  "pcode": 1670, 
   "addresses": [
     {
-      "lat": 50.755478120408746, 
       "housenumber": "1", 
+      "lat": 50.755478120408746, 
+      "lon": 4.142231244210036, 
       "pcode": 1670, 
-      "street": "Zwaantje", 
-      "lon": 4.142231244210036
+      "street": "Zwaantje"
     }, 
     {
-      "lat": 50.757294079649775, 
       "housenumber": "2", 
+      "lat": 50.757294079649775, 
+      "lon": 4.139972802611277, 
       "pcode": 1670, 
-      "street": "Zwaantje", 
-      "lon": 4.139972802611277
+      "street": "Zwaantje"
     }
-  ], 
-  "name": "Zwaantje"
+  ]
 }

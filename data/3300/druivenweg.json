@@ -1,39 +1,37 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.77232540441136, 
       "housenumber": "10", 
+      "lat": 50.77232540441136, 
+      "lon": 4.952322549395366, 
       "pcode": 3300, 
-      "street": "Druivenweg", 
-      "lon": 4.952322549395366
+      "street": "Druivenweg"
     }, 
     {
-      "lat": 50.772827277415495, 
       "housenumber": "25", 
+      "lat": 50.772827277415495, 
+      "lon": 4.95362573457738, 
       "pcode": 3300, 
-      "street": "Druivenweg", 
-      "lon": 4.95362573457738
+      "street": "Druivenweg"
     }, 
     {
-      "lat": 50.77284474843003, 
       "housenumber": "27", 
+      "lat": 50.77284474843003, 
+      "lon": 4.9533499159167995, 
       "pcode": 3300, 
-      "street": "Druivenweg", 
-      "lon": 4.9533499159167995
+      "street": "Druivenweg"
     }, 
     {
+      "housenumber": "41", 
       "pcode": 3300, 
-      "street": "Druivenweg", 
-      "housenumber": "41"
+      "street": "Druivenweg"
     }, 
     {
-      "lat": 50.77229407059656, 
       "housenumber": "8", 
+      "lat": 50.77229407059656, 
+      "lon": 4.953664045291035, 
       "pcode": 3300, 
-      "street": "Druivenweg", 
-      "lon": 4.953664045291035
+      "street": "Druivenweg"
     }
-  ], 
-  "name": "Druivenweg"
+  ]
 }

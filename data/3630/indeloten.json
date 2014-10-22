@@ -1,20 +1,18 @@
 {
-  "pcode": 3630, 
   "addresses": [
     {
-      "lat": 50.96489764470763, 
       "housenumber": "1", 
+      "lat": 50.96489764470763, 
+      "lon": 5.666965794618652, 
       "pcode": 3630, 
-      "street": "In de Loten", 
-      "lon": 5.666965794618652
+      "street": "In de Loten"
     }, 
     {
-      "lat": 50.96580626002535, 
       "housenumber": "2", 
+      "lat": 50.96580626002535, 
+      "lon": 5.666751634446988, 
       "pcode": 3630, 
-      "street": "In de Loten", 
-      "lon": 5.666751634446988
+      "street": "In de Loten"
     }
-  ], 
-  "name": "In de Loten"
+  ]
 }

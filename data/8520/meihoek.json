@@ -1,20 +1,18 @@
 {
-  "pcode": 8520, 
   "addresses": [
     {
-      "lat": 50.8612009873776, 
       "housenumber": "30", 
+      "lat": 50.8612009873776, 
+      "lon": 3.2942691736817147, 
       "pcode": 8520, 
-      "street": "Meihoek", 
-      "lon": 3.2942691736817147
+      "street": "Meihoek"
     }, 
     {
-      "lat": 50.86149432669018, 
       "housenumber": "32", 
+      "lat": 50.86149432669018, 
+      "lon": 3.2938645801722206, 
       "pcode": 8520, 
-      "street": "Meihoek", 
-      "lon": 3.2938645801722206
+      "street": "Meihoek"
     }
-  ], 
-  "name": "Meihoek"
+  ]
 }

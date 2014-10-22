@@ -1,37 +1,35 @@
 {
-  "pcode": 8650, 
   "addresses": [
     {
-      "lat": 50.974820516182476, 
       "housenumber": "1", 
+      "lat": 50.974820516182476, 
+      "lon": 2.9573744772386306, 
       "pcode": 8650, 
-      "street": "Vogelzangdreef", 
-      "lon": 2.9573744772386306
+      "street": "Vogelzangdreef"
     }, 
     {
-      "lat": 50.97489567655269, 
       "housenumber": "2", 
+      "lat": 50.97489567655269, 
+      "lon": 2.9568497225378696, 
       "pcode": 8650, 
-      "street": "Vogelzangdreef", 
-      "lon": 2.9568497225378696
+      "street": "Vogelzangdreef"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 8650, 
-      "street": "Vogelzangdreef", 
-      "housenumber": "2A"
+      "street": "Vogelzangdreef"
     }, 
     {
+      "housenumber": "2D", 
       "pcode": 8650, 
-      "street": "Vogelzangdreef", 
-      "housenumber": "2D"
+      "street": "Vogelzangdreef"
     }, 
     {
-      "lat": 50.97431248854381, 
       "housenumber": "3", 
+      "lat": 50.97431248854381, 
+      "lon": 2.957085730795077, 
       "pcode": 8650, 
-      "street": "Vogelzangdreef", 
-      "lon": 2.957085730795077
+      "street": "Vogelzangdreef"
     }
-  ], 
-  "name": "Vogelzangdreef"
+  ]
 }

@@ -1,328 +1,326 @@
 {
-  "pcode": 3202, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "housenumber": "1"
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.97128442853504, 
       "housenumber": "100", 
+      "lat": 50.97128442853504, 
+      "lon": 4.876486061125174, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.876486061125174
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.97400369131454, 
       "housenumber": "16", 
+      "lat": 50.97400369131454, 
+      "lon": 4.891834899195816, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.891834899195816
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.97402061153109, 
       "housenumber": "18", 
+      "lat": 50.97402061153109, 
+      "lon": 4.891628491209402, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.891628491209402
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.973904589686896, 
       "housenumber": "2", 
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.892912194536226
-    }, 
-    {
-      "lat": 50.97409289909921, 
-      "housenumber": "20", 
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.891363042846397
-    }, 
-    {
-      "lat": 50.9740856037139, 
-      "housenumber": "20A", 
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.891467185554147
-    }, 
-    {
-      "lat": 50.97407427282073, 
-      "housenumber": "20B", 
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.891548929083453
-    }, 
-    {
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "housenumber": "237"
-    }, 
-    {
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "housenumber": "239"
-    }, 
-    {
-      "lat": 50.97423129080466, 
-      "housenumber": "24", 
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.891171089008959
-    }, 
-    {
-      "lat": 50.974035994039305, 
-      "housenumber": "25", 
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.890858230978317
-    }, 
-    {
-      "lat": 50.974041157946786, 
-      "housenumber": "27", 
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.890667211159262
-    }, 
-    {
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "housenumber": "27_1"
-    }, 
-    {
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "housenumber": "27_2"
-    }, 
-    {
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "housenumber": "27_3"
-    }, 
-    {
-      "lat": 50.97409219740568, 
-      "housenumber": "29", 
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.890327770216929
-    }, 
-    {
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "housenumber": "2A"
-    }, 
-    {
-      "lat": 50.973669337530616, 
-      "housenumber": "3", 
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.892750947715752
-    }, 
-    {
-      "lat": 50.974121536956574, 
-      "housenumber": "31", 
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.890239107831607
-    }, 
-    {
-      "lat": 50.974223995675715, 
-      "housenumber": "33", 
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.8900411975262745
-    }, 
-    {
-      "lat": 50.97424082756086, 
-      "housenumber": "34", 
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.88993502472175
-    }, 
-    {
-      "lat": 50.97426518580938, 
-      "housenumber": "35", 
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.889874925398367
-    }, 
-    {
-      "lat": 50.974261118618195, 
-      "housenumber": "38", 
-      "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.889150007149711
-    }, 
-    {
       "lat": 50.973904589686896, 
+      "lon": 4.892912194536226, 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
+      "housenumber": "20", 
+      "lat": 50.97409289909921, 
+      "lon": 4.891363042846397, 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
+      "housenumber": "20A", 
+      "lat": 50.9740856037139, 
+      "lon": 4.891467185554147, 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
+      "housenumber": "20B", 
+      "lat": 50.97407427282073, 
+      "lon": 4.891548929083453, 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
+      "housenumber": "237", 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
+      "housenumber": "239", 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
+      "housenumber": "24", 
+      "lat": 50.97423129080466, 
+      "lon": 4.891171089008959, 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
+      "housenumber": "25", 
+      "lat": 50.974035994039305, 
+      "lon": 4.890858230978317, 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
+      "housenumber": "27", 
+      "lat": 50.974041157946786, 
+      "lon": 4.890667211159262, 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
+      "housenumber": "27_1", 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
+      "housenumber": "27_2", 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
+      "housenumber": "27_3", 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
+      "housenumber": "29", 
+      "lat": 50.97409219740568, 
+      "lon": 4.890327770216929, 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
+      "housenumber": "2A", 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
+      "housenumber": "3", 
+      "lat": 50.973669337530616, 
+      "lon": 4.892750947715752, 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
+      "housenumber": "31", 
+      "lat": 50.974121536956574, 
+      "lon": 4.890239107831607, 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
+      "housenumber": "33", 
+      "lat": 50.974223995675715, 
+      "lon": 4.8900411975262745, 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
+      "housenumber": "34", 
+      "lat": 50.97424082756086, 
+      "lon": 4.88993502472175, 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
+      "housenumber": "35", 
+      "lat": 50.97426518580938, 
+      "lon": 4.889874925398367, 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
+      "housenumber": "38", 
+      "lat": 50.974261118618195, 
+      "lon": 4.889150007149711, 
+      "pcode": 3202, 
+      "street": "Molenstraat"
+    }, 
+    {
       "housenumber": "4", 
+      "lat": 50.973904589686896, 
+      "lon": 4.892912194536226, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.892912194536226
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.974487600977376, 
       "housenumber": "40", 
+      "lat": 50.974487600977376, 
+      "lon": 4.888999034849829, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.888999034849829
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.97421743664037, 
       "housenumber": "42", 
+      "lat": 50.97421743664037, 
+      "lon": 4.888803530703674, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.888803530703674
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.97464473175863, 
       "housenumber": "44", 
+      "lat": 50.97464473175863, 
+      "lon": 4.888898406626243, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.888898406626243
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.97421929078082, 
       "housenumber": "45", 
+      "lat": 50.97421929078082, 
+      "lon": 4.888039096550093, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.888039096550093
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.974181462596015, 
       "housenumber": "46", 
+      "lat": 50.974181462596015, 
+      "lon": 4.887750493851726, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.887750493851726
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.97419443008074, 
       "housenumber": "48", 
+      "lat": 50.97419443008074, 
+      "lon": 4.887460461070034, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.887460461070034
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.973646159394036, 
       "housenumber": "5", 
+      "lat": 50.973646159394036, 
+      "lon": 4.892787992220902, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.892787992220902
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.9741842770198, 
       "housenumber": "50", 
+      "lat": 50.9741842770198, 
+      "lon": 4.88717430121473, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.88717430121473
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.974163328354926, 
       "housenumber": "52", 
+      "lat": 50.974163328354926, 
+      "lon": 4.886889872987911, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.886889872987911
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.974124789298905, 
       "housenumber": "64", 
+      "lat": 50.974124789298905, 
+      "lon": 4.883736522834169, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.883736522834169
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.97438054571488, 
       "housenumber": "68", 
+      "lat": 50.97438054571488, 
+      "lon": 4.883160262541942, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.883160262541942
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.973681400786006, 
       "housenumber": "7", 
+      "lat": 50.973681400786006, 
+      "lon": 4.892505189879933, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.892505189879933
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.97380707970841, 
       "housenumber": "75", 
+      "lat": 50.97380707970841, 
+      "lon": 4.881523263207, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.881523263207
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.97288906170492, 
       "housenumber": "77", 
+      "lat": 50.97288906170492, 
+      "lon": 4.881198693262635, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.881198693262635
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.97389634744074, 
       "housenumber": "8", 
+      "lat": 50.97389634744074, 
+      "lon": 4.892643996655182, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.892643996655182
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.97309800592061, 
       "housenumber": "81", 
+      "lat": 50.97309800592061, 
+      "lon": 4.880077890302504, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.880077890302504
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.97346693784477, 
       "housenumber": "82", 
+      "lat": 50.97346693784477, 
+      "lon": 4.879146194003635, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.879146194003635
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.97346648731456, 
       "housenumber": "87", 
+      "lat": 50.97346648731456, 
+      "lon": 4.877675681642441, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.877675681642441
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.973656039912555, 
       "housenumber": "9", 
+      "lat": 50.973656039912555, 
+      "lon": 4.892406805361732, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.892406805361732
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.973959024163754, 
       "housenumber": "91", 
+      "lat": 50.973959024163754, 
+      "lon": 4.87644829144422, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.87644829144422
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.97425723244929, 
       "housenumber": "92", 
+      "lat": 50.97425723244929, 
+      "lon": 4.876607577275373, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.876607577275373
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.97510439854639, 
       "housenumber": "93", 
+      "lat": 50.97510439854639, 
+      "lon": 4.8775821421912715, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.8775821421912715
+      "street": "Molenstraat"
     }, 
     {
-      "lat": 50.97549663109573, 
       "housenumber": "95", 
+      "lat": 50.97549663109573, 
+      "lon": 4.877721388196336, 
       "pcode": 3202, 
-      "street": "Molenstraat", 
-      "lon": 4.877721388196336
+      "street": "Molenstraat"
     }
-  ], 
-  "name": "Molenstraat"
+  ]
 }

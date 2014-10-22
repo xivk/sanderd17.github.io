@@ -1,27 +1,25 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.87950782972373, 
       "housenumber": "1", 
+      "lat": 50.87950782972373, 
+      "lon": 4.688081518166035, 
       "pcode": 3000, 
-      "street": "Daneelsgang", 
-      "lon": 4.688081518166035
+      "street": "Daneelsgang"
     }, 
     {
-      "lat": 50.879544206729015, 
       "housenumber": "2", 
+      "lat": 50.879544206729015, 
+      "lon": 4.688158638811094, 
       "pcode": 3000, 
-      "street": "Daneelsgang", 
-      "lon": 4.688158638811094
+      "street": "Daneelsgang"
     }, 
     {
-      "lat": 50.87948799184208, 
       "housenumber": "4", 
+      "lat": 50.87948799184208, 
+      "lon": 4.688268662614032, 
       "pcode": 3000, 
-      "street": "Daneelsgang", 
-      "lon": 4.688268662614032
+      "street": "Daneelsgang"
     }
-  ], 
-  "name": "Daneelsgang"
+  ]
 }

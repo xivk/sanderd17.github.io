@@ -1,32 +1,30 @@
 {
-  "pcode": 2531, 
   "addresses": [
     {
-      "lat": 51.1723896205664, 
       "housenumber": "12", 
+      "lat": 51.1723896205664, 
+      "lon": 4.5355356743126345, 
       "pcode": 2531, 
-      "street": "Beemdweg", 
-      "lon": 4.5355356743126345
+      "street": "Beemdweg"
     }, 
     {
-      "lat": 51.17127718082023, 
       "housenumber": "16", 
+      "lat": 51.17127718082023, 
+      "lon": 4.532021642709952, 
       "pcode": 2531, 
-      "street": "Beemdweg", 
-      "lon": 4.532021642709952
+      "street": "Beemdweg"
     }, 
     {
+      "housenumber": "76", 
       "pcode": 2531, 
-      "street": "Beemdweg", 
-      "housenumber": "76"
+      "street": "Beemdweg"
     }, 
     {
-      "lat": 51.173371546982686, 
       "housenumber": "8", 
+      "lat": 51.173371546982686, 
+      "lon": 4.535335154451444, 
       "pcode": 2531, 
-      "street": "Beemdweg", 
-      "lon": 4.535335154451444
+      "street": "Beemdweg"
     }
-  ], 
-  "name": "Beemdweg"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8958, 
   "addresses": [
     {
-      "lat": 50.78021131604394, 
       "housenumber": "1", 
+      "lat": 50.78021131604394, 
+      "lon": 2.8013985512812174, 
       "pcode": 8958, 
-      "street": "Montebergstraat", 
-      "lon": 2.8013985512812174
+      "street": "Montebergstraat"
     }, 
     {
-      "lat": 50.77912206631119, 
       "housenumber": "2", 
+      "lat": 50.77912206631119, 
+      "lon": 2.800861139419657, 
       "pcode": 8958, 
-      "street": "Montebergstraat", 
-      "lon": 2.800861139419657
+      "street": "Montebergstraat"
     }
-  ], 
-  "name": "Montebergstraat"
+  ]
 }

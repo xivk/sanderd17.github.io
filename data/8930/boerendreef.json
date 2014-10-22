@@ -1,20 +1,18 @@
 {
-  "pcode": 8930, 
   "addresses": [
     {
-      "lat": 50.81577870974805, 
       "housenumber": "50", 
+      "lat": 50.81577870974805, 
+      "lon": 3.1434117587085106, 
       "pcode": 8930, 
-      "street": "Boerendreef", 
-      "lon": 3.1434117587085106
+      "street": "Boerendreef"
     }, 
     {
-      "lat": 50.81862067862324, 
       "housenumber": "80", 
+      "lat": 50.81862067862324, 
+      "lon": 3.1504074656219294, 
       "pcode": 8930, 
-      "street": "Boerendreef", 
-      "lon": 3.1504074656219294
+      "street": "Boerendreef"
     }
-  ], 
-  "name": "Boerendreef"
+  ]
 }

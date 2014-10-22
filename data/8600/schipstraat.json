@@ -1,33 +1,31 @@
 {
-  "pcode": 8600, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8600, 
-      "street": "Schipstraat", 
-      "housenumber": "1"
+      "street": "Schipstraat"
     }, 
     {
-      "lat": 51.032998100610186, 
       "housenumber": "11", 
+      "lat": 51.032998100610186, 
+      "lon": 2.862337107386301, 
       "pcode": 8600, 
-      "street": "Schipstraat", 
-      "lon": 2.862337107386301
+      "street": "Schipstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8600, 
-      "street": "Schipstraat", 
-      "housenumber": "2"
+      "street": "Schipstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8600, 
-      "street": "Schipstraat", 
-      "housenumber": "3"
+      "street": "Schipstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8600, 
-      "street": "Schipstraat", 
-      "housenumber": "4"
+      "street": "Schipstraat"
     }
-  ], 
-  "name": "Schipstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3150, 
   "addresses": [
     {
-      "lat": 50.93546824892519, 
       "housenumber": "1", 
+      "lat": 50.93546824892519, 
+      "lon": 4.661423670208952, 
       "pcode": 3150, 
-      "street": "Papendriesweg", 
-      "lon": 4.661423670208952
+      "street": "Papendriesweg"
     }, 
     {
-      "lat": 50.935768682351934, 
       "housenumber": "2", 
+      "lat": 50.935768682351934, 
+      "lon": 4.655343620951442, 
       "pcode": 3150, 
-      "street": "Papendriesweg", 
-      "lon": 4.655343620951442
+      "street": "Papendriesweg"
     }
-  ], 
-  "name": "Papendriesweg"
+  ]
 }

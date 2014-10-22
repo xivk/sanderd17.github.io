@@ -1,27 +1,25 @@
 {
-  "pcode": 9130, 
   "addresses": [
     {
-      "lat": 51.31051355139089, 
       "housenumber": "1", 
+      "lat": 51.31051355139089, 
+      "lon": 4.265616351675692, 
       "pcode": 9130, 
-      "street": "Parkstraat", 
-      "lon": 4.265616351675692
+      "street": "Parkstraat"
     }, 
     {
-      "lat": 51.31044389188724, 
       "housenumber": "3", 
+      "lat": 51.31044389188724, 
+      "lon": 4.265614067074792, 
       "pcode": 9130, 
-      "street": "Parkstraat", 
-      "lon": 4.265614067074792
+      "street": "Parkstraat"
     }, 
     {
-      "lat": 51.31028341983383, 
       "housenumber": "5", 
+      "lat": 51.31028341983383, 
+      "lon": 4.265677519779123, 
       "pcode": 9130, 
-      "street": "Parkstraat", 
-      "lon": 4.265677519779123
+      "street": "Parkstraat"
     }
-  ], 
-  "name": "Parkstraat"
+  ]
 }

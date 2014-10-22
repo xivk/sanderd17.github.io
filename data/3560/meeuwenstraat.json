@@ -1,20 +1,18 @@
 {
-  "pcode": 3560, 
   "addresses": [
     {
-      "lat": 50.97642930455093, 
       "housenumber": "2", 
+      "lat": 50.97642930455093, 
+      "lon": 5.1752449178524556, 
       "pcode": 3560, 
-      "street": "Meeuwenstraat", 
-      "lon": 5.1752449178524556
+      "street": "Meeuwenstraat"
     }, 
     {
-      "lat": 50.976473274983675, 
       "housenumber": "3", 
+      "lat": 50.976473274983675, 
+      "lon": 5.175897985806327, 
       "pcode": 3560, 
-      "street": "Meeuwenstraat", 
-      "lon": 5.175897985806327
+      "street": "Meeuwenstraat"
     }
-  ], 
-  "name": "Meeuwenstraat"
+  ]
 }

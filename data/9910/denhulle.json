@@ -1,20 +1,18 @@
 {
-  "pcode": 9910, 
   "addresses": [
     {
-      "lat": 51.13449424847342, 
       "housenumber": "1", 
+      "lat": 51.13449424847342, 
+      "lon": 3.4961239249216782, 
       "pcode": 9910, 
-      "street": "Den Hulle", 
-      "lon": 3.4961239249216782
+      "street": "Den Hulle"
     }, 
     {
-      "lat": 51.13396539666029, 
       "housenumber": "3", 
+      "lat": 51.13396539666029, 
+      "lon": 3.496645721827791, 
       "pcode": 9910, 
-      "street": "Den Hulle", 
-      "lon": 3.496645721827791
+      "street": "Den Hulle"
     }
-  ], 
-  "name": "Den Hulle"
+  ]
 }

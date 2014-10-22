@@ -1,20 +1,18 @@
 {
-  "pcode": 2321, 
   "addresses": [
     {
-      "lat": 51.47411325817006, 
       "housenumber": "1", 
+      "lat": 51.47411325817006, 
+      "lon": 4.7248139039814046, 
       "pcode": 2321, 
-      "street": "Parijsstraat", 
-      "lon": 4.7248139039814046
+      "street": "Parijsstraat"
     }, 
     {
-      "lat": 51.475152947502075, 
       "housenumber": "2", 
+      "lat": 51.475152947502075, 
+      "lon": 4.724689209792849, 
       "pcode": 2321, 
-      "street": "Parijsstraat", 
-      "lon": 4.724689209792849
+      "street": "Parijsstraat"
     }
-  ], 
-  "name": "Parijsstraat"
+  ]
 }

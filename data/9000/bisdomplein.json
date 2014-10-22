@@ -1,20 +1,18 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.052787814651865, 
       "housenumber": "1", 
+      "lat": 51.052787814651865, 
+      "lon": 3.728398465885508, 
       "pcode": 9000, 
-      "street": "Bisdomplein", 
-      "lon": 3.728398465885508
+      "street": "Bisdomplein"
     }, 
     {
-      "lat": 51.0529868191092, 
       "housenumber": "3", 
+      "lat": 51.0529868191092, 
+      "lon": 3.729041121732757, 
       "pcode": 9000, 
-      "street": "Bisdomplein", 
-      "lon": 3.729041121732757
+      "street": "Bisdomplein"
     }
-  ], 
-  "name": "Bisdomplein"
+  ]
 }

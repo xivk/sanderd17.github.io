@@ -1,20 +1,18 @@
 {
-  "pcode": 2220, 
   "addresses": [
     {
-      "lat": 51.07571519215559, 
       "housenumber": "1", 
+      "lat": 51.07571519215559, 
+      "lon": 4.717391083013428, 
       "pcode": 2220, 
-      "street": "Cultuurplein", 
-      "lon": 4.717391083013428
+      "street": "Cultuurplein"
     }, 
     {
-      "lat": 51.075139712620455, 
       "housenumber": "2", 
+      "lat": 51.075139712620455, 
+      "lon": 4.7167859246462065, 
       "pcode": 2220, 
-      "street": "Cultuurplein", 
-      "lon": 4.7167859246462065
+      "street": "Cultuurplein"
     }
-  ], 
-  "name": "Cultuurplein"
+  ]
 }

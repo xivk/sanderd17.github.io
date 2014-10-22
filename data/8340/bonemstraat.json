@@ -1,27 +1,25 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.24146521577104, 
       "housenumber": "1", 
+      "lat": 51.24146521577104, 
+      "lon": 3.301599938964688, 
       "pcode": 8340, 
-      "street": "Bonemstraat", 
-      "lon": 3.301599938964688
+      "street": "Bonemstraat"
     }, 
     {
-      "lat": 51.24249092979681, 
       "housenumber": "2", 
+      "lat": 51.24249092979681, 
+      "lon": 3.3016643999426387, 
       "pcode": 8340, 
-      "street": "Bonemstraat", 
-      "lon": 3.3016643999426387
+      "street": "Bonemstraat"
     }, 
     {
-      "lat": 51.24275399579385, 
       "housenumber": "4", 
+      "lat": 51.24275399579385, 
+      "lon": 3.301768655609187, 
       "pcode": 8340, 
-      "street": "Bonemstraat", 
-      "lon": 3.301768655609187
+      "street": "Bonemstraat"
     }
-  ], 
-  "name": "Bonemstraat"
+  ]
 }

@@ -1,61 +1,59 @@
 {
-  "pcode": 3990, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3990, 
-      "street": "Mariahof", 
-      "housenumber": "1"
+      "street": "Mariahof"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3990, 
-      "street": "Mariahof", 
-      "housenumber": "2"
+      "street": "Mariahof"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3990, 
-      "street": "Mariahof", 
-      "housenumber": "3"
+      "street": "Mariahof"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3990, 
-      "street": "Mariahof", 
-      "housenumber": "4"
+      "street": "Mariahof"
     }, 
     {
-      "lat": 51.15324680279928, 
       "housenumber": "5", 
+      "lat": 51.15324680279928, 
+      "lon": 5.5071391379560595, 
       "pcode": 3990, 
-      "street": "Mariahof", 
-      "lon": 5.5071391379560595
+      "street": "Mariahof"
     }, 
     {
-      "lat": 51.15313188065824, 
       "housenumber": "6", 
+      "lat": 51.15313188065824, 
+      "lon": 5.506974953069662, 
       "pcode": 3990, 
-      "street": "Mariahof", 
-      "lon": 5.506974953069662
+      "street": "Mariahof"
     }, 
     {
-      "lat": 51.15274661234788, 
       "housenumber": "7", 
+      "lat": 51.15274661234788, 
+      "lon": 5.506943971900865, 
       "pcode": 3990, 
-      "street": "Mariahof", 
-      "lon": 5.506943971900865
+      "street": "Mariahof"
     }, 
     {
-      "lat": 51.15270045008183, 
       "housenumber": "8", 
+      "lat": 51.15270045008183, 
+      "lon": 5.507218864200224, 
       "pcode": 3990, 
-      "street": "Mariahof", 
-      "lon": 5.507218864200224
+      "street": "Mariahof"
     }, 
     {
-      "lat": 51.15264983862197, 
       "housenumber": "9", 
+      "lat": 51.15264983862197, 
+      "lon": 5.507097702468801, 
       "pcode": 3990, 
-      "street": "Mariahof", 
-      "lon": 5.507097702468801
+      "street": "Mariahof"
     }
-  ], 
-  "name": "Mariahof"
+  ]
 }

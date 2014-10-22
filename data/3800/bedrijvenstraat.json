@@ -1,20 +1,18 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
-      "lat": 50.81102959939304, 
       "housenumber": "4407", 
+      "lat": 50.81102959939304, 
+      "lon": 5.214620000331057, 
       "pcode": 3800, 
-      "street": "Bedrijvenstraat", 
-      "lon": 5.214620000331057
+      "street": "Bedrijvenstraat"
     }, 
     {
-      "lat": 50.81201121955877, 
       "housenumber": "4501", 
+      "lat": 50.81201121955877, 
+      "lon": 5.211068084079135, 
       "pcode": 3800, 
-      "street": "Bedrijvenstraat", 
-      "lon": 5.211068084079135
+      "street": "Bedrijvenstraat"
     }
-  ], 
-  "name": "Bedrijvenstraat"
+  ]
 }

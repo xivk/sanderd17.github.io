@@ -1,18 +1,16 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 51.01001702305544, 
       "housenumber": "1", 
+      "lat": 51.01001702305544, 
+      "lon": 3.577882379107661, 
       "pcode": 9800, 
-      "street": "Kloosterstraat", 
-      "lon": 3.577882379107661
+      "street": "Kloosterstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9800, 
-      "street": "Kloosterstraat", 
-      "housenumber": "3"
+      "street": "Kloosterstraat"
     }
-  ], 
-  "name": "Kloosterstraat"
+  ]
 }

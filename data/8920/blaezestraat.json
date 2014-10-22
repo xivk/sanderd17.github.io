@@ -1,20 +1,18 @@
 {
-  "pcode": 8920, 
   "addresses": [
     {
-      "lat": 50.92119819929951, 
       "housenumber": "1", 
+      "lat": 50.92119819929951, 
+      "lon": 2.8465622315601973, 
       "pcode": 8920, 
-      "street": "Blaezestraat", 
-      "lon": 2.8465622315601973
+      "street": "Blaezestraat"
     }, 
     {
-      "lat": 50.91296700665556, 
       "housenumber": "2", 
+      "lat": 50.91296700665556, 
+      "lon": 2.8517340734037644, 
       "pcode": 8920, 
-      "street": "Blaezestraat", 
-      "lon": 2.8517340734037644
+      "street": "Blaezestraat"
     }
-  ], 
-  "name": "Blaezestraat"
+  ]
 }

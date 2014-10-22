@@ -1,20 +1,18 @@
 {
-  "pcode": 3720, 
   "addresses": [
     {
-      "lat": 50.85640370181346, 
       "housenumber": "2", 
+      "lat": 50.85640370181346, 
+      "lon": 5.385041686037998, 
       "pcode": 3720, 
-      "street": "Kortestraat", 
-      "lon": 5.385041686037998
+      "street": "Kortestraat"
     }, 
     {
-      "lat": 50.85660023914645, 
       "housenumber": "8", 
+      "lat": 50.85660023914645, 
+      "lon": 5.384605057621782, 
       "pcode": 3720, 
-      "street": "Kortestraat", 
-      "lon": 5.384605057621782
+      "street": "Kortestraat"
     }
-  ], 
-  "name": "Kortestraat"
+  ]
 }

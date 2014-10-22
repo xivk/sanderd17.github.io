@@ -1,20 +1,18 @@
 {
-  "pcode": 3210, 
   "addresses": [
     {
-      "lat": 50.87555124652119, 
       "housenumber": "1", 
+      "lat": 50.87555124652119, 
+      "lon": 4.834584880221405, 
       "pcode": 3210, 
-      "street": "Uilekotwegje", 
-      "lon": 4.834584880221405
+      "street": "Uilekotwegje"
     }, 
     {
-      "lat": 50.87482554732353, 
       "housenumber": "5", 
+      "lat": 50.87482554732353, 
+      "lon": 4.833557957327974, 
       "pcode": 3210, 
-      "street": "Uilekotwegje", 
-      "lon": 4.833557957327974
+      "street": "Uilekotwegje"
     }
-  ], 
-  "name": "Uilekotwegje"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3201, 
   "addresses": [
     {
-      "lat": 51.00101079160687, 
       "housenumber": "16", 
+      "lat": 51.00101079160687, 
+      "lon": 4.916707572782976, 
       "pcode": 3201, 
-      "street": "Hondsdorestraat", 
-      "lon": 4.916707572782976
+      "street": "Hondsdorestraat"
     }, 
     {
-      "lat": 51.001826155930225, 
       "housenumber": "8", 
+      "lat": 51.001826155930225, 
+      "lon": 4.916835796572897, 
       "pcode": 3201, 
-      "street": "Hondsdorestraat", 
-      "lon": 4.916835796572897
+      "street": "Hondsdorestraat"
     }
-  ], 
-  "name": "Hondsdorestraat"
+  ]
 }

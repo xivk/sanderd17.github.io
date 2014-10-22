@@ -1,42 +1,40 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8420, 
-      "street": "Floorhelling", 
-      "housenumber": "1"
+      "street": "Floorhelling"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 8420, 
-      "street": "Floorhelling", 
-      "housenumber": "1A"
+      "street": "Floorhelling"
     }, 
     {
-      "lat": 51.30130874883591, 
       "housenumber": "2", 
+      "lat": 51.30130874883591, 
+      "lon": 3.0788146201733935, 
       "pcode": 8420, 
-      "street": "Floorhelling", 
-      "lon": 3.0788146201733935
+      "street": "Floorhelling"
     }, 
     {
-      "lat": 51.301507028740254, 
       "housenumber": "3", 
+      "lat": 51.301507028740254, 
+      "lon": 3.0789690211818255, 
       "pcode": 8420, 
-      "street": "Floorhelling", 
-      "lon": 3.0789690211818255
+      "street": "Floorhelling"
     }, 
     {
-      "lat": 51.30135840886202, 
       "housenumber": "4", 
+      "lat": 51.30135840886202, 
+      "lon": 3.0787603292635395, 
       "pcode": 8420, 
-      "street": "Floorhelling", 
-      "lon": 3.0787603292635395
+      "street": "Floorhelling"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 8420, 
-      "street": "Floorhelling", 
-      "housenumber": "6"
+      "street": "Floorhelling"
     }
-  ], 
-  "name": "Floorhelling"
+  ]
 }

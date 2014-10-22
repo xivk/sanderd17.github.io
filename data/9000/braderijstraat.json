@@ -1,84 +1,82 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05796047979655, 
       "housenumber": "1", 
-      "pcode": 9000, 
-      "street": "Braderijstraat", 
-      "lon": 3.7187470696391434
-    }, 
-    {
-      "lat": 51.05801753781236, 
-      "housenumber": "11", 
-      "pcode": 9000, 
-      "street": "Braderijstraat", 
-      "lon": 3.7190364076809184
-    }, 
-    {
-      "lat": 51.057964588327486, 
-      "housenumber": "1A", 
-      "pcode": 9000, 
-      "street": "Braderijstraat", 
-      "lon": 3.718758566456356
-    }, 
-    {
       "lat": 51.05796047979655, 
+      "lon": 3.7187470696391434, 
+      "pcode": 9000, 
+      "street": "Braderijstraat"
+    }, 
+    {
+      "housenumber": "11", 
+      "lat": 51.05801753781236, 
+      "lon": 3.7190364076809184, 
+      "pcode": 9000, 
+      "street": "Braderijstraat"
+    }, 
+    {
+      "housenumber": "1A", 
+      "lat": 51.057964588327486, 
+      "lon": 3.718758566456356, 
+      "pcode": 9000, 
+      "street": "Braderijstraat"
+    }, 
+    {
       "housenumber": "1B", 
+      "lat": 51.05796047979655, 
+      "lon": 3.7187470696391434, 
       "pcode": 9000, 
-      "street": "Braderijstraat", 
-      "lon": 3.7187470696391434
+      "street": "Braderijstraat"
     }, 
     {
-      "lat": 51.057880713171684, 
       "housenumber": "2", 
+      "lat": 51.057880713171684, 
+      "lon": 3.719247129836647, 
       "pcode": 9000, 
-      "street": "Braderijstraat", 
-      "lon": 3.719247129836647
+      "street": "Braderijstraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 9000, 
-      "street": "Braderijstraat", 
-      "housenumber": "2A"
+      "street": "Braderijstraat"
     }, 
     {
+      "housenumber": "2B", 
       "pcode": 9000, 
-      "street": "Braderijstraat", 
-      "housenumber": "2B"
+      "street": "Braderijstraat"
     }, 
     {
-      "lat": 51.05787511992153, 
       "housenumber": "2C", 
+      "lat": 51.05787511992153, 
+      "lon": 3.71927616322562, 
       "pcode": 9000, 
-      "street": "Braderijstraat", 
-      "lon": 3.71927616322562
+      "street": "Braderijstraat"
     }, 
     {
-      "lat": 51.05799652516253, 
       "housenumber": "3", 
-      "pcode": 9000, 
-      "street": "Braderijstraat", 
-      "lon": 3.718860966705618
-    }, 
-    {
       "lat": 51.05799652516253, 
+      "lon": 3.718860966705618, 
+      "pcode": 9000, 
+      "street": "Braderijstraat"
+    }, 
+    {
       "housenumber": "5", 
+      "lat": 51.05799652516253, 
+      "lon": 3.718860966705618, 
       "pcode": 9000, 
-      "street": "Braderijstraat", 
-      "lon": 3.718860966705618
+      "street": "Braderijstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 9000, 
-      "street": "Braderijstraat", 
-      "housenumber": "7"
+      "street": "Braderijstraat"
     }, 
     {
-      "lat": 51.05802709349469, 
       "housenumber": "9", 
+      "lat": 51.05802709349469, 
+      "lon": 3.718943416470183, 
       "pcode": 9000, 
-      "street": "Braderijstraat", 
-      "lon": 3.718943416470183
+      "street": "Braderijstraat"
     }
-  ], 
-  "name": "Braderijstraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 8510, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 8510, 
-      "street": "Kantineweg", 
-      "housenumber": "2"
+      "street": "Kantineweg"
     }, 
     {
-      "lat": 50.77930984858316, 
       "housenumber": "4", 
+      "lat": 50.77930984858316, 
+      "lon": 3.3073874458152335, 
       "pcode": 8510, 
-      "street": "Kantineweg", 
-      "lon": 3.3073874458152335
+      "street": "Kantineweg"
     }
-  ], 
-  "name": "Kantineweg"
+  ]
 }

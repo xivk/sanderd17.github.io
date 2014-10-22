@@ -1,18 +1,16 @@
 {
-  "pcode": 9420, 
   "addresses": [
     {
-      "lat": 50.945630847891685, 
       "housenumber": "1", 
+      "lat": 50.945630847891685, 
+      "lon": 3.9745276322568, 
       "pcode": 9420, 
-      "street": "Boskouterstraatje", 
-      "lon": 3.9745276322568
+      "street": "Boskouterstraatje"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9420, 
-      "street": "Boskouterstraatje", 
-      "housenumber": "3"
+      "street": "Boskouterstraatje"
     }
-  ], 
-  "name": "Boskouterstraatje"
+  ]
 }

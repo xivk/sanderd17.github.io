@@ -1,51 +1,49 @@
 {
-  "pcode": 8300, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 8300, 
-      "street": "Uilenspiegelpad", 
-      "housenumber": "10"
+      "street": "Uilenspiegelpad"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8300, 
-      "street": "Uilenspiegelpad", 
-      "housenumber": "3"
+      "street": "Uilenspiegelpad"
     }, 
     {
-      "lat": 51.34071006524421, 
       "housenumber": "4", 
+      "lat": 51.34071006524421, 
+      "lon": 3.295738084636067, 
       "pcode": 8300, 
-      "street": "Uilenspiegelpad", 
-      "lon": 3.295738084636067
+      "street": "Uilenspiegelpad"
     }, 
     {
-      "lat": 51.340394561635215, 
       "housenumber": "5", 
+      "lat": 51.340394561635215, 
+      "lon": 3.2959772809613384, 
       "pcode": 8300, 
-      "street": "Uilenspiegelpad", 
-      "lon": 3.2959772809613384
+      "street": "Uilenspiegelpad"
     }, 
     {
-      "lat": 51.340654640427935, 
       "housenumber": "6", 
+      "lat": 51.340654640427935, 
+      "lon": 3.295771940897411, 
       "pcode": 8300, 
-      "street": "Uilenspiegelpad", 
-      "lon": 3.295771940897411
+      "street": "Uilenspiegelpad"
     }, 
     {
-      "lat": 51.34039493409236, 
       "housenumber": "7", 
+      "lat": 51.34039493409236, 
+      "lon": 3.2959787075300793, 
       "pcode": 8300, 
-      "street": "Uilenspiegelpad", 
-      "lon": 3.2959787075300793
+      "street": "Uilenspiegelpad"
     }, 
     {
-      "lat": 51.34052473573089, 
       "housenumber": "8", 
+      "lat": 51.34052473573089, 
+      "lon": 3.2956311333185213, 
       "pcode": 8300, 
-      "street": "Uilenspiegelpad", 
-      "lon": 3.2956311333185213
+      "street": "Uilenspiegelpad"
     }
-  ], 
-  "name": "Uilenspiegelpad"
+  ]
 }

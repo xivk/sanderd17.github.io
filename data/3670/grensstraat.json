@@ -1,20 +1,18 @@
 {
-  "pcode": 3670, 
   "addresses": [
     {
-      "lat": 51.10939200699803, 
       "housenumber": "1", 
+      "lat": 51.10939200699803, 
+      "lon": 5.567356944495026, 
       "pcode": 3670, 
-      "street": "Grensstraat", 
-      "lon": 5.567356944495026
+      "street": "Grensstraat"
     }, 
     {
-      "lat": 51.110778314806396, 
       "housenumber": "3", 
+      "lat": 51.110778314806396, 
+      "lon": 5.566316128226146, 
       "pcode": 3670, 
-      "street": "Grensstraat", 
-      "lon": 5.566316128226146
+      "street": "Grensstraat"
     }
-  ], 
-  "name": "Grensstraat"
+  ]
 }

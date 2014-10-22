@@ -1,20 +1,18 @@
 {
-  "pcode": 3620, 
   "addresses": [
     {
-      "lat": 50.87516499515138, 
       "housenumber": "1", 
+      "lat": 50.87516499515138, 
+      "lon": 5.625717858589639, 
       "pcode": 3620, 
-      "street": "Beekveldweg", 
-      "lon": 5.625717858589639
+      "street": "Beekveldweg"
     }, 
     {
-      "lat": 50.87599912465627, 
       "housenumber": "9", 
+      "lat": 50.87599912465627, 
+      "lon": 5.623898972325493, 
       "pcode": 3620, 
-      "street": "Beekveldweg", 
-      "lon": 5.623898972325493
+      "street": "Beekveldweg"
     }
-  ], 
-  "name": "Beekveldweg"
+  ]
 }

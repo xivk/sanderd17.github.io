@@ -1,20 +1,18 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.2709399655058, 
       "housenumber": "1", 
+      "lat": 51.2709399655058, 
+      "lon": 3.274976661399202, 
       "pcode": 8340, 
-      "street": "Versevaartdijk", 
-      "lon": 3.274976661399202
+      "street": "Versevaartdijk"
     }, 
     {
-      "lat": 51.27145021644022, 
       "housenumber": "3", 
+      "lat": 51.27145021644022, 
+      "lon": 3.275904471222517, 
       "pcode": 8340, 
-      "street": "Versevaartdijk", 
-      "lon": 3.275904471222517
+      "street": "Versevaartdijk"
     }
-  ], 
-  "name": "Versevaartdijk"
+  ]
 }

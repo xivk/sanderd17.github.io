@@ -1,20 +1,18 @@
 {
-  "pcode": 2240, 
   "addresses": [
     {
-      "lat": 51.18788879036447, 
       "housenumber": "1", 
+      "lat": 51.18788879036447, 
+      "lon": 4.649312058344926, 
       "pcode": 2240, 
-      "street": "Groeneweg", 
-      "lon": 4.649312058344926
+      "street": "Groeneweg"
     }, 
     {
-      "lat": 51.18798296588573, 
       "housenumber": "3", 
+      "lat": 51.18798296588573, 
+      "lon": 4.649133548865255, 
       "pcode": 2240, 
-      "street": "Groeneweg", 
-      "lon": 4.649133548865255
+      "street": "Groeneweg"
     }
-  ], 
-  "name": "Groeneweg"
+  ]
 }

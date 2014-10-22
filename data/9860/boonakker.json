@@ -1,20 +1,18 @@
 {
-  "pcode": 9860, 
   "addresses": [
     {
-      "lat": 50.959656760298465, 
       "housenumber": "1", 
+      "lat": 50.959656760298465, 
+      "lon": 3.7986002124604097, 
       "pcode": 9860, 
-      "street": "Boonakker", 
-      "lon": 3.7986002124604097
+      "street": "Boonakker"
     }, 
     {
-      "lat": 50.963976618026926, 
       "housenumber": "2", 
+      "lat": 50.963976618026926, 
+      "lon": 3.799243425176927, 
       "pcode": 9860, 
-      "street": "Boonakker", 
-      "lon": 3.799243425176927
+      "street": "Boonakker"
     }
-  ], 
-  "name": "Boonakker"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8820, 
   "addresses": [
     {
-      "lat": 51.03987058214434, 
       "housenumber": "1", 
+      "lat": 51.03987058214434, 
+      "lon": 3.062523518058551, 
       "pcode": 8820, 
-      "street": "Zandstraat", 
-      "lon": 3.062523518058551
+      "street": "Zandstraat"
     }, 
     {
-      "lat": 51.039967629432404, 
       "housenumber": "1A", 
+      "lat": 51.039967629432404, 
+      "lon": 3.062235322783559, 
       "pcode": 8820, 
-      "street": "Zandstraat", 
-      "lon": 3.062235322783559
+      "street": "Zandstraat"
     }
-  ], 
-  "name": "Zandstraat"
+  ]
 }

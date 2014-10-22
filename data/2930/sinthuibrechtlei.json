@@ -1,30 +1,28 @@
 {
-  "pcode": 2930, 
   "addresses": [
     {
-      "lat": 51.27965355019886, 
       "housenumber": "1", 
+      "lat": 51.27965355019886, 
+      "lon": 4.45362044255469, 
       "pcode": 2930, 
-      "street": "Sint Huibrechtlei", 
-      "lon": 4.45362044255469
+      "street": "Sint Huibrechtlei"
     }, 
     {
-      "lat": 51.279650256363865, 
       "housenumber": "3", 
+      "lat": 51.279650256363865, 
+      "lon": 4.453824944818153, 
       "pcode": 2930, 
-      "street": "Sint Huibrechtlei", 
-      "lon": 4.453824944818153
+      "street": "Sint Huibrechtlei"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2930, 
-      "street": "Sint Huibrechtlei", 
-      "housenumber": "5"
+      "street": "Sint Huibrechtlei"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2930, 
-      "street": "Sint Huibrechtlei", 
-      "housenumber": "7"
+      "street": "Sint Huibrechtlei"
     }
-  ], 
-  "name": "Sint Huibrechtlei"
+  ]
 }

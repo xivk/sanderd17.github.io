@@ -1,32 +1,30 @@
 {
-  "pcode": 3620, 
   "addresses": [
     {
-      "lat": 50.89190149384374, 
       "housenumber": "3", 
+      "lat": 50.89190149384374, 
+      "lon": 5.630430902772336, 
       "pcode": 3620, 
-      "street": "Zandstraat", 
-      "lon": 5.630430902772336
+      "street": "Zandstraat"
     }, 
     {
-      "lat": 50.892117914337994, 
       "housenumber": "4", 
+      "lat": 50.892117914337994, 
+      "lon": 5.63083915088479, 
       "pcode": 3620, 
-      "street": "Zandstraat", 
-      "lon": 5.63083915088479
+      "street": "Zandstraat"
     }, 
     {
-      "lat": 50.891985370880874, 
       "housenumber": "5", 
+      "lat": 50.891985370880874, 
+      "lon": 5.6303478671641605, 
       "pcode": 3620, 
-      "street": "Zandstraat", 
-      "lon": 5.6303478671641605
+      "street": "Zandstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3620, 
-      "street": "Zandstraat", 
-      "housenumber": "7"
+      "street": "Zandstraat"
     }
-  ], 
-  "name": "Zandstraat"
+  ]
 }

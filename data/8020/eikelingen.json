@@ -1,25 +1,23 @@
 {
-  "pcode": 8020, 
   "addresses": [
     {
-      "lat": 51.109115822473974, 
       "housenumber": "1", 
+      "lat": 51.109115822473974, 
+      "lon": 3.2568899049469264, 
       "pcode": 8020, 
-      "street": "Eikelingen", 
-      "lon": 3.2568899049469264
+      "street": "Eikelingen"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8020, 
-      "street": "Eikelingen", 
-      "housenumber": "3"
+      "street": "Eikelingen"
     }, 
     {
-      "lat": 51.11032172259096, 
       "housenumber": "5", 
+      "lat": 51.11032172259096, 
+      "lon": 3.254793914272212, 
       "pcode": 8020, 
-      "street": "Eikelingen", 
-      "lon": 3.254793914272212
+      "street": "Eikelingen"
     }
-  ], 
-  "name": "Eikelingen"
+  ]
 }

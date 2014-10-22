@@ -1,20 +1,18 @@
 {
-  "pcode": 8730, 
   "addresses": [
     {
-      "lat": 51.13287393947265, 
       "housenumber": "1", 
+      "lat": 51.13287393947265, 
+      "lon": 3.315130206267037, 
       "pcode": 8730, 
-      "street": "Konijnenpad", 
-      "lon": 3.315130206267037
+      "street": "Konijnenpad"
     }, 
     {
-      "lat": 51.13305133679245, 
       "housenumber": "2", 
+      "lat": 51.13305133679245, 
+      "lon": 3.314841737628127, 
       "pcode": 8730, 
-      "street": "Konijnenpad", 
-      "lon": 3.314841737628127
+      "street": "Konijnenpad"
     }
-  ], 
-  "name": "Konijnenpad"
+  ]
 }

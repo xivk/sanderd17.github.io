@@ -1,18 +1,16 @@
 {
-  "pcode": 8720, 
   "addresses": [
     {
+      "housenumber": "4", 
       "pcode": 8720, 
-      "street": "Speibeekstraat", 
-      "housenumber": "4"
+      "street": "Speibeekstraat"
     }, 
     {
-      "lat": 50.965822052467175, 
       "housenumber": "5", 
+      "lat": 50.965822052467175, 
+      "lon": 3.417667741440108, 
       "pcode": 8720, 
-      "street": "Speibeekstraat", 
-      "lon": 3.417667741440108
+      "street": "Speibeekstraat"
     }
-  ], 
-  "name": "Speibeekstraat"
+  ]
 }

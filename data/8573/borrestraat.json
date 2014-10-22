@@ -1,20 +1,18 @@
 {
-  "pcode": 8573, 
   "addresses": [
     {
-      "lat": 50.82678452423932, 
       "housenumber": "1", 
+      "lat": 50.82678452423932, 
+      "lon": 3.460480073149341, 
       "pcode": 8573, 
-      "street": "Borrestraat", 
-      "lon": 3.460480073149341
+      "street": "Borrestraat"
     }, 
     {
-      "lat": 50.828326767918306, 
       "housenumber": "2", 
+      "lat": 50.828326767918306, 
+      "lon": 3.458851825334713, 
       "pcode": 8573, 
-      "street": "Borrestraat", 
-      "lon": 3.458851825334713
+      "street": "Borrestraat"
     }
-  ], 
-  "name": "Borrestraat"
+  ]
 }

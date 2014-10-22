@@ -1,20 +1,18 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.268373210615565, 
       "housenumber": "1", 
+      "lat": 51.268373210615565, 
+      "lon": 3.2981454752326758, 
       "pcode": 8340, 
-      "street": "Spegelsweg", 
-      "lon": 3.2981454752326758
+      "street": "Spegelsweg"
     }, 
     {
-      "lat": 51.27535805869786, 
       "housenumber": "3", 
+      "lat": 51.27535805869786, 
+      "lon": 3.2935329173743932, 
       "pcode": 8340, 
-      "street": "Spegelsweg", 
-      "lon": 3.2935329173743932
+      "street": "Spegelsweg"
     }
-  ], 
-  "name": "Spegelsweg"
+  ]
 }

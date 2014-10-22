@@ -1,20 +1,18 @@
 {
-  "pcode": 8630, 
   "addresses": [
     {
-      "lat": 51.01599024476221, 
       "housenumber": "1", 
+      "lat": 51.01599024476221, 
+      "lon": 2.6759893723723325, 
       "pcode": 8630, 
-      "street": "Schaapstraat", 
-      "lon": 2.6759893723723325
+      "street": "Schaapstraat"
     }, 
     {
-      "lat": 51.016548394447184, 
       "housenumber": "2", 
+      "lat": 51.016548394447184, 
+      "lon": 2.6708787649051176, 
       "pcode": 8630, 
-      "street": "Schaapstraat", 
-      "lon": 2.6708787649051176
+      "street": "Schaapstraat"
     }
-  ], 
-  "name": "Schaapstraat"
+  ]
 }

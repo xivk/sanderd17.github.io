@@ -1,20 +1,18 @@
 {
-  "pcode": 2460, 
   "addresses": [
     {
-      "lat": 51.227208790565506, 
       "housenumber": "1", 
+      "lat": 51.227208790565506, 
+      "lon": 4.978504097241966, 
       "pcode": 2460, 
-      "street": "Breevensedijk", 
-      "lon": 4.978504097241966
+      "street": "Breevensedijk"
     }, 
     {
-      "lat": 51.22709602600233, 
       "housenumber": "2", 
+      "lat": 51.22709602600233, 
+      "lon": 4.977694215158017, 
       "pcode": 2460, 
-      "street": "Breevensedijk", 
-      "lon": 4.977694215158017
+      "street": "Breevensedijk"
     }
-  ], 
-  "name": "Breevensedijk"
+  ]
 }

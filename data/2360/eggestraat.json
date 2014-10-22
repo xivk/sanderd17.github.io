@@ -1,20 +1,18 @@
 {
-  "pcode": 2360, 
   "addresses": [
     {
-      "lat": 51.31004150147167, 
       "housenumber": "1", 
+      "lat": 51.31004150147167, 
+      "lon": 4.974334749888455, 
       "pcode": 2360, 
-      "street": "Eggestraat", 
-      "lon": 4.974334749888455
+      "street": "Eggestraat"
     }, 
     {
-      "lat": 51.31005167054711, 
       "housenumber": "3", 
+      "lat": 51.31005167054711, 
+      "lon": 4.973752487214221, 
       "pcode": 2360, 
-      "street": "Eggestraat", 
-      "lon": 4.973752487214221
+      "street": "Eggestraat"
     }
-  ], 
-  "name": "Eggestraat"
+  ]
 }

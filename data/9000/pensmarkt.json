@@ -1,51 +1,49 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.05549844369185, 
       "housenumber": "1", 
+      "lat": 51.05549844369185, 
+      "lon": 3.7212046978055024, 
       "pcode": 9000, 
-      "street": "Pensmarkt", 
-      "lon": 3.7212046978055024
+      "street": "Pensmarkt"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 9000, 
-      "street": "Pensmarkt", 
-      "housenumber": "11"
+      "street": "Pensmarkt"
     }, 
     {
-      "lat": 51.05565225284337, 
       "housenumber": "2", 
+      "lat": 51.05565225284337, 
+      "lon": 3.72187679676268, 
       "pcode": 9000, 
-      "street": "Pensmarkt", 
-      "lon": 3.72187679676268
+      "street": "Pensmarkt"
     }, 
     {
-      "lat": 51.05561882536265, 
       "housenumber": "3", 
+      "lat": 51.05561882536265, 
+      "lon": 3.7212238581201738, 
       "pcode": 9000, 
-      "street": "Pensmarkt", 
-      "lon": 3.7212238581201738
+      "street": "Pensmarkt"
     }, 
     {
-      "lat": 51.05565281759719, 
       "housenumber": "5", 
+      "lat": 51.05565281759719, 
+      "lon": 3.721275306583031, 
       "pcode": 9000, 
-      "street": "Pensmarkt", 
-      "lon": 3.721275306583031
+      "street": "Pensmarkt"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 9000, 
-      "street": "Pensmarkt", 
-      "housenumber": "7"
+      "street": "Pensmarkt"
     }, 
     {
-      "lat": 51.055672127247036, 
       "housenumber": "9", 
+      "lat": 51.055672127247036, 
+      "lon": 3.7212557842591893, 
       "pcode": 9000, 
-      "street": "Pensmarkt", 
-      "lon": 3.7212557842591893
+      "street": "Pensmarkt"
     }
-  ], 
-  "name": "Pensmarkt"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 3665, 
   "addresses": [
     {
+      "housenumber": "18A", 
       "pcode": 3665, 
-      "street": "Spoorwegstraat", 
-      "housenumber": "18A"
+      "street": "Spoorwegstraat"
     }, 
     {
-      "lat": 51.00975941155167, 
       "housenumber": "C4", 
+      "lat": 51.00975941155167, 
+      "lon": 5.6103977540847625, 
       "pcode": 3665, 
-      "street": "Spoorwegstraat", 
-      "lon": 5.6103977540847625
+      "street": "Spoorwegstraat"
     }
-  ], 
-  "name": "Spoorwegstraat"
+  ]
 }

@@ -1,46 +1,44 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.936717058990105, 
       "housenumber": "1", 
+      "lat": 50.936717058990105, 
+      "lon": 5.517959294615693, 
       "pcode": 3600, 
-      "street": "Grotewinkelstraat", 
-      "lon": 5.517959294615693
+      "street": "Grotewinkelstraat"
     }, 
     {
-      "lat": 50.93659804771452, 
       "housenumber": "11", 
+      "lat": 50.93659804771452, 
+      "lon": 5.516992129357013, 
       "pcode": 3600, 
-      "street": "Grotewinkelstraat", 
-      "lon": 5.516992129357013
+      "street": "Grotewinkelstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3600, 
-      "street": "Grotewinkelstraat", 
-      "housenumber": "3"
+      "street": "Grotewinkelstraat"
     }, 
     {
-      "lat": 50.936694721174845, 
       "housenumber": "5", 
+      "lat": 50.936694721174845, 
+      "lon": 5.517678734631928, 
       "pcode": 3600, 
-      "street": "Grotewinkelstraat", 
-      "lon": 5.517678734631928
+      "street": "Grotewinkelstraat"
     }, 
     {
-      "lat": 50.93666818216366, 
       "housenumber": "7", 
+      "lat": 50.93666818216366, 
+      "lon": 5.517414007663951, 
       "pcode": 3600, 
-      "street": "Grotewinkelstraat", 
-      "lon": 5.517414007663951
+      "street": "Grotewinkelstraat"
     }, 
     {
-      "lat": 50.936642634225194, 
       "housenumber": "9", 
+      "lat": 50.936642634225194, 
+      "lon": 5.517286892537742, 
       "pcode": 3600, 
-      "street": "Grotewinkelstraat", 
-      "lon": 5.517286892537742
+      "street": "Grotewinkelstraat"
     }
-  ], 
-  "name": "Grotewinkelstraat"
+  ]
 }

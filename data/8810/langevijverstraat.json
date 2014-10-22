@@ -1,20 +1,18 @@
 {
-  "pcode": 8810, 
   "addresses": [
     {
-      "lat": 51.055294860314746, 
       "housenumber": "1", 
+      "lat": 51.055294860314746, 
+      "lon": 3.1357783929657734, 
       "pcode": 8810, 
-      "street": "Lange Vijverstraat", 
-      "lon": 3.1357783929657734
+      "street": "Lange Vijverstraat"
     }, 
     {
-      "lat": 51.055486910396894, 
       "housenumber": "2", 
+      "lat": 51.055486910396894, 
+      "lon": 3.1359865918024656, 
       "pcode": 8810, 
-      "street": "Lange Vijverstraat", 
-      "lon": 3.1359865918024656
+      "street": "Lange Vijverstraat"
     }
-  ], 
-  "name": "Lange Vijverstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 1730, 
   "addresses": [
     {
-      "lat": 50.91347337122042, 
       "housenumber": "1", 
+      "lat": 50.91347337122042, 
+      "lon": 4.26051127531948, 
       "pcode": 1730, 
-      "street": "Hennekenmolen", 
-      "lon": 4.26051127531948
+      "street": "Hennekenmolen"
     }, 
     {
-      "lat": 50.91285449270071, 
       "housenumber": "3", 
+      "lat": 50.91285449270071, 
+      "lon": 4.259672755625018, 
       "pcode": 1730, 
-      "street": "Hennekenmolen", 
-      "lon": 4.259672755625018
+      "street": "Hennekenmolen"
     }
-  ], 
-  "name": "Hennekenmolen"
+  ]
 }

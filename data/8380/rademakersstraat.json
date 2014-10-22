@@ -1,18 +1,16 @@
 {
-  "pcode": 8380, 
   "addresses": [
     {
-      "lat": 51.301540875266056, 
       "housenumber": "14", 
+      "lat": 51.301540875266056, 
+      "lon": 3.1911847685895403, 
       "pcode": 8380, 
-      "street": "Rademakersstraat", 
-      "lon": 3.1911847685895403
+      "street": "Rademakersstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 8380, 
-      "street": "Rademakersstraat", 
-      "housenumber": "6"
+      "street": "Rademakersstraat"
     }
-  ], 
-  "name": "Rademakersstraat"
+  ]
 }

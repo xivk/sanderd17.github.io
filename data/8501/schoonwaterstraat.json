@@ -1,27 +1,25 @@
 {
-  "pcode": 8501, 
   "addresses": [
     {
-      "lat": 50.82827584812841, 
       "housenumber": "1", 
+      "lat": 50.82827584812841, 
+      "lon": 3.2306366156838067, 
       "pcode": 8501, 
-      "street": "Schoonwaterstraat", 
-      "lon": 3.2306366156838067
+      "street": "Schoonwaterstraat"
     }, 
     {
-      "lat": 50.82837935818237, 
       "housenumber": "3", 
+      "lat": 50.82837935818237, 
+      "lon": 3.230963872677778, 
       "pcode": 8501, 
-      "street": "Schoonwaterstraat", 
-      "lon": 3.230963872677778
+      "street": "Schoonwaterstraat"
     }, 
     {
-      "lat": 50.82840095017683, 
       "housenumber": "5", 
+      "lat": 50.82840095017683, 
+      "lon": 3.231113680633712, 
       "pcode": 8501, 
-      "street": "Schoonwaterstraat", 
-      "lon": 3.231113680633712
+      "street": "Schoonwaterstraat"
     }
-  ], 
-  "name": "Schoonwaterstraat"
+  ]
 }

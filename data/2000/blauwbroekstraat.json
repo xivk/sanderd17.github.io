@@ -1,30 +1,28 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2000, 
-      "street": "Blauwbroekstraat", 
-      "housenumber": "1"
+      "street": "Blauwbroekstraat"
     }, 
     {
-      "lat": 51.226448973475, 
       "housenumber": "2", 
+      "lat": 51.226448973475, 
+      "lon": 4.402672526010859, 
       "pcode": 2000, 
-      "street": "Blauwbroekstraat", 
-      "lon": 4.402672526010859
+      "street": "Blauwbroekstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2000, 
-      "street": "Blauwbroekstraat", 
-      "housenumber": "3"
+      "street": "Blauwbroekstraat"
     }, 
     {
-      "lat": 51.226643500310246, 
       "housenumber": "9", 
+      "lat": 51.226643500310246, 
+      "lon": 4.403218932537134, 
       "pcode": 2000, 
-      "street": "Blauwbroekstraat", 
-      "lon": 4.403218932537134
+      "street": "Blauwbroekstraat"
     }
-  ], 
-  "name": "Blauwbroekstraat"
+  ]
 }

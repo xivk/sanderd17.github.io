@@ -1,20 +1,18 @@
 {
-  "pcode": 9770, 
   "addresses": [
     {
-      "lat": 50.90398029377449, 
       "housenumber": "1", 
+      "lat": 50.90398029377449, 
+      "lon": 3.529782673430447, 
       "pcode": 9770, 
-      "street": "Kerkhofweg", 
-      "lon": 3.529782673430447
+      "street": "Kerkhofweg"
     }, 
     {
-      "lat": 50.90474192738876, 
       "housenumber": "6", 
+      "lat": 50.90474192738876, 
+      "lon": 3.5317629773651693, 
       "pcode": 9770, 
-      "street": "Kerkhofweg", 
-      "lon": 3.5317629773651693
+      "street": "Kerkhofweg"
     }
-  ], 
-  "name": "Kerkhofweg"
+  ]
 }

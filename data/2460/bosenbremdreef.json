@@ -1,18 +1,16 @@
 {
-  "pcode": 2460, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 2460, 
-      "street": "Bos en Bremdreef", 
-      "housenumber": "2"
+      "street": "Bos en Bremdreef"
     }, 
     {
-      "lat": 51.258916098294414, 
       "housenumber": "4", 
+      "lat": 51.258916098294414, 
+      "lon": 5.026408955359796, 
       "pcode": 2460, 
-      "street": "Bos en Bremdreef", 
-      "lon": 5.026408955359796
+      "street": "Bos en Bremdreef"
     }
-  ], 
-  "name": "Bos en Bremdreef"
+  ]
 }

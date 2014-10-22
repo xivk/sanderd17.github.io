@@ -1,28 +1,26 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
+      "housenumber": "54", 
       "pcode": 2030, 
-      "street": "Amerikadok", 
-      "housenumber": "54"
+      "street": "Amerikadok"
     }, 
     {
+      "housenumber": "60", 
       "pcode": 2030, 
-      "street": "Amerikadok", 
-      "housenumber": "60"
+      "street": "Amerikadok"
     }, 
     {
-      "lat": 51.24514582254698, 
       "housenumber": "93", 
+      "lat": 51.24514582254698, 
+      "lon": 4.398976198604079, 
       "pcode": 2030, 
-      "street": "Amerikadok", 
-      "lon": 4.398976198604079
+      "street": "Amerikadok"
     }, 
     {
+      "housenumber": "95", 
       "pcode": 2030, 
-      "street": "Amerikadok", 
-      "housenumber": "95"
+      "street": "Amerikadok"
     }
-  ], 
-  "name": "Amerikadok"
+  ]
 }

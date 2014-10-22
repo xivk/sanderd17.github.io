@@ -1,44 +1,42 @@
 {
-  "pcode": 3360, 
   "addresses": [
     {
-      "lat": 50.8082301194946, 
       "housenumber": "1", 
+      "lat": 50.8082301194946, 
+      "lon": 4.785925346026937, 
       "pcode": 3360, 
-      "street": "Waterhoenweg", 
-      "lon": 4.785925346026937
+      "street": "Waterhoenweg"
     }, 
     {
-      "lat": 50.80808625689787, 
       "housenumber": "2", 
+      "lat": 50.80808625689787, 
+      "lon": 4.785705858288893, 
       "pcode": 3360, 
-      "street": "Waterhoenweg", 
-      "lon": 4.785705858288893
+      "street": "Waterhoenweg"
     }, 
     {
-      "lat": 50.80793245190385, 
       "housenumber": "3", 
+      "lat": 50.80793245190385, 
+      "lon": 4.785501322812942, 
       "pcode": 3360, 
-      "street": "Waterhoenweg", 
-      "lon": 4.785501322812942
+      "street": "Waterhoenweg"
     }, 
     {
-      "lat": 50.80776876067833, 
       "housenumber": "4", 
+      "lat": 50.80776876067833, 
+      "lon": 4.785270737312888, 
       "pcode": 3360, 
-      "street": "Waterhoenweg", 
-      "lon": 4.785270737312888
+      "street": "Waterhoenweg"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3360, 
-      "street": "Waterhoenweg", 
-      "housenumber": "5"
+      "street": "Waterhoenweg"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3360, 
-      "street": "Waterhoenweg", 
-      "housenumber": "7"
+      "street": "Waterhoenweg"
     }
-  ], 
-  "name": "Waterhoenweg"
+  ]
 }

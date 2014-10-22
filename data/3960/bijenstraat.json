@@ -1,20 +1,18 @@
 {
-  "pcode": 3960, 
   "addresses": [
     {
-      "lat": 51.147866407588545, 
       "housenumber": "1", 
+      "lat": 51.147866407588545, 
+      "lon": 5.593891266790143, 
       "pcode": 3960, 
-      "street": "Bijenstraat", 
-      "lon": 5.593891266790143
+      "street": "Bijenstraat"
     }, 
     {
-      "lat": 51.14802239917988, 
       "housenumber": "5", 
+      "lat": 51.14802239917988, 
+      "lon": 5.5933007774086905, 
       "pcode": 3960, 
-      "street": "Bijenstraat", 
-      "lon": 5.5933007774086905
+      "street": "Bijenstraat"
     }
-  ], 
-  "name": "Bijenstraat"
+  ]
 }

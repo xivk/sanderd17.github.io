@@ -1,20 +1,18 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
-      "lat": 51.02953775815939, 
       "housenumber": "2", 
+      "lat": 51.02953775815939, 
+      "lon": 4.475954223234747, 
       "pcode": 2800, 
-      "street": "Straatje-zonder-einde", 
-      "lon": 4.475954223234747
+      "street": "Straatje-zonder-einde"
     }, 
     {
-      "lat": 51.029443345011444, 
       "housenumber": "3", 
+      "lat": 51.029443345011444, 
+      "lon": 4.4757889354857925, 
       "pcode": 2800, 
-      "street": "Straatje-zonder-einde", 
-      "lon": 4.4757889354857925
+      "street": "Straatje-zonder-einde"
     }
-  ], 
-  "name": "Straatje-zonder-einde"
+  ]
 }

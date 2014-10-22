@@ -1,20 +1,18 @@
 {
-  "pcode": 8573, 
   "addresses": [
     {
-      "lat": 50.799431480290394, 
       "housenumber": "1", 
+      "lat": 50.799431480290394, 
+      "lon": 3.464320836915102, 
       "pcode": 8573, 
-      "street": "Wafelstraat", 
-      "lon": 3.464320836915102
+      "street": "Wafelstraat"
     }, 
     {
-      "lat": 50.79598939113472, 
       "housenumber": "2", 
+      "lat": 50.79598939113472, 
+      "lon": 3.467885693285281, 
       "pcode": 8573, 
-      "street": "Wafelstraat", 
-      "lon": 3.467885693285281
+      "street": "Wafelstraat"
     }
-  ], 
-  "name": "Wafelstraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 3470, 
   "addresses": [
     {
-      "lat": 50.84784541470426, 
       "housenumber": "3", 
+      "lat": 50.84784541470426, 
+      "lon": 4.996725895451827, 
       "pcode": 3470, 
-      "street": "Stokstraat", 
-      "lon": 4.996725895451827
+      "street": "Stokstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3470, 
-      "street": "Stokstraat", 
-      "housenumber": "7"
+      "street": "Stokstraat"
     }
-  ], 
-  "name": "Stokstraat"
+  ]
 }

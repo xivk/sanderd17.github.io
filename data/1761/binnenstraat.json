@@ -1,25 +1,23 @@
 {
-  "pcode": 1761, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 1761, 
-      "street": "Binnenstraat", 
-      "housenumber": "1"
+      "street": "Binnenstraat"
     }, 
     {
-      "lat": 50.849609305559106, 
       "housenumber": "2", 
+      "lat": 50.849609305559106, 
+      "lon": 4.116774569197581, 
       "pcode": 1761, 
-      "street": "Binnenstraat", 
-      "lon": 4.116774569197581
+      "street": "Binnenstraat"
     }, 
     {
-      "lat": 50.84991420757922, 
       "housenumber": "4", 
+      "lat": 50.84991420757922, 
+      "lon": 4.116805458071831, 
       "pcode": 1761, 
-      "street": "Binnenstraat", 
-      "lon": 4.116805458071831
+      "street": "Binnenstraat"
     }
-  ], 
-  "name": "Binnenstraat"
+  ]
 }

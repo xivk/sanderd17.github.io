@@ -1,54 +1,52 @@
 {
-  "pcode": 8800, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8800, 
-      "street": "Diederik van Assenedestraat", 
-      "housenumber": "1"
+      "street": "Diederik van Assenedestraat"
     }, 
     {
-      "lat": 50.96084289184308, 
       "housenumber": "2", 
+      "lat": 50.96084289184308, 
+      "lon": 3.1291981983752875, 
       "pcode": 8800, 
-      "street": "Diederik van Assenedestraat", 
-      "lon": 3.1291981983752875
+      "street": "Diederik van Assenedestraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8800, 
-      "street": "Diederik van Assenedestraat", 
-      "housenumber": "3"
+      "street": "Diederik van Assenedestraat"
     }, 
     {
-      "lat": 50.96080523993322, 
       "housenumber": "4", 
+      "lat": 50.96080523993322, 
+      "lon": 3.1296436370201253, 
       "pcode": 8800, 
-      "street": "Diederik van Assenedestraat", 
-      "lon": 3.1296436370201253
+      "street": "Diederik van Assenedestraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8800, 
-      "street": "Diederik van Assenedestraat", 
-      "housenumber": "5"
+      "street": "Diederik van Assenedestraat"
     }, 
     {
-      "lat": 50.96084903834192, 
       "housenumber": "6", 
+      "lat": 50.96084903834192, 
+      "lon": 3.1290989542300833, 
       "pcode": 8800, 
-      "street": "Diederik van Assenedestraat", 
-      "lon": 3.1290989542300833
+      "street": "Diederik van Assenedestraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 8800, 
-      "street": "Diederik van Assenedestraat", 
-      "housenumber": "7"
+      "street": "Diederik van Assenedestraat"
     }, 
     {
-      "lat": 50.960835546128266, 
       "housenumber": "8", 
+      "lat": 50.960835546128266, 
+      "lon": 3.129115397288631, 
       "pcode": 8800, 
-      "street": "Diederik van Assenedestraat", 
-      "lon": 3.129115397288631
+      "street": "Diederik van Assenedestraat"
     }
-  ], 
-  "name": "Diederik van Assenedestraat"
+  ]
 }

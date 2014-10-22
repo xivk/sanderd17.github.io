@@ -1,37 +1,35 @@
 {
-  "pcode": 8670, 
   "addresses": [
     {
-      "lat": 51.12384651307862, 
       "housenumber": "3", 
+      "lat": 51.12384651307862, 
+      "lon": 2.643215652378141, 
       "pcode": 8670, 
-      "street": "Rolandstraat", 
-      "lon": 2.643215652378141
+      "street": "Rolandstraat"
     }, 
     {
-      "lat": 51.123992985346064, 
       "housenumber": "5", 
+      "lat": 51.123992985346064, 
+      "lon": 2.6436220089597477, 
       "pcode": 8670, 
-      "street": "Rolandstraat", 
-      "lon": 2.6436220089597477
+      "street": "Rolandstraat"
     }, 
     {
-      "lat": 51.12415217593734, 
       "housenumber": "7", 
+      "lat": 51.12415217593734, 
+      "lon": 2.6440804766847057, 
       "pcode": 8670, 
-      "street": "Rolandstraat", 
-      "lon": 2.6440804766847057
+      "street": "Rolandstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 8670, 
-      "street": "Rolandstraat", 
-      "housenumber": "8"
+      "street": "Rolandstraat"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 8670, 
-      "street": "Rolandstraat", 
-      "housenumber": "9"
+      "street": "Rolandstraat"
     }
-  ], 
-  "name": "Rolandstraat"
+  ]
 }

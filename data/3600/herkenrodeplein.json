@@ -1,35 +1,33 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.95886361853282, 
       "housenumber": "1", 
+      "lat": 50.95886361853282, 
+      "lon": 5.403946098596329, 
       "pcode": 3600, 
-      "street": "Herkenrodeplein", 
-      "lon": 5.403946098596329
+      "street": "Herkenrodeplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 3600, 
-      "street": "Herkenrodeplein", 
-      "housenumber": "2"
+      "street": "Herkenrodeplein"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3600, 
-      "street": "Herkenrodeplein", 
-      "housenumber": "3"
+      "street": "Herkenrodeplein"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3600, 
-      "street": "Herkenrodeplein", 
-      "housenumber": "4"
+      "street": "Herkenrodeplein"
     }, 
     {
-      "lat": 50.95844267982843, 
       "housenumber": "5", 
+      "lat": 50.95844267982843, 
+      "lon": 5.399111573211908, 
       "pcode": 3600, 
-      "street": "Herkenrodeplein", 
-      "lon": 5.399111573211908
+      "street": "Herkenrodeplein"
     }
-  ], 
-  "name": "Herkenrodeplein"
+  ]
 }

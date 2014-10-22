@@ -1,38 +1,36 @@
 {
-  "pcode": 9880, 
   "addresses": [
     {
-      "lat": 51.0937081259448, 
       "housenumber": "1", 
+      "lat": 51.0937081259448, 
+      "lon": 3.447446892462045, 
       "pcode": 9880, 
-      "street": "Stationsplein", 
-      "lon": 3.447446892462045
+      "street": "Stationsplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9880, 
-      "street": "Stationsplein", 
-      "housenumber": "2"
+      "street": "Stationsplein"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9880, 
-      "street": "Stationsplein", 
-      "housenumber": "4"
+      "street": "Stationsplein"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9880, 
-      "street": "Stationsplein", 
-      "housenumber": "6"
+      "street": "Stationsplein"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 9880, 
-      "street": "Stationsplein", 
-      "housenumber": "7"
+      "street": "Stationsplein"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 9880, 
-      "street": "Stationsplein", 
-      "housenumber": "8"
+      "street": "Stationsplein"
     }
-  ], 
-  "name": "Stationsplein"
+  ]
 }

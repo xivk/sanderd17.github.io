@@ -1,25 +1,23 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.22286823038689, 
       "housenumber": "1", 
+      "lat": 51.22286823038689, 
+      "lon": 4.399281055406369, 
       "pcode": 2000, 
-      "street": "Driehespenstraat", 
-      "lon": 4.399281055406369
+      "street": "Driehespenstraat"
     }, 
     {
-      "lat": 51.222789143969116, 
       "housenumber": "3", 
+      "lat": 51.222789143969116, 
+      "lon": 4.399577156231542, 
       "pcode": 2000, 
-      "street": "Driehespenstraat", 
-      "lon": 4.399577156231542
+      "street": "Driehespenstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2000, 
-      "street": "Driehespenstraat", 
-      "housenumber": "4"
+      "street": "Driehespenstraat"
     }
-  ], 
-  "name": "Driehespenstraat"
+  ]
 }

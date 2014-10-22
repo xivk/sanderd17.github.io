@@ -1,39 +1,37 @@
 {
-  "pcode": 2880, 
   "addresses": [
     {
-      "lat": 51.097452312905425, 
       "housenumber": "10", 
+      "lat": 51.097452312905425, 
+      "lon": 4.250814562174846, 
       "pcode": 2880, 
-      "street": "Torstraat", 
-      "lon": 4.250814562174846
+      "street": "Torstraat"
     }, 
     {
-      "lat": 51.098134333588284, 
       "housenumber": "2", 
+      "lat": 51.098134333588284, 
+      "lon": 4.250764028888813, 
       "pcode": 2880, 
-      "street": "Torstraat", 
-      "lon": 4.250764028888813
+      "street": "Torstraat"
     }, 
     {
-      "lat": 51.097909389678655, 
       "housenumber": "3", 
+      "lat": 51.097909389678655, 
+      "lon": 4.251444827669029, 
       "pcode": 2880, 
-      "street": "Torstraat", 
-      "lon": 4.251444827669029
+      "street": "Torstraat"
     }, 
     {
-      "lat": 51.09782524198005, 
       "housenumber": "4", 
+      "lat": 51.09782524198005, 
+      "lon": 4.2507074163616325, 
       "pcode": 2880, 
-      "street": "Torstraat", 
-      "lon": 4.2507074163616325
+      "street": "Torstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2880, 
-      "street": "Torstraat", 
-      "housenumber": "5"
+      "street": "Torstraat"
     }
-  ], 
-  "name": "Torstraat"
+  ]
 }

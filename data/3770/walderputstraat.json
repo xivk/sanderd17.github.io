@@ -1,20 +1,18 @@
 {
-  "pcode": 3770, 
   "addresses": [
     {
-      "lat": 50.78817344079391, 
       "housenumber": "1", 
+      "lat": 50.78817344079391, 
+      "lon": 5.616337781283492, 
       "pcode": 3770, 
-      "street": "Walderputstraat", 
-      "lon": 5.616337781283492
+      "street": "Walderputstraat"
     }, 
     {
-      "lat": 50.78797690814588, 
       "housenumber": "2", 
+      "lat": 50.78797690814588, 
+      "lon": 5.617441586103561, 
       "pcode": 3770, 
-      "street": "Walderputstraat", 
-      "lon": 5.617441586103561
+      "street": "Walderputstraat"
     }
-  ], 
-  "name": "Walderputstraat"
+  ]
 }

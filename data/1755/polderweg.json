@@ -1,25 +1,23 @@
 {
-  "pcode": 1755, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 1755, 
-      "street": "Polderweg", 
-      "housenumber": "1"
+      "street": "Polderweg"
     }, 
     {
-      "lat": 50.7748971249985, 
       "housenumber": "2", 
+      "lat": 50.7748971249985, 
+      "lon": 4.119498353389657, 
       "pcode": 1755, 
-      "street": "Polderweg", 
-      "lon": 4.119498353389657
+      "street": "Polderweg"
     }, 
     {
-      "lat": 50.774512223460995, 
       "housenumber": "8", 
+      "lat": 50.774512223460995, 
+      "lon": 4.120748018064189, 
       "pcode": 1755, 
-      "street": "Polderweg", 
-      "lon": 4.120748018064189
+      "street": "Polderweg"
     }
-  ], 
-  "name": "Polderweg"
+  ]
 }

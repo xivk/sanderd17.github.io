@@ -1,18 +1,16 @@
 {
-  "pcode": 9900, 
   "addresses": [
     {
-      "lat": 51.178245164404316, 
       "housenumber": "1", 
+      "lat": 51.178245164404316, 
+      "lon": 3.5483325341345555, 
       "pcode": 9900, 
-      "street": "O. L. Vrouwstraat", 
-      "lon": 3.5483325341345555
+      "street": "O. L. Vrouwstraat"
     }, 
     {
+      "housenumber": "21", 
       "pcode": 9900, 
-      "street": "O. L. Vrouwstraat", 
-      "housenumber": "21"
+      "street": "O. L. Vrouwstraat"
     }
-  ], 
-  "name": "O. L. Vrouwstraat"
+  ]
 }

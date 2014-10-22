@@ -1,28 +1,26 @@
 {
-  "pcode": 2200, 
   "addresses": [
     {
-      "lat": 51.17687294547425, 
       "housenumber": "1", 
+      "lat": 51.17687294547425, 
+      "lon": 4.807238368483686, 
       "pcode": 2200, 
-      "street": "Montezumalaan", 
-      "lon": 4.807238368483686
+      "street": "Montezumalaan"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2200, 
-      "street": "Montezumalaan", 
-      "housenumber": "2"
+      "street": "Montezumalaan"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2200, 
-      "street": "Montezumalaan", 
-      "housenumber": "6"
+      "street": "Montezumalaan"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2200, 
-      "street": "Montezumalaan", 
-      "housenumber": "8"
+      "street": "Montezumalaan"
     }
-  ], 
-  "name": "Montezumalaan"
+  ]
 }

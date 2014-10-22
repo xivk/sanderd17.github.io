@@ -1,46 +1,44 @@
 {
-  "pcode": 2560, 
   "addresses": [
     {
-      "lat": 51.140395451363645, 
       "housenumber": "1", 
+      "lat": 51.140395451363645, 
+      "lon": 4.662339598144691, 
       "pcode": 2560, 
-      "street": "Helleweg", 
-      "lon": 4.662339598144691
+      "street": "Helleweg"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 2560, 
-      "street": "Helleweg", 
-      "housenumber": "1A"
+      "street": "Helleweg"
     }, 
     {
-      "lat": 51.14159753143883, 
       "housenumber": "2", 
+      "lat": 51.14159753143883, 
+      "lon": 4.662404756680751, 
       "pcode": 2560, 
-      "street": "Helleweg", 
-      "lon": 4.662404756680751
+      "street": "Helleweg"
     }, 
     {
-      "lat": 51.141940918974704, 
       "housenumber": "3", 
+      "lat": 51.141940918974704, 
+      "lon": 4.659463060862854, 
       "pcode": 2560, 
-      "street": "Helleweg", 
-      "lon": 4.659463060862854
+      "street": "Helleweg"
     }, 
     {
-      "lat": 51.14170935790066, 
       "housenumber": "4", 
+      "lat": 51.14170935790066, 
+      "lon": 4.662366023399149, 
       "pcode": 2560, 
-      "street": "Helleweg", 
-      "lon": 4.662366023399149
+      "street": "Helleweg"
     }, 
     {
-      "lat": 51.14273852685433, 
       "housenumber": "6", 
+      "lat": 51.14273852685433, 
+      "lon": 4.662526262614945, 
       "pcode": 2560, 
-      "street": "Helleweg", 
-      "lon": 4.662526262614945
+      "street": "Helleweg"
     }
-  ], 
-  "name": "Helleweg"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9630, 
   "addresses": [
     {
-      "lat": 50.88397881558485, 
       "housenumber": "2", 
+      "lat": 50.88397881558485, 
+      "lon": 3.688061725758434, 
       "pcode": 9630, 
-      "street": "Biestmolenstraat", 
-      "lon": 3.688061725758434
+      "street": "Biestmolenstraat"
     }, 
     {
-      "lat": 50.883324779624374, 
       "housenumber": "2_1", 
+      "lat": 50.883324779624374, 
+      "lon": 3.687669023098528, 
       "pcode": 9630, 
-      "street": "Biestmolenstraat", 
-      "lon": 3.687669023098528
+      "street": "Biestmolenstraat"
     }
-  ], 
-  "name": "Biestmolenstraat"
+  ]
 }

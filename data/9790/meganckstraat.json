@@ -1,20 +1,18 @@
 {
-  "pcode": 9790, 
   "addresses": [
     {
-      "lat": 50.83528021979514, 
       "housenumber": "1", 
+      "lat": 50.83528021979514, 
+      "lon": 3.528238312459118, 
       "pcode": 9790, 
-      "street": "Meganckstraat", 
-      "lon": 3.528238312459118
+      "street": "Meganckstraat"
     }, 
     {
-      "lat": 50.83252530701129, 
       "housenumber": "2", 
+      "lat": 50.83252530701129, 
+      "lon": 3.5209307389636266, 
       "pcode": 9790, 
-      "street": "Meganckstraat", 
-      "lon": 3.5209307389636266
+      "street": "Meganckstraat"
     }
-  ], 
-  "name": "Meganckstraat"
+  ]
 }

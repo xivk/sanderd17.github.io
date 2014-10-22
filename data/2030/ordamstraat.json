@@ -1,39 +1,37 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.28803252713962, 
       "housenumber": "10", 
+      "lat": 51.28803252713962, 
+      "lon": 4.354532121357821, 
       "pcode": 2030, 
-      "street": "Ordamstraat", 
-      "lon": 4.354532121357821
+      "street": "Ordamstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2030, 
-      "street": "Ordamstraat", 
-      "housenumber": "2"
+      "street": "Ordamstraat"
     }, 
     {
-      "lat": 51.28615516747742, 
       "housenumber": "4", 
+      "lat": 51.28615516747742, 
+      "lon": 4.351645645448397, 
       "pcode": 2030, 
-      "street": "Ordamstraat", 
-      "lon": 4.351645645448397
+      "street": "Ordamstraat"
     }, 
     {
-      "lat": 51.290148982968944, 
       "housenumber": "5", 
+      "lat": 51.290148982968944, 
+      "lon": 4.355517581500457, 
       "pcode": 2030, 
-      "street": "Ordamstraat", 
-      "lon": 4.355517581500457
+      "street": "Ordamstraat"
     }, 
     {
-      "lat": 51.286957819191876, 
       "housenumber": "9", 
+      "lat": 51.286957819191876, 
+      "lon": 4.3553864286492505, 
       "pcode": 2030, 
-      "street": "Ordamstraat", 
-      "lon": 4.3553864286492505
+      "street": "Ordamstraat"
     }
-  ], 
-  "name": "Ordamstraat"
+  ]
 }

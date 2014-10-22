@@ -1,18 +1,16 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 8000, 
-      "street": "Azijnstraat", 
-      "housenumber": "2"
+      "street": "Azijnstraat"
     }, 
     {
-      "lat": 51.21220040205562, 
       "housenumber": "4", 
+      "lat": 51.21220040205562, 
+      "lon": 3.2199246511164836, 
       "pcode": 8000, 
-      "street": "Azijnstraat", 
-      "lon": 3.2199246511164836
+      "street": "Azijnstraat"
     }
-  ], 
-  "name": "Azijnstraat"
+  ]
 }

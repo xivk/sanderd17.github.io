@@ -1,46 +1,44 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.21060381608271, 
       "housenumber": "1", 
+      "lat": 51.21060381608271, 
+      "lon": 3.2249743852776724, 
       "pcode": 8000, 
-      "street": "Kraanplein", 
-      "lon": 3.2249743852776724
+      "street": "Kraanplein"
     }, 
     {
-      "lat": 51.21060059585429, 
       "housenumber": "3", 
+      "lat": 51.21060059585429, 
+      "lon": 3.2249760385095394, 
       "pcode": 8000, 
-      "street": "Kraanplein", 
-      "lon": 3.2249760385095394
+      "street": "Kraanplein"
     }, 
     {
-      "lat": 51.21062278775544, 
       "housenumber": "4", 
+      "lat": 51.21062278775544, 
+      "lon": 3.225207202971843, 
       "pcode": 8000, 
-      "street": "Kraanplein", 
-      "lon": 3.225207202971843
+      "street": "Kraanplein"
     }, 
     {
-      "lat": 51.210475827087556, 
       "housenumber": "5", 
+      "lat": 51.210475827087556, 
+      "lon": 3.2253484837263304, 
       "pcode": 8000, 
-      "street": "Kraanplein", 
-      "lon": 3.2253484837263304
+      "street": "Kraanplein"
     }, 
     {
-      "lat": 51.21027238186593, 
       "housenumber": "6", 
+      "lat": 51.21027238186593, 
+      "lon": 3.225254145468226, 
       "pcode": 8000, 
-      "street": "Kraanplein", 
-      "lon": 3.225254145468226
+      "street": "Kraanplein"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 8000, 
-      "street": "Kraanplein", 
-      "housenumber": "8"
+      "street": "Kraanplein"
     }
-  ], 
-  "name": "Kraanplein"
+  ]
 }

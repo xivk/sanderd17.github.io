@@ -1,23 +1,21 @@
 {
-  "pcode": 2310, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2310, 
-      "street": "Bieshoven", 
-      "housenumber": "1"
+      "street": "Bieshoven"
     }, 
     {
-      "lat": 51.35592007919454, 
       "housenumber": "15", 
+      "lat": 51.35592007919454, 
+      "lon": 4.768538695988999, 
       "pcode": 2310, 
-      "street": "Bieshoven", 
-      "lon": 4.768538695988999
+      "street": "Bieshoven"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2310, 
-      "street": "Bieshoven", 
-      "housenumber": "2"
+      "street": "Bieshoven"
     }
-  ], 
-  "name": "Bieshoven"
+  ]
 }

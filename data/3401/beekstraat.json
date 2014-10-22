@@ -1,27 +1,25 @@
 {
-  "pcode": 3401, 
   "addresses": [
     {
-      "lat": 50.73670889393581, 
       "housenumber": "1", 
+      "lat": 50.73670889393581, 
+      "lon": 5.085668856213217, 
       "pcode": 3401, 
-      "street": "Beekstraat", 
-      "lon": 5.085668856213217
+      "street": "Beekstraat"
     }, 
     {
-      "lat": 50.73638398255582, 
       "housenumber": "2", 
+      "lat": 50.73638398255582, 
+      "lon": 5.085435256507057, 
       "pcode": 3401, 
-      "street": "Beekstraat", 
-      "lon": 5.085435256507057
+      "street": "Beekstraat"
     }, 
     {
-      "lat": 50.736554374262624, 
       "housenumber": "3", 
+      "lat": 50.736554374262624, 
+      "lon": 5.084917362389945, 
       "pcode": 3401, 
-      "street": "Beekstraat", 
-      "lon": 5.084917362389945
+      "street": "Beekstraat"
     }
-  ], 
-  "name": "Beekstraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 50.95494025281909, 
       "housenumber": "1", 
+      "lat": 50.95494025281909, 
+      "lon": 3.4496047580446527, 
       "pcode": 9800, 
-      "street": "Lievevrouwstraat", 
-      "lon": 3.4496047580446527
+      "street": "Lievevrouwstraat"
     }, 
     {
-      "lat": 50.95362223133595, 
       "housenumber": "2", 
+      "lat": 50.95362223133595, 
+      "lon": 3.4476036778318067, 
       "pcode": 9800, 
-      "street": "Lievevrouwstraat", 
-      "lon": 3.4476036778318067
+      "street": "Lievevrouwstraat"
     }, 
     {
-      "lat": 50.95478900006895, 
       "housenumber": "4", 
+      "lat": 50.95478900006895, 
+      "lon": 3.4472206781881907, 
       "pcode": 9800, 
-      "street": "Lievevrouwstraat", 
-      "lon": 3.4472206781881907
+      "street": "Lievevrouwstraat"
     }
-  ], 
-  "name": "Lievevrouwstraat"
+  ]
 }

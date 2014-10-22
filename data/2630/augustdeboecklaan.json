@@ -1,25 +1,23 @@
 {
-  "pcode": 2630, 
   "addresses": [
     {
+      "housenumber": "36", 
       "pcode": 2630, 
-      "street": "August De Boecklaan", 
-      "housenumber": "36"
+      "street": "August De Boecklaan"
     }, 
     {
-      "lat": 51.111021605377566, 
       "housenumber": "40", 
+      "lat": 51.111021605377566, 
+      "lon": 4.36280856150532, 
       "pcode": 2630, 
-      "street": "August De Boecklaan", 
-      "lon": 4.36280856150532
+      "street": "August De Boecklaan"
     }, 
     {
-      "lat": 51.11104731459089, 
       "housenumber": "9", 
+      "lat": 51.11104731459089, 
+      "lon": 4.362839402636422, 
       "pcode": 2630, 
-      "street": "August De Boecklaan", 
-      "lon": 4.362839402636422
+      "street": "August De Boecklaan"
     }
-  ], 
-  "name": "August De Boecklaan"
+  ]
 }

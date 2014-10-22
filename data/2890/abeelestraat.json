@@ -1,18 +1,16 @@
 {
-  "pcode": 2890, 
   "addresses": [
     {
+      "housenumber": "22", 
       "pcode": 2890, 
-      "street": "Abeelestraat", 
-      "housenumber": "22"
+      "street": "Abeelestraat"
     }, 
     {
-      "lat": 51.05287841759718, 
       "housenumber": "63", 
+      "lat": 51.05287841759718, 
+      "lon": 4.227025837929765, 
       "pcode": 2890, 
-      "street": "Abeelestraat", 
-      "lon": 4.227025837929765
+      "street": "Abeelestraat"
     }
-  ], 
-  "name": "Abeelestraat"
+  ]
 }

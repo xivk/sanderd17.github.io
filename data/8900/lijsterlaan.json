@@ -1,20 +1,18 @@
 {
-  "pcode": 8900, 
   "addresses": [
     {
-      "lat": 50.846508826238974, 
       "housenumber": "1", 
+      "lat": 50.846508826238974, 
+      "lon": 2.8669594705093537, 
       "pcode": 8900, 
-      "street": "Lijsterlaan", 
-      "lon": 2.8669594705093537
+      "street": "Lijsterlaan"
     }, 
     {
-      "lat": 50.84634936554323, 
       "housenumber": "3", 
+      "lat": 50.84634936554323, 
+      "lon": 2.8666470034738114, 
       "pcode": 8900, 
-      "street": "Lijsterlaan", 
-      "lon": 2.8666470034738114
+      "street": "Lijsterlaan"
     }
-  ], 
-  "name": "Lijsterlaan"
+  ]
 }

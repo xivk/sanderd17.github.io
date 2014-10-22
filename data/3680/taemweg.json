@@ -1,39 +1,37 @@
 {
-  "pcode": 3680, 
   "addresses": [
     {
-      "lat": 51.110342853990815, 
       "housenumber": "1", 
+      "lat": 51.110342853990815, 
+      "lon": 5.684809326227195, 
       "pcode": 3680, 
-      "street": "Taemweg", 
-      "lon": 5.684809326227195
+      "street": "Taemweg"
     }, 
     {
+      "housenumber": "132", 
       "pcode": 3680, 
-      "street": "Taemweg", 
-      "housenumber": "132"
+      "street": "Taemweg"
     }, 
     {
-      "lat": 51.110063007815995, 
       "housenumber": "26", 
+      "lat": 51.110063007815995, 
+      "lon": 5.681728046570091, 
       "pcode": 3680, 
-      "street": "Taemweg", 
-      "lon": 5.681728046570091
+      "street": "Taemweg"
     }, 
     {
-      "lat": 51.11029738969092, 
       "housenumber": "3", 
+      "lat": 51.11029738969092, 
+      "lon": 5.684565400021036, 
       "pcode": 3680, 
-      "street": "Taemweg", 
-      "lon": 5.684565400021036
+      "street": "Taemweg"
     }, 
     {
-      "lat": 51.110622490362, 
       "housenumber": "6", 
+      "lat": 51.110622490362, 
+      "lon": 5.684507576462175, 
       "pcode": 3680, 
-      "street": "Taemweg", 
-      "lon": 5.684507576462175
+      "street": "Taemweg"
     }
-  ], 
-  "name": "Taemweg"
+  ]
 }

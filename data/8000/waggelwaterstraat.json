@@ -1,32 +1,30 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.214499294430915, 
       "housenumber": "19", 
+      "lat": 51.214499294430915, 
+      "lon": 3.2014700465398915, 
       "pcode": 8000, 
-      "street": "Waggelwaterstraat", 
-      "lon": 3.2014700465398915
+      "street": "Waggelwaterstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8000, 
-      "street": "Waggelwaterstraat", 
-      "housenumber": "2"
+      "street": "Waggelwaterstraat"
     }, 
     {
-      "lat": 51.214176210937566, 
       "housenumber": "21", 
+      "lat": 51.214176210937566, 
+      "lon": 3.2015064689453574, 
       "pcode": 8000, 
-      "street": "Waggelwaterstraat", 
-      "lon": 3.2015064689453574
+      "street": "Waggelwaterstraat"
     }, 
     {
-      "lat": 51.21364584552356, 
       "housenumber": "29", 
+      "lat": 51.21364584552356, 
+      "lon": 3.201608333085198, 
       "pcode": 8000, 
-      "street": "Waggelwaterstraat", 
-      "lon": 3.201608333085198
+      "street": "Waggelwaterstraat"
     }
-  ], 
-  "name": "Waggelwaterstraat"
+  ]
 }

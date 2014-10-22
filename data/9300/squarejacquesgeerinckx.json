@@ -1,20 +1,18 @@
 {
-  "pcode": 9300, 
   "addresses": [
     {
-      "lat": 50.94077854512953, 
       "housenumber": "2", 
+      "lat": 50.94077854512953, 
+      "lon": 4.016582024861118, 
       "pcode": 9300, 
-      "street": "Square Jacques Geerinckx", 
-      "lon": 4.016582024861118
+      "street": "Square Jacques Geerinckx"
     }, 
     {
-      "lat": 50.94147078474679, 
       "housenumber": "3", 
+      "lat": 50.94147078474679, 
+      "lon": 4.016211031850002, 
       "pcode": 9300, 
-      "street": "Square Jacques Geerinckx", 
-      "lon": 4.016211031850002
+      "street": "Square Jacques Geerinckx"
     }
-  ], 
-  "name": "Square Jacques Geerinckx"
+  ]
 }

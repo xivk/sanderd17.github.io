@@ -1,95 +1,93 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2800, 
-      "street": "Eggestraat", 
-      "housenumber": "1"
+      "street": "Eggestraat"
     }, 
     {
-      "lat": 51.01498114599088, 
       "housenumber": "10", 
-      "pcode": 2800, 
-      "street": "Eggestraat", 
-      "lon": 4.465364449404878
-    }, 
-    {
-      "lat": 51.01505093902665, 
-      "housenumber": "12", 
-      "pcode": 2800, 
-      "street": "Eggestraat", 
-      "lon": 4.465427296084013
-    }, 
-    {
-      "lat": 51.01517845688588, 
-      "housenumber": "14", 
-      "pcode": 2800, 
-      "street": "Eggestraat", 
-      "lon": 4.465254418541375
-    }, 
-    {
-      "lat": 51.01524573223268, 
-      "housenumber": "16", 
-      "pcode": 2800, 
-      "street": "Eggestraat", 
-      "lon": 4.465209384243287
-    }, 
-    {
-      "lat": 51.015324047861434, 
-      "housenumber": "18", 
-      "pcode": 2800, 
-      "street": "Eggestraat", 
-      "lon": 4.465184038348192
-    }, 
-    {
-      "lat": 51.01505093902665, 
-      "housenumber": "2", 
-      "pcode": 2800, 
-      "street": "Eggestraat", 
-      "lon": 4.465427296084013
-    }, 
-    {
-      "lat": 51.01541133124803, 
-      "housenumber": "20", 
-      "pcode": 2800, 
-      "street": "Eggestraat", 
-      "lon": 4.465184504351457
-    }, 
-    {
-      "lat": 51.01548598416025, 
-      "housenumber": "22", 
-      "pcode": 2800, 
-      "street": "Eggestraat", 
-      "lon": 4.46513150473171
-    }, 
-    {
-      "lat": 51.015558545250634, 
-      "housenumber": "24", 
-      "pcode": 2800, 
-      "street": "Eggestraat", 
-      "lon": 4.465107999223081
-    }, 
-    {
       "lat": 51.01498114599088, 
+      "lon": 4.465364449404878, 
+      "pcode": 2800, 
+      "street": "Eggestraat"
+    }, 
+    {
+      "housenumber": "12", 
+      "lat": 51.01505093902665, 
+      "lon": 4.465427296084013, 
+      "pcode": 2800, 
+      "street": "Eggestraat"
+    }, 
+    {
+      "housenumber": "14", 
+      "lat": 51.01517845688588, 
+      "lon": 4.465254418541375, 
+      "pcode": 2800, 
+      "street": "Eggestraat"
+    }, 
+    {
+      "housenumber": "16", 
+      "lat": 51.01524573223268, 
+      "lon": 4.465209384243287, 
+      "pcode": 2800, 
+      "street": "Eggestraat"
+    }, 
+    {
+      "housenumber": "18", 
+      "lat": 51.015324047861434, 
+      "lon": 4.465184038348192, 
+      "pcode": 2800, 
+      "street": "Eggestraat"
+    }, 
+    {
+      "housenumber": "2", 
+      "lat": 51.01505093902665, 
+      "lon": 4.465427296084013, 
+      "pcode": 2800, 
+      "street": "Eggestraat"
+    }, 
+    {
+      "housenumber": "20", 
+      "lat": 51.01541133124803, 
+      "lon": 4.465184504351457, 
+      "pcode": 2800, 
+      "street": "Eggestraat"
+    }, 
+    {
+      "housenumber": "22", 
+      "lat": 51.01548598416025, 
+      "lon": 4.46513150473171, 
+      "pcode": 2800, 
+      "street": "Eggestraat"
+    }, 
+    {
+      "housenumber": "24", 
+      "lat": 51.015558545250634, 
+      "lon": 4.465107999223081, 
+      "pcode": 2800, 
+      "street": "Eggestraat"
+    }, 
+    {
       "housenumber": "4", 
+      "lat": 51.01498114599088, 
+      "lon": 4.465364449404878, 
       "pcode": 2800, 
-      "street": "Eggestraat", 
-      "lon": 4.465364449404878
+      "street": "Eggestraat"
     }, 
     {
-      "lat": 51.01491413787602, 
       "housenumber": "6", 
+      "lat": 51.01491413787602, 
+      "lon": 4.465303603742766, 
       "pcode": 2800, 
-      "street": "Eggestraat", 
-      "lon": 4.465303603742766
+      "street": "Eggestraat"
     }, 
     {
-      "lat": 51.01491413787602, 
       "housenumber": "8", 
+      "lat": 51.01491413787602, 
+      "lon": 4.465303603742766, 
       "pcode": 2800, 
-      "street": "Eggestraat", 
-      "lon": 4.465303603742766
+      "street": "Eggestraat"
     }
-  ], 
-  "name": "Eggestraat"
+  ]
 }

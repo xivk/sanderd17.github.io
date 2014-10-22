@@ -1,32 +1,30 @@
 {
-  "pcode": 3545, 
   "addresses": [
     {
-      "lat": 50.94852751266359, 
       "housenumber": "1", 
+      "lat": 50.94852751266359, 
+      "lon": 5.115783187883886, 
       "pcode": 3545, 
-      "street": "Industriestraat", 
-      "lon": 5.115783187883886
+      "street": "Industriestraat"
     }, 
     {
+      "housenumber": "1234", 
       "pcode": 3545, 
-      "street": "Industriestraat", 
-      "housenumber": "1234"
+      "street": "Industriestraat"
     }, 
     {
-      "lat": 50.948870276873656, 
       "housenumber": "2", 
+      "lat": 50.948870276873656, 
+      "lon": 5.115021744449229, 
       "pcode": 3545, 
-      "street": "Industriestraat", 
-      "lon": 5.115021744449229
+      "street": "Industriestraat"
     }, 
     {
-      "lat": 50.94889392421473, 
       "housenumber": "3", 
+      "lat": 50.94889392421473, 
+      "lon": 5.11581279491687, 
       "pcode": 3545, 
-      "street": "Industriestraat", 
-      "lon": 5.11581279491687
+      "street": "Industriestraat"
     }
-  ], 
-  "name": "Industriestraat"
+  ]
 }

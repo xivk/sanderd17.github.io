@@ -1,32 +1,30 @@
 {
-  "pcode": 9032, 
   "addresses": [
     {
-      "lat": 51.09200185425518, 
       "housenumber": "1", 
+      "lat": 51.09200185425518, 
+      "lon": 3.7158201590194104, 
       "pcode": 9032, 
-      "street": "Haagbeuklaan", 
-      "lon": 3.7158201590194104
+      "street": "Haagbeuklaan"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9032, 
-      "street": "Haagbeuklaan", 
-      "housenumber": "2"
+      "street": "Haagbeuklaan"
     }, 
     {
-      "lat": 51.09231569850583, 
       "housenumber": "2A", 
+      "lat": 51.09231569850583, 
+      "lon": 3.7155498477199096, 
       "pcode": 9032, 
-      "street": "Haagbeuklaan", 
-      "lon": 3.7155498477199096
+      "street": "Haagbeuklaan"
     }, 
     {
-      "lat": 51.092318481146236, 
       "housenumber": "4", 
+      "lat": 51.092318481146236, 
+      "lon": 3.715565368061484, 
       "pcode": 9032, 
-      "street": "Haagbeuklaan", 
-      "lon": 3.715565368061484
+      "street": "Haagbeuklaan"
     }
-  ], 
-  "name": "Haagbeuklaan"
+  ]
 }

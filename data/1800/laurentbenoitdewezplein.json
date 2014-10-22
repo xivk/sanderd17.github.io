@@ -1,42 +1,40 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 1800, 
-      "street": "Laurent-Benoit Dewezplein", 
-      "housenumber": "1"
+      "street": "Laurent-Benoit Dewezplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 1800, 
-      "street": "Laurent-Benoit Dewezplein", 
-      "housenumber": "2"
+      "street": "Laurent-Benoit Dewezplein"
     }, 
     {
-      "lat": 50.92459772869483, 
       "housenumber": "3", 
+      "lat": 50.92459772869483, 
+      "lon": 4.423407484099745, 
       "pcode": 1800, 
-      "street": "Laurent-Benoit Dewezplein", 
-      "lon": 4.423407484099745
+      "street": "Laurent-Benoit Dewezplein"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 1800, 
-      "street": "Laurent-Benoit Dewezplein", 
-      "housenumber": "4"
+      "street": "Laurent-Benoit Dewezplein"
     }, 
     {
-      "lat": 50.924185694380924, 
       "housenumber": "5", 
+      "lat": 50.924185694380924, 
+      "lon": 4.422948028969259, 
       "pcode": 1800, 
-      "street": "Laurent-Benoit Dewezplein", 
-      "lon": 4.422948028969259
+      "street": "Laurent-Benoit Dewezplein"
     }, 
     {
-      "lat": 50.92476184350693, 
       "housenumber": "6", 
+      "lat": 50.92476184350693, 
+      "lon": 4.423280239944751, 
       "pcode": 1800, 
-      "street": "Laurent-Benoit Dewezplein", 
-      "lon": 4.423280239944751
+      "street": "Laurent-Benoit Dewezplein"
     }
-  ], 
-  "name": "Laurent-Benoit Dewezplein"
+  ]
 }

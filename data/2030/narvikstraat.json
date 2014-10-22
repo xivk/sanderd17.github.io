@@ -1,61 +1,59 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2030, 
-      "street": "Narvikstraat", 
-      "housenumber": "1"
+      "street": "Narvikstraat"
     }, 
     {
+      "housenumber": "104", 
       "pcode": 2030, 
-      "street": "Narvikstraat", 
-      "housenumber": "104"
+      "street": "Narvikstraat"
     }, 
     {
-      "lat": 51.244564676848256, 
       "housenumber": "11", 
+      "lat": 51.244564676848256, 
+      "lon": 4.412177211717667, 
       "pcode": 2030, 
-      "street": "Narvikstraat", 
-      "lon": 4.412177211717667
+      "street": "Narvikstraat"
     }, 
     {
+      "housenumber": "118", 
       "pcode": 2030, 
-      "street": "Narvikstraat", 
-      "housenumber": "118"
+      "street": "Narvikstraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 2030, 
-      "street": "Narvikstraat", 
-      "housenumber": "1A"
+      "street": "Narvikstraat"
     }, 
     {
-      "lat": 51.24507438139744, 
       "housenumber": "2", 
+      "lat": 51.24507438139744, 
+      "lon": 4.411508344407534, 
       "pcode": 2030, 
-      "street": "Narvikstraat", 
-      "lon": 4.411508344407534
+      "street": "Narvikstraat"
     }, 
     {
-      "lat": 51.24618982066715, 
       "housenumber": "3", 
+      "lat": 51.24618982066715, 
+      "lon": 4.412259807392311, 
       "pcode": 2030, 
-      "street": "Narvikstraat", 
-      "lon": 4.412259807392311
+      "street": "Narvikstraat"
     }, 
     {
-      "lat": 51.24536275815801, 
       "housenumber": "5", 
+      "lat": 51.24536275815801, 
+      "lon": 4.412630217975658, 
       "pcode": 2030, 
-      "street": "Narvikstraat", 
-      "lon": 4.412630217975658
+      "street": "Narvikstraat"
     }, 
     {
-      "lat": 51.24507465315012, 
       "housenumber": "6", 
+      "lat": 51.24507465315012, 
+      "lon": 4.411502616378134, 
       "pcode": 2030, 
-      "street": "Narvikstraat", 
-      "lon": 4.411502616378134
+      "street": "Narvikstraat"
     }
-  ], 
-  "name": "Narvikstraat"
+  ]
 }

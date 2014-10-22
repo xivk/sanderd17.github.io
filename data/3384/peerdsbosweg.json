@@ -1,20 +1,18 @@
 {
-  "pcode": 3384, 
   "addresses": [
     {
-      "lat": 50.872743414829415, 
       "housenumber": "1", 
+      "lat": 50.872743414829415, 
+      "lon": 4.914641330343595, 
       "pcode": 3384, 
-      "street": "Peerdsbosweg", 
-      "lon": 4.914641330343595
+      "street": "Peerdsbosweg"
     }, 
     {
-      "lat": 50.87237901347939, 
       "housenumber": "2", 
+      "lat": 50.87237901347939, 
+      "lon": 4.913492678474161, 
       "pcode": 3384, 
-      "street": "Peerdsbosweg", 
-      "lon": 4.913492678474161
+      "street": "Peerdsbosweg"
     }
-  ], 
-  "name": "Peerdsbosweg"
+  ]
 }

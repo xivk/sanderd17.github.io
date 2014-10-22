@@ -1,20 +1,18 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.21936433616017, 
       "housenumber": "1", 
+      "lat": 51.21936433616017, 
+      "lon": 3.2344797257075064, 
       "pcode": 8000, 
-      "street": "Leestenburg", 
-      "lon": 3.2344797257075064
+      "street": "Leestenburg"
     }, 
     {
-      "lat": 51.2185197336384, 
       "housenumber": "4", 
+      "lat": 51.2185197336384, 
+      "lon": 3.2336597283965247, 
       "pcode": 8000, 
-      "street": "Leestenburg", 
-      "lon": 3.2336597283965247
+      "street": "Leestenburg"
     }
-  ], 
-  "name": "Leestenburg"
+  ]
 }

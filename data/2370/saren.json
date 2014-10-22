@@ -1,18 +1,16 @@
 {
-  "pcode": 2370, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 2370, 
-      "street": "Saren", 
-      "housenumber": "11"
+      "street": "Saren"
     }, 
     {
-      "lat": 51.30621010329114, 
       "housenumber": "20", 
+      "lat": 51.30621010329114, 
+      "lon": 5.063755238442387, 
       "pcode": 2370, 
-      "street": "Saren", 
-      "lon": 5.063755238442387
+      "street": "Saren"
     }
-  ], 
-  "name": "Saren"
+  ]
 }

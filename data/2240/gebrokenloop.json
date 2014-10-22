@@ -1,32 +1,30 @@
 {
-  "pcode": 2240, 
   "addresses": [
     {
-      "lat": 51.19604264756948, 
       "housenumber": "1", 
+      "lat": 51.19604264756948, 
+      "lon": 4.661951714251914, 
       "pcode": 2240, 
-      "street": "Gebroken Loop", 
-      "lon": 4.661951714251914
+      "street": "Gebroken Loop"
     }, 
     {
-      "lat": 51.20283145751708, 
       "housenumber": "11", 
+      "lat": 51.20283145751708, 
+      "lon": 4.651332281979563, 
       "pcode": 2240, 
-      "street": "Gebroken Loop", 
-      "lon": 4.651332281979563
+      "street": "Gebroken Loop"
     }, 
     {
+      "housenumber": "11A", 
       "pcode": 2240, 
-      "street": "Gebroken Loop", 
-      "housenumber": "11A"
+      "street": "Gebroken Loop"
     }, 
     {
-      "lat": 51.20221724732688, 
       "housenumber": "8", 
+      "lat": 51.20221724732688, 
+      "lon": 4.653807066577213, 
       "pcode": 2240, 
-      "street": "Gebroken Loop", 
-      "lon": 4.653807066577213
+      "street": "Gebroken Loop"
     }
-  ], 
-  "name": "Gebroken Loop"
+  ]
 }

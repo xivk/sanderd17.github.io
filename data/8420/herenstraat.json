@@ -1,54 +1,52 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8420, 
-      "street": "Herenstraat", 
-      "housenumber": "1"
+      "street": "Herenstraat"
     }, 
     {
+      "housenumber": "14", 
       "pcode": 8420, 
-      "street": "Herenstraat", 
-      "housenumber": "14"
+      "street": "Herenstraat"
     }, 
     {
+      "housenumber": "16", 
       "pcode": 8420, 
-      "street": "Herenstraat", 
-      "housenumber": "16"
+      "street": "Herenstraat"
     }, 
     {
-      "lat": 51.299765394764286, 
       "housenumber": "2", 
+      "lat": 51.299765394764286, 
+      "lon": 3.078480237084963, 
       "pcode": 8420, 
-      "street": "Herenstraat", 
-      "lon": 3.078480237084963
+      "street": "Herenstraat"
     }, 
     {
-      "lat": 51.29997914306548, 
       "housenumber": "3", 
+      "lat": 51.29997914306548, 
+      "lon": 3.0788498730159612, 
       "pcode": 8420, 
-      "street": "Herenstraat", 
-      "lon": 3.0788498730159612
+      "street": "Herenstraat"
     }, 
     {
-      "lat": 51.29986046694843, 
       "housenumber": "6", 
+      "lat": 51.29986046694843, 
+      "lon": 3.0784603952312053, 
       "pcode": 8420, 
-      "street": "Herenstraat", 
-      "lon": 3.0784603952312053
+      "street": "Herenstraat"
     }, 
     {
-      "lat": 51.30005229808321, 
       "housenumber": "7", 
+      "lat": 51.30005229808321, 
+      "lon": 3.078666448421885, 
       "pcode": 8420, 
-      "street": "Herenstraat", 
-      "lon": 3.078666448421885
+      "street": "Herenstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 8420, 
-      "street": "Herenstraat", 
-      "housenumber": "8"
+      "street": "Herenstraat"
     }
-  ], 
-  "name": "Herenstraat"
+  ]
 }

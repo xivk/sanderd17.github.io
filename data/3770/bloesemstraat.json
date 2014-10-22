@@ -1,20 +1,18 @@
 {
-  "pcode": 3770, 
   "addresses": [
     {
-      "lat": 50.82647107170331, 
       "housenumber": "2", 
+      "lat": 50.82647107170331, 
+      "lon": 5.640876816787581, 
       "pcode": 3770, 
-      "street": "Bloesemstraat", 
-      "lon": 5.640876816787581
+      "street": "Bloesemstraat"
     }, 
     {
-      "lat": 50.82659624217257, 
       "housenumber": "4", 
+      "lat": 50.82659624217257, 
+      "lon": 5.641082204632977, 
       "pcode": 3770, 
-      "street": "Bloesemstraat", 
-      "lon": 5.641082204632977
+      "street": "Bloesemstraat"
     }
-  ], 
-  "name": "Bloesemstraat"
+  ]
 }

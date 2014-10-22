@@ -1,27 +1,25 @@
 {
-  "pcode": 2400, 
   "addresses": [
     {
-      "lat": 51.199730683765424, 
       "housenumber": "18", 
+      "lat": 51.199730683765424, 
+      "lon": 5.120132747441436, 
       "pcode": 2400, 
-      "street": "Zonnebloemstraat", 
-      "lon": 5.120132747441436
+      "street": "Zonnebloemstraat"
     }, 
     {
-      "lat": 51.20002824476199, 
       "housenumber": "20", 
+      "lat": 51.20002824476199, 
+      "lon": 5.1201283879628505, 
       "pcode": 2400, 
-      "street": "Zonnebloemstraat", 
-      "lon": 5.1201283879628505
+      "street": "Zonnebloemstraat"
     }, 
     {
-      "lat": 51.200288182185844, 
       "housenumber": "22", 
+      "lat": 51.200288182185844, 
+      "lon": 5.120131863387393, 
       "pcode": 2400, 
-      "street": "Zonnebloemstraat", 
-      "lon": 5.120131863387393
+      "street": "Zonnebloemstraat"
     }
-  ], 
-  "name": "Zonnebloemstraat"
+  ]
 }

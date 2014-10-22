@@ -1,58 +1,56 @@
 {
-  "pcode": 8660, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8660, 
-      "street": "Stationsplein", 
-      "housenumber": "1"
+      "street": "Stationsplein"
     }, 
     {
-      "lat": 51.077730890371406, 
       "housenumber": "2", 
+      "lat": 51.077730890371406, 
+      "lon": 2.60250296826531, 
       "pcode": 8660, 
-      "street": "Stationsplein", 
-      "lon": 2.60250296826531
+      "street": "Stationsplein"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 8660, 
-      "street": "Stationsplein", 
-      "housenumber": "2A"
+      "street": "Stationsplein"
     }, 
     {
-      "lat": 51.07780585018362, 
       "housenumber": "3", 
+      "lat": 51.07780585018362, 
+      "lon": 2.602303020815899, 
       "pcode": 8660, 
-      "street": "Stationsplein", 
-      "lon": 2.602303020815899
+      "street": "Stationsplein"
     }, 
     {
-      "lat": 51.07780313980058, 
       "housenumber": "4", 
+      "lat": 51.07780313980058, 
+      "lon": 2.6021221348165913, 
       "pcode": 8660, 
-      "street": "Stationsplein", 
-      "lon": 2.6021221348165913
+      "street": "Stationsplein"
     }, 
     {
-      "lat": 51.07779522319132, 
       "housenumber": "5", 
+      "lat": 51.07779522319132, 
+      "lon": 2.601965853176801, 
       "pcode": 8660, 
-      "street": "Stationsplein", 
-      "lon": 2.601965853176801
+      "street": "Stationsplein"
     }, 
     {
-      "lat": 51.07778628754267, 
       "housenumber": "6", 
+      "lat": 51.07778628754267, 
+      "lon": 2.6018435810591227, 
       "pcode": 8660, 
-      "street": "Stationsplein", 
-      "lon": 2.6018435810591227
+      "street": "Stationsplein"
     }, 
     {
-      "lat": 51.077404229760326, 
       "housenumber": "9", 
+      "lat": 51.077404229760326, 
+      "lon": 2.6023347422872884, 
       "pcode": 8660, 
-      "street": "Stationsplein", 
-      "lon": 2.6023347422872884
+      "street": "Stationsplein"
     }
-  ], 
-  "name": "Stationsplein"
+  ]
 }

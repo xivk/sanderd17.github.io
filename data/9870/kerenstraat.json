@@ -1,20 +1,18 @@
 {
-  "pcode": 9870, 
   "addresses": [
     {
-      "lat": 50.9692028635952, 
       "housenumber": "1", 
+      "lat": 50.9692028635952, 
+      "lon": 3.489519311700711, 
       "pcode": 9870, 
-      "street": "Kerenstraat", 
-      "lon": 3.489519311700711
+      "street": "Kerenstraat"
     }, 
     {
-      "lat": 50.968602416595694, 
       "housenumber": "2", 
+      "lat": 50.968602416595694, 
+      "lon": 3.489156123922012, 
       "pcode": 9870, 
-      "street": "Kerenstraat", 
-      "lon": 3.489156123922012
+      "street": "Kerenstraat"
     }
-  ], 
-  "name": "Kerenstraat"
+  ]
 }

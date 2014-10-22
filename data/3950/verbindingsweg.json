@@ -1,27 +1,25 @@
 {
-  "pcode": 3950, 
   "addresses": [
     {
-      "lat": 51.18374238516474, 
       "housenumber": "1", 
+      "lat": 51.18374238516474, 
+      "lon": 5.588236105529675, 
       "pcode": 3950, 
-      "street": "Verbindingsweg", 
-      "lon": 5.588236105529675
+      "street": "Verbindingsweg"
     }, 
     {
-      "lat": 51.1838688190684, 
       "housenumber": "3", 
+      "lat": 51.1838688190684, 
+      "lon": 5.587927730803671, 
       "pcode": 3950, 
-      "street": "Verbindingsweg", 
-      "lon": 5.587927730803671
+      "street": "Verbindingsweg"
     }, 
     {
-      "lat": 51.18321140661347, 
       "housenumber": "4", 
+      "lat": 51.18321140661347, 
+      "lon": 5.590544705092119, 
       "pcode": 3950, 
-      "street": "Verbindingsweg", 
-      "lon": 5.590544705092119
+      "street": "Verbindingsweg"
     }
-  ], 
-  "name": "Verbindingsweg"
+  ]
 }

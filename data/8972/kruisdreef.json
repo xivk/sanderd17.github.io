@@ -1,20 +1,18 @@
 {
-  "pcode": 8972, 
   "addresses": [
     {
-      "lat": 50.89229670675256, 
       "housenumber": "1", 
+      "lat": 50.89229670675256, 
+      "lon": 2.619229450087124, 
       "pcode": 8972, 
-      "street": "Kruisdreef", 
-      "lon": 2.619229450087124
+      "street": "Kruisdreef"
     }, 
     {
-      "lat": 50.886349506687196, 
       "housenumber": "2", 
+      "lat": 50.886349506687196, 
+      "lon": 2.607960143395385, 
       "pcode": 8972, 
-      "street": "Kruisdreef", 
-      "lon": 2.607960143395385
+      "street": "Kruisdreef"
     }
-  ], 
-  "name": "Kruisdreef"
+  ]
 }

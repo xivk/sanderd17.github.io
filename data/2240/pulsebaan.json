@@ -1,35 +1,33 @@
 {
-  "pcode": 2240, 
   "addresses": [
     {
+      "housenumber": "45", 
       "pcode": 2240, 
-      "street": "Pulsebaan", 
-      "housenumber": "45"
+      "street": "Pulsebaan"
     }, 
     {
-      "lat": 51.21364618167638, 
       "housenumber": "47", 
+      "lat": 51.21364618167638, 
+      "lon": 4.6945050891244575, 
       "pcode": 2240, 
-      "street": "Pulsebaan", 
-      "lon": 4.6945050891244575
+      "street": "Pulsebaan"
     }, 
     {
+      "housenumber": "48", 
       "pcode": 2240, 
-      "street": "Pulsebaan", 
-      "housenumber": "48"
+      "street": "Pulsebaan"
     }, 
     {
+      "housenumber": "50", 
       "pcode": 2240, 
-      "street": "Pulsebaan", 
-      "housenumber": "50"
+      "street": "Pulsebaan"
     }, 
     {
-      "lat": 51.212617207598775, 
       "housenumber": "52", 
+      "lat": 51.212617207598775, 
+      "lon": 4.69407099306383, 
       "pcode": 2240, 
-      "street": "Pulsebaan", 
-      "lon": 4.69407099306383
+      "street": "Pulsebaan"
     }
-  ], 
-  "name": "Pulsebaan"
+  ]
 }

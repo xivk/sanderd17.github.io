@@ -1,27 +1,25 @@
 {
-  "pcode": 2222, 
   "addresses": [
     {
-      "lat": 51.103807660052745, 
       "housenumber": "3", 
+      "lat": 51.103807660052745, 
+      "lon": 4.76898983939922, 
       "pcode": 2222, 
-      "street": "Turfstraat", 
-      "lon": 4.76898983939922
+      "street": "Turfstraat"
     }, 
     {
-      "lat": 51.101215411267845, 
       "housenumber": "4", 
+      "lat": 51.101215411267845, 
+      "lon": 4.769736987019691, 
       "pcode": 2222, 
-      "street": "Turfstraat", 
-      "lon": 4.769736987019691
+      "street": "Turfstraat"
     }, 
     {
-      "lat": 51.10409071090068, 
       "housenumber": "6", 
+      "lat": 51.10409071090068, 
+      "lon": 4.769758837906353, 
       "pcode": 2222, 
-      "street": "Turfstraat", 
-      "lon": 4.769758837906353
+      "street": "Turfstraat"
     }
-  ], 
-  "name": "Turfstraat"
+  ]
 }

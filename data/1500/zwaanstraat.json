@@ -1,46 +1,44 @@
 {
-  "pcode": 1500, 
   "addresses": [
     {
-      "lat": 50.73702133943843, 
       "housenumber": "2", 
+      "lat": 50.73702133943843, 
+      "lon": 4.236920723463214, 
       "pcode": 1500, 
-      "street": "Zwaanstraat", 
-      "lon": 4.236920723463214
+      "street": "Zwaanstraat"
     }, 
     {
-      "lat": 50.73693713199244, 
       "housenumber": "3", 
+      "lat": 50.73693713199244, 
+      "lon": 4.23670421374851, 
       "pcode": 1500, 
-      "street": "Zwaanstraat", 
-      "lon": 4.23670421374851
+      "street": "Zwaanstraat"
     }, 
     {
-      "lat": 50.737080908326945, 
       "housenumber": "4", 
+      "lat": 50.737080908326945, 
+      "lon": 4.236890950053169, 
       "pcode": 1500, 
-      "street": "Zwaanstraat", 
-      "lon": 4.236890950053169
+      "street": "Zwaanstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 1500, 
-      "street": "Zwaanstraat", 
-      "housenumber": "5"
+      "street": "Zwaanstraat"
     }, 
     {
-      "lat": 50.737122448286286, 
       "housenumber": "6", 
+      "lat": 50.737122448286286, 
+      "lon": 4.236817169465543, 
       "pcode": 1500, 
-      "street": "Zwaanstraat", 
-      "lon": 4.236817169465543
+      "street": "Zwaanstraat"
     }, 
     {
-      "lat": 50.736999169114014, 
       "housenumber": "7", 
+      "lat": 50.736999169114014, 
+      "lon": 4.236630942698272, 
       "pcode": 1500, 
-      "street": "Zwaanstraat", 
-      "lon": 4.236630942698272
+      "street": "Zwaanstraat"
     }
-  ], 
-  "name": "Zwaanstraat"
+  ]
 }

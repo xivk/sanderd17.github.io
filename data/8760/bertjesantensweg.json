@@ -1,32 +1,30 @@
 {
-  "pcode": 8760, 
   "addresses": [
     {
-      "lat": 50.9477309732493, 
       "housenumber": "1", 
+      "lat": 50.9477309732493, 
+      "lon": 3.289784008813556, 
       "pcode": 8760, 
-      "street": "Bertje Santensweg", 
-      "lon": 3.289784008813556
+      "street": "Bertje Santensweg"
     }, 
     {
-      "lat": 50.948485293237596, 
       "housenumber": "2", 
+      "lat": 50.948485293237596, 
+      "lon": 3.2893281897404107, 
       "pcode": 8760, 
-      "street": "Bertje Santensweg", 
-      "lon": 3.2893281897404107
+      "street": "Bertje Santensweg"
     }, 
     {
-      "lat": 50.94852542390836, 
       "housenumber": "2A", 
+      "lat": 50.94852542390836, 
+      "lon": 3.289322143340732, 
       "pcode": 8760, 
-      "street": "Bertje Santensweg", 
-      "lon": 3.289322143340732
+      "street": "Bertje Santensweg"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8760, 
-      "street": "Bertje Santensweg", 
-      "housenumber": "4"
+      "street": "Bertje Santensweg"
     }
-  ], 
-  "name": "Bertje Santensweg"
+  ]
 }

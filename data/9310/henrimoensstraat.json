@@ -1,20 +1,18 @@
 {
-  "pcode": 9310, 
   "addresses": [
     {
-      "lat": 50.972104486201374, 
       "housenumber": "1", 
+      "lat": 50.972104486201374, 
+      "lon": 4.066101377025824, 
       "pcode": 9310, 
-      "street": "Henri Moensstraat", 
-      "lon": 4.066101377025824
+      "street": "Henri Moensstraat"
     }, 
     {
-      "lat": 50.97214759123764, 
       "housenumber": "3", 
+      "lat": 50.97214759123764, 
+      "lon": 4.065944487456186, 
       "pcode": 9310, 
-      "street": "Henri Moensstraat", 
-      "lon": 4.065944487456186
+      "street": "Henri Moensstraat"
     }
-  ], 
-  "name": "Henri Moensstraat"
+  ]
 }

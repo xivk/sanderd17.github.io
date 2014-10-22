@@ -1,20 +1,18 @@
 {
-  "pcode": 2235, 
   "addresses": [
     {
-      "lat": 51.049920219177686, 
       "housenumber": "1", 
+      "lat": 51.049920219177686, 
+      "lon": 4.809740697414668, 
       "pcode": 2235, 
-      "street": "Donkenstraat", 
-      "lon": 4.809740697414668
+      "street": "Donkenstraat"
     }, 
     {
-      "lat": 51.048989181696726, 
       "housenumber": "2", 
+      "lat": 51.048989181696726, 
+      "lon": 4.810708073598088, 
       "pcode": 2235, 
-      "street": "Donkenstraat", 
-      "lon": 4.810708073598088
+      "street": "Donkenstraat"
     }
-  ], 
-  "name": "Donkenstraat"
+  ]
 }

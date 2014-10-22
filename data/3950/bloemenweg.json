@@ -1,27 +1,25 @@
 {
-  "pcode": 3950, 
   "addresses": [
     {
-      "lat": 51.18072914212981, 
       "housenumber": "1", 
+      "lat": 51.18072914212981, 
+      "lon": 5.532980679807442, 
       "pcode": 3950, 
-      "street": "Bloemenweg", 
-      "lon": 5.532980679807442
+      "street": "Bloemenweg"
     }, 
     {
-      "lat": 51.18035712447604, 
       "housenumber": "2", 
+      "lat": 51.18035712447604, 
+      "lon": 5.531806875206355, 
       "pcode": 3950, 
-      "street": "Bloemenweg", 
-      "lon": 5.531806875206355
+      "street": "Bloemenweg"
     }, 
     {
-      "lat": 51.17990537731336, 
       "housenumber": "3", 
+      "lat": 51.17990537731336, 
+      "lon": 5.534023933716784, 
       "pcode": 3950, 
-      "street": "Bloemenweg", 
-      "lon": 5.534023933716784
+      "street": "Bloemenweg"
     }
-  ], 
-  "name": "Bloemenweg"
+  ]
 }

@@ -1,39 +1,37 @@
 {
-  "pcode": 1830, 
   "addresses": [
     {
+      "housenumber": "17", 
       "pcode": 1830, 
-      "street": "St. Gertrudisstraat", 
-      "housenumber": "17"
+      "street": "St. Gertrudisstraat"
     }, 
     {
-      "lat": 50.9134624760403, 
       "housenumber": "51", 
+      "lat": 50.9134624760403, 
+      "lon": 4.433371207297764, 
       "pcode": 1830, 
-      "street": "St. Gertrudisstraat", 
-      "lon": 4.433371207297764
+      "street": "St. Gertrudisstraat"
     }, 
     {
-      "lat": 50.913410122490085, 
       "housenumber": "53", 
+      "lat": 50.913410122490085, 
+      "lon": 4.433273446357704, 
       "pcode": 1830, 
-      "street": "St. Gertrudisstraat", 
-      "lon": 4.433273446357704
+      "street": "St. Gertrudisstraat"
     }, 
     {
-      "lat": 50.913435130633324, 
       "housenumber": "57", 
+      "lat": 50.913435130633324, 
+      "lon": 4.433079242357373, 
       "pcode": 1830, 
-      "street": "St. Gertrudisstraat", 
-      "lon": 4.433079242357373
+      "street": "St. Gertrudisstraat"
     }, 
     {
-      "lat": 50.913142193698924, 
       "housenumber": "6", 
+      "lat": 50.913142193698924, 
+      "lon": 4.432706856107018, 
       "pcode": 1830, 
-      "street": "St. Gertrudisstraat", 
-      "lon": 4.432706856107018
+      "street": "St. Gertrudisstraat"
     }
-  ], 
-  "name": "St. Gertrudisstraat"
+  ]
 }

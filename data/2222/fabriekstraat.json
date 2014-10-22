@@ -1,20 +1,18 @@
 {
-  "pcode": 2222, 
   "addresses": [
     {
-      "lat": 51.09083689367873, 
       "housenumber": "2", 
+      "lat": 51.09083689367873, 
+      "lon": 4.811922815126887, 
       "pcode": 2222, 
-      "street": "Fabriekstraat", 
-      "lon": 4.811922815126887
+      "street": "Fabriekstraat"
     }, 
     {
-      "lat": 51.08940606119293, 
       "housenumber": "4", 
+      "lat": 51.08940606119293, 
+      "lon": 4.811412095069035, 
       "pcode": 2222, 
-      "street": "Fabriekstraat", 
-      "lon": 4.811412095069035
+      "street": "Fabriekstraat"
     }
-  ], 
-  "name": "Fabriekstraat"
+  ]
 }

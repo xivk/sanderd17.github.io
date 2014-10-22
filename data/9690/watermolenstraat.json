@@ -1,32 +1,30 @@
 {
-  "pcode": 9690, 
   "addresses": [
     {
-      "lat": 50.77577220597041, 
       "housenumber": "1", 
+      "lat": 50.77577220597041, 
+      "lon": 3.5363021053646606, 
       "pcode": 9690, 
-      "street": "Watermolenstraat", 
-      "lon": 3.5363021053646606
+      "street": "Watermolenstraat"
     }, 
     {
-      "lat": 50.77640562742045, 
       "housenumber": "2", 
+      "lat": 50.77640562742045, 
+      "lon": 3.537260192151608, 
       "pcode": 9690, 
-      "street": "Watermolenstraat", 
-      "lon": 3.537260192151608
+      "street": "Watermolenstraat"
     }, 
     {
-      "lat": 50.775085998745055, 
       "housenumber": "3", 
+      "lat": 50.775085998745055, 
+      "lon": 3.5377488222350375, 
       "pcode": 9690, 
-      "street": "Watermolenstraat", 
-      "lon": 3.5377488222350375
+      "street": "Watermolenstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9690, 
-      "street": "Watermolenstraat", 
-      "housenumber": "4"
+      "street": "Watermolenstraat"
     }
-  ], 
-  "name": "Watermolenstraat"
+  ]
 }

@@ -1,35 +1,33 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 2000, 
-      "street": "Koeikensgracht", 
-      "housenumber": "2"
+      "street": "Koeikensgracht"
     }, 
     {
-      "lat": 51.227166647347616, 
       "housenumber": "20", 
+      "lat": 51.227166647347616, 
+      "lon": 4.413675296550056, 
       "pcode": 2000, 
-      "street": "Koeikensgracht", 
-      "lon": 4.413675296550056
+      "street": "Koeikensgracht"
     }, 
     {
-      "lat": 51.2270595214465, 
       "housenumber": "4", 
+      "lat": 51.2270595214465, 
+      "lon": 4.413401485617274, 
       "pcode": 2000, 
-      "street": "Koeikensgracht", 
-      "lon": 4.413401485617274
+      "street": "Koeikensgracht"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2000, 
-      "street": "Koeikensgracht", 
-      "housenumber": "6"
+      "street": "Koeikensgracht"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2000, 
-      "street": "Koeikensgracht", 
-      "housenumber": "8"
+      "street": "Koeikensgracht"
     }
-  ], 
-  "name": "Koeikensgracht"
+  ]
 }

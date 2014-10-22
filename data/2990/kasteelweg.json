@@ -1,32 +1,30 @@
 {
-  "pcode": 2990, 
   "addresses": [
     {
-      "lat": 51.404181602539396, 
       "housenumber": "1", 
+      "lat": 51.404181602539396, 
+      "lon": 4.628803278205606, 
       "pcode": 2990, 
-      "street": "Kasteelweg", 
-      "lon": 4.628803278205606
+      "street": "Kasteelweg"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 2990, 
-      "street": "Kasteelweg", 
-      "housenumber": "1B"
+      "street": "Kasteelweg"
     }, 
     {
-      "lat": 51.40372366287072, 
       "housenumber": "2", 
+      "lat": 51.40372366287072, 
+      "lon": 4.62827707480526, 
       "pcode": 2990, 
-      "street": "Kasteelweg", 
-      "lon": 4.62827707480526
+      "street": "Kasteelweg"
     }, 
     {
-      "lat": 51.40360491067404, 
       "housenumber": "3", 
+      "lat": 51.40360491067404, 
+      "lon": 4.628533913988888, 
       "pcode": 2990, 
-      "street": "Kasteelweg", 
-      "lon": 4.628533913988888
+      "street": "Kasteelweg"
     }
-  ], 
-  "name": "Kasteelweg"
+  ]
 }

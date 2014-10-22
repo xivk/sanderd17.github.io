@@ -1,32 +1,30 @@
 {
-  "pcode": 1980, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 1980, 
-      "street": "Schom", 
-      "housenumber": "2"
+      "street": "Schom"
     }, 
     {
-      "lat": 50.994282237061384, 
       "housenumber": "49", 
+      "lat": 50.994282237061384, 
+      "lon": 4.461366602284523, 
       "pcode": 1980, 
-      "street": "Schom", 
-      "lon": 4.461366602284523
+      "street": "Schom"
     }, 
     {
-      "lat": 50.9941635493599, 
       "housenumber": "50", 
+      "lat": 50.9941635493599, 
+      "lon": 4.461970882595905, 
       "pcode": 1980, 
-      "street": "Schom", 
-      "lon": 4.461970882595905
+      "street": "Schom"
     }, 
     {
-      "lat": 49.293335165093566, 
       "housenumber": "9", 
+      "lat": 49.293335165093566, 
+      "lon": 2.306689562140502, 
       "pcode": 1980, 
-      "street": "Schom", 
-      "lon": 2.306689562140502
+      "street": "Schom"
     }
-  ], 
-  "name": "Schom"
+  ]
 }

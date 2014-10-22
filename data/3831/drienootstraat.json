@@ -1,20 +1,18 @@
 {
-  "pcode": 3831, 
   "addresses": [
     {
-      "lat": 50.83503454309229, 
       "housenumber": "1", 
+      "lat": 50.83503454309229, 
+      "lon": 5.3334285441741915, 
       "pcode": 3831, 
-      "street": "Drienootstraat", 
-      "lon": 5.3334285441741915
+      "street": "Drienootstraat"
     }, 
     {
-      "lat": 50.83504984864466, 
       "housenumber": "2", 
+      "lat": 50.83504984864466, 
+      "lon": 5.333535052103915, 
       "pcode": 3831, 
-      "street": "Drienootstraat", 
-      "lon": 5.333535052103915
+      "street": "Drienootstraat"
     }
-  ], 
-  "name": "Drienootstraat"
+  ]
 }

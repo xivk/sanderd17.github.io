@@ -1,20 +1,18 @@
 {
-  "pcode": 9255, 
   "addresses": [
     {
-      "lat": 51.00413462629835, 
       "housenumber": "1", 
+      "lat": 51.00413462629835, 
+      "lon": 4.169748835204824, 
       "pcode": 9255, 
-      "street": "Kortedreef", 
-      "lon": 4.169748835204824
+      "street": "Kortedreef"
     }, 
     {
-      "lat": 51.004558692978485, 
       "housenumber": "2", 
+      "lat": 51.004558692978485, 
+      "lon": 4.169458676134401, 
       "pcode": 9255, 
-      "street": "Kortedreef", 
-      "lon": 4.169458676134401
+      "street": "Kortedreef"
     }
-  ], 
-  "name": "Kortedreef"
+  ]
 }

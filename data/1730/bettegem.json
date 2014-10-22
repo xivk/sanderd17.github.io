@@ -1,18 +1,16 @@
 {
-  "pcode": 1730, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 1730, 
-      "street": "Bettegem", 
-      "housenumber": "1"
+      "street": "Bettegem"
     }, 
     {
-      "lat": 50.900581144226024, 
       "housenumber": "14", 
+      "lat": 50.900581144226024, 
+      "lon": 4.249813822026204, 
       "pcode": 1730, 
-      "street": "Bettegem", 
-      "lon": 4.249813822026204
+      "street": "Bettegem"
     }
-  ], 
-  "name": "Bettegem"
+  ]
 }

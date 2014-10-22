@@ -1,18 +1,16 @@
 {
-  "pcode": 2018, 
   "addresses": [
     {
-      "lat": 51.20514771360548, 
       "housenumber": "1", 
+      "lat": 51.20514771360548, 
+      "lon": 4.398762388575498, 
       "pcode": 2018, 
-      "street": "Francis Wellesplein", 
-      "lon": 4.398762388575498
+      "street": "Francis Wellesplein"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2018, 
-      "street": "Francis Wellesplein", 
-      "housenumber": "4"
+      "street": "Francis Wellesplein"
     }
-  ], 
-  "name": "Francis Wellesplein"
+  ]
 }

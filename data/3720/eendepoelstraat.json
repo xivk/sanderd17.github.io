@@ -1,20 +1,18 @@
 {
-  "pcode": 3720, 
   "addresses": [
     {
-      "lat": 50.87609696312758, 
       "housenumber": "1", 
+      "lat": 50.87609696312758, 
+      "lon": 5.396523354159126, 
       "pcode": 3720, 
-      "street": "Eendepoelstraat", 
-      "lon": 5.396523354159126
+      "street": "Eendepoelstraat"
     }, 
     {
-      "lat": 50.876260399156834, 
       "housenumber": "2", 
+      "lat": 50.876260399156834, 
+      "lon": 5.396995992316144, 
       "pcode": 3720, 
-      "street": "Eendepoelstraat", 
-      "lon": 5.396995992316144
+      "street": "Eendepoelstraat"
     }
-  ], 
-  "name": "Eendepoelstraat"
+  ]
 }

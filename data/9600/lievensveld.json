@@ -1,27 +1,25 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.749477936040584, 
       "housenumber": "3", 
+      "lat": 50.749477936040584, 
+      "lon": 3.645511194333757, 
       "pcode": 9600, 
-      "street": "Lievensveld", 
-      "lon": 3.645511194333757
+      "street": "Lievensveld"
     }, 
     {
-      "lat": 50.748441930431376, 
       "housenumber": "7", 
+      "lat": 50.748441930431376, 
+      "lon": 3.646243115169833, 
       "pcode": 9600, 
-      "street": "Lievensveld", 
-      "lon": 3.646243115169833
+      "street": "Lievensveld"
     }, 
     {
-      "lat": 50.74914320885772, 
       "housenumber": "8", 
+      "lat": 50.74914320885772, 
+      "lon": 3.6477972282133746, 
       "pcode": 9600, 
-      "street": "Lievensveld", 
-      "lon": 3.6477972282133746
+      "street": "Lievensveld"
     }
-  ], 
-  "name": "Lievensveld"
+  ]
 }

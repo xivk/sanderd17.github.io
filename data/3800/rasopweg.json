@@ -1,20 +1,18 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
-      "lat": 50.8003635584745, 
       "housenumber": "1", 
+      "lat": 50.8003635584745, 
+      "lon": 5.210289116362236, 
       "pcode": 3800, 
-      "street": "Rasopweg", 
-      "lon": 5.210289116362236
+      "street": "Rasopweg"
     }, 
     {
-      "lat": 50.80059518357862, 
       "housenumber": "3", 
+      "lat": 50.80059518357862, 
+      "lon": 5.210283899364205, 
       "pcode": 3800, 
-      "street": "Rasopweg", 
-      "lon": 5.210283899364205
+      "street": "Rasopweg"
     }
-  ], 
-  "name": "Rasopweg"
+  ]
 }

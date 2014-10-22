@@ -1,20 +1,18 @@
 {
-  "pcode": 8900, 
   "addresses": [
     {
-      "lat": 50.811746835795795, 
       "housenumber": "2", 
+      "lat": 50.811746835795795, 
+      "lon": 2.8029362344985524, 
       "pcode": 8900, 
-      "street": "Reningelststraat", 
-      "lon": 2.8029362344985524
+      "street": "Reningelststraat"
     }, 
     {
-      "lat": 50.81274562150665, 
       "housenumber": "4", 
+      "lat": 50.81274562150665, 
+      "lon": 2.8008506589482445, 
       "pcode": 8900, 
-      "street": "Reningelststraat", 
-      "lon": 2.8008506589482445
+      "street": "Reningelststraat"
     }
-  ], 
-  "name": "Reningelststraat"
+  ]
 }

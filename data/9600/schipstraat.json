@@ -1,46 +1,44 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.748842320702565, 
       "housenumber": "1", 
+      "lat": 50.748842320702565, 
+      "lon": 3.598313441770111, 
       "pcode": 9600, 
-      "street": "Schipstraat", 
-      "lon": 3.598313441770111
+      "street": "Schipstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9600, 
-      "street": "Schipstraat", 
-      "housenumber": "3"
+      "street": "Schipstraat"
     }, 
     {
-      "lat": 50.74872268516961, 
       "housenumber": "4", 
+      "lat": 50.74872268516961, 
+      "lon": 3.5984811923267173, 
       "pcode": 9600, 
-      "street": "Schipstraat", 
-      "lon": 3.5984811923267173
+      "street": "Schipstraat"
     }, 
     {
-      "lat": 50.7488799490933, 
       "housenumber": "5", 
+      "lat": 50.7488799490933, 
+      "lon": 3.5982252525044824, 
       "pcode": 9600, 
-      "street": "Schipstraat", 
-      "lon": 3.5982252525044824
+      "street": "Schipstraat"
     }, 
     {
-      "lat": 50.748709387878534, 
       "housenumber": "6", 
+      "lat": 50.748709387878534, 
+      "lon": 3.598386750227383, 
       "pcode": 9600, 
-      "street": "Schipstraat", 
-      "lon": 3.598386750227383
+      "street": "Schipstraat"
     }, 
     {
-      "lat": 50.74867065571409, 
       "housenumber": "8", 
+      "lat": 50.74867065571409, 
+      "lon": 3.5983481306659444, 
       "pcode": 9600, 
-      "street": "Schipstraat", 
-      "lon": 3.5983481306659444
+      "street": "Schipstraat"
     }
-  ], 
-  "name": "Schipstraat"
+  ]
 }

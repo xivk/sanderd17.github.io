@@ -1,35 +1,33 @@
 {
-  "pcode": 8940, 
   "addresses": [
     {
-      "lat": 50.78079211159467, 
       "housenumber": "1", 
+      "lat": 50.78079211159467, 
+      "lon": 3.0408759786781547, 
       "pcode": 8940, 
-      "street": "Sint-Pol", 
-      "lon": 3.0408759786781547
+      "street": "Sint-Pol"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8940, 
-      "street": "Sint-Pol", 
-      "housenumber": "2"
+      "street": "Sint-Pol"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8940, 
-      "street": "Sint-Pol", 
-      "housenumber": "3"
+      "street": "Sint-Pol"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8940, 
-      "street": "Sint-Pol", 
-      "housenumber": "4"
+      "street": "Sint-Pol"
     }, 
     {
-      "lat": 50.78159683820329, 
       "housenumber": "5", 
+      "lat": 50.78159683820329, 
+      "lon": 3.041020777151799, 
       "pcode": 8940, 
-      "street": "Sint-Pol", 
-      "lon": 3.041020777151799
+      "street": "Sint-Pol"
     }
-  ], 
-  "name": "Sint-Pol"
+  ]
 }

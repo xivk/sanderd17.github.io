@@ -1,32 +1,30 @@
 {
-  "pcode": 3665, 
   "addresses": [
     {
-      "lat": 51.01416761112177, 
       "housenumber": "2", 
+      "lat": 51.01416761112177, 
+      "lon": 5.6000251574276465, 
       "pcode": 3665, 
-      "street": "Nielerlaan", 
-      "lon": 5.6000251574276465
+      "street": "Nielerlaan"
     }, 
     {
+      "housenumber": "42A", 
       "pcode": 3665, 
-      "street": "Nielerlaan", 
-      "housenumber": "42A"
+      "street": "Nielerlaan"
     }, 
     {
-      "lat": 51.01070082664311, 
       "housenumber": "58D", 
+      "lat": 51.01070082664311, 
+      "lon": 5.604862969511122, 
       "pcode": 3665, 
-      "street": "Nielerlaan", 
-      "lon": 5.604862969511122
+      "street": "Nielerlaan"
     }, 
     {
-      "lat": 51.00852489582202, 
       "housenumber": "90", 
+      "lat": 51.00852489582202, 
+      "lon": 5.604084730971145, 
       "pcode": 3665, 
-      "street": "Nielerlaan", 
-      "lon": 5.604084730971145
+      "street": "Nielerlaan"
     }
-  ], 
-  "name": "Nielerlaan"
+  ]
 }

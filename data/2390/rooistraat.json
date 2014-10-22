@@ -1,32 +1,30 @@
 {
-  "pcode": 2390, 
   "addresses": [
     {
-      "lat": 51.30050181404711, 
       "housenumber": "1", 
+      "lat": 51.30050181404711, 
+      "lon": 4.731883798779345, 
       "pcode": 2390, 
-      "street": "Rooistraat", 
-      "lon": 4.731883798779345
+      "street": "Rooistraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2390, 
-      "street": "Rooistraat", 
-      "housenumber": "3"
+      "street": "Rooistraat"
     }, 
     {
-      "lat": 51.300642322283096, 
       "housenumber": "5", 
+      "lat": 51.300642322283096, 
+      "lon": 4.731671548025822, 
       "pcode": 2390, 
-      "street": "Rooistraat", 
-      "lon": 4.731671548025822
+      "street": "Rooistraat"
     }, 
     {
-      "lat": 51.30069253397768, 
       "housenumber": "7", 
+      "lat": 51.30069253397768, 
+      "lon": 4.731389195166423, 
       "pcode": 2390, 
-      "street": "Rooistraat", 
-      "lon": 4.731389195166423
+      "street": "Rooistraat"
     }
-  ], 
-  "name": "Rooistraat"
+  ]
 }

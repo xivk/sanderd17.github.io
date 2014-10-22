@@ -1,27 +1,25 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.110658482138945, 
       "housenumber": "1", 
+      "lat": 51.110658482138945, 
+      "lon": 3.7410569822562705, 
       "pcode": 9000, 
-      "street": "Roeiersweg", 
-      "lon": 3.7410569822562705
+      "street": "Roeiersweg"
     }, 
     {
-      "lat": 51.11069388054059, 
       "housenumber": "2", 
+      "lat": 51.11069388054059, 
+      "lon": 3.741138046421532, 
       "pcode": 9000, 
-      "street": "Roeiersweg", 
-      "lon": 3.741138046421532
+      "street": "Roeiersweg"
     }, 
     {
-      "lat": 51.110734585779255, 
       "housenumber": "3", 
+      "lat": 51.110734585779255, 
+      "lon": 3.7411859098133915, 
       "pcode": 9000, 
-      "street": "Roeiersweg", 
-      "lon": 3.7411859098133915
+      "street": "Roeiersweg"
     }
-  ], 
-  "name": "Roeiersweg"
+  ]
 }

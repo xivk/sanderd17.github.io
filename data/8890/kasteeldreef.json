@@ -1,27 +1,25 @@
 {
-  "pcode": 8890, 
   "addresses": [
     {
-      "lat": 50.9055030035279, 
       "housenumber": "1", 
+      "lat": 50.9055030035279, 
+      "lon": 3.096940338410916, 
       "pcode": 8890, 
-      "street": "Kasteeldreef", 
-      "lon": 3.096940338410916
+      "street": "Kasteeldreef"
     }, 
     {
-      "lat": 50.9007814775583, 
       "housenumber": "2", 
+      "lat": 50.9007814775583, 
+      "lon": 3.0947021915585573, 
       "pcode": 8890, 
-      "street": "Kasteeldreef", 
-      "lon": 3.0947021915585573
+      "street": "Kasteeldreef"
     }, 
     {
-      "lat": 50.905062323379944, 
       "housenumber": "3", 
+      "lat": 50.905062323379944, 
+      "lon": 3.097667063422183, 
       "pcode": 8890, 
-      "street": "Kasteeldreef", 
-      "lon": 3.097667063422183
+      "street": "Kasteeldreef"
     }
-  ], 
-  "name": "Kasteeldreef"
+  ]
 }

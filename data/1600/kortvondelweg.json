@@ -1,20 +1,18 @@
 {
-  "pcode": 1600, 
   "addresses": [
     {
-      "lat": 50.80769643453775, 
       "housenumber": "6", 
+      "lat": 50.80769643453775, 
+      "lon": 4.276488527706068, 
       "pcode": 1600, 
-      "street": "Kortvondelweg", 
-      "lon": 4.276488527706068
+      "street": "Kortvondelweg"
     }, 
     {
-      "lat": 50.807930227982276, 
       "housenumber": "8", 
+      "lat": 50.807930227982276, 
+      "lon": 4.276225033705094, 
       "pcode": 1600, 
-      "street": "Kortvondelweg", 
-      "lon": 4.276225033705094
+      "street": "Kortvondelweg"
     }
-  ], 
-  "name": "Kortvondelweg"
+  ]
 }

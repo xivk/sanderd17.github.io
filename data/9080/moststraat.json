@@ -1,20 +1,18 @@
 {
-  "pcode": 9080, 
   "addresses": [
     {
-      "lat": 51.05853690845508, 
       "housenumber": "1", 
+      "lat": 51.05853690845508, 
+      "lon": 3.849446198265416, 
       "pcode": 9080, 
-      "street": "Moststraat", 
-      "lon": 3.849446198265416
+      "street": "Moststraat"
     }, 
     {
-      "lat": 51.05831720360949, 
       "housenumber": "2", 
+      "lat": 51.05831720360949, 
+      "lon": 3.8518797714561392, 
       "pcode": 9080, 
-      "street": "Moststraat", 
-      "lon": 3.8518797714561392
+      "street": "Moststraat"
     }
-  ], 
-  "name": "Moststraat"
+  ]
 }

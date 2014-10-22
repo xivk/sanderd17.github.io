@@ -1,35 +1,33 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
-      "lat": 50.74818326935012, 
       "housenumber": "1", 
+      "lat": 50.74818326935012, 
+      "lon": 3.6327957581019588, 
       "pcode": 9600, 
-      "street": "Matersveldstraat", 
-      "lon": 3.6327957581019588
+      "street": "Matersveldstraat"
     }, 
     {
-      "lat": 50.74801126343238, 
       "housenumber": "2", 
+      "lat": 50.74801126343238, 
+      "lon": 3.633278673773963, 
       "pcode": 9600, 
-      "street": "Matersveldstraat", 
-      "lon": 3.633278673773963
+      "street": "Matersveldstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9600, 
-      "street": "Matersveldstraat", 
-      "housenumber": "3"
+      "street": "Matersveldstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9600, 
-      "street": "Matersveldstraat", 
-      "housenumber": "4"
+      "street": "Matersveldstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9600, 
-      "street": "Matersveldstraat", 
-      "housenumber": "5"
+      "street": "Matersveldstraat"
     }
-  ], 
-  "name": "Matersveldstraat"
+  ]
 }

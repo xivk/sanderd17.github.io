@@ -1,27 +1,25 @@
 {
-  "pcode": 2221, 
   "addresses": [
     {
-      "lat": 51.0402564198137, 
       "housenumber": "1", 
+      "lat": 51.0402564198137, 
+      "lon": 4.783059390959153, 
       "pcode": 2221, 
-      "street": "Koekoekstraat", 
-      "lon": 4.783059390959153
+      "street": "Koekoekstraat"
     }, 
     {
-      "lat": 51.039843839495724, 
       "housenumber": "3", 
+      "lat": 51.039843839495724, 
+      "lon": 4.7836909335091535, 
       "pcode": 2221, 
-      "street": "Koekoekstraat", 
-      "lon": 4.7836909335091535
+      "street": "Koekoekstraat"
     }, 
     {
-      "lat": 51.038627197048456, 
       "housenumber": "5", 
+      "lat": 51.038627197048456, 
+      "lon": 4.784037431277037, 
       "pcode": 2221, 
-      "street": "Koekoekstraat", 
-      "lon": 4.784037431277037
+      "street": "Koekoekstraat"
     }
-  ], 
-  "name": "Koekoekstraat"
+  ]
 }

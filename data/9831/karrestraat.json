@@ -1,20 +1,18 @@
 {
-  "pcode": 9831, 
   "addresses": [
     {
-      "lat": 50.98889190604883, 
       "housenumber": "1", 
+      "lat": 50.98889190604883, 
+      "lon": 3.6070363319764382, 
       "pcode": 9831, 
-      "street": "Karrestraat", 
-      "lon": 3.6070363319764382
+      "street": "Karrestraat"
     }, 
     {
-      "lat": 50.989130094055085, 
       "housenumber": "2", 
+      "lat": 50.989130094055085, 
+      "lon": 3.606627813471755, 
       "pcode": 9831, 
-      "street": "Karrestraat", 
-      "lon": 3.606627813471755
+      "street": "Karrestraat"
     }
-  ], 
-  "name": "Karrestraat"
+  ]
 }

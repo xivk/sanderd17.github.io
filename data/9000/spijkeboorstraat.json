@@ -1,40 +1,38 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9000, 
-      "street": "Spijkeboorstraat", 
-      "housenumber": "1"
+      "street": "Spijkeboorstraat"
     }, 
     {
-      "lat": 51.062920497171234, 
       "housenumber": "2", 
+      "lat": 51.062920497171234, 
+      "lon": 3.727933256711156, 
       "pcode": 9000, 
-      "street": "Spijkeboorstraat", 
-      "lon": 3.727933256711156
+      "street": "Spijkeboorstraat"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9000, 
-      "street": "Spijkeboorstraat", 
-      "housenumber": "3"
+      "street": "Spijkeboorstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9000, 
-      "street": "Spijkeboorstraat", 
-      "housenumber": "4"
+      "street": "Spijkeboorstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9000, 
-      "street": "Spijkeboorstraat", 
-      "housenumber": "5"
+      "street": "Spijkeboorstraat"
     }, 
     {
-      "lat": 51.06284166039409, 
       "housenumber": "6", 
+      "lat": 51.06284166039409, 
+      "lon": 3.72801579108, 
       "pcode": 9000, 
-      "street": "Spijkeboorstraat", 
-      "lon": 3.72801579108
+      "street": "Spijkeboorstraat"
     }
-  ], 
-  "name": "Spijkeboorstraat"
+  ]
 }

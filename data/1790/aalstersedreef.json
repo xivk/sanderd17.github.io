@@ -1,32 +1,30 @@
 {
-  "pcode": 1790, 
   "addresses": [
     {
-      "lat": 50.931202766886386, 
       "housenumber": "1", 
+      "lat": 50.931202766886386, 
+      "lon": 4.097383230115787, 
       "pcode": 1790, 
-      "street": "Aalsterse Dreef", 
-      "lon": 4.097383230115787
+      "street": "Aalsterse Dreef"
     }, 
     {
-      "lat": 50.929039085225156, 
       "housenumber": "15", 
+      "lat": 50.929039085225156, 
+      "lon": 4.104525236143475, 
       "pcode": 1790, 
-      "street": "Aalsterse Dreef", 
-      "lon": 4.104525236143475
+      "street": "Aalsterse Dreef"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 1790, 
-      "street": "Aalsterse Dreef", 
-      "housenumber": "1B"
+      "street": "Aalsterse Dreef"
     }, 
     {
-      "lat": 50.9262071227338, 
       "housenumber": "30", 
+      "lat": 50.9262071227338, 
+      "lon": 4.112025677072646, 
       "pcode": 1790, 
-      "street": "Aalsterse Dreef", 
-      "lon": 4.112025677072646
+      "street": "Aalsterse Dreef"
     }
-  ], 
-  "name": "Aalsterse Dreef"
+  ]
 }

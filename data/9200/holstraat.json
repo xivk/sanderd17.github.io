@@ -1,39 +1,37 @@
 {
-  "pcode": 9200, 
   "addresses": [
     {
-      "lat": 50.991985105615484, 
       "housenumber": "1", 
+      "lat": 50.991985105615484, 
+      "lon": 4.001741058660867, 
       "pcode": 9200, 
-      "street": "Holstraat", 
-      "lon": 4.001741058660867
+      "street": "Holstraat"
     }, 
     {
-      "lat": 50.9909517829425, 
       "housenumber": "2", 
+      "lat": 50.9909517829425, 
+      "lon": 4.001708827922523, 
       "pcode": 9200, 
-      "street": "Holstraat", 
-      "lon": 4.001708827922523
+      "street": "Holstraat"
     }, 
     {
-      "lat": 50.99194065821804, 
       "housenumber": "3", 
+      "lat": 50.99194065821804, 
+      "lon": 4.002363705372651, 
       "pcode": 9200, 
-      "street": "Holstraat", 
-      "lon": 4.002363705372651
+      "street": "Holstraat"
     }, 
     {
-      "lat": 50.99135304683541, 
       "housenumber": "4", 
+      "lat": 50.99135304683541, 
+      "lon": 4.0015595542529105, 
       "pcode": 9200, 
-      "street": "Holstraat", 
-      "lon": 4.0015595542529105
+      "street": "Holstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9200, 
-      "street": "Holstraat", 
-      "housenumber": "6"
+      "street": "Holstraat"
     }
-  ], 
-  "name": "Holstraat"
+  ]
 }

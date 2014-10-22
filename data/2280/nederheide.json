@@ -1,20 +1,18 @@
 {
-  "pcode": 2280, 
   "addresses": [
     {
-      "lat": 51.19676519592608, 
       "housenumber": "1", 
+      "lat": 51.19676519592608, 
+      "lon": 4.715192356097184, 
       "pcode": 2280, 
-      "street": "Nederheide", 
-      "lon": 4.715192356097184
+      "street": "Nederheide"
     }, 
     {
-      "lat": 51.19604176459199, 
       "housenumber": "3", 
+      "lat": 51.19604176459199, 
+      "lon": 4.715386539277599, 
       "pcode": 2280, 
-      "street": "Nederheide", 
-      "lon": 4.715386539277599
+      "street": "Nederheide"
     }
-  ], 
-  "name": "Nederheide"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 3930, 
   "addresses": [
     {
-      "lat": 51.28498278049862, 
       "housenumber": "1", 
+      "lat": 51.28498278049862, 
+      "lon": 5.474046531814589, 
       "pcode": 3930, 
-      "street": "Weltevreden", 
-      "lon": 5.474046531814589
+      "street": "Weltevreden"
     }, 
     {
-      "lat": 51.28285635463572, 
       "housenumber": "2", 
+      "lat": 51.28285635463572, 
+      "lon": 5.474964708176834, 
       "pcode": 3930, 
-      "street": "Weltevreden", 
-      "lon": 5.474964708176834
+      "street": "Weltevreden"
     }
-  ], 
-  "name": "Weltevreden"
+  ]
 }

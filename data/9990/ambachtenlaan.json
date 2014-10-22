@@ -1,33 +1,31 @@
 {
-  "pcode": 9990, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9990, 
-      "street": "Ambachtenlaan", 
-      "housenumber": "1"
+      "street": "Ambachtenlaan"
     }, 
     {
-      "lat": 51.199809168367956, 
       "housenumber": "1B", 
+      "lat": 51.199809168367956, 
+      "lon": 3.4687732566938547, 
       "pcode": 9990, 
-      "street": "Ambachtenlaan", 
-      "lon": 3.4687732566938547
+      "street": "Ambachtenlaan"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9990, 
-      "street": "Ambachtenlaan", 
-      "housenumber": "2"
+      "street": "Ambachtenlaan"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9990, 
-      "street": "Ambachtenlaan", 
-      "housenumber": "4"
+      "street": "Ambachtenlaan"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 9990, 
-      "street": "Ambachtenlaan", 
-      "housenumber": "6"
+      "street": "Ambachtenlaan"
     }
-  ], 
-  "name": "Ambachtenlaan"
+  ]
 }

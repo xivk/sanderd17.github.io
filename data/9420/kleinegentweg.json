@@ -1,20 +1,18 @@
 {
-  "pcode": 9420, 
   "addresses": [
     {
-      "lat": 50.940996364402785, 
       "housenumber": "1", 
+      "lat": 50.940996364402785, 
+      "lon": 3.9703069076838915, 
       "pcode": 9420, 
-      "street": "Kleine Gentweg", 
-      "lon": 3.9703069076838915
+      "street": "Kleine Gentweg"
     }, 
     {
-      "lat": 50.94115649931406, 
       "housenumber": "3", 
+      "lat": 50.94115649931406, 
+      "lon": 3.9698656161805856, 
       "pcode": 9420, 
-      "street": "Kleine Gentweg", 
-      "lon": 3.9698656161805856
+      "street": "Kleine Gentweg"
     }
-  ], 
-  "name": "Kleine Gentweg"
+  ]
 }

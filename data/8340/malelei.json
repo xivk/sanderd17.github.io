@@ -1,20 +1,18 @@
 {
-  "pcode": 8340, 
   "addresses": [
     {
-      "lat": 51.22910735550829, 
       "housenumber": "1", 
+      "lat": 51.22910735550829, 
+      "lon": 3.2934718187509686, 
       "pcode": 8340, 
-      "street": "Malelei", 
-      "lon": 3.2934718187509686
+      "street": "Malelei"
     }, 
     {
-      "lat": 51.22810537298866, 
       "housenumber": "2", 
+      "lat": 51.22810537298866, 
+      "lon": 3.293863721288375, 
       "pcode": 8340, 
-      "street": "Malelei", 
-      "lon": 3.293863721288375
+      "street": "Malelei"
     }
-  ], 
-  "name": "Malelei"
+  ]
 }

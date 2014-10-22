@@ -1,40 +1,38 @@
 {
-  "pcode": 3271, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3271, 
-      "street": "Kastanjestraat", 
-      "housenumber": "1"
+      "street": "Kastanjestraat"
     }, 
     {
-      "lat": 50.99889350995399, 
       "housenumber": "2", 
+      "lat": 50.99889350995399, 
+      "lon": 4.954959445218452, 
       "pcode": 3271, 
-      "street": "Kastanjestraat", 
-      "lon": 4.954959445218452
+      "street": "Kastanjestraat"
     }, 
     {
-      "lat": 50.99908333402527, 
       "housenumber": "3", 
+      "lat": 50.99908333402527, 
+      "lon": 4.955398176768647, 
       "pcode": 3271, 
-      "street": "Kastanjestraat", 
-      "lon": 4.955398176768647
+      "street": "Kastanjestraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3271, 
-      "street": "Kastanjestraat", 
-      "housenumber": "5"
+      "street": "Kastanjestraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3271, 
-      "street": "Kastanjestraat", 
-      "housenumber": "6"
+      "street": "Kastanjestraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3271, 
-      "street": "Kastanjestraat", 
-      "housenumber": "7"
+      "street": "Kastanjestraat"
     }
-  ], 
-  "name": "Kastanjestraat"
+  ]
 }

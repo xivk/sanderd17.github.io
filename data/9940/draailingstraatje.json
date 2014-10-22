@@ -1,20 +1,18 @@
 {
-  "pcode": 9940, 
   "addresses": [
     {
-      "lat": 51.10627100744909, 
       "housenumber": "1", 
+      "lat": 51.10627100744909, 
+      "lon": 3.688618785928794, 
       "pcode": 9940, 
-      "street": "Draailingstraatje", 
-      "lon": 3.688618785928794
+      "street": "Draailingstraatje"
     }, 
     {
-      "lat": 51.106856731911954, 
       "housenumber": "2", 
+      "lat": 51.106856731911954, 
+      "lon": 3.6873701444644573, 
       "pcode": 9940, 
-      "street": "Draailingstraatje", 
-      "lon": 3.6873701444644573
+      "street": "Draailingstraatje"
     }
-  ], 
-  "name": "Draailingstraatje"
+  ]
 }

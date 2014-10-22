@@ -1,20 +1,18 @@
 {
-  "pcode": 8380, 
   "addresses": [
     {
-      "lat": 51.30755692461414, 
       "housenumber": "2", 
+      "lat": 51.30755692461414, 
+      "lon": 3.1735490149932923, 
       "pcode": 8380, 
-      "street": "Groendijk", 
-      "lon": 3.1735490149932923
+      "street": "Groendijk"
     }, 
     {
-      "lat": 51.30977544392118, 
       "housenumber": "4", 
+      "lat": 51.30977544392118, 
+      "lon": 3.1736983107826267, 
       "pcode": 8380, 
-      "street": "Groendijk", 
-      "lon": 3.1736983107826267
+      "street": "Groendijk"
     }
-  ], 
-  "name": "Groendijk"
+  ]
 }

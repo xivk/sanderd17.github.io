@@ -1,34 +1,32 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 51.00237384923793, 
       "housenumber": "1", 
+      "lat": 51.00237384923793, 
+      "lon": 5.507811985804786, 
       "pcode": 3600, 
-      "street": "Achterstraat", 
-      "lon": 5.507811985804786
+      "street": "Achterstraat"
     }, 
     {
-      "lat": 51.00259940359358, 
       "housenumber": "11", 
+      "lat": 51.00259940359358, 
+      "lon": 5.507302256351716, 
       "pcode": 3600, 
-      "street": "Achterstraat", 
-      "lon": 5.507302256351716
+      "street": "Achterstraat"
     }, 
     {
-      "lat": 51.002473886574776, 
       "housenumber": "3", 
+      "lat": 51.002473886574776, 
+      "lon": 5.507712259902554, 
       "pcode": 3600, 
-      "street": "Achterstraat", 
-      "lon": 5.507712259902554
+      "street": "Achterstraat"
     }, 
     {
-      "lat": 51.00234300836769, 
       "housenumber": "5", 
+      "lat": 51.00234300836769, 
+      "lon": 5.507645386622684, 
       "pcode": 3600, 
-      "street": "Achterstraat", 
-      "lon": 5.507645386622684
+      "street": "Achterstraat"
     }
-  ], 
-  "name": "Achterstraat"
+  ]
 }

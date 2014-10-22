@@ -1,20 +1,18 @@
 {
-  "pcode": 2900, 
   "addresses": [
     {
-      "lat": 51.26974130435007, 
       "housenumber": "7", 
+      "lat": 51.26974130435007, 
+      "lon": 4.499319266131294, 
       "pcode": 2900, 
-      "street": "Klamperdreef", 
-      "lon": 4.499319266131294
+      "street": "Klamperdreef"
     }, 
     {
-      "lat": 51.269600317316026, 
       "housenumber": "9", 
+      "lat": 51.269600317316026, 
+      "lon": 4.4996895410940345, 
       "pcode": 2900, 
-      "street": "Klamperdreef", 
-      "lon": 4.4996895410940345
+      "street": "Klamperdreef"
     }
-  ], 
-  "name": "Klamperdreef"
+  ]
 }

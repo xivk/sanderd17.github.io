@@ -1,20 +1,18 @@
 {
-  "pcode": 9042, 
   "addresses": [
     {
-      "lat": 51.13283578125212, 
       "housenumber": "5", 
+      "lat": 51.13283578125212, 
+      "lon": 3.791926823997797, 
       "pcode": 9042, 
-      "street": "Sprendonkstraat", 
-      "lon": 3.791926823997797
+      "street": "Sprendonkstraat"
     }, 
     {
-      "lat": 51.1356382322929, 
       "housenumber": "7", 
+      "lat": 51.1356382322929, 
+      "lon": 3.792804237433888, 
       "pcode": 9042, 
-      "street": "Sprendonkstraat", 
-      "lon": 3.792804237433888
+      "street": "Sprendonkstraat"
     }
-  ], 
-  "name": "Sprendonkstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8480, 
   "addresses": [
     {
-      "lat": 51.09900532091073, 
       "housenumber": "12", 
+      "lat": 51.09900532091073, 
+      "lon": 3.064751284900371, 
       "pcode": 8480, 
-      "street": "Noordwegel", 
-      "lon": 3.064751284900371
+      "street": "Noordwegel"
     }, 
     {
-      "lat": 51.1005590839067, 
       "housenumber": "20", 
+      "lat": 51.1005590839067, 
+      "lon": 3.06217450553018, 
       "pcode": 8480, 
-      "street": "Noordwegel", 
-      "lon": 3.06217450553018
+      "street": "Noordwegel"
     }
-  ], 
-  "name": "Noordwegel"
+  ]
 }

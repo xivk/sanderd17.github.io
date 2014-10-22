@@ -1,20 +1,18 @@
 {
-  "pcode": 2990, 
   "addresses": [
     {
-      "lat": 51.39004229312395, 
       "housenumber": "2", 
+      "lat": 51.39004229312395, 
+      "lon": 4.669238201647609, 
       "pcode": 2990, 
-      "street": "Astweg", 
-      "lon": 4.669238201647609
+      "street": "Astweg"
     }, 
     {
-      "lat": 51.389583531204934, 
       "housenumber": "7", 
+      "lat": 51.389583531204934, 
+      "lon": 4.671188917506697, 
       "pcode": 2990, 
-      "street": "Astweg", 
-      "lon": 4.671188917506697
+      "street": "Astweg"
     }
-  ], 
-  "name": "Astweg"
+  ]
 }

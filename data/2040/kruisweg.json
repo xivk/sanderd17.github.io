@@ -1,75 +1,73 @@
 {
-  "pcode": 2040, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2040, 
-      "street": "Kruisweg", 
-      "housenumber": "1"
+      "street": "Kruisweg"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 2040, 
-      "street": "Kruisweg", 
-      "housenumber": "11"
+      "street": "Kruisweg"
     }, 
     {
-      "lat": 51.31299570021031, 
       "housenumber": "2", 
+      "lat": 51.31299570021031, 
+      "lon": 4.326094636140318, 
       "pcode": 2040, 
-      "street": "Kruisweg", 
-      "lon": 4.326094636140318
+      "street": "Kruisweg"
     }, 
     {
-      "lat": 51.318716863726564, 
       "housenumber": "22", 
+      "lat": 51.318716863726564, 
+      "lon": 4.348694199335907, 
       "pcode": 2040, 
-      "street": "Kruisweg", 
-      "lon": 4.348694199335907
+      "street": "Kruisweg"
     }, 
     {
-      "lat": 51.31481940087198, 
       "housenumber": "4", 
+      "lat": 51.31481940087198, 
+      "lon": 4.330454158822003, 
       "pcode": 2040, 
-      "street": "Kruisweg", 
-      "lon": 4.330454158822003
+      "street": "Kruisweg"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2040, 
-      "street": "Kruisweg", 
-      "housenumber": "5"
+      "street": "Kruisweg"
     }, 
     {
-      "lat": 51.31596247364951, 
       "housenumber": "6", 
+      "lat": 51.31596247364951, 
+      "lon": 4.3327038637436175, 
       "pcode": 2040, 
-      "street": "Kruisweg", 
-      "lon": 4.3327038637436175
+      "street": "Kruisweg"
     }, 
     {
+      "housenumber": "650", 
       "pcode": 2040, 
-      "street": "Kruisweg", 
-      "housenumber": "650"
+      "street": "Kruisweg"
     }, 
     {
-      "lat": 51.31546965804523, 
       "housenumber": "650K", 
+      "lat": 51.31546965804523, 
+      "lon": 4.325584398298704, 
       "pcode": 2040, 
-      "street": "Kruisweg", 
-      "lon": 4.325584398298704
+      "street": "Kruisweg"
     }, 
     {
-      "lat": 51.31731870726543, 
       "housenumber": "724K", 
+      "lat": 51.31731870726543, 
+      "lon": 4.339472701150474, 
       "pcode": 2040, 
-      "street": "Kruisweg", 
-      "lon": 4.339472701150474
+      "street": "Kruisweg"
     }, 
     {
-      "lat": 51.31573984639477, 
       "housenumber": "8", 
+      "lat": 51.31573984639477, 
+      "lon": 4.336213344509409, 
       "pcode": 2040, 
-      "street": "Kruisweg", 
-      "lon": 4.336213344509409
+      "street": "Kruisweg"
     }
-  ], 
-  "name": "Kruisweg"
+  ]
 }

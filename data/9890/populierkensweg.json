@@ -1,25 +1,23 @@
 {
-  "pcode": 9890, 
   "addresses": [
     {
-      "lat": 50.940941298583816, 
       "housenumber": "1", 
+      "lat": 50.940941298583816, 
+      "lon": 3.690229134856259, 
       "pcode": 9890, 
-      "street": "Populierkensweg", 
-      "lon": 3.690229134856259
+      "street": "Populierkensweg"
     }, 
     {
-      "lat": 50.94380117843646, 
       "housenumber": "2", 
+      "lat": 50.94380117843646, 
+      "lon": 3.6891712665632355, 
       "pcode": 9890, 
-      "street": "Populierkensweg", 
-      "lon": 3.6891712665632355
+      "street": "Populierkensweg"
     }, 
     {
+      "housenumber": "82", 
       "pcode": 9890, 
-      "street": "Populierkensweg", 
-      "housenumber": "82"
+      "street": "Populierkensweg"
     }
-  ], 
-  "name": "Populierkensweg"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 9930, 
   "addresses": [
     {
-      "lat": 51.10289045117041, 
       "housenumber": "2", 
+      "lat": 51.10289045117041, 
+      "lon": 3.522138867805015, 
       "pcode": 9930, 
-      "street": "Bellemstraat", 
-      "lon": 3.522138867805015
+      "street": "Bellemstraat"
     }, 
     {
-      "lat": 51.10581789984457, 
       "housenumber": "4", 
+      "lat": 51.10581789984457, 
+      "lon": 3.5129606219450493, 
       "pcode": 9930, 
-      "street": "Bellemstraat", 
-      "lon": 3.5129606219450493
+      "street": "Bellemstraat"
     }
-  ], 
-  "name": "Bellemstraat"
+  ]
 }

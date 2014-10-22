@@ -1,25 +1,23 @@
 {
-  "pcode": 3300, 
   "addresses": [
     {
-      "lat": 50.77640091846486, 
       "housenumber": "10", 
+      "lat": 50.77640091846486, 
+      "lon": 4.956218782229296, 
       "pcode": 3300, 
-      "street": "Melkpedeken", 
-      "lon": 4.956218782229296
+      "street": "Melkpedeken"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3300, 
-      "street": "Melkpedeken", 
-      "housenumber": "5"
+      "street": "Melkpedeken"
     }, 
     {
-      "lat": 50.776334493600906, 
       "housenumber": "7", 
+      "lat": 50.776334493600906, 
+      "lon": 4.954926427782183, 
       "pcode": 3300, 
-      "street": "Melkpedeken", 
-      "lon": 4.954926427782183
+      "street": "Melkpedeken"
     }
-  ], 
-  "name": "Melkpedeken"
+  ]
 }

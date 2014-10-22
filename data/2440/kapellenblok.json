@@ -1,20 +1,18 @@
 {
-  "pcode": 2440, 
   "addresses": [
     {
-      "lat": 51.145036487194595, 
       "housenumber": "1", 
+      "lat": 51.145036487194595, 
+      "lon": 4.981681053597027, 
       "pcode": 2440, 
-      "street": "Kapellenblok", 
-      "lon": 4.981681053597027
+      "street": "Kapellenblok"
     }, 
     {
-      "lat": 51.145400827121655, 
       "housenumber": "2", 
+      "lat": 51.145400827121655, 
+      "lon": 4.981158659202164, 
       "pcode": 2440, 
-      "street": "Kapellenblok", 
-      "lon": 4.981158659202164
+      "street": "Kapellenblok"
     }
-  ], 
-  "name": "Kapellenblok"
+  ]
 }

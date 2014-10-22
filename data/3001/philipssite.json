@@ -1,58 +1,56 @@
 {
-  "pcode": 3001, 
   "addresses": [
     {
-      "lat": 50.86887756983223, 
       "housenumber": "1", 
+      "lat": 50.86887756983223, 
+      "lon": 4.713067252517086, 
       "pcode": 3001, 
-      "street": "Philipssite", 
-      "lon": 4.713067252517086
+      "street": "Philipssite"
     }, 
     {
-      "lat": 50.86767456854082, 
       "housenumber": "3", 
+      "lat": 50.86767456854082, 
+      "lon": 4.713073761648739, 
       "pcode": 3001, 
-      "street": "Philipssite", 
-      "lon": 4.713073761648739
+      "street": "Philipssite"
     }, 
     {
+      "housenumber": "3A", 
       "pcode": 3001, 
-      "street": "Philipssite", 
-      "housenumber": "3A"
+      "street": "Philipssite"
     }, 
     {
-      "lat": 50.86772355814072, 
       "housenumber": "3b", 
+      "lat": 50.86772355814072, 
+      "lon": 4.713105516275782, 
       "pcode": 3001, 
-      "street": "Philipssite", 
-      "lon": 4.713105516275782
+      "street": "Philipssite"
     }, 
     {
-      "lat": 50.86895361013412, 
       "housenumber": "4", 
+      "lat": 50.86895361013412, 
+      "lon": 4.71196867620773, 
       "pcode": 3001, 
-      "street": "Philipssite", 
-      "lon": 4.71196867620773
+      "street": "Philipssite"
     }, 
     {
-      "lat": 50.8676774052351, 
       "housenumber": "5", 
+      "lat": 50.8676774052351, 
+      "lon": 4.711770255835718, 
       "pcode": 3001, 
-      "street": "Philipssite", 
-      "lon": 4.711770255835718
+      "street": "Philipssite"
     }, 
     {
-      "lat": 50.86778956970987, 
       "housenumber": "6", 
+      "lat": 50.86778956970987, 
+      "lon": 4.710949267348561, 
       "pcode": 3001, 
-      "street": "Philipssite", 
-      "lon": 4.710949267348561
+      "street": "Philipssite"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3001, 
-      "street": "Philipssite", 
-      "housenumber": "7"
+      "street": "Philipssite"
     }
-  ], 
-  "name": "Philipssite"
+  ]
 }

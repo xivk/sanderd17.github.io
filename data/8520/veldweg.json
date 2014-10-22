@@ -1,20 +1,18 @@
 {
-  "pcode": 8520, 
   "addresses": [
     {
-      "lat": 50.875180754489634, 
       "housenumber": "15", 
+      "lat": 50.875180754489634, 
+      "lon": 3.268796733352479, 
       "pcode": 8520, 
-      "street": "Veldweg", 
-      "lon": 3.268796733352479
+      "street": "Veldweg"
     }, 
     {
-      "lat": 50.87509558012653, 
       "housenumber": "3", 
+      "lat": 50.87509558012653, 
+      "lon": 3.2676227500984125, 
       "pcode": 8520, 
-      "street": "Veldweg", 
-      "lon": 3.2676227500984125
+      "street": "Veldweg"
     }
-  ], 
-  "name": "Veldweg"
+  ]
 }

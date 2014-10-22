@@ -1,18 +1,16 @@
 {
-  "pcode": 2300, 
   "addresses": [
     {
-      "lat": 51.325981024551616, 
       "housenumber": "10", 
+      "lat": 51.325981024551616, 
+      "lon": 4.941973335068552, 
       "pcode": 2300, 
-      "street": "Kasteeldreef", 
-      "lon": 4.941973335068552
+      "street": "Kasteeldreef"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2300, 
-      "street": "Kasteeldreef", 
-      "housenumber": "2"
+      "street": "Kasteeldreef"
     }
-  ], 
-  "name": "Kasteeldreef"
+  ]
 }

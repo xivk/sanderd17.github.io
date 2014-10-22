@@ -1,25 +1,23 @@
 {
-  "pcode": 2020, 
   "addresses": [
     {
-      "lat": 51.18360311587362, 
       "housenumber": "3", 
+      "lat": 51.18360311587362, 
+      "lon": 4.396327626915025, 
       "pcode": 2020, 
-      "street": "Varenlaan", 
-      "lon": 4.396327626915025
+      "street": "Varenlaan"
     }, 
     {
-      "lat": 51.18360376311385, 
       "housenumber": "5", 
+      "lat": 51.18360376311385, 
+      "lon": 4.396252113584703, 
       "pcode": 2020, 
-      "street": "Varenlaan", 
-      "lon": 4.396252113584703
+      "street": "Varenlaan"
     }, 
     {
+      "housenumber": "54", 
       "pcode": 2020, 
-      "street": "Varenlaan", 
-      "housenumber": "54"
+      "street": "Varenlaan"
     }
-  ], 
-  "name": "Varenlaan"
+  ]
 }

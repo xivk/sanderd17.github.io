@@ -1,30 +1,28 @@
 {
-  "pcode": 8430, 
   "addresses": [
     {
-      "lat": 51.17737544811616, 
       "housenumber": "1", 
+      "lat": 51.17737544811616, 
+      "lon": 2.7983567376417784, 
       "pcode": 8430, 
-      "street": "Geraniumweg", 
-      "lon": 2.7983567376417784
+      "street": "Geraniumweg"
     }, 
     {
+      "housenumber": "18", 
       "pcode": 8430, 
-      "street": "Geraniumweg", 
-      "housenumber": "18"
+      "street": "Geraniumweg"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8430, 
-      "street": "Geraniumweg", 
-      "housenumber": "3"
+      "street": "Geraniumweg"
     }, 
     {
-      "lat": 51.17714648122747, 
       "housenumber": "4", 
+      "lat": 51.17714648122747, 
+      "lon": 2.7981757820689146, 
       "pcode": 8430, 
-      "street": "Geraniumweg", 
-      "lon": 2.7981757820689146
+      "street": "Geraniumweg"
     }
-  ], 
-  "name": "Geraniumweg"
+  ]
 }

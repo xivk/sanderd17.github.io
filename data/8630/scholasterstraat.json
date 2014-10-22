@@ -1,20 +1,18 @@
 {
-  "pcode": 8630, 
   "addresses": [
     {
-      "lat": 51.073804225476245, 
       "housenumber": "1", 
+      "lat": 51.073804225476245, 
+      "lon": 2.6613076943561844, 
       "pcode": 8630, 
-      "street": "Scholasterstraat", 
-      "lon": 2.6613076943561844
+      "street": "Scholasterstraat"
     }, 
     {
-      "lat": 51.07387600452046, 
       "housenumber": "2", 
+      "lat": 51.07387600452046, 
+      "lon": 2.6611048378655204, 
       "pcode": 8630, 
-      "street": "Scholasterstraat", 
-      "lon": 2.6611048378655204
+      "street": "Scholasterstraat"
     }
-  ], 
-  "name": "Scholasterstraat"
+  ]
 }

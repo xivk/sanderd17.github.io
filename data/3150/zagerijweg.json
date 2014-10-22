@@ -1,20 +1,18 @@
 {
-  "pcode": 3150, 
   "addresses": [
     {
-      "lat": 50.97888839188345, 
       "housenumber": "1", 
+      "lat": 50.97888839188345, 
+      "lon": 4.636905478085132, 
       "pcode": 3150, 
-      "street": "Zagerijweg", 
-      "lon": 4.636905478085132
+      "street": "Zagerijweg"
     }, 
     {
-      "lat": 50.97899747302919, 
       "housenumber": "2", 
+      "lat": 50.97899747302919, 
+      "lon": 4.637397936167564, 
       "pcode": 3150, 
-      "street": "Zagerijweg", 
-      "lon": 4.637397936167564
+      "street": "Zagerijweg"
     }
-  ], 
-  "name": "Zagerijweg"
+  ]
 }

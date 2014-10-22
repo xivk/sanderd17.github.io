@@ -1,27 +1,25 @@
 {
-  "pcode": 8890, 
   "addresses": [
     {
-      "lat": 50.92111785745026, 
       "housenumber": "1", 
+      "lat": 50.92111785745026, 
+      "lon": 3.0762445311391655, 
       "pcode": 8890, 
-      "street": "Talpensdreef", 
-      "lon": 3.0762445311391655
+      "street": "Talpensdreef"
     }, 
     {
-      "lat": 50.92127029774959, 
       "housenumber": "2", 
+      "lat": 50.92127029774959, 
+      "lon": 3.078974054158941, 
       "pcode": 8890, 
-      "street": "Talpensdreef", 
-      "lon": 3.078974054158941
+      "street": "Talpensdreef"
     }, 
     {
-      "lat": 50.92201920298635, 
       "housenumber": "4", 
+      "lat": 50.92201920298635, 
+      "lon": 3.078276264286165, 
       "pcode": 8890, 
-      "street": "Talpensdreef", 
-      "lon": 3.078276264286165
+      "street": "Talpensdreef"
     }
-  ], 
-  "name": "Talpensdreef"
+  ]
 }

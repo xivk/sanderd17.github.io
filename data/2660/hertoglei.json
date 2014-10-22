@@ -1,32 +1,30 @@
 {
-  "pcode": 2660, 
   "addresses": [
     {
-      "lat": 51.178077086121775, 
       "housenumber": "1", 
+      "lat": 51.178077086121775, 
+      "lon": 4.346278341130557, 
       "pcode": 2660, 
-      "street": "Hertoglei", 
-      "lon": 4.346278341130557
+      "street": "Hertoglei"
     }, 
     {
-      "lat": 51.17693265293468, 
       "housenumber": "101", 
+      "lat": 51.17693265293468, 
+      "lon": 4.34479755924925, 
       "pcode": 2660, 
-      "street": "Hertoglei", 
-      "lon": 4.34479755924925
+      "street": "Hertoglei"
     }, 
     {
+      "housenumber": "2000", 
       "pcode": 2660, 
-      "street": "Hertoglei", 
-      "housenumber": "2000"
+      "street": "Hertoglei"
     }, 
     {
-      "lat": 51.17704828777175, 
       "housenumber": "95", 
+      "lat": 51.17704828777175, 
+      "lon": 4.345013000089918, 
       "pcode": 2660, 
-      "street": "Hertoglei", 
-      "lon": 4.345013000089918
+      "street": "Hertoglei"
     }
-  ], 
-  "name": "Hertoglei"
+  ]
 }

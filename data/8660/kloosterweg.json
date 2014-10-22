@@ -1,42 +1,40 @@
 {
-  "pcode": 8660, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8660, 
-      "street": "Kloosterweg", 
-      "housenumber": "1"
+      "street": "Kloosterweg"
     }, 
     {
-      "lat": 51.074052138686945, 
       "housenumber": "11", 
+      "lat": 51.074052138686945, 
+      "lon": 2.6040215550558297, 
       "pcode": 8660, 
-      "street": "Kloosterweg", 
-      "lon": 2.6040215550558297
+      "street": "Kloosterweg"
     }, 
     {
-      "lat": 51.07451135842438, 
       "housenumber": "2", 
+      "lat": 51.07451135842438, 
+      "lon": 2.6043898772305427, 
       "pcode": 8660, 
-      "street": "Kloosterweg", 
-      "lon": 2.6043898772305427
+      "street": "Kloosterweg"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8660, 
-      "street": "Kloosterweg", 
-      "housenumber": "4"
+      "street": "Kloosterweg"
     }, 
     {
-      "lat": 51.074689329749646, 
       "housenumber": "7", 
+      "lat": 51.074689329749646, 
+      "lon": 2.6038573643020726, 
       "pcode": 8660, 
-      "street": "Kloosterweg", 
-      "lon": 2.6038573643020726
+      "street": "Kloosterweg"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 8660, 
-      "street": "Kloosterweg", 
-      "housenumber": "9"
+      "street": "Kloosterweg"
     }
-  ], 
-  "name": "Kloosterweg"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8587, 
   "addresses": [
     {
-      "lat": 50.73545816232526, 
       "housenumber": "1", 
+      "lat": 50.73545816232526, 
+      "lon": 3.3598659618493043, 
       "pcode": 8587, 
-      "street": "Kraaibos", 
-      "lon": 3.3598659618493043
+      "street": "Kraaibos"
     }, 
     {
-      "lat": 50.737240239205235, 
       "housenumber": "5", 
+      "lat": 50.737240239205235, 
+      "lon": 3.359590095410193, 
       "pcode": 8587, 
-      "street": "Kraaibos", 
-      "lon": 3.359590095410193
+      "street": "Kraaibos"
     }
-  ], 
-  "name": "Kraaibos"
+  ]
 }

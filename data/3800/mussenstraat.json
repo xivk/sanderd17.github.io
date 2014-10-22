@@ -1,20 +1,18 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
-      "lat": 50.80342506255065, 
       "housenumber": "1", 
+      "lat": 50.80342506255065, 
+      "lon": 5.223101475771116, 
       "pcode": 3800, 
-      "street": "Mussenstraat", 
-      "lon": 5.223101475771116
+      "street": "Mussenstraat"
     }, 
     {
-      "lat": 50.80332772625419, 
       "housenumber": "3", 
+      "lat": 50.80332772625419, 
+      "lon": 5.223356353074877, 
       "pcode": 3800, 
-      "street": "Mussenstraat", 
-      "lon": 5.223356353074877
+      "street": "Mussenstraat"
     }
-  ], 
-  "name": "Mussenstraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 9030, 
   "addresses": [
     {
-      "lat": 51.07119470198512, 
       "housenumber": "1", 
+      "lat": 51.07119470198512, 
+      "lon": 3.675098161347205, 
       "pcode": 9030, 
-      "street": "Kerkhofstraat", 
-      "lon": 3.675098161347205
+      "street": "Kerkhofstraat"
     }, 
     {
-      "lat": 51.07194710959516, 
       "housenumber": "2", 
+      "lat": 51.07194710959516, 
+      "lon": 3.6751449447722457, 
       "pcode": 9030, 
-      "street": "Kerkhofstraat", 
-      "lon": 3.6751449447722457
+      "street": "Kerkhofstraat"
     }, 
     {
-      "lat": 51.07136286007937, 
       "housenumber": "3", 
+      "lat": 51.07136286007937, 
+      "lon": 3.67495527175568, 
       "pcode": 9030, 
-      "street": "Kerkhofstraat", 
-      "lon": 3.67495527175568
+      "street": "Kerkhofstraat"
     }
-  ], 
-  "name": "Kerkhofstraat"
+  ]
 }

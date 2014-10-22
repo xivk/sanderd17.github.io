@@ -1,20 +1,18 @@
 {
-  "pcode": 8660, 
   "addresses": [
     {
-      "lat": 51.0756438282012, 
       "housenumber": "1", 
+      "lat": 51.0756438282012, 
+      "lon": 2.6036692089093774, 
       "pcode": 8660, 
-      "street": "Pastorieweg", 
-      "lon": 2.6036692089093774
+      "street": "Pastorieweg"
     }, 
     {
-      "lat": 51.075665021994354, 
       "housenumber": "2", 
+      "lat": 51.075665021994354, 
+      "lon": 2.604009816338999, 
       "pcode": 8660, 
-      "street": "Pastorieweg", 
-      "lon": 2.604009816338999
+      "street": "Pastorieweg"
     }
-  ], 
-  "name": "Pastorieweg"
+  ]
 }

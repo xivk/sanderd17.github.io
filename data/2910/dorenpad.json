@@ -1,35 +1,33 @@
 {
-  "pcode": 2910, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2910, 
-      "street": "Dorenpad", 
-      "housenumber": "1"
+      "street": "Dorenpad"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2910, 
-      "street": "Dorenpad", 
-      "housenumber": "3"
+      "street": "Dorenpad"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2910, 
-      "street": "Dorenpad", 
-      "housenumber": "4"
+      "street": "Dorenpad"
     }, 
     {
-      "lat": 51.44273754694451, 
       "housenumber": "6", 
+      "lat": 51.44273754694451, 
+      "lon": 4.472048156303345, 
       "pcode": 2910, 
-      "street": "Dorenpad", 
-      "lon": 4.472048156303345
+      "street": "Dorenpad"
     }, 
     {
-      "lat": 51.442437797872564, 
       "housenumber": "8", 
+      "lat": 51.442437797872564, 
+      "lon": 4.47185908523078, 
       "pcode": 2910, 
-      "street": "Dorenpad", 
-      "lon": 4.47185908523078
+      "street": "Dorenpad"
     }
-  ], 
-  "name": "Dorenpad"
+  ]
 }

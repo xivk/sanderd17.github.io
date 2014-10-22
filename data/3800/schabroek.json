@@ -1,46 +1,44 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
-      "lat": 50.76728061320873, 
       "housenumber": "10", 
+      "lat": 50.76728061320873, 
+      "lon": 5.267664220138256, 
       "pcode": 3800, 
-      "street": "Schabroek", 
-      "lon": 5.267664220138256
+      "street": "Schabroek"
     }, 
     {
-      "lat": 50.76733770066837, 
       "housenumber": "12", 
+      "lat": 50.76733770066837, 
+      "lon": 5.267898371533356, 
       "pcode": 3800, 
-      "street": "Schabroek", 
-      "lon": 5.267898371533356
+      "street": "Schabroek"
     }, 
     {
-      "lat": 50.76751414632094, 
       "housenumber": "16", 
+      "lat": 50.76751414632094, 
+      "lon": 5.267961426528894, 
       "pcode": 3800, 
-      "street": "Schabroek", 
-      "lon": 5.267961426528894
+      "street": "Schabroek"
     }, 
     {
-      "lat": 50.767660767856185, 
       "housenumber": "18", 
+      "lat": 50.767660767856185, 
+      "lon": 5.2679044037293465, 
       "pcode": 3800, 
-      "street": "Schabroek", 
-      "lon": 5.2679044037293465
+      "street": "Schabroek"
     }, 
     {
-      "lat": 50.76780876836411, 
       "housenumber": "20", 
+      "lat": 50.76780876836411, 
+      "lon": 5.268100742501303, 
       "pcode": 3800, 
-      "street": "Schabroek", 
-      "lon": 5.268100742501303
+      "street": "Schabroek"
     }, 
     {
+      "housenumber": "99", 
       "pcode": 3800, 
-      "street": "Schabroek", 
-      "housenumber": "99"
+      "street": "Schabroek"
     }
-  ], 
-  "name": "Schabroek"
+  ]
 }

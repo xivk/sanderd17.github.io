@@ -1,38 +1,36 @@
 {
-  "pcode": 1630, 
   "addresses": [
     {
+      "housenumber": "14", 
       "pcode": 1630, 
-      "street": "Kasteeldreef", 
-      "housenumber": "14"
+      "street": "Kasteeldreef"
     }, 
     {
-      "lat": 50.770334697225586, 
       "housenumber": "18", 
+      "lat": 50.770334697225586, 
+      "lon": 4.3368316364394355, 
       "pcode": 1630, 
-      "street": "Kasteeldreef", 
-      "lon": 4.3368316364394355
+      "street": "Kasteeldreef"
     }, 
     {
+      "housenumber": "18B", 
       "pcode": 1630, 
-      "street": "Kasteeldreef", 
-      "housenumber": "18B"
+      "street": "Kasteeldreef"
     }, 
     {
+      "housenumber": "20", 
       "pcode": 1630, 
-      "street": "Kasteeldreef", 
-      "housenumber": "20"
+      "street": "Kasteeldreef"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 1630, 
-      "street": "Kasteeldreef", 
-      "housenumber": "6"
+      "street": "Kasteeldreef"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 1630, 
-      "street": "Kasteeldreef", 
-      "housenumber": "8"
+      "street": "Kasteeldreef"
     }
-  ], 
-  "name": "Kasteeldreef"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2260, 
   "addresses": [
     {
-      "lat": 51.113355258498736, 
       "housenumber": "3", 
+      "lat": 51.113355258498736, 
+      "lon": 4.865673470389271, 
       "pcode": 2260, 
-      "street": "Hamerstraat", 
-      "lon": 4.865673470389271
+      "street": "Hamerstraat"
     }, 
     {
-      "lat": 51.11308399157648, 
       "housenumber": "6", 
+      "lat": 51.11308399157648, 
+      "lon": 4.865817957789947, 
       "pcode": 2260, 
-      "street": "Hamerstraat", 
-      "lon": 4.865817957789947
+      "street": "Hamerstraat"
     }
-  ], 
-  "name": "Hamerstraat"
+  ]
 }

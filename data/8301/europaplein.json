@@ -1,18 +1,16 @@
 {
-  "pcode": 8301, 
   "addresses": [
     {
-      "lat": 51.34384529663928, 
       "housenumber": "1", 
+      "lat": 51.34384529663928, 
+      "lon": 3.2581183322033076, 
       "pcode": 8301, 
-      "street": "Europaplein", 
-      "lon": 3.2581183322033076
+      "street": "Europaplein"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 8301, 
-      "street": "Europaplein", 
-      "housenumber": "3"
+      "street": "Europaplein"
     }
-  ], 
-  "name": "Europaplein"
+  ]
 }

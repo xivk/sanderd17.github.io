@@ -1,18 +1,16 @@
 {
-  "pcode": 9050, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 9050, 
-      "street": "Marie Popelinkaai", 
-      "housenumber": "2"
+      "street": "Marie Popelinkaai"
     }, 
     {
-      "lat": 51.03751437612167, 
       "housenumber": "3", 
+      "lat": 51.03751437612167, 
+      "lon": 3.7386264984755857, 
       "pcode": 9050, 
-      "street": "Marie Popelinkaai", 
-      "lon": 3.7386264984755857
+      "street": "Marie Popelinkaai"
     }
-  ], 
-  "name": "Marie Popelinkaai"
+  ]
 }

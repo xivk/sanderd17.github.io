@@ -1,20 +1,18 @@
 {
-  "pcode": 3690, 
   "addresses": [
     {
-      "lat": 50.91264876756489, 
       "housenumber": "4", 
+      "lat": 50.91264876756489, 
+      "lon": 5.585714503868359, 
       "pcode": 3690, 
-      "street": "Eigenbilzerweg", 
-      "lon": 5.585714503868359
+      "street": "Eigenbilzerweg"
     }, 
     {
-      "lat": 50.911040067918286, 
       "housenumber": "8", 
+      "lat": 50.911040067918286, 
+      "lon": 5.585144046322249, 
       "pcode": 3690, 
-      "street": "Eigenbilzerweg", 
-      "lon": 5.585144046322249
+      "street": "Eigenbilzerweg"
     }
-  ], 
-  "name": "Eigenbilzerweg"
+  ]
 }

@@ -1,25 +1,23 @@
 {
-  "pcode": 8720, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 8720, 
-      "street": "Burgemeester Couckestraat", 
-      "housenumber": "10"
+      "street": "Burgemeester Couckestraat"
     }, 
     {
-      "lat": 50.96889517465462, 
       "housenumber": "12", 
+      "lat": 50.96889517465462, 
+      "lon": 3.4107529250753825, 
       "pcode": 8720, 
-      "street": "Burgemeester Couckestraat", 
-      "lon": 3.4107529250753825
+      "street": "Burgemeester Couckestraat"
     }, 
     {
-      "lat": 50.96821235985678, 
       "housenumber": "4", 
+      "lat": 50.96821235985678, 
+      "lon": 3.4100428999726913, 
       "pcode": 8720, 
-      "street": "Burgemeester Couckestraat", 
-      "lon": 3.4100428999726913
+      "street": "Burgemeester Couckestraat"
     }
-  ], 
-  "name": "Burgemeester Couckestraat"
+  ]
 }

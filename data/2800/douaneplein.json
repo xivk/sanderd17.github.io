@@ -1,28 +1,26 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 2800, 
-      "street": "Douaneplein", 
-      "housenumber": "1"
+      "street": "Douaneplein"
     }, 
     {
-      "lat": 51.02472848554417, 
       "housenumber": "10", 
+      "lat": 51.02472848554417, 
+      "lon": 4.494439551198337, 
       "pcode": 2800, 
-      "street": "Douaneplein", 
-      "lon": 4.494439551198337
+      "street": "Douaneplein"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 2800, 
-      "street": "Douaneplein", 
-      "housenumber": "2"
+      "street": "Douaneplein"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 2800, 
-      "street": "Douaneplein", 
-      "housenumber": "4"
+      "street": "Douaneplein"
     }
-  ], 
-  "name": "Douaneplein"
+  ]
 }

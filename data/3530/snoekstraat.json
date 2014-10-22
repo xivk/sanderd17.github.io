@@ -1,20 +1,18 @@
 {
-  "pcode": 3530, 
   "addresses": [
     {
-      "lat": 51.03324978191927, 
       "housenumber": "2", 
+      "lat": 51.03324978191927, 
+      "lon": 5.487290971247075, 
       "pcode": 3530, 
-      "street": "Snoekstraat", 
-      "lon": 5.487290971247075
+      "street": "Snoekstraat"
     }, 
     {
-      "lat": 51.032468568920585, 
       "housenumber": "8", 
+      "lat": 51.032468568920585, 
+      "lon": 5.487837311339495, 
       "pcode": 3530, 
-      "street": "Snoekstraat", 
-      "lon": 5.487837311339495
+      "street": "Snoekstraat"
     }
-  ], 
-  "name": "Snoekstraat"
+  ]
 }

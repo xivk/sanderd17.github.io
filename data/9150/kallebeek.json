@@ -1,30 +1,28 @@
 {
-  "pcode": 9150, 
   "addresses": [
     {
-      "lat": 51.14332375351725, 
       "housenumber": "1", 
+      "lat": 51.14332375351725, 
+      "lon": 4.325962578773386, 
       "pcode": 9150, 
-      "street": "Kallebeek", 
-      "lon": 4.325962578773386
+      "street": "Kallebeek"
     }, 
     {
-      "lat": 51.14361293376643, 
       "housenumber": "2", 
+      "lat": 51.14361293376643, 
+      "lon": 4.325503907852562, 
       "pcode": 9150, 
-      "street": "Kallebeek", 
-      "lon": 4.325503907852562
+      "street": "Kallebeek"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9150, 
-      "street": "Kallebeek", 
-      "housenumber": "3"
+      "street": "Kallebeek"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9150, 
-      "street": "Kallebeek", 
-      "housenumber": "4"
+      "street": "Kallebeek"
     }
-  ], 
-  "name": "Kallebeek"
+  ]
 }

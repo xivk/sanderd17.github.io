@@ -1,25 +1,23 @@
 {
-  "pcode": 9100, 
   "addresses": [
     {
-      "lat": 51.19642449141659, 
       "housenumber": "1", 
+      "lat": 51.19642449141659, 
+      "lon": 4.207164197201691, 
       "pcode": 9100, 
-      "street": "Zandstraat", 
-      "lon": 4.207164197201691
+      "street": "Zandstraat"
     }, 
     {
-      "lat": 51.19095584756214, 
       "housenumber": "3", 
+      "lat": 51.19095584756214, 
+      "lon": 4.205363283812771, 
       "pcode": 9100, 
-      "street": "Zandstraat", 
-      "lon": 4.205363283812771
+      "street": "Zandstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9100, 
-      "street": "Zandstraat", 
-      "housenumber": "5"
+      "street": "Zandstraat"
     }
-  ], 
-  "name": "Zandstraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 1541, 
   "addresses": [
     {
-      "lat": 50.716511075941966, 
       "housenumber": "1", 
+      "lat": 50.716511075941966, 
+      "lon": 3.9893345490553904, 
       "pcode": 1541, 
-      "street": "Keystraat", 
-      "lon": 3.9893345490553904
+      "street": "Keystraat"
     }, 
     {
-      "lat": 50.71591541748331, 
       "housenumber": "2", 
+      "lat": 50.71591541748331, 
+      "lon": 3.983225274528955, 
       "pcode": 1541, 
-      "street": "Keystraat", 
-      "lon": 3.983225274528955
+      "street": "Keystraat"
     }, 
     {
-      "lat": 50.71592564838651, 
       "housenumber": "4", 
+      "lat": 50.71592564838651, 
+      "lon": 3.983547900461684, 
       "pcode": 1541, 
-      "street": "Keystraat", 
-      "lon": 3.983547900461684
+      "street": "Keystraat"
     }
-  ], 
-  "name": "Keystraat"
+  ]
 }

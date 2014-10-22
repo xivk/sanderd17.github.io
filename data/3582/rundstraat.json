@@ -1,20 +1,18 @@
 {
-  "pcode": 3582, 
   "addresses": [
     {
-      "lat": 51.08740253862635, 
       "housenumber": "12", 
+      "lat": 51.08740253862635, 
+      "lon": 5.2850844891942375, 
       "pcode": 3582, 
-      "street": "Rundstraat", 
-      "lon": 5.2850844891942375
+      "street": "Rundstraat"
     }, 
     {
-      "lat": 51.086840687687705, 
       "housenumber": "6", 
+      "lat": 51.086840687687705, 
+      "lon": 5.285270157629547, 
       "pcode": 3582, 
-      "street": "Rundstraat", 
-      "lon": 5.285270157629547
+      "street": "Rundstraat"
     }
-  ], 
-  "name": "Rundstraat"
+  ]
 }

@@ -1,32 +1,30 @@
 {
-  "pcode": 3920, 
   "addresses": [
     {
-      "lat": 51.233836134543516, 
       "housenumber": "2", 
+      "lat": 51.233836134543516, 
+      "lon": 5.301219039559233, 
       "pcode": 3920, 
-      "street": "Tuierstraat", 
-      "lon": 5.301219039559233
+      "street": "Tuierstraat"
     }, 
     {
-      "lat": 51.23396559127485, 
       "housenumber": "3", 
+      "lat": 51.23396559127485, 
+      "lon": 5.301114672624199, 
       "pcode": 3920, 
-      "street": "Tuierstraat", 
-      "lon": 5.301114672624199
+      "street": "Tuierstraat"
     }, 
     {
-      "lat": 51.234099439991276, 
       "housenumber": "4", 
+      "lat": 51.234099439991276, 
+      "lon": 5.301160020943235, 
       "pcode": 3920, 
-      "street": "Tuierstraat", 
-      "lon": 5.301160020943235
+      "street": "Tuierstraat"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 3920, 
-      "street": "Tuierstraat", 
-      "housenumber": "7"
+      "street": "Tuierstraat"
     }
-  ], 
-  "name": "Tuierstraat"
+  ]
 }

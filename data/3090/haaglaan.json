@@ -1,60 +1,58 @@
 {
-  "pcode": 3090, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3090, 
-      "street": "Haaglaan", 
-      "housenumber": "1"
+      "street": "Haaglaan"
     }, 
     {
-      "lat": 50.77964815609941, 
       "housenumber": "3", 
+      "lat": 50.77964815609941, 
+      "lon": 4.506542540009353, 
       "pcode": 3090, 
-      "street": "Haaglaan", 
-      "lon": 4.506542540009353
+      "street": "Haaglaan"
     }, 
     {
-      "lat": 50.779917543642235, 
       "housenumber": "4", 
+      "lat": 50.779917543642235, 
+      "lon": 4.506266412355797, 
       "pcode": 3090, 
-      "street": "Haaglaan", 
-      "lon": 4.506266412355797
+      "street": "Haaglaan"
     }, 
     {
-      "lat": 50.77952391251831, 
       "housenumber": "5", 
+      "lat": 50.77952391251831, 
+      "lon": 4.506319420918811, 
       "pcode": 3090, 
-      "street": "Haaglaan", 
-      "lon": 4.506319420918811
+      "street": "Haaglaan"
     }, 
     {
-      "lat": 50.77981910119604, 
       "housenumber": "6", 
+      "lat": 50.77981910119604, 
+      "lon": 4.506042234006804, 
       "pcode": 3090, 
-      "street": "Haaglaan", 
-      "lon": 4.506042234006804
+      "street": "Haaglaan"
     }, 
     {
-      "lat": 50.77940875775521, 
       "housenumber": "7", 
+      "lat": 50.77940875775521, 
+      "lon": 4.506088105800263, 
       "pcode": 3090, 
-      "street": "Haaglaan", 
-      "lon": 4.506088105800263
+      "street": "Haaglaan"
     }, 
     {
-      "lat": 50.779705189603, 
       "housenumber": "8", 
+      "lat": 50.779705189603, 
+      "lon": 4.505823541199958, 
       "pcode": 3090, 
-      "street": "Haaglaan", 
-      "lon": 4.505823541199958
+      "street": "Haaglaan"
     }, 
     {
-      "lat": 50.779280073518045, 
       "housenumber": "9", 
+      "lat": 50.779280073518045, 
+      "lon": 4.505818185269729, 
       "pcode": 3090, 
-      "street": "Haaglaan", 
-      "lon": 4.505818185269729
+      "street": "Haaglaan"
     }
-  ], 
-  "name": "Haaglaan"
+  ]
 }

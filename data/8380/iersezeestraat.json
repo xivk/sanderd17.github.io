@@ -1,40 +1,38 @@
 {
-  "pcode": 8380, 
   "addresses": [
     {
+      "housenumber": "109", 
       "pcode": 8380, 
-      "street": "Ierse-Zeestraat", 
-      "housenumber": "109"
+      "street": "Ierse-Zeestraat"
     }, 
     {
+      "housenumber": "112", 
       "pcode": 8380, 
-      "street": "Ierse-Zeestraat", 
-      "housenumber": "112"
+      "street": "Ierse-Zeestraat"
     }, 
     {
+      "housenumber": "1B", 
       "pcode": 8380, 
-      "street": "Ierse-Zeestraat", 
-      "housenumber": "1B"
+      "street": "Ierse-Zeestraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8380, 
-      "street": "Ierse-Zeestraat", 
-      "housenumber": "2"
+      "street": "Ierse-Zeestraat"
     }, 
     {
-      "lat": 51.32527255815071, 
       "housenumber": "50", 
+      "lat": 51.32527255815071, 
+      "lon": 3.2048206469195764, 
       "pcode": 8380, 
-      "street": "Ierse-Zeestraat", 
-      "lon": 3.2048206469195764
+      "street": "Ierse-Zeestraat"
     }, 
     {
-      "lat": 51.32411380250777, 
       "housenumber": "70", 
+      "lat": 51.32411380250777, 
+      "lon": 3.2030394866181755, 
       "pcode": 8380, 
-      "street": "Ierse-Zeestraat", 
-      "lon": 3.2030394866181755
+      "street": "Ierse-Zeestraat"
     }
-  ], 
-  "name": "Ierse-Zeestraat"
+  ]
 }

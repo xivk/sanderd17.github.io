@@ -1,20 +1,18 @@
 {
-  "pcode": 9860, 
   "addresses": [
     {
-      "lat": 50.94303987614991, 
       "housenumber": "1", 
+      "lat": 50.94303987614991, 
+      "lon": 3.8023661345907582, 
       "pcode": 9860, 
-      "street": "Kouterweg", 
-      "lon": 3.8023661345907582
+      "street": "Kouterweg"
     }, 
     {
-      "lat": 50.94214103711425, 
       "housenumber": "2", 
+      "lat": 50.94214103711425, 
+      "lon": 3.802389637207063, 
       "pcode": 9860, 
-      "street": "Kouterweg", 
-      "lon": 3.802389637207063
+      "street": "Kouterweg"
     }
-  ], 
-  "name": "Kouterweg"
+  ]
 }

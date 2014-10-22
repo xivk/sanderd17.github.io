@@ -1,27 +1,25 @@
 {
-  "pcode": 3800, 
   "addresses": [
     {
-      "lat": 50.80920200662936, 
       "housenumber": "2", 
+      "lat": 50.80920200662936, 
+      "lon": 5.219258538740671, 
       "pcode": 3800, 
-      "street": "Beekkantstraat", 
-      "lon": 5.219258538740671
+      "street": "Beekkantstraat"
     }, 
     {
-      "lat": 50.80780205479873, 
       "housenumber": "6", 
+      "lat": 50.80780205479873, 
+      "lon": 5.21801980678306, 
       "pcode": 3800, 
-      "street": "Beekkantstraat", 
-      "lon": 5.21801980678306
+      "street": "Beekkantstraat"
     }, 
     {
-      "lat": 50.807412944913985, 
       "housenumber": "8", 
+      "lat": 50.807412944913985, 
+      "lon": 5.217773844173135, 
       "pcode": 3800, 
-      "street": "Beekkantstraat", 
-      "lon": 5.217773844173135
+      "street": "Beekkantstraat"
     }
-  ], 
-  "name": "Beekkantstraat"
+  ]
 }

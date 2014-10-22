@@ -1,32 +1,30 @@
 {
-  "pcode": 8450, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 8450, 
-      "street": "Wielewalenstraat", 
-      "housenumber": "11"
+      "street": "Wielewalenstraat"
     }, 
     {
-      "lat": 51.23185483362077, 
       "housenumber": "2", 
+      "lat": 51.23185483362077, 
+      "lon": 2.971958205157512, 
       "pcode": 8450, 
-      "street": "Wielewalenstraat", 
-      "lon": 2.971958205157512
+      "street": "Wielewalenstraat"
     }, 
     {
-      "lat": 51.23192861701643, 
       "housenumber": "3", 
+      "lat": 51.23192861701643, 
+      "lon": 2.9722760292935373, 
       "pcode": 8450, 
-      "street": "Wielewalenstraat", 
-      "lon": 2.9722760292935373
+      "street": "Wielewalenstraat"
     }, 
     {
-      "lat": 51.232324894686535, 
       "housenumber": "8", 
+      "lat": 51.232324894686535, 
+      "lon": 2.971514689364417, 
       "pcode": 8450, 
-      "street": "Wielewalenstraat", 
-      "lon": 2.971514689364417
+      "street": "Wielewalenstraat"
     }
-  ], 
-  "name": "Wielewalenstraat"
+  ]
 }

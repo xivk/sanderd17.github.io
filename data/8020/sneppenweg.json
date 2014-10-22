@@ -1,20 +1,18 @@
 {
-  "pcode": 8020, 
   "addresses": [
     {
-      "lat": 51.09873721636497, 
       "housenumber": "1", 
+      "lat": 51.09873721636497, 
+      "lon": 3.291940395943201, 
       "pcode": 8020, 
-      "street": "Sneppenweg", 
-      "lon": 3.291940395943201
+      "street": "Sneppenweg"
     }, 
     {
-      "lat": 51.09805057815921, 
       "housenumber": "3", 
+      "lat": 51.09805057815921, 
+      "lon": 3.2919402110099907, 
       "pcode": 8020, 
-      "street": "Sneppenweg", 
-      "lon": 3.2919402110099907
+      "street": "Sneppenweg"
     }
-  ], 
-  "name": "Sneppenweg"
+  ]
 }

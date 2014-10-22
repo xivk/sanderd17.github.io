@@ -1,94 +1,94 @@
 {
   "streets": [
     {
-      "latmax": 50.8109905318024, 
+      "b": 50.807961845953635, 
+      "l": 4.05732297906895, 
       "name": "Bevingen", 
-      "lonmin": 4.05732297906895, 
-      "sanName": "bevingen", 
       "numOfAddr": 28, 
-      "lonmax": 4.060576815629394, 
-      "latmin": 50.807961845953635
+      "r": 4.060576815629394, 
+      "sanName": "bevingen", 
+      "t": 50.8109905318024
     }, 
     {
-      "latmax": 50.80518443260511, 
+      "b": 50.800992410723545, 
+      "l": 4.056965660659312, 
       "name": "Brusselseheerweg", 
-      "lonmin": 4.056965660659312, 
-      "sanName": "brusselseheerweg", 
       "numOfAddr": 94, 
-      "lonmax": 4.068080922235641, 
-      "latmin": 50.800992410723545
+      "r": 4.068080922235641, 
+      "sanName": "brusselseheerweg", 
+      "t": 50.80518443260511
     }, 
     {
-      "latmax": 50.802464353935584, 
+      "b": 50.802464353935584, 
+      "l": 4.066793000698804, 
       "name": "Gotestraat", 
-      "lonmin": 4.066793000698804, 
-      "sanName": "gotestraat", 
       "numOfAddr": 1, 
-      "lonmax": 4.066793000698804, 
-      "latmin": 50.802464353935584
+      "r": 4.066793000698804, 
+      "sanName": "gotestraat", 
+      "t": 50.802464353935584
     }, 
     {
-      "latmax": 50.805316816122684, 
+      "b": 50.798124775452465, 
+      "l": 4.05818862900893, 
       "name": "Halsesteenweg", 
-      "lonmin": 4.05818862900893, 
-      "sanName": "halsesteenweg", 
       "numOfAddr": 71, 
-      "lonmax": 4.0658732317651145, 
-      "latmin": 50.798124775452465
+      "r": 4.0658732317651145, 
+      "sanName": "halsesteenweg", 
+      "t": 50.805316816122684
     }, 
     {
-      "latmax": 50.80354225122404, 
+      "b": 50.8031106526422, 
+      "l": 4.059217111164006, 
       "name": "Kantonstraat", 
-      "lonmin": 4.059217111164006, 
-      "sanName": "kantonstraat", 
       "numOfAddr": 13, 
-      "lonmax": 4.061567232722464, 
-      "latmin": 50.8031106526422
+      "r": 4.061567232722464, 
+      "sanName": "kantonstraat", 
+      "t": 50.80354225122404
     }, 
     {
-      "latmax": 50.80191759932535, 
+      "b": 50.80007733505272, 
+      "l": 4.061868022136921, 
       "name": "Oosteikendreef", 
-      "lonmin": 4.061868022136921, 
-      "sanName": "oosteikendreef", 
       "numOfAddr": 9, 
-      "lonmax": 4.063703244770804, 
-      "latmin": 50.80007733505272
+      "r": 4.063703244770804, 
+      "sanName": "oosteikendreef", 
+      "t": 50.80191759932535
     }, 
     {
-      "latmax": 50.80430062009236, 
+      "b": 50.80380842450088, 
+      "l": 4.059257156088381, 
       "name": "Pastorijstraat", 
-      "lonmin": 4.059257156088381, 
+      "numOfAddr": 7, 
+      "r": 4.0608938840521684, 
       "sanName": "pastorijstraat", 
-      "numOfAddr": 7, 
-      "lonmax": 4.0608938840521684, 
-      "latmin": 50.80380842450088
+      "t": 50.80430062009236
     }, 
     {
-      "latmax": 50.80715957953405, 
+      "b": 50.80690102733587, 
+      "l": 4.0593330717480125, 
       "name": "Potaardestraat", 
-      "lonmin": 4.0593330717480125, 
-      "sanName": "potaardestraat", 
       "numOfAddr": 2, 
-      "lonmax": 4.0593638526333455, 
-      "latmin": 50.80690102733587
+      "r": 4.0593638526333455, 
+      "sanName": "potaardestraat", 
+      "t": 50.80715957953405
     }, 
     {
-      "latmax": 50.806761193086416, 
+      "b": 50.80443112754606, 
+      "l": 4.0658538741141665, 
       "name": "Prindaal", 
-      "lonmin": 4.0658538741141665, 
-      "sanName": "prindaal", 
       "numOfAddr": 7, 
-      "lonmax": 4.067858483396715, 
-      "latmin": 50.80443112754606
+      "r": 4.067858483396715, 
+      "sanName": "prindaal", 
+      "t": 50.806761193086416
     }, 
     {
-      "latmax": 50.798879958509325, 
+      "b": 50.79756043433042, 
+      "l": 4.062336238741841, 
       "name": "Windschof", 
-      "lonmin": 4.062336238741841, 
-      "sanName": "windschof", 
       "numOfAddr": 10, 
-      "lonmax": 4.062583279894249, 
-      "latmin": 50.79756043433042
+      "r": 4.062583279894249, 
+      "sanName": "windschof", 
+      "t": 50.798879958509325
     }
   ]
 }

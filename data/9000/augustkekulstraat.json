@@ -1,20 +1,18 @@
 {
-  "pcode": 9000, 
   "addresses": [
     {
-      "lat": 51.02125402976319, 
       "housenumber": "1", 
+      "lat": 51.02125402976319, 
+      "lon": 3.7196796136381107, 
       "pcode": 9000, 
-      "street": "August Kekul\u0082straat", 
-      "lon": 3.7196796136381107
+      "street": "August Kekul\u00e9straat"
     }, 
     {
-      "lat": 51.0212489670535, 
       "housenumber": "3", 
+      "lat": 51.0212489670535, 
+      "lon": 3.719511215617283, 
       "pcode": 9000, 
-      "street": "August Kekul\u0082straat", 
-      "lon": 3.719511215617283
+      "street": "August Kekul\u00e9straat"
     }
-  ], 
-  "name": "August Kekul\u0082straat"
+  ]
 }

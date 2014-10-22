@@ -1,32 +1,30 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.93369547252016, 
       "housenumber": "1", 
+      "lat": 50.93369547252016, 
+      "lon": 5.329407579864751, 
       "pcode": 3500, 
-      "street": "Mouterijstraat", 
-      "lon": 5.329407579864751
+      "street": "Mouterijstraat"
     }, 
     {
-      "lat": 50.93352206376499, 
       "housenumber": "3", 
+      "lat": 50.93352206376499, 
+      "lon": 5.3298019503232545, 
       "pcode": 3500, 
-      "street": "Mouterijstraat", 
-      "lon": 5.3298019503232545
+      "street": "Mouterijstraat"
     }, 
     {
-      "lat": 50.933646806776046, 
       "housenumber": "5", 
+      "lat": 50.933646806776046, 
+      "lon": 5.329960433531632, 
       "pcode": 3500, 
-      "street": "Mouterijstraat", 
-      "lon": 5.329960433531632
+      "street": "Mouterijstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 3500, 
-      "street": "Mouterijstraat", 
-      "housenumber": "8"
+      "street": "Mouterijstraat"
     }
-  ], 
-  "name": "Mouterijstraat"
+  ]
 }

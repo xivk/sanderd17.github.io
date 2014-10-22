@@ -1,23 +1,21 @@
 {
-  "pcode": 3271, 
   "addresses": [
     {
+      "housenumber": "13", 
       "pcode": 3271, 
-      "street": "August Nihoulstraat", 
-      "housenumber": "13"
+      "street": "August Nihoulstraat"
     }, 
     {
+      "housenumber": "15", 
       "pcode": 3271, 
-      "street": "August Nihoulstraat", 
-      "housenumber": "15"
+      "street": "August Nihoulstraat"
     }, 
     {
-      "lat": 50.97929849638568, 
       "housenumber": "17", 
+      "lat": 50.97929849638568, 
+      "lon": 4.975147583517735, 
       "pcode": 3271, 
-      "street": "August Nihoulstraat", 
-      "lon": 4.975147583517735
+      "street": "August Nihoulstraat"
     }
-  ], 
-  "name": "August Nihoulstraat"
+  ]
 }

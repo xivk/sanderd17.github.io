@@ -1,45 +1,43 @@
 {
-  "pcode": 2100, 
   "addresses": [
     {
-      "lat": 51.213405437433494, 
       "housenumber": "106", 
+      "lat": 51.213405437433494, 
+      "lon": 4.457775878728521, 
       "pcode": 2100, 
-      "street": "Collegelaan", 
-      "lon": 4.457775878728521
+      "street": "Collegelaan"
     }, 
     {
-      "lat": 51.2134913611628, 
       "housenumber": "108", 
+      "lat": 51.2134913611628, 
+      "lon": 4.457901551640474, 
       "pcode": 2100, 
-      "street": "Collegelaan", 
-      "lon": 4.457901551640474
+      "street": "Collegelaan"
     }, 
     {
+      "housenumber": "108A", 
       "pcode": 2100, 
-      "street": "Collegelaan", 
-      "housenumber": "108A"
+      "street": "Collegelaan"
     }, 
     {
+      "housenumber": "108_1", 
       "pcode": 2100, 
-      "street": "Collegelaan", 
-      "housenumber": "108_1"
+      "street": "Collegelaan"
     }, 
     {
+      "housenumber": "108_6", 
       "pcode": 2100, 
-      "street": "Collegelaan", 
-      "housenumber": "108_6"
+      "street": "Collegelaan"
     }, 
     {
+      "housenumber": "35", 
       "pcode": 2100, 
-      "street": "Collegelaan", 
-      "housenumber": "35"
+      "street": "Collegelaan"
     }, 
     {
+      "housenumber": "7106", 
       "pcode": 2100, 
-      "street": "Collegelaan", 
-      "housenumber": "7106"
+      "street": "Collegelaan"
     }
-  ], 
-  "name": "Collegelaan"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 1650, 
   "addresses": [
     {
-      "lat": 50.762973994955594, 
       "housenumber": "3", 
+      "lat": 50.762973994955594, 
+      "lon": 4.2957269692780224, 
       "pcode": 1650, 
-      "street": "Zitterbosweg", 
-      "lon": 4.2957269692780224
+      "street": "Zitterbosweg"
     }, 
     {
-      "lat": 50.76292899875128, 
       "housenumber": "5", 
+      "lat": 50.76292899875128, 
+      "lon": 4.295649931382044, 
       "pcode": 1650, 
-      "street": "Zitterbosweg", 
-      "lon": 4.295649931382044
+      "street": "Zitterbosweg"
     }
-  ], 
-  "name": "Zitterbosweg"
+  ]
 }

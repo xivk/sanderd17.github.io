@@ -1,23 +1,21 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 8500, 
-      "street": "Deken Jonckheerestraat", 
-      "housenumber": "2"
+      "street": "Deken Jonckheerestraat"
     }, 
     {
-      "lat": 50.812491010416224, 
       "housenumber": "4", 
+      "lat": 50.812491010416224, 
+      "lon": 3.2584808685124282, 
       "pcode": 8500, 
-      "street": "Deken Jonckheerestraat", 
-      "lon": 3.2584808685124282
+      "street": "Deken Jonckheerestraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8500, 
-      "street": "Deken Jonckheerestraat", 
-      "housenumber": "5"
+      "street": "Deken Jonckheerestraat"
     }
-  ], 
-  "name": "Deken Jonckheerestraat"
+  ]
 }

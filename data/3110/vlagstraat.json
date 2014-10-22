@@ -1,20 +1,18 @@
 {
-  "pcode": 3110, 
   "addresses": [
     {
-      "lat": 50.94831397303276, 
       "housenumber": "1", 
+      "lat": 50.94831397303276, 
+      "lon": 4.719298096815476, 
       "pcode": 3110, 
-      "street": "Vlagstraat", 
-      "lon": 4.719298096815476
+      "street": "Vlagstraat"
     }, 
     {
-      "lat": 50.94836313546625, 
       "housenumber": "3", 
+      "lat": 50.94836313546625, 
+      "lon": 4.719451582653339, 
       "pcode": 3110, 
-      "street": "Vlagstraat", 
-      "lon": 4.719451582653339
+      "street": "Vlagstraat"
     }
-  ], 
-  "name": "Vlagstraat"
+  ]
 }

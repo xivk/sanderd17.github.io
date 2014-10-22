@@ -1,20 +1,18 @@
 {
-  "pcode": 8310, 
   "addresses": [
     {
-      "lat": 51.18836718948351, 
       "housenumber": "6", 
+      "lat": 51.18836718948351, 
+      "lon": 3.2446796746334243, 
       "pcode": 8310, 
-      "street": "Van Mullemstraat", 
-      "lon": 3.2446796746334243
+      "street": "Van Mullemstraat"
     }, 
     {
-      "lat": 51.18829662324122, 
       "housenumber": "8", 
+      "lat": 51.18829662324122, 
+      "lon": 3.244651476378771, 
       "pcode": 8310, 
-      "street": "Van Mullemstraat", 
-      "lon": 3.244651476378771
+      "street": "Van Mullemstraat"
     }
-  ], 
-  "name": "Van Mullemstraat"
+  ]
 }

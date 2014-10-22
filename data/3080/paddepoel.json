@@ -1,20 +1,18 @@
 {
-  "pcode": 3080, 
   "addresses": [
     {
-      "lat": 50.83544769487503, 
       "housenumber": "1", 
+      "lat": 50.83544769487503, 
+      "lon": 4.513044663121886, 
       "pcode": 3080, 
-      "street": "Paddepoel", 
-      "lon": 4.513044663121886
+      "street": "Paddepoel"
     }, 
     {
-      "lat": 50.83557462192471, 
       "housenumber": "3", 
+      "lat": 50.83557462192471, 
+      "lon": 4.5133396215369235, 
       "pcode": 3080, 
-      "street": "Paddepoel", 
-      "lon": 4.5133396215369235
+      "street": "Paddepoel"
     }
-  ], 
-  "name": "Paddepoel"
+  ]
 }

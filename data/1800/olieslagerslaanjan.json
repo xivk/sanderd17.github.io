@@ -1,25 +1,23 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
-      "lat": 50.924405992108255, 
       "housenumber": "35", 
+      "lat": 50.924405992108255, 
+      "lon": 4.434972284619796, 
       "pcode": 1800, 
-      "street": "Olieslagerslaan (Jan)", 
-      "lon": 4.434972284619796
+      "street": "Olieslagerslaan (Jan)"
     }, 
     {
+      "housenumber": "41", 
       "pcode": 1800, 
-      "street": "Olieslagerslaan (Jan)", 
-      "housenumber": "41"
+      "street": "Olieslagerslaan (Jan)"
     }, 
     {
-      "lat": 50.92484218248618, 
       "housenumber": "45", 
+      "lat": 50.92484218248618, 
+      "lon": 4.435550359674143, 
       "pcode": 1800, 
-      "street": "Olieslagerslaan (Jan)", 
-      "lon": 4.435550359674143
+      "street": "Olieslagerslaan (Jan)"
     }
-  ], 
-  "name": "Olieslagerslaan (Jan)"
+  ]
 }

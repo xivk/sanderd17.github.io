@@ -1,18 +1,16 @@
 {
-  "pcode": 2030, 
   "addresses": [
     {
-      "lat": 51.277314318335016, 
       "housenumber": "364", 
+      "lat": 51.277314318335016, 
+      "lon": 4.3561729374127935, 
       "pcode": 2030, 
-      "street": "Graandokkaai", 
-      "lon": 4.3561729374127935
+      "street": "Graandokkaai"
     }, 
     {
+      "housenumber": "368", 
       "pcode": 2030, 
-      "street": "Graandokkaai", 
-      "housenumber": "368"
+      "street": "Graandokkaai"
     }
-  ], 
-  "name": "Graandokkaai"
+  ]
 }

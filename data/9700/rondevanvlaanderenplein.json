@@ -1,48 +1,46 @@
 {
-  "pcode": 9700, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9700, 
-      "street": "Ronde van Vlaanderenplein", 
-      "housenumber": "1"
+      "street": "Ronde van Vlaanderenplein"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 9700, 
-      "street": "Ronde van Vlaanderenplein", 
-      "housenumber": "11"
+      "street": "Ronde van Vlaanderenplein"
     }, 
     {
-      "lat": 50.84158155101319, 
       "housenumber": "13", 
+      "lat": 50.84158155101319, 
+      "lon": 3.6024795184594556, 
       "pcode": 9700, 
-      "street": "Ronde van Vlaanderenplein", 
-      "lon": 3.6024795184594556
+      "street": "Ronde van Vlaanderenplein"
     }, 
     {
+      "housenumber": "15", 
       "pcode": 9700, 
-      "street": "Ronde van Vlaanderenplein", 
-      "housenumber": "15"
+      "street": "Ronde van Vlaanderenplein"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 9700, 
-      "street": "Ronde van Vlaanderenplein", 
-      "housenumber": "3"
+      "street": "Ronde van Vlaanderenplein"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 9700, 
-      "street": "Ronde van Vlaanderenplein", 
-      "housenumber": "5"
+      "street": "Ronde van Vlaanderenplein"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 9700, 
-      "street": "Ronde van Vlaanderenplein", 
-      "housenumber": "7"
+      "street": "Ronde van Vlaanderenplein"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 9700, 
-      "street": "Ronde van Vlaanderenplein", 
-      "housenumber": "9"
+      "street": "Ronde van Vlaanderenplein"
     }
-  ], 
-  "name": "Ronde van Vlaanderenplein"
+  ]
 }

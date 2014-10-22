@@ -1,37 +1,35 @@
 {
-  "pcode": 9200, 
   "addresses": [
     {
-      "lat": 51.03025360705513, 
       "housenumber": "1", 
+      "lat": 51.03025360705513, 
+      "lon": 4.079064876933221, 
       "pcode": 9200, 
-      "street": "Tragelweg", 
-      "lon": 4.079064876933221
+      "street": "Tragelweg"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9200, 
-      "street": "Tragelweg", 
-      "housenumber": "2"
+      "street": "Tragelweg"
     }, 
     {
-      "lat": 51.03019244484974, 
       "housenumber": "3", 
+      "lat": 51.03019244484974, 
+      "lon": 4.07908663707346, 
       "pcode": 9200, 
-      "street": "Tragelweg", 
-      "lon": 4.07908663707346
+      "street": "Tragelweg"
     }, 
     {
-      "lat": 51.02874779621567, 
       "housenumber": "4", 
+      "lat": 51.02874779621567, 
+      "lon": 4.079961380161603, 
       "pcode": 9200, 
-      "street": "Tragelweg", 
-      "lon": 4.079961380161603
+      "street": "Tragelweg"
     }, 
     {
+      "housenumber": "4E", 
       "pcode": 9200, 
-      "street": "Tragelweg", 
-      "housenumber": "4E"
+      "street": "Tragelweg"
     }
-  ], 
-  "name": "Tragelweg"
+  ]
 }

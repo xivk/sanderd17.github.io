@@ -1,32 +1,30 @@
 {
-  "pcode": 2530, 
   "addresses": [
     {
-      "lat": 51.160650456040585, 
       "housenumber": "3", 
+      "lat": 51.160650456040585, 
+      "lon": 4.536082370181049, 
       "pcode": 2530, 
-      "street": "Nieuweweg", 
-      "lon": 4.536082370181049
+      "street": "Nieuweweg"
     }, 
     {
-      "lat": 51.165607314307636, 
       "housenumber": "37", 
+      "lat": 51.165607314307636, 
+      "lon": 4.530623274126998, 
       "pcode": 2530, 
-      "street": "Nieuweweg", 
-      "lon": 4.530623274126998
+      "street": "Nieuweweg"
     }, 
     {
-      "lat": 51.16643429123563, 
       "housenumber": "42", 
+      "lat": 51.16643429123563, 
+      "lon": 4.533837602512752, 
       "pcode": 2530, 
-      "street": "Nieuweweg", 
-      "lon": 4.533837602512752
+      "street": "Nieuweweg"
     }, 
     {
+      "housenumber": "49", 
       "pcode": 2530, 
-      "street": "Nieuweweg", 
-      "housenumber": "49"
+      "street": "Nieuweweg"
     }
-  ], 
-  "name": "Nieuweweg"
+  ]
 }

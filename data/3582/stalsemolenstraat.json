@@ -1,25 +1,23 @@
 {
-  "pcode": 3582, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 3582, 
-      "street": "Stalse Molenstraat", 
-      "housenumber": "11"
+      "street": "Stalse Molenstraat"
     }, 
     {
-      "lat": 51.06353000734147, 
       "housenumber": "20", 
+      "lat": 51.06353000734147, 
+      "lon": 5.244794686126445, 
       "pcode": 3582, 
-      "street": "Stalse Molenstraat", 
-      "lon": 5.244794686126445
+      "street": "Stalse Molenstraat"
     }, 
     {
-      "lat": 51.06342289044779, 
       "housenumber": "9", 
+      "lat": 51.06342289044779, 
+      "lon": 5.2409391219219605, 
       "pcode": 3582, 
-      "street": "Stalse Molenstraat", 
-      "lon": 5.2409391219219605
+      "street": "Stalse Molenstraat"
     }
-  ], 
-  "name": "Stalse Molenstraat"
+  ]
 }

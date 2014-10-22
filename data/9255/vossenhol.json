@@ -1,20 +1,18 @@
 {
-  "pcode": 9255, 
   "addresses": [
     {
-      "lat": 51.03352718878406, 
       "housenumber": "1", 
+      "lat": 51.03352718878406, 
+      "lon": 4.237055075967029, 
       "pcode": 9255, 
-      "street": "Vossenhol", 
-      "lon": 4.237055075967029
+      "street": "Vossenhol"
     }, 
     {
-      "lat": 51.03341778651685, 
       "housenumber": "2", 
+      "lat": 51.03341778651685, 
+      "lon": 4.237616497615091, 
       "pcode": 9255, 
-      "street": "Vossenhol", 
-      "lon": 4.237616497615091
+      "street": "Vossenhol"
     }
-  ], 
-  "name": "Vossenhol"
+  ]
 }

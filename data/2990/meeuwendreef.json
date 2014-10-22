@@ -1,39 +1,37 @@
 {
-  "pcode": 2990, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 2990, 
-      "street": "Meeuwendreef", 
-      "housenumber": "10"
+      "street": "Meeuwendreef"
     }, 
     {
-      "lat": 51.37905853695026, 
       "housenumber": "12", 
+      "lat": 51.37905853695026, 
+      "lon": 4.524113445085382, 
       "pcode": 2990, 
-      "street": "Meeuwendreef", 
-      "lon": 4.524113445085382
+      "street": "Meeuwendreef"
     }, 
     {
-      "lat": 51.379285006115374, 
       "housenumber": "14", 
+      "lat": 51.379285006115374, 
+      "lon": 4.524199803775816, 
       "pcode": 2990, 
-      "street": "Meeuwendreef", 
-      "lon": 4.524199803775816
+      "street": "Meeuwendreef"
     }, 
     {
-      "lat": 51.37873351658575, 
       "housenumber": "15", 
+      "lat": 51.37873351658575, 
+      "lon": 4.523581823947501, 
       "pcode": 2990, 
-      "street": "Meeuwendreef", 
-      "lon": 4.523581823947501
+      "street": "Meeuwendreef"
     }, 
     {
-      "lat": 51.379602851713656, 
       "housenumber": "7", 
+      "lat": 51.379602851713656, 
+      "lon": 4.524445029176924, 
       "pcode": 2990, 
-      "street": "Meeuwendreef", 
-      "lon": 4.524445029176924
+      "street": "Meeuwendreef"
     }
-  ], 
-  "name": "Meeuwendreef"
+  ]
 }

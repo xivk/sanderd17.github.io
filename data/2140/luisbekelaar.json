@@ -1,20 +1,18 @@
 {
-  "pcode": 2140, 
   "addresses": [
     {
-      "lat": 51.20520384541224, 
       "housenumber": "1", 
+      "lat": 51.20520384541224, 
+      "lon": 4.445861321009227, 
       "pcode": 2140, 
-      "street": "Luisbekelaar", 
-      "lon": 4.445861321009227
+      "street": "Luisbekelaar"
     }, 
     {
-      "lat": 51.20509978609251, 
       "housenumber": "3", 
+      "lat": 51.20509978609251, 
+      "lon": 4.4448581258653785, 
       "pcode": 2140, 
-      "street": "Luisbekelaar", 
-      "lon": 4.4448581258653785
+      "street": "Luisbekelaar"
     }
-  ], 
-  "name": "Luisbekelaar"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 8880, 
   "addresses": [
     {
-      "lat": 50.86815421881711, 
       "housenumber": "1", 
+      "lat": 50.86815421881711, 
+      "lon": 3.133580123830132, 
       "pcode": 8880, 
-      "street": "Vlasbloemstraat", 
-      "lon": 3.133580123830132
+      "street": "Vlasbloemstraat"
     }, 
     {
-      "lat": 50.867440376435184, 
       "housenumber": "2", 
+      "lat": 50.867440376435184, 
+      "lon": 3.132907113622838, 
       "pcode": 8880, 
-      "street": "Vlasbloemstraat", 
-      "lon": 3.132907113622838
+      "street": "Vlasbloemstraat"
     }, 
     {
-      "lat": 50.86742862147594, 
       "housenumber": "4", 
+      "lat": 50.86742862147594, 
+      "lon": 3.132738494685405, 
       "pcode": 8880, 
-      "street": "Vlasbloemstraat", 
-      "lon": 3.132738494685405
+      "street": "Vlasbloemstraat"
     }
-  ], 
-  "name": "Vlasbloemstraat"
+  ]
 }

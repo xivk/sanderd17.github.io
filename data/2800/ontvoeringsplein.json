@@ -1,92 +1,90 @@
 {
-  "pcode": 2800, 
   "addresses": [
     {
-      "lat": 51.02982944938116, 
       "housenumber": "1", 
-      "pcode": 2800, 
-      "street": "Ontvoeringsplein", 
-      "lon": 4.489087921671204
-    }, 
-    {
-      "pcode": 2800, 
-      "street": "Ontvoeringsplein", 
-      "housenumber": "10"
-    }, 
-    {
-      "lat": 51.03059989762385, 
-      "housenumber": "11", 
-      "pcode": 2800, 
-      "street": "Ontvoeringsplein", 
-      "lon": 4.48935063935072
-    }, 
-    {
-      "lat": 51.02991678977866, 
-      "housenumber": "12", 
-      "pcode": 2800, 
-      "street": "Ontvoeringsplein", 
-      "lon": 4.489643376347378
-    }, 
-    {
       "lat": 51.02982944938116, 
+      "lon": 4.489087921671204, 
+      "pcode": 2800, 
+      "street": "Ontvoeringsplein"
+    }, 
+    {
+      "housenumber": "10", 
+      "pcode": 2800, 
+      "street": "Ontvoeringsplein"
+    }, 
+    {
+      "housenumber": "11", 
+      "lat": 51.03059989762385, 
+      "lon": 4.48935063935072, 
+      "pcode": 2800, 
+      "street": "Ontvoeringsplein"
+    }, 
+    {
+      "housenumber": "12", 
+      "lat": 51.02991678977866, 
+      "lon": 4.489643376347378, 
+      "pcode": 2800, 
+      "street": "Ontvoeringsplein"
+    }, 
+    {
       "housenumber": "2", 
+      "lat": 51.02982944938116, 
+      "lon": 4.489087921671204, 
       "pcode": 2800, 
-      "street": "Ontvoeringsplein", 
-      "lon": 4.489087921671204
+      "street": "Ontvoeringsplein"
     }, 
     {
+      "housenumber": "202", 
       "pcode": 2800, 
-      "street": "Ontvoeringsplein", 
-      "housenumber": "202"
+      "street": "Ontvoeringsplein"
     }, 
     {
-      "lat": 51.0300174627231, 
       "housenumber": "3", 
+      "lat": 51.0300174627231, 
+      "lon": 4.4892112852771024, 
       "pcode": 2800, 
-      "street": "Ontvoeringsplein", 
-      "lon": 4.4892112852771024
+      "street": "Ontvoeringsplein"
     }, 
     {
-      "lat": 51.02983759451018, 
       "housenumber": "4", 
+      "lat": 51.02983759451018, 
+      "lon": 4.4892092518409985, 
       "pcode": 2800, 
-      "street": "Ontvoeringsplein", 
-      "lon": 4.4892092518409985
+      "street": "Ontvoeringsplein"
     }, 
     {
-      "lat": 51.0299626810196, 
       "housenumber": "5", 
+      "lat": 51.0299626810196, 
+      "lon": 4.489161393832359, 
       "pcode": 2800, 
-      "street": "Ontvoeringsplein", 
-      "lon": 4.489161393832359
+      "street": "Ontvoeringsplein"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2800, 
-      "street": "Ontvoeringsplein", 
-      "housenumber": "6"
+      "street": "Ontvoeringsplein"
     }, 
     {
+      "housenumber": "6K", 
       "pcode": 2800, 
-      "street": "Ontvoeringsplein", 
-      "housenumber": "6K"
+      "street": "Ontvoeringsplein"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2800, 
-      "street": "Ontvoeringsplein", 
-      "housenumber": "7"
+      "street": "Ontvoeringsplein"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2800, 
-      "street": "Ontvoeringsplein", 
-      "housenumber": "8"
+      "street": "Ontvoeringsplein"
     }, 
     {
-      "lat": 51.030559172428966, 
       "housenumber": "9", 
+      "lat": 51.030559172428966, 
+      "lon": 4.489268139318021, 
       "pcode": 2800, 
-      "street": "Ontvoeringsplein", 
-      "lon": 4.489268139318021
+      "street": "Ontvoeringsplein"
     }
-  ], 
-  "name": "Ontvoeringsplein"
+  ]
 }

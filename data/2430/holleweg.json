@@ -1,20 +1,18 @@
 {
-  "pcode": 2430, 
   "addresses": [
     {
-      "lat": 51.10492577942381, 
       "housenumber": "1", 
+      "lat": 51.10492577942381, 
+      "lon": 5.020518183159056, 
       "pcode": 2430, 
-      "street": "Holleweg", 
-      "lon": 5.020518183159056
+      "street": "Holleweg"
     }, 
     {
-      "lat": 51.10468707048117, 
       "housenumber": "3", 
+      "lat": 51.10468707048117, 
+      "lon": 5.021809174424651, 
       "pcode": 2430, 
-      "street": "Holleweg", 
-      "lon": 5.021809174424651
+      "street": "Holleweg"
     }
-  ], 
-  "name": "Holleweg"
+  ]
 }

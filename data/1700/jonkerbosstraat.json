@@ -1,25 +1,23 @@
 {
-  "pcode": 1700, 
   "addresses": [
     {
+      "housenumber": "15", 
       "pcode": 1700, 
-      "street": "Jonkerbosstraat", 
-      "housenumber": "15"
+      "street": "Jonkerbosstraat"
     }, 
     {
-      "lat": 50.84967142108187, 
       "housenumber": "17", 
+      "lat": 50.84967142108187, 
+      "lon": 4.24361213244599, 
       "pcode": 1700, 
-      "street": "Jonkerbosstraat", 
-      "lon": 4.24361213244599
+      "street": "Jonkerbosstraat"
     }, 
     {
-      "lat": 50.84629279527163, 
       "housenumber": "5", 
+      "lat": 50.84629279527163, 
+      "lon": 4.242009038220279, 
       "pcode": 1700, 
-      "street": "Jonkerbosstraat", 
-      "lon": 4.242009038220279
+      "street": "Jonkerbosstraat"
     }
-  ], 
-  "name": "Jonkerbosstraat"
+  ]
 }

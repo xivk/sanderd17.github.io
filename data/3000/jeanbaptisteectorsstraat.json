@@ -1,20 +1,18 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
-      "lat": 50.878789838976864, 
       "housenumber": "2", 
+      "lat": 50.878789838976864, 
+      "lon": 4.680338600866071, 
       "pcode": 3000, 
-      "street": "Jean-Baptiste Ectorsstraat", 
-      "lon": 4.680338600866071
+      "street": "Jean-Baptiste Ectorsstraat"
     }, 
     {
-      "lat": 50.87899340564837, 
       "housenumber": "4", 
+      "lat": 50.87899340564837, 
+      "lon": 4.6802544145961935, 
       "pcode": 3000, 
-      "street": "Jean-Baptiste Ectorsstraat", 
-      "lon": 4.6802544145961935
+      "street": "Jean-Baptiste Ectorsstraat"
     }
-  ], 
-  "name": "Jean-Baptiste Ectorsstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 2440, 
   "addresses": [
     {
-      "lat": 51.12051225796894, 
       "housenumber": "1", 
+      "lat": 51.12051225796894, 
+      "lon": 4.956522023772797, 
       "pcode": 2440, 
-      "street": "Verdonckstraat", 
-      "lon": 4.956522023772797
+      "street": "Verdonckstraat"
     }, 
     {
-      "lat": 51.12215827396383, 
       "housenumber": "3", 
+      "lat": 51.12215827396383, 
+      "lon": 4.956351925457727, 
       "pcode": 2440, 
-      "street": "Verdonckstraat", 
-      "lon": 4.956351925457727
+      "street": "Verdonckstraat"
     }
-  ], 
-  "name": "Verdonckstraat"
+  ]
 }

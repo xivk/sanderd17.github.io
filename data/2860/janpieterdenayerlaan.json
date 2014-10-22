@@ -1,25 +1,23 @@
 {
-  "pcode": 2860, 
   "addresses": [
     {
-      "lat": 51.06739101860067, 
       "housenumber": "5", 
+      "lat": 51.06739101860067, 
+      "lon": 4.501242424960577, 
       "pcode": 2860, 
-      "street": "Jan Pieter de Nayerlaan", 
-      "lon": 4.501242424960577
+      "street": "Jan Pieter de Nayerlaan"
     }, 
     {
+      "housenumber": "7", 
       "pcode": 2860, 
-      "street": "Jan Pieter de Nayerlaan", 
-      "housenumber": "7"
+      "street": "Jan Pieter de Nayerlaan"
     }, 
     {
-      "lat": 51.06790360642812, 
       "housenumber": "9", 
+      "lat": 51.06790360642812, 
+      "lon": 4.498717145714328, 
       "pcode": 2860, 
-      "street": "Jan Pieter de Nayerlaan", 
-      "lon": 4.498717145714328
+      "street": "Jan Pieter de Nayerlaan"
     }
-  ], 
-  "name": "Jan Pieter de Nayerlaan"
+  ]
 }

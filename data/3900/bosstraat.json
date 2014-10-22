@@ -1,20 +1,18 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
-      "lat": 51.1935445055714, 
       "housenumber": "11", 
+      "lat": 51.1935445055714, 
+      "lon": 5.369886979048971, 
       "pcode": 3900, 
-      "street": "Bosstraat", 
-      "lon": 5.369886979048971
+      "street": "Bosstraat"
     }, 
     {
-      "lat": 51.19332235628191, 
       "housenumber": "9", 
+      "lat": 51.19332235628191, 
+      "lon": 5.369900377422327, 
       "pcode": 3900, 
-      "street": "Bosstraat", 
-      "lon": 5.369900377422327
+      "street": "Bosstraat"
     }
-  ], 
-  "name": "Bosstraat"
+  ]
 }

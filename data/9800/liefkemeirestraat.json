@@ -1,27 +1,25 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 50.977154020357716, 
       "housenumber": "1", 
+      "lat": 50.977154020357716, 
+      "lon": 3.528325693365133, 
       "pcode": 9800, 
-      "street": "Liefkemeirestraat", 
-      "lon": 3.528325693365133
+      "street": "Liefkemeirestraat"
     }, 
     {
-      "lat": 50.97723937020191, 
       "housenumber": "2", 
+      "lat": 50.97723937020191, 
+      "lon": 3.5285827588882435, 
       "pcode": 9800, 
-      "street": "Liefkemeirestraat", 
-      "lon": 3.5285827588882435
+      "street": "Liefkemeirestraat"
     }, 
     {
-      "lat": 50.977086325992175, 
       "housenumber": "5", 
+      "lat": 50.977086325992175, 
+      "lon": 3.52847656577591, 
       "pcode": 9800, 
-      "street": "Liefkemeirestraat", 
-      "lon": 3.52847656577591
+      "street": "Liefkemeirestraat"
     }
-  ], 
-  "name": "Liefkemeirestraat"
+  ]
 }

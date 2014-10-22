@@ -1,18 +1,16 @@
 {
-  "pcode": 9880, 
   "addresses": [
     {
+      "housenumber": "7", 
       "pcode": 9880, 
-      "street": "Cromekestraat", 
-      "housenumber": "7"
+      "street": "Cromekestraat"
     }, 
     {
-      "lat": 51.06639485241954, 
       "housenumber": "8", 
+      "lat": 51.06639485241954, 
+      "lon": 3.5073084305188154, 
       "pcode": 9880, 
-      "street": "Cromekestraat", 
-      "lon": 3.5073084305188154
+      "street": "Cromekestraat"
     }
-  ], 
-  "name": "Cromekestraat"
+  ]
 }

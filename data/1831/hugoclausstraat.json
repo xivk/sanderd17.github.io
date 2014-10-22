@@ -1,52 +1,50 @@
 {
-  "pcode": 1831, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 1831, 
-      "street": "Hugo Clausstraat", 
-      "housenumber": "1"
+      "street": "Hugo Clausstraat"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 1831, 
-      "street": "Hugo Clausstraat", 
-      "housenumber": "10"
+      "street": "Hugo Clausstraat"
     }, 
     {
+      "housenumber": "11", 
       "pcode": 1831, 
-      "street": "Hugo Clausstraat", 
-      "housenumber": "11"
+      "street": "Hugo Clausstraat"
     }, 
     {
-      "lat": 50.88599268845509, 
       "housenumber": "2", 
+      "lat": 50.88599268845509, 
+      "lon": 4.432798953404497, 
       "pcode": 1831, 
-      "street": "Hugo Clausstraat", 
-      "lon": 4.432798953404497
+      "street": "Hugo Clausstraat"
     }, 
     {
-      "lat": 50.885977373107835, 
       "housenumber": "3", 
+      "lat": 50.885977373107835, 
+      "lon": 4.432696327327512, 
       "pcode": 1831, 
-      "street": "Hugo Clausstraat", 
-      "lon": 4.432696327327512
+      "street": "Hugo Clausstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 1831, 
-      "street": "Hugo Clausstraat", 
-      "housenumber": "4"
+      "street": "Hugo Clausstraat"
     }, 
     {
-      "lat": 50.885928218813795, 
       "housenumber": "5", 
+      "lat": 50.885928218813795, 
+      "lon": 4.432500429356923, 
       "pcode": 1831, 
-      "street": "Hugo Clausstraat", 
-      "lon": 4.432500429356923
+      "street": "Hugo Clausstraat"
     }, 
     {
+      "housenumber": "9", 
       "pcode": 1831, 
-      "street": "Hugo Clausstraat", 
-      "housenumber": "9"
+      "street": "Hugo Clausstraat"
     }
-  ], 
-  "name": "Hugo Clausstraat"
+  ]
 }

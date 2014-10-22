@@ -1,51 +1,49 @@
 {
-  "pcode": 1800, 
   "addresses": [
     {
-      "lat": 50.9312780308903, 
       "housenumber": "1", 
+      "lat": 50.9312780308903, 
+      "lon": 4.4433174693365105, 
       "pcode": 1800, 
-      "street": "Lavendelveld", 
-      "lon": 4.4433174693365105
+      "street": "Lavendelveld"
     }, 
     {
+      "housenumber": "1C", 
       "pcode": 1800, 
-      "street": "Lavendelveld", 
-      "housenumber": "1C"
+      "street": "Lavendelveld"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 1800, 
-      "street": "Lavendelveld", 
-      "housenumber": "2A"
+      "street": "Lavendelveld"
     }, 
     {
-      "lat": 50.9314784967069, 
       "housenumber": "2B", 
+      "lat": 50.9314784967069, 
+      "lon": 4.442463437534365, 
       "pcode": 1800, 
-      "street": "Lavendelveld", 
-      "lon": 4.442463437534365
+      "street": "Lavendelveld"
     }, 
     {
-      "lat": 50.93139769489432, 
       "housenumber": "2C", 
+      "lat": 50.93139769489432, 
+      "lon": 4.442302424976313, 
       "pcode": 1800, 
-      "street": "Lavendelveld", 
-      "lon": 4.442302424976313
+      "street": "Lavendelveld"
     }, 
     {
-      "lat": 50.931437916177686, 
       "housenumber": "2D", 
+      "lat": 50.931437916177686, 
+      "lon": 4.442382717526702, 
       "pcode": 1800, 
-      "street": "Lavendelveld", 
-      "lon": 4.442382717526702
+      "street": "Lavendelveld"
     }, 
     {
-      "lat": 50.931069847808246, 
       "housenumber": "4", 
+      "lat": 50.931069847808246, 
+      "lon": 4.443022111582397, 
       "pcode": 1800, 
-      "street": "Lavendelveld", 
-      "lon": 4.443022111582397
+      "street": "Lavendelveld"
     }
-  ], 
-  "name": "Lavendelveld"
+  ]
 }

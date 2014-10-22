@@ -1,40 +1,38 @@
 {
-  "pcode": 8301, 
   "addresses": [
     {
-      "lat": 51.31644941792999, 
       "housenumber": "1", 
+      "lat": 51.31644941792999, 
+      "lon": 3.2508165415797223, 
       "pcode": 8301, 
-      "street": "De Terp", 
-      "lon": 3.2508165415797223
+      "street": "De Terp"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8301, 
-      "street": "De Terp", 
-      "housenumber": "2"
+      "street": "De Terp"
     }, 
     {
-      "lat": 51.31643772827038, 
       "housenumber": "3", 
+      "lat": 51.31643772827038, 
+      "lon": 3.2507494041016716, 
       "pcode": 8301, 
-      "street": "De Terp", 
-      "lon": 3.2507494041016716
+      "street": "De Terp"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8301, 
-      "street": "De Terp", 
-      "housenumber": "4"
+      "street": "De Terp"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8301, 
-      "street": "De Terp", 
-      "housenumber": "5"
+      "street": "De Terp"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 8301, 
-      "street": "De Terp", 
-      "housenumber": "6"
+      "street": "De Terp"
     }
-  ], 
-  "name": "De Terp"
+  ]
 }

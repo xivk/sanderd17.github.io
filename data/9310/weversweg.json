@@ -1,27 +1,25 @@
 {
-  "pcode": 9310, 
   "addresses": [
     {
-      "lat": 50.9507153893515, 
       "housenumber": "2", 
+      "lat": 50.9507153893515, 
+      "lon": 4.093753164771163, 
       "pcode": 9310, 
-      "street": "Weversweg", 
-      "lon": 4.093753164771163
+      "street": "Weversweg"
     }, 
     {
-      "lat": 50.95068367924705, 
       "housenumber": "4", 
+      "lat": 50.95068367924705, 
+      "lon": 4.093685611085975, 
       "pcode": 9310, 
-      "street": "Weversweg", 
-      "lon": 4.093685611085975
+      "street": "Weversweg"
     }, 
     {
-      "lat": 50.95067017160798, 
       "housenumber": "6", 
+      "lat": 50.95067017160798, 
+      "lon": 4.093521465426482, 
       "pcode": 9310, 
-      "street": "Weversweg", 
-      "lon": 4.093521465426482
+      "street": "Weversweg"
     }
-  ], 
-  "name": "Weversweg"
+  ]
 }

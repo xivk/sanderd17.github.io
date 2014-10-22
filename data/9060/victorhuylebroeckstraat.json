@@ -1,47 +1,45 @@
 {
-  "pcode": 9060, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9060, 
-      "street": "Victor Huylebroeckstraat", 
-      "housenumber": "1"
+      "street": "Victor Huylebroeckstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 9060, 
-      "street": "Victor Huylebroeckstraat", 
-      "housenumber": "2"
+      "street": "Victor Huylebroeckstraat"
     }, 
     {
+      "housenumber": "2A", 
       "pcode": 9060, 
-      "street": "Victor Huylebroeckstraat", 
-      "housenumber": "2A"
+      "street": "Victor Huylebroeckstraat"
     }, 
     {
+      "housenumber": "2B", 
       "pcode": 9060, 
-      "street": "Victor Huylebroeckstraat", 
-      "housenumber": "2B"
+      "street": "Victor Huylebroeckstraat"
     }, 
     {
-      "lat": 51.201872552379946, 
       "housenumber": "3", 
+      "lat": 51.201872552379946, 
+      "lon": 3.8113093374736486, 
       "pcode": 9060, 
-      "street": "Victor Huylebroeckstraat", 
-      "lon": 3.8113093374736486
+      "street": "Victor Huylebroeckstraat"
     }, 
     {
-      "lat": 51.201596217578796, 
       "housenumber": "4", 
+      "lat": 51.201596217578796, 
+      "lon": 3.8112855939727233, 
       "pcode": 9060, 
-      "street": "Victor Huylebroeckstraat", 
-      "lon": 3.8112855939727233
+      "street": "Victor Huylebroeckstraat"
     }, 
     {
-      "lat": 51.201662449145076, 
       "housenumber": "6", 
+      "lat": 51.201662449145076, 
+      "lon": 3.811530468018819, 
       "pcode": 9060, 
-      "street": "Victor Huylebroeckstraat", 
-      "lon": 3.811530468018819
+      "street": "Victor Huylebroeckstraat"
     }
-  ], 
-  "name": "Victor Huylebroeckstraat"
+  ]
 }

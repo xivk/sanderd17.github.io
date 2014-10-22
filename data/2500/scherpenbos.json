@@ -1,27 +1,25 @@
 {
-  "pcode": 2500, 
   "addresses": [
     {
-      "lat": 51.08782896489735, 
       "housenumber": "1", 
+      "lat": 51.08782896489735, 
+      "lon": 4.560408251492618, 
       "pcode": 2500, 
-      "street": "Scherpenbos", 
-      "lon": 4.560408251492618
+      "street": "Scherpenbos"
     }, 
     {
-      "lat": 51.08718727361898, 
       "housenumber": "3", 
+      "lat": 51.08718727361898, 
+      "lon": 4.560779120841528, 
       "pcode": 2500, 
-      "street": "Scherpenbos", 
-      "lon": 4.560779120841528
+      "street": "Scherpenbos"
     }, 
     {
-      "lat": 51.08531881053717, 
       "housenumber": "9", 
+      "lat": 51.08531881053717, 
+      "lon": 4.560085945050081, 
       "pcode": 2500, 
-      "street": "Scherpenbos", 
-      "lon": 4.560085945050081
+      "street": "Scherpenbos"
     }
-  ], 
-  "name": "Scherpenbos"
+  ]
 }

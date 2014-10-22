@@ -1,49 +1,47 @@
 {
-  "pcode": 8700, 
   "addresses": [
     {
-      "lat": 50.98292267146885, 
       "housenumber": "10", 
+      "lat": 50.98292267146885, 
+      "lon": 3.3376480915269378, 
       "pcode": 8700, 
-      "street": "Herderstraat", 
-      "lon": 3.3376480915269378
+      "street": "Herderstraat"
     }, 
     {
+      "housenumber": "10A", 
       "pcode": 8700, 
-      "street": "Herderstraat", 
-      "housenumber": "10A"
+      "street": "Herderstraat"
     }, 
     {
+      "housenumber": "10B", 
       "pcode": 8700, 
-      "street": "Herderstraat", 
-      "housenumber": "10B"
+      "street": "Herderstraat"
     }, 
     {
-      "lat": 50.98221846140896, 
       "housenumber": "3", 
+      "lat": 50.98221846140896, 
+      "lon": 3.3380253146968104, 
       "pcode": 8700, 
-      "street": "Herderstraat", 
-      "lon": 3.3380253146968104
+      "street": "Herderstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 8700, 
-      "street": "Herderstraat", 
-      "housenumber": "4"
+      "street": "Herderstraat"
     }, 
     {
-      "lat": 50.98185720433884, 
       "housenumber": "6", 
+      "lat": 50.98185720433884, 
+      "lon": 3.334311482213194, 
       "pcode": 8700, 
-      "street": "Herderstraat", 
-      "lon": 3.334311482213194
+      "street": "Herderstraat"
     }, 
     {
-      "lat": 50.98275594320927, 
       "housenumber": "8", 
+      "lat": 50.98275594320927, 
+      "lon": 3.335458500269108, 
       "pcode": 8700, 
-      "street": "Herderstraat", 
-      "lon": 3.335458500269108
+      "street": "Herderstraat"
     }
-  ], 
-  "name": "Herderstraat"
+  ]
 }

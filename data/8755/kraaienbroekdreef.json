@@ -1,20 +1,18 @@
 {
-  "pcode": 8755, 
   "addresses": [
     {
-      "lat": 51.0520369684572, 
       "housenumber": "1", 
+      "lat": 51.0520369684572, 
+      "lon": 3.3997259768729693, 
       "pcode": 8755, 
-      "street": "Kraaienbroekdreef", 
-      "lon": 3.3997259768729693
+      "street": "Kraaienbroekdreef"
     }, 
     {
-      "lat": 51.044391264416696, 
       "housenumber": "1A", 
+      "lat": 51.044391264416696, 
+      "lon": 3.402042200388808, 
       "pcode": 8755, 
-      "street": "Kraaienbroekdreef", 
-      "lon": 3.402042200388808
+      "street": "Kraaienbroekdreef"
     }
-  ], 
-  "name": "Kraaienbroekdreef"
+  ]
 }

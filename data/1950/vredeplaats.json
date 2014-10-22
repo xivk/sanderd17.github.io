@@ -1,20 +1,18 @@
 {
-  "pcode": 1950, 
   "addresses": [
     {
-      "lat": 50.86079701478676, 
       "housenumber": "1", 
+      "lat": 50.86079701478676, 
+      "lon": 4.465730097424713, 
       "pcode": 1950, 
-      "street": "Vredeplaats", 
-      "lon": 4.465730097424713
+      "street": "Vredeplaats"
     }, 
     {
-      "lat": 50.8607447159409, 
       "housenumber": "3", 
+      "lat": 50.8607447159409, 
+      "lon": 4.465706126700297, 
       "pcode": 1950, 
-      "street": "Vredeplaats", 
-      "lon": 4.465706126700297
+      "street": "Vredeplaats"
     }
-  ], 
-  "name": "Vredeplaats"
+  ]
 }

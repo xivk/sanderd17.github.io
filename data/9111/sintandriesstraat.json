@@ -1,44 +1,42 @@
 {
-  "pcode": 9111, 
   "addresses": [
     {
-      "lat": 51.14766844635569, 
       "housenumber": "1", 
+      "lat": 51.14766844635569, 
+      "lon": 4.095318392138073, 
       "pcode": 9111, 
-      "street": "Sint-Andriesstraat", 
-      "lon": 4.095318392138073
+      "street": "Sint-Andriesstraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 9111, 
-      "street": "Sint-Andriesstraat", 
-      "housenumber": "1A"
+      "street": "Sint-Andriesstraat"
     }, 
     {
-      "lat": 51.1468171530824, 
       "housenumber": "2", 
+      "lat": 51.1468171530824, 
+      "lon": 4.095524433331715, 
       "pcode": 9111, 
-      "street": "Sint-Andriesstraat", 
-      "lon": 4.095524433331715
+      "street": "Sint-Andriesstraat"
     }, 
     {
+      "housenumber": "2B", 
       "pcode": 9111, 
-      "street": "Sint-Andriesstraat", 
-      "housenumber": "2B"
+      "street": "Sint-Andriesstraat"
     }, 
     {
-      "lat": 51.14737038637995, 
       "housenumber": "3", 
+      "lat": 51.14737038637995, 
+      "lon": 4.096295053964244, 
       "pcode": 9111, 
-      "street": "Sint-Andriesstraat", 
-      "lon": 4.096295053964244
+      "street": "Sint-Andriesstraat"
     }, 
     {
-      "lat": 51.14684382030212, 
       "housenumber": "4", 
+      "lat": 51.14684382030212, 
+      "lon": 4.095628599680833, 
       "pcode": 9111, 
-      "street": "Sint-Andriesstraat", 
-      "lon": 4.095628599680833
+      "street": "Sint-Andriesstraat"
     }
-  ], 
-  "name": "Sint-Andriesstraat"
+  ]
 }

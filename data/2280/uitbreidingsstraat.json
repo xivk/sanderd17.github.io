@@ -1,23 +1,21 @@
 {
-  "pcode": 2280, 
   "addresses": [
     {
-      "lat": 51.17971146935855, 
       "housenumber": "2", 
+      "lat": 51.17971146935855, 
+      "lon": 4.737428691878705, 
       "pcode": 2280, 
-      "street": "Uitbreidingsstraat", 
-      "lon": 4.737428691878705
+      "street": "Uitbreidingsstraat"
     }, 
     {
+      "housenumber": "25", 
       "pcode": 2280, 
-      "street": "Uitbreidingsstraat", 
-      "housenumber": "25"
+      "street": "Uitbreidingsstraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 2280, 
-      "street": "Uitbreidingsstraat", 
-      "housenumber": "5"
+      "street": "Uitbreidingsstraat"
     }
-  ], 
-  "name": "Uitbreidingsstraat"
+  ]
 }

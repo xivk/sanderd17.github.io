@@ -1,20 +1,18 @@
 {
-  "pcode": 3930, 
   "addresses": [
     {
-      "lat": 51.24918006069303, 
       "housenumber": "3", 
+      "lat": 51.24918006069303, 
+      "lon": 5.508027136956534, 
       "pcode": 3930, 
-      "street": "Watermolenstraat", 
-      "lon": 5.508027136956534
+      "street": "Watermolenstraat"
     }, 
     {
-      "lat": 51.24983171418878, 
       "housenumber": "5", 
+      "lat": 51.24983171418878, 
+      "lon": 5.507446921235888, 
       "pcode": 3930, 
-      "street": "Watermolenstraat", 
-      "lon": 5.507446921235888
+      "street": "Watermolenstraat"
     }
-  ], 
-  "name": "Watermolenstraat"
+  ]
 }

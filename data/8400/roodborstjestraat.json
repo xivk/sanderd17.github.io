@@ -1,30 +1,28 @@
 {
-  "pcode": 8400, 
   "addresses": [
     {
-      "lat": 51.210417290095485, 
       "housenumber": "1", 
+      "lat": 51.210417290095485, 
+      "lon": 2.916467184188675, 
       "pcode": 8400, 
-      "street": "Roodborstjestraat", 
-      "lon": 2.916467184188675
+      "street": "Roodborstjestraat"
     }, 
     {
+      "housenumber": "1A", 
       "pcode": 8400, 
-      "street": "Roodborstjestraat", 
-      "housenumber": "1A"
+      "street": "Roodborstjestraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8400, 
-      "street": "Roodborstjestraat", 
-      "housenumber": "2"
+      "street": "Roodborstjestraat"
     }, 
     {
-      "lat": 51.21030401392525, 
       "housenumber": "6", 
+      "lat": 51.21030401392525, 
+      "lon": 2.9163573531468336, 
       "pcode": 8400, 
-      "street": "Roodborstjestraat", 
-      "lon": 2.9163573531468336
+      "street": "Roodborstjestraat"
     }
-  ], 
-  "name": "Roodborstjestraat"
+  ]
 }

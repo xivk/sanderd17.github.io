@@ -1,20 +1,18 @@
 {
-  "pcode": 9800, 
   "addresses": [
     {
-      "lat": 51.00944160141817, 
       "housenumber": "1", 
+      "lat": 51.00944160141817, 
+      "lon": 3.5625661911297346, 
       "pcode": 9800, 
-      "street": "Kooldreef", 
-      "lon": 3.5625661911297346
+      "street": "Kooldreef"
     }, 
     {
-      "lat": 51.00953953109247, 
       "housenumber": "3", 
+      "lat": 51.00953953109247, 
+      "lon": 3.564043466098028, 
       "pcode": 9800, 
-      "street": "Kooldreef", 
-      "lon": 3.564043466098028
+      "street": "Kooldreef"
     }
-  ], 
-  "name": "Kooldreef"
+  ]
 }

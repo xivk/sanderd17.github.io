@@ -1,53 +1,51 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.219976736150635, 
       "housenumber": "1", 
+      "lat": 51.219976736150635, 
+      "lon": 4.4022786942344085, 
       "pcode": 2000, 
-      "street": "Sint-Pieterstraat", 
-      "lon": 4.4022786942344085
+      "street": "Sint-Pieterstraat"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 2000, 
-      "street": "Sint-Pieterstraat", 
-      "housenumber": "10"
+      "street": "Sint-Pieterstraat"
     }, 
     {
-      "lat": 51.219848432038, 
       "housenumber": "3", 
+      "lat": 51.219848432038, 
+      "lon": 4.402415861347595, 
       "pcode": 2000, 
-      "street": "Sint-Pieterstraat", 
-      "lon": 4.402415861347595
+      "street": "Sint-Pieterstraat"
     }, 
     {
-      "lat": 51.219723095932444, 
       "housenumber": "4", 
+      "lat": 51.219723095932444, 
+      "lon": 4.402546159700025, 
       "pcode": 2000, 
-      "street": "Sint-Pieterstraat", 
-      "lon": 4.402546159700025
+      "street": "Sint-Pieterstraat"
     }, 
     {
-      "lat": 51.21984508155716, 
       "housenumber": "5", 
+      "lat": 51.21984508155716, 
+      "lon": 4.4025010209760245, 
       "pcode": 2000, 
-      "street": "Sint-Pieterstraat", 
-      "lon": 4.4025010209760245
+      "street": "Sint-Pieterstraat"
     }, 
     {
-      "lat": 51.21972822148505, 
       "housenumber": "6", 
+      "lat": 51.21972822148505, 
+      "lon": 4.4025387207716715, 
       "pcode": 2000, 
-      "street": "Sint-Pieterstraat", 
-      "lon": 4.4025387207716715
+      "street": "Sint-Pieterstraat"
     }, 
     {
-      "lat": 51.219777981285645, 
       "housenumber": "8", 
+      "lat": 51.219777981285645, 
+      "lon": 4.402661562565214, 
       "pcode": 2000, 
-      "street": "Sint-Pieterstraat", 
-      "lon": 4.402661562565214
+      "street": "Sint-Pieterstraat"
     }
-  ], 
-  "name": "Sint-Pieterstraat"
+  ]
 }

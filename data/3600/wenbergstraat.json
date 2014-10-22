@@ -1,20 +1,18 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.96996738502227, 
       "housenumber": "1", 
+      "lat": 50.96996738502227, 
+      "lon": 5.494850624240398, 
       "pcode": 3600, 
-      "street": "Wenbergstraat", 
-      "lon": 5.494850624240398
+      "street": "Wenbergstraat"
     }, 
     {
-      "lat": 50.969980620642524, 
       "housenumber": "3", 
+      "lat": 50.969980620642524, 
+      "lon": 5.494473200032281, 
       "pcode": 3600, 
-      "street": "Wenbergstraat", 
-      "lon": 5.494473200032281
+      "street": "Wenbergstraat"
     }
-  ], 
-  "name": "Wenbergstraat"
+  ]
 }

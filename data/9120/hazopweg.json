@@ -1,46 +1,44 @@
 {
-  "pcode": 9120, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 9120, 
-      "street": "Hazopweg", 
-      "housenumber": "1"
+      "street": "Hazopweg"
     }, 
     {
-      "lat": 51.25103236229468, 
       "housenumber": "3", 
+      "lat": 51.25103236229468, 
+      "lon": 4.2434748338742905, 
       "pcode": 9120, 
-      "street": "Hazopweg", 
-      "lon": 4.2434748338742905
+      "street": "Hazopweg"
     }, 
     {
-      "lat": 51.249424887071164, 
       "housenumber": "5", 
+      "lat": 51.249424887071164, 
+      "lon": 4.23480554679255, 
       "pcode": 9120, 
-      "street": "Hazopweg", 
-      "lon": 4.23480554679255
+      "street": "Hazopweg"
     }, 
     {
-      "lat": 51.25303235602432, 
       "housenumber": "6", 
+      "lat": 51.25303235602432, 
+      "lon": 4.228810578180264, 
       "pcode": 9120, 
-      "street": "Hazopweg", 
-      "lon": 4.228810578180264
+      "street": "Hazopweg"
     }, 
     {
-      "lat": 51.24903057386034, 
       "housenumber": "7", 
+      "lat": 51.24903057386034, 
+      "lon": 4.2322788512406175, 
       "pcode": 9120, 
-      "street": "Hazopweg", 
-      "lon": 4.2322788512406175
+      "street": "Hazopweg"
     }, 
     {
-      "lat": 51.251650828716336, 
       "housenumber": "8", 
+      "lat": 51.251650828716336, 
+      "lon": 4.22757106218871, 
       "pcode": 9120, 
-      "street": "Hazopweg", 
-      "lon": 4.22757106218871
+      "street": "Hazopweg"
     }
-  ], 
-  "name": "Hazopweg"
+  ]
 }

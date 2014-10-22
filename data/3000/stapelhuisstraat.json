@@ -1,32 +1,30 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 3000, 
-      "street": "Stapelhuisstraat", 
-      "housenumber": "11"
+      "street": "Stapelhuisstraat"
     }, 
     {
-      "lat": 50.886309873827535, 
       "housenumber": "13", 
+      "lat": 50.886309873827535, 
+      "lon": 4.7051197826185005, 
       "pcode": 3000, 
-      "street": "Stapelhuisstraat", 
-      "lon": 4.7051197826185005
+      "street": "Stapelhuisstraat"
     }, 
     {
-      "lat": 50.88647429366973, 
       "housenumber": "15", 
+      "lat": 50.88647429366973, 
+      "lon": 4.705213053111357, 
       "pcode": 3000, 
-      "street": "Stapelhuisstraat", 
-      "lon": 4.705213053111357
+      "street": "Stapelhuisstraat"
     }, 
     {
-      "lat": 50.88689757364802, 
       "housenumber": "4", 
+      "lat": 50.88689757364802, 
+      "lon": 4.705100266780682, 
       "pcode": 3000, 
-      "street": "Stapelhuisstraat", 
-      "lon": 4.705100266780682
+      "street": "Stapelhuisstraat"
     }
-  ], 
-  "name": "Stapelhuisstraat"
+  ]
 }

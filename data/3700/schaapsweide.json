@@ -1,46 +1,44 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.76915549967383, 
       "housenumber": "1", 
+      "lat": 50.76915549967383, 
+      "lon": 5.461876210952154, 
       "pcode": 3700, 
-      "street": "Schaapsweide", 
-      "lon": 5.461876210952154
+      "street": "Schaapsweide"
     }, 
     {
+      "housenumber": "20", 
       "pcode": 3700, 
-      "street": "Schaapsweide", 
-      "housenumber": "20"
+      "street": "Schaapsweide"
     }, 
     {
-      "lat": 50.76884905629553, 
       "housenumber": "24", 
+      "lat": 50.76884905629553, 
+      "lon": 5.461986480721587, 
       "pcode": 3700, 
-      "street": "Schaapsweide", 
-      "lon": 5.461986480721587
+      "street": "Schaapsweide"
     }, 
     {
-      "lat": 50.76855946368503, 
       "housenumber": "26", 
+      "lat": 50.76855946368503, 
+      "lon": 5.461726971089761, 
       "pcode": 3700, 
-      "street": "Schaapsweide", 
-      "lon": 5.461726971089761
+      "street": "Schaapsweide"
     }, 
     {
-      "lat": 50.76831889318249, 
       "housenumber": "28", 
+      "lat": 50.76831889318249, 
+      "lon": 5.461484198027645, 
       "pcode": 3700, 
-      "street": "Schaapsweide", 
-      "lon": 5.461484198027645
+      "street": "Schaapsweide"
     }, 
     {
-      "lat": 50.768737622489716, 
       "housenumber": "51", 
+      "lat": 50.768737622489716, 
+      "lon": 5.461008772872351, 
       "pcode": 3700, 
-      "street": "Schaapsweide", 
-      "lon": 5.461008772872351
+      "street": "Schaapsweide"
     }
-  ], 
-  "name": "Schaapsweide"
+  ]
 }

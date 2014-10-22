@@ -1,13 +1,11 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
-      "lat": 51.23424493804492, 
       "housenumber": "1", 
+      "lat": 51.23424493804492, 
+      "lon": 3.2278658431705125, 
       "pcode": 8000, 
-      "street": "Ten Bergeweg", 
-      "lon": 3.2278658431705125
+      "street": "Ten Bergeweg"
     }
-  ], 
-  "name": "Ten Bergeweg"
+  ]
 }

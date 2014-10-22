@@ -1,32 +1,30 @@
 {
-  "pcode": 3140, 
   "addresses": [
     {
-      "lat": 50.99896986564669, 
       "housenumber": "2", 
+      "lat": 50.99896986564669, 
+      "lon": 4.653438876649259, 
       "pcode": 3140, 
-      "street": "Vinkendreef", 
-      "lon": 4.653438876649259
+      "street": "Vinkendreef"
     }, 
     {
-      "lat": 50.99881595691194, 
       "housenumber": "5", 
+      "lat": 50.99881595691194, 
+      "lon": 4.651622772827009, 
       "pcode": 3140, 
-      "street": "Vinkendreef", 
-      "lon": 4.651622772827009
+      "street": "Vinkendreef"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 3140, 
-      "street": "Vinkendreef", 
-      "housenumber": "6"
+      "street": "Vinkendreef"
     }, 
     {
-      "lat": 50.998399694996266, 
       "housenumber": "7", 
+      "lat": 50.998399694996266, 
+      "lon": 4.651387910969612, 
       "pcode": 3140, 
-      "street": "Vinkendreef", 
-      "lon": 4.651387910969612
+      "street": "Vinkendreef"
     }
-  ], 
-  "name": "Vinkendreef"
+  ]
 }

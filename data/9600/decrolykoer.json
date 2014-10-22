@@ -1,46 +1,44 @@
 {
-  "pcode": 9600, 
   "addresses": [
     {
+      "housenumber": "2", 
       "pcode": 9600, 
-      "street": "Decrolykoer", 
-      "housenumber": "2"
+      "street": "Decrolykoer"
     }, 
     {
-      "lat": 50.75027468945848, 
       "housenumber": "3", 
+      "lat": 50.75027468945848, 
+      "lon": 3.6016492769575463, 
       "pcode": 9600, 
-      "street": "Decrolykoer", 
-      "lon": 3.6016492769575463
+      "street": "Decrolykoer"
     }, 
     {
-      "lat": 50.750295536775624, 
       "housenumber": "4", 
+      "lat": 50.750295536775624, 
+      "lon": 3.6016065663754104, 
       "pcode": 9600, 
-      "street": "Decrolykoer", 
-      "lon": 3.6016065663754104
+      "street": "Decrolykoer"
     }, 
     {
-      "lat": 50.75031801197628, 
       "housenumber": "5", 
+      "lat": 50.75031801197628, 
+      "lon": 3.6015241503593027, 
       "pcode": 9600, 
-      "street": "Decrolykoer", 
-      "lon": 3.6015241503593027
+      "street": "Decrolykoer"
     }, 
     {
-      "lat": 50.75032961144549, 
       "housenumber": "6", 
+      "lat": 50.75032961144549, 
+      "lon": 3.6014832907083165, 
       "pcode": 9600, 
-      "street": "Decrolykoer", 
-      "lon": 3.6014832907083165
+      "street": "Decrolykoer"
     }, 
     {
-      "lat": 50.75034147686567, 
       "housenumber": "7", 
+      "lat": 50.75034147686567, 
+      "lon": 3.601441859866799, 
       "pcode": 9600, 
-      "street": "Decrolykoer", 
-      "lon": 3.601441859866799
+      "street": "Decrolykoer"
     }
-  ], 
-  "name": "Decrolykoer"
+  ]
 }

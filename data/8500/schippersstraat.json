@@ -1,18 +1,16 @@
 {
-  "pcode": 8500, 
   "addresses": [
     {
-      "lat": 50.82919895389331, 
       "housenumber": "1", 
+      "lat": 50.82919895389331, 
+      "lon": 3.258958936113799, 
       "pcode": 8500, 
-      "street": "Schippersstraat", 
-      "lon": 3.258958936113799
+      "street": "Schippersstraat"
     }, 
     {
+      "housenumber": "2", 
       "pcode": 8500, 
-      "street": "Schippersstraat", 
-      "housenumber": "2"
+      "street": "Schippersstraat"
     }
-  ], 
-  "name": "Schippersstraat"
+  ]
 }

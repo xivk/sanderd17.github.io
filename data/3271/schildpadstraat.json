@@ -1,32 +1,30 @@
 {
-  "pcode": 3271, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3271, 
-      "street": "Schildpadstraat", 
-      "housenumber": "1"
+      "street": "Schildpadstraat"
     }, 
     {
-      "lat": 50.996436361190796, 
       "housenumber": "3", 
+      "lat": 50.996436361190796, 
+      "lon": 4.960589408647465, 
       "pcode": 3271, 
-      "street": "Schildpadstraat", 
-      "lon": 4.960589408647465
+      "street": "Schildpadstraat"
     }, 
     {
-      "lat": 50.99653466590848, 
       "housenumber": "5", 
+      "lat": 50.99653466590848, 
+      "lon": 4.960382956895751, 
       "pcode": 3271, 
-      "street": "Schildpadstraat", 
-      "lon": 4.960382956895751
+      "street": "Schildpadstraat"
     }, 
     {
-      "lat": 50.99669025373351, 
       "housenumber": "7", 
+      "lat": 50.99669025373351, 
+      "lon": 4.960333071095352, 
       "pcode": 3271, 
-      "street": "Schildpadstraat", 
-      "lon": 4.960333071095352
+      "street": "Schildpadstraat"
     }
-  ], 
-  "name": "Schildpadstraat"
+  ]
 }

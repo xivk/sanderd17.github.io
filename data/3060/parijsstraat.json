@@ -1,27 +1,25 @@
 {
-  "pcode": 3060, 
   "addresses": [
     {
-      "lat": 50.86492548341091, 
       "housenumber": "1", 
+      "lat": 50.86492548341091, 
+      "lon": 4.642471942180854, 
       "pcode": 3060, 
-      "street": "Parijsstraat", 
-      "lon": 4.642471942180854
+      "street": "Parijsstraat"
     }, 
     {
-      "lat": 50.86458911443656, 
       "housenumber": "2", 
+      "lat": 50.86458911443656, 
+      "lon": 4.642809473485608, 
       "pcode": 3060, 
-      "street": "Parijsstraat", 
-      "lon": 4.642809473485608
+      "street": "Parijsstraat"
     }, 
     {
-      "lat": 50.86484277461766, 
       "housenumber": "4", 
+      "lat": 50.86484277461766, 
+      "lon": 4.643241791676589, 
       "pcode": 3060, 
-      "street": "Parijsstraat", 
-      "lon": 4.643241791676589
+      "street": "Parijsstraat"
     }
-  ], 
-  "name": "Parijsstraat"
+  ]
 }

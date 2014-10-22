@@ -1,35 +1,33 @@
 {
-  "pcode": 9400, 
   "addresses": [
     {
-      "lat": 50.8360247098996, 
       "housenumber": "2", 
+      "lat": 50.8360247098996, 
+      "lon": 4.019493837844986, 
       "pcode": 9400, 
-      "street": "Armand De Riemaeckerstraat", 
-      "lon": 4.019493837844986
+      "street": "Armand De Riemaeckerstraat"
     }, 
     {
+      "housenumber": "30A", 
       "pcode": 9400, 
-      "street": "Armand De Riemaeckerstraat", 
-      "housenumber": "30A"
+      "street": "Armand De Riemaeckerstraat"
     }, 
     {
+      "housenumber": "30B", 
       "pcode": 9400, 
-      "street": "Armand De Riemaeckerstraat", 
-      "housenumber": "30B"
+      "street": "Armand De Riemaeckerstraat"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 9400, 
-      "street": "Armand De Riemaeckerstraat", 
-      "housenumber": "4"
+      "street": "Armand De Riemaeckerstraat"
     }, 
     {
-      "lat": 50.836033759605904, 
       "housenumber": "6", 
+      "lat": 50.836033759605904, 
+      "lon": 4.019121118642766, 
       "pcode": 9400, 
-      "street": "Armand De Riemaeckerstraat", 
-      "lon": 4.019121118642766
+      "street": "Armand De Riemaeckerstraat"
     }
-  ], 
-  "name": "Armand De Riemaeckerstraat"
+  ]
 }

@@ -1,18 +1,16 @@
 {
-  "pcode": 8420, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 8420, 
-      "street": "Schillerlaan", 
-      "housenumber": "1"
+      "street": "Schillerlaan"
     }, 
     {
-      "lat": 51.27619454813912, 
       "housenumber": "4", 
+      "lat": 51.27619454813912, 
+      "lon": 3.0353831435523024, 
       "pcode": 8420, 
-      "street": "Schillerlaan", 
-      "lon": 3.0353831435523024
+      "street": "Schillerlaan"
     }
-  ], 
-  "name": "Schillerlaan"
+  ]
 }

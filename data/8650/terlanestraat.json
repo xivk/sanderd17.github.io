@@ -1,32 +1,30 @@
 {
-  "pcode": 8650, 
   "addresses": [
     {
-      "lat": 50.99387779887749, 
       "housenumber": "1", 
+      "lat": 50.99387779887749, 
+      "lon": 2.9311293973735175, 
       "pcode": 8650, 
-      "street": "Ter Lanestraat", 
-      "lon": 2.9311293973735175
+      "street": "Ter Lanestraat"
     }, 
     {
-      "lat": 50.99617666751764, 
       "housenumber": "2", 
+      "lat": 50.99617666751764, 
+      "lon": 2.9327212649394636, 
       "pcode": 8650, 
-      "street": "Ter Lanestraat", 
-      "lon": 2.9327212649394636
+      "street": "Ter Lanestraat"
     }, 
     {
-      "lat": 50.997267262890965, 
       "housenumber": "3", 
+      "lat": 50.997267262890965, 
+      "lon": 2.932302311437413, 
       "pcode": 8650, 
-      "street": "Ter Lanestraat", 
-      "lon": 2.932302311437413
+      "street": "Ter Lanestraat"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 8650, 
-      "street": "Ter Lanestraat", 
-      "housenumber": "5"
+      "street": "Ter Lanestraat"
     }
-  ], 
-  "name": "Ter Lanestraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 3700, 
   "addresses": [
     {
-      "lat": 50.787804073347324, 
       "housenumber": "1", 
+      "lat": 50.787804073347324, 
+      "lon": 5.440576889883164, 
       "pcode": 3700, 
-      "street": "Piringerweg", 
-      "lon": 5.440576889883164
+      "street": "Piringerweg"
     }, 
     {
-      "lat": 50.78801633126047, 
       "housenumber": "3", 
+      "lat": 50.78801633126047, 
+      "lon": 5.440685972713263, 
       "pcode": 3700, 
-      "street": "Piringerweg", 
-      "lon": 5.440685972713263
+      "street": "Piringerweg"
     }, 
     {
-      "lat": 50.78788739262974, 
       "housenumber": "5", 
+      "lat": 50.78788739262974, 
+      "lon": 5.440422349312214, 
       "pcode": 3700, 
-      "street": "Piringerweg", 
-      "lon": 5.440422349312214
+      "street": "Piringerweg"
     }
-  ], 
-  "name": "Piringerweg"
+  ]
 }

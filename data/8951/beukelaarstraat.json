@@ -1,25 +1,23 @@
 {
-  "pcode": 8951, 
   "addresses": [
     {
-      "lat": 50.7722018563717, 
       "housenumber": "1", 
+      "lat": 50.7722018563717, 
+      "lon": 2.8125503781434387, 
       "pcode": 8951, 
-      "street": "Beukelaarstraat", 
-      "lon": 2.8125503781434387
+      "street": "Beukelaarstraat"
     }, 
     {
+      "housenumber": "10", 
       "pcode": 8951, 
-      "street": "Beukelaarstraat", 
-      "housenumber": "10"
+      "street": "Beukelaarstraat"
     }, 
     {
-      "lat": 50.77275871467915, 
       "housenumber": "2", 
+      "lat": 50.77275871467915, 
+      "lon": 2.815253431395497, 
       "pcode": 8951, 
-      "street": "Beukelaarstraat", 
-      "lon": 2.815253431395497
+      "street": "Beukelaarstraat"
     }
-  ], 
-  "name": "Beukelaarstraat"
+  ]
 }

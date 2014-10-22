@@ -1,20 +1,18 @@
 {
-  "pcode": 9420, 
   "addresses": [
     {
-      "lat": 50.88222144486353, 
       "housenumber": "2", 
+      "lat": 50.88222144486353, 
+      "lon": 3.925639590962657, 
       "pcode": 9420, 
-      "street": "Lammersweg", 
-      "lon": 3.925639590962657
+      "street": "Lammersweg"
     }, 
     {
-      "lat": 50.882905467481535, 
       "housenumber": "4", 
+      "lat": 50.882905467481535, 
+      "lon": 3.9247594845254956, 
       "pcode": 9420, 
-      "street": "Lammersweg", 
-      "lon": 3.9247594845254956
+      "street": "Lammersweg"
     }
-  ], 
-  "name": "Lammersweg"
+  ]
 }

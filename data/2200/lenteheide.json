@@ -1,20 +1,18 @@
 {
-  "pcode": 2200, 
   "addresses": [
     {
-      "lat": 51.18387791604449, 
       "housenumber": "1", 
+      "lat": 51.18387791604449, 
+      "lon": 4.785163260624673, 
       "pcode": 2200, 
-      "street": "Lenteheide", 
-      "lon": 4.785163260624673
+      "street": "Lenteheide"
     }, 
     {
-      "lat": 51.18303125064714, 
       "housenumber": "2", 
+      "lat": 51.18303125064714, 
+      "lon": 4.797488504630339, 
       "pcode": 2200, 
-      "street": "Lenteheide", 
-      "lon": 4.797488504630339
+      "street": "Lenteheide"
     }
-  ], 
-  "name": "Lenteheide"
+  ]
 }

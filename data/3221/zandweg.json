@@ -1,20 +1,18 @@
 {
-  "pcode": 3221, 
   "addresses": [
     {
-      "lat": 50.949654998360025, 
       "housenumber": "1", 
+      "lat": 50.949654998360025, 
+      "lon": 4.830487890019675, 
       "pcode": 3221, 
-      "street": "Zandweg", 
-      "lon": 4.830487890019675
+      "street": "Zandweg"
     }, 
     {
-      "lat": 50.95342585278345, 
       "housenumber": "3", 
+      "lat": 50.95342585278345, 
+      "lon": 4.83204503977484, 
       "pcode": 3221, 
-      "street": "Zandweg", 
-      "lon": 4.83204503977484
+      "street": "Zandweg"
     }
-  ], 
-  "name": "Zandweg"
+  ]
 }

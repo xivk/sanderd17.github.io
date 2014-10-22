@@ -1,20 +1,18 @@
 {
-  "pcode": 9960, 
   "addresses": [
     {
-      "lat": 51.200546297430535, 
       "housenumber": "3", 
+      "lat": 51.200546297430535, 
+      "lon": 3.769158480185289, 
       "pcode": 9960, 
-      "street": "Heremietstraat", 
-      "lon": 3.769158480185289
+      "street": "Heremietstraat"
     }, 
     {
-      "lat": 51.2002247540831, 
       "housenumber": "9", 
+      "lat": 51.2002247540831, 
+      "lon": 3.7689425605214772, 
       "pcode": 9960, 
-      "street": "Heremietstraat", 
-      "lon": 3.7689425605214772
+      "street": "Heremietstraat"
     }
-  ], 
-  "name": "Heremietstraat"
+  ]
 }

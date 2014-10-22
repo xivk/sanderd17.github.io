@@ -1,39 +1,37 @@
 {
-  "pcode": 8510, 
   "addresses": [
     {
+      "housenumber": "11", 
       "pcode": 8510, 
-      "street": "Laatste Oordje", 
-      "housenumber": "11"
+      "street": "Laatste Oordje"
     }, 
     {
-      "lat": 50.78826230805217, 
       "housenumber": "2", 
+      "lat": 50.78826230805217, 
+      "lon": 3.316110144881438, 
       "pcode": 8510, 
-      "street": "Laatste Oordje", 
-      "lon": 3.316110144881438
+      "street": "Laatste Oordje"
     }, 
     {
-      "lat": 50.788392856034505, 
       "housenumber": "4", 
+      "lat": 50.788392856034505, 
+      "lon": 3.3162208341247985, 
       "pcode": 8510, 
-      "street": "Laatste Oordje", 
-      "lon": 3.3162208341247985
+      "street": "Laatste Oordje"
     }, 
     {
-      "lat": 50.78678537252648, 
       "housenumber": "6", 
+      "lat": 50.78678537252648, 
+      "lon": 3.3221573196358425, 
       "pcode": 8510, 
-      "street": "Laatste Oordje", 
-      "lon": 3.3221573196358425
+      "street": "Laatste Oordje"
     }, 
     {
-      "lat": 50.78442363057887, 
       "housenumber": "8", 
+      "lat": 50.78442363057887, 
+      "lon": 3.326150113648415, 
       "pcode": 8510, 
-      "street": "Laatste Oordje", 
-      "lon": 3.326150113648415
+      "street": "Laatste Oordje"
     }
-  ], 
-  "name": "Laatste Oordje"
+  ]
 }

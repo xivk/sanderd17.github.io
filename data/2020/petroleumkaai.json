@@ -1,25 +1,23 @@
 {
-  "pcode": 2020, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 2020, 
-      "street": "Petroleumkaai", 
-      "housenumber": "10"
+      "street": "Petroleumkaai"
     }, 
     {
-      "lat": 51.19867536872347, 
       "housenumber": "4", 
+      "lat": 51.19867536872347, 
+      "lon": 4.352983747806599, 
       "pcode": 2020, 
-      "street": "Petroleumkaai", 
-      "lon": 4.352983747806599
+      "street": "Petroleumkaai"
     }, 
     {
-      "lat": 51.19725582396697, 
       "housenumber": "7", 
+      "lat": 51.19725582396697, 
+      "lon": 4.349821716421577, 
       "pcode": 2020, 
-      "street": "Petroleumkaai", 
-      "lon": 4.349821716421577
+      "street": "Petroleumkaai"
     }
-  ], 
-  "name": "Petroleumkaai"
+  ]
 }

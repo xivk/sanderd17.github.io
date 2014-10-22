@@ -1,18 +1,16 @@
 {
-  "pcode": 9921, 
   "addresses": [
     {
+      "housenumber": "17", 
       "pcode": 9921, 
-      "street": "Korte Schouwbroekstraat", 
-      "housenumber": "17"
+      "street": "Korte Schouwbroekstraat"
     }, 
     {
-      "lat": 51.08530623166503, 
       "housenumber": "2", 
+      "lat": 51.08530623166503, 
+      "lon": 3.637333424467326, 
       "pcode": 9921, 
-      "street": "Korte Schouwbroekstraat", 
-      "lon": 3.637333424467326
+      "street": "Korte Schouwbroekstraat"
     }
-  ], 
-  "name": "Korte Schouwbroekstraat"
+  ]
 }

@@ -1,20 +1,18 @@
 {
-  "pcode": 8380, 
   "addresses": [
     {
-      "lat": 51.320406873813276, 
       "housenumber": "1", 
+      "lat": 51.320406873813276, 
+      "lon": 3.1823068200907088, 
       "pcode": 8380, 
-      "street": "Kielstraat", 
-      "lon": 3.1823068200907088
+      "street": "Kielstraat"
     }, 
     {
-      "lat": 51.31963549401719, 
       "housenumber": "3", 
+      "lat": 51.31963549401719, 
+      "lon": 3.182655278797066, 
       "pcode": 8380, 
-      "street": "Kielstraat", 
-      "lon": 3.182655278797066
+      "street": "Kielstraat"
     }
-  ], 
-  "name": "Kielstraat"
+  ]
 }

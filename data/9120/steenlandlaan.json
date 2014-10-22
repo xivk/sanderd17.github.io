@@ -1,23 +1,21 @@
 {
-  "pcode": 9120, 
   "addresses": [
     {
+      "housenumber": "1011", 
       "pcode": 9120, 
-      "street": "Steenlandlaan", 
-      "housenumber": "1011"
+      "street": "Steenlandlaan"
     }, 
     {
+      "housenumber": "1101", 
       "pcode": 9120, 
-      "street": "Steenlandlaan", 
-      "housenumber": "1101"
+      "street": "Steenlandlaan"
     }, 
     {
-      "lat": 51.25925962420926, 
       "housenumber": "3", 
+      "lat": 51.25925962420926, 
+      "lon": 4.2612408611785515, 
       "pcode": 9120, 
-      "street": "Steenlandlaan", 
-      "lon": 4.2612408611785515
+      "street": "Steenlandlaan"
     }
-  ], 
-  "name": "Steenlandlaan"
+  ]
 }

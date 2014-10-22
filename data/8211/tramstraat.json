@@ -1,32 +1,30 @@
 {
-  "pcode": 8211, 
   "addresses": [
     {
+      "housenumber": "19", 
       "pcode": 8211, 
-      "street": "Tramstraat", 
-      "housenumber": "19"
+      "street": "Tramstraat"
     }, 
     {
-      "lat": 51.12128291708787, 
       "housenumber": "2", 
+      "lat": 51.12128291708787, 
+      "lon": 3.090053748642302, 
       "pcode": 8211, 
-      "street": "Tramstraat", 
-      "lon": 3.090053748642302
+      "street": "Tramstraat"
     }, 
     {
-      "lat": 51.1212916022801, 
       "housenumber": "4", 
+      "lat": 51.1212916022801, 
+      "lon": 3.0895526829234465, 
       "pcode": 8211, 
-      "street": "Tramstraat", 
-      "lon": 3.0895526829234465
+      "street": "Tramstraat"
     }, 
     {
-      "lat": 51.12098259742329, 
       "housenumber": "5", 
+      "lat": 51.12098259742329, 
+      "lon": 3.088448352390902, 
       "pcode": 8211, 
-      "street": "Tramstraat", 
-      "lon": 3.088448352390902
+      "street": "Tramstraat"
     }
-  ], 
-  "name": "Tramstraat"
+  ]
 }

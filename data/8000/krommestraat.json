@@ -1,46 +1,44 @@
 {
-  "pcode": 8000, 
   "addresses": [
     {
+      "housenumber": "10", 
       "pcode": 8000, 
-      "street": "Krommestraat", 
-      "housenumber": "10"
+      "street": "Krommestraat"
     }, 
     {
-      "lat": 51.22393803461684, 
       "housenumber": "12", 
+      "lat": 51.22393803461684, 
+      "lon": 3.2276984577533994, 
       "pcode": 8000, 
-      "street": "Krommestraat", 
-      "lon": 3.2276984577533994
+      "street": "Krommestraat"
     }, 
     {
-      "lat": 51.22403711134747, 
       "housenumber": "14", 
+      "lat": 51.22403711134747, 
+      "lon": 3.2278303177783405, 
       "pcode": 8000, 
-      "street": "Krommestraat", 
-      "lon": 3.2278303177783405
+      "street": "Krommestraat"
     }, 
     {
-      "lat": 51.22408964892041, 
       "housenumber": "16", 
+      "lat": 51.22408964892041, 
+      "lon": 3.2278809997460427, 
       "pcode": 8000, 
-      "street": "Krommestraat", 
-      "lon": 3.2278809997460427
+      "street": "Krommestraat"
     }, 
     {
-      "lat": 51.22414546004374, 
       "housenumber": "18", 
+      "lat": 51.22414546004374, 
+      "lon": 3.2279635263751834, 
       "pcode": 8000, 
-      "street": "Krommestraat", 
-      "lon": 3.2279635263751834
+      "street": "Krommestraat"
     }, 
     {
-      "lat": 51.22419987484854, 
       "housenumber": "20", 
+      "lat": 51.22419987484854, 
+      "lon": 3.228106357627311, 
       "pcode": 8000, 
-      "street": "Krommestraat", 
-      "lon": 3.228106357627311
+      "street": "Krommestraat"
     }
-  ], 
-  "name": "Krommestraat"
+  ]
 }

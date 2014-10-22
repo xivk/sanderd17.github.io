@@ -1,27 +1,25 @@
 {
-  "pcode": 9051, 
   "addresses": [
     {
-      "lat": 51.0298426522603, 
       "housenumber": "1", 
+      "lat": 51.0298426522603, 
+      "lon": 3.6563034447851783, 
       "pcode": 9051, 
-      "street": "Autoweg-Noord", 
-      "lon": 3.6563034447851783
+      "street": "Autoweg-Noord"
     }, 
     {
-      "lat": 51.029919723694825, 
       "housenumber": "2", 
+      "lat": 51.029919723694825, 
+      "lon": 3.657439866174713, 
       "pcode": 9051, 
-      "street": "Autoweg-Noord", 
-      "lon": 3.657439866174713
+      "street": "Autoweg-Noord"
     }, 
     {
-      "lat": 51.02886404429159, 
       "housenumber": "3", 
+      "lat": 51.02886404429159, 
+      "lon": 3.6590865437705595, 
       "pcode": 9051, 
-      "street": "Autoweg-Noord", 
-      "lon": 3.6590865437705595
+      "street": "Autoweg-Noord"
     }
-  ], 
-  "name": "Autoweg-Noord"
+  ]
 }

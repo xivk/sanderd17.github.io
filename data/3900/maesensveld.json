@@ -1,20 +1,18 @@
 {
-  "pcode": 3900, 
   "addresses": [
     {
-      "lat": 51.21278730534287, 
       "housenumber": "1", 
+      "lat": 51.21278730534287, 
+      "lon": 5.415688641067356, 
       "pcode": 3900, 
-      "street": "Maesensveld", 
-      "lon": 5.415688641067356
+      "street": "Maesensveld"
     }, 
     {
-      "lat": 51.21299777114695, 
       "housenumber": "3", 
+      "lat": 51.21299777114695, 
+      "lon": 5.414640415108174, 
       "pcode": 3900, 
-      "street": "Maesensveld", 
-      "lon": 5.414640415108174
+      "street": "Maesensveld"
     }
-  ], 
-  "name": "Maesensveld"
+  ]
 }

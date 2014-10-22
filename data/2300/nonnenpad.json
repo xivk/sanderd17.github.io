@@ -1,39 +1,37 @@
 {
-  "pcode": 2300, 
   "addresses": [
     {
-      "lat": 51.318599912470525, 
       "housenumber": "1", 
+      "lat": 51.318599912470525, 
+      "lon": 4.95477002431951, 
       "pcode": 2300, 
-      "street": "Nonnenpad", 
-      "lon": 4.95477002431951
+      "street": "Nonnenpad"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 2300, 
-      "street": "Nonnenpad", 
-      "housenumber": "3"
+      "street": "Nonnenpad"
     }, 
     {
-      "lat": 51.31866120669797, 
       "housenumber": "5", 
+      "lat": 51.31866120669797, 
+      "lon": 4.954734937740032, 
       "pcode": 2300, 
-      "street": "Nonnenpad", 
-      "lon": 4.954734937740032
+      "street": "Nonnenpad"
     }, 
     {
-      "lat": 51.318797164237715, 
       "housenumber": "7", 
+      "lat": 51.318797164237715, 
+      "lon": 4.954705812807024, 
       "pcode": 2300, 
-      "street": "Nonnenpad", 
-      "lon": 4.954705812807024
+      "street": "Nonnenpad"
     }, 
     {
-      "lat": 51.31876154909763, 
       "housenumber": "9", 
+      "lat": 51.31876154909763, 
+      "lon": 4.954764603769071, 
       "pcode": 2300, 
-      "street": "Nonnenpad", 
-      "lon": 4.954764603769071
+      "street": "Nonnenpad"
     }
-  ], 
-  "name": "Nonnenpad"
+  ]
 }

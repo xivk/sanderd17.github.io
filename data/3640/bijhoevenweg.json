@@ -1,20 +1,18 @@
 {
-  "pcode": 3640, 
   "addresses": [
     {
-      "lat": 51.15007600087158, 
       "housenumber": "1", 
+      "lat": 51.15007600087158, 
+      "lon": 5.797953252469384, 
       "pcode": 3640, 
-      "street": "Bijhoevenweg", 
-      "lon": 5.797953252469384
+      "street": "Bijhoevenweg"
     }, 
     {
-      "lat": 51.148615487174155, 
       "housenumber": "2", 
+      "lat": 51.148615487174155, 
+      "lon": 5.796783466792522, 
       "pcode": 3640, 
-      "street": "Bijhoevenweg", 
-      "lon": 5.796783466792522
+      "street": "Bijhoevenweg"
     }
-  ], 
-  "name": "Bijhoevenweg"
+  ]
 }

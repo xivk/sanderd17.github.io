@@ -1,27 +1,25 @@
 {
-  "pcode": 2000, 
   "addresses": [
     {
-      "lat": 51.22098449638304, 
       "housenumber": "2", 
+      "lat": 51.22098449638304, 
+      "lon": 4.403558900360242, 
       "pcode": 2000, 
-      "street": "Leeuw van Vlaanderenstraat", 
-      "lon": 4.403558900360242
+      "street": "Leeuw van Vlaanderenstraat"
     }, 
     {
-      "lat": 51.22095060006815, 
       "housenumber": "4", 
+      "lat": 51.22095060006815, 
+      "lon": 4.40359251080121, 
       "pcode": 2000, 
-      "street": "Leeuw van Vlaanderenstraat", 
-      "lon": 4.40359251080121
+      "street": "Leeuw van Vlaanderenstraat"
     }, 
     {
-      "lat": 51.22088867521233, 
       "housenumber": "6", 
+      "lat": 51.22088867521233, 
+      "lon": 4.403575430809578, 
       "pcode": 2000, 
-      "street": "Leeuw van Vlaanderenstraat", 
-      "lon": 4.403575430809578
+      "street": "Leeuw van Vlaanderenstraat"
     }
-  ], 
-  "name": "Leeuw van Vlaanderenstraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 9900, 
   "addresses": [
     {
-      "lat": 51.19327901471527, 
       "housenumber": "1", 
+      "lat": 51.19327901471527, 
+      "lon": 3.5856736238672617, 
       "pcode": 9900, 
-      "street": "Kruiskenstraat", 
-      "lon": 3.5856736238672617
+      "street": "Kruiskenstraat"
     }, 
     {
-      "lat": 51.19332639057356, 
       "housenumber": "3", 
+      "lat": 51.19332639057356, 
+      "lon": 3.585633488940773, 
       "pcode": 9900, 
-      "street": "Kruiskenstraat", 
-      "lon": 3.585633488940773
+      "street": "Kruiskenstraat"
     }, 
     {
-      "lat": 51.19346597954515, 
       "housenumber": "5", 
+      "lat": 51.19346597954515, 
+      "lon": 3.585618415901941, 
       "pcode": 9900, 
-      "street": "Kruiskenstraat", 
-      "lon": 3.585618415901941
+      "street": "Kruiskenstraat"
     }
-  ], 
-  "name": "Kruiskenstraat"
+  ]
 }

@@ -1,27 +1,25 @@
 {
-  "pcode": 3080, 
   "addresses": [
     {
-      "lat": 50.83440906131251, 
       "housenumber": "3", 
+      "lat": 50.83440906131251, 
+      "lon": 4.567874617102861, 
       "pcode": 3080, 
-      "street": "Flosstraat", 
-      "lon": 4.567874617102861
+      "street": "Flosstraat"
     }, 
     {
-      "lat": 50.83416505237835, 
       "housenumber": "4", 
+      "lat": 50.83416505237835, 
+      "lon": 4.569260064569226, 
       "pcode": 3080, 
-      "street": "Flosstraat", 
-      "lon": 4.569260064569226
+      "street": "Flosstraat"
     }, 
     {
-      "lat": 50.831616610893754, 
       "housenumber": "9", 
+      "lat": 50.831616610893754, 
+      "lon": 4.570557214495221, 
       "pcode": 3080, 
-      "street": "Flosstraat", 
-      "lon": 4.570557214495221
+      "street": "Flosstraat"
     }
-  ], 
-  "name": "Flosstraat"
+  ]
 }

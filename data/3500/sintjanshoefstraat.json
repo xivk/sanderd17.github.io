@@ -1,20 +1,18 @@
 {
-  "pcode": 3500, 
   "addresses": [
     {
-      "lat": 50.95377274107445, 
       "housenumber": "1", 
+      "lat": 50.95377274107445, 
+      "lon": 5.342469540864123, 
       "pcode": 3500, 
-      "street": "Sint-Janshoefstraat", 
-      "lon": 5.342469540864123
+      "street": "Sint-Janshoefstraat"
     }, 
     {
-      "lat": 50.953644680518536, 
       "housenumber": "3", 
+      "lat": 50.953644680518536, 
+      "lon": 5.342583163174714, 
       "pcode": 3500, 
-      "street": "Sint-Janshoefstraat", 
-      "lon": 5.342583163174714
+      "street": "Sint-Janshoefstraat"
     }
-  ], 
-  "name": "Sint-Janshoefstraat"
+  ]
 }

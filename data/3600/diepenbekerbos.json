@@ -1,20 +1,18 @@
 {
-  "pcode": 3600, 
   "addresses": [
     {
-      "lat": 50.94435164317733, 
       "housenumber": "1", 
+      "lat": 50.94435164317733, 
+      "lon": 5.443259499854798, 
       "pcode": 3600, 
-      "street": "Diepenbekerbos", 
-      "lon": 5.443259499854798
+      "street": "Diepenbekerbos"
     }, 
     {
-      "lat": 50.94361420864884, 
       "housenumber": "12", 
+      "lat": 50.94361420864884, 
+      "lon": 5.446631083178867, 
       "pcode": 3600, 
-      "street": "Diepenbekerbos", 
-      "lon": 5.446631083178867
+      "street": "Diepenbekerbos"
     }
-  ], 
-  "name": "Diepenbekerbos"
+  ]
 }

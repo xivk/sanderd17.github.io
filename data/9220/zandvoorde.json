@@ -1,20 +1,18 @@
 {
-  "pcode": 9220, 
   "addresses": [
     {
-      "lat": 51.06696423986553, 
       "housenumber": "22", 
+      "lat": 51.06696423986553, 
+      "lon": 4.120061232599861, 
       "pcode": 9220, 
-      "street": "Zandvoorde", 
-      "lon": 4.120061232599861
+      "street": "Zandvoorde"
     }, 
     {
-      "lat": 51.070880974652134, 
       "housenumber": "8", 
+      "lat": 51.070880974652134, 
+      "lon": 4.122414145564855, 
       "pcode": 9220, 
-      "street": "Zandvoorde", 
-      "lon": 4.122414145564855
+      "street": "Zandvoorde"
     }
-  ], 
-  "name": "Zandvoorde"
+  ]
 }

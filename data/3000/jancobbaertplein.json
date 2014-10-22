@@ -1,33 +1,31 @@
 {
-  "pcode": 3000, 
   "addresses": [
     {
+      "housenumber": "1", 
       "pcode": 3000, 
-      "street": "Jan Cobbaertplein", 
-      "housenumber": "1"
+      "street": "Jan Cobbaertplein"
     }, 
     {
-      "lat": 50.87756192242389, 
       "housenumber": "2", 
+      "lat": 50.87756192242389, 
+      "lon": 4.7026956542563045, 
       "pcode": 3000, 
-      "street": "Jan Cobbaertplein", 
-      "lon": 4.7026956542563045
+      "street": "Jan Cobbaertplein"
     }, 
     {
+      "housenumber": "3", 
       "pcode": 3000, 
-      "street": "Jan Cobbaertplein", 
-      "housenumber": "3"
+      "street": "Jan Cobbaertplein"
     }, 
     {
+      "housenumber": "4", 
       "pcode": 3000, 
-      "street": "Jan Cobbaertplein", 
-      "housenumber": "4"
+      "street": "Jan Cobbaertplein"
     }, 
     {
+      "housenumber": "5", 
       "pcode": 3000, 
-      "street": "Jan Cobbaertplein", 
-      "housenumber": "5"
+      "street": "Jan Cobbaertplein"
     }
-  ], 
-  "name": "Jan Cobbaertplein"
+  ]
 }

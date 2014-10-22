@@ -1,30 +1,28 @@
 {
-  "pcode": 2920, 
   "addresses": [
     {
-      "lat": 51.39906157922866, 
       "housenumber": "1", 
+      "lat": 51.39906157922866, 
+      "lon": 4.469366390364767, 
       "pcode": 2920, 
-      "street": "Godfried Hermansstraat", 
-      "lon": 4.469366390364767
+      "street": "Godfried Hermansstraat"
     }, 
     {
-      "lat": 51.399025032187446, 
       "housenumber": "2", 
+      "lat": 51.399025032187446, 
+      "lon": 4.4699578487513545, 
       "pcode": 2920, 
-      "street": "Godfried Hermansstraat", 
-      "lon": 4.4699578487513545
+      "street": "Godfried Hermansstraat"
     }, 
     {
+      "housenumber": "6", 
       "pcode": 2920, 
-      "street": "Godfried Hermansstraat", 
-      "housenumber": "6"
+      "street": "Godfried Hermansstraat"
     }, 
     {
+      "housenumber": "8", 
       "pcode": 2920, 
-      "street": "Godfried Hermansstraat", 
-      "housenumber": "8"
+      "street": "Godfried Hermansstraat"
     }
-  ], 
-  "name": "Godfried Hermansstraat"
+  ]
 }
