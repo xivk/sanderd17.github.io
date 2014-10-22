@@ -1,19 +1,19 @@
 = License =
 
-== Data ==
+# Data
 
 All data in this repository (under the data/ directory) is derived from CRAB data, provided by AGIV under the "Free Open Data License Flanders v1.0", and re-distributed here under the same license.
 
 See https://download.agiv.be/Producten/Detail?id=102&title=CRAB_adresposities for more info.
 
-== Software ==
+# Software
 
 All code in this repository is, unless noted otherwise, available under the new BSD license (license text below). Made available by the following conributors:
 
 * Abelshausen, Ben
 * Deryckere, Sander
 
-'''
+```
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -37,4 +37,4 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-'''
+```
