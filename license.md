@@ -1,5 +1,3 @@
-= License =
-
 # Data
 
 All data in this repository (under the data/ directory) is derived from CRAB data, provided by AGIV under the "Free Open Data License Flanders v1.0", and re-distributed here under the same license.
