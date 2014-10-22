@@ -149,6 +149,7 @@ function finishLoading()
  */
 function getOsmInfo() {
 	finished[streets.length] = false;
+	// TODO use the street filter to reduce the data traffic
 	var query = 
 		'[out:json];'+
 		'area["boundary"="administrative"]["addr:postcode"="' + getPcode() + '"]->.area;'+

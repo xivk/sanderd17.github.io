@@ -10,6 +10,7 @@ All code in this repository is, unless noted otherwise, available under the new 
 
 * Abelshausen, Ben
 * Deryckere, Sander
+* ...
 
 ```
 All rights reserved.
