@@ -348,6 +348,11 @@ function openInJosm(data, streetData, layerName, message)
 	var req = new XMLHttpRequest();
 	req.open("GET", url + encodeURIComponent(str), true);
 	req.send(null);
+	req.onreadystatechange = function()
+	{
+		if (req.readyState == 4 && req.status == 400)
+			testJosmVersion();
+	}
 }
 
 function openStreetInJosm(streetNumber)
@@ -363,6 +368,20 @@ function openStreetInJosm(streetNumber)
 	var req = new XMLHttpRequest();
 	req.open("GET", link, true);
 	req.send(null);
+}
+
+function testJosmVersion() {
+	var req = new XMLHttpRequest();
+	req.open("GET", "http://localhost:8111/version", true);
+	req.send(null);
+	req.onreadystatechange = function()
+	{
+		if (req.readyState != 4)
+			return;
+		var version = JSON.parse(req.responseText).protocolversion;
+		if (version.minor < 6)
+			alert("Your JOSM installation does not yet support load_data requests. Please update JOSM to version 7643 or newer");
+	}
 }
 
 /**
