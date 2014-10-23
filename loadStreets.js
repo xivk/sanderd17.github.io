@@ -65,7 +65,8 @@ function getStreetsFilter()
 // DATA PARSING FUNCTIONS
 function readPcode()
 {
-	if (!getPcode())
+	var pcode = getPcode();
+	if (!pcode))
 		return;
 	document.title = getPcode() + " Addr Import";
 	var req = new XMLHttpRequest();
@@ -74,6 +75,11 @@ function readPcode()
 	{
 		if (req.readyState != 4)
 			return;
+		if (req.status != 200)
+		{
+			alert("The postal code " + pcode + " has not been found. Please correct the postal code and update the page again.");
+			return;
+		}
 		var data = JSON.parse(req.responseText);
 		var re = getStreetsFilter();
 		streets = data.streets.filter(function(street) {
@@ -108,7 +114,7 @@ function readPcode()
 		document.getElementById(tableId).innerHTML = html;
 		updateData();
 	}
-	req.open("GET", "data/" + getPcode() + ".json", true);
+	req.open("GET", "data/" + pcode + ".json", true);
 	req.send(null);
 }
 
