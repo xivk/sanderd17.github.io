@@ -73,7 +73,7 @@ function getTableRow(streetIdx)
 		'<tr id="%n">\n' +
 		'<td id="%n-name" name="%n-name">'+
 			'<a href="#%n-name" ' +
-				'onclick="openStreetInJosm('+i+')">' +
+				'onclick="openStreetInJosm(' + streetIdx + ')">' +
 				street.name +
 			'</a>'+
 		'</td>\n' +
