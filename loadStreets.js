@@ -348,13 +348,13 @@ function openInJosm(data, streetData, layerName, message)
 			lat = (streetData.t + streetData.b) / 2;
 			lon = (streetData.l + streetData.r) / 2 +
 				numOfAddrWoPos * noOverlappingOffset;
-			msg += "Position not found in CRAB. Please map with care."
+			msg = (msg || "") + "Position not found in CRAB. Please map with care."
 			numOfAddrWoPos++;
 		}
 
 		str += "<node id='" + (-i-1) + "' lat='" + lat + "' lon='" + lon + "' version='0' timestamp='" + timeStr + "' uid='1' user=''>";
-		str += "<tag k='addr:housenumber' v='" + addr.housenumber + "'/>";
-		str += "<tag k='addr:street' v='" + addr.street + "'/>";
+		str += "<tag k='addr:housenumber' v='" + addr.housenumber.replace(/'/g, "&apos;") + "'/>";
+		str += "<tag k='addr:street' v='" + addr.street.replace(/'/g, "&apos;") + "'/>";
 		if (msg)
 			str += "<tag k='fixme' v='" + msg + "'/>";
 		str += "</node>\n";
