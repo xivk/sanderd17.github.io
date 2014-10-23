@@ -58,7 +58,7 @@ function loadOsmData()
 function getStreetsFilter()
 {
 	var str = document.getElementById("filterStreetsInput").value;
-	str = str.replace("*", ".*");
+	str = escapeRegExp(str).replace(/\\\*/g, ".*");
 	if (!str.length)
 		str = ".*";
 	return "^" + str + "$";
@@ -263,7 +263,7 @@ function compareData() {
 				str += p1[j] + ".*";
 			return str;
 		}
-		var re = new RegExp("^" + street.name.replace(/([A-Z,a-z]+\.)/g, replacer) + "$");
+		var re = new RegExp("^" + escapeRegExp(street.name).replace(/([A-Z,a-z]+\\\.)/g, replacer) + "$");
 		var osmStreet = osmInfo.filter(function(addr) {
 			return re.test(addr.street);
 		});
@@ -302,7 +302,7 @@ function compareHnr(source, comp) {
 		var match = true;
 		for (var j = 0; j < housenumberList.length; j++)
 		{
-			var re = new RegExp("-?" + housenumberList[j] + "-?");
+			var re = new RegExp("-?" + escapeRegExp(housenumberList[j]) + "-?");
 			// find a housenumber in the comparison list that matches (probably partially)
 			match = match && comp.find( function (addr) {
 				var test = re.test(addr.housenumber);
@@ -409,6 +409,13 @@ function getAddrDistance(addr1, addr2)
 		Math.cos(addr1.lat * Math.PI/180) *
 		Math.cos(addr2.lat * Math.PI/180);
 	return R * 2 * Math.asin(Math.sqrt(a)); // Distance in m
+}
+
+/**
+ * Helper function that escapes all special characters from regex
+ */
+function escapeRegExp(str) {
+	return str.replace(/[\-\[\]\/\{\}\(\)\*\+\?\.\\\^\$\|]/g, "\\$&");
 }
 
 // EXECUTE
