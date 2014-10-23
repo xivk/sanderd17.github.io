@@ -59,14 +59,14 @@ function getStreetsFilter()
 	str = str.replace("*", ".*");
 	if (!str.length)
 		str = ".*";
-	return new RegExp("^" + str + "$", "i");
+	return "^" + str + "$";
 }
 
 // DATA PARSING FUNCTIONS
 function readPcode()
 {
 	var pcode = getPcode();
-	if (!pcode))
+	if (!pcode)
 		return;
 	document.title = getPcode() + " Addr Import";
 	var req = new XMLHttpRequest();
@@ -75,13 +75,8 @@ function readPcode()
 	{
 		if (req.readyState != 4)
 			return;
-		if (req.status != 200)
-		{
-			alert("The postal code " + pcode + " has not been found. Please correct the postal code and update the page again.");
-			return;
-		}
 		var data = JSON.parse(req.responseText);
-		var re = getStreetsFilter();
+		var re = new RegExp(getStreetsFilter(), "i");
 		streets = data.streets.filter(function(street) {
 			return re.test(street.name);
 		});
@@ -182,14 +177,14 @@ function finishLoading()
  */
 function getOsmInfo() {
 	finished[streets.length] = false;
-	// TODO use the street filter to reduce the data traffic
+	var tagSet = '["addr:housenumber"]["addr:street"~"' + getStreetsFilter() + '"]';
 	var query = 
 		'[out:json];'+
 		'area["boundary"="administrative"]["addr:postcode"="' + getPcode() + '"]->.area;'+
 		'('+
-			'node["addr:housenumber"](area.area);'+
-			'way["addr:housenumber"](area.area);'+
-			'relation["addr:housenumber"](area.area);'+
+			'node' + tagSet + '(area.area);'+
+			'way' + tagSet + '(area.area);'+
+			'relation' + tagSet + '(area.area);'+
 		');'+
 		'out center;'
 
@@ -218,6 +213,7 @@ function getOsmInfo() {
 		finished[streets.length] = true;
 		finishLoading();
 	}
+	console.log("Overpass query:\n" + query);
 	req.open("GET", overpassapi + encodeURIComponent(query), true);
 	req.send(null);
 }
