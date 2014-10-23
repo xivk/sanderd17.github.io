@@ -339,7 +339,6 @@ function openInJosm(data, streetData, layerName, message)
 				numOfAddrWoPos * noOverlappingOffset;
 			msg += "Position not found in CRAB. Please map with care."
 			numOfAddrWoPos++;
-			console.log(lat);
 		}
 
 		str += "<node id='" + (-i-1) + "' lat='" + lat + "' lon='" + lon + "' version='0' timestamp='" + timeStr + "' uid='1' user=''>";
