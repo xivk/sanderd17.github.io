@@ -1,27 +1,28 @@
 // vim: tabstop=4:softtabstop=4:shiftwidth=4:noexpandtab
 
 // POLYFILL: browser compatibility
+// Source: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find
 if (!Array.prototype.find) {
-  Array.prototype.find = function(predicate) {
-    if (this == null) {
-      throw new TypeError('Array.prototype.find called on null or undefined');
-    }
-    if (typeof predicate !== 'function') {
-      throw new TypeError('predicate must be a function');
-    }
-    var list = Object(this);
-    var length = list.length >>> 0;
-    var thisArg = arguments[1];
-    var value;
+	Array.prototype.find = function(predicate) {
+		if (this == null) {
+			throw new TypeError('Array.prototype.find called on null or undefined');
+		}
+		if (typeof predicate !== 'function') {
+			throw new TypeError('predicate must be a function');
+		}
+		var list = Object(this);
+		var length = list.length >>> 0;
+		var thisArg = arguments[1];
+		var value;
 
-    for (var i = 0; i < length; i++) {
-      value = list[i];
-      if (predicate.call(thisArg, value, i, list)) {
-        return value;
-      }
-    }
-    return undefined;
-  };
+		for (var i = 0; i < length; i++) {
+			value = list[i];
+			if (predicate.call(thisArg, value, i, list)) {
+				return value;
+			}
+		}
+		return undefined;
+	};
 }
 
 // GLOBAL VARIABLES
@@ -35,7 +36,8 @@ var wrongAddr;
 var streets = {};
 var finished = [];
 
-var tableId = "streetsTable"
+var tableId = "streetsTable";
+var noOverlappingOffset = 0.00002;
 
 // READ URL PARAMETERS
 function getPcode()
@@ -322,6 +324,7 @@ function openInJosm(data, streetData, layerName, message)
 {
 	var timeStr = (new Date()).toISOString();
 	var str = "<osm version='0.6' generator='flanders-addr-import'>\n";
+	var numOfAddrWoPos = 0;
 	for (var i = 0; i < data.length; i++)
 	{
 		var addr = data[i];
@@ -331,16 +334,19 @@ function openInJosm(data, streetData, layerName, message)
 		var msg = message;
 		if (!lat || !lon)
 		{
-			lat = (streetData.latmax + streetData.latmin) / 2;
-			lon = (streetData.lonmax + streetData.lonmin) / 2;
+			lat = (streetData.t + streetData.b) / 2;
+			lon = (streetData.l + streetData.r) / 2 +
+				numOfAddrWoPos * noOverlappingOffset;
 			msg += "Position not found in CRAB. Please map with care."
+			numOfAddrWoPos++;
+			console.log(lat);
 		}
 
 		str += "<node id='" + (-i-1) + "' lat='" + lat + "' lon='" + lon + "' version='0' timestamp='" + timeStr + "' uid='1' user=''>";
 		str += "<tag k='addr:housenumber' v='" + addr.housenumber + "'/>";
 		str += "<tag k='addr:street' v='" + addr.street + "'/>";
-		if (message)
-			str += "<tag k='fixme' v='" + message + "'/>";
+		if (msg)
+			str += "<tag k='fixme' v='" + msg + "'/>";
 		str += "</node>\n";
 	}
 	str += "</osm>\n";
