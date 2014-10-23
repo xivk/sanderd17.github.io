@@ -33,11 +33,56 @@ var osmInfo = [];
 var missingAddr;
 var missingNoPosAddr;
 var wrongAddr;
-var streets = {};
+var streets = [];
 var finished = [];
 
 var tableId = "streetsTable";
 var noOverlappingOffset = 0.00002;
+var tableHeaders = 
+	'<tr>\n' +
+	'<th title="Name of the street">Name</th>\n' +
+	'<th title="Total number of housenumbers">Total</th>\n' +
+	'<th title="Number of regular housenumbers not present in OSM">Missing</th>\n' +
+	'<th title="Housenumbers that don\'t have a position in CRAB, and are not present in OSM">Missing w/o pos</th>\n' +
+	'<th title="Housenumbers in OSM but without match in CRAB">Wrong</th>\n' +
+	'</tr>\n';
+
+// HTML WRITERS
+/**
+ * Makes the html code for a table cell (including links tooltip, ...)
+ */
+function getCellHtml(objName, streetIdx, layerSuffix, msg)
+{
+	var sanName = streets[streetIdx].sanName;
+	if (msg)
+		msg = '"' + msg + '"';
+	return "<a href='#%layerName' title='Load this data in JOSM' onclick='openInJosm(%obj[\"%street\"], streets[%i], \"%layerName\", %msg)' >%num</a>"
+		.replace(/%obj/g, objName)
+		.replace(/%street/g, sanName)
+		.replace(/%i/g, streetIdx)
+		.replace(/%layerName/g, sanName + layerSuffix)
+		.replace(/%msg/g, msg)
+		.replace(/%num/g, window[objName][sanName].length);
+}
+
+function getTableRow(streetIdx)
+{
+	var street = streets[streetIdx];
+	var sanName = street.sanName;
+	return (
+		'<tr id="%n">\n' +
+		'<td id="%n-name" name="%n-name">'+
+			'<a href="#%n-name" ' +
+				'onclick="openStreetInJosm('+i+')">' +
+				street.name +
+			'</a>'+
+		'</td>\n' +
+		'<td id="%n-full" name="%n-full"></td>\n' +
+		'<td id="%n-missing" name="%n-missing"></td>\n' +
+		'<td id="%n-missing-nopos" name="%n-missing-noPos"></td>\n' +
+		'<td id="%n-wrong" name="%n-wrong"></td>\n' +
+		'</tr>\n').replace(/%n/g, street.sanName);
+}
 
 // READ URL PARAMETERS
 function getPcode()
@@ -82,32 +127,11 @@ function readPcode()
 		streets = data.streets.filter(function(street) {
 			return re.test(street.name);
 		});
-		var html = 
-			'<tr>\n' +
-			'<th title="Name of the street">Name</th>\n' +
-			'<th title="Total number of housenumbers">Total</th>\n' +
-			'<th title="Number of regular housenumbers not present in OSM">Missing</th>\n' +
-			'<th title="Housenumbers that don\'t have a position in CRAB, and are not present in OSM">Missing w/o pos</th>\n' +
-			'<th title="Housenumbers in OSM but without match in CRAB">Wrong</th>\n' +
-			'</tr>\n';
+
+		var html = tableHeaders;
 		for (var i = 0; i < streets.length; i++)
-		{
-			var street = streets[i];
-			var sanName = street.sanName;
-			html += (
-				'<tr id="%n">\n' +
-				'<td id="%n-name" name="%n-name">'+
-					'<a href="#%n-name" ' +
-						'onclick="openStreetInJosm('+i+')">' +
-						street.name +
-					'</a>'+
-				'</td>\n' +
-				'<td id="%n-full" name="%n-full"></td>\n' +
-				'<td id="%n-missing" name="%n-missing"></td>\n' +
-				'<td id="%n-missing-nopos" name="%n-missing-noPos"></td>\n' +
-				'<td id="%n-wrong" name="%n-wrong"></td>\n' +
-				'</tr>\n').replace(/%n/g, street.sanName);
-		}
+			html += getTableRow(i);
+
 		document.getElementById(tableId).innerHTML = html;
 		updateData();
 	}
@@ -145,6 +169,7 @@ function getCrabInfo(num) {
 function updateData()
 {
 	crabInfo = {};
+	osmInfo = [];
 	for (var i = 0; i < streets.length; i++)
 	{
 		var sanName = streets[i].sanName;
@@ -220,22 +245,7 @@ function getOsmInfo() {
 	req.send(null);
 }
 
-/**
- * Makes the html code for a table cell (including links tooltip, ...)
- */
-function getCellHtml(objName, streetIdx, layerSuffix, msg)
-{
-	var sanName = streets[streetIdx].sanName;
-	if (msg)
-		msg = '"' + msg + '"';
-	return "<a href='#%layerName' title='Load this data in JOSM' onclick='openInJosm(%obj[\"%street\"], streets[%i], \"%layerName\", %msg)' >%num</a>"
-		.replace(/%obj/g, objName)
-		.replace(/%street/g, sanName)
-		.replace(/%i/g, streetIdx)
-		.replace(/%layerName/g, sanName + layerSuffix)
-		.replace(/%msg/g, msg)
-		.replace(/%num/g, window[objName][sanName].length);
-}
+
 /**
  * This function assumes all crab data and the osm data is loaded
  */
@@ -320,6 +330,7 @@ function compareHnr(source, comp) {
 	return diffList;
 }
 
+// REMOTECONTROL BINDINGS
 function openInJosm(data, streetData, layerName, message)
 {
 	var timeStr = (new Date()).toISOString();
@@ -391,6 +402,7 @@ function testJosmVersion() {
 	}
 }
 
+// HELPER FUNCTIONS
 /**
  * Calculate the distance between two address objects
  * @returns -1 if one of the addresses is either missing lat or lon
@@ -418,6 +430,19 @@ function escapeRegExp(str) {
 	return str.replace(/[\-\[\]\/\{\}\(\)\*\+\?\.\\\^\$\|]/g, "\\$&");
 }
 
+function gotoPermalink() {
+	var url = window.location.pathname + "?";
+	var ids = ["pcode", "filterStreets", "maxDistance"]
+	for (var i = 0; i < ids.length; i++)
+	{
+		var obj = document.getElementById(ids[i] + "Input");
+		url += ids[i] + "=" + encodeURIComponent(obj.value) + "&";
+	}
+	url += "loadOsm=" + document.getElementById("loadOsmInput").checked;
+	url += window.location.hash;
+	window.location.href = url;
+}
+
 // EXECUTE
 
 // Read the URL query to set stuff
@@ -434,7 +459,7 @@ for (var i = 0; i < vars.length; i++)
 	else if (kv[1] == "false")
 		document.getElementById(kv[0]).checked = false;
 	else
-		document.getElementById(kv[0]).value = kv[1];
+		document.getElementById(kv[0]).value = decodeURIComponent(kv[1]);
 }
 
 readPcode();
